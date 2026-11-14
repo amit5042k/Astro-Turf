@@ -1,18 +1,18 @@
 Rohini	2874	7707	769	860000
 Rohtak	2889	7659	719	374292
 Rourkela	2222	8486	272	273317
-Rourkera	2222	8486	272	273317
-Rourella	2222	8486	272	273317
-Roukela	2222	8486	272	273317
+Rourkera	2222	8486	272	273317	Rourkela
+Rourella	2222	8486	272	273317	Rourkela
+Roukela	2222	8486	272	273317	Rourkela
 Robertsonpet	1296	7828	47	162230
 Roha	1844	7312	17	90000
-Roha-Kolaba	1844	7312	17	90000
+Roha-Kolaba	1844	7312	17	90000	Roha
 Roshanpura	2860	7699	763	57217
 Ropar	3097	7653	735	56038
 Ābu Road	2448	7278	23	55599
-Bhadrachellam Road	1767	8089	60	50087
+Bhadrachellam Road	1767	8089	60	50087	Bhadrāchalam
 Dehu Road	1868	7373	52	48961
-Wadgaon Road	2038	7811	67	40884
+Wadgaon Road	2038	7811	67	40884	Vadgaon
 Robertsganj	2469	8307	103	37855
 Barpeta Road	2650	9097	358	35571
 Rosera	2575	8603	138	31155
@@ -20,40 +20,40 @@ Ron	1570	7573	606	23311
 French Rocks	1250	7667	94	20399
 Khariar Road	2090	8251	594	18967
 Merta Road	2672	7392	430	16905
-Janakpur Road	2647	8570	582	15129
-Sojat Road	2589	7374	273	12472
+Janakpur Road	2647	8570	582	15129	Pupri
+Sojat Road	2589	7374	273	12472	Siāt
 Roing	2814	9584	434	11389
-Rongphu	2718	8853	739	10450
+Rongphu	2718	8853	739	10450	Rangpo
 Roha	2320	6927	108	8664
-Sibságar Road	2692	9476	520	8286
+Sibságar Road	2692	9476	520	8286	Simaluguri
 Rohru	3120	7775	479	8160
 Rosera	2294	7921	522	6770
 Khambra on Nakodar Road	3127	7556	369	5483
 Ror	2457	8141	516	119
-Virul-Ronghe	2084	7808	133	0
+Virul-Ronghe	2084	7808	133	0	Vīrūl
 Timba Road	2282	7338	180	0
-Timba Road Junction	2282	7338	180	0
+Timba Road Junction	2282	7338	180	0	Timba Road
 Taka-rōait	822	8353	442	0
 Sohūwāla Chak Rohi	2965	7497	585	0
 Rozi Māta	2255	7004	145	0
-Rozi	2255	7004	145	0
+Rozi	2255	7004	145	0	Rozi Māta
 Royapuram	1311	8029	204	0
 Rowta	2671	9223	381	0
 Rotung	2814	9515	40	0
 Rosia	2597	7282	344	0
-Bara Rosia	2597	7282	344	0
+Bara Rosia	2597	7282	344	0	Rosia
 Roshanganj	2453	8471	118	0
-Roshunganj	2453	8471	118	0
+Roshunganj	2453	8471	118	0	Roshanganj
 Roshān	2795	7485	491	0
-Rosa	2782	7992	470	0
-Roza	2782	7992	470	0
+Rosa	2782	7992	470	0	Rausar Kothi
+Roza	2782	7992	470	0	Rausar Kothi
 Roro	2248	8565	287	0
 Rori	2974	7520	585	0
 Rorāwad	2600	7675	116	0
 Rorā Bhatpura	2529	7924	433	0
 Rora	2754	7345	307	0
 Rople	1822	7536	132	0
-Ropla	1822	7536	132	0
+Ropla	1822	7536	132	0	Rople
 Ropla Buzurg	1779	7540	132	0
 Ronvel	2056	7305	261	0
 Rontha	2177	8513	272	0
@@ -68,23 +68,23 @@ Rongchugiri	2569	9015	399	0
 Rongat	1247	9293	442	0
 Rong	3369	7773	2	0
 Rondapolli	1893	8257	316	0
-Ron	2634	7894	334	0
+Ron	2634	7894	334	0	Raun
 Rombha	2009	8448	440	0
 Rollapenta	1588	7882	200	0
 Rolla	1384	7710	444	0
 Rohal	2804	7487	491	0
-Rol	2804	7487	491	0
+Rol	2804	7487	491	0	Rohal
 Rol	2716	7393	430	0
-Rol Qāziān	2716	7393	430	0
+Rol Qāziān	2716	7393	430	0	Rol
 Rojri	2881	7307	374	0
 Rojhava	2162	7422	186	0
 Roida	2201	8538	293	0
 Rohti	3039	7620	564	0
 Rohrābāndh	2366	8650	401	0
 Rohoni	2242	7247	157	0
-Rohani	2242	7247	157	0
+Rohani	2242	7247	157	0	Rohoni
 Rohna Kalān	2202	7886	337	0
-Rohna	2202	7886	337	0
+Rohna	2202	7886	337	0	Rohna Kalān
 Rohna	2085	7833	143	0
 Rohla	2533	7149	285	0
 Rohisa	2083	7125	216	0
@@ -94,7 +94,7 @@ Rohīni	2216	8709	665	0
 Rohīna	2710	7417	430	0
 Rohera	2461	7296	23	0
 Rohat	2596	7313	273	0
-Rohit	2596	7313	273	0
+Rohit	2596	7313	273	0	Rohat
 Rohankhed	2063	7613	49	0
 Rohania	2351	8101	350	0
 Rohania	2341	8140	634	0
@@ -103,22 +103,22 @@ Rodhāin	2625	7715	447	0
 Roddam	1409	7743	444	0
 Roang	3364	7814	2	0
 Rasūlpur Rohta	2904	7755	700	0
-Ronveri	2102	7327	127	0
-Rongli	2720	8870	739	0
+Ronveri	2102	7327	127	0	Rānveri
+Rongli	2720	8870	739	0	Rangli
 Pīpār Road	2645	7345	344	0
-Pīpār Road Junction	2645	7345	344	0
-Bombay Naigaum Road	1900	7283	106	0
+Pīpār Road Junction	2645	7345	344	0	Pīpār Road
+Bombay Naigaum Road	1900	7283	106	0	Naigaum
 Khari Rohar	2307	7017	108	0
 Katosan Road	2341	7224	124	0
-Katosan Road Junction	2341	7224	124	0
-Kotasan Road Junction	2341	7224	124	0
+Katosan Road Junction	2341	7224	124	0	Katosan Road
+Kotasan Road Junction	2341	7224	124	0	Katosan Road
 Golden Rock	1078	7872	270	0
-Rolā	2353	8572	391	0
+Rolā	2353	8572	391	0	Gola
 Gadra Road	2574	7064	285	0
 Castle Rock	1540	7433	59	0
 Bardubi Road	2740	9532	460	0
-Bakra-Road	2525	7246	343	0
-Rokansir	2815	7497	491	0
+Bakra-Road	2525	7246	343	0	Bākra
+Rokansir	2815	7497	491	0	Rūkansar
 Rohand	2266	8849	450	0
 Rohirānwāli Sathārān	3005	7380	374	0
 Rohirānwāli Rāthān	3002	7381	374	0
@@ -139,7 +139,7 @@ Rosanda	2565	7550	353	0
 Rohni	2985	7864	612	0
 Royapettah	1305	8026	204	0
 Mira Road	1928	7287	246	0
-Mira Road, Thane	1928	7287	246	0
+Mira Road, Thane	1928	7287	246	0	Mira Road
 Central Silk Board Hosur Road	1292	7762	43	0
 Outer Ring Road	1292	7764	43	0
 Agara Sarjapura Road ORR	1292	7765	43	0
@@ -166,11 +166,11 @@ Rokha ki Dhāni	2819	7549	300	0
 Rodha	2875	7574	431	0
 Roshanpura	2842	7570	300	0
 Rohno Kalan	3065	7613	674	0
-Roshanpur	3014	7659	564	0
+Roshanpur	3014	7659	564	0	Blogi
 Roshanpur	3013	7664	691	0
 Rohar Jāgir	3012	7653	564	0
 Rohti	3012	7671	501	0
-Roshanpur	3013	7658	564	0
+Roshanpur	3013	7658	564	0	Kartāpur
 Rotele ka Khirk	2519	7892	481	0
 Ronda	2418	7850	352	0
 Rorai	2485	7899	481	0
@@ -185,7 +185,7 @@ Rora	2647	7902	334	0
 Roshangpur	2649	7938	715	0
 Romai Diwāra	2642	7942	741	0
 Romai Mustaqil	2641	7943	741	0
-Rohāoli	2631	7926	741	0
+Rohāoli	2631	7926	741	0	Rahāoli
 Rotānpura	2571	7906	433	0
 Ronaha	2682	7951	715	0
 Rondāpur	2681	7952	715	0
@@ -220,7 +220,7 @@ Rojhāla	2936	7661	367	0
 Rodh	2947	7662	367	0
 Bāzīda Rorān	2971	7686	457	0
 Rojhpur	2823	7671	519	0
-Rojhka	2823	7671	519	0
+Rojhka	2823	7671	519	0	Rojhpur
 Rohna	2885	7688	485	0
 Ropa	3162	7707	278	0
 Gharāt Ropa	3161	7705	278	0
@@ -339,7 +339,7 @@ Rohālki	2971	7798	596	0
 Rōr	3099	7595	674	0
 Rohtāsnagar	2868	7729	693	0
 Rohillāpur	2851	7738	588	0
-Roshangarh	2894	7739	477	0
+Roshangarh	2894	7739	477	0	Murādgāmpur
 Rohtāsgarhi	2876	7757	727	0
 Rori	2885	7761	727	0
 Roshanpur	2836	7761	588	0
@@ -380,12 +380,12 @@ Roshanpuri	1919	7627	33	0
 Rokadwādi	1901	7684	153	0
 Ror Mājri	3100	7625	674	0
 Rorgarh	3044	7634	564	0
-Rodewāla	3044	7634	564	0
+Rodewāla	3044	7634	564	0	Rorgarh
 Rode Mājra	3088	7654	735	0
 Roi	1852	7643	158	0
 Rohīna	1844	7695	158	0
 Jot Rohallāhbās	2767	7701	114	0
-Jot Rohallāh	2767	7701	114	0
+Jot Rohallāh	2767	7701	114	0	Andhwāri
 Nagla Rotandās	2758	7774	177	0
 Ronchhi	2743	7770	177	0
 Roj Khera	2946	7625	367	0
@@ -439,7 +439,7 @@ Roda	2535	7743	436	0
 Roshanpur	2793	7979	470	0
 Rohni	2194	7650	209	0
 Rorākheri	2429	7704	336	0
-Robdākheri	2421	7751	215	0
+Robdākheri	2421	7751	215	0	Kapdākheri
 Roriya	2434	7753	336	0
 Rolpura	2412	7770	215	0
 Rohal	2773	7810	670	0
@@ -475,7 +475,7 @@ Pura Ronu	2686	7823	546	0
 Roshanhār	2174	7624	209	0
 Rohni	2147	7611	29	0
 Ronda	2142	7600	329	0
-Roshnāi	2181	7632	209	0
+Roshnāi	2181	7632	209	0	Rajhori
 Rojhara	2325	7781	338	0
 Rora	2480	7962	663	0
 Roānpār	2569	8309	498	0
@@ -567,7 +567,7 @@ Rohad	2874	7681	609	0
 Roshan Mandi	2861	7699	763	0
 Purana Roshan Pura	2861	7698	763	0
 Roshan Vihār	2860	7698	763	0
-Shāhjahānpur Roshan	2950	7833	575	0
+Shāhjahānpur Roshan	2950	7833	575	0	Garīkpur
 Ropra	2919	7806	700	0
 Fazalpur Ropa	2955	7844	575	0
 Roshanpur	2948	7844	575	0
@@ -613,7 +613,7 @@ Rohaniān	2823	7982	683	0
 Rohela	2804	7991	470	0
 Īnta Rorā	2805	7996	470	0
 Rohinia	2598	8138	681	0
-Roti	2583	8126	728	0
+Roti	2583	8126	728	0	Mandwa
 Pura Rod Singh	2610	8122	681	0
 Rohna Mīrānpur	2659	8154	30	0
 Pura Roshan Lāj	2659	8163	662	0
@@ -622,7 +622,7 @@ Roghnāthpur	2624	8180	662	0
 Purwa Rod	2601	8178	718	0
 Ronda	2870	7890	511	0
 Rōbwāla	3374	7431	1	0
-Roshannagar	2828	7877	117	0
+Roshannagar	2828	7877	117	0	Rājpur
 Rohida	2999	7925	183	0
 Rohnibhāri	2736	8252	292	0
 Rohuwa	2711	8295	292	0
@@ -683,7 +683,7 @@ Rohia	2665	8374	535	0
 Ror	2575	8170	718	0
 Rohua	2632	8361	325	0
 Roshanpur	2622	8361	586	0
-Ropanpur	2610	8374	586	0
+Ropanpur	2610	8374	586	0	Nimdand
 Pipra Rohiniān	2623	8390	535	0
 Royūr	1838	8044	226	0
 Rora	2336	8009	598	0
@@ -767,7 +767,7 @@ Rojhandih	2186	8242	696	0
 Rogada	2188	8268	696	0
 Rohina	2166	8284	635	0
 Rora	2100	8202	297	0
-Roba	2100	8202	297	0
+Roba	2100	8202	297	0	Rora
 Ronra	2100	8225	407	0
 Rodān Khera	2704	8074	714	0
 Rodān Khera	2706	8063	686	0
@@ -838,7 +838,7 @@ Roura	3100	7715	628	0
 Rosanda-ki-Jhonpria	2563	7550	353	0
 Rola	2321	7420	166	0
 Rohinia	2319	7425	166	0
-Royania Ratanji	2319	7425	166	0
+Royania Ratanji	2319	7425	166	0	Rohinia
 Royania Rāmsingh	2324	7430	166	0
 Royania Dalpatsingh	2323	7430	166	0
 Royania	2322	7442	166	0
@@ -979,7 +979,7 @@ Roāri	2705	8443	476	0
 Rorāwās	2671	7475	446	0
 Rora ka Bāria	2586	7432	309	0
 Rol	2956	7997	429	0
-Rojtalāi	2506	7498	417	0
+Rojtalāi	2506	7498	417	0	Rāmnagar
 Rolu Piplia	2299	7630	322	0
 Roshnābād	2294	7635	322	0
 Rojri	2287	7627	322	0
@@ -1119,7 +1119,7 @@ Rottikaranūr	1086	7691	156	0
 Ronihalli	1199	7796	110	0
 Rol	2350	8502	562	0
 Rol	2359	8517	562	0
-Rorā	2334	8502	562	0
+Rorā	2334	8502	562	0	Garhātoli
 Ronhe	2328	8516	432	0
 Ronhedīh	2319	8516	432	0
 Ronhe	2319	8516	432	0

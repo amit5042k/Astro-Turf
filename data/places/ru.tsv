@@ -1,36 +1,36 @@
 Rudrapur	2898	7940	641	154554
-Bid Rural	1899	7576	33	146709
+Bid Rural	1899	7576	33	146709	Beed
 Roorkee	2987	7789	596	103894
-Rutnagherry	1699	7331	234	76229
-Rūpar	3097	7653	735	56038
-Rūpnagar	3097	7653	735	56038
+Rutnagherry	1699	7331	234	76229	Ratnagiri
+Rūpar	3097	7653	735	56038	Ropar
+Rūpnagar	3097	7653	735	56038	Ropar
 Rūdarpur	2644	8361	535	30873
 Rusera	2575	8603	138	28781
 Palwal Rural	2815	7735	754	23072
-Russelkonda	1993	8458	440	20647
+Russelkonda	1993	8458	440	20647	Bhanjanagar
 Rura	2649	7990	671	15908
-Runaj	2299	7552	660	14584
-Runji-Gautampura	2299	7552	660	14584
+Runaj	2299	7552	660	14584	Gautampura
+Runji-Gautampura	2299	7552	660	14584	Gautampura
 Rurki	3037	7647	564	10509
-Rurki Kasba	3037	7647	564	10509
-Rungpo	2718	8853	739	10450
+Rurki Kasba	3037	7647	564	10509	Rurki
+Rungpo	2718	8853	739	10450	Rangpo
 Rūn	2684	7379	430	9241
-Bargaon Rural	2463	7368	22	9193
-Santpur Rural	2447	7277	23	9186
+Bargaon Rural	2463	7368	22	9193	Bargaon
+Santpur Rural	2447	7277	23	9186	Sāntpur
 Rupahi Town	2642	9275	656	8052
 Rurka Kalān	3112	7570	369	7467
-Rurka Klan	3112	7570	369	7467
-Rurka Khan	3112	7570	369	7467
+Rurka Klan	3112	7570	369	7467	Rurka Kalān
+Rurka Khan	3112	7570	369	7467	Rurka Kalān
 Rudrāvati	1087	7741	235	6807
 Rupiabathan	2641	9134	758	4981
-R. Udayagiri	1916	8414	252	4851
+R. Udayagiri	1916	8414	252	4851	Rāmagiri Udayagiri
 Rupa	2720	9240	523	3812
 Rūrka Khurd	3112	7580	369	3194
 Rudraprayāg	3028	7898	365	2571
 Rūpowāl	3109	7570	369	997
-Tikar Run	2314	7110	147	0
-Rupnāyal	1662	7471	90	0
-Rūpnārāin	2531	7368	572	0
+Tikar Run	2314	7110	147	0	Tikar
+Rupnāyal	1662	7471	90	0	Shirguppi
+Rūpnārāin	2531	7368	572	0	Sāmantri
 Rūwo	2808	7593	705	0
 Rushyābāri	2345	9193	695	0
 Rusa	2703	9528	717	0
@@ -39,11 +39,11 @@ Rupsi	2612	8993	713	0
 Rupshu	3297	7828	2	0
 Rupsa	2163	8702	421	0
 Rupnayāl	1651	7464	77	0
-Rupnyál	1651	7464	77	0
+Rupnyál	1651	7464	77	0	Rupnayāl
 Rūpnārāyanpur	2614	8498	395	0
 Rupnārāyanpur	2381	8689	642	0
 Rūpangarh	2680	7485	446	0
-Rūpnagar	2680	7485	446	0
+Rūpnagar	2680	7485	446	0	Rūpangarh
 Rūpjhar	2196	8042	144	0
 Rupidīha	2802	8158	294	0
 Rūpi	3161	7784	83	0
@@ -53,32 +53,32 @@ Rupāwati	2288	7209	124	0
 Rūpāwās	2601	7358	273	0
 Rupāwali	2630	7529	313	0
 Rūpau	2486	8575	107	0
-Rūpah	2486	8575	107	0
+Rūpah	2486	8575	107	0	Rūpau
 Rūpanagudi	1505	7706	44	0
-Rupengudi	1505	7706	44	0
+Rupengudi	1505	7706	44	0	Rūpanagudi
 Rupāna	3041	7453	615	0
 Rūpāliya	2519	7474	309	0
-Rūpalia	2519	7474	309	0
+Rūpalia	2519	7474	309	0	Rūpāliya
 Rupāl	2355	7312	212	0
 Rupāigaon	2744	9423	355	0
 Rupai Dīha	2730	8195	542	0
 Rupahi	2641	9274	656	0
-Rupohi	2641	9274	656	0
+Rupohi	2641	9274	656	0	Rupahi
 Rūpaheli	2579	7464	309	0
 Rūpa	2557	7511	309	0
 Rūnjha	2017	7848	67	0
 Runi Saiyadpur	2637	8549	582	0
-Runni	2637	8549	582	0
+Runni	2637	8549	582	0	Runi Saiyadpur
 Runīja	2408	7575	580	0
 Runija	2316	7526	314	0
 Rungarh	2788	9694	122	0
 Rumbak	3405	7742	2	0
-Rumpack	3405	7742	2	0
+Rumpack	3405	7742	2	0	Rumbak
 Rulagung	3373	7683	8	0
 Rukhar	2187	7953	368	0
 Rukanpura	3004	7411	3	0
 Rukadi	1672	7435	57	0
-Rukdi	1672	7435	57	0
+Rukdi	1672	7435	57	0	Rukadi
 Ruichattisi	1891	7484	152	0
 Rui	2017	7806	67	0
 Rūgi	1695	7603	80	0
@@ -99,7 +99,7 @@ Rūd	2505	7447	417	0
 Rūar	2635	7795	478	0
 Ruallalung	2266	9267	14	0
 Roogee	1709	7597	80	0
-Rummu	3093	7811	89	0
+Rummu	3093	7811	89	0	Rāma
 Kola-rue	823	9317	79	0
 Rūpālsar	2810	7400	307	0
 Rūkansar	2815	7497	491	0
@@ -113,12 +113,12 @@ Rus	3408	7465	76	0
 Rusrīpur	3415	7450	301	0
 Rūpji Ki Dhāni	2672	7190	217	0
 Rugh Gund Mānchhar	3449	7441	0	0
-Rumli Dāra	3312	7422	504	0
+Rumli Dāra	3312	7422	504	0	Kumli Dāra
 Rug	3311	7448	504	0
 Rumblān Pail	3296	7444	581	0
-Rumbi Pail	3296	7444	581	0
+Rumbi Pail	3296	7444	581	0	Rumblān Pail
 Rumāil	3287	7448	581	0
-Rumāli	3287	7448	581	0
+Rumāli	3287	7448	581	0	Rumāil
 Gho Rukwālen de	3255	7495	720	0
 Rundān	3407	7398	301	0
 Rūdarpur	3045	7785	448	0
@@ -129,7 +129,7 @@ Rūpe ki Ber	3117	7701	628	0
 Rudrāwaram	1756	7817	31	0
 Rukmāpur	1800	7849	400	0
 monastère de Rumteck	2733	8860	422	0
-Rumtek	2733	8860	422	0
+Rumtek	2733	8860	422	0	monastère de Rumteck
 Talwandi Rūkka	2895	7571	339	0
 Rupāna	2894	7565	431	0
 Dhāni Rūnhāt	2890	7567	431	0
@@ -163,7 +163,7 @@ Rūrua	2698	7904	464	0
 Ruppur Sarai Bhikan	2689	7908	290	0
 Rūra	2684	7922	290	0
 Rura	2647	7906	334	0
-Rūran	2647	7906	334	0
+Rūran	2647	7906	334	0	Rura
 Rutaur Marriān	2646	7918	290	0
 Rudpura Mādhogarh	2631	7917	741	0
 Rutaur	2646	7919	290	0
@@ -189,7 +189,7 @@ Rūplīsar	2827	7449	539	0
 Rupāl	2331	7260	276	0
 Runaha	2371	7725	687	0
 Ruppura	2485	7486	601	0
-Ruppura Sani	2485	7486	601	0
+Ruppura Sani	2485	7486	601	0	Ruppura
 Rushipali	2141	8365	497	0
 Rujhenmal	2148	8374	497	0
 Ruiya	2274	8840	450	0
@@ -204,7 +204,7 @@ Rūr	3172	7721	278	0
 Dhani Rupa	2963	7534	443	0
 Rupāna	2940	7510	585	0
 Rupāwās	2936	7505	585	0
-Rupāna Dhillānwāla	2936	7505	585	0
+Rupāna Dhillānwāla	2936	7505	585	0	Rupāwās
 Rupāna Bishnoiyān	2937	7524	585	0
 Ganjia Rupāna	2935	7525	585	0
 Rugsāna	2966	7667	457	0
@@ -315,7 +315,7 @@ Rūppura	2559	7513	309	0
 Rurka	3050	7583	775	0
 Rurgarh	3047	7577	593	0
 Rupaheri	3030	7590	593	0
-Ruldu Singhwāla	3041	7590	593	0
+Ruldu Singhwāla	3041	7590	593	0	Ramgarh
 Rustamgarh	3046	7590	775	0
 Rupānwāli	2971	7570	443	0
 Runhāt	2901	7592	431	0
@@ -343,7 +343,7 @@ Rūnīpur	2639	7777	478	0
 Rumai	2636	7797	478	0
 Rūri ka Pura	2639	7839	334	0
 Rühaura	2592	7810	484	0
-Ruehaura	2592	7810	484	0
+Ruehaura	2592	7810	484	0	Rühaura
 Rūpālon	3079	7611	674	0
 Rūpa	3076	7615	674	0
 Rūrewāl	3097	7620	674	0
@@ -364,7 +364,7 @@ Rurka	3034	7659	564	0
 Rurki	3033	7658	564	0
 Rūpu Mājra	3034	7675	691	0
 Ruāliyon	3031	7677	691	0
-Rurki	3045	7682	632	0
+Rurki	3045	7682	632	0	Rāmgarh
 Ruddha	1877	7695	158	0
 Rūpbās	2752	7716	114	0
 Rūnd Khoh	2752	7722	114	0
@@ -479,7 +479,7 @@ Rūppur	2715	7964	570	0
 Ruhāni	2536	7746	436	0
 Rudrapur	2796	7979	470	0
 Rudrapur	2783	7989	470	0
-Rudrapur	2777	7997	470	0
+Rudrapur	2777	7997	470	0	Kahilia
 Rūpāpur	2750	7977	686	0
 Rudauli	2704	7978	570	0
 Rugar	2580	7796	484	0
@@ -534,7 +534,7 @@ Rūppur	2693	7977	570	0
 Rurwāhār	2643	7998	671	0
 Ruddarpur	2740	7852	403	0
 Nagla Ruddar	2737	7870	403	0
-Nagla Rund	2735	7872	711	0
+Nagla Rund	2735	7872	711	0	Nagla Chak
 Nagla Ruria	2733	7874	464	0
 Rurgaon	2625	7976	671	0
 Rūkhna	2580	7922	741	0
@@ -557,7 +557,7 @@ Rūjan Kheri	2267	7725	675	0
 Rukanpur	2572	8324	26	0
 Ruar	2680	7826	478	0
 Rustampur	2537	8305	251	0
-Rūpanpur	2535	8302	251	0
+Rūpanpur	2535	8302	251	0	Paighambarpur
 Rupetha	2534	8321	724	0
 Ruchan Mānikpur	2695	7873	403	0
 Nagla Ruria	2694	7873	403	0
@@ -616,7 +616,7 @@ Rūyād	2096	7942	141	0
 Rulgaon Heti	2061	7995	135	0
 Rūi	2051	7993	111	0
 Rūi	2052	7993	111	0
-Rupāra	2049	7988	111	0
+Rupāra	2049	7988	111	0	Ākāpur
 Rudrāpur	2004	7980	111	0
 Rura Purwa	2597	8032	728	0
 Rustampur	2593	8029	728	0
@@ -650,12 +650,12 @@ Mahuta Rupaulī	2532	8087	643	0
 Rūda ka Pura	2590	8202	718	0
 Rūpīpur	2579	8206	718	0
 Rūr	2591	8225	718	0
-Rukhār	2586	8238	32	0
+Rukhār	2586	8238	32	0	Rājpur
 Rūpchandpur	2589	8250	32	0
 Rūpāpur	2595	8249	32	0
 Rustampur	2600	8252	32	0
 Rūpīpur	2592	8259	32	0
-Rudhauli	2593	8265	32	0
+Rudhauli	2593	8265	32	0	Biswān
 Zamīn Rudhauli	2594	8266	32	0
 Rudhauli	2594	8266	32	0
 Rukunpur	2570	8257	32	0
@@ -686,10 +686,10 @@ Rudarpur	2557	8294	32	0
 Rūpohandpur	2553	8297	251	0
 Rup Khera	2625	8090	681	0
 Gaura Rupai Pir Alipur	2611	8094	681	0
-Rusūlpur Muzaffar	2950	7850	575	0
+Rusūlpur Muzaffar	2950	7850	575	0	Muzaffarnagar
 Rūgri Saiyad	2937	7834	575	0
 Rukanpur	2934	7827	575	0
-Rustampur Sher	2933	7833	575	0
+Rustampur Sher	2933	7833	575	0	Nārāyanpur
 Rūgri Salempur	2932	7837	575	0
 Rustampur Bāzīd	2926	7830	575	0
 Rūdpur Salem	2784	8123	323	0
@@ -847,7 +847,7 @@ Achalpur Rup	2718	8229	280	0
 Pura Rudahi	2705	8235	542	0
 Rudhār Parshād	2704	8245	542	0
 Ruhāon Khurd	2732	8254	292	0
-Rup Dhar	2716	8250	292	0
+Rup Dhar	2716	8250	292	0	Sekhūi Tāj
 Rudawāliā	2721	8260	292	0
 Rustampur	2706	8260	154	0
 Rudrawalia Buzurg	2722	8268	292	0
@@ -894,7 +894,7 @@ Rudhauli	2683	8274	154	0
 Rustampur	2656	8254	553	0
 Rustampur	2656	8262	553	0
 Ruhipur	2664	8264	154	0
-Rujhi	2669	8274	154	0
+Rujhi	2669	8274	154	0	Rajhuli
 Rudaupur	2660	8274	154	0
 Chak Rupai Patti	2652	8274	553	0
 Rūhullāhpur	2633	8258	553	0
@@ -905,7 +905,7 @@ Rudhauli Māfi	2627	8267	553	0
 Rustampur	2637	8265	553	0
 Ruknuddīnpur	2639	8265	553	0
 Rustampur Akhai	2640	8265	553	0
-Ruknuddīnpur Bangānwān	2644	8261	553	0
+Ruknuddīnpur Bangānwān	2644	8261	553	0	Bangānwan
 Rūdarpur Bhagāhi	2645	8271	553	0
 Rūkunpur Kāsimpur	2637	8274	553	0
 Ruknuddīnpur	2636	8271	553	0
@@ -954,7 +954,7 @@ Rūdarpur	2678	8334	325	0
 Tola Rustam	2693	8346	325	0
 Tola Rūbdhar	2693	8348	515	0
 Rūpannāri	2660	8329	325	0
-Rudāin	2660	8346	325	0
+Rudāin	2660	8346	325	0	Majhgawān
 Rustampur	2674	8337	325	0
 Rūdarman	2652	8335	325	0
 Parewa Rūdpur	2626	8339	498	0
@@ -971,7 +971,7 @@ Parsia Rūppur	2601	8386	536	0
 Ruchāpār	2621	8393	535	0
 Ruggāpur	2572	8355	26	0
 Ruhīpur	2569	8357	26	0
-Ruhīpur	2562	8353	26	0
+Ruhīpur	2562	8353	26	0	Khajista Sarai
 Ruqqāpur	2573	8359	26	0
 Ruhelī	2573	8366	26	0
 Rukundīpur	2566	8369	26	0
@@ -987,7 +987,7 @@ Rusahāi	2533	8159	651	0
 Rusahāi	2534	8159	651	0
 Rujhāun	2506	8150	516	0
 Rūm	2514	8174	607	0
-Rūp ka Purwa	2569	8178	607	0
+Rūp ka Purwa	2569	8178	607	0	Hasanpur
 Rumili	3270	7555	496	0
 Rukhila	3270	7550	496	0
 Rūppur	2580	8191	718	0
@@ -1256,7 +1256,7 @@ Rupāwās	2575	7318	273	0
 Rūppur	2937	7908	551	0
 Rūpdeopur	2930	7924	551	0
 Rup Chakiya	2552	8474	377	0
-Rustamnagar	2904	7911	552	0
+Rustamnagar	2904	7911	552	0	Sawai-kī-Mandaiyān
 Mazra Rūppur	2911	7922	641	0
 Rūppur	2910	7922	641	0
 Rudarpur	2539	8466	377	0
@@ -1342,7 +1342,7 @@ Rupalyāpura	2257	7645	322	0
 Rupalyāpura	2258	7645	322	0
 Rudarpur	2897	7941	641	0
 Rurki	2877	7948	342	0
-Rustamnagar	2876	7939	342	0
+Rustamnagar	2876	7939	342	0	Ūnchāgāon
 Rustampur	2885	7934	552	0
 Rustampur	2871	7928	552	0
 Rustamnagar	2855	7932	342	0
@@ -1364,7 +1364,7 @@ Ruāhā	2669	8479	396	0
 Rulahi	2660	8495	396	0
 Rūp Dīh	2666	8495	396	0
 Rāmpur Rudar	2613	8491	540	0
-Rūp Chhāpra	2621	8494	395	0
+Rūp Chhāpra	2621	8494	395	0	Sārangpur
 Gokhula Rupauli	2610	8499	395	0
 Rudāvli	2134	7480	190	0
 Rūppur	2857	7950	342	0
@@ -1647,7 +1647,7 @@ Ruradangal	2404	8687	770	0
 Rudarpur	2301	8417	321	0
 Rud	2356	8431	707	0
 Rūki	2325	8445	321	0
-Rūki	2325	8446	321	0
+Rūki	2325	8446	321	0	Jāmtoli
 Rud	2392	8475	707	0
 Rubed	2366	8454	773	0
 Rud	2369	8468	707	0
@@ -1706,7 +1706,7 @@ Rutikishillā	2150	8572	293	0
 Roowang	3157	7846	83	0
 Rupābedhā	2109	8556	289	0
 Rugudi	2193	8599	382	0
-Rugrudia	2193	8599	382	0
+Rugrudia	2193	8599	382	0	Rugudi
 Ruguriāpāra	2069	8502	414	0
 Rūpāli	2061	8521	289	0
 Rusipada	2040	8519	303	0

@@ -1,17 +1,17 @@
 Nalgonda	1705	7927	101	154326
 Nallūr	1110	7739	235	70115
-South Nallur	1110	7739	235	70115
+South Nallur	1110	7739	235	70115	Nallūr
 Nalbāri	2644	9144	758	27839
 Nalhāti	2430	8783	361	25878
 Pottaneri Nallakavundanpatti	1180	7786	51	25133
-Nallur $	1320	8018	228	23819
+Nallur $	1320	8018	228	23819	Pādiyanallūr
 Nalambūr	1309	8017	228	21973
 Nalco	2087	8518	414	19644
 Naldurg	1782	7628	48	18341
-Naldrug	1782	7628	48	18341
+Naldrug	1782	7628	48	18341	Naldurg
 Nalloor	831	7722	453	17989
 Nal Khera	2384	7624	347	16690
-Nalkheda	2384	7624	347	16690
+Nalkheda	2384	7624	347	16690	Nal Khera
 Nallavila	821	7734	453	16138
 Nālvādi	2076	7862	143	12119
 Nālāgarh	3104	7672	628	10708
@@ -20,9 +20,9 @@ Nallamadu	1688	8135	24	8164
 Nallūr	887	7752	245	7828
 Nallakavundanpālaiyam	1159	7801	51	7796
 Nallippālaiyam	1124	7815	231	5078
-Nallipalayam	1124	7815	231	5078
+Nallipalayam	1124	7815	231	5078	Nallippālaiyam
 Nallampatti	1134	7754	211	3874
-Nallūr	1093	7979	455	0
+Nallūr	1093	7979	455	0	Tirunallār
 Nalwāri	2028	7376	54	0
 Nālwār	1694	7699	71	0
 Nalni	2016	7587	53	0
@@ -30,16 +30,16 @@ Nallūr	1409	7588	275	0
 Nallūr	1127	7794	231	0
 Nallūr	1092	7930	267	0
 Nallikodūr	1758	7975	762	0
-Nallikudur	1758	7975	762	0
+Nallikudur	1758	7975	762	0	Nallikodūr
 Nallepilli	1073	7679	263	0
 Nallajerla	1695	8141	87	0
-Nallejerla	1695	8141	87	0
+Nallejerla	1695	8141	87	0	Nallajerla
 Nallapālem	1451	7975	6	0
 Nalhiāpur Māfi	2678	8239	154	0
-Nalhiāpur	2678	8239	154	0
+Nalhiāpur	2678	8239	154	0	Nalhiāpur Māfi
 Nalgora	2203	8847	4	0
 Nalegaon	1842	7682	158	0
-Nalaigaon	1842	7682	158	0
+Nalaigaon	1842	7682	158	0	Nalegaon
 Naldhara	2098	7319	139	0
 Nāldera	3118	7719	479	0
 Nālcha	2242	7540	130	0
@@ -48,7 +48,7 @@ Nālatvād	1625	7629	80	0
 Nalāghāt	1948	8406	252	0
 Nāla	2630	7598	313	0
 Nāl	2158	7406	186	0
-Nāla	2158	7406	186	0
+Nāla	2158	7406	186	0	Nāl
 Nāl	2145	7373	254	0
 Nalpur	2253	8818	354	0
 Nalua	2210	8845	4	0
@@ -70,8 +70,8 @@ Naloi	3114	7703	479	0
 Nalwelli	1700	7873	62	0
 Nallapalli	1772	7836	31	0
 Naloi	2894	7554	431	0
-Nālnad	2822	7550	300	0
-Nālnod	2822	7550	300	0
+Nālnad	2822	7550	300	0	Nārnond
+Nālnod	2822	7550	300	0	Nārnond
 Nalvi Chhoti	3020	7678	501	0
 Nalvi	3018	7678	501	0
 Nal	2499	7843	384	0
@@ -839,7 +839,7 @@ Nallikkudi	1004	7898	198	0
 Nallivayal	1001	7886	454	0
 Nallūr	979	7814	274	0
 Nallāndippatti	995	7838	454	0
-Nālukottai	992	7849	454	0
+Nālukottai	992	7849	454	0	Pillaiyārdarman
 Nallākulam	986	7839	454	0
 Nālūr	965	7829	119	0
 Nallūr	959	7845	5	0
@@ -856,7 +856,7 @@ Nallinkkal	930	7870	5	0
 Nallankudi	993	7884	454	0
 Nallūr	965	7876	454	0
 Nālāntulā	835	7783	191	0
-Nallūr	838	7793	208	0
+Nallūr	838	7793	208	0	Vadakkurāmasāmipuram
 Nālumāvadi	858	7803	208	0
 Nallūr	859	7806	208	0
 Nallipālaiyam	1094	7789	445	0

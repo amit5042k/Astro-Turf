@@ -1,24 +1,24 @@
 Sholapur	1767	7591	132	997281
 Rajpur Sonarpur	2244	8843	4	424368
-Sonarpur	2244	8843	4	424368
-Sonarpur Rajpur	2244	8843	4	424368
+Sonarpur	2244	8843	4	424368	Rajpur Sonarpur
+Sonarpur Rajpur	2244	8843	4	424368	Rajpur Sonarpur
 Sonīpat	2899	7702	485	289333
-Sonepat	2899	7702	485	289333
-Sonepat Punjab	2899	7702	485	289333
+Sonepat	2899	7702	485	289333	Sonīpat
+Sonepat Punjab	2899	7702	485	289333	Sonīpat
 Sopāra	1942	7280	192	184664
 Soyībug	3408	7471	76	104000
 Chilla Soroda Bāngar	2860	7730	794	83217
 Sopur	3429	7447	301	71292
-Sopor	3429	7447	301	71292
-Sopore	3429	7447	301	71292
-South Nallur	1110	7739	235	70115
+Sopor	3429	7447	301	71292	Sopur
+Sopore	3429	7447	301	71292	Sopur
+South Nallur	1110	7739	235	70115	Nallūr
 Shorāpur	1652	7676	72	51398
-Shoratur	1652	7676	72	51398
+Shoratur	1652	7676	72	51398	Shorāpur
 Shōranūr	1076	7627	263	43533
 Sojat	2592	7367	273	43023
-Soundatti	1577	7512	77	41215
+Soundatti	1577	7512	77	41215	Saundatti
 Solan	3091	7711	628	40283
-Solon	3091	7711	628	40283
+Solon	3091	7711	628	40283	Solan
 Sonepur	2570	8517	540	37776
 Sohna	2825	7707	630	36552
 Sholinganallur	1289	8023	247	35602
@@ -28,20 +28,20 @@ Sholinghur	1312	7942	160	30856
 Soron	2789	7875	616	28683
 Sonāmukhi	2331	8741	571	28334
 Songadh	2117	7356	127	26515
-Songarh	2117	7356	127	26515
-Azhikode South	1192	7534	266	25195
+Songarh	2117	7356	127	26515	Songadh
+Azhikode South	1192	7534	266	25195	Azhikkōd
 Sohāgpur	2270	7820	590	25040
 Sōmēshvara	1280	7486	55	24066
-Someshwar	1280	7486	55	24066
+Someshwar	1280	7486	55	24066	Sōmēshvara
 Soygaon	2060	7562	113	23320
 Trikarpūr South	1212	7519	305	22991
-South Thrikkaripur	1212	7519	305	22991
+South Thrikkaripur	1212	7519	305	22991	Trikarpūr South
 Sholavandan	1002	7796	274	22578
 Someshwar	1349	7507	257	22137
-Somaishwar	1349	7507	257	22137
+Somaishwar	1349	7507	257	22137	Someshwar
 Sonepur	2083	8392	308	20770
-Sonapur	2083	8392	308	20770
-Sonpur	2083	8392	308	20770
+Sonapur	2083	8392	308	20770	Sonepur
+Sonpur	2083	8392	308	20770	Sonepur
 Sonāri	2702	9502	623	19810
 Sojītra	2254	7272	157	19403
 Somandepalle	1401	7761	444	18895
@@ -49,22 +49,22 @@ Solsumba	2016	7279	261	18796
 Sompeta	1894	8458	472	18778
 Kokōtamangalam South	968	7636	243	17047
 Sonkach	2297	7635	322	16545
-Sonkatch	2297	7635	322	16545
+Sonkatch	2297	7635	322	16545	Sonkach
 Shopian	3372	7483	678	16360
-Chengalam South	960	7647	271	16111
+Chengalam South	960	7647	271	16111	Chengalam
 Sonpet	1903	7647	153	15765
-Sonepett	1903	7647	153	15765
+Sonepett	1903	7647	153	15765	Sonpet
 Sorada	1976	8443	440	15117
 Somāmpālaiyam	1105	7690	156	14787
-Somayampalayam	1105	7690	156	14787
+Somayampalayam	1105	7690	156	14787	Somāmpālaiyam
 Soyatkalan	2419	7618	347	14781
 Soalkuchi	2617	9157	636	13917
 Solap	2213	8816	559	13751
 South Kannanur	1092	7874	270	13073
-Socorro	1555	7384	188	12908
-South Kodikulam	965	7759	119	12713
+Socorro	1555	7384	188	12908	Serula
+South Kodikulam	965	7759	119	12713	Kodikkulam
 Sonegaon	2063	7869	143	12614
-Sojat Road	2589	7374	273	12472
+Sojat Road	2589	7374	273	12472	Siāt
 Sorab	1438	7509	346	11332
 Sonāmura	2348	9127	574	11285
 Solim	1562	7377	188	10936
@@ -80,17 +80,17 @@ Sorbhog	2649	9089	358	7614
 Somvārpet	1260	7585	193	7227
 Sohela	2130	8340	497	6917
 Soanpeta	1897	7836	75	6820
-Sonapur Gaon	2616	9199	359	5771
+Sonapur Gaon	2616	9199	359	5771	Digaru Gaon
 Solakut	3454	7426	0	3973
-Marpara South	2326	9240	14	2511
+Marpara South	2326	9240	14	2511	Mar?S?
 Sonāwān	2554	8524	604	2322
 Devasora South	2213	9264	244	844
 Sonapal	1966	8141	619	645
 Solhani	2605	8654	426	152
 Thari Sonarai	2436	8690	502	0
-Sothri	2303	6891	108	0
+Sothri	2303	6891	108	0	Suthri
 Sorkhi	2905	7612	339	0
-Sonari	2729	8060	507	0
+Sonari	2729	8060	507	0	Sunāri
 Sonābera	2051	8246	594	0
 Solankiyātada	2654	7227	344	0
 Soyet	2419	7618	347	0
@@ -110,10 +110,10 @@ Sonwāri	2085	7297	221	0
 Sonwāra	2486	7295	23	0
 Sonwān	2766	8175	618	0
 Sonvad Budrukh	2108	7535	78	0
-Sonvad	2108	7535	78	0
+Sonvad	2108	7535	78	0	Sonvad Budrukh
 Sonua	2258	8546	287	0
 Sonthwa	2577	7658	335	0
-Sonthiā	2577	7658	335	0
+Sonthiā	2577	7658	335	0	Sonthwa
 Sontha	2619	8778	510	0
 Sontalāi	2235	7687	465	0
 Sonsari	2052	8023	135	0
@@ -125,13 +125,13 @@ Sonparam	2502	9359	576	0
 Sonpāra	2132	7398	186	0
 Sonpa	2546	8384	620	0
 Sonkhed	1903	7722	140	0
-Sonkher	1903	7722	140	0
+Sonkher	1903	7722	140	0	Sonkhed
 Sonkach	2377	7699	16	0
 Sonik	2658	8058	312	0
 Soniyāsar	2777	7402	307	0
-Soniāsar	2777	7402	307	0
+Soniāsar	2777	7402	307	0	Soniyāsar
 Soniyāna	2512	7463	417	0
-Soniand	2512	7463	417	0
+Soniand	2512	7463	417	0	Soniyāna
 Soni	2652	7856	334	0
 Sonhāt	2348	8252	621	0
 Songsāng	2449	9332	441	0
@@ -169,11 +169,11 @@ Sona Arjunpur	2975	7746	449	0
 Sona	3025	8054	508	0
 Son	2175	8238	291	0
 Son	1901	7838	360	0
-Sone	1901	7838	360	0
+Sone	1901	7838	360	0	Son
 Somsīsar	2878	7475	539	0
 Somrān	2725	7395	430	0
-Somara	2725	7395	430	0
-Somna	2725	7395	430	0
+Somara	2725	7395	430	0	Somrān
+Somna	2725	7395	430	0	Somrān
 Somnāth	2207	7137	174	0
 Somnāth	2089	7040	136	0
 Somna	2806	7794	543	0
@@ -186,7 +186,7 @@ Somāsi	2841	7489	539	0
 Somāram	1899	7972	91	0
 Somanūr	1108	7719	156	0
 Somnāthpur	1228	7688	74	0
-Somanāthapur	1228	7688	74	0
+Somanāthapur	1228	7688	74	0	Somnāthpur
 Somalsar	2758	7352	307	0
 Somala	1347	7881	214	0
 Som	2418	7334	22	0
@@ -194,7 +194,7 @@ Solūr	1307	7725	626	0
 Solpāta	2156	8706	421	0
 Sollebail	1340	7537	98	0
 Soliyakkudi	971	7899	5	0
-Soliacoory	971	7899	5	0
+Soliacoory	971	7899	5	0	Soliyakkudi
 Soldia	2188	8400	627	0
 Solankuppam Mel	1247	7894	197	0
 Solāguda	2007	8391	387	0
@@ -202,19 +202,19 @@ Sokhniz	3398	7552	547	0
 Sokhda	2242	7317	159	0
 Sojna	2455	7889	384	0
 Sointara	2627	7238	344	0
-Sointhra	2627	7238	344	0
+Sointhra	2627	7238	344	0	Sointara
 Soīn Kalān	2575	7667	335	0
-Soīn	2575	7667	335	0
+Soīn	2575	7667	335	0	Soīn Kalān
 Soila	2683	7333	344	0
 Soira	2176	8436	567	0
-Soida	2176	8436	567	0
+Soida	2176	8436	567	0	Soira
 Sohwal	2675	8199	629	0
 Sohūwāla Chak Rohi	2965	7497	585	0
 Sohso	2122	8633	293	0
 Soh Sarai	2522	8551	514	0
 Sohrārim	2535	9173	340	0
 Sohiān Kalān	3174	7492	222	0
-Sohiān	3174	7492	222	0
+Sohiān	3174	7492	222	0	Sohiān Kalān
 Sohāwal	2457	8076	324	0
 Sohar	2612	8350	586	0
 Sohār	2430	8230	631	0
@@ -228,7 +228,7 @@ Sohāgpur	2159	8288	635	0
 Soguru	1851	8261	316	0
 Sogra	3435	7697	2	0
 Sofāle	1958	7283	192	0
-Sophāla	1958	7283	192	0
+Sophāla	1958	7283	192	0	Sofāle
 Sodpur	2270	8839	450	0
 Sode	2268	8505	432	0
 Sodarpur	2340	7842	338	0
@@ -238,36 +238,36 @@ Sodākor	2704	7144	217	0
 Sochumei	2548	9423	112	0
 Sobrāon	3118	7485	260	0
 Sobhāpur Bāzyāft	2304	7757	338	0
-Sobhapur	2304	7757	338	0
+Sobhapur	2304	7757	338	0	Sobhāpur Bāzyāft
 Sobhāpur	2277	7826	590	0
 Sobhāsar	2812	7323	307	0
 Sobala	3007	8057	508	0
 Sora	2640	7551	313	0
 Shokla	2622	7486	446	0
-Shokaliya	2622	7486	446	0
+Shokaliya	2622	7486	446	0	Shokla
 Shoja	3156	7738	680	0
 Shoi	2852	9441	82	0
-Shohpur	2252	7731	590	0
+Shohpur	2252	7731	590	0	Shivpur
 Shogi	3104	7712	479	0
 Sho	3321	7622	34	0
 Sorongodo	2023	8412	387	0
-Somarda Kauasot	2312	7750	687	0
+Somarda Kauasot	2312	7750	687	0	Samarda Kaliāsot
 Purāna Sohajrāsar	2834	7376	307	0
 Ringkhāp Songmong	2530	9044	737	0
 Rewāk Songmong	2529	9067	737	0
-Sonepur-Rampur	2110	8369	308	0
+Sonepur-Rampur	2110	8369	308	0	Rāmpur
 Purandarpur Sonbārsa	2720	8336	515	0
-Sombāri Hat	2695	8870	492	0
-Sonnāpurampeta	1911	8478	440	0
+Sombāri Hat	2695	8870	492	0	Phagu
+Sonnāpurampeta	1911	8478	440	0	Nuralrevu
 Mao Songsang	2551	9414	112	0
-Solavaram	1324	8016	228	0
+Solavaram	1324	8016	228	0	Cholavaram
 Sondiya	2387	7670	16	0
-Chatukhera Sondia	2387	7670	16	0
+Chatukhera Sondia	2387	7670	16	0	Sondiya
 Chak Sohelewāla	3052	7436	3	0
-Solarum	1752	7852	311	0
-South Suburban	2250	8828	4	0
+Solarum	1752	7852	311	0	Bolārum
+South Suburban	2250	8828	4	0	Behāla
 Somalsar	2842	7467	539	0
-Sonāli Bari	2819	7486	539	0
+Sonāli Bari	2819	7486	539	0	Sahnāli Bari
 Sorāni	2895	7478	486	0
 Sonātikri	2287	8806	279	0
 Sobhārampur	2208	8809	559	0
@@ -281,9 +281,9 @@ Soenār	3441	7482	120	0
 Sora	3414	7480	611	0
 Sotiung	3405	7485	611	0
 Sonāwār	3407	7484	611	0
-Sokar	3382	7411	1	0
+Sokar	3382	7411	1	0	Sakar
 Solāla	3351	7419	1	0
-Sorsāla	3331	7416	504	0
+Sorsāla	3331	7416	504	0	Sarsala
 Shoghapur	3445	7422	0	0
 Sonamul	3446	7416	0	0
 Sonchipur	3449	7410	0	0
@@ -302,13 +302,13 @@ Sonawaing	3436	7439	0	0
 Sobka Tāla	3288	7475	581	0
 Sohal	3289	7465	581	0
 Sonāwa	3320	7412	504	0
-Sohāwa	3320	7412	504	0
+Sohāwa	3320	7412	504	0	Sonāwa
 Solki	3316	7443	504	0
 Sodira	3305	7447	504	0
 Souji	3387	7429	1	0
 Sobka	3288	7475	581	0
 Sodhi	2993	7693	501	0
-Sohāgpur	3252	7482	581	0
+Sohāgpur	3252	7482	581	0	Sahāgpur
 Sodhera	3275	7493	581	0
 Shogram	3458	7620	8	0
 Shore	3462	7645	8	0
@@ -319,7 +319,7 @@ Sondhāpur	2938	7693	298	0
 Soreda	2860	7694	763	0
 Sohal	3124	7704	479	0
 Soriya	3122	7701	628	0
-Solag	3118	7702	628	0
+Solag	3118	7702	628	0	Salog
 Solīpur	1704	7821	62	0
 Somāwaram	1743	7876	129	0
 Banda Somāram	1749	7898	129	0
@@ -344,17 +344,17 @@ Solāna	2806	7557	300	0
 Sohāta	3020	7696	691	0
 Sonrai	2490	7844	384	0
 Sonarai	2401	7893	352	0
-Sorai	2403	7893	352	0
+Sorai	2403	7893	352	0	Monpur
 Sondhāmai	2786	7929	117	0
 Sobanpur	2716	7933	464	0
 Nagla Sohra	2704	7942	570	0
 Sonek	2770	7954	470	0
 Kola Sota	2758	7964	688	0
-Sohjana	2725	7994	686	0
+Sohjana	2725	7994	686	0	Sahjana
 Sonua ka Nagla	2698	7921	464	0
-Sodanpur	2687	7918	290	0
+Sodanpur	2687	7918	290	0	Sādhanpur
 Sonepura	2634	7923	741	0
-Shopura	2691	7555	121	0
+Shopura	2691	7555	121	0	Sheopura
 Sorathpura	2677	7561	121	0
 Sonāpur	2634	7932	741	0
 Sohrāpur Āta	2614	7947	741	0
@@ -624,7 +624,7 @@ Solia	2618	7500	446	0
 Soniāna	2588	7419	446	0
 Sohanpura	2582	7421	309	0
 Sherpur Sodhiān	3039	7593	593	0
-Shōhpur Khurd	3016	7581	593	0
+Shōhpur Khurd	3016	7581	593	0	Lakhmīrwāla
 Sohiān	3023	7587	593	0
 Shekhupur Sotar	2959	7557	443	0
 Muhammadpur Sotar	2963	7565	443	0
@@ -637,7 +637,7 @@ Sohagpur	2932	7853	575	0
 Sojānpur	2878	7922	552	0
 Sona	2847	7908	342	0
 Sojpur	2468	7643	333	0
-Shopur	2463	7645	333	0
+Shopur	2463	7645	333	0	Dhāni
 Sohanpura	2449	7638	333	0
 Shopura	2433	7644	333	0
 Soni	2485	7674	506	0
@@ -686,7 +686,7 @@ Sonkhed	1902	7647	153	0
 Sonna	1943	7654	153	0
 Somthāna	1937	7659	153	0
 Sodīwāla	3001	7616	564	0
-Sonda Mājro	3009	7621	564	0
+Sonda Mājro	3009	7621	564	0	Rājgarh
 Sonula	1924	7659	153	0
 Sonna	1924	7669	153	0
 Someshwar	1905	7692	153	0
@@ -1007,7 +1007,7 @@ Sonār	2554	7801	436	0
 Sonāti	2092	7600	78	0
 Sonbarsa	2565	8332	26	0
 Sonhauli	2555	8333	26	0
-Sonthi	2557	8339	26	0
+Sonthi	2557	8339	26	0	Hakīmpur
 Sonharia	2559	8349	26	0
 Sonaj	2086	7642	49	0
 Sonbarsa	2539	8341	724	0
@@ -1141,7 +1141,7 @@ Sondīha	2428	8362	743	0
 Sonpurwa	2430	8375	743	0
 Sohwariya	2422	8366	743	0
 Sonehāra	2416	8359	743	0
-Sonhe	2416	8359	743	0
+Sonhe	2416	8359	743	0	Sonehāra
 Garua Soti	2409	8370	743	0
 Sonegaon	2100	7926	141	0
 Somnāla	2075	7941	141	0
@@ -1272,7 +1272,7 @@ Sondīmau	2585	8216	718	0
 Sonwat	2587	8219	718	0
 Sobhua	2593	8222	718	0
 Sonbarsāpatti	2596	8222	718	0
-Sonpura	2600	8237	718	0
+Sonpura	2600	8237	718	0	Dhakwa
 Sonbarsa	2593	8228	718	0
 Sorangpur	2591	8232	718	0
 Sonpura	2587	8231	32	0
@@ -1409,7 +1409,7 @@ Sobhāpur Bilsanda	2680	8144	30	0
 Soharāpur	2684	8147	30	0
 Sohalpur	2686	8131	30	0
 Sonegaon	2101	7972	404	0
-Sohrābnagar	2908	7831	575	0
+Sohrābnagar	2908	7831	575	0	Katpura
 Sotkheri	2924	7833	575	0
 Sonikpur	2663	8131	30	0
 Purwa Shohrat Singh	2657	8145	30	0
@@ -1440,7 +1440,7 @@ Sonbarsa	2643	8188	597	0
 Sotipur	2631	8187	597	0
 Sonbarsa	2649	8194	597	0
 Sonbāri	2423	8079	324	0
-Sohad Mau	2578	8124	728	0
+Sohad Mau	2578	8124	728	0	Mawai
 Songir Pāda	2132	7418	186	0
 Soti Purwa	2537	8115	643	0
 Solvādgi	1651	7610	80	0
@@ -1462,7 +1462,7 @@ Sohelwa	2738	8180	294	0
 Soregaon	1961	7725	640	0
 Soīt	1953	7782	67	0
 Soampalli	1864	7822	75	0
-Soran Nagla	2859	7863	646	0
+Soran Nagla	2859	7863	646	0	Shāhbāzpur
 Dhaneta Sotīpura	2852	7863	646	0
 Sonakpur	2863	7870	511	0
 Milak Sonakpur	2864	7871	511	0
@@ -1719,7 +1719,7 @@ Sonhan	2660	8287	647	0
 Sonkhar	2672	8296	154	0
 Sorha Kalān	2654	8293	647	0
 Sotīpār	2651	8297	647	0
-Sodhanpur	2578	8326	498	0
+Sodhanpur	2578	8326	498	0	Thātha
 Sohwāl	2593	8337	498	0
 Sonsārwān	2598	8334	586	0
 Sonsa	2598	8344	586	0
@@ -1775,7 +1775,7 @@ Muhammadpur Sohāg	2582	8158	718	0
 Sonaura	2691	8302	647	0
 Sonbarsa	2697	8310	647	0
 Sohraulia	2699	8316	647	0
-Sonbarsa	2688	8316	325	0
+Sonbarsa	2688	8316	325	0	Harha
 Sonāri	2655	8305	647	0
 Sondīha	2654	8305	647	0
 Sonbarsa	2664	8315	325	0
@@ -1808,7 +1808,7 @@ Sonāi Khurd	2654	8345	325	0
 Sohgaura	2654	8344	325	0
 Somahi	2652	8344	325	0
 Sokahna	2661	8340	325	0
-Sonwe	2663	8345	325	0
+Sonwe	2663	8345	325	0	Dholbajwa
 Konān Sonbarsa	2660	8349	325	0
 Sonwāpār	2661	8341	325	0
 Sonāi Buzurg	2654	8348	325	0
@@ -1818,9 +1818,9 @@ Sonaura	2629	8330	498	0
 Sohrābīr	2635	8332	325	0
 Sonaicha	2641	8343	325	0
 Sohanpur	2695	8353	515	0
-Sohan Katia	2695	8353	515	0
+Sohan Katia	2695	8353	515	0	Sohanpur
 Sohwal	2690	8354	515	0
-Sonraich	2684	8353	325	0
+Sonraich	2684	8353	325	0	Baragaon
 Sohsa	2686	8351	325	0
 Sonwe Gunraha	2680	8352	325	0
 Sohrauna	2687	8355	560	0
@@ -1841,15 +1841,15 @@ Sonbarsa	2653	8362	535	0
 Sonbarsa	2664	8365	535	0
 Rāmpur Sohrauna	2671	8370	560	0
 Sona Lachhman	2669	8368	535	0
-Sona Paras Rām	2669	8368	535	0
-Sobhanān	2557	8161	651	0
+Sona Paras Rām	2669	8368	535	0	Kakwal
+Sobhanān	2557	8161	651	0	Jagdīshpur
 Sohsa	2664	8373	535	0
 Soti ka Purwa	2568	8170	718	0
 Sonbarsa	2641	8359	535	0
 Sonbah	2638	8362	535	0
 Sobairae	2646	8366	535	0
 Sonāri	2648	8366	535	0
-Sondiha	2635	8373	535	0
+Sondiha	2635	8373	535	0	Misrauli
 Sona Dih	2617	8353	586	0
 Belauli Sonbarsa	2622	8357	586	0
 Sonbharia	2610	8369	586	0
@@ -1974,7 +1974,7 @@ Sonpur	2092	8168	652	0
 Sonf	2237	8041	480	0
 Sonftolā	2236	8042	480	0
 Sotiā	2233	8050	480	0
-Sonditolā	2277	8054	480	0
+Sonditolā	2277	8054	480	0	Sudgaon
 Somwārītolā	2296	8068	468	0
 Sontekri	2269	8053	480	0
 Sondhar	2237	8054	480	0
@@ -2035,10 +2035,10 @@ Sonpāra	2272	8205	757	0
 Sonjharītolā	2118	8068	474	0
 Sonbachharwār	2271	8205	757	0
 Sonkund	2271	8204	757	0
-Sonmunda	2271	8204	757	0
+Sonmunda	2271	8204	757	0	Sonkund
 Sonpuri	2251	8203	291	0
 Kathi Khuiyān Shop	3181	7598	327	0
-Sonpur	2292	8246	388	0
+Sonpur	2292	8246	388	0	Būdāpāra
 Sonjharī	2178	8099	537	0
 Sondhā	2247	8202	291	0
 Sondhā	2250	8207	291	0
@@ -2217,10 +2217,10 @@ Sonanu	3098	7771	479	0
 Soil	3093	7761	479	0
 Sobal	3082	7773	783	0
 Sonharā	2363	8354	341	0
-Kalān Sonmau	2407	7996	532	0
+Kalān Sonmau	2407	7996	532	0	Khokhaliya
 Sonpurwā	2396	8380	743	0
 Sondāg	2396	8379	743	0
-Sodhnākheri	2352	7625	320	0
+Sodhnākheri	2352	7625	320	0	Maliyākheri
 Solang	3096	7784	89	0
 Shoi Khera	3078	7787	448	0
 Soilār Khera	3086	7794	448	0
@@ -2535,7 +2535,7 @@ Sorāpāda	2159	7410	186	0
 Somāval Khurd	2159	7412	186	0
 Somāval Budrukh	2157	7413	186	0
 Sojrān	2163	7411	186	0
-Dāniya Somāniya	2547	7425	309	0
+Dāniya Somāniya	2547	7425	309	0	Dhāniya
 Soniāna	2502	7421	572	0
 Sondākhera	2524	7426	309	0
 Soji ka Khera	2543	7432	309	0
@@ -2581,10 +2581,10 @@ Shopura	2503	7492	417	0
 Songar	2501	7497	417	0
 Sophwa	2677	8452	476	0
 Sonbarsa	2688	8466	476	0
-Sonwal Wāke Sarea	2662	8457	396	0
+Sonwal Wāke Sarea	2662	8457	396	0	Ahirauliyā
 Sonwal	2659	8457	396	0
 Ahiranliyā Sonwal	2661	8458	396	0
-Sonwal Wāke Sarsa	2659	8458	396	0
+Sonwal Wāke Sarsa	2659	8458	396	0	Ahirauliyā
 Sonwal Ahirauliyā Ke Andar	2661	8458	396	0
 Sonbarsa	2666	8473	396	0
 Sonpa	2401	7449	633	0
@@ -3065,7 +3065,7 @@ Sonorli	1974	7907	111	0
 Sogalammapalli	1854	7934	748	0
 Sodāla	1852	7935	748	0
 Somawaram	1824	7930	579	0
-Somadevarpalli	1806	7943	61	0
+Somadevarpalli	1806	7943	61	0	Mahālingapalli
 Somalāpuram	1503	7649	44	0
 Somalāpuram	1528	7668	366	0
 Somlāpur	1568	7680	50	0
@@ -3332,7 +3332,7 @@ Sōmēnahalli	1210	7792	110	0
 Sonnappanhatti	1293	7801	47	0
 Sorkailhalli	1289	7809	47	0
 Somasandra	1299	7809	47	0
-Soregaudankote	1299	7821	47	0
+Soregaudankote	1299	7821	47	0	Kettūr
 Sorakāyalapalli	1267	7807	223	0
 Sonnināyakkanahalli	1256	7803	223	0
 Somanāthapuram	1260	7814	223	0
@@ -3563,7 +3563,7 @@ Sonapara	2412	8690	502	0
 Sonatānr	2410	8679	502	0
 Sontadih	2409	8679	502	0
 Sogitānr	2388	8406	701	0
-Sonārkhāp	2385	8406	701	0
+Sonārkhāp	2385	8406	701	0	Chhitrā
 Sonbarsā	2387	8414	707	0
 Sokrā	2396	8408	701	0
 Sonpurwā	2396	8418	701	0
@@ -3710,7 +3710,7 @@ Sottamangalam	1114	7959	203	0
 Soliyānkottagam	1122	7964	203	0
 Soliyānkottagam	1122	7966	203	0
 Solanampattam	1106	7967	203	0
-South Indian Railway	1193	7981	196	0
+South Indian Railway	1193	7981	196	0	Nellittoppu
 Solaittāndavankuppam	1195	7984	277	0
 Solaittevanpatti	989	7749	194	0
 Sokkanāthanputtūr	935	7746	119	0
@@ -3811,7 +3811,7 @@ Sotali	2491	8636	524	0
 Sogra	2453	8627	452	0
 Sonārdih	2440	8630	452	0
 Sondighi	2444	8625	452	0
-Sonwādih	2429	8638	452	0
+Sonwādih	2429	8638	452	0	Piprātol
 Sone	2447	8632	524	0
 Sonpur	2420	8632	452	0
 Sonbād	2422	8631	452	0

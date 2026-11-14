@@ -1,5 +1,5 @@
-Kulbarga	1734	7684	71	543147
-Kullamalai	888	7658	549	367107
+Kulbarga	1734	7684	71	543147	Kalaburagi
+Kullamalai	888	7658	549	367107	Kollam
 Kulti	2373	8684	642	305405
 Kulathummal	851	7708	219	40448
 Kulittalai	1093	7841	445	27910
@@ -10,9 +10,9 @@ Kulu	3196	7711	680	19831
 Kulpahār	2532	7964	614	18976
 Kulattuppālaiyam	1076	7758	235	17819
 Kulasegaram	836	7730	453	17267
-Kulasekharam	836	7730	453	17267
+Kulasekharam	836	7730	453	17267	Kulasegaram
 Khuldābād	2001	7519	113	15749
-Kullikota	1961	8509	440	13022
+Kullikota	1961	8509	440	13022	Khallikot
 Kulattūr	1185	7775	51	12748
 Kulattūr	1071	7855	270	11083
 Kulattūr	900	7819	208	10632
@@ -21,9 +21,9 @@ Kulappuram	832	7715	453	7677
 Kullāda	1997	8463	440	5645
 Kullursandai	954	7798	119	5383
 Kulad	2084	8517	414	4256
-Nungbi Khulen	2521	9446	364	0
+Nungbi Khulen	2521	9446	364	0	Longbi Hirei
 Kulur Kudrū	1292	7482	55	0
-Kulurkudiu	1292	7482	55	0
+Kulurkudiu	1292	7482	55	0	Kulur Kudrū
 Kulua	2380	8135	634	0
 Kulriān	2980	7568	709	0
 Kulpi	2208	8824	4	0
@@ -46,15 +46,15 @@ Kulang	3259	7713	425	0
 Kulan	3427	7515	547	0
 Kulaisilā	2234	8627	382	0
 Kulag Old Thāna	3081	7756	479	0
-Kulag	3081	7756	479	0
-Kullakamby	1129	7674	115	0
-Kulakambai	1129	7674	115	0
+Kulag	3081	7756	479	0	Kulag Old Thāna
+Kullakamby	1129	7674	115	0	Kolakambē
+Kulakambai	1129	7674	115	0	Kolakambē
 Khulri	2297	7895	522	0
 Khuldo	3276	7898	2	0
 Kangchup Khul	2487	9377	489	0
-Kulmili	1807	8175	349	0
+Kulmili	1807	8175	349	0	Kalimala
 Bongbāl Khulen	2472	9416	489	0
-Bongba Khulen	2472	9416	489	0
+Bongba Khulen	2472	9416	489	0	Bongbāl Khulen
 Bongba Khulen	2484	9448	723	0
 Kuliāra	2279	8800	279	0
 Kulgāchi	2247	8802	354	0
@@ -73,28 +73,28 @@ Kuliān	3376	7436	1	0
 Kuliān	3388	7435	1	0
 Kuliān da Kotha	3387	7434	1	0
 Natha Kuliān	3278	7448	581	0
-Nathu Kuliān	3278	7448	581	0
+Nathu Kuliān	3278	7448	581	0	Natha Kuliān
 Khuld	3289	7500	581	0
 Kulorwān	3287	7484	581	0
 Kuliyān	3251	7493	720	0
 Kūl Kalān	3254	7480	581	0
 Kūl Khurd	3253	7480	581	0
 Kamāla Kūlīān	3257	7499	720	0
-Kamāla Kuliyān	3257	7499	720	0
+Kamāla Kuliyān	3257	7499	720	0	Kamāla Kūlīān
 Kulwāl	3260	7492	581	0
 Suparāhpur Kūlīān	3268	7479	581	0
-Sampūrahpur Kuliān	3268	7479	581	0
+Sampūrahpur Kuliān	3268	7479	581	0	Suparāhpur Kūlīān
 Kulumbur	3457	7616	8	0
-Kulsuri	3442	7389	0	0
+Kulsuri	3442	7389	0	0	Kuisūri
 Khulet	3049	7791	448	0
 Kultājpar	2805	7603	694	0
 Kulāni	2980	7870	612	0
 Kulsaram	1796	7820	400	0
 Kulattur	1312	8022	204	0
 Kularion ka Bās	2830	7525	300	0
-Kulariyon ka Bās	2830	7525	300	0
+Kulariyon ka Bās	2830	7525	300	0	Kularion ka Bās
 Kulriyon ka Bās	2802	7538	300	0
-Kulriyan ka Bās	2802	7538	300	0
+Kulriyan ka Bās	2802	7538	300	0	Kulriyon ka Bās
 Kulod Khurd	2810	7547	300	0
 Kulod Kalān	2809	7547	300	0
 Kulwāi	2411	7827	352	0
@@ -392,7 +392,7 @@ Rahmān Quli	2593	8178	718	0
 Sarāi Bādshāh Kuli	2571	8185	607	0
 Kulharia	2522	8180	607	0
 Khulli	2518	8188	607	0
-Kulmai	2520	8193	607	0
+Kulmai	2520	8193	607	0	Ahirān
 Kulmai	2519	8194	607	0
 Kūlhi	2481	8115	516	0
 Balkhor Kulāra	3219	7571	38	0
@@ -825,7 +825,7 @@ Kulhi	2349	8543	562	0
 Kulhi	2350	8563	391	0
 Kulsud	2336	8572	562	0
 Kulaburutoli	2320	8554	562	0
-Kulkundi	2374	8583	517	0
+Kulkundi	2374	8583	517	0	Sarahachia
 Kulgo	2399	8597	452	0
 Kulhi	2394	8596	452	0
 Kulbāndhatola	2373	8594	517	0
@@ -842,7 +842,7 @@ Kulda	2284	8526	287	0
 Kulburu	2289	8538	432	0
 Kullu	2420	8492	393	0
 Kuliā	2395	8424	701	0
-Kulādor	2308	8410	398	0
+Kulādor	2308	8410	398	0	Kolādor
 Kulādīpā	2303	8410	398	0
 Kulobānd	2326	8448	321	0
 Kulaitoli	2310	8429	321	0
@@ -882,7 +882,7 @@ Kulasekharankottai	927	7766	245	0
 Kulakkattākurichchi	921	7772	245	0
 Kulasekharampudūr	820	7747	453	0
 Kulasekharapuram	814	7750	453	0
-Kulattorapuram	891	7762	191	0
+Kulattorapuram	891	7762	191	0	Balabhadrarāmapuram
 Kulavanikapuram	871	7773	191	0
 Kulavanikapuram	869	7774	191	0
 Kulattūrkudiyiruppu	846	7757	191	0
@@ -959,7 +959,7 @@ Kulavāippatti	1029	7892	198	0
 Kulattūr	1016	7894	198	0
 Kulappadi	1008	7886	454	0
 Kulattuppatti	955	7812	119	0
-Kulasekharanallūr	950	7815	119	0
+Kulasekharanallūr	950	7815	119	0	Bommākottai
 Kulakkattankurichchi	929	7813	208	0
 Kūlippatti	996	7843	274	0
 Kulakinippatti	997	7828	274	0
@@ -977,7 +977,7 @@ Kulasekarankudiyiruppu	842	7788	208	0
 Kulaikkādapuram	858	7802	208	0
 Kulaiyankarisal	872	7808	208	0
 Kulayankādu	844	7802	208	0
-Kuliyanvilai	841	7800	208	0
+Kuliyanvilai	841	7800	208	0	Aranikinar
 Kullampālaiyam	1099	7781	445	0
 Kulattuppālaiyam	1096	7800	445	0
 Kulattūr	1179	7913	390	0
@@ -1068,7 +1068,7 @@ Kulādhānkuni	2130	8563	293	0
 Kūlamedu	1149	7859	51	0
 Kulungāpāl	2123	8557	293	0
 Kulindi	2198	8598	382	0
-Kulandia	2198	8598	382	0
+Kulandia	2198	8598	382	0	Kulindi
 Kulei	2099	8526	289	0
 Kuludih	2420	8583	452	0
 Kulātānr	2458	8609	452	0

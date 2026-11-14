@@ -1,33 +1,33 @@
 Giridih	2419	8631	452	114533
 Giddarbāha	3020	7467	615	45370
 Giddalūr	1537	7893	200	35150
-Giddaluru	1537	7893	200	35150
+Giddaluru	1537	7893	200	35150	Giddalūr
 Gil	3085	7586	674	28884
 Gingee	1225	7942	202	27045
-Gimhavane	1776	7319	234	15713
+Gimhavane	1776	7319	234	15713	Dāpoli
 Ghitorni	2849	7714	721	14893
 Ghiror	2719	7879	464	14011
 Gidi	2369	8536	764	13356
 Gīdam	1897	8140	406	7440
-Gidum	1897	8140	406	7440
-Kheri Gidor	2388	7699	16	0
-Hansāri Gird	2541	7857	433	0
-Girligumma	1912	8285	316	0
+Gidum	1897	8140	406	7440	Gīdam
+Kheri Gidor	2388	7699	16	0	Kheri
+Hansāri Gird	2541	7857	433	0	Hasāri
+Girligumma	1912	8285	316	0	Gurligumma
 Girwāni	2385	8303	341	0
 Girwān	2531	8039	463	0
 Girri	2618	7416	273	0
 Girnāre	2007	7366	54	0
 Giriyāpura	1369	7604	98	0
-Girijapara	1369	7604	98	0
+Girijapara	1369	7604	98	0	Giriyāpura
 Girisola	1916	8471	440	0
 Giriak	2503	8553	514	0
 Giria	2452	8808	471	0
-Giriya	2452	8808	471	0
+Giriya	2452	8808	471	0	Giria
 Girgitti	2800	8123	294	0
 Girgawān	2628	7825	484	0
 Girgaum	1895	7282	106	0
-Bombay Girgaon	1895	7282	106	0
-Girgaon	1895	7282	106	0
+Bombay Girgaon	1895	7282	106	0	Girgaum
+Girgaon	1895	7282	106	0	Girgaum
 Girgaon	3004	8017	508	0
 Girdharpura	2491	7574	371	0
 Giravali	1908	7386	52	0
@@ -38,7 +38,7 @@ Gīrāb	2602	7067	285	0
 Ginnurgarh	2285	7754	675	0
 Ginjo Thākurgaon	2352	8517	562	0
 Ginjia	2681	9325	302	0
-Uttar Ginjia	2681	9325	302	0
+Uttar Ginjia	2681	9325	302	0	Ginjia
 Ginigera	1535	7625	66	0
 Gīngla	2430	7403	22	0
 Gimvi	1751	7332	234	0
@@ -51,21 +51,21 @@ Gīdha	2289	8118	468	0
 Giāngarh	2565	7416	309	0
 Giabong	3176	7847	83	0
 Ghitrāri	3245	7638	362	0
-Ghitiāri	3245	7638	362	0
+Ghitiāri	3245	7638	362	0	Ghitrāri
 Ghiri	3148	7700	278	0
 Ghiar	2978	7711	457	0
-Ghireti	2280	8835	279	0
+Ghireti	2280	8835	279	0	Gaurhāti
 Ginri Patta Losana	2842	7498	539	0
-Ginari	2842	7498	539	0
-Ginri Patta Lohsana	2842	7498	539	0
+Ginari	2842	7498	539	0	Ginri Patta Losana
+Ginri Patta Lohsana	2842	7498	539	0	Ginri Patta Losana
 Gilarchāt	2208	8845	4	0
 Girpatia	2225	8850	4	0
 Gil Sar	3413	7482	611	0
 Giāl	3333	7420	504	0
-Giyain	3333	7420	504	0
-Giyāla	3330	7420	504	0
+Giyain	3333	7420	504	0	Giāl
+Giyāla	3330	7420	504	0	Mohra Kiāla
 Girāri	3328	7405	779	0
-Girān	3328	7405	779	0
+Girān	3328	7405	779	0	Girāri
 Girān	3326	7414	504	0
 Nao Girār	3326	7420	504	0
 Gīripur	3445	7422	0	0
@@ -79,15 +79,15 @@ Gijhi	2881	7677	719	0
 Gidargalīān	3265	7484	581	0
 Ghīkot	3402	7398	301	0
 Girinār	3407	7394	301	0
-Girloār	3407	7394	301	0
+Girloār	3407	7394	301	0	Girinār
 Ghisarpari	2985	7705	457	0
 Giāna Māzra	2959	7750	545	0
-Giāna Māzpa	2959	7750	545	0
+Giāna Māzpa	2959	7750	545	0	Giāna Māzra
 Gīāna Māzra Kalān	2958	7748	328	0
 Giānchāri	3118	7704	479	0
 Ghīāna	3115	7701	628	0
-Ghiāntu	3115	7701	628	0
-Ghiāno	3115	7701	628	0
+Ghiāntu	3115	7701	628	0	Ghīāna
+Ghiāno	3115	7701	628	0	Ghīāna
 Ghiāntu	3115	7702	628	0
 Ginduriya	2998	7870	612	0
 Gīnthīpākha	2995	7866	612	0
@@ -107,10 +107,10 @@ Ghilor	2717	7946	570	0
 Girdharpur	2714	7948	570	0
 Girdharpur	2762	7973	686	0
 Girdharpura	2697	7923	290	0
-Girdharpur	2697	7923	290	0
+Girdharpur	2697	7923	290	0	Girdharpura
 Girdhāripura	2675	7923	290	0
-Gīdham	2629	7912	741	0
-Gīdhan	2629	7912	741	0
+Gīdham	2629	7912	741	0	Khorh
+Gīdhan	2629	7912	741	0	Khorh
 Girdhāripura	2690	7571	121	0
 Girdhāripura	2679	7567	121	0
 Ghilaua	2630	7933	741	0
@@ -119,7 +119,7 @@ Patti Giāni	2676	7968	715	0
 Sasan Gir	2118	7059	136	0
 Girirājsar	2887	7466	486	0
 Girgachiyo	2849	7444	539	0
-Girgachiya	2849	7444	539	0
+Girgachiya	2849	7444	539	0	Girgachiyo
 Gingba	2798	9387	39	0
 Girola	1933	8216	600	0
 Girdawara	1969	8057	135	0
@@ -144,9 +144,9 @@ Gichhpur	3460	7424	0	0
 Gīr Hājoh	3453	7427	0	0
 Ghīrij	3146	7736	680	0
 Ghillu	3026	7412	3	0
-Ghinyani	3045	7406	3	0
+Ghinyani	3045	7406	3	0	Lashkar Dīn
 Gidrānwāli	3008	7400	3	0
-Giyān Singh	3030	7438	615	0
+Giyān Singh	3030	7438	615	0	Shergarh
 Giljiānwāla	3034	7459	615	0
 Chak Giljiānwāla	3035	7457	615	0
 Giraini	3111	7739	479	0
@@ -225,7 +225,7 @@ Giyāna	2989	7501	563	0
 Ghirāe	2924	7589	339	0
 Ghikāra	2863	7625	781	0
 Ghikiān	2868	7648	609	0
-Salāhbatpur Girdhar	2937	7865	575	0
+Salāhbatpur Girdhar	2937	7865	575	0	Bhājjāwāla
 Gingtoli	3026	7968	183	0
 Girdharpur	2877	7917	552	0
 Girdharpur	2837	7922	342	0
@@ -239,7 +239,7 @@ Gīgcha	2488	7684	506	0
 Gilasupeta	1896	7996	135	0
 Giānpur	2900	7782	700	0
 Girdharpur Nawāda	2857	7783	637	0
-Ghizālpur	2874	7784	756	0
+Ghizālpur	2874	7784	756	0	Jainuddīnpur
 Gītdābling	2702	8860	492	0
 Gītdābling	2702	8864	492	0
 Gitbiyong	2706	8864	492	0
@@ -255,7 +255,7 @@ Gilehta	2781	7788	543	0
 Gindoh	2774	7737	177	0
 Ghiora	3013	7627	564	0
 Giroli Bāvne	1875	7647	33	0
-Giroli Āpet	1875	7647	33	0
+Giroli Āpet	1875	7647	33	0	Giroli Bāvne
 Gita	1869	7645	33	0
 Gīdhāwādi	1886	7699	153	0
 Girgili	2797	7767	543	0
@@ -386,7 +386,7 @@ Girnibāvi	1796	7980	249	0
 Girwar ka Purwa	2646	7990	671	0
 Girdaun	2627	7990	671	0
 Ginauli	2748	7860	403	0
-Gilondia	2741	7868	711	0
+Gilondia	2741	7868	711	0	Hasan Kullīpur
 Nagla Girwar	2734	7869	403	0
 Gingna	2733	7863	403	0
 Girdharpur	2623	7976	671	0
@@ -436,7 +436,7 @@ Lāhar Gird	2546	7853	433	0
 Tākli Gilba	2069	7770	133	0
 Gimhiān	2526	8355	749	0
 Ghinhupatti	2528	8353	749	0
-Ghinpura	2534	8361	26	0
+Ghinpura	2534	8361	26	0	Gaharpur
 Giānpur	2565	8390	26	0
 Ghiuria	2545	8393	620	0
 Giāni Chak	2540	8392	620	0
@@ -550,7 +550,7 @@ Ghiāspur	2952	7848	575	0
 Giyānpur	2937	7840	575	0
 Gilāri	2937	7836	575	0
 Shakhārampur Gilāra	2935	7837	575	0
-Giāspur	2931	7829	575	0
+Giāspur	2931	7829	575	0	Ināmpur
 Gindauri	2925	7839	575	0
 Purwa Girdhāri	2797	8109	323	0
 Ginglapur	2768	8103	507	0
@@ -670,7 +670,7 @@ Ghirāo Dīh	2737	8231	280	0
 Gidhaur	2731	8226	280	0
 Ghirāo Dīh	2730	8235	280	0
 Pīr Giās	2729	8242	280	0
-Gidda	1843	7833	58	0
+Gidda	1843	7833	58	0	Kankūr
 Pura Ghisawan Ahīr	2720	8235	280	0
 Pura Ghirai Khān	2724	8245	280	0
 Ghirāwan Dīh	2720	8247	280	0
@@ -728,7 +728,7 @@ Parsa Gidahi	2711	8363	515	0
 Girman	2717	8373	515	0
 Gista	2582	8160	718	0
 Gistha	2580	8157	718	0
-Girdharpur	2587	8170	718	0
+Girdharpur	2587	8170	718	0	Pura Nirmal
 Githni	2668	8306	647	0
 Girdharpur	2671	8306	647	0
 Gidaha	2661	8318	325	0
@@ -821,7 +821,7 @@ Gidhlondī	2288	8075	468	0
 Githorī	2274	8100	468	0
 Gidhorī	2246	8100	480	0
 Gil	3097	7466	566	0
-Gillānwāla	3097	7466	566	0
+Gillānwāla	3097	7466	566	0	Gil
 Ghinīwāla	3091	7459	566	0
 Gillānwāli	3192	7505	487	0
 Nālo Gil	3193	7518	487	0
@@ -832,7 +832,7 @@ Gil	3120	7522	565	0
 Girolā Kalān	2154	8016	171	0
 Ghiwārī	2154	8019	171	0
 Girāli	2529	7344	273	0
-Girolā	2130	8018	171	0
+Girolā	2130	8018	171	0	Garadā
 Girola	2116	8009	171	0
 Girolātolā	2151	8036	171	0
 Gidhārī	2130	8028	171	0
@@ -1162,7 +1162,7 @@ Girdhar Chak	2579	8447	536	0
 Gidha	2531	8430	409	0
 Gijna	2487	8433	137	0
 Gira	2490	8438	137	0
-Gidahī	2447	8427	701	0
+Gidahī	2447	8427	701	0	Chirailī
 Ghīghākheri	2288	7652	675	0
 Ghirsirī	2424	8438	701	0
 Githar	2422	8452	393	0
@@ -1390,7 +1390,7 @@ Gitilgarh	2348	8489	773	0
 Girjātoli	2335	8499	562	0
 Giling	2298	8421	398	0
 Girang	2290	8418	398	0
-Giārtoli	2272	8406	398	0
+Giārtoli	2272	8406	398	0	Jugtala
 Girang	2259	8408	495	0
 Gidhasānd	2271	8417	398	0
 Girjātoli	2254	8419	495	0
@@ -1469,8 +1469,8 @@ Gidrigadra	2022	8443	387	0
 Gidirimāl	2020	8448	387	0
 Girida	2084	8454	414	0
 Gistikhol	2023	8451	387	0
-GIFT City	2316	7268	276	0
-GIFT City, Gandhinagar	2316	7268	276	0
+GIFT City	2316	7268	276	0	Gujarat International Finance Tec-City
+GIFT City, Gandhinagar	2316	7268	276	0	Gujarat International Finance Tec-City
 Gira	2611	7191	285	0
 Giba	2809	9404	557	0
 Gite Ripa	2813	9433	557	0

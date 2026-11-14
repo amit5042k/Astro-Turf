@@ -1,9 +1,9 @@
-Edlābād	1967	7854	282	118526
+Edlābād	1967	7854	282	118526	Ādilābād
 Edattala	1006	7638	176	77811
-Edappadi	1159	7784	51	54823
-Edaganasalai	1163	7799	51	33245
+Edappadi	1159	7784	51	54823	Idappadi
+Edaganasalai	1163	7799	51	33245	Idangansālai
 Edappāl	1078	7601	150	32550
-Edakalinadu	1226	7998	247	28172
+Edakalinadu	1226	7998	247	28172	Kottaikādu
 Edacchēri	1168	7562	262	26819
 Edavai	876	7669	219	25994
 Edaicode	838	7720	453	25378
@@ -11,20 +11,20 @@ Edavilangu	1024	7617	241	20363
 Edakkazhiyūr	1062	7600	241	17335
 Edakkode	868	7685	219	12994
 Edattirutti	1036	7617	241	12921
-Edathirinji	1036	7617	241	12921
-Edathiruthy	1036	7617	241	12921
-Edayanchavadi	1319	8027	204	12119
-Eddumailaram	1750	7812	31	11759
+Edathirinji	1036	7617	241	12921	Edattirutti
+Edathiruthy	1036	7617	241	12921	Edattirutti
+Edayanchavadi	1319	8027	204	12119	Elandacheri
+Eddumailaram	1750	7812	31	11759	Mailāram
 Edakkalathur	1059	7612	241	8039
 Edakkulam	1061	7618	241	2000
-Edpalli	1868	7795	75	0
-Edlāpur	1637	7733	50	0
+Edpalli	1868	7795	75	0	Yedapalli
+Edlāpur	1637	7733	50	0	Yadlāpur
 Edirkottai	938	7773	119	0
 Edayūr	1093	7611	150	0
-Edayar	1093	7611	150	0
+Edayar	1093	7611	150	0	Edayūr
 Edavanna	1122	7614	150	0
 Edappalli	1002	7631	176	0
-Edapally	1002	7631	176	0
+Edapally	1002	7631	176	0	Edappalli
 Edalābād	2105	7606	78	0
 Edanbāgh	3045	7775	448	0
 Edūlarepāku	1742	7900	129	0
@@ -36,7 +36,7 @@ Edulabandam	1894	7992	91	0
 Edapallī	1915	8045	288	0
 Edalpur	2789	7779	543	0
 Edalgarhi	2791	7771	177	0
-Edalpur	2836	7782	637	0
+Edalpur	2836	7782	637	0	Dhanauri
 Edbid	1901	7800	360	0
 Chinna Edgi	1838	7762	58	0
 Pedda Edgi	1839	7759	58	0
@@ -44,7 +44,7 @@ Barang Edgi	1850	7778	58	0
 Edal Ki Thār	2708	7825	403	0
 Edalpur	2745	7799	670	0
 Edbid Tānda	1902	7802	360	0
-Edha	2170	7641	209	0
+Edha	2170	7641	209	0	Badgaon
 Madha Edavalli	1722	7921	101	0
 Edulabhāvigūdem	1713	7945	101	0
 Edilpur	2558	8330	26	0

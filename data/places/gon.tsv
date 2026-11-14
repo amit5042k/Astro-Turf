@@ -1,23 +1,23 @@
 Gondā City	2713	8195	542	133583
-Gonda Oudh	2713	8195	542	133583
-Gonda	2713	8195	542	133583
+Gonda Oudh	2713	8195	542	133583	Gondā City
+Gonda	2713	8195	542	133583	Gondā City
 Gondiā	2146	8019	171	132813
 Gondal	2196	7080	174	112197
 Goniāna Mandi	3032	7491	563	15208
-Goniana	3032	7491	563	15208
+Goniana	3032	7491	563	15208	Goniāna Mandi
 Gond Pīpri	1971	7969	111	8474
 Gonikoppal	1218	7593	193	8306
 Gonua	2192	8536	272	0
 Gonour	2446	8025	532	0
-Gonmat	2795	7779	543	0
+Gonmat	2795	7779	543	0	Gomat
 Gonegandla	1571	7760	236	0
-Gonegandia	1571	7760	236	0
+Gonegandia	1571	7760	236	0	Gonegandla
 Gonebidu	1309	7571	98	0
-Gonibid	1309	7571	98	0
+Gonibid	1309	7571	98	0	Gonebidu
 Gond Umrī	2103	8008	404	0
 Gondpapa	3422	7727	2	0
 Gondpalli	1851	8110	599	0
-Gondpili	1851	8110	599	0
+Gondpili	1851	8110	599	0	Gondpalli
 Gondoch	2561	7331	273	0
 Gondla	3250	7703	425	0
 Gondia	2076	8580	289	0
@@ -25,11 +25,11 @@ Gondi	2669	7559	121	0
 Gondher	2569	7517	309	0
 Gonda	2783	7788	543	0
 Gonāwān	2536	8561	514	0
-Gonawam	2536	8561	514	0
+Gonawam	2536	8561	514	0	Gonāwān
 Gona	2441	7853	384	0
 Ghonewāla	3201	7493	222	0
-Ghonewal	3201	7493	222	0
-Ghona	2576	7282	343	0
+Ghonewal	3201	7493	222	0	Ghonewāla
+Ghona	2576	7282	343	0	Ghāna
 Ghonja	2294	8869	450	0
 Gondla	3292	7487	581	0
 Ghongrāli	3072	7611	674	0
@@ -40,7 +40,7 @@ Gondāpur	1769	7879	129	0
 Gondkheri	2401	7827	215	0
 Pathariya Gond	2414	7875	352	0
 Goni Purwa	2720	7985	686	0
-Gonashpura	2685	7922	290	0
+Gonashpura	2685	7922	290	0	Ganeshpura
 Gongchan ka Nagla	2679	7919	290	0
 Gongurha	2547	7940	614	0
 Gonihalli	1390	7702	93	0
@@ -84,7 +84,7 @@ Gondhli	2060	7823	67	0
 Gondāra	3051	7498	730	0
 Ghonpānkhri	2434	7312	212	0
 Gondlion ka Khera	2555	7416	309	0
-Ghonsān	3031	7542	726	0
+Ghonsān	3031	7542	726	0	Ghunnas
 Gondpur	2987	7799	596	0
 Ghonda	2869	7727	791	0
 Goniāna Khurd	3034	7493	563	0
@@ -373,7 +373,7 @@ Gond Khurd	2511	8155	516	0
 Gond Kalān	2512	8154	516	0
 Gondar	2506	8157	516	0
 Gondha	2505	8156	516	0
-Gondwa	2564	8177	607	0
+Gondwa	2564	8177	607	0	Girdharpur
 Gondwa Masni	2560	8179	607	0
 Gonthi	2524	8182	607	0
 Gondaha	2500	8196	607	0
@@ -448,7 +448,7 @@ Gondāwāhītola	2009	8029	135	0
 Gondpāltola	2026	8074	704	0
 Gondāhūr	2013	8058	704	0
 Gonu	3258	7626	362	0
-Gondtola	2052	8086	644	0
+Gondtola	2052	8086	644	0	Dokla
 Gondpāl	2026	8077	704	0
 Gondpāltola	2025	8077	704	0
 Ghongha	2213	8120	537	0
@@ -665,7 +665,7 @@ Gonar Bigha	2488	8534	107	0
 Gonar Bigha	2483	8537	107	0
 Goni	2495	8549	107	0
 Gonpur	2466	8543	107	0
-Gondpur	2437	8537	764	0
+Gondpur	2437	8537	764	0	Gobindpur
 Gondpur	2435	8537	764	0
 Gonūru	1426	7643	255	0
 Gonabhāvi	1459	7686	100	0
@@ -785,7 +785,7 @@ Gonikaraimund	1147	7662	115	0
 Gonūr	1182	7786	51	0
 Patrā Gondātoli	2341	8530	562	0
 Misir Gondā	2340	8532	562	0
-Pahār Gondā	2340	8532	562	0
+Pahār Gondā	2340	8532	562	0	Misir Gondā
 Kathar Gondā	2339	8531	562	0
 Gondwār	2390	8553	764	0
 Ghonghsātoli	2347	8563	562	0

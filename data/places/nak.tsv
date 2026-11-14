@@ -1,12 +1,12 @@
 Naksalbāri	2668	8822	573	57283
-Nakalbāri	2668	8822	573	57283
+Nakalbāri	2668	8822	573	57283	Naksalbāri
 Nakodar	3113	7548	369	36973
 Nakrekal	1716	7943	101	29126
 Nakūr	2992	7730	449	23084
 Nakkāpalle	1741	8272	227	7603
-Nakoda	1992	7911	111	5634
+Nakoda	1992	7911	111	5634	Navkawada
 Khambra on Nakodar Road	3127	7556	369	5483
-Naka Majiari	3360	7423	1	5033
+Naka Majiari	3360	7423	1	5033	Majhiāri
 Nakhula Grant	2612	9221	751	3806
 pedda nakkalapalem	1587	8016	220	2500
 Nākuri	3074	7835	89	0
@@ -15,18 +15,18 @@ Nākrāsar	2829	7473	539	0
 Nakraihāpāra	2400	9210	256	0
 Nako	3189	7862	83	0
 Nakkodipālem	1773	8332	81	0
-Nakad Palao	1773	8332	81	0
+Nakad Palao	1773	8332	81	0	Nakkodipālem
 Nakkaselam	1116	7872	265	0
-Nakkaselem	1116	7872	265	0
+Nakkaselem	1116	7872	265	0	Nakkaselam
 Nakhtarāna	2334	6925	108	0
-Nakhtrana	2334	6925	108	0
+Nakhtrana	2334	6925	108	0	Nakhtarāna
 Nakhola	2612	9220	751	0
 Nākhalgaon	1904	7624	33	0
-Nākawās	3354	7486	35	0
+Nākawās	3354	7486	35	0	Hākawās
 Nākāsipāra	2359	8835	528	0
 Nakachāri	2671	9440	451	0
-Naktala	2247	8838	123	0
-Nāka	2526	7739	436	0
+Naktala	2247	8838	123	0	Nagtala
+Nāka	2526	7739	436	0	Kota
 Kāki na Kot	3324	7421	504	0
 Phera na Kot	3317	7439	504	0
 Harīr ka Nakka	3312	7448	504	0
@@ -39,7 +39,7 @@ Nāke ka Khirk	2519	7895	481	0
 Nakatpur	2721	7940	688	0
 Nakelpura	2636	7936	741	0
 Katra Naki	2677	7951	715	0
-Ketra Naki	2677	7951	715	0
+Ketra Naki	2677	7951	715	0	Katra Naki
 Nakduwāpur	2662	7978	671	0
 Bīrpur Nakasia	2653	7994	671	0
 Nakaryākhera	2456	7905	663	0
@@ -49,11 +49,11 @@ Nakodesar	2836	7402	307	0
 Nakhatia	2728	9533	380	0
 Nakhangia Bongali	2735	9516	380	0
 Naktideul	2125	8454	567	0
-Nakti Khera	2945	7664	367	0
+Nakti Khera	2945	7664	367	0	Aftābgarh
 Nakhabul	2811	7686	482	0
 Naktera	3159	7717	278	0
 Nakta	2962	7538	443	0
-Nakhchandi	2863	7619	781	0
+Nakhchandi	2863	7619	781	0	Ikhtiyārpura
 Nakka	3346	7436	504	0
 Bundi Nakka	3340	7439	504	0
 Bagiālān-na Kōt	3338	7446	504	0
@@ -200,7 +200,7 @@ Nakbai	2478	8280	103	0
 Nakbahrīpur	2575	8231	32	0
 Nakhatpur	2569	8235	32	0
 Naktī	2551	8276	251	0
-Shāh Alīpur Naki	2958	7833	575	0
+Shāh Alīpur Naki	2958	7833	575	0	Bājāwāla
 Nakipur Bamnauli	2954	7836	575	0
 Nakipur Bamnauli	2953	7837	575	0
 Nakībpur	2928	7839	575	0
@@ -355,7 +355,7 @@ Talāyi Nāka	2252	7591	660	0
 Nakodar	3220	7593	38	0
 Nakta	2067	8148	668	0
 Nakāwal	2260	8050	480	0
-Nakāwat	2260	8050	480	0
+Nakāwat	2260	8050	480	0	Nakāwal
 Nakki	3116	7501	565	0
 Nāk	2610	7389	273	0
 Naksī	2161	8029	144	0
@@ -403,7 +403,7 @@ Nakiān	3120	7656	735	0
 Nakehr Kangwān	3199	7683	278	0
 Nakraul	3150	7699	278	0
 Naktāpāra	2092	8247	407	0
-Nakti	2085	8249	594	0
+Nakti	2085	8249	594	0	Nandpur
 Nakthoer	2315	7405	173	0
 Nakot	3105	7782	89	0
 Nakkarātipālem	1767	8199	268	0
@@ -456,7 +456,7 @@ Nakkalamitta	1432	8012	6	0
 Nakkavānidāri	1599	8101	68	0
 Nakhla	2376	7388	512	0
 Morel Naka	2311	7396	142	0
-Nakatpurī	2919	7907	641	0
+Nakatpurī	2919	7907	641	0	Bandpurī
 Nakadpurī	2921	7919	641	0
 Nākāl	2203	7403	126	0
 Nākāl	2202	7404	126	0
@@ -472,7 +472,7 @@ Naktahā	2661	8406	560	0
 Nakot	2960	7978	429	0
 Nakot	2970	7997	508	0
 Nakhūn	2969	7998	508	0
-Nākchhed	2651	8441	703	0
+Nākchhed	2651	8441	703	0	Amwa
 Nakti	2675	8451	476	0
 Nākud	2931	7994	554	0
 Nakela Got	2901	7999	641	0
@@ -484,7 +484,7 @@ Nakulia	2898	7973	641	0
 Nakardei	2695	8488	396	0
 Naktimāta	2178	7491	248	0
 Naktimāta	2181	7489	248	0
-Nakatpura	2872	7971	683	0
+Nakatpura	2872	7971	683	0	Naugawān
 Nakatia	2852	7973	342	0
 Nakatpur	2847	7966	342	0
 Nakti Narāyanpur	2846	7974	342	0

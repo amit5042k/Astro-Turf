@@ -1,18 +1,18 @@
-Asumumbay	1907	7288	90	12691836
+Asumumbay	1907	7288	90	12691836	Mumbai
 Āsansol	2368	8698	642	504271
-Asanol	2368	8698	642	504271
-S.A.S. Nagar	3068	7672	632	166864
+Asanol	2368	8698	642	504271	Āsansol
+S.A.S. Nagar	3068	7672	632	166864	Mohali
 Ashoknagar Kalyangarh	2286	8864	450	111475
 Ashoknagar	2458	7773	410	81828
 Ashta	2302	7672	675	53184
 Ashta	1695	7441	65	37105
 Āsandh	2952	7661	457	27125
 Asifābād	1936	7928	162	23059
-Asafabad	1936	7928	162	23059
+Asafabad	1936	7928	162	23059	Asifābād
 Āsika	1961	8466	440	21428
-Aska	1961	8466	440	21428
+Aska	1961	8466	440	21428	Āsika
 L.A.Sagaram	1390	7989	45	19904
-Asaripallam	817	7738	453	16822
+Asaripallam	817	7738	453	16822	Āchāripallam Vāniyakudi
 Āsind	2573	7433	309	16611
 Asāra	2925	7731	477	15959
 Asola	2846	7718	778	13275
@@ -20,7 +20,7 @@ Asangaon	1944	7331	246	13104
 Ashti	1938	7623	53	13084
 Ashokapuram	1110	7695	156	12993
 Āshti	1881	7518	33	11972
-Ashti Bidh	1881	7518	33	11972
+Ashti Bidh	1881	7518	33	11972	Āshti
 Asudubi	2602	9067	458	7356
 Āsan Khurd	2940	7687	298	6873
 Asarganj	2515	8669	538	6327
@@ -29,7 +29,7 @@ Singhesar Asthan	2598	8679	657	5298
 Asham	3425	7463	120	4841
 Āsara	2006	7801	67	3449
 Ashaur	3103	7587	369	1349
-Bara Aslam	3109	7547	369	412
+Bara Aslam	3109	7547	369	412	Bāra Islām
 Mārg Āsni	1828	7374	52	0
 Māl Āsoli	1977	7756	67	0
 Āshta	1845	7675	158	0
@@ -40,23 +40,23 @@ Asthānwān	2522	8563	514	0
 Astgām	2090	7304	221	0
 Astera	2723	7553	121	0
 Astaranga	1998	8627	603	0
-Astarang	1998	8627	603	0
-Astrang	1998	8627	603	0
+Astarang	1998	8627	603	0	Astaranga
+Astrang	1998	8627	603	0	Astaranga
 Astagaon	1967	7450	152	0
-Astgaon	1967	7450	152	0
+Astgaon	1967	7450	152	0	Astagaon
 Astagāl	1498	7415	102	0
 Assundi	1987	8028	135	0
 Assonora	1562	7390	188	0
 Assolna	1518	7397	102	0
 Assolda	1510	7403	102	0
 Āssegaor	2113	7758	133	0
-Āssegaon	2113	7758	133	0
-Asegaon Devi	2113	7758	133	0
+Āssegaon	2113	7758	133	0	Āssegaor
+Asegaon Devi	2113	7758	133	0	Āssegaor
 Assaye	2025	7589	53	0
 Assagao	1560	7376	188	0
 Āsra	2087	7750	133	0
 Aspura Bara	2744	7576	491	0
-Aspura	2744	7576	491	0
+Aspura	2744	7576	491	0	Aspura Bara
 Āspur	2395	7408	512	0
 Āspari	1548	7739	236	0
 Asotra	2576	7230	285	0
@@ -71,10 +71,10 @@ Asmauli	2869	7854	646	0
 Aslāoda	2324	7562	314	0
 Aslāna	2394	7931	521	0
 Askot	2978	8035	508	0
-Askote	2978	8035	508	0
+Askote	2978	8035	508	0	Askot
 Asiwan	2681	8045	312	0
 Asīāki Gorāwās	2834	7665	519	0
-Asiaki	2834	7665	519	0
+Asiaki	2834	7665	519	0	Asīāki Gorāwās
 Āshwi Khurd	1952	7437	152	0
 Āshwi Budrukh	1952	7437	152	0
 Āshwi	1935	7435	152	0
@@ -82,16 +82,16 @@ Ashwaraopet	1725	8113	60	0
 Ashti	2120	7818	143	0
 Ashti	1968	7980	135	0
 Ashti	1784	7541	132	0
-Ashta	1784	7541	132	0
+Ashta	1784	7541	132	0	Ashti
 Āshtami	1844	7313	17	0
 Āshta	2128	7421	186	0
 Ashalin	2857	9554	427	0
 Asgan	1762	7345	234	0
-Asgani	1762	7345	234	0
+Asgani	1762	7345	234	0	Asgan
 Asegaon	2003	7695	128	0
 Āsauda Todrān	2875	7687	609	0
-Asaudah Todrān	2875	7687	609	0
-Asaudah	2875	7687	609	0
+Asaudah Todrān	2875	7687	609	0	Āsauda Todrān
+Asaudah	2875	7687	609	0	Āsauda Todrān
 Asarsa	2195	7259	151	0
 Āsarlai	2621	7404	273	0
 Asāra	2434	7139	134	0
@@ -109,7 +109,7 @@ Asrasar	2889	7378	307	0
 Āsalsar	2828	7461	539	0
 Aspālsar	2858	7451	539	0
 Āsal Kheri	2845	7490	539	0
-Asal Khāri	2845	7490	539	0
+Asal Khāri	2845	7490	539	0	Āsal Kheri
 Asurābād	2227	8835	4	0
 Astar	3438	7479	120	0
 Asthanpur	3402	7480	76	0
@@ -138,7 +138,7 @@ Ashoknagar	1296	7761	43	0
 Asās ki Dhāni	2844	7569	300	0
 Aseriwāli	3067	7695	587	0
 Astāri	2524	7886	529	0
-Astahi	2524	7886	529	0
+Astahi	2524	7886	529	0	Astāri
 Asaupura	2489	7848	384	0
 Asauli	2414	7847	352	0
 Aston	2463	7881	481	0
@@ -162,7 +162,7 @@ Astal	2722	7977	686	0
 Āsānandpur	2686	7910	290	0
 Asūpura	2647	7919	290	0
 Ashna	2630	7911	741	0
-Asāhna	2630	7911	741	0
+Asāhna	2630	7911	741	0	Ashna
 Asarpura	2687	7573	121	0
 Asewa	2649	7927	715	0
 Asta	2643	7943	715	0
@@ -180,7 +180,7 @@ Asūsar	2844	7468	539	0
 Āsās	2804	7493	491	0
 Rongrā Āsimgiri	2539	9043	737	0
 Asukukhwami	2608	9454	7	0
-Asukhomi	2608	9454	7	0
+Asukhomi	2608	9454	7	0	Asukukhwami
 Āsota Mota	2227	6938	131	0
 Asāon	2609	8421	639	0
 Asansol	2409	8681	502	0
@@ -195,7 +195,7 @@ Ashtīung	3442	7454	120	0
 Asthal Bohar	2888	7664	719	0
 Āsalwās	2811	7662	519	0
 Āsiāki Tappa Jarthal	2814	7671	519	0
-Asadpur	2824	7672	519	0
+Asadpur	2824	7672	519	0	Surajpur
 Āsan	2890	7677	719	0
 Ashrafpur Matīndu	2887	7687	485	0
 Gurūkul Āshram Matīndu	2886	7685	485	0
@@ -317,8 +317,8 @@ Asthal	2785	7783	543	0
 Asthal	2783	7780	543	0
 Asthal	2781	7783	543	0
 Asthal	2795	7793	543	0
-Āsafābād	2781	7781	177	0
-Asron	3099	7650	295	0
+Āsafābād	2781	7781	177	0	Chandpura
+Asron	3099	7650	295	0	Mazra Chak Karmān
 Āsūka	2770	7729	114	0
 Asarpur	3020	7626	564	0
 Asmānpur	3091	7653	735	0
@@ -332,7 +332,7 @@ Asthal Bahera	2767	7772	177	0
 Astal	2764	7775	177	0
 Asgharpur	2750	7762	177	0
 Āshta	1780	7639	48	0
-Nagla Assu	2800	7779	543	0
+Nagla Assu	2800	7779	543	0	Nagla Devīsingh
 Asgharpur	2820	7785	637	0
 Nagla Astāwan	2722	7754	114	0
 Nagla Āsa	2713	7757	114	0
@@ -438,7 +438,7 @@ Asogpur	2742	7895	464	0
 Ashokpur	2734	7891	464	0
 Nagla Āsa	2729	7884	464	0
 Asdāi	2428	7762	215	0
-Asadkheri	2428	7762	215	0
+Asadkheri	2428	7762	215	0	Asdāi
 Ashwaraopalli	1781	7926	182	0
 Nagla Astal	2755	7810	670	0
 Kheria Āsa	2750	7804	670	0
@@ -468,8 +468,8 @@ Asāhut	2564	8102	728	0
 Ashāpu	2575	8216	718	0
 Āshāpur	2563	8222	32	0
 Asthaun	2540	7972	614	0
-Asli	2408	7935	521	0
-Asli	2407	7935	521	0
+Asli	2408	7935	521	0	Nārāyanpura
+Asli	2407	7935	521	0	Khiriya
 Asārha	2596	8288	498	0
 Aswaniyān	2580	8289	498	0
 Astariya	2162	7616	209	0
@@ -545,7 +545,7 @@ Astha	2597	8071	728	0
 Asnaulia	2431	8397	701	0
 Asea	2413	8393	743	0
 Ashoknagar	1741	7849	424	0
-Ashrafnagar	2793	7631	482	0
+Ashrafnagar	2793	7631	482	0	Raoli
 Asāti Khirak	2540	7884	529	0
 Asāti Khās	2539	7885	529	0
 Aspatkheri	2448	7808	410	0
@@ -615,7 +615,7 @@ Kheri Asra	2866	7672	609	0
 Aswān	2556	8229	32	0
 Asāwar	2653	8080	312	0
 Asohā	2659	8084	312	0
-Ashrafnagar	2674	8092	714	0
+Ashrafnagar	2674	8092	714	0	Dhurwa
 Asrenda	2652	8099	312	0
 Asehru	2647	8079	312	0
 Asad Ali Khera	2638	8085	312	0
@@ -632,17 +632,17 @@ Aslapur	2550	8283	251	0
 Asālatpur Khādar	2854	7695	763	0
 Asni	2605	8092	728	0
 Āshikpur	2902	7816	483	0
-Āsafpur Saidpur	2962	7846	575	0
-Asdullāhpur	2957	7827	575	0
+Āsafpur Saidpur	2962	7846	575	0	Bānwāla
+Asdullāhpur	2957	7827	575	0	Husainpur
 Asrafpur Dūdhli	2952	7830	575	0
-Mustafāpur Āsu	2953	7832	575	0
-Aslāmpur Bholan	2953	7843	575	0
-Muhammad Āsikpur Bhūre	2951	7838	575	0
-Muhammad Āshikpur Kamalnain	2949	7842	575	0
-Rāmpur Āsof	2950	7847	575	0
+Mustafāpur Āsu	2953	7832	575	0	Paimār
+Aslāmpur Bholan	2953	7843	575	0	Garhi
+Muhammad Āsikpur Bhūre	2951	7838	575	0	Saidpura
+Muhammad Āshikpur Kamalnain	2949	7842	575	0	Belri
+Rāmpur Āsof	2950	7847	575	0	Jhārpura
 Asdullāhpur Kaliyān	2942	7842	575	0
-Asādgarh	2934	7831	575	0
-Asgarīpur	2933	7838	575	0
+Asādgarh	2934	7831	575	0	Naurangpur
+Asgarīpur	2933	7838	575	0	Sādikābād
 Tāharpur Askran	2931	7833	575	0
 Sarāi Asnāra	2927	7840	575	0
 Ashrafpur	2763	8119	507	0
@@ -688,7 +688,7 @@ Asriganj	2682	8145	30	0
 Asganj	2678	8145	30	0
 Ashrafpur	2684	8130	30	0
 Āsti	2122	7950	141	0
-Asālatpur	2918	7831	575	0
+Asālatpur	2918	7831	575	0	Tofāpur
 Asadpur Dhamrauli	2917	7840	575	0
 Asgarīpur	2913	7846	575	0
 Ashrafpur	2668	8129	30	0
@@ -698,7 +698,7 @@ Purwa Āsre Singh	2674	8136	30	0
 Ashrafpur	2656	8146	662	0
 Ashrafābād	2653	8149	662	0
 Asandra	2670	8144	30	0
-Akbarpur Āsa	2918	7851	575	0
+Akbarpur Āsa	2918	7851	575	0	Harauli
 Āsrākhera	2913	7858	575	0
 Asnet	2972	7896	612	0
 Asrār	2441	8099	324	0
@@ -745,9 +745,9 @@ Asgarīpur	2897	7856	511	0
 Nagli Asdulla	2886	7852	483	0
 Ashrafpur Faizganj	2878	7854	483	0
 Asgarīpur	2876	7855	646	0
-Asdalpur	2898	7864	511	0
+Asdalpur	2898	7864	511	0	Bhīkanpur
 Ashta	1893	7802	360	0
-Azīzpur Āsadpur	2855	7858	646	0
+Azīzpur Āsadpur	2855	7858	646	0	Hayātnagar
 Asālatnagar Baga	2868	7868	511	0
 Asālatnagar Kalijpur	2853	7872	511	0
 Asadpur	2872	7870	511	0
@@ -774,8 +774,8 @@ Mazra Asālatpur	2863	7878	511	0
 Asālatpur Jārai	2847	7880	646	0
 Asafpur Phakaoli	2839	7891	117	0
 Asogpur	2838	7888	117	0
-Asdullāpur	2808	7888	117	0
-Asauli	2811	7886	117	0
+Asdullāpur	2808	7888	117	0	Lahra
+Asauli	2811	7886	117	0	Ahmadnagar
 Pura Rām Āsre	2740	8206	542	0
 Asaipur	2749	8210	280	0
 Mohanpur Asdaha	2729	8208	542	0
@@ -783,7 +783,7 @@ Mohanpur Asdaha	2729	8208	542	0
 Pura Rām Āsre	2717	8206	542	0
 Peoli Asānatpur	2534	8148	651	0
 Asādha	2544	8139	651	0
-Asogpur	2700	8211	542	0
+Asogpur	2700	8211	542	0	Pura Fateh Singh
 Asāpur	2721	8221	542	0
 Asnahra	2715	8220	542	0
 Ashrafpur	2704	8224	542	0
@@ -864,7 +864,7 @@ Asnabra Bāzār	2686	8255	154	0
 Asāpāra	2659	8255	553	0
 Ashrafpur	2655	8257	553	0
 Mānjha Āsopur	2657	8265	553	0
-Chak Asopur	2657	8263	553	0
+Chak Asopur	2657	8263	553	0	Chakia
 Pura Āsā Jot	2675	8266	154	0
 Āsopur	2656	8265	553	0
 Ashrafpur	2640	8255	553	0
@@ -968,7 +968,7 @@ Asthal	3263	7556	496	0
 Āsāpur	2582	8179	718	0
 Āshāpur	2599	8193	718	0
 Āshāpur Mishra	2600	8191	718	0
-Asawān	2558	8185	607	0
+Asawān	2558	8185	607	0	Hājīganj
 Asa Bano	3229	7557	692	0
 Āsāwandi	1988	8027	135	0
 Ashoknagar	2547	8182	607	0
@@ -1001,7 +1001,7 @@ Asiake	3111	7485	566	0
 Āsil	3096	7465	566	0
 Ashrafgarh	2929	7637	367	0
 Āsan	2931	7647	367	0
-Asadullānagar	2925	7764	545	0
+Asadullānagar	2925	7764	545	0	Gāwri
 Asolpānī	2133	8009	171	0
 Asarkhed	2033	7418	54	0
 Asarmā	2177	8049	144	0
@@ -1093,7 +1093,7 @@ Asadpūr	2817	7846	646	0
 Asadpūr Gher	2817	7826	637	0
 Asālatpūr	2811	7843	637	0
 Ashrafābād	2805	7834	543	0
-Ashrafābād	2802	7826	543	0
+Ashrafābād	2802	7826	543	0	Madholi
 Milk Būjpur Āsa	2885	7890	511	0
 Būjpur Āsa	2885	7891	511	0
 Āsir	2323	7646	320	0

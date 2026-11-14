@@ -1,56 +1,56 @@
-Calcutta	2256	8836	123	4631392
-Calicut	1125	7578	262	550440
+Calcutta	2256	8836	123	4631392	Kolkata
+Calicut	1125	7578	262	550440	Kozhikode
 Chalisgaon	2046	7502	78	97551
 Challakere	1432	7665	255	55194
 Kizhake Chālakudi	1030	7634	241	49525
-Chālakudi	1030	7634	241	49525
+Chālakudi	1030	7634	241	49525	Kizhake Chālakudi
 Chalthan	2115	7296	139	21795
-Calicaxigão	2038	7287	760	18434
+Calicaxigão	2038	7287	760	18434	Khali Kachigam
 Calangute	1554	7376	188	17446
 Chhala	2331	7277	276	17323
 Chālakilakākara	1185	7544	266	17088
-Chala	1185	7544	266	17088
+Chala	1185	7544	266	17088	Chālakilakākara
 Chalāla	2141	7117	216	17081
 Challapalle	1612	8093	68	16841
-Challapalli	1612	8093	68	16841
+Challapalli	1612	8093	68	16841	Challapalle
 Calapor	1546	7385	188	14077
-Takali Pr. Chalisgaon	2047	7502	78	10630
-Calcutta Bara Bazar	2257	8835	123	7985
+Takali Pr. Chalisgaon	2047	7502	78	10630	Tākli
+Calcutta Bara Bazar	2257	8835	123	7985	Bara Bazar
 Chalantapara Pt IV	2626	9058	746	5744
 Chalunka	3482	7694	2	0
-Calcutta Tengra	2255	8838	123	0
-Calcutta Narkaldanga	2257	8838	123	0
-Callingapatam	1834	8412	472	0
-Calcutta Hastings	2255	8833	123	0
-Calcutta Garden-Reach	2254	8831	123	0
-Calcutta Cossipore	2262	8838	123	0
+Calcutta Tengra	2255	8838	123	0	Tangra
+Calcutta Narkaldanga	2257	8838	123	0	Nārikeldānga
+Callingapatam	1834	8412	472	0	Kalingapatnam
+Calcutta Hastings	2255	8833	123	0	Hastings
+Calcutta Garden-Reach	2254	8831	123	0	Garden Reach
+Calcutta Cossipore	2262	8838	123	0	Cossipore
 Chhalāla	2242	7181	28	0
 Chhāl	2213	8312	439	0
-Chalholi	2417	7776	215	0
+Chalholi	2417	7776	215	0	Chādholi
 Chaltlāng	2375	9273	19	0
 Chālsa Mahābāri	2688	8880	602	0
 Chālsa	2688	8879	602	0
-Chalsa Junction	2688	8879	602	0
+Chalsa Junction	2688	8879	602	0	Chālsa
 Chalora	2280	7245	124	0
-Chaloda	2280	7245	124	0
+Chaloda	2280	7245	124	0	Chalora
 Chalong	2424	9407	685	0
 Chalkurti	1670	7927	101	0
 Chalkoi	2852	7497	539	0
 Chāliyār	1115	7582	262	0
-Chaliyam	1115	7582	262	0
+Chaliyam	1115	7582	262	0	Chāliyār
 Chāli	3303	7611	372	0
 Chalān	2740	9275	523	0
 Chalaila	3045	7637	564	0
 Chalai	848	7692	219	0
 Calicut	1160	9273	105	0
 Calate	1531	7392	102	0
-Calata	1531	7392	102	0
-Calcutta Ballygunge	2253	8837	123	0
-Calcutta Bagh Bazar	2260	8837	123	0
+Calata	1531	7392	102	0	Calate
+Calcutta Ballygunge	2253	8837	123	0	Ballygunge
+Calcutta Bagh Bazar	2260	8837	123	0	Bagh Bazar
 Chāltakhāli	2263	8802	354	0
 Chāltābāria	2223	8850	4	0
 Chal	3328	7415	504	0
-Challān	3328	7415	504	0
+Challān	3328	7415	504	0	Chal
 Chalpur	3442	7424	0	0
 Chalkri	3377	7430	1	0
 Chalni	3275	7500	581	0
@@ -64,7 +64,7 @@ Chalkāpalli	1731	7887	129	0
 Chalmeda	1712	7896	101	0
 Chālakūru	1394	7756	444	0
 Chalageri	1457	7572	92	0
-Cālim ka Adda	2680	7901	290	0
+Cālim ka Adda	2680	7901	290	0	Zālim ka Adda
 Chalnihān	2681	7920	290	0
 Chaluk	3392	7738	2	0
 Chalho	2264	8318	439	0
@@ -182,7 +182,7 @@ Chalni	2576	8339	26	0
 Chālha	2590	8345	586	0
 Chal-i-Ishardas	3375	7525	148	0
 Chālākpur	2626	8326	498	0
-Chālākpur	2569	8374	26	0
+Chālākpur	2569	8374	26	0	Paishambarpur
 Chcāl	3321	7566	372	0
 Chhal	3253	7535	496	0
 Chala	3255	7549	496	0

@@ -1,11 +1,11 @@
-Amadavad	2303	7259	124	6357693
+Amadavad	2303	7259	124	6357693	Ahmedabad
 Amritsar	3162	7488	222	1159227
 Amravati	2093	7775	133	647057
 Ambattur	1310	8016	228	466205
 Ambarnath	1920	7317	246	253475
-Amarnāth	1920	7317	246	253475
+Amarnāth	1920	7317	246	253475	Ambarnath
 Ambāla	3036	7680	691	195153
-Ambata	3036	7680	691	195153
+Ambata	3036	7680	691	195153	Ambāla
 Amroha	2890	7847	483	176253
 Ambikāpur	2312	8320	725	121071
 Amreli	2160	7121	216	117967
@@ -14,15 +14,15 @@ Ambala Sadar	3034	7686	691	104974
 Amaravati	1651	8052	319	103000
 Amalner	2104	7506	78	97369
 Ambājogāi	1873	7639	33	74114
-Ambejogai	1873	7639	33	74114
-Ambe	1873	7639	33	74114
+Ambejogai	1873	7639	33	74114	Ambājogāi
+Ambe	1873	7639	33	74114	Ambājogāi
 Āmūr	1879	7828	75	64023
-Ambika Kalna	2322	8836	375	53964
+Ambika Kalna	2322	8836	375	53964	Kālna
 Amalāpuram	1658	8201	304	53231
 Ambāh	2670	7823	478	47177
 Amudālavalasa	1841	8390	472	39799
 Amīnpur	1752	7832	31	36452
-Ameenapur	1752	7832	31	36452
+Ameenapur	1752	7832	31	36452	Amīnpur
 Ambasamudram	871	7745	191	35645
 Āmli	2028	7302	233	33369
 Ambad	1961	7579	53	31553
@@ -30,7 +30,7 @@ Amlai	2320	8158	634	30354
 Amla	2192	7813	462	30215
 Amballūr	1043	7626	241	29341
 Ambikāpuram	1079	7665	263	28592
-Ambargaon	2020	7275	261	27859
+Ambargaon	2020	7275	261	27859	Umargām
 Amarpur	2504	8690	605	25336
 Amarpātan	2431	8098	324	19409
 Ammainaickanur	1017	7791	187	19257
@@ -42,28 +42,28 @@ Amroli	2125	7284	139	17082
 Āmta	2258	8801	354	16753
 Āmbāsa	2394	9185	695	16285
 Amīngarh	1606	7595	86	15073
-Amingad	1606	7595	86	15073
-Aminagad	1606	7595	86	15073
+Amingad	1606	7595	86	15073	Amīngarh
+Aminagad	1606	7595	86	15073	Amīngarh
 Amloh	3061	7623	648	14696
 Ammāpettai	1079	7932	264	14572
-Ammapet	1079	7932	264	14572
+Ammapet	1079	7932	264	14572	Ammāpettai
 Ambahta	2986	7734	449	14303
 Ambikapur Part-X	2480	9279	378	14283
 Amarwāra	2230	7917	337	14141
 Amānganj	2443	8004	532	13886
 Amethī	2616	8181	662	13684
 Ammūr	1298	7936	160	12513
-Amatkur	1634	7781	146	12297
+Amatkur	1634	7781	146	12297	Atmākūr
 Amethi	2802	8105	323	12206
 Amarpur	2353	9166	385	11906
 Ambicapur Pt VIII	2482	9278	378	11691
 Amgaon	2137	8038	171	10972
-Amgaon bk.	2137	8038	171	10972
+Amgaon bk.	2137	8038	171	10972	Amgaon
 Ammavarikuppam	1318	7941	228	10750
 Amha	2605	8669	426	10396
 Amānpur	2771	7874	616	10362
 Ambāgarh Chauki	2078	8075	644	9889
-Ambagarh-Chowki	2078	8075	644	9889
+Ambagarh-Chowki	2078	8075	644	9889	Ambāgarh Chauki
 Amkhera	2321	7993	598	8957
 Amingaon	2618	9168	636	8855
 Ammāpettai	1162	7774	211	8552
@@ -75,16 +75,16 @@ Ammanūr	1307	7965	160	7731
 Amargarh	3046	7601	775	7339
 Ambaliyasan	2345	7242	164	7072
 Ammāpattinam	1002	7923	198	6652
-Ammapatam	1002	7923	198	6652
-Ammāpatnam	1002	7923	198	6652
+Ammapatam	1002	7923	198	6652	Ammāpattinam
+Ammāpatnam	1002	7923	198	6652	Ammāpattinam
 Aamadi	2077	8149	652	6600
 Ambivali T. Tungartan	1890	7317	17	6497
 Ambara	2219	7867	337	6282
-Ambada	2219	7867	337	6282
+Ambada	2219	7867	337	6282	Ambara
 Kila Ambur	876	7740	245	6233
 Amboli	2129	7295	139	6137
 Amardad	2170	6972	742	5872
-Ambāla	3090	7697	628	5215
+Ambāla	3090	7697	628	5215	Kasauli
 Ambepur	1869	7299	17	5035
 Amathur	956	7786	119	4708
 Amlabad	2369	8638	517	4636
@@ -94,23 +94,23 @@ Barbari (AMC Area)	2749	9493	380	2884
 Amaravati	1452	7582	275	2628
 Aamgaon	1965	8136	619	428
 Amitabh Sharma	3029	7805	448	4
-Vishalgad-Amba	1691	7374	57	0
-Amarpura	2429	7384	22	0
+Vishalgad-Amba	1691	7374	57	0	Vishālgarh
+Amarpura	2429	7384	22	0	Umpura
 Tota Ām	2955	7921	429	0
 Thān Āmgaon	2304	8037	480	0
 Sarai Amānat Khān	3151	7469	260	0
 Langadia Āmba	2137	7564	525	0
 Kāla Āmb	3050	7721	534	0
-Amaos	2570	7334	273	0
+Amaos	2570	7334	273	0	Hemāwās
 Dhengā-am	2248	8627	584	0
-Bela-Amran	2286	7053	147	0
+Bela-Amran	2286	7053	147	0	Bela
 Amwa Majhār	2674	8458	476	0
 Āmtika	2676	9053	357	0
 Amtala	2608	9142	636	0
 Āmtala	2392	8845	471	0
 Amta	2194	7393	126	0
 Amrutūr	1292	7693	93	0
-Amurtur	1292	7693	93	0
+Amurtur	1292	7693	93	0	Amrutūr
 Amrui	3435	7380	0	0
 Amrod	2512	7739	506	0
 Amritpur	2754	7960	688	0
@@ -140,17 +140,17 @@ Ammavāripālem	1446	7973	6	0
 Ammatti	1224	7586	193	0
 Ammāpur	1644	7783	317	0
 Ammani Chattram	1021	7925	264	0
-Ammanitchatram	1021	7925	264	0
+Ammanitchatram	1021	7925	264	0	Ammani Chattram
 Ammanabrolu	1558	8015	200	0
-Ammanabrole	1558	8015	200	0
+Ammanabrole	1558	8015	200	0	Ammanabrolu
 Ammalapādu	1864	8440	472	0
 Amloda	2732	7606	121	0
 Amliyāra	2322	7304	125	0
 Amlipadar	1993	8243	297	0
 Āmiia	2429	7720	336	0
-Āmlia	2429	7720	336	0
+Āmlia	2429	7720	336	0	Āmiia
 Amilia	2403	8242	631	0
-Amlia	2403	8242	631	0
+Amlia	2403	8242	631	0	Amilia
 Āmlī	2582	7630	313	0
 Amli	2562	7502	309	0
 Āmli	2484	7312	23	0
@@ -167,7 +167,7 @@ Amjhor	2368	8155	634	0
 Amjhor	2354	8139	634	0
 Amjhera	2256	7512	130	0
 Amīnbhāvi	1554	7506	682	0
-Amīn	2990	7687	501	0
+Amīn	2990	7687	501	0	Abhimanyupur
 Amili	2842	9585	427	0
 Amhat	2578	8381	26	0
 Amhāra	2628	8733	667	0
@@ -177,14 +177,14 @@ Amgawān	2308	8046	480	0
 Amgaon	2309	8179	225	0
 Āmgaon	2290	7873	522	0
 Amagaon	2286	7906	522	0
-Āmgaon	2286	7906	522	0
+Āmgaon	2286	7906	522	0	Amagaon
 Āmgaon	2092	8079	474	0
 Āmgaon	2064	7995	135	0
-Ambgaon	2064	7995	135	0
-Āmgaon Butti	2064	7995	135	0
+Ambgaon	2064	7995	135	0	Āmgaon
+Āmgaon Butti	2064	7995	135	0	Āmgaon
 Ametha	2441	7643	333	0
 Amber	2699	7586	121	0
-Āmer	2699	7586	121	0
+Āmer	2699	7586	121	0	Amber
 Amdi	2387	8147	634	0
 Amdara	2410	8058	324	0
 Āmdāpur	2041	7644	49	0
@@ -205,7 +205,7 @@ Ambedem	1555	7416	188	0
 Ambeachi-Gavol	1563	7418	188	0
 Āmbavna	1862	7338	52	0
 Ambavli	1773	7354	234	0
-Amboli	1773	7354	234	0
+Amboli	1773	7354	234	0	Ambavli
 Ambaulim	1520	7406	102	0
 Ambarpet	1840	7852	58	0
 Ambarim	1557	7388	188	0
@@ -216,17 +216,17 @@ Ambapani	2427	7442	633	0
 Ambaltek	1877	7655	33	0
 Ambaligolla	1419	7528	346	0
 Ambalga Buzurg	1816	7687	158	0
-Ambālga	1816	7687	158	0
+Ambālga	1816	7687	158	0	Ambalga Buzurg
 Ambalga	1761	7689	71	0
 Āmbaldi	2139	7106	216	0
 Āmbaldi	2118	7134	216	0
 Ambālasamudram	1036	7926	264	0
 Ambalapuzha	938	7636	243	0
-Ambalapulai	938	7636	243	0
+Ambalapulai	938	7636	243	0	Ambalapuzha
 Ambajiri	1888	8403	252	0
 Ambājhari	2105	7884	141	0
 Ambahta Sheikha	2965	7762	449	0
-Ambehta Sheikha	2965	7762	449	0
+Ambehta Sheikha	2965	7762	449	0	Ambahta Sheikha
 Ambagarattūr	1096	7973	455	0
 Āmbād	1807	7535	132	0
 Ambābhona	2158	8348	497	0
@@ -245,7 +245,7 @@ Amauli	2601	8031	728	0
 Amatulla	2695	9214	523	0
 Āmās	2463	8466	118	0
 Amuwara	2666	7649	116	0
-Amārwā	2666	7649	116	0
+Amārwā	2666	7649	116	0	Amuwara
 Amarsar	2737	7583	121	0
 Amarpura	2826	7285	307	0
 Amarpura	2636	7412	273	0
@@ -257,18 +257,18 @@ Amaria	2876	7973	683	0
 Amargol	1540	7510	682	0
 Amargarh	2626	7675	447	0
 Amargarh	2569	7890	433	0
-Amra	2569	7890	433	0
+Amra	2569	7890	433	0	Amargarh
 Amarda	2179	8713	382	0
 Amarchinta	1637	7777	146	0
 Amaravati	1658	8036	10	0
 Amaravati	1002	7877	454	0
 Amarāpuuram	1413	7698	444	0
-Amarapur	1413	7698	444	0
+Amarapur	1413	7698	444	0	Amarāpuuram
 Amārāpur	1928	7518	152	0
 Amānīganj	2667	8177	629	0
 Āmangal	1685	7853	62	0
 Āmancharla	1442	7986	6	0
-Āmancherla	1442	7986	6	0
+Āmancherla	1442	7986	6	0	Āmancharla
 Amanambākkam	1322	8003	228	0
 Āmāmora	2044	8241	297	0
 Āmalpāda	2125	7368	127	0
@@ -280,7 +280,7 @@ Amal	2027	7298	233	0
 Āmabera	2007	8133	704	0
 Ama	2688	8265	154	0
 Amrāsar	2878	7472	539	0
-Amrasa	2878	7472	539	0
+Amrasa	2878	7472	539	0	Amrāsar
 Amgachia	2241	8831	4	0
 Amtala	2237	8828	4	0
 Āmria	2227	8819	4	0
@@ -310,7 +310,7 @@ Amwala Tarla	3037	7800	448	0
 Āmbwāla	3013	7777	449	0
 Amānatgarh	3009	7781	326	0
 Ampahta Yākūbpur	2965	7742	328	0
-Ampahta Uākūbpur	2965	7742	328	0
+Ampahta Uākūbpur	2965	7742	328	0	Ampahta Yākūbpur
 Ambahta Rindān	2956	7729	328	0
 Amla	2953	7736	328	0
 Amba	2501	7553	417	0
@@ -320,7 +320,7 @@ Amratiya	2559	7551	353	0
 Amarpura	2562	7560	353	0
 Amarpur Jorāsi	2802	7606	694	0
 Ameli	2996	7871	612	0
-Ameh	2996	7871	612	0
+Ameh	2996	7871	612	0	Ameli
 Amāldu	2993	7853	612	0
 Amola	2987	7853	612	0
 Amkholi	2984	7860	612	0
@@ -344,11 +344,11 @@ Ambattur	1308	8009	228	0
 Amudūr	1317	8001	228	0
 Āmbāpāni	2474	7554	417	0
 Amīnpura	2843	7565	300	0
-Shri Amarpura	2809	7563	300	0
+Shri Amarpura	2809	7563	300	0	Shri Arnarpura
 Āmbwāla	3074	7693	587	0
 Amka	3074	7696	587	0
 Amblāla	3056	7679	632	0
-Amrāla	3061	7699	587	0
+Amrāla	3061	7699	587	0	Armāla
 Amarpur	2476	7842	384	0
 Amora	2464	7865	384	0
 Amarpur	2481	7886	481	0
@@ -360,14 +360,14 @@ Habibullāhpur Amritpur	2774	7953	470	0
 Amaiyāpur	2761	7962	688	0
 Āmilia	2757	7970	470	0
 Amlauna	2751	7971	470	0
-Amlauha	2751	7971	470	0
+Amlauha	2751	7971	470	0	Amlauna
 Amrauli	2713	7984	570	0
 Amita Purwa	2707	7979	570	0
 Ām Purwa	2708	7981	570	0
 Amān Purwa	2705	7980	570	0
 Jalālpur Amra	2708	7993	570	0
 Amar ka Nagla	2679	7922	290	0
-Amritpur	2682	7907	290	0
+Amritpur	2682	7907	290	0	Imratpur
 Amdāpur	2649	7923	290	0
 Mihauna Amota	2637	7921	741	0
 Amkherā	2621	7925	741	0
@@ -385,14 +385,14 @@ Ambiāpur	2651	7983	671	0
 Ambalavayal	1162	7621	242	0
 Amaravathy	996	7624	176	0
 Āmihorā	2635	9000	713	0
-Manathanathu Ambalam	1130	7587	262	0
+Manathanathu Ambalam	1130	7587	262	0	Manathanathu Temple
 Amarpura	2860	7406	307	0
 Amarsar	2837	7425	539	0
 Amguri	2662	9023	713	0
 Amranga	2604	9153	636	0
 Amrikhoa	2635	9125	358	0
 Amrauniya	2463	7969	663	0
-Amronia	2463	7969	663	0
+Amronia	2463	7969	663	0	Amrauniya
 Amardand	2406	8062	351	0
 Pauli Amauli	2753	8171	294	0
 Amrāpur	2117	7043	185	0
@@ -481,9 +481,9 @@ Amarkut	3047	7764	534	0
 Amdhār	3053	7776	534	0
 Kāla Amb	3053	7781	534	0
 Amrābād	2661	7627	708	0
-Amīrpur Bega	2941	7810	575	0
+Amīrpur Bega	2941	7810	575	0	Begāwāla
 Amīrpur Dharmnagri Bari	2940	7809	575	0
-Amīrpur Gāngu	2938	7823	575	0
+Amīrpur Gāngu	2938	7823	575	0	Mīrpur
 Lutāna Amīchand	2870	7546	539	0
 Dhāni Amargir	2847	7536	539	0
 Amīchandwāla	2974	7821	596	0
@@ -504,7 +504,7 @@ Amoda	2332	7888	352	0
 Amoda	2302	7872	522	0
 Āmākhoh	2324	7888	352	0
 Amarpur	2698	7690	708	0
-Amlāpur	2965	7720	328	0
+Amlāpur	2965	7720	328	0	Govindgarh
 Āmwāli	2957	7718	328	0
 Ambehti	2987	7733	449	0
 Amarpur	2989	7735	449	0
@@ -583,7 +583,7 @@ Amrāgādri ka Khera	2503	7461	417	0
 Āmli	2519	7469	309	0
 Jwāsiya Āmbonka	2510	7466	417	0
 Amarpura	3043	7557	726	0
-Amla Singhwāla	3043	7557	726	0
+Amla Singhwāla	3043	7557	726	0	Amarpura
 Kotra Amru	3010	7573	593	0
 Amarpur Qāzi	2988	7780	596	0
 Ambkheri	2974	7794	596	0
@@ -655,11 +655,11 @@ Ambāpur	2611	7518	446	0
 Amarpur Palākha	2823	7755	588	0
 Amānullāhpur	2825	7767	588	0
 Amargarhi	2803	7774	543	0
-Patti Amarsingh	2893	7783	700	0
+Patti Amarsingh	2893	7783	700	0	Pachgaon
 Amarpur	2891	7788	700	0
 Amehra Sāni	2893	7784	700	0
 Amādpur	2896	7788	700	0
-Amīnābād	2893	7793	700	0
+Amīnābād	2893	7793	700	0	Barāgaon
 Amarsinghpur	2896	7799	700	0
 Ambaitpur	2873	7781	756	0
 Amlai	2725	8846	85	0
@@ -687,7 +687,7 @@ Taprīan Amarsingh	3094	7633	735	0
 Amargarh	3084	7633	648	0
 Amrāla	3082	7639	648	0
 Amrāli	3083	7641	735	0
-Amānpur	3045	7639	564	0
+Amānpur	3045	7639	564	0	Khalifāwāla
 Amargarh	3046	7645	648	0
 Amarpur	2789	7798	543	0
 Amāmnagar	3015	7630	564	0
@@ -741,7 +741,7 @@ Amlipadar	2003	8120	704	0
 Amethi	2069	8159	652	0
 Amlipāra	2052	8164	652	0
 Āmpāni	2054	8169	652	0
-Ammakona	2054	8169	652	0
+Ammakona	2054	8169	652	0	Āmpāni
 Amora	2038	8158	704	0
 Amlidihi	2047	8163	704	0
 Āmāpāra	2043	8172	704	0
@@ -920,7 +920,7 @@ Ambāri	2111	7933	141	0
 Ambāri	2106	7937	141	0
 Āmgaon	2196	7951	368	0
 Āmātola	2175	7973	144	0
-Amarpur	2699	7755	114	0
+Amarpur	2699	7755	114	0	Dauharda ka Pura
 Amarpura	2676	7758	622	0
 Amrēri	2795	7952	470	0
 Amaipur	2794	7960	470	0
@@ -1000,7 +1000,7 @@ Amhera	2472	7772	410	0
 Amāhi	2468	7773	410	0
 Amoda	2459	7758	410	0
 Amāhi	2453	7770	410	0
-Āmkhera	2449	7768	410	0
+Āmkhera	2449	7768	410	0	Pathariya
 Amāhi Kachnār	2445	7759	410	0
 Āmkhera Rāi	2441	7763	336	0
 Āmkhera Sūkha	2439	7767	336	0
@@ -1029,7 +1029,7 @@ Amosi	2770	7834	670	0
 Amratpur	2764	7845	670	0
 Ambarpur	2757	7832	711	0
 Nagla Ām	2758	7827	670	0
-Nagla Am	2756	7835	711	0
+Nagla Am	2756	7835	711	0	Maqsūdpur
 Ammanbole	1735	7927	101	0
 Amberpet	1732	7941	101	0
 Ammatvāgu	1715	7931	101	0
@@ -1138,8 +1138,8 @@ Amba	2539	8314	251	0
 Amolāpar	2549	8313	251	0
 Amāni	2549	8317	724	0
 Amlāi	2539	8325	724	0
-Amlāi	2540	8325	724	0
-Amilāi	2538	8324	724	0
+Amlāi	2540	8325	724	0	Patti
+Amilāi	2538	8324	724	0	Ālūdānr
 Amrīpur	2538	8321	724	0
 Ama Chak	2536	8322	724	0
 Amra	2528	8324	724	0
@@ -1173,7 +1173,7 @@ Amarpur Devra	2517	7804	436	0
 Ambābāi	2555	7850	433	0
 Amara	2543	8331	724	0
 Amāwal	2535	8329	724	0
-Amlisgaon	2528	8328	724	0
+Amlisgaon	2528	8328	724	0	Dānūpur
 Amādpur	2549	8338	724	0
 Amwa Dīh	2547	8345	26	0
 Amarpura	2450	7955	663	0
@@ -1198,7 +1198,7 @@ Ambāpura	2215	7751	462	0
 Āmdhāna	2200	7757	462	0
 Āmlīdhāna	2204	7762	462	0
 Āmāpura	2223	7763	462	0
-Āmdhāna	2202	7776	462	0
+Āmdhāna	2202	7776	462	0	Naharpur
 Āmāgohān	2208	7785	462	0
 Āmdhāna	2219	7789	462	0
 Āmdhāna	2203	7799	462	0
@@ -1321,7 +1321,7 @@ Ambesāngvi	1806	7727	170	0
 Ambāri Tānda	1970	7822	140	0
 Ambāri	1969	7821	140	0
 Amwār	2357	7803	215	0
-Chak Amwār	2356	7804	215	0
+Chak Amwār	2356	7804	215	0	Rāmgarh
 Amrohi Parrāt	2350	7810	215	0
 Amarpur	2354	7819	215	0
 Amlāpur	1927	7815	140	0
@@ -1580,17 +1580,17 @@ Amrā	2573	8284	32	0
 Amhit	2569	8296	32	0
 Ambāra Pachhim	2613	8095	681	0
 Amargarh	2903	7801	700	0
-Muhammad Amīn Khānpur	2970	7840	575	0
-Muhammad Amīn Khānpur	2969	7840	575	0
-Muhammad Amīn Khānpur	2969	7839	575	0
-Amānullāhpur	2963	7832	575	0
-Muhammadpur Aman Khān	2959	7846	575	0
+Muhammad Amīn Khānpur	2970	7840	575	0	Jattīwāla
+Muhammad Amīn Khānpur	2969	7840	575	0	Jattīwāla
+Muhammad Amīn Khānpur	2969	7839	575	0	Jattīwāla
+Amānullāhpur	2963	7832	575	0	Garhwāla
+Muhammadpur Aman Khān	2959	7846	575	0	Kot Kādīr
 Āmla Akbarpur	2959	7839	575	0
 Āmka Hasan	2954	7841	575	0
-Amānnagar	2952	7834	575	0
+Amānnagar	2952	7834	575	0	Mangas
 Ghansūrpur Amrauli	2942	7844	575	0
 Amīnābād	2932	7841	575	0
-Amraul	2931	7842	575	0
+Amraul	2931	7842	575	0	Firozpur
 Amkhera	2930	7848	575	0
 Amhera	2926	7829	575	0
 Amdih	2470	8273	103	0
@@ -1681,7 +1681,7 @@ Purwa Amān Bisain	2662	8148	30	0
 Purwa Amrit Singh	2658	8149	30	0
 Amajwal	2659	8147	30	0
 Āmgaon	2084	7916	141	0
-Amgaon	2083	7916	141	0
+Amgaon	2083	7916	141	0	Deolī
 Amānatpur	2912	7851	575	0
 Amīnābād	2921	7864	575	0
 Amānatābād	2925	7874	511	0
@@ -1712,7 +1712,7 @@ Amiānwāla	2924	7883	511	0
 Pura Amba	2635	8139	681	0
 Amliha	2638	8140	662	0
 Amāwān	2631	8135	681	0
-Amar Jhānda	2916	7891	641	0
+Amar Jhānda	2916	7891	641	0	Shiblālpur
 Pura Amir Singh	2641	8150	662	0
 Amira	2628	8146	662	0
 Amgaon	2074	7956	404	0
@@ -1894,7 +1894,7 @@ Amilia	2707	8289	292	0
 Amildīha	2725	8291	292	0
 Amra Koel	2701	8294	647	0
 Bāhbol Ama	2716	8295	292	0
-Amīrnagar	1873	7855	75	0
+Amīrnagar	1873	7855	75	0	Damanapeta
 Ambāripeta	1866	7871	63	0
 Pura Amar Lāl	2698	8209	542	0
 Purwa Amar Singh	2692	8206	542	0
@@ -1930,7 +1930,7 @@ Amauli	2689	8239	154	0
 Amar	2696	8243	542	0
 Amaldiha	2698	8246	542	0
 Amdhanpur	2683	8248	154	0
-Amaulipur	2682	8231	154	0
+Amaulipur	2682	8231	154	0	Hanumānpur
 Amauni	2659	8230	629	0
 Amāri	2660	8230	629	0
 Amir Bāndi	2656	8225	629	0
@@ -2006,7 +2006,7 @@ Amorhwa	2662	8289	154	0
 Amauli	2658	8290	647	0
 Amrauna	2666	8289	154	0
 Amānābād	2672	8292	154	0
-Khakhra Amānābād	2666	8281	154	0
+Khakhra Amānābād	2666	8281	154	0	Jagannāthpur
 Amarha	2586	8339	586	0
 Amarsehpur	2591	8334	498	0
 Amāri	2600	8349	586	0
@@ -2183,7 +2183,7 @@ Ambāri	2537	8154	651	0
 Amlia	2533	8163	607	0
 Amwa	2537	8159	651	0
 Majhiāri Āmad Chail	2535	8165	607	0
-Amrain	2538	8167	607	0
+Amrain	2538	8167	607	0	Muhīuddīnpur
 Amraha	2513	8155	516	0
 Amalia	2511	8151	516	0
 Amilia	2503	8161	516	0
@@ -2192,7 +2192,7 @@ Amīnpur	3202	7529	487	0
 Jhela Amda Shakargarh	3222	7547	692	0
 Jhela Amda Gurdāspur	3221	7546	692	0
 Amia da Drabbar	3272	7559	496	0
-Amrauna	2588	8186	718	0
+Amrauna	2588	8186	718	0	Sarkān ka Pura
 Amīlha	2589	8185	718	0
 Amrauna	2587	8187	718	0
 Āmmau	2597	8195	718	0
@@ -2201,7 +2201,7 @@ Amlaha	2584	8191	718	0
 Amīnganj Bāzār	2563	8188	607	0
 Amīpura	2558	8188	607	0
 Amānganj	2567	8189	607	0
-Amarsāpur	2546	8198	607	0
+Amarsāpur	2546	8198	607	0	Lālganj
 Amreha	2529	8179	607	0
 Amlahwa	2522	8177	607	0
 Āmba	2519	8184	607	0
@@ -2269,7 +2269,7 @@ Amjhar	2243	8031	480	0
 Āmāhī	2240	8030	480	0
 Amādongrī	2247	8043	480	0
 Amwāhī	2209	8038	144	0
-Āmātolā	2278	8055	480	0
+Āmātolā	2278	8055	480	0	Sudgaon
 Āmgaon	2285	8065	468	0
 Amlītolā	2283	8071	480	0
 Amarpur	2283	8075	468	0
@@ -2668,7 +2668,7 @@ Amālipāli	2174	8350	627	0
 Amurra	2161	8337	635	0
 Ambhera	2897	7824	483	0
 Amoda	2150	8332	635	0
-Amarthal	2849	7815	637	0
+Amarthal	2849	7815	637	0	Unchagāon
 Amargarh	2848	7813	637	0
 Amarpūr	2841	7821	637	0
 Amenthā	2838	7822	637	0
@@ -2813,12 +2813,12 @@ Ammapada	1861	8245	316	0
 Ambāpoda	1855	8249	316	0
 Ambapoda	1829	8249	268	0
 Ambiliputti	1907	8327	316	0
-Amboguda	1917	8339	363	0
+Amboguda	1917	8339	363	0	Hikimiguda
 Amlabata	1924	8343	363	0
 Ambiri	1819	8238	268	0
 Amdelu	1816	8245	268	0
 Amboguda	1894	8254	316	0
-Ambotāguda	1878	8253	316	0
+Ambotāguda	1878	8253	316	0	Konjaiguda
 Ammatālliguda	1882	8272	316	0
 Ambotiguda	1878	8275	316	0
 Ambataguda	1862	8250	316	0
@@ -3051,7 +3051,7 @@ Amalpāda	2158	7407	186	0
 Āmoda	2152	7407	127	0
 Amarpur	2550	7425	309	0
 Amdi ka Khera	2576	7431	309	0
-Amarpura	2596	7441	446	0
+Amarpura	2596	7441	446	0	Gaini
 Āmli	2529	7431	309	0
 Āmli ka Khera	2528	7432	309	0
 Kaulīn Āmli	2533	7436	309	0
@@ -3169,7 +3169,7 @@ Amdāri	2577	8411	536	0
 Amghāt	2580	8419	536	0
 Amīrnagar	2845	7977	342	0
 Amrā Karor	2832	7982	683	0
-Amkheria	2844	7981	683	0
+Amkheria	2844	7981	683	0	Muhammadganj
 Amilia Tāluka	2849	7983	683	0
 Āmdār	2847	7988	683	0
 Āmkhera Lakhnau	2846	7986	683	0
@@ -3197,7 +3197,7 @@ Bishunpur Ambā	2464	8422	137	0
 Amarpur	2458	8424	137	0
 Amarpur	2537	8403	620	0
 Amuwa	2526	8416	409	0
-Ambā	2417	8401	701	0
+Ambā	2417	8401	701	0	Supwā
 Amwā	2415	8419	701	0
 Amānattolī	2409	8419	701	0
 Amaithi	2513	8414	409	0
@@ -3573,7 +3573,7 @@ Amīrganj	2590	8780	613	0
 Amra	2597	8788	610	0
 Amlābāri Milik	2592	8791	610	0
 Āmjora	2492	8706	605	0
-Amarbarhāit	2481	8706	605	0
+Amarbarhāit	2481	8706	605	0	Dārghāti
 Amba	2476	8702	605	0
 Amra Kanali	2480	8710	592	0
 Amra Kāmat	2481	8710	592	0
@@ -3641,7 +3641,7 @@ Amankhedi	2190	7596	329	0
 Āmoda	2115	7583	78	0
 Ambapuram	1656	7968	10	0
 Ambādi	2068	7555	78	0
-Amba	2065	7550	78	0
+Amba	2065	7550	78	0	Vadgaon
 Āmkheda	2059	7562	113	0
 Ambājīpet	1799	7839	400	0
 Amnrugūda	1750	7853	424	0
@@ -3708,7 +3708,7 @@ Ammavāripeta	1491	7898	229	0
 Amadagūru	1389	7802	444	0
 Ammatahalli	1353	7804	438	0
 Ammallabandakota	1366	7818	195	0
-Ambājidurga	1340	7800	438	0
+Ambājidurga	1340	7800	438	0	Upparapete
 Ammerahalli	1311	7810	47	0
 Amaldarānipalle	1374	7826	195	0
 Ammacheruvupalli	1357	7837	47	0
@@ -3989,7 +3989,7 @@ Amdangal	2404	8697	770	0
 Amdangal	2401	8691	770	0
 Āmdangal	2408	8685	502	0
 Amdiha	2407	8677	502	0
-Amwātikar	2377	8409	707	0
+Amwātikar	2377	8409	707	0	Murwai Khurd
 Amdihā	2389	8413	707	0
 Ambātoli	2325	8416	321	0
 Ambātoli	2314	8418	321	0
@@ -4044,7 +4044,7 @@ Amkuli	2307	8473	321	0
 Kotnā Ambātoli	2400	8475	707	0
 Ambādih	2390	8481	707	0
 Amjariātoli	2378	8477	707	0
-Amarwādih	2385	8491	707	0
+Amarwādih	2385	8491	707	0	Phulbāsiā
 Ambākhārītoli	2390	8491	707	0
 Amātānrtoli	2384	8494	707	0
 Amiātānrtoli	2373	8480	707	0

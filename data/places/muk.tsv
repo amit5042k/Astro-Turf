@@ -8,9 +8,9 @@ Mukkūdal	874	7752	191	14983
 Mukāsi Pidāriyūr	1120	7760	211	14143
 Mukhiguda	1944	8285	284	6155
 Jawāla Mukhi	3187	7632	38	5361
-Mukarramatpur	2886	7757	727	5024
+Mukarramatpur	2886	7757	727	5024	Sikhera
 Mukmelpur	2879	7716	769	4931
-Mukhmerpur	2879	7716	769	4931
+Mukhmerpur	2879	7716	769	4931	Mukmelpur
 Manakkudi Mukkuvartura	809	7748	453	4083
 Mukutban	1981	7885	67	0
 Mukuria	2563	8789	625	0
@@ -23,20 +23,20 @@ Mukhrāwān	2532	8385	749	0
 Mukhīm	3058	7847	500	0
 Mukhalingam	1860	8396	472	0
 Mukhāchariduār	2346	9185	695	0
-Mukhāb	2623	7150	285	0
+Mukhāb	2623	7150	285	0	Mokhāb
 Mukdega	2234	8368	439	0
 Mukapullee	1983	8007	135	0
-Mukapalli	1983	8007	135	0
+Mukapalli	1983	8007	135	0	Mukapullee
 Mūkapāra	1862	8110	288	0
 Mukandpur	3113	7595	295	0
 Mukandara	2482	7598	371	0
-Mukandwāra	2482	7598	371	0
+Mukandwāra	2482	7598	371	0	Mukandara
 Muqām	3445	7457	120	0
 Mūkābeli	1911	8054	288	0
-Mukhatra	2480	7204	343	0
+Mukhatra	2480	7204	343	0	Mokhātra
 Mukramābād	1848	7737	140	0
 Mukarairi	3429	7485	595	0
-Mukaralri	3429	7485	595	0
+Mukaralri	3429	7485	595	0	Mukarairi
 Mukām	3450	7408	0	0
 Chak Sharīda Muku	3413	7472	611	0
 Muqām	3435	7427	0	0
@@ -46,24 +46,24 @@ Shāth Muqām	3447	7428	0	0
 Muqām Sharifdār	3448	7444	0	0
 Muqām	3448	7445	0	0
 Mukhra	3268	7477	581	0
-Mukhr	3268	7477	581	0
+Mukhr	3268	7477	581	0	Mukhra
 Mukandpura	2805	7600	705	0
 Mukunūru	1721	7875	62	0
 Mukhdwāram	1324	8032	228	0
 Mukteshwar	2947	7965	326	0
 Mukhtyāryingh ka Plot	3006	7654	501	0
-Mukhtyārsingh ka Plot	3006	7654	501	0
+Mukhtyārsingh ka Plot	3006	7654	501	0	Mukhtyāryingh ka Plot
 Mukandpur	3054	7686	632	0
 Mukām	3019	7699	691	0
 Mukarpur	3000	7693	501	0
-Nagla Mukand	2698	7901	464	0
+Nagla Mukand	2698	7901	464	0	Nagla Makund
 Mukandpur	2697	7917	290	0
 Mukandi ka Nagla	2681	7901	290	0
 Mukandpura	2688	7566	121	0
 Muktāpur	2642	9174	636	0
 Mukīmpur	2663	8204	629	0
 Mukkamalla	1516	7826	232	0
-Mukkamella	1516	7826	232	0
+Mukkamella	1516	7826	232	0	Mukkamalla
 Mukhla	2548	9222	165	0
 Mukta	2181	8279	402	0
 Mukundapur	2284	8844	450	0
@@ -94,9 +94,9 @@ Mukandpur	2982	7743	449	0
 Muqarabpur Kandera	2916	7732	477	0
 Mukīmpura	2907	7742	477	0
 Mukunda	2263	7873	522	0
-Mukāsa	2210	7852	337	0
+Mukāsa	2210	7852	337	0	Mohgaon
 Mukākhera	2253	7897	337	0
-Muktāpur	2138	7841	141	0
+Muktāpur	2138	7841	141	0	Peth Ismāīlpur
 Mukni	2138	7858	141	0
 Mukandpura	2597	7660	116	0
 Muqarrabpur	2993	7794	596	0
@@ -226,7 +226,7 @@ Mukhām Khera	2652	8110	681	0
 Purwa Mukhtār	2671	8125	30	0
 Mukhipur	2680	8132	30	0
 Mukarpur	2920	7842	575	0
-Muhammad Alīpur Mukta	2924	7848	575	0
+Muhammad Alīpur Mukta	2924	7848	575	0	Shekhūpur
 Muqām Pīrān	3417	7407	301	0
 Muqam Salyadāni	3410	7403	301	0
 Mukām	2912	7854	575	0
@@ -243,7 +243,7 @@ Pura Mukhta Awasthi	2666	8171	629	0
 Mukandpur	2693	8182	542	0
 Muqarrabpur	2853	7877	511	0
 Mukutpura Ahraula	2874	7892	511	0
-Mukurpur	2861	7897	552	0
+Mukurpur	2861	7897	552	0	Muhammadganj
 Muqām	3398	7465	76	0
 Muqām Donār	3376	7477	678	0
 Parsauli Mukīmpur	2661	8203	629	0
@@ -485,7 +485,7 @@ Mukkalatturu	1321	7920	214	0
 Mukkaravānipalli	1335	7940	214	0
 Mukkurumbi	1260	7922	197	0
 Mukundarāyapuram	1297	7931	160	0
-Mukundarāyapuram	1299	7930	160	0
+Mukundarāyapuram	1299	7930	160	0	Lālāpettai
 Mukkūr	1264	7946	197	0
 Mūkkunam	1234	7947	202	0
 Mukuttivitu	1174	7600	242	0

@@ -1,32 +1,32 @@
-Alla Abba Habab	2544	8184	607	1073438
-Allahabad	2544	8184	607	1073438
+Alla Abba Habab	2544	8184	607	1073438	Prayagraj
+Allahabad	2544	8184	607	1073438	Prayagraj
 Alīgarh	2788	7807	543	753207
 Alwar	2756	7662	482	322568
-Alwar City	2756	7662	482	322568
+Alwar City	2756	7662	482	322568	Alwar
 Alappuzha	949	7633	243	240991
-Alappula	949	7633	243	240991
-Aleppi	949	7633	243	240991
-Alapulai	949	7633	243	240991
-Alapalli	949	7633	243	240991
-Alapolai	949	7633	243	240991
-Allapuza	949	7633	243	240991
+Alappula	949	7633	243	240991	Alappuzha
+Aleppi	949	7633	243	240991	Alappuzha
+Alapulai	949	7633	243	240991	Alappuzha
+Alapalli	949	7633	243	240991	Alappuzha
+Alapolai	949	7633	243	240991	Alappuzha
+Allapuza	949	7633	243	240991	Alappuzha
 Alandur	1300	8021	247	164430
 Allinagaram	1003	7748	194	94453
-Theni Allinagaram	1003	7748	194	94453
+Theni Allinagaram	1003	7748	194	94453	Allinagaram
 Alīpur Duār	2648	8952	752	65232
-Alipur	2648	8952	752	65232
-Alipur Duars	2648	8952	752	65232
-Aligarh	2803	7829	543	47512
+Alipur	2648	8952	752	65232	Alīpur Duār
+Alipur Duars	2648	8952	752	65232	Alīpur Duār
+Aligarh	2803	7829	543	47512	Atraulī
 Alangad	1010	7629	176	47329
 Alengād	1012	7630	176	47329
 Aland	1756	7657	71	42371
 Wāris Alīganj	2502	8564	107	35243
 Ālankōd	1075	7603	150	33918
-Alamcode	1075	7603	150	33918
+Alamcode	1075	7603	150	33918	Ālankōd
 Almora	2960	7966	429	32442
 Allapuram	1290	7913	189	31211
 Alandi	1868	7390	52	28645
-Alandi-Devachi	1868	7390	52	28645
+Alandi-Devachi	1868	7390	52	28645	Alandi
 Ālangulam	886	7750	245	28558
 Alirajpur	2230	7436	155	28498
 Ali	2852	7731	419	27169
@@ -37,7 +37,7 @@ Aluva	1011	7635	176	24108
 Alwaye	1011	7635	176	23703
 Alībāg	1865	7288	17	20752
 Alīpur	2880	7713	769	20736
-Aalo	2822	9485	37	20684
+Aalo	2822	9485	37	20684	Jining
 Ālampālaiyam	1136	7777	231	20286
 Alang	2140	7218	168	18480
 Along	2817	9480	37	18425
@@ -50,31 +50,31 @@ Aliyābād	1263	7922	197	14304
 Allāhganj	2755	7969	470	13824
 Ālangudi	1036	7898	198	12367
 Alangānallūr	1005	7809	274	12331
-Alagiapāndipuram	830	7744	453	11392
+Alagiapāndipuram	830	7744	453	11392	Azhagiapāndipuram
 Allipur	1768	7763	31	11276
 Allāpalli	1943	8006	135	10772
-Alāpillai	1943	8006	135	10772
+Alāpillai	1943	8006	135	10772	Allāpalli
 Alampur	2603	7880	334	10686
 Ala	1025	7619	241	10493
-Alhoran	3040	7616	564	10218
+Alhoran	3040	7616	564	10218	Lāhauran Bara
 Ālwārkurichchi	878	7740	245	10045
-Alvurkurchi	878	7740	245	10045
+Alvurkurchi	878	7740	245	10045	Ālwārkurichchi
 Allipura	1349	7746	438	9930
 Alūr	1060	7610	241	9807
 Alagappapuram	815	7754	453	9626
 Ālappākkam	1268	8000	247	9404
 Alwa Tirunagari	861	7794	208	9289
-Alvar Tirunagari	861	7794	208	9289
-Alwarthirunagiri	861	7794	208	9289
+Alvar Tirunagari	861	7794	208	9289	Alwa Tirunagari
+Alwarthirunagiri	861	7794	208	9289	Alwa Tirunagari
 Alikherva	2228	7372	126	8951
 Alagāpuram	1189	7892	390	8345
 Alamelumangapuram	1294	7919	189	7900
 Alāwalpur	3143	7566	369	7815
 Alīgarh	2597	7608	313	7626
 Alamādi	1321	8011	228	7424
-Alamathi	1321	8011	228	7424
+Alamathi	1321	8011	228	7424	Alamādi
 Ālāndurai	1095	7679	156	7221
-Alanthurai	1095	7679	156	7221
+Alanthurai	1095	7679	156	7221	Ālāndurai
 Khuda Alisher	3077	7681	787	6831
 Aldona	1559	7387	188	6606
 Alūr	1298	7599	679	6604
@@ -84,15 +84,15 @@ Alaudiā	2369	8473	707	4943
 Alagdiha	2373	8645	401	4609
 Alowāl	3116	7550	369	752
 Alok Mishra	2642	8037	469	30
-Thiru-alli-keni	1306	8028	204	0
-Alavalapadu	1533	7962	200	0
+Thiru-alli-keni	1306	8028	204	0	Tiruvallikeni
+Alavalapadu	1533	7962	200	0	Peddaalavalapādu
 Nawābganj Allābād	2789	8164	294	0
-Nawābganj Aliabad	2789	8164	294	0
+Nawābganj Aliabad	2789	8164	294	0	Nawābganj Allābād
 Maula Ali	1746	7856	311	0
-Moula Ali	1746	7856	311	0
+Moula Ali	1746	7856	311	0	Maula Ali
 Maniāri Aliganj	2633	8188	597	0
 Khan Alampura	2995	7757	449	0
-Khan Alampur	2995	7757	449	0
+Khan Alampur	2995	7757	449	0	Khan Alampura
 Ghulam Alīwāla	2858	7229	307	0
 Alwās	3296	7617	362	0
 Alūru	1550	8013	200	0
@@ -106,7 +106,7 @@ Alu	2305	7381	180	0
 Ālturti	1444	7968	6	0
 Alta	1717	7454	65	0
 Alta	1677	7440	57	0
-Alate	1677	7440	57	0
+Alate	1677	7440	57	0	Alta
 Alsīsar	2830	7529	300	0
 Alsindhi	3129	7713	278	0
 Alorna	1570	7392	188	0
@@ -115,29 +115,29 @@ Alora	1747	7357	234	0
 Alonung	2838	9555	434	0
 Alod	2555	7559	353	0
 Ālniyāwās	2652	7431	430	0
-Alniāwās	2652	7431	430	0
+Alniāwās	2652	7431	430	0	Ālniyāwās
 Almel	1709	7622	80	0
 Almatti	1636	7589	80	0
 Almi	3255	7638	362	0
-Almai	3255	7638	362	0
+Almai	3255	7638	362	0	Almi
 Allūr	1468	8005	6	0
-Allūru	1468	8005	6	0
+Allūru	1468	8005	6	0	Allūr
 Āllūr	1545	8012	200	0
-Alluru	1545	8012	200	0
+Alluru	1545	8012	200	0	Āllūr
 Allūr	1468	8007	6	0
 Allapalli	1783	8048	60	0
 Alland	2019	7555	113	0
 Allāhdurg	1797	7793	400	0
-Allāhdrug	1797	7793	400	0
-Allahdurug	1797	7793	400	0
-Aljāhdurg	1797	7793	400	0
+Allāhdrug	1797	7793	400	0	Allāhdurg
+Allahdurug	1797	7793	400	0	Allāhdurg
+Aljāhdurg	1797	7793	400	0	Allāhdurg
 Āllagadda	1513	7851	232	0
 Ālkuti	1905	7423	152	0
 Alīwāl	3183	7512	487	0
 Alīwāl	3095	7561	674	0
 Alīpura	2517	7935	663	0
 Ālīpur	2253	8832	123	0
-Alipore	2253	8832	123	0
+Alipore	2253	8832	123	0	Ālīpur
 Alipur	2055	7869	143	0
 Alipur	1772	8330	81	0
 Alipur	1173	9267	105	0
@@ -146,17 +146,17 @@ Alina	2281	7305	167	0
 Ālimod	2239	7837	337	0
 Alī Khera	2732	7916	464	0
 Alikher	1785	7726	170	0
-Alikhen	1785	7726	170	0
+Alikhen	1785	7726	170	0	Alikher
 Alīka	2974	7543	443	0
 Alīgarh	2745	8313	292	0
 Alīganj	2811	8059	323	0
 Alidar	2089	7085	136	0
 Alīābād Sarāi	3364	7458	35	0
-Alīābād	3364	7458	35	0
+Alīābād	3364	7458	35	0	Alīābād Sarāi
 Ali	2218	7437	155	0
 Algūr	1670	7636	80	0
 Ālewāhi	2037	7971	111	0
-Alewabi	2037	7971	111	0
+Alewabi	2037	7971	111	0	Ālewāhi
 Āleru	1764	7904	129	0
 Ālegaon	2040	7684	172	0
 Ālegaon	1915	7716	153	0
@@ -164,13 +164,13 @@ Alegaon	1862	7433	52	0
 Ale	1917	7412	52	0
 Aldūr	1324	7566	98	0
 Alchi Gömpa	3423	7717	2	0
-Alchi Goempa	3423	7717	2	0
+Alchi Goempa	3423	7717	2	0	Alchi Gömpa
 Albāka	1821	8067	226	0
 Ālayangudi	1094	7976	455	0
 Ālattūr	1222	7988	202	0
 Alas	3277	7597	362	0
 Alangiyam	1066	7750	235	0
-Alangiem	1066	7750	235	0
+Alangiem	1066	7750	235	0	Alangiyam
 Ālandi	1814	7725	170	0
 Alanallūr	1101	7635	263	0
 Ālamūru	1678	8190	304	0
@@ -180,7 +180,7 @@ Alampur	2195	7172	168	0
 Alamanda	1886	8331	316	0
 Alamanda	1799	8324	179	0
 Alai	2733	7358	430	0
-Alolda	2142	7148	216	0
+Alolda	2142	7148	216	0	Akolda
 Alipur	2291	8817	279	0
 Alipur	2290	8810	279	0
 Alipukur	2245	8811	354	0
@@ -198,9 +198,9 @@ Alūna Palla	3068	7605	674	0
 Alūna Mīāna	3068	7606	674	0
 Alūna Tola	3068	7607	674	0
 Ala	3252	7484	581	0
-Chak Alāwal	3263	7481	581	0
+Chak Alāwal	3263	7481	581	0	Lāwal Chak
 Ālame Chak	3266	7476	581	0
-Alora	3270	7475	581	0
+Alora	3270	7475	581	0	Lora
 Alāwalpur	3004	7778	596	0
 Ālampur	2979	7721	449	0
 Alīpur	2966	7747	328	0
@@ -237,7 +237,7 @@ Alīpura	2799	7924	117	0
 Allāhpur	2795	7900	117	0
 Alokhar	2776	7913	616	0
 Alai Nagla	2788	7919	117	0
-Alai Nagia	2788	7919	117	0
+Alai Nagia	2788	7919	117	0	Alai Nagla
 Alāpur	2791	7925	117	0
 Allāhpur	2790	7930	117	0
 Alhināpur	2711	7946	570	0
@@ -265,7 +265,7 @@ Aliāpur	2705	7995	570	0
 Allipur	2699	7901	464	0
 Alīpura	2687	7924	290	0
 Ālampur Taraia	2681	7919	290	0
-Ālampur	2681	7919	290	0
+Ālampur	2681	7919	290	0	Ālampur Taraia
 Ālampur	2637	7932	741	0
 Āl	2637	7944	741	0
 Ālampur	2629	7938	741	0
@@ -287,7 +287,7 @@ Duibohin Alma	2628	8999	713	0
 Alakjhāri	2626	8987	713	0
 Alikakh	2611	9127	636	0
 Alīābād	2685	8164	525	0
-Aloābād	2685	8164	525	0
+Aloābād	2685	8164	525	0	Alīābād
 Ālampur	2487	8388	409	0
 Alipuri	1885	7884	63	0
 Alajangi	1854	8340	179	0
@@ -297,7 +297,7 @@ Alanpur	2601	7635	116	0
 Ālampāiyam	1146	7717	697	0
 Ālankinaru	841	7786	208	0
 Agara Ālambādi	1144	7947	178	0
-Ālangādu	1045	7944	264	0
+Ālangādu	1045	7944	264	0	Ilangādu
 Alīkata	2177	7929	368	0
 Alampura	2316	7717	675	0
 Algpur	2487	9269	378	0
@@ -314,9 +314,9 @@ Alāwalpur	2804	7665	519	0
 Ālampur	2804	7670	482	0
 Alīmuddīnpur	2843	7676	630	0
 Aliyar	2837	7689	630	0
-Ālamgīrpur	2822	7677	519	0
+Ālamgīrpur	2822	7677	519	0	Rājpura
 Alawalpur	2817	7679	519	0
-Alāipur	2812	7684	482	0
+Alāipur	2812	7684	482	0	Dāganheri
 Alūpur	2820	7684	482	0
 Garhi Alāwalpur	2822	7681	519	0
 Thāna Ālampur	2817	7695	544	0
@@ -368,7 +368,7 @@ Alāuddīnpurbās	3026	7755	449	0
 Alsi	3060	7787	448	0
 Alipura	2670	7639	708	0
 Ālampur	2944	7819	575	0
-Alipur Mākhan	2946	7813	575	0
+Alipur Mākhan	2946	7813	575	0	Lāiqpur
 Ālampur Ganga	2944	7823	575	0
 Alāwalpur Ūdh	2941	7821	575	0
 Allūwāla	2934	7804	545	0
@@ -452,26 +452,26 @@ Alowāl	3158	7579	296	0
 Alisar	2724	7558	121	0
 Alīpur Khālsa	3050	7576	593	0
 Alīpur	3036	7599	564	0
-Alīpur	2960	7552	443	0
+Alīpur	2960	7552	443	0	Barota
 Alīpur	2914	7588	339	0
 Aliār	3308	7601	372	0
 Alīpur	2951	7623	367	0
 Almas	3048	7820	500	0
-Hassan Alīpur Dharmān	2944	7851	575	0
-Allahdādpur Khajua	2944	7850	575	0
-Shāh Ālīpur Nechal	2938	7854	575	0
-Mirza Alīpur	2943	7855	575	0
+Hassan Alīpur Dharmān	2944	7851	575	0	Khatriwāla
+Allahdādpur Khajua	2944	7850	575	0	Kopa
+Shāh Ālīpur Nechal	2938	7854	575	0	Madhaura
+Mirza Alīpur	2943	7855	575	0	Bhojāwāla
 Muhammad Ālīpur	2932	7853	575	0
-Allahpur	2930	7852	575	0
+Allahpur	2930	7852	575	0	Naurangābād
 Alāwalpur	2930	7854	575	0
 Mirza Ālīpur	2926	7860	575	0
-Shāh Ālīpur Uttamchand	2928	7858	575	0
-Muhammad Ālīpur Lālman	2934	7859	575	0
+Shāh Ālīpur Uttamchand	2928	7858	575	0	Hadikpur
+Muhammad Ālīpur Lālman	2934	7859	575	0	Rāmsāhaiwāla
 Allahyārpur	2935	7866	575	0
 Muhammad Ālipur Chohar	2941	7867	575	0
 Fateh Alipur Paha	2943	7867	575	0
 Shāh Ālīpur	2928	7870	575	0
-Alinagar	2948	7861	575	0
+Alinagar	2948	7861	575	0	Dhaula Kuān
 Ālampur Gāonri	2934	7867	575	0
 Allahpur	2930	7866	575	0
 Āla	3029	7955	183	0
@@ -479,7 +479,7 @@ Alīnagar	2895	7901	552	0
 Alīnagan	2898	7911	552	0
 Alīnagar	2895	7913	552	0
 Alīnagar	2891	7919	552	0
-Alīnagar Shimālī	2890	7912	552	0
+Alīnagar Shimālī	2890	7912	552	0	Kunde Kī Mandaiyān
 Alīnagar	2894	7905	552	0
 Ālīaganj	2888	7901	552	0
 Alīpur	2890	7918	552	0
@@ -502,7 +502,7 @@ Alamkunta	1862	7983	237	0
 Alāuddīnnagar	2815	7757	588	0
 Aliābād	2810	7754	588	0
 Alāwalpur	2811	7758	588	0
-Ali Ahmadpur	2816	7768	588	0
+Ali Ahmadpur	2816	7768	588	0	Garhi
 Ālampur Hatla	2813	7772	588	0
 Ahmad Ali	1884	8013	135	0
 Alampur Buzurg	2891	7778	700	0
@@ -554,7 +554,7 @@ Alīpur	2754	7721	114	0
 Allāhpur	2756	7764	177	0
 Alīpur	2742	7773	177	0
 Alīpur	2901	7605	431	0
-Alekhpura	2901	7605	431	0
+Alekhpura	2901	7605	431	0	Alīpur
 Kheri Ghulām Ali	2987	7631	638	0
 Ālegaon	1751	7603	132	0
 Ālīyābād	1781	7629	48	0
@@ -746,7 +746,7 @@ Alīganj	2414	7735	215	0
 Alāvdi	2498	7768	436	0
 Alampur	2438	7771	410	0
 Alīgarh	2409	7753	215	0
-Alīnagar	2409	7753	215	0
+Alīnagar	2409	7753	215	0	Alīgarh
 Ālampur	2405	7751	215	0
 Aliābād	1776	7949	182	0
 Alīpur Mohria	2771	7802	670	0
@@ -781,8 +781,8 @@ Alīpur Barwāra	2798	7866	616	0
 Dari Alāwalpur	2796	7851	543	0
 Altāfnagar	2792	7867	616	0
 Ālampur	2791	7868	616	0
-Allāhyār Khān	2783	7852	616	0
-Farzand Ali Khān	2782	7853	616	0
+Allāhyār Khān	2783	7852	616	0	Fīrozpur Suhela
+Farzand Ali Khān	2782	7853	616	0	Fīrozpur Suhela
 Alīpur	2778	7865	616	0
 Algunūr	1733	7975	250	0
 Alamkhānpet	1772	7984	249	0
@@ -826,7 +826,7 @@ Alāwalpur	2508	8041	463	0
 Alipur	2524	8049	463	0
 Giria Ālampur	2567	8117	728	0
 Allāhdādpur	2564	8117	728	0
-Alīpur	2567	8214	607	0
+Alīpur	2567	8214	607	0	Chakra
 Chak Ali	2565	8212	607	0
 Alemau	2562	8208	607	0
 Alīpur	2559	8205	607	0
@@ -836,7 +836,7 @@ Alampura	2507	7931	481	0
 Ālampur	2405	7927	521	0
 Alīpura	2537	7997	614	0
 Algana	2473	7945	663	0
-Imām Ali	2598	8285	498	0
+Imām Ali	2598	8285	498	0	Belāhri
 Lādpur Sāhib Ali	2595	8277	498	0
 Bhīra Alīpur	2583	8289	498	0
 Ālamkhera	2345	7780	338	0
@@ -983,7 +983,7 @@ Alīganj	2575	8265	32	0
 Alīpur	2577	8273	32	0
 Alīshāhpur	2572	8253	32	0
 Allāhbakhshpur	2567	8259	32	0
-Ālamsingh	2556	8261	32	0
+Ālamsingh	2556	8261	32	0	Chak Inglis
 Patkhauli Ālamganj	2554	8250	32	0
 Alīpur	2559	8264	32	0
 Shekh Ālampur	2569	8274	32	0
@@ -1027,7 +1027,7 @@ Asad Ali Khera	2638	8085	312	0
 Jān Ali Khera	2638	8086	312	0
 Fateh Ali Khera	2650	8078	312	0
 Khera Ālampur	2834	7662	519	0
-Sarāi Almma	2950	7826	575	0
+Sarāi Almma	2950	7826	575	0	Sarāi Andhonki
 Alipur	2609	8077	681	0
 Alampur Narhi	2605	8089	728	0
 Alampur	2618	8097	681	0
@@ -1036,28 +1036,28 @@ Purwa Alpa	2614	8098	681	0
 Gaura Rupai Pir Alipur	2611	8094	681	0
 Pir Alipur	2611	8092	681	0
 Alīpura	2916	7816	575	0
-Muhammad Ālampur	2964	7830	575	0
+Muhammad Ālampur	2964	7830	575	0	Jitanpur
 Alīpura	2962	7832	575	0
-Muhammad Alīpur Hirde	2961	7830	575	0
+Muhammad Alīpur Hirde	2961	7830	575	0	Kalheri
 Ālūpur	2960	7828	575	0
 Muhammad Alīpur	2963	7827	575	0
 Shekhpur Ālam	2962	7827	575	0
-Islāmpur Shah Āli	2957	7825	575	0
-Shāh Alīpur Naki	2958	7833	575	0
-Alāwalpur Nānun	2957	7837	575	0
+Islāmpur Shah Āli	2957	7825	575	0	Mūsepur
+Shāh Alīpur Naki	2958	7833	575	0	Bājāwāla
+Alāwalpur Nānun	2957	7837	575	0	Lāwalpur
 Hasan Alīpur	2958	7846	575	0
 Alīpur Mithan	2955	7845	575	0
-Shāh Alīpur Jaman	2956	7843	575	0
-Alīpur Mān	2954	7841	575	0
+Shāh Alīpur Jaman	2956	7843	575	0	Rāipur Sādat
+Alīpur Mān	2954	7841	575	0	Āmka Hasan
 Muhammad Alīpur	2956	7840	575	0
-Āzampur Muhammad Āli	2954	7831	575	0
+Āzampur Muhammad Āli	2954	7831	575	0	Khānpur
 Alheri	2952	7837	575	0
 Mirza Alīpur	2952	7842	575	0
-Alīpur Molar	2953	7844	575	0
+Alīpur Molar	2953	7844	575	0	Molarwāla
 Ālampur	2951	7849	575	0
 Allāhāuddīnpur	2950	7848	575	0
 Muhammad Alīpur	2953	7838	575	0
-Aleyārpur	2949	7836	575	0
+Aleyārpur	2949	7836	575	0	Hāzīpur
 Alīpur Jat	2948	7837	575	0
 Allāhdādpur	2948	7840	575	0
 Shāh Alīpur	2946	7837	575	0
@@ -1068,10 +1068,10 @@ Hasan Alīpur Bhogan	2942	7843	575	0
 Alīgarh	2942	7845	575	0
 Ali Shāhpur	2942	7847	575	0
 Alīpur	2940	7841	575	0
-Alīpur Ganga	2940	7841	575	0
+Alīpur Ganga	2940	7841	575	0	Nainpura Surāj
 Hasan Alīpur Khandu Baghāla	2938	7840	575	0
 Alīnagar	2939	7835	575	0
-Lallāwāla Alīpur	2939	7835	575	0
+Lallāwāla Alīpur	2939	7835	575	0	Dāmodar
 Allādīnpur Bhogi	2936	7845	575	0
 Allāhdīnpur Manjūpura	2934	7846	575	0
 Allāhdīnpur	2932	7848	575	0
@@ -1162,13 +1162,13 @@ Pura Sher Ali	2699	8143	30	0
 Alīganj	2683	8130	30	0
 Alāwalpur	2907	7827	575	0
 Alīpur	2900	7836	483	0
-Allahyarpur	2908	7834	575	0
+Allahyarpur	2908	7834	575	0	Ajūpura
 Allahābād	2922	7838	575	0
-Alīnagar	2922	7843	575	0
-Alāuddīnpur	2908	7839	575	0
+Alīnagar	2922	7843	575	0	Pālni
+Alāuddīnpur	2908	7839	575	0	Lodīpur
 Ālampur Airwa	2911	7848	575	0
 Allāhdīnpur	2920	7847	575	0
-Muhammad Alīpur Mukta	2924	7848	575	0
+Muhammad Alīpur Mukta	2924	7848	575	0	Shekhūpur
 Allahdādpur	2666	8127	30	0
 Purwa Sher Ali	2667	8135	30	0
 Almāpur	2666	8131	30	0
@@ -1192,7 +1192,7 @@ Alīyārpur	2921	7854	575	0
 Ālampuri	2910	7860	575	0
 Alīpura	2915	7861	575	0
 Pīpli Umarpur Alīābād	2912	7873	511	0
-Aliābād Ehtamāli	2912	7873	511	0
+Aliābād Ehtamāli	2912	7873	511	0	Hujra Milak
 Ālamgīrpur	2916	7873	511	0
 Muhammad Alīpur	2941	7880	575	0
 Alīganj	2935	7879	575	0
@@ -1262,16 +1262,16 @@ Alipur Gokal	2712	8163	542	0
 Alkha Purwa	2718	8172	542	0
 Purwa Allāhyār Khān	2718	8168	542	0
 Ali Bakhsh Purwa	2717	8168	542	0
-Alāwalpur	2870	7837	483	0
+Alāwalpur	2870	7837	483	0	Irādatpur
 Alipur Khurd	2868	7845	646	0
 Alia Kaliānpur	2874	7845	646	0
 Parsia Ālam	2746	8185	294	0
 Alinagar	2736	8193	542	0
 Kul Alīpura	2896	7854	511	0
-Intzām Alīkhān	2893	7857	483	0
+Intzām Alīkhān	2893	7857	483	0	Sultānpur
 Pachokra Maharbān Ali	2890	7851	483	0
 Nanhera Allāhyārpur	2892	7860	483	0
-Alīpura	2898	7860	511	0
+Alīpura	2898	7860	511	0	Telīpura Khālsa
 Alīpure ka Mazra	2899	7861	511	0
 Shāh Ālampur	2885	7869	511	0
 Alāhdādpur	2876	7873	511	0
@@ -1288,7 +1288,7 @@ Alīpur Khurd	2852	7862	646	0
 Ālam Sarāi	2858	7858	646	0
 Alīpur	2864	7860	646	0
 Alīnagar	2865	7868	511	0
-Ālampur	2858	7867	646	0
+Ālampur	2858	7867	646	0	Khānpur Sarāi
 Alāhdādpur Dewa	2857	7872	511	0
 Alīpur Jondera	2860	7873	511	0
 Allāhpur Bhikan	2872	7870	511	0
@@ -1363,11 +1363,11 @@ Allāhpur Khurd	2845	7889	117	0
 Alinagar	2750	8222	280	0
 Alīpur	2825	7879	117	0
 Ālamgūts	3397	7460	76	0
-Gund Ali Niayak	3398	7465	76	0
+Gund Ali Niayak	3398	7465	76	0	Muqām
 Alīpur Tappa Haweli	2811	7876	117	0
 Allāhdādpur Bhūr	2810	7880	117	0
 Ālampur	2807	7877	117	0
-Allāhpur	2803	7878	117	0
+Allāhpur	2803	7878	117	0	Ismāilpur
 Rāmpura Alnuddīn	2810	7887	117	0
 Alīganj	2805	7889	117	0
 Pura Mahab Ali	2729	8203	542	0
@@ -1382,7 +1382,7 @@ Pura Najaf Ali	2709	8209	542	0
 Purwa Muhammad Ali	2712	8216	542	0
 Dih Hasan Ali	2712	8216	542	0
 Awāna Ālampur	2539	8142	651	0
-Chak Alīroshan Majhiāri	2538	8141	651	0
+Chak Alīroshan Majhiāri	2538	8141	651	0	Dulhaniyāpur
 Ihāmba Alāwalpur	2543	8145	651	0
 Sarāi Saiyid Ali	2548	8144	651	0
 Qutb Ālampur	2547	8143	651	0
@@ -1592,7 +1592,7 @@ Qamar Alī Chak	2564	8364	26	0
 Alāwalpur Afghān	2572	8370	26	0
 Alī Chak	2566	8369	26	0
 Alam Chak	2563	8373	26	0
-Alāwalpur	2562	8372	26	0
+Alāwalpur	2562	8372	26	0	Harballampur
 Ālāsur	2347	8005	598	0
 Algara	2343	8011	598	0
 Āl	3321	7557	372	0
@@ -1617,8 +1617,8 @@ Alīpur	2559	8182	607	0
 Pura Hasan Ali	2554	8178	607	0
 Chak Kewat Ali	2551	8193	607	0
 Alīpur	2570	8194	607	0
-Sarai Alāuddīn	2570	8191	607	0
-Sarāi Ali	2569	8189	607	0
+Sarai Alāuddīn	2570	8191	607	0	Jogāpar
+Sarāi Ali	2569	8189	607	0	Muhammadpur Khās
 Alipur	2574	8189	718	0
 Takra Karal Ali Shāh	3239	7562	496	0
 Ālenga	1993	8035	135	0
@@ -1812,7 +1812,7 @@ Allūrukota	1785	8193	268	0
 Allika	2816	7726	754	0
 Ālapur	2818	7732	754	0
 Alāwalpur	2818	7738	754	0
-Allahābād	2806	7746	754	0
+Allahābād	2806	7746	754	0	Nagli
 Alīgarh	2802	7741	754	0
 Ālahalli	1420	7494	346	0
 Ālri	2321	7615	322	0
@@ -1820,7 +1820,7 @@ Alīsarkhera	2353	7650	320	0
 Āli	3009	7878	612	0
 Almora	3000	7837	612	0
 Aljūni	2981	7875	612	0
-Alluvial	2890	7813	483	0
+Alluvial	2890	7813	483	0	Chakanwāla
 Alinagar	2889	7816	483	0
 Alipur	2888	7810	700	0
 Ālampur Bhagwantpur	2885	7809	756	0
@@ -1870,7 +1870,7 @@ Purwa Madat Ali	2678	8171	629	0
 Alhanmau	2685	8168	30	0
 Ālāi	2690	8173	30	0
 Alwa Bīr	2690	8172	30	0
-Shāh Ālam	2687	8159	30	0
+Shāh Ālam	2687	8159	30	0	Saraiyān Khati
 Allahnagar	2646	8150	662	0
 Pura Ali Sheikh	2647	8154	662	0
 Alīganj	2643	8154	662	0
@@ -2093,7 +2093,7 @@ Hareli Alīpur	2812	7960	342	0
 Aliāpur	2808	7969	470	0
 Ālampur	2802	7972	470	0
 Almānpur	2878	7987	683	0
-Ālampur	2878	7987	683	0
+Ālampur	2878	7987	683	0	Almānpur
 Alābirdī	2899	7998	641	0
 Alīganj	2864	7984	683	0
 Alakhtān	2855	7983	683	0
@@ -2314,7 +2314,7 @@ Alavāla	1579	7763	236	0
 Ālardinne	1554	7750	236	0
 Ālamkonda	1544	7774	236	0
 Alganūru	1840	7915	579	0
-Alkahi	2595	8656	661	0
+Alkahi	2595	8656	661	0	Durma
 Alāwan	2571	8657	661	0
 Alāni	2567	8652	661	0
 Alvalli	1296	7586	679	0
@@ -2370,7 +2370,7 @@ Alālpur	2499	8497	118	0
 Alīganj	2487	8496	118	0
 Alahua Chak	2458	8477	118	0
 Shaikh Alījan	2601	8709	657	0
-Sheikh Alījan	2600	8710	667	0
+Sheikh Alījan	2600	8710	667	0	Nawalganj Mānpur
 Kāsht Karam Ali	2642	8783	510	0
 Algachhia	2637	8793	510	0
 Alta	2614	8786	510	0
@@ -2496,7 +2496,7 @@ Alīpur	2797	8046	323	0
 Alīpur	2777	8046	323	0
 Alamarathupatti	947	7784	119	0
 Alanchi	820	7724	453	0
-Alanchy	820	7724	453	0
+Alanchy	820	7724	453	0	Alanchi
 Aliparamba	1092	7627	150	0
 Alkapuri	2231	7318	159	0
 Alarsa	2238	7296	157	0
@@ -2863,7 +2863,7 @@ Alveppilapatti	921	7766	245	0
 Āladiyūr	868	7743	191	0
 Alagappapuram	866	7749	191	0
 Ālampārp Kānikkudi	842	7734	453	0
-Alankuzhi	840	7736	453	0
+Alankuzhi	840	7736	453	0	Prāvala Kānikkudi
 Alaganparavūr	818	7730	453	0
 Āladippatti	887	7752	245	0
 Alagiyapāndiyapuram	891	7765	191	0
@@ -2873,7 +2873,7 @@ Alaganeri	876	7771	191	0
 Ālangulam	863	7768	191	0
 Alagappapuram	836	7763	191	0
 Alangulam	846	7762	191	0
-Ālankinaru	835	7765	191	0
+Ālankinaru	835	7765	191	0	Tirumalāpuram
 Ālwārkulam	847	7766	191	0
 Ālangulam	845	7773	191	0
 Allivila	813	7756	453	0
@@ -2974,7 +2974,7 @@ Alagāpuri	1008	7864	454	0
 Ālakkulattānpatti	1003	7857	454	0
 Ālambākkam Ullūr	1093	7895	270	0
 Ālangudi Mahājanam	1089	7893	270	0
-Alamelupuram	1086	7894	264	0
+Alamelupuram	1086	7894	264	0	Pūndi
 Ālangudipatti	1063	7881	198	0
 Āluvampatti	1058	7887	198	0
 Alangāppatti	1052	7892	198	0
@@ -3104,7 +3104,7 @@ Alagiyanattam	1180	7970	178	0
 Alisikudi	1143	7960	178	0
 Ālambādi	1147	7961	178	0
 Allūr	1143	7954	178	0
-Alinjimangalam	1121	7956	178	0
+Alinjimangalam	1121	7956	178	0	Umampullyūr
 Ālangudi	1111	7955	203	0
 Ālaveli	1110	7950	264	0
 Ālangāttān	1122	7958	178	0
@@ -3175,7 +3175,7 @@ Alagdesi	2440	8587	452	0
 Alagdiha	2426	8579	764	0
 Alpito	2406	8580	764	0
 Alkopi	2403	8578	764	0
-Alakdiha	2402	8589	452	0
+Alakdiha	2402	8589	452	0	Bangargi
 Alārti	2414	8597	452	0
 Chhotki Algunda	2420	8616	452	0
 Algunda	2419	8616	452	0

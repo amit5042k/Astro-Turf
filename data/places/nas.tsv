@@ -2,19 +2,19 @@ Nashik	2000	7379	54	1486053
 Nasīrābād	2630	7473	446	51747
 Nāspur	1885	7946	91	31244
 Nāsriganj	2505	8433	409	23819
-Nasriganji	2505	8433	409	23819
+Nasriganji	2505	8433	409	23819	Nāsriganj
 Nasrullāhganj	2268	7727	675	23788
-Nasrullaganj	2268	7727	675	23788
+Nasrullaganj	2268	7727	675	23788	Nasrullāhganj
 Nasiyanūr	1134	7764	211	10970
 Nasvadi	2205	7373	126	8076
 Nashirabad	2059	7715	172	546
-Nasik	2033	7389	54	0
+Nasik	2033	7389	54	0	Vani
 Nasuma	2828	7239	307	0
 Nāsrīda	2595	7537	313	0
 Nasrāpur	1825	7390	52	0
 Nasīrābād	2621	8151	681	0
 Nasirābād	2100	7566	78	0
-Nasirabad Khandesh	2100	7566	78	0
+Nasirabad Khandesh	2100	7566	78	0	Nasirābād
 Naswāri	2755	7693	482	0
 Naskarpur	2232	8802	354	0
 Nasīm Bāgh	3414	7484	611	0
@@ -47,12 +47,12 @@ Nashopur	2749	7679	482	0
 Nashopur Ka Bās	2748	7678	482	0
 Nasīri	2941	7818	575	0
 Nasīrpur	2933	7802	545	0
-Nasrullāhpur Aurangzebpur	2973	7803	596	0
+Nasrullāhpur Aurangzebpur	2973	7803	596	0	Akoda
 Nashtarpur	2982	7801	596	0
-Nasīrpur	2982	7801	596	0
+Nasīrpur	2982	7801	596	0	Nashtarpur
 Nasīrābād	2975	7801	596	0
 Nasīrpur	2969	7711	457	0
-Nasīrābād	2994	7737	449	0
+Nasīrābād	2994	7737	449	0	Nagla
 Nasīrpurā	2997	7741	449	0
 Nasīrpura	2604	7691	335	0
 Nasrullāpur	2971	7772	449	0
@@ -93,7 +93,7 @@ Nāsigeri	1644	7694	50	0
 Nasratpur	1916	7729	140	0
 Nasrullābād	1848	7787	58	0
 Nasīrpur	2735	7801	670	0
-Naskari	2004	7813	67	0
+Naskari	2004	7813	67	0	Pārdi
 Nasīthi	2768	7776	177	0
 Nāsirpur	2773	7852	670	0
 Nāsirpur	2751	7860	711	0
@@ -113,11 +113,11 @@ Nasratpur	2728	7959	688	0
 Nāsa	2765	7986	686	0
 Nasirpur	2770	7993	686	0
 Nasīrpuri	2789	7714	544	0
-Nasratpur	2784	7994	470	0
+Nasratpur	2784	7994	470	0	Bāndīgaon
 Nasauli Dāmar	2746	7991	686	0
 Nasauli Gopāl	2747	7990	686	0
 Nasīrpur	2735	7997	686	0
-Nasratpur	2739	7896	464	0
+Nasratpur	2739	7896	464	0	Kunwarpur
 Nasīrpur	2727	7882	464	0
 Nasīra	2485	7752	336	0
 Naskal	1789	7943	182	0
@@ -139,7 +139,7 @@ Nasīrābād	2137	7631	29	0
 Nasīrpur	2565	8308	26	0
 Nasīruddīnpur	2563	8312	26	0
 Nasīrābād	2567	8312	498	0
-Nasratpur	2564	8318	26	0
+Nasratpur	2564	8318	26	0	Barahpur
 Nasīrpur	2560	8325	26	0
 Nasīruddīnpur	2557	8317	26	0
 Nasīrpu Pattan	2529	8316	724	0
@@ -153,7 +153,7 @@ Nasirābād	2280	7797	590	0
 Nasīrpur	2554	8333	26	0
 Nasīrpur	2554	8327	26	0
 Nasīrābād	2553	8326	26	0
-Nasratpur Dhirji	2574	8342	26	0
+Nasratpur Dhirji	2574	8342	26	0	Rāmsinghpur
 Nasīrpur	2572	8333	26	0
 Nasratpur Bijai	2575	8342	26	0
 Nasīrpur	2568	8348	26	0
@@ -168,7 +168,7 @@ Nasīruddīnpur	2577	8370	26	0
 Nasīrābād	2576	8370	26	0
 Nasīrpur	2578	8371	26	0
 Nasratpur	2576	8355	26	0
-Nasratput	2544	8356	26	0
+Nasratput	2544	8356	26	0	Harpur
 Nasīrābād	2200	7766	462	0
 Nasīrābād	2574	8378	26	0
 Nasīrpur	2572	8387	26	0
@@ -188,7 +188,7 @@ Nasūlāpur	2761	7933	688	0
 Nasīrpur	2584	8203	718	0
 Nasīrpur	2577	8212	718	0
 Sarāi Nasib	2594	8260	32	0
-Nasīruddīnpur	2584	8263	32	0
+Nasīruddīnpur	2584	8263	32	0	Mīrānpur
 Nasīrpur	2568	8136	651	0
 Nāsirpur	2526	8298	251	0
 Nāsirpatti	2549	8217	607	0
@@ -196,10 +196,10 @@ Nasīruddīnpur	2569	8243	32	0
 Nasīb Singh Pura	2554	8248	32	0
 Nasīrābād	2566	8275	32	0
 Nasīrpur	2913	7822	575	0
-Nasīrpur	2951	7828	575	0
-Nasīrūllāhpur	2952	7832	575	0
+Nasīrpur	2951	7828	575	0	Mithāri
+Nasīrūllāhpur	2952	7832	575	0	Paimār Khurd
 Samaspur Nāsib	2954	7841	575	0
-Nasīrābād	2937	7826	575	0
+Nasīrābād	2937	7826	575	0	Gujarpur Jaspāl
 Nasīrpur Buzurg	2928	7834	575	0
 Nasībpur	2929	7842	575	0
 Nasīrpur Nainsingh	2926	7826	575	0
@@ -220,7 +220,7 @@ Nasīrnagar	2695	8131	30	0
 Nasirwāpur	2676	8133	30	0
 Nasīmpur	2695	8146	30	0
 Nasīrpur Mansukh	2916	7833	575	0
-Nasīrpur Shekhpur	2917	7833	575	0
+Nasīrpur Shekhpur	2917	7833	575	0	Mandaiyān
 Mahdūd Nasho	2918	7836	575	0
 Nasīrpur	2673	8135	30	0
 Nastpur	2668	8142	30	0
@@ -238,9 +238,9 @@ Nāsir Patai	2832	7836	646	0
 Nasīrpur	2853	7860	646	0
 Nāsarpur	2865	7860	646	0
 Nasīrpur Kundarkhi	2870	7870	511	0
-Nasirullāhpur	2838	7866	646	0
-Nasirpur Ghariāri	2608	8111	681	0
-Nasīrabād	2651	8172	662	0
+Nasirullāhpur	2838	7866	646	0	Mirzāpur
+Nasirpur Ghariāri	2608	8111	681	0	Ismāilpur
+Nasīrabād	2651	8172	662	0	Nipcha
 Sarāi Nāsir	2685	8178	629	0
 Nasīrpur	2819	7859	646	0
 Nasīrpur Tappa Malsai	2806	7866	117	0
@@ -257,7 +257,7 @@ Nasullāpur	2543	8137	651	0
 Nasrullāhpur	2546	8139	651	0
 Nasīr Dīh	2728	8243	280	0
 Nasāpurwa	2712	8234	280	0
-Nasirganj	2707	8294	292	0
+Nasirganj	2707	8294	292	0	Bhonkhari
 Nasarpur	3376	7478	678	0
 Nasīrpur Mūsi	2657	8212	629	0
 Nāsnūr	3363	7483	35	0
@@ -365,7 +365,7 @@ Nasirpur	2728	8143	30	0
 Reti Nāsarganj	2718	8150	294	0
 Nastari Purwa	2623	8131	681	0
 Nasīmpur	2698	8157	30	0
-Nasīrpur	2613	8157	718	0
+Nasīrpur	2613	8157	718	0	Kukargāon
 Nasopur Saraia	2624	8448	639	0
 Sāna Nasigām	1998	8320	284	0
 Nāsiki Bārangi	1878	8317	316	0

@@ -1,28 +1,28 @@
 Dhārāvi	1905	7287	106	700000
-Bombay Dharavi	1905	7287	106	700000
+Bombay Dharavi	1905	7287	106	700000	Dhārāvi
 Darbhanga	2615	8590	591	296039
 Dārjiling	2703	8827	573	123797
 Dharmavaram	1441	7772	444	121874
 Dharashiv	1818	7604	48	112085
-Nagda-Dhar	2346	7542	314	103501
+Nagda-Dhar	2346	7542	314	103501	Nagda
 Dhār	2259	7530	130	93917
-Darrang	2663	9280	356	75540
+Darrang	2663	9280	356	75540	Tezpur
 Dharapuram	1074	7753	235	72291
 Dharmapuri	1213	7816	110	68619
 Dharmanagar	2437	9217	256	40595
-Dharapadavedu	1297	7915	189	38833
+Dharapadavedu	1297	7915	189	38833	Kātpādi
 Daryāpur	2092	7733	133	36463
 Dharangaon	2101	7527	78	35375
 Dharmābād	1889	7785	140	33741
 Darsi	1577	7968	200	33418
 Dharmadam	1178	7546	266	30804
 Dharamsala	3222	7632	38	30764
-Dharmsāla	3222	7632	38	30764
+Dharmsāla	3222	7632	38	30764	Dharamsala
 Dhāruhera	2821	7680	519	30344
 Dhāri	2133	7103	216	29346
 Dārwha	2031	7777	67	25791
 Dharampur	2054	7317	261	24178
-Dharampore	2054	7317	261	24178
+Dharampore	2054	7317	261	24178	Dharampur
 Dhāriwāl	3196	7532	487	20604
 Dhārūr	1882	7611	33	20417
 Dharmkot	3095	7523	499	19057
@@ -31,20 +31,20 @@ Dharampuri	2215	7534	130	16363
 Dhārni	2155	7689	525	15761
 Dārāsuram	1095	7936	264	15326
 Dariya	3070	7682	787	14470
-Daria	3070	7682	787	14470
+Daria	3070	7682	787	14470	Dariya
 Dharamjaigarh	2246	8321	439	14354
 Dharmaram	1830	7949	579	11537
-Dharmaram (P.B)	1830	7949	579	11537
+Dharmaram (P.B)	1830	7949	579	11537	Dharmaram
 Dariāwad	2410	7444	633	11368
 Dharmaragar	2435	9213	256	8761
-Dharmanagar	2435	9213	256	8761
+Dharmanagar	2435	9213	256	8761	Dharmaragar
 Dārapur	3451	7441	0	8464
-Dara Pora	3451	7441	0	8464
+Dara Pora	3451	7441	0	8464	Dārapur
 Dharapur	2615	9164	359	8095
 Dhārchula	2985	8052	508	7331
 Dāringbārhi	1991	8412	387	6995
-Daringabadi	1991	8412	387	6995
-Daringbādi	1991	8412	387	6995
+Daringabadi	1991	8412	387	6995	Dāringbārhi
+Daringbādi	1991	8412	387	6995	Dāringbārhi
 Dari	2372	8538	764	6405
 Daryāpur Kalān	2881	7701	769	6310
 Dharampur	2588	8577	138	5291
@@ -54,28 +54,28 @@ Darlawn	2401	9292	19	3962
 Dāra	3418	7491	611	3177
 Dariba	2495	7413	572	3076
 Kun Daroriān	3298	7494	666	675
-Purana Daroorh	3298	7494	666	675
+Purana Daroorh	3298	7494	666	675	Kun Daroriān
 Sumera Daryāpur	2803	7809	543	0
 Dariyāpur Pīpli	3010	7742	326	0
 Kot Dharmūn	2989	7537	709	0
 Jhangar Dharmsāl	3327	7405	504	0
-Jhangar Dharamsal	3327	7405	504	0
+Jhangar Dharamsal	3327	7405	504	0	Jhangar Dharmsāl
 Darang	3187	7632	38	0
 Dharwās	3312	7637	362	0
 Dharwad	1546	7501	682	0
-Darwar	1546	7501	682	0
+Darwar	1546	7501	682	0	Dharwad
 Dhārūr	1731	7778	210	0
 Dharuādihi	2199	8422	272	0
 Dhārsūl Kalān	2968	7572	443	0
-Dhārsul	2968	7572	443	0
+Dhārsul	2968	7572	443	0	Dhārsūl Kalān
 Dharson	2812	7608	694	0
 Dharsīnwa	2142	8165	310	0
 Dhāroli	2162	7323	151	0
 Dharnīpatti	2552	8359	26	0
 Dharnaoda	2459	7710	336	0
-Dharaoda	2459	7710	336	0
+Dharaoda	2459	7710	336	0	Dharnaoda
 Dharmsāla	3314	7441	504	0
-Dharamsal	3314	7441	504	0
+Dharamsal	3314	7441	504	0	Dharmsāla
 Dharmsāla	2078	8616	376	0
 Dharmsāl	3182	7608	327	0
 Dharmpuri	1794	7467	132	0
@@ -87,18 +87,18 @@ Dharmāpuri	1895	7910	63	0
 Dharmapuram	1092	7982	455	0
 Dharmapura	1407	7686	255	0
 Dharmānpur	2818	8123	294	0
-Dharmārpur	2818	8123	294	0
+Dharmārpur	2818	8123	294	0	Dharmānpur
 Dharmājigūdem	1689	8100	24	0
 Dharmaj	2241	7279	157	0
 Dhār Khurd	3240	7581	692	0
-Dhār	3240	7581	692	0
+Dhār	3240	7581	692	0	Dhār Khurd
 Dharhara	2525	8640	538	0
 Dharau	2636	7997	671	0
 Dharāsu	3061	7832	89	0
 Dhārāsana	2068	7292	261	0
-Dharāsma	2068	7292	261	0
+Dharāsma	2068	7292	261	0	Dhārāsana
 Dhareda	2427	7278	134	0
-Dharara	2427	7278	134	0
+Dharara	2427	7278	134	0	Dhareda
 Dharār	3341	7447	504	0
 Dharamtul	2616	9235	751	0
 Dharamtar Bandar	1870	7302	17	0
@@ -107,7 +107,7 @@ Dharamgarh	2988	8002	508	0
 Dharamgarh	1987	8278	284	0
 Dharambandha	2073	8242	594	0
 Dhārākota	1964	8458	440	0
-Dharakot	1964	8458	440	0
+Dharakot	1964	8458	440	0	Dhārākota
 Dhārakonda	1800	8212	268	0
 Dhārābandar	2081	7123	216	0
 Dhāra	3184	7725	680	0
@@ -117,9 +117,9 @@ Dārzo	2283	9296	493	0
 Daryāpur	2618	8125	681	0
 Daryāpur	2665	8060	312	0
 Darya Ganj	2865	7725	732	0
-Daria Ganj	2865	7725	732	0
+Daria Ganj	2865	7725	732	0	Darya Ganj
 Dariyābād	2543	8184	607	0
-Daryābād	2543	8184	607	0
+Daryābād	2543	8184	607	0	Dariyābād
 Daryābād	2689	8156	30	0
 Darur	1663	7502	77	0
 Dārūr	1623	7770	306	0
@@ -129,13 +129,13 @@ Dārugiri	2562	9077	490	0
 Dāru	2449	7475	601	0
 Darrī	2202	8223	291	0
 Darranga	2679	9151	555	0
-Darranga Camp	2679	9151	555	0
+Darranga Camp	2679	9151	555	0	Darranga
 Dārpur	3037	7745	88	0
 Dārphal	1792	7584	132	0
 Daroji	1524	7669	44	0
-Daroh	3201	7645	38	0
-Daro Khās	3201	7645	38	0
-Daroh Khās	3201	7645	38	0
+Daroh	3201	7645	38	0	Khās Dhīra
+Daro Khās	3201	7645	38	0	Khās Dhīra
+Daroh Khās	3201	7645	38	0	Khās Dhīra
 Darodīh	2322	8645	415	0
 Dārod	2410	7402	22	0
 Darmān	2474	8344	103	0
@@ -148,7 +148,7 @@ Darigāwān	2488	8394	409	0
 Dariāura	2460	8474	118	0
 Daria	2663	9393	740	0
 Darhiāl	2905	7901	552	0
-Darhrāl	2905	7901	552	0
+Darhrāl	2905	7901	552	0	Darhiāl
 Dārhi	2190	8147	710	0
 Dargawān	2444	7928	663	0
 Dargalim	1567	7384	188	0
@@ -164,16 +164,16 @@ Darba	2098	8172	652	0
 Darba	1887	8187	600	0
 Darauli	2608	8413	639	0
 Darau	2887	7944	641	0
-Dārāpur	3142	7517	260	0
+Dārāpur	3142	7517	260	0	Kiri Shāh
 Dārangibra	2543	9329	494	0
 Dāran Ghāti	3144	7775	479	0
 Dārānagar	2928	7811	575	0
 Dārānagar	2568	8135	651	0
 Daramgara	2041	8324	394	0
 Darkhuli	2150	8660	421	0
-Darakholi	2150	8660	421	0
+Darakholi	2150	8660	421	0	Darkhuli
 Dārāganj	2545	8188	607	0
-Darhganj	2545	8188	607	0
+Darhganj	2545	8188	607	0	Dārāganj
 Darābi	3307	7493	666	0
 Chinna Dhārāpuram	1085	7785	445	0
 Basti Shekh Darwesh	3131	7555	369	0
@@ -190,14 +190,14 @@ Dardawudur	3422	7499	595	0
 Chak-i-Dāra	3418	7492	611	0
 Dārawain	3418	7495	595	0
 Darahbāgh	3409	7488	611	0
-Daranbāgh	3409	7488	611	0
-Bagiāl Dara	3381	7410	1	0
-Dhara	3384	7422	1	0
-Dhara	3376	7422	1	0
-Fakīr Dāra	3376	7403	1	0
+Daranbāgh	3409	7488	611	0	Darahbāgh
+Bagiāl Dara	3381	7410	1	0	Bagiot Dora
+Dhara	3384	7422	1	0	Dhannu
+Dhara	3376	7422	1	0	Djara
+Fakīr Dāra	3376	7403	1	0	Fakīr Dorax
 Kanj Dhara	3379	7403	1	0
 Khati Dharmsāl	3376	7404	1	0
-Khari Dharmul	3376	7404	1	0
+Khari Dharmul	3376	7404	1	0	Khati Dharmsāl
 Dara Dulliān	3373	7407	1	0
 Dharana	3361	7412	1	0
 Dharmsāl	3361	7414	1	0
@@ -208,31 +208,31 @@ Dhāra Gathun	3356	7418	1	0
 Dhareri	3353	7422	504	0
 Dharāti	3352	7420	1	0
 Dhara	3373	7411	1	0
-Dhar	3347	7423	504	0
-Darwiyān	3346	7421	1	0
+Dhar	3347	7423	504	0	Dhās
+Darwiyān	3346	7421	1	0	Kānga
 Tarutin Dhara	3344	7421	504	0
-Tarutla Dhara	3344	7421	504	0
-Tarutala Dhara	3344	7421	504	0
-Dhareri	3343	7424	504	0
-Dhareri	3343	7423	504	0
+Tarutla Dhara	3344	7421	504	0	Tarutin Dhara
+Tarutala Dhara	3344	7421	504	0	Tarutin Dhara
+Dhareri	3343	7424	504	0	Dhateri
+Dhareri	3343	7423	504	0	Paingirān
 Suli Dhār	3336	7421	504	0
-Suli Dhāra	3336	7421	504	0
-Simbal Dhara	3336	7423	504	0
-Dhara Sānwāla	3336	7424	504	0
+Suli Dhāra	3336	7421	504	0	Suli Dhār
+Simbal Dhara	3336	7423	504	0	Simbal Dhora
+Dhara Sānwāla	3336	7424	504	0	Sānwāla
 Dhara	3336	7423	504	0
-Dhara Sānwāla	3336	7423	504	0
-Dhara Brohmanān	3334	7423	504	0
+Dhara Sānwāla	3336	7423	504	0	Dhara
+Dhara Brohmanān	3334	7423	504	0	Dungi Brahiranān
 Mitthi Dhara	3334	7417	504	0
-Khānka Dharo	3333	7422	504	0
-Dhara	3332	7418	504	0
+Khānka Dharo	3333	7422	504	0	Dhora Khānke
+Dhara	3332	7418	504	0	Roual
 Darumbid	3331	7420	504	0
 Jhandl Dhara	3330	7422	504	0
-Jhandi Dhara	3330	7422	504	0
+Jhandi Dhara	3330	7422	504	0	Jhandl Dhara
 Dharia	3326	7408	504	0
-Dhariot	3326	7408	504	0
+Dhariot	3326	7408	504	0	Dharia
 Darni	3326	7424	504	0
 Bod Dardahaj	3442	7410	0	0
-Bod Dardohaj	3442	7410	0	0
+Bod Dardohaj	3442	7410	0	0	Bod Dardahaj
 Buna Darbal	3433	7425	0	0
 Darel	3446	7412	0	0
 Petha Darbal	3432	7424	0	0
@@ -252,14 +252,14 @@ Dardpura	3441	7436	0	0
 Dardapur	3448	7446	0	0
 Dargiya Lehr	3292	7456	581	0
 Simbli Dharm Arti	3279	7472	581	0
-Dharat	3325	7408	504	0
+Dharat	3325	7408	504	0	Triot
 Jhangar Dharms	3324	7405	504	0
-Jhangar Dharmsai	3324	7405	504	0
+Jhangar Dharmsai	3324	7405	504	0	Jhangar Dharms
 Darkāla	3318	7409	504	0
 Darūni	3321	7424	504	0
 Katoa Dhar	3313	7418	504	0
 Kumli Dāra	3312	7422	504	0
-Rumli Dāra	3312	7422	504	0
+Rumli Dāra	3312	7422	504	0	Kumli Dāra
 Dhariala	3310	7425	504	0
 Darghūān	3314	7438	504	0
 Darubi	3311	7449	504	0
@@ -276,8 +276,8 @@ Dhar Dharochān	3287	7484	581	0
 Dharm Khu	3286	7476	581	0
 Darkālīwāli Dhak	3283	7486	581	0
 Darsopur	3264	7480	581	0
-Darsapur	3264	7480	581	0
-Daret	3265	7490	720	0
+Darsapur	3264	7480	581	0	Darsopur
+Daret	3265	7490	720	0	Tret
 Dārni	3264	7495	720	0
 Darchiks	3462	7640	8	0
 Būjo Darga	3411	7399	301	0
@@ -291,17 +291,17 @@ Daror	2976	7701	457	0
 Dhārola	2574	7563	313	0
 Dharsu	2811	7608	694	0
 Dharer	3124	7700	628	0
-Dharail	3124	7700	628	0
+Dharail	3124	7700	628	0	Dharer
 Dharail	3123	7701	479	0
-Dharoti	3122	7703	479	0
+Dharoti	3122	7703	479	0	Ghaloti
 Dārgi	3122	7705	479	0
 Dharth	3117	7706	479	0
-Dharath	3117	7706	479	0
+Dharath	3117	7706	479	0	Dharth
 Dargot	3119	7707	479	0
 Dhār	3115	7706	479	0
 Dharail	3116	7702	628	0
 Dharog	3116	7707	479	0
-Dharog	3116	7708	479	0
+Dharog	3116	7708	479	0	Gharog
 Dhārath	3113	7708	479	0
 Dhāri	3000	7867	612	0
 Dharigaon	2993	7874	612	0
@@ -338,7 +338,7 @@ Dharmpura	2475	7881	481	0
 Dari	2464	7898	481	0
 Darya Nagla	2775	7924	117	0
 Daraiya Nagla	2782	7909	616	0
-Dardiya Nagla	2782	7909	616	0
+Dardiya Nagla	2782	7909	616	0	Daraiya Nagla
 Dārānagar	2797	7923	117	0
 Darsan Nagla	2798	7931	117	0
 Dharampur	2792	7930	117	0
@@ -369,7 +369,7 @@ Daru ka Nagla	2676	7921	290	0
 Nagla Dhāra	2681	7915	290	0
 Dariāpura	2632	7901	334	0
 Dharampura	2633	7922	741	0
-Dharampur	2633	7922	741	0
+Dharampur	2633	7922	741	0	Dharampura
 Dharampura	2625	7920	741	0
 Dharampura	2698	7562	121	0
 Dārāwāla ki Dhāni	2694	7556	121	0
@@ -387,7 +387,7 @@ Dharampura	2487	7923	481	0
 Dārgawān	2473	7920	481	0
 Dharampura	2466	7906	481	0
 Dargawān	2463	7903	481	0
-Dharampura	2464	7912	481	0
+Dharampura	2464	7912	481	0	Bilrāo
 Dharampura	2456	7924	663	0
 Dharampura	2451	7905	663	0
 Dharampura	2420	7923	663	0
@@ -490,7 +490,7 @@ Dard Baihk	3473	7435	0	0
 Dharpathri	3453	7432	0	0
 Dhāri Baihk	3459	7447	0	0
 Dharamwär	3459	7435	0	0
-Dharamwaer	3459	7435	0	0
+Dharamwaer	3459	7435	0	0	Dharamwär
 Dārapur	3459	7435	0	0
 Dhāri	3454	7440	0	0
 Dhār	3140	7729	278	0
@@ -739,7 +739,7 @@ Dhārkot	3027	7821	448	0
 Darwa	3034	7824	500	0
 Dārak	3034	7823	500	0
 Sidh Ki Dhār	3043	7824	500	0
-Hassan Alīpur Dharmān	2944	7851	575	0
+Hassan Alīpur Dharmān	2944	7851	575	0	Khatriwāla
 Dārmi	3046	7950	183	0
 Dhār	3028	7959	183	0
 Darzīpura	2895	7916	552	0
@@ -783,7 +783,7 @@ Dhārāsur	1905	7665	153	0
 Dhārīn	3465	7431	0	0
 Dharpathri	3460	7444	0	0
 Dharmkot Balipur	3038	7629	564	0
-Dharmgarh	3025	7647	564	0
+Dharmgarh	3025	7647	564	0	Kāthgarh
 Bāra Dari	3034	7639	564	0
 Dhārāgarhi	2784	7790	543	0
 Dharmapura	2768	7746	177	0
@@ -928,7 +928,7 @@ Dharmpur	2707	7880	464	0
 Daryāpur	2703	7887	464	0
 Nagla Dhāra	2701	7896	464	0
 Nagla Dharmjīt	2701	7895	464	0
-Dara	2770	7881	616	0
+Dara	2770	7881	616	0	Kondha
 Dhārakpur	2768	7888	616	0
 Nagla Darua	2768	7892	616	0
 Dharmpura	2757	7892	616	0
@@ -1112,12 +1112,12 @@ Dharamshālā	2534	7980	614	0
 Darhat	2532	7994	614	0
 Dharora	2444	7901	663	0
 Dariyāpur	2596	8299	498	0
-Dharnīpur	2595	8297	498	0
+Dharnīpur	2595	8297	498	0	Bisiyān
 Dariyāpur	2592	8279	498	0
 Dariyāpur Basāhi	2592	8291	498	0
 Dariyapur	2591	8292	498	0
 Dharsand	2580	8278	32	0
-Dharāng	2579	8295	498	0
+Dharāng	2579	8295	498	0	Mādhopur
 Dharamsāri	2577	8275	32	0
 Garhi Dharmpāl	2697	7811	546	0
 Dharbāi	2698	7822	546	0
@@ -1146,7 +1146,7 @@ Dharmapur	2539	8312	251	0
 Darweshpur	2544	8311	251	0
 Dariāpur	2533	8323	724	0
 Dharampura	2458	7957	663	0
-Dharamnagar	2697	7861	403	0
+Dharamnagar	2697	7861	403	0	Mahmūdpur Nadai
 Pura Dharm Singh	2686	7868	546	0
 Dharai	2659	7874	334	0
 Dharampura	2606	7861	484	0
@@ -1164,7 +1164,7 @@ Dharmāngatpur	2574	8347	26	0
 Dharmāngatpur	2573	8349	26	0
 Dhari Khurd	2561	8343	26	0
 Dhari Kalān	2561	8344	26	0
-Dharmāpur	2559	8348	26	0
+Dharmāpur	2559	8348	26	0	Kurhaniyāpur
 Dharwa	2555	8342	26	0
 Dharmpura	2511	7806	436	0
 Dariyāpur	2548	8325	724	0
@@ -1355,7 +1355,7 @@ Dharmpur	2530	8090	643	0
 Chak Darsenda	2543	8099	643	0
 Darsenda	2545	8095	643	0
 Tera Darsenda	2548	8087	463	0
-Dāra Nagra	2770	7938	470	0
+Dāra Nagra	2770	7938	470	0	Kaimgan
 Dharampur	2761	7932	688	0
 Baria Dārda	2755	7945	688	0
 Dharampur	2769	7944	470	0
@@ -1398,7 +1398,7 @@ Arāzi Darība	2569	8273	32	0
 Dharampura	2446	8015	532	0
 Daruwa	2362	7961	521	0
 Dariān	2355	7952	521	0
-Dharka	2373	7965	521	0
+Dharka	2373	7965	521	0	Naiāgaon
 Dharampura	2398	7999	532	0
 Dharmi	2252	7931	337	0
 Dhāria	2269	7938	522	0
@@ -1472,7 +1472,7 @@ Daryāpur	2672	8079	714	0
 Darsawān	2655	8079	312	0
 Darehta	2665	8084	312	0
 Dārogha Khera	2672	8085	714	0
-Darāin	2673	8099	714	0
+Darāin	2673	8099	714	0	Mohiuddinpur
 Darshan Khera	2631	8085	312	0
 Darya Khera	2635	8086	681	0
 Dareta	2643	8084	312	0
@@ -1512,7 +1512,7 @@ Darzi Purwa	2761	8172	618	0
 Dharsawān	2755	8173	294	0
 Dargāhi	2754	8174	294	0
 Pura Darzian	2749	8160	294	0
-Dharam Sarāi	2743	8151	294	0
+Dharam Sarāi	2743	8151	294	0	Hariharpur
 Pura Dariāo Singh	2741	8161	294	0
 Dārzian Purwa	2741	8157	294	0
 Pura Darsan Singh	2740	8156	294	0
@@ -1589,7 +1589,7 @@ Dharmsāla	2969	7889	612	0
 Dharampur	2942	7877	575	0
 Dharampur	2931	7878	641	0
 Dhāra	2945	7885	575	0
-Dhāra	2946	7885	575	0
+Dhāra	2946	7885	575	0	Hardat ki Got
 Dārāhta	2645	8102	681	0
 Dhārājit Khera	2639	8101	312	0
 Dharam Singh Khera	2633	8102	681	0
@@ -1634,7 +1634,7 @@ Dharampura	2406	8085	324	0
 Daryāpur	2594	8109	728	0
 Dharmangadpur Narwa	2576	8101	728	0
 Dharmdāspur	2580	8113	728	0
-Dharmangadpur	2583	8114	728	0
+Dharmangadpur	2583	8114	728	0	Irādatpur
 Daryāpur	2584	8123	728	0
 Dariya Purwa	2526	8106	643	0
 Dariyāpur Buzurg	2885	7828	483	0
@@ -1686,7 +1686,7 @@ Dharmāram	1897	7808	360	0
 Dharmāram	1882	7812	75	0
 Dārāpur	2874	7851	646	0
 Dharsoli	2863	7852	646	0
-Dhārūpur	2599	8133	681	0
+Dhārūpur	2599	8133	681	0	Pure Rūdi
 Daryāpur	2581	8127	728	0
 Dariha	2585	8147	718	0
 Dharai	2597	8147	681	0
@@ -1822,7 +1822,7 @@ Dharmāram	1844	7874	230	0
 Darshaniān	2727	8268	292	0
 Dharmāram	1889	7872	63	0
 Dharampur	2719	8252	280	0
-Rup Dhar	2716	8250	292	0
+Rup Dhar	2716	8250	292	0	Sekhūi Tāj
 Daryāpur	2705	8252	542	0
 Pura Darya Singh	2701	8254	542	0
 Dariāpur Jangal	2705	8259	154	0
@@ -1929,7 +1929,7 @@ Dharmandpur	2595	8321	498	0
 Dharwāra Khās	2593	8324	498	0
 Dharnīpur	2583	8308	498	0
 Dārāpur	2610	8231	597	0
-Dariabād	2580	8315	498	0
+Dariabād	2580	8315	498	0	Chaksāh
 Darbarpur	2607	8229	597	0
 Dhārūpur	2610	8239	597	0
 Dharmanpur	2609	8241	597	0
@@ -1973,7 +1973,7 @@ Pura Dāridīha	2679	8292	647	0
 Pura Darup Singh	2667	8277	154	0
 Dārāngar	2655	8284	553	0
 Manjha Dārānagar	2657	8285	647	0
-Tandwa Darab	2654	8286	553	0
+Tandwa Darab	2654	8286	553	0	Maindighāt
 Dharam Purwa	2675	8297	647	0
 Dharauli	2661	8296	647	0
 Dharmaini	2670	8299	647	0
@@ -1997,7 +1997,7 @@ Dariāpur	2603	8277	498	0
 Chak Dharna	2604	8282	498	0
 Dāri Dīha	2606	8284	498	0
 Dharamdāspur	2611	8293	498	0
-Dharamdāspur	2611	8296	498	0
+Dharamdāspur	2611	8296	498	0	Nawāda
 Dharnipur Bisrāin	2608	8292	498	0
 Dharnipur Wahāb	2608	8293	498	0
 Darkha Shaikh	2600	8296	498	0
@@ -2010,7 +2010,7 @@ Dharnāmpur	2722	8321	515	0
 Dharamnagar	2718	8319	515	0
 Darigund	3381	7520	148	0
 Darwār Khurd	2710	8325	515	0
-Darzi Chak	2719	8338	515	0
+Darzi Chak	2719	8338	515	0	Panditpur
 Dharmpur	2716	8334	515	0
 Pipra Dargāh	2705	8350	515	0
 Darahta	2722	8357	515	0
@@ -2028,11 +2028,11 @@ Pure Dharmrāl	2589	8172	718	0
 Dhārūpur	2597	8165	718	0
 Dharampur Painta	2693	8321	647	0
 Darwa	2683	8317	325	0
-Darīwa	2683	8317	325	0
+Darīwa	2683	8317	325	0	Darwa
 Dariwan Zabti	2676	8303	647	0
 Dharaichi	2674	8305	647	0
 Darwa	2672	8308	647	0
-Darīwān Zabit Adālaat	2672	8308	647	0
+Darīwān Zabit Adālaat	2672	8308	647	0	Darwa
 Dardwār	2652	8310	647	0
 Dariādīh	2662	8315	325	0
 Darghāt	2671	8314	325	0
@@ -2153,7 +2153,7 @@ Dharegaon	2325	8073	468	0
 Darri Mohgaon	2303	8094	468	0
 Darniūnd	3359	7578	34	0
 Dargushtän	3339	7580	34	0
-Dargushtaen	3339	7580	34	0
+Dargushtaen	3339	7580	34	0	Dargushtän
 Nāgin Dhār	3320	7576	372	0
 Dhāre	3317	7583	34	0
 Darber	3301	7579	372	0
@@ -2177,7 +2177,7 @@ Dārha Khurd	2503	8165	516	0
 Dārha Kalān	2503	8165	516	0
 Dārha Kalān	2504	8166	516	0
 Dhari	2511	8168	607	0
-Dharmuwāla	3059	7418	3	0
+Dharmuwāla	3059	7418	3	0	Mohar Singhwāla
 Dhāro Chak	3207	7543	487	0
 Darsupur	3221	7546	692	0
 Dhāriwāl	3204	7548	487	0
@@ -2198,7 +2198,7 @@ Dharampur	2575	8185	718	0
 Dārāpur	2574	8188	718	0
 Dharampur	2550	8192	607	0
 Dharauta	2572	8197	607	0
-Dharauta	2573	8198	607	0
+Dharauta	2573	8198	607	0	Bhāle ka Ban
 Diluān Di Dhār	3245	7557	496	0
 Darang	3236	7574	692	0
 Dharamsol	3250	7573	496	0
@@ -2272,7 +2272,7 @@ Dharmūtolā	2275	8078	480	0
 Dharampurī	2234	8076	480	0
 Darbarā	2247	8095	480	0
 Dharīānwāli	3093	7468	566	0
-Dharamgarh	2947	7681	298	0
+Dharamgarh	2947	7681	298	0	Purbayākhera
 Dharamgarh	2947	7682	298	0
 Dariā	2205	8092	537	0
 Dharuwāli	3197	7505	487	0
@@ -2444,7 +2444,7 @@ Dhāra	3201	7605	38	0
 Dhār	3260	7627	362	0
 Dharka	3251	7634	362	0
 Darri	2095	8087	474	0
-Dhārni	2068	8075	644	0
+Dhārni	2068	8075	644	0	Ghotulmunda
 Dhārni	2055	8082	644	0
 Dargarh	2017	8080	704	0
 Dāron	3246	7631	362	0
@@ -2602,7 +2602,7 @@ Darga	2557	7535	309	0
 Darbekera	2096	8245	407	0
 Dhāria	2310	7414	173	0
 Darrimunda	2083	8263	594	0
-Darripāli	2089	8260	594	0
+Darripāli	2089	8260	594	0	Chuhuri
 Darrinawāpāra	2090	8258	594	0
 Dhārol	2082	8270	497	0
 Darripāra	2062	8257	594	0
@@ -2614,7 +2614,7 @@ Dhāra	3107	7791	89	0
 Dargaon	2039	8264	594	0
 Dharamsāgar	2040	8268	594	0
 Darlipāra	2031	8271	594	0
-Darlipāli	2031	8271	594	0
+Darlipāli	2031	8271	594	0	Darlipāra
 Darlīpāra	2009	8256	594	0
 Darripāra	2003	8254	594	0
 Dharnīmāl	2014	8260	594	0
@@ -2692,7 +2692,7 @@ Darlipāli	2165	8361	497	0
 Darana	2375	7652	16	0
 Darangapāli	2144	8366	497	0
 Dharwālg	3057	7914	365	0
-Dharmsala	3051	7923	365	0
+Dharmsala	3051	7923	365	0	Gwālabagar
 Dariyāpur	2387	7650	16	0
 Darlipāli	2177	8386	627	0
 Darlipāli	2197	8391	272	0
@@ -3504,7 +3504,7 @@ Dharmāreddipalli	1736	7891	129	0
 Darsana	2611	8761	667	0
 Dharhar	2621	8771	510	0
 Dharmeswar Gāchh	2616	8768	667	0
-Dharmsāla	2915	8019	554	0
+Dharmsāla	2915	8019	554	0	Tuniās
 Dharampur	2789	8001	470	0
 Dārāpur Chhatia	2775	8003	470	0
 Dharmpur	2776	8007	686	0
@@ -3787,7 +3787,7 @@ Dhāriwāl	3200	7536	487	0
 Dharsanda	2705	8107	30	0
 Darh	3148	7699	278	0
 Dhār	3126	7700	628	0
-Darbar	3097	7696	628	0
+Darbar	3097	7696	628	0	Kot
 Dhār	3117	7722	479	0
 Dhār	3109	7702	628	0
 Dhār	3106	7712	479	0

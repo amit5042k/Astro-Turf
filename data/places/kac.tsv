@@ -1,7 +1,7 @@
-Kāchrāpāra	2296	8843	528	136954
+Kāchrāpāra	2296	8843	528	136954	Kānchrāpāra
 Khāchrod	2342	7528	314	34191
 Khali Kachigam	2038	7287	760	18434
-Kachigam	2038	7287	760	18434
+Kachigam	2038	7287	760	18434	Khali Kachigam
 Kachhwa	2521	8271	201	15381
 Dumar Kachhar	2317	8211	225	9480
 Kachrauli	2946	7695	298	5400
@@ -9,7 +9,7 @@ Kachujan Gaon	2750	9536	460	3246
 Kachani	2409	8259	631	0
 Kāchūrwāhi	2134	7939	141	0
 Khāchariyāwās	2723	7530	491	0
-Kachriāwās	2723	7530	491	0
+Kachriāwās	2723	7530	491	0	Khāchariyāwās
 Kāchola	2540	7513	309	0
 Kachnoda Kalān	2474	7856	384	0
 Kachnāra	2384	7511	580	0
@@ -21,9 +21,9 @@ Kachhauna	2716	8034	686	0
 Kachhapind	3287	7499	581	0
 Kachchirāyapālaiyam	1178	7887	390	0
 Kachchhīdhāna	2173	7879	337	0
-Kachchhiahana	2173	7879	337	0
+Kachchhiahana	2173	7879	337	0	Kachchhīdhāna
 Kachhautiya	2398	7653	16	0
-Kachautia	2398	7653	16	0
+Kachautia	2398	7653	16	0	Kachhautiya
 Kachāura	2769	7848	670	0
 Kachaura	2685	7881	546	0
 Gorākāpa Kachehri	2315	9180	385	0
@@ -35,9 +35,9 @@ Lab Kachāl	3450	7481	120	0
 Kachhlu Qāzīpura	3434	7437	0	0
 Kachar	3438	7434	0	0
 Kachha	3321	7409	504	0
-Kachha	3317	7414	504	0
+Kachha	3317	7414	504	0	Kaohha
 Kachradin	3286	7445	581	0
-Kachreāl	3286	7445	581	0
+Kachreāl	3286	7445	581	0	Kachradin
 Kachal	3466	7397	0	0
 Kachar	3405	7400	301	0
 Kachrāi	2971	7748	449	0
@@ -71,9 +71,9 @@ Kandrauli Kachhoha	2707	7993	570	0
 Kannauj Kachhoha	2706	7994	570	0
 Kachhpura	2697	7907	290	0
 Kachpura	2696	7923	290	0
-Kachhpura	2678	7905	290	0
+Kachhpura	2678	7905	290	0	Bachhpura Itawan
 Kachari	2648	7924	290	0
-Kachahari	2648	7924	290	0
+Kachahari	2648	7924	290	0	Kachari
 Kāchhiyan ka Pura	2648	7930	715	0
 Kachpura	2647	7933	715	0
 Kachāri Purwa	2646	7940	715	0
@@ -132,7 +132,7 @@ Kachanāvada	2520	7624	371	0
 Kachhauli	2953	7766	545	0
 Kachkohi	2207	7869	337	0
 Kachrām	2210	7873	337	0
-Kachhār	2283	7899	522	0
+Kachhār	2283	7899	522	0	Dera
 Kachariya	2219	7892	337	0
 Kāchurna	2139	7823	133	0
 Kacharboh	2197	7832	462	0
@@ -161,7 +161,7 @@ Kachnāri	2415	7635	16	0
 Kachnāriya	2415	7634	16	0
 Kāchri	2486	7661	506	0
 Kāchra	2486	7662	506	0
-Kachnāria	2436	7658	333	0
+Kachnāria	2436	7658	333	0	Nāyagāon
 Kachnāriya Khurd	2444	7675	506	0
 Kachhāwan	2480	7680	506	0
 Kachnāriya	2450	7676	506	0
@@ -259,7 +259,7 @@ Kachhpura	2746	7926	688	0
 Nagla Pahilu Kāchhi	2730	7941	688	0
 Nagla Kachhiān	2733	7943	688	0
 Kachhpura	2744	7938	688	0
-Kāchkūri	2149	7930	141	0
+Kāchkūri	2149	7930	141	0	Junāwāni Khadān
 Mahalpur Kāchhi	2700	7751	114	0
 Nagla Kāchhi	2699	7762	114	0
 Kāchhi ka Nagla	2692	7752	114	0
@@ -346,7 +346,7 @@ Kachhpura	2695	7803	546	0
 Kachhpura	2693	7807	546	0
 Kachhpura	2692	7812	622	0
 Kachchhapura	2673	7815	478	0
-Kachnauda	2666	7814	478	0
+Kachnauda	2666	7814	478	0	Bhakrauli
 Kachchhapura	2663	7823	478	0
 Kachchāpura	2664	7809	478	0
 Kachanpur	2661	7818	478	0
@@ -370,7 +370,7 @@ Kachanāv Kalān	2665	7858	334	0
 Gumāra ka Chak	2622	7850	484	0
 Dangiyāpura Ka Chak	2619	7858	484	0
 Kachhpura	2634	7886	334	0
-Kachahri	2557	8329	26	0
+Kachahri	2557	8329	26	0	Lsanpur
 Kachhaua	2523	7823	436	0
 Kāchhi ka Dera	2560	7833	503	0
 Kachhiyānpurwa	2487	7979	663	0
@@ -564,7 +564,7 @@ Kachra	2535	8171	607	0
 Kachāri	2525	8159	607	0
 Kāchha	2588	8179	718	0
 Kachhra Nandpatti	2576	8199	718	0
-Banbīr Kāchh	2590	8193	718	0
+Banbīr Kāchh	2590	8193	718	0	Nekuha
 Banbīr Kāchh	2589	8192	718	0
 Kachniya	2554	8181	607	0
 Kachara	2512	8188	607	0
@@ -597,7 +597,7 @@ Ghotī Kachhār	2153	8061	144	0
 Kachhārtola	2293	8202	757	0
 Kachhār	2286	8211	757	0
 Kāchbali	2563	7390	572	0
-Kācharmār	2256	8220	388	0
+Kācharmār	2256	8220	388	0	Nawapāra
 Kachnārī	2181	8082	144	0
 Kachhār	2244	8218	388	0
 Kachhār	2218	8211	291	0
@@ -681,7 +681,7 @@ Kacherirās	1870	8190	599	0
 Kachcheli	1850	8186	109	0
 Kachchelivāda	1820	8184	109	0
 Kachchelivāda	1825	8184	109	0
-Kāchavaram	1783	8116	46	0
+Kāchavaram	1783	8116	46	0	Narasingapeta
 Kachārītola	2428	8251	631	0
 Kachhawa	2515	8442	409	0
 Kachnār	2582	8466	540	0
@@ -753,7 +753,7 @@ Kāchhi	2656	8624	556	0
 Kachāvi	1459	7526	92	0
 Kāchīmāchenahalli	1358	7747	438	0
 Kāchanhalli	1315	7737	389	0
-Kachohalli	1300	7747	43	0
+Kachohalli	1300	7747	43	0	Cāchohalli
 Kāchikadit	1357	7773	438	0
 Kāchihalli	1337	7758	389	0
 Kācharkenhalli	1302	7763	43	0
@@ -818,7 +818,7 @@ Kachanhar	2593	8753	613	0
 Kachora	2578	8770	613	0
 Kachahāria	2535	8735	411	0
 Kachhua	2547	8743	625	0
-Kachuāra	2557	8517	604	0
+Kachuāra	2557	8517	604	0	Manoharpur
 Lanka Kachhuāra	2549	8515	604	0
 Kachhuāra Chak	2548	8515	604	0
 Kachna	2573	8763	613	0
@@ -895,7 +895,7 @@ Kachanpur	2392	8415	707	0
 Kāchki	2340	8445	321	0
 Kachā	2396	8467	707	0
 Kāchāpārā	2318	8464	321	0
-Kachparrā	2318	8464	321	0
+Kachparrā	2318	8464	321	0	Kāchāpārā
 Kachmachi	2336	8485	773	0
 Bachhiā Khāchhi	2262	8429	495	0
 Kachhupāni	2245	8431	495	0

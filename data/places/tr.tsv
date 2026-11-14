@@ -1,39 +1,39 @@
-Trinchinopoly	1082	7870	270	1022518
-Trichinapalli	1082	7870	270	1022518
-Trichinopoli	1082	7870	270	1022518
-Trichinopoly	1082	7870	270	1022518
-Trichy	1082	7870	270	1022518
-Trivandrum	849	7695	219	788271
+Trinchinopoly	1082	7870	270	1022518	Tiruchirappalli
+Trichinapalli	1082	7870	270	1022518	Tiruchirappalli
+Trichinopoli	1082	7870	270	1022518	Tiruchirappalli
+Trichinopoly	1082	7870	270	1022518	Tiruchirappalli
+Trichy	1082	7870	270	1022518	Tiruchirappalli
+Trivandrum	849	7695	219	788271	Thiruvananthapuram
 Thrissur	1052	7622	241	315957
-Trichur	1052	7622	241	315957
-Pudukkottai-Trichinopoly	1038	7882	198	117630
+Trichur	1052	7622	241	315957	Thrissur
+Pudukkottai-Trichinopoly	1038	7882	198	117630	Pudukkottai
 Tripunittura	994	7633	176	69390
-Tripunnittara	994	7633	176	69390
+Tripunnittara	994	7633	176	69390	Tripunittura
 Trikonavattam	889	7667	549	41609
-Thrikkovilvattom	889	7667	549	41609
+Thrikkovilvattom	889	7667	549	41609	Trikonavattam
 Triprangod	1084	7595	150	41167
-Triprangode	1084	7595	150	41167
-Thrikkadavoor	892	7659	549	39285
+Triprangode	1084	7595	150	41167	Triprangod
+Thrikkadavoor	892	7659	549	39285	Tirkadavūr
 Trittāla	1080	7613	263	27796
-Thrikkaruva	895	7660	549	25432
-Tranquebar	1103	7985	203	23191
-Trankebar	1103	7985	203	23191
+Thrikkaruva	895	7660	549	25432	Karuva
+Tranquebar	1103	7985	203	23191	Tharangambadi
+Trankebar	1103	7985	203	23191	Tharangambadi
 Trikarpūr South	1212	7519	305	22991
-South Thrikkaripur	1212	7519	305	22991
+South Thrikkaripur	1212	7519	305	22991	Trikarpūr South
 Triparappu	839	7727	453	22401
 Trikarpūr North	1215	7517	305	18210
-North Thrikkaripur	1215	7517	305	18210
+North Thrikkaripur	1215	7517	305	18210	Trikarpūr North
 Trāl	3393	7512	428	17844
 Trajpar	2282	7087	147	16637
-Trehgam	3455	7422	0	15587
+Trehgam	3455	7422	0	15587	Gulgam
 Trikūr	1046	7627	241	13093
 Trimbak	1993	7353	54	12056
 Thruti	3353	7416	1	0
 Trombay	1900	7290	207	0
 Trombay	1903	7293	207	0
 Tripurāntakam	1600	7946	200	0
-Madras Triplicane	1306	8028	204	0
-Triplicane	1306	8028	204	0
+Madras Triplicane	1306	8028	204	0	Tiruvallikeni
+Triplicane	1306	8028	204	0	Tiruvallikeni
 Trimulgherry	1748	7851	424	0
 Triloknāth	3268	7670	425	0
 Trikkunnapuzha	926	7641	243	0
@@ -51,7 +51,7 @@ Trāgbal	3449	7463	120	0
 Trunkhal	3440	7497	595	0
 Tresangam	3450	7485	120	0
 Trakonno	3383	7421	1	0
-Trekanna	3383	7421	1	0
+Trekanna	3383	7421	1	0	Trakonno
 Trichal	3377	7424	1	0
 Trombagund	3423	7450	301	0
 Trikulbal	3417	7459	301	0
@@ -68,7 +68,7 @@ Tror	3291	7495	666	0
 Rangpur Trewa	3250	7477	581	0
 Trindi Jamūra	3252	7496	720	0
 Trindi Singāra	3252	7497	720	0
-Trindi Sangāra	3252	7497	720	0
+Trindi Sangāra	3252	7497	720	0	Trindi Singāra
 Tror	3260	7495	720	0
 Tret	3265	7490	720	0
 Tringniān	3465	7398	0	0
@@ -82,7 +82,7 @@ Plot Three	3003	7650	501	0
 Plot Three	3000	7651	501	0
 Trichy	1080	7870	270	0
 Dāwāguri Number Three	2646	8989	713	0
-Triumalaipruam	847	7781	191	0
+Triumalaipruam	847	7781	191	0	Tirumalaipuram
 Triperuntura	928	7659	243	0
 Trikkandiyūr	1091	7592	150	0
 Trālsa	2180	7296	151	0
@@ -115,7 +115,7 @@ Dera Trilokpur	2548	8369	26	0
 Trilokpur	2509	8396	409	0
 Trisūli	2405	8331	341	0
 Triveni Sangam	2040	7996	111	0
-Trakshi	2486	7625	371	0
+Trakshi	2486	7625	371	0	Tarkasya
 Sarāi Triloki	2585	8245	32	0
 Tribhuwanpur	2533	8237	583	0
 Tribhuwanpur	2528	8231	583	0
@@ -142,7 +142,7 @@ Trāgapathar	3352	7504	35	0
 Trohop	3369	7523	148	0
 Chakra Number Three	2672	8336	325	0
 Jangal Rāja Three	2655	8365	535	0
-Trauli	2636	8371	535	0
+Trauli	2636	8371	535	0	Misrauli
 Trojal	3328	7505	550	0
 Trennā	3338	7513	550	0
 Tragam	3340	7511	550	0
@@ -195,7 +195,7 @@ Triu Shop	3233	7609	362	0
 Trimhār	3236	7601	362	0
 Trihān	3233	7607	362	0
 Trangra	3231	7608	362	0
-Triloknāth	3223	7607	38	0
+Triloknāth	3223	7607	38	0	Tiloknāth
 Tremla	3216	7622	38	0
 Tripal	3202	7620	38	0
 Tritthā	3258	7626	362	0
@@ -264,8 +264,8 @@ Trikkannamanka	899	7678	549	0
 Trikkoikal	892	7695	549	0
 Trikonavattamseri	890	7666	549	0
 Talaināyar Three Setti	1053	7978	239	0
-Setti Three	1040	7973	239	0
-Setti Three	1039	7976	239	0
+Setti Three	1040	7973	239	0	Āyakkārambalam
+Setti Three	1039	7976	239	0	Āyakkarambālam
 Tribhuni	2407	8694	502	0
 Tribhuvana Vīramangalm	1132	7973	203	0
 Tripurasundarapuram	903	7739	245	0

@@ -1,12 +1,12 @@
 Naharlagun	2710	9370	578	36158
 Nāhan	3056	7729	534	28899
 Nahorkatiya	2729	9533	380	18937
-Naharkatiya	2729	9533	380	18937
-Naharkativa	2729	9533	380	18937
+Naharkatiya	2729	9533	380	18937	Nahorkatiya
+Naharkativa	2729	9533	380	18937	Nahorkatiya
 Nahira	2611	9147	636	11790
-Nāharmagra	2468	7388	22	0
+Nāharmagra	2468	7388	22	0	Nārāmagra
 Nāhvre	1866	7437	52	0
-Nahna	3081	7712	534	0
+Nahna	3081	7712	534	0	Nunah
 Nāhil	2812	8005	470	0
 Nahiānwāla	3031	7491	563	0
 Nahiān	2546	8291	251	0
@@ -16,7 +16,7 @@ Nāhar	2841	7640	519	0
 Nāhāpa	2248	7292	157	0
 Nagar Nahusa	2540	8534	514	0
 Nāharsar	2811	7499	491	0
-Naharsir	2811	7499	491	0
+Naharsir	2811	7499	491	0	Nāharsar
 Nahāzāri	2243	8824	4	0
 Nahom	3435	7434	0	0
 Nāh	3300	7434	504	0
@@ -202,7 +202,7 @@ Nahaiya	2588	8103	728	0
 Nahwan Parsaura	2716	8170	542	0
 Nahrauli	2872	7848	646	0
 Nahraula	2873	7848	646	0
-Nāharāpur	2625	8106	681	0
+Nāharāpur	2625	8106	681	0	Shāhzādpur
 Gang Nahān	2685	8194	542	0
 Rāmpur Nahra	2805	7868	117	0
 Nahtanpur	2615	8179	662	0
@@ -233,7 +233,7 @@ Sarāi Nāhar	2569	8166	718	0
 Nahar Chhapra	2695	8397	560	0
 Nahilāpār	2601	8398	536	0
 Sarāi Naharrāi	2581	8184	718	0
-Naharpur	2556	8191	607	0
+Naharpur	2556	8191	607	0	Tilhāpur
 Nahwaiya	2574	8190	718	0
 Nāharpur	2536	8179	607	0
 Naharpura	2302	7474	348	0

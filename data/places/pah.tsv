@@ -1,30 +1,30 @@
 Pahāsu	2817	7806	637	18854
 Pahalgam	3402	7532	148	9264
-Pahlgām	3402	7532	148	9264
-Mirza Pahar	2612	9154	636	4925
+Pahlgām	3402	7532	148	9264	Pahalgam
+Mirza Pahar	2612	9154	636	4925	Palāsbāri
 Pahārpur	2476	8497	118	1894
 Pahuna	2513	7443	417	0
-Pahargaon	2315	8307	413	0
-Pahwari	2350	7641	320	0
+Pahargaon	2315	8307	413	0	Pilkha
+Pahwari	2350	7641	320	0	Panwāri
 Pahur	2071	7568	78	0
 Pahua	737	9362	442	0
 Pahra	2537	8024	663	0
 Pahlāgaon	1283	9287	99	0
-Pahlādpur	2544	8345	724	0
+Pahlādpur	2544	8345	724	0	Prahlādpur
 Pahlā	2543	7688	335	0
 Pahla	2102	7968	404	0
 Pahīreju	2043	8389	387	0
 Pahāri	2856	7573	431	0
-Pahāri ki Mandi	2856	7573	431	0
+Pahāri ki Mandi	2856	7573	431	0	Pahāri
 Pāhārikhera	2486	8052	532	0
 Pahārī Buzurg	2533	8097	643	0
-Pahāri	2533	8097	643	0
+Pahāri	2533	8097	643	0	Pahārī Buzurg
 Pahāri	2771	7708	114	0
 Pahāri	2681	7806	622	0
 Pahāri	2475	8188	516	0
 Pahārgarh	2620	7764	478	0
 Pahār Ganj	2864	7722	732	0
-Delhi Paharganj	2864	7722	732	0
+Delhi Paharganj	2864	7722	732	0	Pahār Ganj
 Pahārbula	2320	8285	413	0
 Pahāpal	2000	7849	67	0
 Pah	2136	7164	168	0
@@ -34,13 +34,13 @@ Pahāriwāla	3285	7449	581	0
 Pahāl	3302	7445	504	0
 Pāhal Gagmān	3400	7435	301	0
 Pahtu	3290	7485	581	0
-Pahiādpur	3270	7477	581	0
+Pahiādpur	3270	7477	581	0	Palādpur
 Kālūwāla Pahārīpur	3019	7776	449	0
 Pahlādpur	2996	7724	326	0
 Pahlādpur Khalila	2929	7697	298	0
 Lāl Pahāri	2803	7611	694	0
 Pāhil	3120	7712	479	0
-Pāhal	3120	7712	479	0
+Pāhal	3120	7712	479	0	Pāhil
 Pahadisharif	1727	7847	62	0
 Kāli Pahāri	2814	7550	300	0
 Pāhlīa Khurd	3051	7613	564	0
@@ -71,7 +71,7 @@ Pahārgaon	2489	7942	663	0
 Pahar Ganj	2864	7721	732	0
 Pahiala	827	9311	79	0
 Pahumarāgāon	2712	9411	355	0
-Pahwāri	2504	8196	607	0
+Pahwāri	2504	8196	607	0	Panwāri
 Pahad Deulgaon	1997	7585	53	0
 Pahadgaon	2254	8234	388	0
 Pahadpur	2088	8640	734	0
@@ -191,8 +191,8 @@ Pahūra	2786	7953	470	0
 Saiyidpur Pahāri	2789	7966	470	0
 Pahāri Kalān	2697	7779	546	0
 Chhoti Pahāri	2696	7778	546	0
-Pahāri Khurd	2696	7778	546	0
-Pahāri	2562	7712	335	0
+Pahāri Khurd	2696	7778	546	0	Chhoti Pahāri
+Pahāri	2562	7712	335	0	Badreta
 Pahāri	2567	7706	335	0
 Pahlādpur Santokh	2748	7952	688	0
 Arrah Pahārpur	2741	7955	688	0
@@ -274,7 +274,7 @@ Pahārpur	2554	8335	26	0
 Pahalwānpur	2560	8340	26	0
 Pahalwānpur	2568	8337	26	0
 Pahunchi	2554	8346	26	0
-Pahitia	2567	8350	26	0
+Pahitia	2567	8350	26	0	Sarauli
 Pahārpur	2524	7811	436	0
 Kawak Pahārpur	2540	8336	724	0
 Āri Pahārpur	2543	8349	26	0
@@ -357,7 +357,7 @@ Pahāra Murārīpatti	2585	8223	718	0
 Pahalmānpur	2596	8220	718	0
 Pahalmānpur	2593	8233	718	0
 Pahārpur	2584	8229	32	0
-Patti Pahār	2578	8233	32	0
+Patti Pahār	2578	8233	32	0	Sultānpur
 Pahityāpur	2592	8241	32	0
 Pahāri Chak	2600	8251	32	0
 Pahalwāpur	2594	8262	32	0
@@ -453,8 +453,8 @@ Pahārāpur	2690	8127	30	0
 Pahalwān Purwa	2678	8141	30	0
 Purwa Pahalwān	2679	8145	30	0
 Purwa Pahalwān	2676	8145	30	0
-Pahārpur Kalān	2905	7831	575	0
-Pahārpur	2902	7830	483	0
+Pahārpur Kalān	2905	7831	575	0	Maleshia
+Pahārpur	2902	7830	483	0	Sīkarkhera
 Pāholi	2912	7833	575	0
 Pahārpur	2924	7839	575	0
 Pahārpur Chatar	2923	7842	575	0
@@ -936,7 +936,7 @@ Pahāntoli	2304	8515	432	0
 Pahārtoli	2369	8539	764	0
 Pahānduin	2353	8536	562	0
 Pahāntoli	2346	8543	562	0
-Pahār Gondā	2340	8532	562	0
+Pahār Gondā	2340	8532	562	0	Misir Gondā
 Pahārtoli	2337	8529	562	0
 Pahantoli	2333	8533	562	0
 Pahāntoli	2334	8538	562	0
@@ -944,7 +944,7 @@ Pahārtoli	2325	8531	562	0
 Pahāntoli	2318	8537	432	0
 Pahārpur	2385	8563	517	0
 Jhumrā Pahār	2386	8566	517	0
-Pahnātoli	2361	8552	391	0
+Pahnātoli	2361	8552	391	0	Jārātoli
 Pahārtoli	2342	8568	562	0
 Pahārsingh	2336	8570	562	0
 Pāhāntola	2247	8500	495	0
@@ -1068,7 +1068,7 @@ Pahārtoli	2295	8493	321	0
 Pahāntoli	2296	8493	321	0
 Pahāntoli	2292	8489	321	0
 Pahāntoli	2288	8491	321	0
-Pahārgāon	2287	8495	321	0
+Pahārgāon	2287	8495	321	0	Buruhātu
 Pahāntoli	2283	8494	321	0
 Pahāntoli	2284	8490	321	0
 Pahāntoli	2276	8494	495	0

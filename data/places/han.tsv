@@ -4,25 +4,25 @@ Hāngal	1476	7512	92	28159
 Handiā	2536	8219	607	17861
 Hanumana	2478	8210	516	16771
 Handwāra	3440	7428	0	13600
-Handawer	3440	7428	0	13600
-Handawor	3440	7428	0	13600
+Handawer	3440	7428	0	13600	Handwāra
+Handawor	3440	7428	0	13600	Handwāra
 Hansot	2158	7281	151	12525
-Hansut	2158	7281	151	12525
+Hansut	2158	7281	151	12525	Hansot
 Hanūr	1209	7730	69	11066
 Hanumantanpatti	979	7732	194	10619
 Hānspura	2506	8455	137	7940
-Hanship	2414	9321	441	0
+Hanship	2414	9321	441	0	Thlanship
 Handarki	1697	7724	71	0
-Handchokha	2385	8171	513	0
+Handchokha	2385	8171	513	0	Harchoka
 Hanzviur	3415	7459	301	0
-Hanzvlur	3415	7459	301	0
+Hanzvlur	3415	7459	301	0	Hanzviur
 Hanzal	3357	7579	34	0
 Hanumān Tanenguria	2222	8707	665	0
 Hanumān Chatti	3070	7952	183	0
 Hānti	2592	8625	591	0
 Hansi	3245	7783	425	0
-Hansāri Grid	2541	7857	433	0
-Hansāri Gird	2541	7857	433	0
+Hansāri Grid	2541	7857	433	0	Hasāri
+Hansāri Gird	2541	7857	433	0	Hasāri
 Hansapathar	2363	8666	415	0
 Hanoti	2412	7672	16	0
 Hannūr	1766	7619	132	0
@@ -30,27 +30,27 @@ Hanmant Vadiya	1730	7444	65	0
 Hanle	3279	7900	2	0
 Hānker	2010	8059	704	0
 Hankar	3383	7750	2	0
-Hanjar	1862	8266	316	0
+Hanjar	1862	8266	316	0	Honjaro
 Hangrum	2514	9330	494	0
 Hāng Hābāi	2586	9280	330	0
 Hanggou	2490	9440	723	0
-Hangao	2490	9440	723	0
+Hangao	2490	9440	723	0	Hanggou
 Hangdangsmin	3468	7664	2	0
 Hangārkatta	1345	7470	257	0
 Hānegaon	1834	7745	140	0
-Hanigaon	1834	7745	140	0
+Hanigaon	1834	7745	140	0	Hānegaon
 Handia	2249	7698	465	0
 Handapa	2096	8469	414	0
 Hanchnāl	1625	7648	50	0
 Hanbal	1300	7570	679	0
-Hanbalu	1300	7570	679	0
+Hanbalu	1300	7570	679	0	Hanbal
 Hanamsāgar	1587	7604	66	0
 Hanamkonda	1801	7957	61	0
-Hanumakonda	1801	7957	61	0
+Hanumakonda	1801	7957	61	0	Hanamkonda
 Hānagal	1474	7670	255	0
 Goma Hanu	3463	7663	2	0
 Hansasor	2816	7453	539	0
-Hansāsar	2816	7453	539	0
+Hansāsar	2816	7453	539	0	Hansasor
 Hanwantpura	2821	7498	539	0
 Hānrāl	2297	8815	279	0
 Hanral	2297	8818	279	0
@@ -69,7 +69,7 @@ Hanekutr	3390	7430	1	0
 Hansāl	3299	7494	666	0
 Handwāl	3440	7389	0	0
 Hangnār	3446	7398	0	0
-Hangnai	3446	7398	0	0
+Hangnai	3446	7398	0	0	Hangnār
 Hanauri	2995	7710	457	0
 Hansu Mājra	2994	7718	457	0
 Hanumānpura	2570	7570	353	0
@@ -80,7 +80,7 @@ Hanmāpur	1754	7885	129	0
 Hanumantha Nagar	1295	7756	43	0
 Hanumanamatti	1466	7556	92	0
 Hansiāwās	2883	7542	539	0
-Hanslāwās	2883	7542	539	0
+Hanslāwās	2883	7542	539	0	Hansiāwās
 Hansāsari	2820	7531	300	0
 Hansāsar	2818	7530	300	0
 Hanumānpura	2804	7538	300	0
@@ -112,7 +112,7 @@ Hansol	2309	7263	124	0
 Hanotia	2596	7451	446	0
 Hanmāpur	1626	7487	90	0
 Hanagodu	1224	7619	74	0
-Hannekodi	1280	7589	193	0
+Hannekodi	1280	7589	193	0	Honnekodi
 Hangod	1224	7619	74	0
 Hanumantugudam	1498	7822	232	0
 Hansdima	2352	8691	571	0
@@ -130,7 +130,7 @@ Hanzpur	3452	7421	0	0
 Hānthi Baihk	3473	7439	0	0
 Hanwāli Baihk	3470	7440	0	0
 Handel	3147	7732	278	0
-Banwāla Hanwanta	3037	7406	3	0
+Banwāla Hanwanta	3037	7406	3	0	Dorāha
 Hanumāngarh	3030	7424	3	0
 Hāndon	3072	7712	534	0
 Handon	3072	7711	587	0
@@ -151,10 +151,10 @@ Hanotia	2333	7883	352	0
 Hanotiya	2514	7610	371	0
 Hanotiya	2272	7849	590	0
 Hāndiyāpathār	2183	7882	337	0
-Hanumāngarh	2511	7686	506	0
+Hanumāngarh	2511	7686	506	0	Chandāliya
 Hanotiya	2457	7604	371	0
 Hāns	3076	7556	674	0
-Hānsūwāla	2999	7781	596	0
+Hānsūwāla	2999	7781	596	0	Bahbalpur
 Hanwantia	2620	7481	446	0
 Hāngō	3342	7633	547	0
 Hansdher	2980	7615	367	0
@@ -398,7 +398,7 @@ Hānsāwās Kalān	2847	7595	781	0
 Hanumānganj	2421	8245	631	0
 Hansiā	2557	8249	32	0
 Hanūmānganj	2557	8248	32	0
-Hanīf	2554	8243	32	0
+Hanīf	2554	8243	32	0	Inglish Chak
 Chak Hanūmān	2551	8233	607	0
 Hanaura	2664	8079	312	0
 Hanumān	2638	8094	312	0
@@ -407,7 +407,7 @@ Hānsāwās	2839	7661	519	0
 Hanuān Dīh	2572	8281	32	0
 Hanūmāntar	2557	8298	32	0
 Hansnagar	2857	7695	763	0
-Hansāpur	2921	7809	700	0
+Hansāpur	2921	7809	700	0	Parsāpur
 Hania Purwa	2756	8105	507	0
 Hanwān	2768	8116	507	0
 Pura Hanumant Singh	2748	8154	294	0
@@ -477,7 +477,7 @@ Hanzur	3392	7473	76	0
 Hansuādol	2747	8213	280	0
 Hans Dīh	2742	8213	280	0
 Purwa Hanumant	2710	8206	542	0
-Handia	2548	8136	651	0
+Handia	2548	8136	651	0	Nizāmpur
 Hanumanta Bhāri	2723	8212	542	0
 Pura Hanumān Singh	2723	8219	542	0
 Purwa Hanumān Singh	2714	8218	542	0
@@ -692,7 +692,7 @@ Pura Hanuman Singh	2616	8140	681	0
 Pura Hanumān	2622	8147	681	0
 Pura Hanūmān	2613	8143	681	0
 Hanu Misr Purwa	2610	8144	681	0
-Khānja-hānpur	2610	8146	681	0
+Khānja-hānpur	2610	8146	681	0	Meku Purwa
 Hansaur	2694	8161	30	0
 Pura Hanumān	2628	8156	662	0
 Hanwantgarh	2629	8156	662	0
@@ -1010,7 +1010,7 @@ Hantāna Khānqah	3314	7425	504	0
 Hanuman Ambalam	1085	7595	150	0
 Hanwantpur	2651	7909	290	0
 Handiganur	1597	7445	77	0
-Hanur	1597	7445	77	0
+Hanur	1597	7445	77	0	Handiganur
 Hangirge	1583	7444	77	0
 Hansulia	2651	7939	715	0
 Hanumantpur	2666	7938	715	0
@@ -1208,7 +1208,7 @@ Haniātoli	2437	8626	452	0
 Hanthādih	2421	8626	452	0
 Hanadih	2028	8459	548	0
 Hanumanta	2031	8467	548	0
-Hankosa	2633	8728	667	0
+Hankosa	2633	8728	667	0	Shāhbāzpur
 Hango	3183	7854	83	0
 Hanwada	1681	7792	317	0
 Hansi	2774	7915	616	0

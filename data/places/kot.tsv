@@ -1,6 +1,6 @@
 Kota	2518	7584	371	1001694
-Kotah City	2518	7584	371	1001694
-Kotah	2518	7584	371	1001694
+Kotah City	2518	7584	371	1001694	Kota
+Kotah	2518	7584	371	1001694	Kota
 Māler Kotla	3053	7588	775	135424
 Kot Kapūra	3058	7483	730	91979
 Kottagūdem	1755	8062	60	79819
@@ -8,7 +8,7 @@ Kottayam	959	7652	271	55374
 Kotharia	2223	7082	174	53794
 Kotputli	2770	7620	121	49202
 Kottangara	892	7665	549	44402
-Kottamkara	892	7665	549	44402
+Kottamkara	892	7665	549	44402	Kottangara
 Kōttakkal	1100	7601	150	44382
 Kottuvalli	1011	7625	176	42922
 Kotamangalam	1006	7663	176	38837
@@ -20,20 +20,20 @@ Kottaikādu	1226	7998	247	28172
 Kotdwāra	2975	7852	612	27009
 Kottur	1054	7698	156	26627
 Kottūru	1482	7622	366	26289
-Kothur	1482	7622	366	26289
-Suket-Kotah	2465	7604	371	22319
+Kothur	1482	7622	366	26289	Kottūru
+Suket-Kotah	2465	7604	371	22319	Suket
 Kottappally	1161	7566	262	21169
 Kotivakkam	1297	8026	247	20217
 Kōttayam	1183	7555	266	19176
-Kotayem	1183	7555	266	19176
+Kotayem	1183	7555	266	19176	Kōttayam
 Kothakota	1638	7794	146	19042
-Kothkoota	1638	7794	146	19042
+Kothkoota	1638	7794	146	19042	Kothakota
 Kotā	2230	8202	291	18405
 Kothanallur	828	7731	453	17662
 Kōtekāra	1279	7487	55	16505
 Kotapārh	1914	8233	349	16326
-Kotapād	1914	8233	349	16326
-Kotpad	1914	8233	349	16326
+Kotapād	1914	8233	349	16326	Kotapārh
+Kotpad	1914	8233	349	16326	Kotapārh
 Kottaiyūr	1011	7880	454	14766
 Kota	2445	8313	103	14632
 Rajopatti urf Kota Bazar	2658	8551	582	14631
@@ -41,23 +41,23 @@ Kottavalasa	1789	8319	179	14321
 Kotwa	2503	8132	516	13916
 Tilang Pur Kotla	2865	7703	771	13614
 Kot Īsa Khān	3095	7514	499	12800
-Kot-Ise-Khan	3095	7514	499	12800
+Kot-Ise-Khan	3095	7514	499	12800	Kot Īsa Khān
 Kottapeta	1731	7849	62	12740
-Kothapet	1731	7849	62	12740
+Kothapet	1731	7849	62	12740	Kottapeta
 Kottāram	812	7752	453	11055
 Kothri Kalān	2307	7683	675	10526
-Kothri	2307	7683	675	10526
+Kothri	2307	7683	675	10526	Kothri Kalān
 Kotūr	1715	7829	62	10519
 Kōteshwar	1359	7470	257	10229
 Kottapalli	1850	7909	579	9899
 Kothi	2475	8078	324	8793
 Kotra	2581	7931	741	8534
 Kottaikavundanpatti	1172	7807	51	7891
-Kottagoundampatty	1172	7807	51	7891
+Kottagoundampatty	1172	7807	51	7891	Kottaikavundanpatti
 Kotār	2470	8098	324	7520
 Kot Fatah	3011	7509	563	7412
-Kot Fateh	3011	7509	563	7412
-Kot Fatta	3011	7509	563	7412
+Kot Fateh	3011	7509	563	7412	Kot Fatah
+Kot Fatta	3011	7509	563	7412	Kot Fatah
 Kotla Mahigiran	2854	7728	419	7376
 Kotba	2244	8374	398	6805
 Kottapuram	1068	7619	241	6727
@@ -69,55 +69,55 @@ Kothāpet	1935	7948	162	4266
 Kotkhai	3112	7754	479	1253
 Kot Garewāl	3115	7584	369	1045
 kotta palem	1586	8016	220	500
-Chānju Kothi	3273	7628	362	0
-Sastham Kottai	904	7663	549	0
+Chānju Kothi	3273	7628	362	0	Suāla
+Sastham Kottai	904	7663	549	0	Sāsthānkotta
 Rausar Kothi	2782	7992	470	0
-Ni-ya-ko-tsu	3401	7891	2	0
+Ni-ya-ko-tsu	3401	7891	2	0	Nyagzu
 Nār Kot	3326	7470	666	0
-Kotta Moka	1524	7706	44	0
+Kotta Moka	1524	7706	44	0	Moka
 Malī Kot	3342	7473	666	0
-Kotapilli	815	7760	191	0
-Kotnur	3087	7830	89	0
+Kotapilli	815	7760	191	0	Kūttapuli
+Kotnur	3087	7830	89	0	Kutnaur
 Kuchai Kot	2656	8433	703	0
 Kotwa	2653	8486	396	0
 Kotul	1944	7397	152	0
-Kotu	1944	7397	152	0
+Kotu	1944	7397	152	0	Kotul
 Kottūru	1878	8388	472	0
 Kottūr	1862	8037	288	0
-Kottūru	1862	8037	288	0
+Kottūru	1862	8037	288	0	Kottūr
 Kottūr	1061	7956	267	0
 Kottūr	923	7805	208	0
 Kottuchcheri	1096	7982	455	0
 Kottatti	1247	7687	94	0
 Kottarāvupeta	1838	8415	472	0
 Kottara	891	7674	549	0
-Kottar	891	7674	549	0
+Kottar	891	7674	549	0	Kottara
 Kottappatti	1198	7867	110	0
 Kottapeta	1672	8190	304	0
 Kottapeta	1411	7895	195	0
 Kottapatam	1545	8017	200	0
-Kottapatnam	1545	8017	200	0
+Kottapatnam	1545	8017	200	0	Kottapatam
 Kottapatam	1412	8012	45	0
-Kottapatnam	1412	8012	45	0
+Kottapatnam	1412	8012	45	0	Kottapatam
 Kottapalle	1437	7836	229	0
 Kottapālem	1589	8080	220	0
 Kottāmpatti	1022	7838	274	0
-Kottampatty	1022	7838	274	0
+Kottampatty	1022	7838	274	0	Kottāmpatti
 Kothamangalam	1149	7713	211	0
 Kottalgi	1694	7531	90	0
 Kottakota	1775	8270	227	0
 Kottakota	1366	7826	195	0
 Kottaippattanam	998	7920	198	0
-Kotapatam	998	7920	198	0
-Kottapattinam	998	7920	198	0
-Kottaipatnam	998	7920	198	0
+Kotapatam	998	7920	198	0	Kottaippattanam
+Kottapattinam	998	7920	198	0	Kottaippattanam
+Kottaipatnam	998	7920	198	0	Kottaippattanam
 Kottagudi	1008	7726	194	0
 Kottagūdem	1807	8046	226	0
 Kotta Agrahāram	1833	8412	472	0
 Kot Sirthara	2624	7769	478	0
-Kot Sartharā	2624	7769	478	0
+Kot Sartharā	2624	7769	478	0	Kot Sirthara
 Kotri Kalān	2357	7692	16	0
-Kotri	2357	7692	16	0
+Kotri	2357	7692	16	0	Kotri Kalān
 Kotri	2669	7085	217	0
 Kotrī	2585	7621	313	0
 Kotri	2569	7506	309	0
@@ -125,18 +125,18 @@ Kotri	2540	7490	309	0
 Kotri	2417	7598	333	0
 Kotra Pitha	2196	7120	216	0
 Kottapalle	1791	8290	227	0
-Kotrapalle	1791	8290	227	0
+Kotrapalle	1791	8290	227	0	Kottapalle
 Kotra Nes	2071	7087	136	0
 Kotra	2602	7421	446	0
 Kotra Dīpsingh	2544	7630	371	0
-Kotrā	2544	7630	371	0
+Kotrā	2544	7630	371	0	Kotra Dīpsingh
 Kotra	2437	7318	22	0
 Kotra	2274	7906	337	0
 Kotra	2187	8331	439	0
 Kotra	2173	7584	329	0
 Kotkasim	2803	7672	482	0
 Kotmi Kalān	2281	8209	757	0
-Kotmi	2281	8209	757	0
+Kotmi	2281	8209	757	0	Kotmi Kalān
 Kotmi	2203	8235	696	0
 Kotli Surat Malii	3194	7509	487	0
 Kotli Maurān	3004	7529	709	0
@@ -145,9 +145,9 @@ Kotla	3121	7655	735	0
 Kotipalle	1670	8203	304	0
 Kothulna	2142	7904	141	0
 Kothili	2698	8269	154	0
-Kothila	2698	8269	154	0
+Kothila	2698	8269	154	0	Kothili
 Kothian	2587	7477	309	0
-Kothiyān	2587	7477	309	0
+Kothiyān	2587	7477	309	0	Kothian
 Kothia	2585	8561	138	0
 Kothia	2463	7748	336	0
 Kothi	3232	7719	680	0
@@ -161,20 +161,20 @@ Kothār	2498	7315	273	0
 Kothar	2092	8652	734	0
 Kothar	2017	7312	233	0
 Kothamba	2302	7352	142	0
-Kothala	1936	7655	153	0
+Kothala	1936	7655	153	0	Kolha
 Kothāla Buzurg	1945	7612	53	0
-Kothal	1945	7612	53	0
+Kothal	1945	7612	53	0	Kothāla Buzurg
 Kotha Gurū	3044	7509	563	0
 Koth	2263	7230	124	0
 Kotgīr	1857	7782	75	0
 Kotgarh	3131	7748	479	0
 Kotgarh	2221	8553	287	0
-Kotgod	2221	8553	287	0
+Kotgod	2221	8553	287	0	Kotgarh
 Kotgal	2055	8057	135	0
 Kot Fatuhi	3128	7597	296	0
 Koteshvar	2368	6853	108	0
-Koterki	1690	7729	72	0
-Kotaraki	1690	7729	72	0
+Koterki	1690	7729	72	0	Gājarakot
+Kotaraki	1690	7729	72	0	Gājarakot
 Kotepalli	1738	7774	210	0
 Kot Dharmūn	2989	7537	709	0
 Kotda Sāngāni	2204	7087	174	0
@@ -185,15 +185,15 @@ Kot Bāīnka	3336	7452	504	0
 Kotauratla	1757	8269	227	0
 Kotatattu	1352	7471	257	0
 Kotsamlai	2100	8396	308	0
-Kotasamalāi	2100	8396	308	0
+Kotasamalāi	2100	8396	308	0	Kotsamlai
 Kotarlia	2188	8346	439	0
 Kotanandūru	1748	8249	269	0
 Kotulpur	2301	8759	571	0
 Kotālbāri	2492	8778	461	0
 Kotakunda	1676	7764	283	0
-Kothkonda	1676	7764	283	0
+Kothkonda	1676	7764	283	0	Kotakunda
 Kotagad	1984	8373	387	0
-Kotagarh	1984	8373	387	0
+Kotagarh	1984	8373	387	0	Kotagad
 Kotadi	2305	6918	108	0
 Kotada	2438	7191	134	0
 Kotada	2363	7711	16	0
@@ -208,28 +208,28 @@ Kot	2796	7723	754	0
 Kot	2543	7370	273	0
 Kot	2025	8253	594	0
 Kotkhāwda	2665	7609	121	0
-Kotattupuzha	891	7705	549	0
+Kotattupuzha	891	7705	549	0	Kolattupuzha
 Khot Khurd	2937	7617	339	0
 Khot Kalān	2939	7617	339	0
 Khot	2938	7617	339	0
 Kharāi Kotbār	2197	8751	559	0
-Kotasan Road Junction	2341	7224	124	0
+Kotasan Road Junction	2341	7224	124	0	Katosan Road
 Jhamar Kotra	2448	7386	22	0
-Jāhiar Kotra	2448	7386	22	0
-Kote	1458	7505	346	0
+Jāhiar Kotra	2448	7386	22	0	Jhamar Kotra
+Kote	1458	7505	346	0	Jade
 Iiiūru Kottapeta	1528	7826	232	0
-Iliūru Kottapeta	1528	7826	232	0
+Iliūru Kottapeta	1528	7826	232	0	Iiiūru Kottapeta
 Hire Kotankal	1596	7695	50	0
 Hāt Kot	3108	7696	628	0
 Dūgal Kota	2803	7648	482	0
-Gugal Kota	2803	7648	482	0
+Gugal Kota	2803	7648	482	0	Dūgal Kota
 Kotwāla	2726	6975	217	0
 Dakan Kotra	2449	7373	22	0
 Bagai Kothi	3275	7624	362	0
 Kotwād	2854	7486	539	0
-Bara Kotwad	2854	7486	539	0
+Bara Kotwad	2854	7486	539	0	Kotwād
 Kotrung	2268	8835	279	0
-Kotrang	2268	8835	279	0
+Kotrang	2268	8835	279	0	Kotrung
 Zeyādah Kot	2244	8833	4	0
 Kotra	2274	8857	450	0
 Kotha	3015	7395	374	0
@@ -243,7 +243,7 @@ Kotla	3275	7475	581	0
 Khot	3321	7413	504	0
 Kāki na Kot	3324	7421	504	0
 Kotari	3324	7425	504	0
-Kotehri	3324	7425	504	0
+Kotehri	3324	7425	504	0	Kotari
 Balele ka Kot	3321	7431	504	0
 Kot	3318	7430	504	0
 Phera na Kot	3317	7439	504	0
@@ -257,39 +257,39 @@ Kotli Gujrān	3291	7480	581	0
 Netra Kothe	3276	7479	581	0
 Kotla	3074	7604	674	0
 Kotla Pathāne da	3250	7478	581	0
-Kotla Pathānān	3250	7478	581	0
+Kotla Pathānān	3250	7478	581	0	Kotla Pathāne da
 Kotli	3250	7480	581	0
 Kānna de Kothe	3251	7483	581	0
-Kothe Kānna	3251	7483	581	0
+Kothe Kānna	3251	7483	581	0	Kānna de Kothe
 Kotli	3251	7490	720	0
-Kotli Takāliyān	3251	7490	720	0
+Kotli Takāliyān	3251	7490	720	0	Kotli
 Kothe Bamnal	3254	7487	581	0
 Kotla	3252	7486	581	0
 Kothe Arnīa	3252	7483	581	0
 Kothe Sudāmān	3253	7475	581	0
 Kothe Megān	3254	7476	581	0
 Kōtlī Raīyān di	3255	7476	581	0
-Kotli Arayān	3255	7476	581	0
+Kotli Arayān	3255	7476	581	0	Kōtlī Raīyān di
 Mapphi di Kotli	3256	7477	581	0
-Kotli Mafi	3256	7477	581	0
+Kotli Mafi	3256	7477	581	0	Mapphi di Kotli
 Kothe Manhāsān	3256	7496	720	0
 Kajāīen de Kothe	3258	7490	581	0
 Kothe	3258	7491	581	0
 Sainien de Kothe	3258	7488	581	0
-Salmen de Kothe	3258	7488	581	0
+Salmen de Kothe	3258	7488	581	0	Sainien de Kothe
 Kotli Mien di	3258	7481	581	0
-Kotli Miyān	3258	7481	581	0
+Kotli Miyān	3258	7481	581	0	Kotli Mien di
 Shāhān ke Kothe	3257	7481	581	0
 Kothe	3260	7477	581	0
 Kothe	3259	7487	581	0
 Hoshiāru de Kothe	3262	7492	581	0
 Kotli Chārkān	3262	7483	581	0
 Mīān di Kotle	3263	7483	581	0
-Kotli Miyān Fatta	3263	7483	581	0
+Kotli Miyān Fatta	3263	7483	581	0	Mīān di Kotle
 Kotli Shādaula	3262	7476	581	0
 Kotli	3268	7495	720	0
 Kotra Kalyānpur	3044	7791	448	0
-Kotra Khlyānpur	3044	7791	448	0
+Kotra Khlyānpur	3044	7791	448	0	Kotra Kalyānpur
 Kotra	3044	7792	448	0
 Kotra	3043	7798	448	0
 Kotri Kanswāli	3040	7795	448	0
@@ -302,7 +302,7 @@ Kothi Ser	3122	7711	479	0
 Kothi	3117	7701	628	0
 Kotla	3120	7710	479	0
 Kothi	3116	7703	628	0
-Kothi Kunāl	3116	7703	628	0
+Kothi Kunāl	3116	7703	628	0	Kothi
 Kota	2996	7854	612	0
 Kotal	2991	7869	612	0
 Kotalmanda	2990	7867	612	0
@@ -322,9 +322,9 @@ Kottaguda	1765	7826	31	0
 Kottal	1769	7870	466	0
 Kottapeta	1782	7833	400	0
 Kotāla	1792	7823	400	0
-Jori Kotwāl	2671	7873	334	0
+Jori Kotwāl	2671	7873	334	0	Jaurikotwal
 Kotturpuram	1302	8025	204	0
-Kottur	1302	8025	204	0
+Kottur	1302	8025	204	0	Kotturpuram
 Kothawal Chavadi	1307	8020	204	0
 Kotda	2071	7086	673	0
 Kotekere	1361	7467	257	0
@@ -343,9 +343,9 @@ Kotha	2787	7925	117	0
 Anandpur Kota	2784	7940	117	0
 Nagla Kothi	2720	7935	464	0
 Koth	2707	7927	464	0
-Kothi	2707	7927	464	0
+Kothi	2707	7927	464	0	Koth
 Kothi Gulauthi	2773	7951	470	0
-Kothīwālābāg	2771	7965	470	0
+Kothīwālābāg	2771	7965	470	0	Kathīwālābāg
 Kotha Kurari	2767	7965	470	0
 Chhochhpur Kotri	2718	7984	686	0
 Nagla Kothi	2684	7925	290	0
@@ -355,7 +355,7 @@ Kothi	2648	7940	715	0
 Kothi	2647	7943	715	0
 Kothi Nināwali	2638	7931	741	0
 Kota Diwāra	2640	7935	741	0
-Kota Mustaqil	2638	7935	741	0
+Kota Mustaqil	2638	7935	741	0	Murlīpur
 Kotra	2541	7937	614	0
 Kotra	2686	7953	715	0
 Purwa Khote	2675	7959	715	0
@@ -716,7 +716,7 @@ Kotla Shamspur	3082	7625	674	0
 Kotha Tānda	1969	7649	153	0
 Bara Kot	3034	7604	564	0
 Chhata Kot	3036	7605	564	0
-Kot Kallar	3036	7605	564	0
+Kot Kallar	3036	7605	564	0	Chhata Kot
 Kotwāli	3037	7616	564	0
 Kotli	3044	7617	564	0
 Kotli	3013	7614	564	0
@@ -733,7 +733,7 @@ Kotla	3090	7634	735	0
 Kotla Jattān	3049	7645	648	0
 Kotka	2771	7727	114	0
 Kotla Nasru	3015	7625	564	0
-Kotla	3095	7655	735	0
+Kotla	3095	7655	735	0	Tapriān
 Kotla Adhrera	3085	7658	735	0
 Kotla Garu	3030	7655	564	0
 Kotla Har	3032	7656	564	0
@@ -743,7 +743,7 @@ Kotban	2784	7741	177	0
 Kotla ka Bās	2767	7706	114	0
 Kotailiya	2791	7765	177	0
 Kota	2754	7764	177	0
-Patti Khot	2981	7637	638	0
+Patti Khot	2981	7637	638	0	Gadli
 Kotra	2964	7648	638	0
 Kotla	2839	7781	637	0
 Kothi ka Nagla	2826	7787	637	0
@@ -981,7 +981,7 @@ Nagla Kotara	2694	7875	403	0
 Kot	2692	7859	546	0
 Kotgaon	2265	7796	590	0
 Kotha	2262	7797	590	0
-Kote	2552	8346	26	0
+Kote	2552	8346	26	0	Mānikpur
 Kotiya	2537	8345	724	0
 Kothli	2064	7626	49	0
 Koti	2060	7648	49	0
@@ -1002,7 +1002,7 @@ Kotmi	2240	7790	590	0
 Kotkhera	2208	7787	462	0
 Kotmi	2222	7794	462	0
 Kot	2555	7859	433	0
-Kotwa	2588	8354	586	0
+Kotwa	2588	8354	586	0	Paniāra
 Kothoda	2072	7773	133	0
 Kotia	2542	8354	26	0
 Kotha	2151	7709	133	0
@@ -1031,12 +1031,12 @@ Kotām	2410	8371	743	0
 Kotgaon	2053	7949	111	0
 Kotalpār	2075	7954	404	0
 Kothurla Makta	2062	7988	111	0
-Kotha	2044	7905	111	0
+Kotha	2044	7905	111	0	Chak Kawadāpur
 Kotbāla	2037	7908	111	0
 Kotha	2002	7929	111	0
 Kotha	2026	7981	111	0
 Kotgal	2018	7996	135	0
-Kota	2009	7981	111	0
+Kota	2009	7981	111	0	Pīranji
 Kothāla	1899	7656	153	0
 Kotekallu	1611	7669	50	0
 Kotgiālwādi	1808	7726	170	0
@@ -1235,7 +1235,7 @@ Chota Kot	2685	8148	30	0
 Kotgaon	2110	7950	141	0
 Kot	2909	7834	575	0
 Kot	2914	7837	575	0
-Jafarpur Kot	2914	7837	575	0
+Jafarpur Kot	2914	7837	575	0	Kot
 Kot	2922	7842	575	0
 Kothi	2673	8132	30	0
 Ban Kot	2658	8146	30	0
@@ -2082,7 +2082,7 @@ Nawa Kot	2608	8155	681	0
 Rāmnagar Kot	2604	8153	681	0
 Kot Lāl Basant Singh	2611	8159	718	0
 Kot	2604	8170	718	0
-Kotila	2607	8171	718	0
+Kotila	2607	8171	718	0	Singhar
 Kotha	2605	8174	718	0
 Kotwa Shukulpur	2600	8173	718	0
 Kotragondi	1844	8281	205	0
@@ -2108,11 +2108,11 @@ Kottavalasa	1818	8293	268	0
 Kottimangalam	1261	8008	247	0
 Kottamedu	1272	8011	247	0
 Kottapalle	1696	8104	24	0
-Kothuia	1698	8107	24	0
+Kothuia	1698	8107	24	0	Gokavaram
 Kottūru	1683	8106	24	0
 Kotta Gandigūdem	1693	8114	24	0
 Kotta Mudicherla	1694	8110	24	0
-Kottagūdem	1680	8121	24	0
+Kottagūdem	1680	8121	24	0	Sītampeta
 Kottūru	1681	8103	24	0
 Kottūru	1799	8211	268	0
 Kottavīdi	1786	8219	268	0
@@ -2458,7 +2458,7 @@ Kottavalasa	1803	8332	179	0
 Kotārubilli Agrahāram	1814	8331	179	0
 Kottapeta	1824	8343	179	0
 Kotomsar	1889	8192	600	0
-Kottagūda	1837	8182	109	0
+Kottagūda	1837	8182	109	0	Nuāguda
 Kotārjala	1898	8351	199	0
 Kottūrgūda	1821	8192	109	0
 Kottapalle	1818	8198	109	0
@@ -3232,7 +3232,7 @@ Kottapeta	1516	7828	232	0
 Kottapalle	1514	7832	232	0
 Kotālapalle	1500	7851	229	0
 Kottapeta	1476	7852	229	0
-Kottalā	1475	7855	229	0
+Kottalā	1475	7855	229	0	Togatapalle
 Kottāla	1492	7859	229	0
 Kottapeta	1489	7866	229	0
 Kottūr	1537	7862	232	0
@@ -3772,7 +3772,7 @@ Kottūru	1337	7976	45	0
 Kothasivagiri	1334	7976	45	0
 Kottamārikuppam	1345	7998	228	0
 Kotli Arāiān	3249	7475	581	0
-Kotli Arayān	3249	7475	581	0
+Kotli Arayān	3249	7475	581	0	Kotli Arāiān
 Kottantavādi	1233	7921	197	0
 Kottakolani	1231	7924	197	0
 Kottā	1226	7923	197	0
@@ -4187,7 +4187,7 @@ Kottayūr	1069	7792	445	0
 Kottappatti	1067	7785	445	0
 Kottanūr	1160	7910	178	0
 Kottanūr	1153	7918	178	0
-Kottappattu	1153	7918	178	0
+Kottappattu	1153	7918	178	0	Kottanūr
 Kottaiyūr	1166	7916	390	0
 Kottattuppatti	1054	7779	187	0
 Kottāram	1140	7918	178	0

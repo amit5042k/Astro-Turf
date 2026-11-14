@@ -1,20 +1,20 @@
 Ghātāl	2266	8773	677	54658
 Ghātsīla	2259	8648	584	40624
 Ghātampur	2615	8017	469	40435
-Lalgola Ghat	2442	8825	471	28442
+Lalgola Ghat	2442	8825	471	28442	Lālgola
 Ghātanji	2014	7831	67	21293
 Ghatkesar	1745	7868	311	19763
-Kharupatia Ghat	2652	9215	747	18599
+Kharupatia Ghat	2652	9215	747	18599	Khārupatia
 Ghatal Mahaniawas	2822	7684	519	6005
 Sarka Ghāt	3170	7674	278	4715
 Terhī Ghāt	2732	8350	515	0
-Semaria Ghat	2542	8601	530	0
-Simaria Ghāt	2542	8601	530	0
+Semaria Ghat	2542	8601	530	0	Simaria
+Simaria Ghāt	2542	8601	530	0	Simaria
 Saikhoa Ghāt	2775	9560	460	0
 Mokameh Ghāt	2539	8595	604	0
 Mannar Ghat	1177	9272	105	0
 Katkāli Ghāt	2458	9230	624	0
-Kalkāli Ghāt	2458	9230	624	0
+Kalkāli Ghāt	2458	9230	624	0	Katkāli Ghāt
 Hatewa Ghāt	2728	8353	515	0
 Gatta	1970	8003	135	0
 Ghātwāri	2726	7602	121	0
@@ -25,7 +25,7 @@ Ghātoli	2431	7653	333	0
 Ghatol	2376	7441	166	0
 Ghātnāndra	2045	7542	113	0
 Ghātkuri	2230	8539	287	0
-Ghatkori	2230	8539	287	0
+Ghatkori	2230	8539	287	0	Ghātkuri
 Ghātkopar	1908	7290	207	0
 Ghātkar	1605	7407	57	0
 Ghātīgaon	2605	7794	484	0
@@ -33,13 +33,13 @@ Ghātiāoli	2481	7468	417	0
 Ghātghar	1928	7370	52	0
 Ghātgarh	1955	7365	152	0
 Ghatgān	2140	8589	293	0
-Ghatgaon	2140	8589	293	0
+Ghatgaon	2140	8589	293	0	Ghatgān
 Ghatera	2383	7967	521	0
 Ghāt Borūl	1790	7708	170	0
 Ghāta Bilod	2267	7552	660	0
-Ghāt Bilod	2267	7552	660	0
+Ghāt Bilod	2267	7552	660	0	Ghāta Bilod
 Ghātbamuriya	2425	7795	410	0
-Ghāt Bamori	2425	7795	410	0
+Ghāt Bamori	2425	7795	410	0	Ghātbamuriya
 Ghataparti	1447	7677	255	0
 Ghatāng	2145	7744	133	0
 Ghatāi	2545	7739	436	0
@@ -47,7 +47,7 @@ Ghāta	2470	7327	22	0
 Ghāt	3026	7945	183	0
 Ghāt	2683	7684	447	0
 Ghari Ghāt	2701	8250	542	0
-Gatwala	2726	6975	217	0
+Gatwala	2726	6975	217	0	Kotwāla
 Gātu	3055	7756	534	0
 Gattimānikonda	1553	7818	232	0
 Gattasilli	2045	8181	652	0
@@ -57,15 +57,15 @@ Gathāman	2415	7239	134	0
 Gātegaon	1843	7640	158	0
 Dhamhara Ghāt	2561	8660	759	0
 Dāran Ghāti	3144	7775	479	0
-Chhitauni Ghāt	2712	8401	326	0
-Bolkhera Ghāt	2375	7572	314	0
+Chhitauni Ghāt	2712	8401	326	0	Chhitāuni
+Bolkhera Ghāt	2375	7572	314	0	Bolkhera
 Bhairaun Ghāt	2648	8032	469	0
-Ghātel	2836	7491	539	0
+Ghātel	2836	7491	539	0	Ghantel
 Ghatampur	2290	8816	279	0
 Ghāteswar	2211	8833	4	0
 Ghatihārāni	2203	8853	4	0
 Masta Gatti	3091	7443	566	0
-Gatti Basti Masta	3091	7443	566	0
+Gatti Basti Masta	3091	7443	566	0	Masta Gatti
 Dhār Gathun Bāuji	3358	7418	1	0
 Dhāra Gathun	3356	7418	1	0
 Ghāt Gopāl	3420	7458	301	0
@@ -89,7 +89,7 @@ Gāta	2647	7917	290	0
 Gāta	2551	7903	433	0
 Kalān Ghāt	2701	7102	217	0
 Ghātpipariya	2188	7852	462	0
-Ghat Piparia	2188	7852	462	0
+Ghat Piparia	2188	7852	462	0	Ghātpipariya
 Gatora	2207	8226	291	0
 Khejra Ghat	2372	7761	687	0
 Machi Ghat Mal	2208	7858	337	0
@@ -232,7 +232,7 @@ Ghāt Piparia	2303	7982	598	0
 Gatamidapalli	1682	7736	72	0
 Ghatiāri	2791	7900	117	0
 Ghatauri	2226	7910	337	0
-Ghātpipariya	2226	7910	337	0
+Ghātpipariya	2226	7910	337	0	Ghatauri
 Ghātpindrai	2298	7929	522	0
 Gathi Nandu	2738	7790	177	0
 Nagla Ghātampur	2747	7795	670	0
@@ -328,7 +328,7 @@ Dube Ghataliua	2444	8378	743	0
 Ghatahua Kalān	2443	8377	743	0
 Rāja Ghatahua	2443	8377	743	0
 Gatiarwātola	2438	8385	701	0
-Gatiarwa	2437	8386	701	0
+Gatiarwa	2437	8386	701	0	Gaurletwa
 Gātīyārwa	2423	8379	743	0
 Ghatera	2381	7812	215	0
 Ghatera	2353	7811	215	0
@@ -356,8 +356,8 @@ Ghātampur	2585	8202	718	0
 Ghātampur	2585	8201	718	0
 Ghātampur	2578	8218	32	0
 Sarāi Ghātam	2578	8221	32	0
-Ghātampur	2587	8245	32	0
-Ghātampur	2588	8245	32	0
+Ghātampur	2587	8245	32	0	Ūdpur
+Ghātampur	2588	8245	32	0	Ūdpur
 Gathāna	2590	8257	32	0
 Ghāt Piparia	2309	7926	522	0
 Ghatāri	2442	8007	532	0
@@ -455,7 +455,7 @@ Ghatar Maha	2703	8299	647	0
 Durjanpur Ghāt	2691	8205	542	0
 Ghatha Purwa	2690	8205	542	0
 Ghātampur	2675	8207	629	0
-Ghat Chaukharia	2685	8208	542	0
+Ghat Chaukharia	2685	8208	542	0	Kutia
 Jānki Ghāt	2661	8204	629	0
 Ghatampur	2658	8225	629	0
 Ghātampur	2639	8221	597	0
@@ -490,7 +490,7 @@ Purwa Angra Ghāt	2618	8288	553	0
 Ghātampur	2615	8281	498	0
 Mahua Ghāt	2723	8318	292	0
 Nawābi Ghāt	2724	8344	515	0
-Bishunpur Ghāt	2710	8369	515	0
+Bishunpur Ghāt	2710	8369	515	0	Madra
 Ghatarma	2675	8301	647	0
 Gathuākhor	2669	8318	325	0
 Gāi Ghāt	2645	8308	647	0
@@ -498,7 +498,7 @@ Purwa Gathi	2637	8310	553	0
 Purwa Gatu	2632	8313	498	0
 Purwa Gati	2630	8319	498	0
 Purwa Gati	2631	8320	498	0
-Ghātampur	2555	8174	607	0
+Ghātampur	2555	8174	607	0	Mādhopur Chāndhan
 Singraur Ghāt	2559	8164	607	0
 Gahra Ghāt	2636	8353	325	0
 Gaun Ghāt	2624	8364	535	0
@@ -661,7 +661,7 @@ Harera Ghāt	2767	8142	294	0
 Rām Ghāt	2745	8139	294	0
 Ghatti	2613	8146	681	0
 Ghātampur	2613	8148	681	0
-Ghātampur	2638	8163	662	0
+Ghātampur	2638	8163	662	0	Bhawanshāhpur
 Gatterigūda	1830	8296	268	0
 Gattana	1818	8284	268	0
 Gattugūdem	1775	8092	46	0
@@ -742,7 +742,7 @@ Ghat Behti	2815	7927	117	0
 Ghātampur	2804	7937	117	0
 Chīka Ghāt	2893	7973	641	0
 Barwa Ghāt	2615	8477	540	0
-Ghatgāon	2874	7960	342	0
+Ghatgāon	2874	7960	342	0	Mūsāpur
 Tehra Ghāt	2888	7993	641	0
 Khām Ghāt	2835	7988	683	0
 Ghatmapur	2495	8405	409	0

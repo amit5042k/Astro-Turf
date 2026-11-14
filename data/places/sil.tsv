@@ -1,18 +1,18 @@
 Siliguri	2671	8843	573	515574
-Silguri	2671	8843	573	515574
-Siligun	2671	8843	573	515574
+Silguri	2671	8843	573	515574	Siliguri
+Siligun	2671	8843	573	515574	Siliguri
 Silchar	2483	9280	378	178865
 Shillong	2557	9188	340	143229
 Silvassa	2027	7300	233	98265
 Sillod	2030	7565	113	58230
 Silao	2508	8543	514	25674
 Silapathar	2759	9472	299	25662
-Silapather	2759	9472	299	25662
+Silapather	2759	9472	299	25662	Silapathar
 Silvāni	2330	7844	338	18623
 Sīlappādi	1039	7801	187	17824
 Siltara	2138	8166	310	10721
 Silewāra	2129	7912	141	7290
-Sillewada	2129	7912	141	7290
+Sillewada	2129	7912	141	7290	Silewāra
 Silaimān	987	7819	274	6436
 Silchar Part-X	2482	9281	378	6313
 Upper Sileru Project Site Camp	1806	8203	268	4632
@@ -30,10 +30,10 @@ Silkuri	2473	9279	378	0
 Siljora	2190	8538	293	0
 Silidao	1545	7386	188	0
 Siliāri	2143	8173	310	0
-Silyari	2143	8173	310	0
+Silyari	2143	8173	310	0	Siliāri
 Sili	2030	7304	233	0
 Silheti	2178	8113	537	0
-Silhati	2178	8113	537	0
+Silhati	2178	8113	537	0	Silheti
 Silghāt	2660	9293	656	0
 Sileru	1805	8203	268	0
 Silegaon	1987	7500	113	0
@@ -46,18 +46,18 @@ Silapi	3349	7684	8	0
 Silanwād	2735	7426	430	0
 Silāna	2894	7685	485	0
 Silākāng	3089	7988	183	0
-Silakank	3089	7988	183	0
+Silakank	3089	7988	183	0	Silākāng
 Sila	3309	7481	666	0
 Shil	2119	7005	185	0
-Silpur	2257	8832	354	0
+Silpur	2257	8832	354	0	Sibpur
 Shilona	1975	7761	67	0
-Shilena	1975	7761	67	0
+Shilena	1975	7761	67	0	Shilona
 Shila	3343	7690	8	0
 Sīlāsan	2486	7223	343	0
 Shilthar	3432	7421	0	0
 Shilwat	3420	7466	120	0
 Sīla nā Jabbai	3320	7411	504	0
-Sila na Jabbar	3320	7411	504	0
+Sila na Jabbar	3320	7411	504	0	Sīla nā Jabbai
 Shilkacha	3458	7612	8	0
 Silikche	3458	7613	8	0
 Silmp	3462	7631	8	0
@@ -84,12 +84,12 @@ Silpāni Kalān	3007	7676	501	0
 Sīlgaon	2407	7823	352	0
 Sīlārpur	2406	7824	352	0
 Silodha	2401	7837	352	0
-Siladha	2401	7837	352	0
+Siladha	2401	7837	352	0	Silodha
 Silāwan	2458	7862	384	0
 Silāpari	2414	7890	352	0
 Silwant	2723	7929	464	0
 Silaua	2632	7916	741	0
-Silaua Buzurg	2632	7916	741	0
+Silaua Buzurg	2632	7916	741	0	Silaua
 Silaua	2640	7934	741	0
 Shilbāji	2648	8999	713	0
 Shilghāgri	2640	8993	713	0
@@ -98,7 +98,7 @@ Silkhoh	2815	7696	544	0
 Silguntahalli	1362	7778	438	0
 Shil	1881	7337	17	0
 Silāri Khurd	2311	7839	338	0
-Silāri	2311	7839	338	0
+Silāri	2311	7839	338	0	Silāri Khurd
 Silkhera	2380	7720	16	0
 Seelampur	2867	7727	693	0
 Silobari	2600	9114	636	0
@@ -282,7 +282,7 @@ Silāri	2576	7903	433	0
 Sīla	2559	7925	433	0
 Khera Silājīt	2581	7961	645	0
 Silgāpur	1673	7936	101	0
-Silraha	2573	8102	728	0
+Silraha	2573	8102	728	0	Shāhjahānpur
 Silmi Gadhwa	2572	8104	728	0
 Silāpri	2437	7942	521	0
 Silphorkhera	2270	7699	322	0
@@ -384,7 +384,7 @@ Silauli	2763	8106	507	0
 Meondi Silhwa	2750	8118	507	0
 Silhwa	2751	8118	507	0
 Sīla Rām	2761	8153	294	0
-Silhatā	2585	8375	536	0
+Silhatā	2585	8375	536	0	Jabbalpur
 Silauli	2679	8108	714	0
 Silli	2112	7966	404	0
 Silegaon	2144	7984	404	0
@@ -399,7 +399,7 @@ Silu ki Mandaiyān	2918	7892	641	0
 Purwa Sildi Misr	2724	8168	294	0
 Silhri	2720	8172	542	0
 Silponīa	2709	8171	542	0
-Silehta	2851	7867	646	0
+Silehta	2851	7867	646	0	Aurangpur
 Silhaur	2670	8154	30	0
 Silāh Jot	2695	8182	542	0
 Silhari	2810	7869	117	0
@@ -408,7 +408,7 @@ Silauta	2532	8127	643	0
 Siloli	2992	7905	612	0
 Sīla Talla	2989	7906	612	0
 Sīla Malla	2988	7907	612	0
-Silli Malli	2980	7911	612	0
+Silli Malli	2980	7911	612	0	Jamariya
 Silli Talli	2980	7910	612	0
 Silwatia	2704	8262	154	0
 Pura Silwant	2687	8215	542	0
@@ -527,7 +527,7 @@ Shil	3094	7762	479	0
 Silaura	3087	7783	448	0
 Silauthi	2808	7737	754	0
 Shilling	3160	7845	83	0
-Shilling Khas	3160	7845	83	0
+Shilling Khas	3160	7845	83	0	Shilling
 Sīlāwati	2312	7602	322	0
 Sīlākheri	2309	7606	322	0
 Siliāri	2166	8300	635	0

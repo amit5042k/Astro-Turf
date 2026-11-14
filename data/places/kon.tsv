@@ -1,26 +1,26 @@
 Konnagar	2271	8834	279	76082
 Konch	2599	7915	741	52773
 Kondapalle	1662	8054	104	38714
-Kondapalli	1662	8054	104	38714
+Kondapalli	1662	8054	104	38714	Kondapalle
 Kondli	2861	7733	794	38207
 Kondagaon	1959	8166	659	30921
-Kondegaon	1959	8166	659	30921
+Kondegaon	1959	8166	659	30921	Kondagaon
 Kondotty	1114	7597	150	28794
-Kondotti	1114	7597	150	28794
+Kondotti	1114	7597	150	28794	Kondotty
 Khoni	1932	7306	246	26016
 Kondasamudram	1295	7888	189	21335
 Kondalampatti	1163	7812	51	20318
-Singaraya Konda Pagoda	1523	8003	200	19400
+Singaraya Konda Pagoda	1523	8003	200	19400	Singarāyakonda
 Konnūr	1620	7475	77	19386
 Khongapani	2319	8216	513	17400
 Konārka	1989	8610	603	16834
-Konārak	1989	8610	603	16834
-Konark	1989	8610	603	16834
+Konārak	1989	8610	603	16834	Konārka
+Konark	1989	8610	603	16834	Konārka
 Kondalwādi	1881	7777	140	14770
 Kondūr	1175	7970	178	12506
 Konaje	1280	7551	55	11368
 Kondhi	2001	7929	111	10497
-Kondumal	2001	7929	111	10497
+Kondumal	2001	7929	111	10497	Kondhi
 Kondichettippatti	1120	7816	231	10300
 Khonsa	2702	9557	397	10187
 Kondamallapally	1672	7900	101	9683
@@ -30,13 +30,13 @@ Konrā	2431	8542	764	8258
 Koni	2212	8213	291	7065
 Konta	1780	8139	46	7038
 Kondamanāyakkanpatti	1171	7818	51	6892
-Kondappanaickenpatti	1171	7818	51	6892
+Kondappanaickenpatti	1171	7818	51	6892	Kondamanāyakkanpatti
 Khonmoh	3406	7495	611	2664
-Konzhar	2414	9305	697	0
-Purāna Khondār	2515	8198	607	0
+Konzhar	2414	9305	697	0	Senvon
+Purāna Khondār	2515	8198	607	0	Purāna Kohdār
 Niāla Kondapalle	1710	8005	46	0
-Niāla Kondapalli	1710	8005	46	0
-Naya Khondār	2514	8199	607	0
+Niāla Kondapalli	1710	8005	46	0	Niāla Kondapalle
+Naya Khondār	2514	8199	607	0	Naya Kohdār
 Kondakal	1746	7820	62	0
 Konvāli	1630	7397	57	0
 Kont	1686	7345	234	0
@@ -54,7 +54,7 @@ Koni	923	7685	224	0
 Kongtal	2397	9282	19	0
 Kongnolli	1654	7433	90	0
 Kongan	2675	9483	149	0
-Kongnyu	2675	9483	149	0
+Kongnyu	2675	9483	149	0	Kongan
 Kōngād	1085	7652	263	0
 Konen Agrahār	1296	7766	43	0
 Kondya	1658	7357	234	0
@@ -70,7 +70,7 @@ Kondāpuram	1478	7819	229	0
 Kondapur	1768	7968	762	0
 Kondālseri	880	7666	549	0
 Kondakomarla	1407	7796	444	0
-Kondakumerla	1407	7796	444	0
+Kondakumerla	1407	7796	444	0	Kondakomarla
 Kondagunta	1408	7979	45	0
 Konasamudram	1873	7852	75	0
 Konapeta	1421	7865	195	0
@@ -83,17 +83,17 @@ Kondarbari	2111	7413	190	0
 Khonoma	2565	9402	768	0
 Khondār	2515	8198	607	0
 Khond	2374	8282	413	0
-Konjale	1781	7356	234	0
-Konthkot	2348	7047	108	0
+Konjale	1781	7356	234	0	Kenjala
+Konthkot	2348	7047	108	0	Kanthkot
 Kibai Konga	1993	8187	518	0
-Kabai Konga	1993	8187	518	0
+Kabai Konga	1993	8187	518	0	Kibai Konga
 Durgu Kondal	2022	8094	704	0
-Konsisar	2838	7477	539	0
+Konsisar	2838	7477	539	0	Kunsisar
 Konānager	2256	8881	450	0
-Koni	3002	7381	374	0
+Koni	3002	7381	374	0	Rohirānwāli Rāthān
 Kondabal	3425	7468	595	0
 Kongrus	3430	7425	301	0
-Koni Harjīpur	2954	7749	545	0
+Koni Harjīpur	2954	7749	545	0	Roni Harjīpur
 Konāpur	1748	7801	31	0
 Kondurg	1710	7804	62	0
 Konapalli	1701	7839	62	0
@@ -102,7 +102,7 @@ Kondāmadlu	1749	7877	129	0
 Chinna Kondūr	1730	7890	129	0
 Pedda Kondūr	1732	7890	129	0
 Kondāpur	1706	7899	101	0
-Rāwirāl Kongara	1722	7851	62	0
+Rāwirāl Kongara	1722	7851	62	0	Rāwirāl
 Kongara	1721	7851	62	0
 Kongārkala	1720	7855	62	0
 Konāpur	1795	7808	400	0
@@ -120,7 +120,7 @@ Kondran	2485	7840	384	0
 Khonkhra	2473	7853	384	0
 Konda Gūjar	2793	7930	117	0
 Konria	2759	7961	688	0
-Khonjra	2640	7902	334	0
+Khonjra	2640	7902	334	0	Pura Khojar
 Konrāi	2681	7961	715	0
 Khonra	2412	7906	352	0
 Khonra	2412	7903	352	0
@@ -133,7 +133,7 @@ Kond	1742	7360	234	0
 Kond	1830	7631	48	0
 Koneru	1594	7811	306	0
 Kondūr	970	7681	271	0
-Konka	2207	7939	368	0
+Konka	2207	7939	368	0	Kohka
 Khondhara	2228	8237	291	0
 Khongra	2627	9119	358	0
 Konokala	3144	7720	278	0
@@ -728,7 +728,7 @@ Konkankop	1496	7475	59	0
 Konnu	3140	7684	772	0
 Konāla	3132	7676	772	0
 Kho Nāgorān	2687	7586	121	0
-Kongālbahra	2076	8221	297	0
+Kongālbahra	2076	8221	297	0	Rājpur
 Konaribahra	2047	8218	297	0
 Konpra	2325	7400	173	0
 Konradādar	2067	8231	297	0
@@ -868,7 +868,7 @@ Konda Ballunga	1941	8341	363	0
 Konnidi	1941	8347	363	0
 Kontesu	1900	8330	316	0
 Gusai Kontuva	1909	8342	363	0
-Regala Kontuva	1909	8342	363	0
+Regala Kontuva	1909	8342	363	0	Gusai Kontuva
 Konnili	1916	8347	363	0
 Kondachampi	1925	8360	363	0
 Kondakesari	1930	8365	363	0

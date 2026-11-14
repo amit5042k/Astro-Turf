@@ -3,11 +3,11 @@ Mānsa	2343	7266	276	30347
 Mansar	2140	7926	141	6901
 Tola Mansārāut	2680	8454	476	6451
 Mansur Chak	2562	8592	530	5359
-Mānsūr	1750	7711	71	0
+Mānsūr	1750	7711	71	0	Mavinsūr
 Mansūr	1541	7497	682	0
 Mansingpātana	2027	8563	541	0
 Manshāhi	2547	8757	625	0
-Manshai	2547	8757	625	0
+Manshai	2547	8757	625	0	Manshāhi
 Mānsar	3270	7515	373	0
 Mansuka	2267	8801	354	0
 Mansgām	3411	7489	611	0
@@ -40,9 +40,9 @@ Mansūrpur	3021	7717	88	0
 Mansāpur	3014	7721	88	0
 Mansūrpur	3011	7746	449	0
 Manshirpur	2760	7692	482	0
-Muhammadalipur Mansa	2948	7813	575	0
+Muhammadalipur Mansa	2948	7813	575	0	Lālpur
 Mānshāhpur	2947	7808	575	0
-Mansūrpur	2966	7808	596	0
+Mansūrpur	2966	7808	596	0	Kapūro
 Mansūrbāwari	2342	7897	352	0
 Mansūra	2952	7715	328	0
 Mānsingh Kotha	2049	7802	67	0
@@ -90,7 +90,7 @@ Mānsinghtola	2303	7981	598	0
 Nagla Mān Singh	2723	7872	403	0
 Nagla Mān Singh	2712	7853	403	0
 Nagla Mān Singh	2702	7867	403	0
-Mān Singh	2706	7856	403	0
+Mān Singh	2706	7856	403	0	Nagla Sukha
 Nagla Mansa	2776	7896	616	0
 Manslāpur	1625	7732	50	0
 Nagla Mān Singh	2786	7810	543	0
@@ -107,7 +107,7 @@ Mansūk	2761	7906	616	0
 Mānsingh	2760	7911	616	0
 Nagla Mānsingh	2726	7919	464	0
 Pura Mansārām	2695	7794	546	0
-Nagla Mansa	2695	7787	546	0
+Nagla Mansa	2695	7787	546	0	Bar ka Nagla
 Mansūrpura	2686	7782	622	0
 Mansa Nagla	2724	7962	688	0
 Mansūrpur	2780	7987	470	0
@@ -116,7 +116,7 @@ Mansākheri	2420	7715	336	0
 Mansūrnagar	2742	7881	711	0
 Mansūrpura	2704	7837	546	0
 Nagla Mansi	2785	7853	616	0
-Nagla Mānsingh	2777	7853	711	0
+Nagla Mānsingh	2777	7853	711	0	Husainpur
 Purwa Mansukh	2634	7985	671	0
 Mansukh Purwa	2637	7990	671	0
 Mansukhpur	2748	7869	711	0
@@ -157,7 +157,7 @@ Dhāni Mansukh	2846	7579	431	0
 Mansab Khera	2664	8089	714	0
 Mansūr Khera	2649	8076	312	0
 Mansa Khera	2640	8082	312	0
-Mansūrpur	2913	7822	575	0
+Mansūrpur	2913	7822	575	0	Nasīrpur
 Mansūri	2941	7833	575	0
 Mansab Purwa	2764	8113	507	0
 Behti Mansāh	2730	8105	507	0

@@ -1,12 +1,12 @@
 Karīmnagar	1844	7913	579	289821
-Kārikāl	1092	7983	455	86838
+Kārikāl	1092	7983	455	86838	Kāraikāl
 Karīmganj	2487	9236	624	56854
 Khariar Road	2090	8251	594	18967
 Kariapatti	968	7810	119	18191
-Kariyapattinam	968	7810	119	18191
-Kāriyāpatti	968	7810	119	18191
+Kariyapattinam	968	7810	119	18191	Kariapatti
+Kāriyāpatti	968	7810	119	18191	Kariapatti
 Karingal	824	7724	453	16691
-Khariār	2029	8276	594	15087
+Khariār	2029	8276	594	15087	Kharhiāl
 Karikād	1070	7607	241	13656
 Kārimangalam	1231	7820	110	13511
 Karivali	1929	7304	246	12907
@@ -29,23 +29,23 @@ Khariādih	2251	8630	584	0
 Khāria	2913	7552	339	0
 Khāria	2621	7375	344	0
 Khāriya	2233	7670	322	0
-Khāria	2233	7670	322	0
+Khāria	2233	7670	322	0	Khāriya
 Kharia	2143	7052	185	0
 Khāri	2834	7364	307	0
 Khāri	2726	7351	430	0
-Khāri Karamsotan	2726	7351	430	0
-Khaa-ring	2803	8877	27	0
+Khāri Karamsotan	2726	7351	430	0	Khāri
+Khaa-ring	2803	8877	27	0	Kerāng
 Kariyāpattanam	1047	7974	239	0
-Kariyapattinam	1047	7974	239	0
-Kariyāpatnam	1047	7974	239	0
+Kariyapattinam	1047	7974	239	0	Kariyāpattanam
+Kariyāpatnam	1047	7974	239	0	Kariyāpattanam
 Kariyamangalam	1228	7884	197	0
-Karivamangalam	1228	7884	197	0
+Karivamangalam	1228	7884	197	0	Kariyamangalam
 Karivemula	1559	7760	236	0
 Karīmuddīnpur	2569	8386	26	0
 Karimpuzha	1092	7643	263	0
-Karimbula	1092	7643	263	0
+Karimbula	1092	7643	263	0	Karimpuzha
 Karimkunnum	985	7668	258	0
-Karimkannum	985	7668	258	0
+Karimkannum	985	7668	258	0	Karimkunnum
 Kārimāti	2323	8222	525	0
 Karīmābād	1786	7719	170	0
 Karihāri	2445	8602	452	0
@@ -54,24 +54,24 @@ Karian	2586	8601	138	0
 Kāri	1895	7617	33	0
 Kāri	1824	7591	48	0
 Dāru Kharika	2401	8555	764	0
-Karimanal	1345	8030	6	0
+Karimanal	1345	8030	6	0	Coromandel
 Khāria	2897	7391	374	0
 Khāriya	2813	7473	539	0
-Khario	2813	7473	539	0
+Khario	2813	7473	539	0	Khāriya
 Khārio	2830	7487	539	0
-Khāria	2830	7487	539	0
-Asal Khāri	2845	7490	539	0
+Khāria	2830	7487	539	0	Khārio
+Asal Khāri	2845	7490	539	0	Āsal Kheri
 Karimnagar	2213	8826	4	0
 Nij Khari	2209	8843	4	0
-Kharipur	3429	7482	595	0
-Khari Dharmul	3376	7404	1	0
+Kharipur	3429	7482	595	0	Haripur
+Khari Dharmul	3376	7404	1	0	Khati Dharmsāl
 Karipura	3403	7472	76	0
 Karinkshiwan	3425	7448	301	0
 Gund-i-Karīm Khān	3432	7437	301	0
 Karimān	3311	7446	504	0
 Kharīān	3258	7476	581	0
 Karīāl	3259	7493	581	0
-Kariāl Brāhmanān	3259	7493	581	0
+Kariāl Brāhmanān	3259	7493	581	0	Karīāl
 Khārīān	3265	7482	581	0
 Karimpur	3041	7790	448	0
 Kariyad	1169	7558	266	0
@@ -81,7 +81,7 @@ Khāria Pātāwatān	2757	7275	307	0
 Kharindwa	3011	7694	501	0
 Kārīpahāri	2489	7846	384	0
 Kāri Toran	2479	7848	384	0
-Kariya	2497	7876	481	0
+Kariya	2497	7876	481	0	Koriya
 Khāri	2486	7886	481	0
 Karīmpur	2791	7930	117	0
 Dhubla Karīmnagar	2790	7948	470	0
@@ -100,7 +100,7 @@ Kharīton ki Dhāni	2851	7498	539	0
 Khari	2798	7297	307	0
 Khāri	2657	7309	344	0
 Karikere	1433	7677	255	0
-Karikare	1433	7677	255	0
+Karikare	1433	7677	255	0	Karikere
 Khari	2305	7664	675	0
 Dari Kharika	2402	8557	788	0
 Kharibari	2265	8855	450	0
@@ -110,7 +110,7 @@ Karichapar	2221	8335	439	0
 Khariya	2222	8126	537	0
 Kharia	2641	9121	738	0
 Kharija Dolaigaon	2650	9058	746	0
-Kharija Dolaigain II	2650	9058	746	0
+Kharija Dolaigain II	2650	9058	746	0	Kharija Dolaigaon
 Karila	2614	7895	334	0
 Kariyawali	2609	7886	334	0
 Kharija Dolaigain PT-I	2650	9057	357	0
@@ -168,7 +168,7 @@ Marh Karīmpur	2925	7774	545	0
 Karira Khurd	2599	7674	116	0
 Karira Kalān	2599	7673	116	0
 Karīra	2581	7658	335	0
-Khārī Surera	2940	7469	585	0
+Khārī Surera	2940	7469	585	0	Surera Khurd
 Phullo Khāri	2993	7498	563	0
 Karia	2478	7363	22	0
 Kariāl	3093	7519	499	0
@@ -325,7 +325,7 @@ Kārībathān	2418	8350	743	0
 Khāri	2447	8356	743	0
 Baherawa Khāri	2439	8364	743	0
 Karimandīh	2446	8393	701	0
-Karibādīh	2440	8382	743	0
+Karibādīh	2440	8382	743	0	Bhaluhi
 Khariyātoli	2412	8383	743	0
 Khariya	2495	7640	371	0
 Karīmnagar	1714	7968	250	0
@@ -351,7 +351,7 @@ Khāri	2318	7935	521	0
 Kariyāpāni	2411	8022	532	0
 Kāria	2439	8060	324	0
 Kārimāti	2442	8065	324	0
-Kharia	2460	8082	324	0
+Kharia	2460	8082	324	0	Khera
 Kārirāt	2206	7947	368	0
 Kārīgaon	2537	8238	583	0
 Kariāon	2547	8249	583	0
@@ -377,7 +377,7 @@ Karri	2428	8243	631	0
 Kariya	2444	8295	103	0
 Kariya	2443	8296	103	0
 Karri	2441	8297	103	0
-Karīmnagar	2925	7820	575	0
+Karīmnagar	2925	7820	575	0	Oleda
 Karīmpur Mubārak	2936	7839	575	0
 Karīmgani	2735	8116	507	0
 Karimpur	2737	8122	507	0
@@ -569,7 +569,7 @@ Kāri Kothi	3248	7601	362	0
 Chiriku Kāri	3238	7618	362	0
 Khariāri	3227	7607	362	0
 Khariri	3225	7620	38	0
-Karriyāl	3212	7600	38	0
+Karriyāl	3212	7600	38	0	Karāriāl
 Kariātola	2096	8084	474	0
 Kariāgondi	2075	8100	668	0
 Kharia	2222	8124	537	0
@@ -1151,7 +1151,7 @@ Karikera	1403	7710	444	0
 Karima	2240	8563	287	0
 Kariāmba	2241	8562	287	0
 Kāriāhātu	2247	8563	287	0
-Kārisuti	2260	8590	287	0
+Kārisuti	2260	8590	287	0	Gāisuti
 Kāriāsindri	2244	8594	287	0
 Khariabahāl	2200	8500	272	0
 Kariādih	2166	8528	293	0

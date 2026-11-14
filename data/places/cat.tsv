@@ -1,13 +1,13 @@
-Chhatrapati Sambhaji Nagar	1988	7534	113	1175116
+Chhatrapati Sambhaji Nagar	1988	7534	113	1175116	Aurangabad
 Chhatarpur	2492	7959	663	142128
 Chatrā	2421	8487	393	49985
 Chhatarpur	2850	7718	778	46776
-Chātsu	2661	7595	121	33432
+Chātsu	2661	7595	121	33432	Chaksu
 Chhātāpur	2622	8700	426	23425
 Chhatrapur	1936	8498	440	22027
 Chhāta	2772	7751	177	21260
 Chhatral INA	2329	7244	276	10215
-Chhatral	2329	7244	276	10215
+Chhatral	2329	7244	276	10215	Chhatral INA
 Chatibor Gaon	2652	9052	357	8231
 Chatrapatti	934	7792	119	6948
 Chathirareddipatti	963	7797	119	5360
@@ -22,7 +22,7 @@ Pudu Chattram	1047	7779	187	0
 Jagannādharāju Chattram	1820	8369	472	0
 Hanumān Chatti	3070	7952	183	0
 Dumri Chatti	2461	8522	118	0
-Dumrl Chatti	2461	8522	118	0
+Dumrl Chatti	2461	8522	118	0	Dumri Chatti
 Chhattargām	3399	7484	76	0
 Chhātna	2331	8697	571	0
 Chhāti	2078	8167	652	0
@@ -31,19 +31,19 @@ Chhatarpur	2437	8419	701	0
 Chhatarpada	2080	8648	376	0
 Chhatargul	3376	7534	148	0
 Chhāta	2583	8425	536	0
-Chatukhera Sondia	2387	7670	16	0
-Chātu Khera	2387	7670	16	0
+Chatukhera Sondia	2387	7670	16	0	Sondiya
+Chātu Khera	2387	7670	16	0	Sondiya
 Chattrik	2497	9462	723	0
 Chattrappatti	1047	7765	187	0
 Muhammadāpuram Chattram	1556	7932	200	0
-Chattram	1556	7932	200	0
+Chattram	1556	7932	200	0	Muhammadāpuram Chattram
 Chattargarh	2867	7313	307	0
 Chattanahalli	1220	7655	74	0
 Chatragurha	1952	8246	518	0
 Chatra	2437	8785	361	0
 Chātori	1893	7688	153	0
 Chaton	2530	9373	558	0
-Chatoli	2417	7776	215	0
+Chatoli	2417	7776	215	0	Chādholi
 Chatiā	2654	8457	396	0
 Chātgaon	2021	8017	135	0
 Chātāri	1947	7780	67	0
@@ -52,13 +52,13 @@ Chataonda	2377	8213	513	0
 Chataktoli	2264	8485	495	0
 Chātagotla	1438	7977	6	0
 Chātāchara	2428	9243	624	0
-Chatong	2424	9407	685	0
+Chatong	2424	9407	685	0	Chalong
 Ammani Chattram	1021	7925	264	0
-Sanāli Chati	2817	7486	539	0
+Sanāli Chati	2817	7486	539	0	Sahnali Chhoti
 Chata	2249	8824	4	0
 Chātuār	2227	8825	4	0
 Chhatargul	3430	7487	595	0
-Chhatargul Pethapur	3431	7487	595	0
+Chhatargul Pethapur	3431	7487	595	0	Pethapur
 Chhatrahāma	3418	7487	611	0
 Chhatabal	3409	7479	611	0
 Chhatalam	3401	7494	428	0
@@ -71,13 +71,13 @@ Loikpor Chhatarhāl	3436	7438	0	0
 Chatth	3277	7472	581	0
 Chhatti Tāhli	3280	7446	581	0
 Chhatāken Chak	3253	7491	720	0
-Chak Chhatākān	3253	7491	720	0
+Chak Chhatākān	3253	7491	720	0	Chhatāken Chak
 Chatta	3267	7481	581	0
 Chat	3269	7498	720	0
 Chāta	3270	7495	581	0
 Chattu	3443	7389	0	0
 Chhatkariān	3435	7381	0	0
-Chhatkariāi	3435	7381	0	0
+Chhatkariāi	3435	7381	0	0	Chhatkariān
 Chhataila	2950	7749	545	0
 Chhāt ka Khera	2507	7550	353	0
 Chhatrapura	2542	7564	353	0
@@ -95,7 +95,7 @@ Chaturīpur	2709	7943	464	0
 Chatarpur	2771	7956	470	0
 Chatru	2772	7961	470	0
 Chatrupur	2699	7921	464	0
-Chaturīpur	2699	7921	464	0
+Chaturīpur	2699	7921	464	0	Chatrupur
 Chhata ka Nagla	2683	7922	290	0
 Chatauni	2688	7903	290	0
 Chatarpura	2690	7915	290	0
@@ -113,7 +113,7 @@ Chhattāsar	2848	7400	307	0
 Chhātibargaon	2654	9052	357	0
 Chhatarpur	2408	8446	701	0
 Kenār Chati	2477	8526	118	0
-Chattikulam	1113	7878	265	0
+Chattikulam	1113	7878	265	0	Chettikulam
 Chatuanaka	2048	8293	349	0
 Chata	2276	8348	725	0
 Chhata	2215	8168	755	0
@@ -126,7 +126,7 @@ Chatesar	2876	7697	689	0
 Chatjuhan	3153	7708	278	0
 Chhatiāogi	3172	7720	278	0
 Chataur	3132	7708	278	0
-Chather	3132	7708	278	0
+Chather	3132	7708	278	0	Chataur
 Chatkar	3127	7709	278	0
 Chatrog	3142	7710	278	0
 Chhatar Nāg	3451	7417	0	0
@@ -135,7 +135,7 @@ Chāthīnāl	3149	7728	278	0
 Chathāo	3139	7727	278	0
 Chhatri	3147	7729	278	0
 Chatti	3129	7749	479	0
-Chhatryānwāla	3041	7411	3	0
+Chhatryānwāla	3041	7411	3	0	Ābhun
 Chhatiana	3033	7467	615	0
 Chatno	3113	7728	479	0
 Chatola	3106	7749	479	0
@@ -155,7 +155,7 @@ Chhatrāra	3070	7769	534	0
 Chhāti	3066	7769	534	0
 Bāra Chhatar	3055	7768	534	0
 Chhatarpur	2752	7695	482	0
-Chatarbhojpur Kishan	2945	7821	575	0
+Chatarbhojpur Kishan	2945	7821	575	0	Nagla
 Kunwarpur Chatarbhoj	2952	7804	575	0
 Chhatarpura	2669	7607	121	0
 Chatarpura	2628	7610	313	0
@@ -172,7 +172,7 @@ Chatni	2251	7888	337	0
 Chātva	2171	7848	337	0
 Chhatarpura	2530	7637	506	0
 Chhatrang	2444	7301	212	0
-Chatrānwāli	2979	7493	585	0
+Chatrānwāli	2979	7493	585	0	Chukeriyān
 Chatarli	2444	7349	22	0
 Chatthewāla	3006	7507	563	0
 Chhatera Bahādurpur	2891	7704	485	0
@@ -269,7 +269,7 @@ Chhatrapura	2666	7840	478	0
 Chhatarpur	2223	7969	368	0
 Chhatarpurtola	2223	7967	368	0
 Chhatri	2772	7916	616	0
-Chāta	1920	7802	360	0
+Chāta	1920	7802	360	0	Satyam
 Ngagla Chatiān	2747	7911	711	0
 Nagla Chhatarpur	2740	7902	464	0
 Chhaturībarī	2733	7919	464	0
@@ -494,7 +494,7 @@ Chatarpur Nāik	2910	7895	511	0
 Chhatāri	2645	8178	662	0
 Chhatāpur	2628	8183	662	0
 Chhatauna	2642	8189	597	0
-Chaturbhujpur	2582	8110	728	0
+Chaturbhujpur	2582	8110	728	0	Irādatpur
 Chatarāhār	2545	8105	643	0
 Chatarpur	2709	8097	714	0
 Chhatrāpur	2626	8029	469	0
@@ -517,7 +517,7 @@ Chatarbhāmpur	2832	7846	646	0
 Chatkāli	2895	7875	511	0
 Chhateni	2805	7989	470	0
 Chathia	2819	7996	683	0
-Chaturpur	2597	8130	681	0
+Chaturpur	2597	8130	681	0	Mishrapur
 Chhatauna Maryāni	2595	8133	681	0
 Chātan	2842	7858	646	0
 Bhagwānpur Chhatamba	2610	8109	681	0
@@ -759,7 +759,7 @@ Chhatona	2211	8181	755	0
 Chatua	2157	8164	710	0
 Chataud	2134	8179	310	0
 Chataud	2150	8185	310	0
-Chhātāpāra	2127	8193	310	0
+Chhātāpāra	2127	8193	310	0	Chorhādih
 Chhatona	2127	8194	310	0
 Chhatraun	3120	7674	628	0
 Chatlog	3119	7674	628	0
@@ -900,7 +900,7 @@ Chāt	2630	7465	446	0
 Chhātol	2539	7406	309	0
 Chhatrīkhera	2501	7422	572	0
 Chatarpura	2593	7434	309	0
-Chatra ka Khera	2545	7433	309	0
+Chatra ka Khera	2545	7433	309	0	Rūppura
 Chatrbhujpura	2532	7444	309	0
 Chatrpura	2542	7449	309	0
 Chhatar	2697	8406	476	0
@@ -956,7 +956,7 @@ Chhatupur	2533	8400	620	0
 Chātra	2531	8417	409	0
 Chhatwātolī	2420	8407	701	0
 Chatpārtola	2401	8405	701	0
-Nirpat Chattī	2403	8420	701	0
+Nirpat Chattī	2403	8420	701	0	Kanaudā
 Chhatauna	2510	8416	409	0
 Chatea	2592	8446	639	0
 Chatea Diāra	2590	8447	540	0

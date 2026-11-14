@@ -1,30 +1,30 @@
 Bārāsat	2272	8848	450	298127
 Baranagar	2264	8838	450	260072
-Baranagore	2264	8838	450	260072
-Barahanagore	2264	8838	450	260072
+Baranagore	2264	8838	450	260072	Baranagar
+Barahanagore	2264	8838	450	260072	Baranagar
 Bharatpur	2722	7749	114	252838
 Bārākpur	2277	8836	450	148174
-Barrackpore	2277	8836	450	148174
-North Barrackpore	2277	8836	450	148174
+Barrackpore	2277	8836	450	148174	Bārākpur
+North Barrackpore	2277	8836	450	148174	Bārākpur
 Bārān	2510	7652	506	117992
 Baraut	2910	7726	477	93544
-Barani	2548	8597	530	84888
-Baragarh	2133	8362	497	80625
+Barani	2548	8597	530	84888	Bāruni
+Baragarh	2133	8362	497	80625	Bargarh
 Bāramūla	3421	7434	301	77276
-Bharatpur	2821	7954	342	71783
+Bharatpur	2821	7954	342	71783	Farīdpur
 Barauni	2547	8598	530	71660
 Bada Barabīl	2211	8539	293	56870
-Barabil	2211	8539	293	56870
+Barabil	2211	8539	293	56870	Bada Barabīl
 Bārāmati	1815	7458	52	54415
 Barauli	2638	8459	703	41877
-Baraily	2300	7823	338	34663
+Baraily	2300	7823	338	34663	Bareli
 Barāra	3021	7704	691	21545
-Bārāhāt	3073	7844	89	17123
+Bārāhāt	3073	7844	89	17123	Uttarkāshi
 Bara Uchāna	2947	7618	367	16815
 Bharanikāvu Tekku	918	7656	243	15922
-Bharanikkavu	918	7656	243	15922
+Bharanikkavu	918	7656	243	15922	Bharanikāvu Tekku
 Bārālotā	2404	8408	701	14880
-Baratola	2404	8408	701	14880
+Baratola	2404	8408	701	14880	Bārālotā
 Barāgaon	2543	8282	251	11362
 Barauni	2569	7838	503	10309
 Lāhauran Bara	3040	7616	564	10218
@@ -34,59 +34,59 @@ Barauda	2356	7525	568	8700
 Barāgaon	2548	7871	433	8655
 Barajamda	2216	8543	287	8629
 Bara Bazar	2257	8835	123	7985
-Calcutta Bara Bazar	2257	8835	123	7985
-Bara Gamhāria	2281	8610	653	7505
+Calcutta Bara Bazar	2257	8835	123	7985	Bara Bazar
+Bara Gamhāria	2281	8610	653	7505	Gamhāria
 Baral	2592	7463	446	6344
-Barāmba	2042	8534	303	6284
-Barambagarh	2042	8534	303	6284
+Barāmba	2042	8534	303	6284	Badamba
+Barambagarh	2042	8534	303	6284	Badamba
 Baramkela	2156	8326	635	5600
 Rāīwāla Bara	3002	7823	448	5198
 Bāra	2481	8479	118	5185
 Shakar Pur Baramad	2862	7728	794	1178
 Bāra Islām	3109	7547	369	412
-Bara Aslam	3109	7547	369	412
+Bara Aslam	3109	7547	369	412	Bāra Islām
 Bara Sidhpur	3112	7540	369	399
 Tārī Barāgaon	2599	8383	536	0
-Bara Rosia	2597	7282	344	0
-Bara Māyang	2624	9201	751	0
+Bara Rosia	2597	7282	344	0	Rosia
+Bara Māyang	2624	9201	751	0	Rāja Māyang
 Bara Nayāgaon	2550	7553	353	0
 Bara Māngwa	2707	8842	573	0
 Bara Malehra	2457	7931	663	0
 Lohsana Bara	2843	7519	539	0
 Lāpur Bara	2941	7328	374	0
-Lālpur Bara	2941	7328	374	0
-Lāmba Bara	2630	7516	313	0
+Lālpur Bara	2941	7328	374	0	Lāpur Bara
+Lāmba Bara	2630	7516	313	0	Lāmba Harisingh
 Kund Bāra	3275	7646	425	0
 Kishanpur Barāl	2919	7728	477	0
 Ketu Barabās	2653	7245	344	0
 Harsāwa Bara	2792	7499	491	0
 Gholjor Bara	2394	8710	770	0
 Chit Barāgaon	2575	8401	536	0
-Barra	2235	7953	368	0
+Barra	2235	7953	368	0	Bichhua
 Baramsar	2701	7089	217	0
 Bhuma Bara	2778	7493	491	0
 Bhārāwās	2815	7657	519	0
 Bharatpur	2373	8178	525	0
-Bharatpur City	2373	8178	525	0
+Bharatpur City	2373	8178	525	0	Bharatpur
 Bharatgarh	3110	7661	735	0
-Bharat	2434	7222	134	0
+Bharat	2434	7222	134	0	Bhadath
 Bhārapur	2313	6963	108	0
-Bharapor	2313	6963	108	0
+Bharapor	2313	6963	108	0	Bhārapur
 Bharāna	3097	7482	566	0
 Bharāil	2739	8029	686	0
-Bharāli	2739	8029	686	0
+Bharāli	2739	8029	686	0	Bharāil
 Bhārakh	3313	7464	666	0
 Bhara	3187	7621	38	0
 Bharrāna	2397	7900	352	0
 Barrā Sāgar	2271	8036	480	0
 Barrājpur	2668	8014	469	0
-Barāgaon	2686	7118	217	0
+Barāgaon	2686	7118	217	0	Barorāgaon
 Barali	2594	7472	446	0
-Barachana	2067	8612	376	0
-Barawwa	2896	7561	431	0
+Barachana	2067	8612	376	0	Barhachana
+Barawwa	2896	7561	431	0	Barwa
 Bārāwārda	2419	7470	633	0
-Baraun	2580	7835	503	0
-Baraun Kalān	2580	7835	503	0
+Baraun	2580	7835	503	0	Badaun Kalān
+Baraun Kalān	2580	7835	503	0	Badaun Kalān
 Baraundha	2495	8226	201	0
 Baraundha	2504	8063	324	0
 Barauli Rajaipur	2604	8369	536	0
@@ -94,15 +94,15 @@ Barauli	2809	7806	543	0
 Barauli	2734	7788	177	0
 Barauli	2655	7742	622	0
 Barauda	2914	7662	485	0
-Baraud	2790	7637	482	0
+Baraud	2790	7637	482	0	Barod
 Barāu	2496	7537	525	0
 Barato	2561	9246	165	0
 Bharathpura	2535	8486	604	0
 Barāsloia	2271	8485	495	0
 Dakshin Barasat	2223	8845	4	0
-Bārāsat	2223	8845	4	0
+Bārāsat	2223	8845	4	0	Dakshin Barasat
 Barasāhi	2173	8674	382	0
-Barasāh	2173	8674	382	0
+Barasāh	2173	8674	382	0	Barasāhi
 Barās	2974	7675	457	0
 Barāri	2551	8738	625	0
 Barāri	2527	8702	411	0
@@ -115,10 +115,10 @@ Bārang	2041	8583	303	0
 Bārānā	2502	7657	506	0
 Baramsar	2907	7430	486	0
 Baramgala	3360	7441	1	0
-Barambād	2692	7732	114	0
+Barambād	2692	7732	114	0	Brahmbād
 Bārāmāsia	2423	8741	669	0
 Bara Mandla	2685	7222	344	0
-Bara Marla	2685	7222	344	0
+Bara Marla	2685	7222	344	0	Bara Mandla
 Barāmaria	2170	8707	421	0
 Barama	2653	9135	608	0
 Barām	2296	8628	584	0
@@ -135,12 +135,12 @@ Barahri	2516	8400	409	0
 Bara Hoti	3085	7996	183	0
 Barahara	2577	8710	613	0
 Baraguma	2168	8699	382	0
-Baraguna	2168	8699	382	0
+Baraguna	2168	8699	382	0	Baraguma
 Bara Gudha	2970	7501	585	0
-Bara Gudah	2970	7501	585	0
+Bara Gudah	2970	7501	585	0	Bara Gudha
 Baragrān	3214	7713	680	0
 Barāgaon	2641	7612	313	0
-Barāgaon Thātoli	2641	7612	313	0
+Barāgaon Thātoli	2641	7612	313	0	Barāgaon
 Bārāgaon Pimpri	1991	7406	54	0
 Barāgāon	3134	7737	479	0
 Barāgaon	2805	8007	470	0
@@ -152,13 +152,13 @@ Barāgaon	2593	8414	536	0
 Barāgaon	2451	7958	663	0
 Barāgaon	2373	7631	347	0
 Barāganda	2409	8605	452	0
-Baragunda	2409	8605	452	0
+Baragunda	2409	8605	452	0	Barāganda
 Barādiha	2235	8737	677	0
 Bara Digar	2537	9330	494	0
-Barar Digar	2537	9330	494	0
+Barar Digar	2537	9330	494	0	Bara Digar
 Bara Delāna	2859	7361	307	0
 Baradahar	2351	8126	350	0
-Bārad	1923	7746	140	0
+Bārad	1923	7746	140	0	Bārod
 Barad	1795	7459	64	0
 Bārāchati	2450	8501	118	0
 Barāch	2397	8143	634	0
@@ -167,7 +167,7 @@ Bara Boarījor	2506	8748	592	0
 Barābhūm	2303	8636	415	0
 Barābhīta	2672	8832	573	0
 Bara Belun	2340	8798	375	0
-Barabeluna	2340	8798	375	0
+Barabeluna	2340	8798	375	0	Bara Belun
 Bāra Bankī	2692	8118	30	0
 Barabānki	2044	8273	394	0
 Barābani	2374	8702	642	0
@@ -175,7 +175,7 @@ Bara Bāngurda	2296	8641	584	0
 Bara Bangāhal	3233	7682	38	0
 Bara Bāna	2264	8592	653	0
 Bara Bāra	2676	7307	344	0
-Bāra	2676	7307	344	0
+Bāra	2676	7307	344	0	Bara Bāra
 Bāra	2561	7770	436	0
 Bāra	2551	8385	788	0
 Bāra	2525	8172	607	0
@@ -191,12 +191,12 @@ Barāgaon	2803	7551	300	0
 Aspura Bara	2744	7576	491	0
 Malkīsar Bara	2865	7391	307	0
 Bararāsar	2838	7454	539	0
-Barrādsar	2838	7454	539	0
+Barrādsar	2838	7454	539	0	Bararāsar
 Bara Ghotra	2895	7497	486	0
-Barā Gorra	2895	7497	486	0
+Barā Gorra	2895	7497	486	0	Bara Ghotra
 Khudera Bara	2813	7477	539	0
 Molīsar Bara	2818	7482	539	0
-Bara Kotwad	2854	7486	539	0
+Bara Kotwad	2854	7486	539	0	Kotwād
 Bhārang	2882	7486	539	0
 Bara	2276	8827	279	0
 Bārāsat	2268	8844	450	0
@@ -210,8 +210,8 @@ Pirojpan Bara	2238	8898	450	0
 Bara Chimta	2227	8891	4	0
 Bharatgarh	2215	8868	4	0
 Bārawul	3428	7489	595	0
-Bārāwila	3428	7489	595	0
-Bara Chhari	3384	7425	1	0
+Bārāwila	3428	7489	595	0	Bārawul
+Bara Chhari	3384	7425	1	0	Bora Chhari
 Barāri Gāla	3372	7408	1	0
 Bārat Ka Gaon	2671	7198	217	0
 Barāt	3432	7444	301	0
@@ -227,7 +227,7 @@ Barāni	2989	7689	457	0
 Barāna	2988	7692	457	0
 Barauta	2962	7694	457	0
 Bharari	3250	7491	720	0
-Baramīni	3272	7495	581	0
+Baramīni	3272	7495	581	0	Barhmīni
 Bāran Bat	3410	7391	301	0
 Bharapur	3044	7798	448	0
 Barauth	2996	7702	501	0
@@ -252,7 +252,7 @@ Baraichān	3056	7620	648	0
 Barauli	3022	7674	691	0
 Bharāl	3073	7699	587	0
 Bara Ferozepur	3070	7686	587	0
-Barauli	3057	7680	632	0
+Barauli	3057	7680	632	0	Batauli
 Bharaili	3054	7692	587	0
 Baraula	3021	7676	691	0
 Barām	3007	7683	501	0
@@ -288,13 +288,13 @@ Barāichmau	2720	7999	686	0
 Barauli	2710	7987	570	0
 Barāmau Bāngar	2716	7981	570	0
 Bhararpura	2694	7921	290	0
-Barauli Kalān	2695	7904	290	0
-Barauli Khurd	2694	7904	290	0
+Barauli Kalān	2695	7904	290	0	Baroli Kalān
+Barauli Khurd	2694	7904	290	0	Baroli Khurd
 Barāhār	2685	7923	290	0
 Nagla Bhara	2680	7923	290	0
 Bārahpila	2677	7916	290	0
 Bārālokpur	2693	7917	290	0
-Barahiyān	2648	7904	334	0
+Barahiyān	2648	7904	334	0	Barehyān
 Bara Kiranwāli Dhāni	2699	7572	121	0
 Barampura	2566	7912	433	0
 Barauta	2540	7931	433	0
@@ -369,7 +369,7 @@ Bara	3154	7721	278	0
 Bharād	3155	7723	278	0
 Bhāra	3161	7715	278	0
 Bāra Seri	3170	7719	278	0
-Bara Chandālia	2919	7497	486	0
+Bara Chandālia	2919	7497	486	0	Rāmgarh
 Bara Pātlīsar ki Dhāni	2826	7440	539	0
 Baran	2971	7536	709	0
 Bara Godīya	2806	7499	491	0
@@ -387,7 +387,7 @@ Barāban	3474	7438	0	0
 Baraula	3127	7729	278	0
 Barāra	3131	7745	479	0
 Barāndi	3141	7744	680	0
-Bara Hari	3048	7471	615	0
+Bara Hari	3048	7471	615	0	Harike Kalān
 Bāra Bhāi	3082	7481	566	0
 Bāra Mansūrwāl	3090	7497	566	0
 Bara Ghar	3076	7499	499	0
@@ -502,7 +502,7 @@ Barauda	2925	7743	545	0
 Bharal	2922	7743	477	0
 Barauli Nawāgaon	2970	7752	449	0
 Barālsi	2957	7751	545	0
-Barābās	2964	7757	449	0
+Barābās	2964	7757	449	0	Nalhera Kalān
 Bārangi	2272	7815	590	0
 Bārangwāri	2203	7825	462	0
 Barānjh	2292	7887	522	0
@@ -530,7 +530,7 @@ Bāra	2423	7369	22	0
 Nāla Bāra	2419	7374	22	0
 Bara	2645	7479	446	0
 Kot Bhāra	3010	7507	563	0
-Gabri Bara Singh	3013	7516	563	0
+Gabri Bara Singh	3013	7516	563	0	Rāmgarh
 Bararod ka Khera	2520	7458	309	0
 Bararod	2519	7455	309	0
 Negdiya Bara	2503	7473	417	0
@@ -544,7 +544,7 @@ Baranhāra	3094	7577	674	0
 Bharaula	2872	7717	769	0
 Bhāratnagar	2868	7718	732	0
 Bharatnagar	2857	7727	419	0
-Barāgoan	2887	7733	477	0
+Barāgoan	2887	7733	477	0	Rāwan
 Barauli	2838	7734	774	0
 Bhūr Barāl	2891	7763	700	0
 Barauda Sahāni	2864	7774	756	0
@@ -555,14 +555,14 @@ Barauda	2837	7772	637	0
 Bāraul	2625	7499	446	0
 Bara Khera	2528	7475	309	0
 Barāwāli	2714	7570	121	0
-Baragaon	2711	7569	121	0
+Baragaon	2711	7569	121	0	Jaota
 Barāgrāon	3030	7586	593	0
 Bararwāl	3040	7589	593	0
 Bāra	2972	7562	443	0
 Bāra Kundan	2916	7596	339	0
 Bāra	2914	7598	339	0
 Bāra James Sāhib	2906	7599	431	0
-Bharaf	2831	7633	694	0
+Bharaf	2831	7633	694	0	Kurbānpur
 Bharangi	2842	7638	519	0
 Barāwat	2915	7704	485	0
 Barauli	2901	7717	485	0
@@ -579,7 +579,7 @@ Barāna	2461	7633	333	0
 Bārāpāti	2475	7645	506	0
 Bharatpur	2465	7648	333	0
 Barampura	2435	7627	333	0
-Baran	2440	7633	333	0
+Baran	2440	7633	333	0	Kishanpura
 Bharatpura	2439	7644	333	0
 Baravda	2439	7660	333	0
 Barrāwada	2440	7666	333	0
@@ -590,7 +590,7 @@ Barāgaon	2893	7793	700	0
 Bharangpur	2869	7790	756	0
 Barāri	2850	7788	637	0
 Bara Pāthing	2725	8869	739	0
-Barawari	2698	7746	114	0
+Barawari	2698	7746	114	0	Gujar Bhalāi
 Bara	2631	7782	478	0
 Barauna	2638	7788	478	0
 Bāra	2648	7825	334	0
@@ -604,7 +604,7 @@ Bharauli	2586	7850	503	0
 Pahārpur Bara	3041	7612	564	0
 Bara Kot	3034	7604	564	0
 Bāwra Bara	3034	7612	564	0
-Banera Bara	3030	7622	564	0
+Banera Bara	3030	7622	564	0	Banera Kalān
 Bharauh	3031	7615	593	0
 Bararwāl	3042	7619	564	0
 Bara Tilla	3011	7608	593	0
@@ -678,7 +678,7 @@ Barauli Gūjar	2715	7819	546	0
 Barauli Ahīr	2712	7806	546	0
 Barāgaon	2708	7817	546	0
 Bara Nagla	2706	7819	546	0
-Barāgaon	2704	7812	546	0
+Barāgaon	2704	7812	546	0	Patti Siktara
 Baral Kalyānpur	2747	7846	711	0
 Barai	2745	7847	711	0
 Barā Bhundela	2745	7844	711	0
@@ -846,7 +846,7 @@ Bharāpur	2704	7830	546	0
 Ghuranpur Bara	2798	7867	616	0
 Baraudha	2796	7868	616	0
 Barauli	2791	7860	616	0
-Barāgaon	2791	7860	616	0
+Barāgaon	2791	7860	616	0	Barauli
 Bharatpur	2649	7952	715	0
 Barāo	2673	7962	715	0
 Barāgaon Gulām Qāum	2656	7972	671	0
@@ -922,7 +922,7 @@ Pura Barail	2673	7821	478	0
 Barāpura	2664	7822	478	0
 Barāgaon	2657	7812	478	0
 Barākhera	2355	7785	215	0
-Barāgaon	2357	7793	215	0
+Barāgaon	2357	7793	215	0	Bhadār
 Barāgaon Sanāwal	2374	7791	215	0
 Amrāwad Barāmad	2330	7790	338	0
 Semra Barāmad	2336	7799	338	0
@@ -1052,7 +1052,7 @@ Bārādih	2489	8372	749	0
 Barāp	2476	8372	749	0
 Barāgaon	2598	7886	334	0
 Baraira Sopān	2583	7881	503	0
-Baraiha	2419	8351	743	0
+Baraiha	2419	8351	743	0	Henhe
 Baral	2561	7885	433	0
 Bharatpura	2557	7887	433	0
 Baraur	2556	7892	433	0
@@ -1088,7 +1088,7 @@ Baraudia	2429	7839	384	0
 Baraudia	2448	7848	384	0
 Barauli Āzam	2546	8064	463	0
 Barāgaon	2550	8063	463	0
-Barāhār	2497	7853	384	0
+Barāhār	2497	7853	384	0	Sītāpur
 Barraha	2411	7851	352	0
 Bharampur	1960	7841	282	0
 Bārādi	1973	7843	282	0
@@ -1200,7 +1200,7 @@ Barangi	2592	8273	32	0
 Bāra	2598	8267	32	0
 Bharatpur	2573	8253	32	0
 Barauli	2566	8253	32	0
-Barāpura	2564	8251	32	0
+Barāpura	2564	8251	32	0	Bareri
 Barāīn Khurd	2557	8262	32	0
 Barāīn Kalān	2556	8263	32	0
 Barauli	2554	8252	32	0
@@ -1227,7 +1227,7 @@ Bāratīntolahs	2468	8079	324	0
 Bāra	2467	8080	324	0
 Bara	2453	8091	324	0
 Baraj	2464	8091	324	0
-Bara	2468	8091	324	0
+Bara	2468	8091	324	0	Punditketolah
 Barauli Saunrai Buzurg	2572	8131	651	0
 Baraula	2552	8126	651	0
 Bāra Tafriq	2557	8134	651	0
@@ -1249,7 +1249,7 @@ Patti Bharatrāi	2548	8262	32	0
 Bharathpur	2531	8259	583	0
 Barasta	2535	8273	251	0
 Baraila	2536	8264	583	0
-Bāra Dīh	2537	8273	251	0
+Bāra Dīh	2537	8273	251	0	Bhusaula
 Bāra Dīh	2538	8273	251	0
 Bāra Bāzār	2538	8274	251	0
 Barahi Kalān	2549	8272	251	0
@@ -1338,7 +1338,7 @@ Baraulia	2624	8100	681	0
 Bārādari	2960	7831	575	0
 Bārampur	2954	7845	575	0
 Mirza Alīpur Bhāra	2943	7840	575	0
-Bhārakheri	2933	7842	575	0
+Bhārakheri	2933	7842	575	0	Dugri
 Barauhān	2464	8235	201	0
 Baraundhi	2473	8273	103	0
 Bararum	2460	8271	631	0
@@ -1467,11 +1467,11 @@ Barāh Mohabbatpur	2806	7977	470	0
 Bharatpur	2807	7989	470	0
 Barāhi	2867	7863	646	0
 Baraitha	2874	7868	511	0
-Barauli	2853	7875	511	0
+Barauli	2853	7875	511	0	Rustampur
 Barāgaon	2590	8138	681	0
 Bharatpur	2593	8147	718	0
 Baras	2620	8105	681	0
-Bhārapur	2616	8108	681	0
+Bhārapur	2616	8108	681	0	Adilābād
 Barau Purwa	2602	8114	681	0
 Rāmpur Barāra	2604	8109	681	0
 Barara Buzurg	2605	8110	681	0
@@ -1491,7 +1491,7 @@ Jarāwan Barāi	2691	8181	542	0
 Barauli	2694	8182	542	0
 Barauli Bārār	2694	8182	542	0
 Barai Kalān	2678	8181	629	0
-Barāgāon	2676	8184	629	0
+Barāgāon	2676	8184	629	0	Mustafābād
 Barai Khurd	2678	8183	629	0
 Pura Bharai Singh	2689	8185	542	0
 Baranpur	2692	8192	542	0
@@ -1774,7 +1774,7 @@ Bharauti	2615	8297	498	0
 Barahra	2724	8303	292	0
 Purwa Barai	2702	8307	647	0
 Baraipār	2704	8311	647	0
-Barauna	2701	8309	647	0
+Barauna	2701	8309	647	0	Barnapur
 Barampur	2716	8316	292	0
 Barauli	2719	8316	292	0
 Baraipār	2717	8317	292	0
@@ -1829,7 +1829,7 @@ Purwa Bharatpār	2666	8307	647	0
 Baraipār Pathān	2674	8307	647	0
 Baraipār Bansman	2674	8308	647	0
 Barauli	2663	8308	647	0
-Bharathpura	2653	8315	647	0
+Bharathpura	2653	8315	647	0	Bahatpura
 Barauli	2670	8318	325	0
 Baraiyābhār	2669	8319	325	0
 Barahra	2664	8318	325	0
@@ -1970,7 +1970,7 @@ Barahra	2693	8392	560	0
 Bharaulia	2690	8396	560	0
 Bāra	2609	8378	536	0
 Bāra	2610	8379	536	0
-Barāgaon	2612	8388	536	0
+Barāgaon	2612	8388	536	0	Piprauli
 Barāri	2621	8393	535	0
 Bharauli	2622	8392	535	0
 Barahmadia	2603	8396	536	0
@@ -2020,9 +2020,9 @@ Baranpur	2589	8195	718	0
 Pure Bhārat	2599	8194	718	0
 Barāchha	2594	8199	718	0
 Barai Harakh	2562	8175	607	0
-Sarāi Bhārat	2563	8179	607	0
+Sarāi Bhārat	2563	8179	607	0	Bishanpur
 Barāmai	2566	8182	607	0
-Bara Dīh	2567	8186	607	0
+Bara Dīh	2567	8186	607	0	Sikandarpur
 Baraīshiv	2560	8184	607	0
 Bharatpur	2557	8198	607	0
 Baraīpur	2571	8197	607	0
@@ -2071,7 +2071,7 @@ Bhārā	2250	8084	480	0
 Talwandi Bhārath	3182	7509	487	0
 Barāh Kalān	2931	7642	367	0
 Barāh Khurd	2930	7640	367	0
-Nānak Bāra	3127	7524	565	0
+Nānak Bāra	3127	7524	565	0	Georgepur
 Bāra Jodha Singh	3117	7514	369	0
 Bāra Budh Singh	3118	7520	369	0
 Bharangā	2132	8021	171	0
@@ -2906,7 +2906,7 @@ Bara Pagaro	2521	8768	461	0
 Bara Lohanda	2522	8766	461	0
 Bara Madansai	2523	8768	461	0
 Bara Harankol	2515	8774	461	0
-Bara Mundi	2513	8771	461	0
+Bara Mundi	2513	8771	461	0	Muri
 Bara Gadaidhāb	2507	8773	461	0
 Barāro	2600	8785	610	0
 Barahia	2568	8776	625	0
@@ -3002,7 +3002,7 @@ Barāndi	2527	8558	514	0
 Bārāh	2539	8564	604	0
 Bharādi	2078	7563	78	0
 Bharatāpuram	1605	7966	10	0
-Bāra	2606	8755	667	0
+Bāra	2606	8755	667	0	Bāzidpur
 Barail	2606	8759	667	0
 Baraili	2618	8766	667	0
 Bara Istamrār	2612	8768	667	0
@@ -3092,7 +3092,7 @@ Barādopa	2275	8549	287	0
 Bārābāgi	2427	8500	393	0
 Barainī	2418	8481	393	0
 Bārā	2405	8491	393	0
-Barahmanā	2417	8483	393	0
+Barahmanā	2417	8483	393	0	Parbat
 Baraila	2251	8534	287	0
 Bharandia	2273	8549	287	0
 Baraibir	2256	8549	287	0
@@ -3292,7 +3292,7 @@ Barajor	2480	8637	524	0
 Barākhutia	2461	8629	524	0
 Barātānr	2452	8644	524	0
 Barātānr	2464	8645	524	0
-Barātānr	2467	8646	524	0
+Barātānr	2467	8646	524	0	Digur
 Barābānk	2463	8634	524	0
 Barākola	2472	8648	524	0
 Bharathpur	2469	8633	524	0

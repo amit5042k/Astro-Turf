@@ -1,30 +1,30 @@
 Bhilai Charoda	2122	8146	286	98008
 Charkhi Dādri	2859	7627	781	56337
-Charki Dadrai	2859	7627	781	56337
+Charki Dadrai	2859	7627	781	56337	Charkhi Dādri
 Charkhāri	2540	7975	614	24881
 Chharra	2792	7840	543	24535
 Shivpur Charcha	2333	8253	621	23514
 Charthāwal	2955	7759	545	19942
 Charipara	2381	9125	744	19598
 Biswanath Chariali	2673	9315	302	19145
-Charar-i-Sharif	3386	7477	76	11533
-Charar Sharif	3386	7477	76	11533
-Charar-i-Sharief	3386	7477	76	11533
+Charar-i-Sharif	3386	7477	76	11533	Tsrār Sharīf
+Charar Sharif	3386	7477	76	11533	Tsrār Sharīf
+Charar-i-Sharief	3386	7477	76	11533	Tsrār Sharīf
 Charāma	2049	8137	704	9707
 Charhi	2385	8545	764	6842
 Carapur	1557	7399	188	5575
 Charingia Gaon	2673	9415	451	5094
 Charibatia	2056	8594	303	4016
-Chāran	2192	7153	370	0
+Chāran	2192	7153	370	0	Samādhiala
 Mandāl Chāran	2777	7272	307	0
-Cararpará	2025	7296	233	0
-Carchonde	2015	7316	233	0
-Carar	2022	7304	233	0
-Chārbhuja	2525	7370	572	0
-Dimow Chariali	2766	9485	299	0
+Cararpará	2025	7296	233	0	Kharadpada
+Carchonde	2015	7316	233	0	Karchond
+Carar	2022	7304	233	0	Karad
+Chārbhuja	2525	7370	572	0	Garbor
+Dimow Chariali	2766	9485	299	0	Dijmur
 Chharch	2541	7720	436	0
 Chhāra	2870	7672	609	0
-Chhārah	2870	7672	609	0
+Chhārah	2870	7672	609	0	Chhāra
 Charwās	2780	7441	539	0
 Charwadih	2394	8349	341	0
 Chārwa	2211	7691	465	0
@@ -33,22 +33,22 @@ Chārthāna	1963	7654	153	0
 Charopadi Moti	2337	6869	108	0
 Charoi Chakoklong	2477	9364	576	0
 Bhāndu Chārnān	2633	7245	344	0
-Chārnon ki Bhandu	2633	7245	344	0
+Chārnon ki Bhandu	2633	7245	344	0	Bhāndu Chārnān
 Charmuria	2086	8171	652	0
 Chārmāl	2111	8421	567	0
 Chārmādi	1305	7542	55	0
 Charkhi	2861	7622	781	0
-Charkli	2861	7622	781	0
+Charkli	2861	7622	781	0	Charkhi
 Charkhardi	2190	7066	174	0
 Charkha	2144	7122	216	0
 Charka Hai	2568	9324	405	0
 Chari	3221	7626	38	0
-Charhanta	2439	8091	324	0
+Charhanta	2439	8091	324	0	Chorhata
 Chargawān	2305	7964	598	0
 Chārgaon	2141	7930	141	0
 Chareimna	2819	9666	122	0
 Charegaon	2204	8014	144	0
-Charagaon	2204	8014	144	0
+Charagaon	2204	8014	144	0	Charegaon
 Charduār	2686	9277	356	0
 Charbagh	2683	8092	714	0
 Charaut	2653	8579	582	0
@@ -78,7 +78,7 @@ Chāranwāsi	2845	7487	539	0
 Charābidya	2233	8877	4	0
 Chārālkhāli	2231	8898	450	0
 Bora Chhari	3384	7425	1	0
-Bara Chhari	3384	7425	1	0
+Bara Chhari	3384	7425	1	0	Bora Chhari
 Chhara	3351	7417	1	0
 Chārangām	3403	7464	76	0
 Charāligund	3431	7436	301	0
@@ -86,13 +86,13 @@ Narain Chariwāla	3294	7460	581	0
 Charwāl	3307	7443	504	0
 Bata Chhari	3382	7431	1	0
 Charda	3291	7478	581	0
-Pindi Charkān Kalān	3250	7485	581	0
+Pindi Charkān Kalān	3250	7485	581	0	Pindi
 Deoli Chārkān	3259	7484	581	0
 Mihīn Chārkān	3265	7497	720	0
 Kotli Chārkān	3262	7483	581	0
 Mihīn Chārkan	3264	7495	720	0
 Charnāh	3269	7499	720	0
-Kirpālpur Chārkān	3270	7480	581	0
+Kirpālpur Chārkān	3270	7480	581	0	Kirpālpur
 Chhargāl	3274	7498	581	0
 Kanna Chhargāl	3275	7498	581	0
 Charanjpur	3047	7777	448	0
@@ -103,7 +103,7 @@ Charpura	2981	7712	457	0
 Chārnet	2590	7574	313	0
 Charīāna	3124	7711	278	0
 Charhānīān	3117	7711	479	0
-Charāniyān	3117	7711	479	0
+Charāniyān	3117	7711	479	0	Charhānīān
 Charūna	3114	7706	479	0
 Charo	2987	7851	612	0
 Charekh	2983	7855	612	0
@@ -112,16 +112,16 @@ Charlapalli	1787	7837	400	0
 FM Cariappa Rd	1297	7760	43	0
 Gogatia Chārnān	2862	7505	539	0
 Dhāni Chāran	2827	7532	300	0
-Chārna ki Dhāni	2827	7532	300	0
+Chārna ki Dhāni	2827	7532	300	0	Dhāni Chāran
 Chāranwāsi	2819	7531	300	0
 Chārna ki Dhāni	2813	7527	300	0
-Chārno ki Dhāni	2803	7548	300	0
+Chārno ki Dhāni	2803	7548	300	0	Shyāmpura
 Chāranwās	2816	7546	300	0
 Chārna ki Dhāni	2830	7551	300	0
 Charddna Khurd	2811	7570	300	0
 Chārāvās	2802	7564	300	0
-Chārās	2802	7564	300	0
-Jhungiān Chhar	3063	7680	632	0
+Chārās	2802	7564	300	0	Chārāvās
+Jhungiān Chhar	3063	7680	632	0	Jhungiān Chhat
 Chharwar	3051	7676	564	0
 Chhārpura	3000	7693	501	0
 Chāroda	2425	7845	352	0
@@ -142,7 +142,7 @@ Pindi Charkan	3250	7481	581	0
 Nij Charāibāhi	2629	9245	751	0
 Chāre	2629	9462	41	0
 Charda	2794	8161	525	0
-Charkaria	2448	8328	525	0
+Charkaria	2448	8328	525	0	Chakaria
 Charlapalli	1821	7955	61	0
 Charli	1985	7927	111	0
 Chārbhāta	2131	8115	474	0
@@ -255,7 +255,7 @@ Chārgaon	2275	7881	522	0
 Chhargaon	2280	7886	522	0
 Chārgaon	2281	7877	522	0
 Chārgaon	2266	7888	337	0
-Charūd	2161	7825	462	0
+Charūd	2161	7825	462	0	Chamanpur
 Chārgaon	2194	7883	337	0
 Chārgaon	2196	7899	337	0
 Chharbariya	2916	7758	700	0
@@ -272,7 +272,7 @@ Nagla Charandās	2854	7741	588	0
 Charauri	2878	7734	727	0
 Charial	3157	7586	296	0
 Charpalān	2585	7401	446	0
-Charlābar	2596	7421	446	0
+Charlābar	2596	7421	446	0	Rāmpura
 Chāranwās	2724	7560	121	0
 Chāranwās	2725	7574	121	0
 Charōli	3302	7661	362	0
@@ -352,7 +352,7 @@ Chārgaon	2195	7947	368	0
 Chārgaon	2153	7932	141	0
 Charkupalli	1706	7803	62	0
 Chārbha	2123	7946	141	0
-Char Baseri	2694	7754	114	0
+Char Baseri	2694	7754	114	0	Sajjanwās
 Charāi Dāng	2611	7785	484	0
 Chārthāne	2105	7625	78	0
 Chārkhera	2166	7649	209	0
@@ -404,7 +404,7 @@ Chārgaon	2074	7929	141	0
 Chārgaon Buzurg	2039	7919	111	0
 Chārgaon Khurd	2036	7918	111	0
 Charūr	2026	7921	111	0
-Chārgaon	2042	7965	111	0
+Chārgaon	2042	7965	111	0	Mendha
 Chārgaon	2044	7964	111	0
 Chārgaon Chak	2044	7964	111	0
 Chārgaon	2034	7967	111	0
@@ -780,7 +780,7 @@ Charoli Nāni	2324	7410	173	0
 Charoli Moti	2324	7411	173	0
 Charakni	2323	7416	166	0
 Charel	2302	7435	348	0
-Chārdih	2025	8235	297	0
+Chārdih	2025	8235	297	0	Deodongar
 Chārgharia	2075	8262	594	0
 Chārpāni	2041	8272	394	0
 Charakpatlī	2399	8373	743	0
@@ -816,7 +816,7 @@ Chārpāli	2117	8348	497	0
 Charaigaon	2141	8356	497	0
 Chārpāli	2128	8359	497	0
 Devli Chāran	2376	7667	16	0
-Chāran	2393	7669	16	0
+Chāran	2393	7669	16	0	Kishanpuriya
 Chārmunda	2109	8355	497	0
 Chārpāli	2198	8384	272	0
 Chārbhāti	2190	8394	627	0

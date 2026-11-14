@@ -1,9 +1,9 @@
-Gulburga	1734	7684	71	543147
-Gulbarga	1734	7684	71	543147
+Gulburga	1734	7684	71	543147	Kalaburagi
+Gulbarga	1734	7684	71	543147	Kalaburagi
 Gulāothi	2859	7779	637	46647
 Guledagudda	1605	7579	86	33851
-Guledgarh	1605	7579	86	33851
-Guledgud	1605	7579	86	33851
+Guledgarh	1605	7579	86	33851	Guledagudda
+Guledgud	1605	7579	86	33851	Guledagudda
 Gulābpura	2590	7466	309	27215
 Ghulewadi	1960	7419	152	21860
 Gulgam	3455	7422	0	15587
@@ -17,7 +17,7 @@ Gulu	2257	8509	287	0
 Gulmatūngo	3407	7616	8	0
 Gulliti	1919	8366	363	0
 Gulkhed	1819	7637	158	0
-Gulkhat	1819	7637	158	0
+Gulkhat	1819	7637	158	0	Gulkhed
 Gulganj	2470	7937	663	0
 Guler	3200	7615	38	0
 Gulbāl	1641	7548	86	0
@@ -29,8 +29,8 @@ Gula	3004	7630	638	0
 Gūl	3327	7500	666	0
 Ghulānia	2199	7534	248	0
 Ghulam Alīwāla	2858	7229	307	0
-Gulur	2008	7273	192	0
-Gulfurbari	2375	8676	664	0
+Gulur	2008	7273	192	0	Gholvad
+Gulfurbari	2375	8676	664	0	Garphalbāri
 Chānthan Gulābpura	3428	7475	595	0
 Gulābpathar	3432	7496	595	0
 Gulābbāgh	3418	7482	611	0
@@ -45,11 +45,11 @@ Shri Gulābsinghpur	3251	7488	581	0
 Gulāme Chak	3273	7481	581	0
 Gulāmi Bāgh	3273	7485	581	0
 Gulābsinghwāla	3029	7797	448	0
-Gulābasinghwāla	3029	7797	448	0
+Gulābasinghwāla	3029	7797	448	0	Gulābsinghwāla
 Gulābpura	2580	7563	313	0
 Gulāsugād	2986	7850	612	0
 Gulvagudam	1723	7842	62	0
-Gulābgarh	3058	7685	632	0
+Gulābgarh	3058	7685	632	0	Guiābgarh
 Gulenda	2517	7882	529	0
 Gulaua	2415	7819	352	0
 Gulenda	2494	7837	384	0
@@ -81,9 +81,9 @@ Ghulām Rasūlwāla	3049	7406	3	0
 Dhani Ghulām Rasul	3014	7415	3	0
 Dhani Ghulām Rasūl	3012	7414	3	0
 Dhani Ghulām Rasūl	3011	7418	3	0
-Gulābgarh	3008	7417	3	0
+Gulābgarh	3008	7417	3	0	Kikar Khera
 Khudiān Gulāh Singh	3007	7458	615	0
-Bhāi Gulāb Singhwāla	3094	7481	566	0
+Bhāi Gulāb Singhwāla	3094	7481	566	0	Ratta Khera
 Gulu	3111	7737	479	0
 Gulhār	3092	7701	628	0
 Gulhādi	3091	7702	628	0
@@ -107,7 +107,7 @@ Gulsi	2178	7896	337	0
 Murlīpur Gulāb	2900	7764	700	0
 Gulera	2459	7363	22	0
 Gulāb Singhwāla	3058	7513	499	0
-Gulābgarh	3015	7500	563	0
+Gulābgarh	3015	7500	563	0	Nāiwāla
 Gulābpura	2511	7462	417	0
 Chhanna Gulāb Singh	3043	7530	726	0
 Guldhar	2870	7745	727	0
@@ -226,7 +226,7 @@ Gulām Ali Purwa	2686	8000	469	0
 Gūlarjhāl	2685	7999	469	0
 Gularaha	2678	7996	469	0
 Gulāb ka Purwa	2647	7989	671	0
-Gulālpur	2746	7865	711	0
+Gulālpur	2746	7865	711	0	Nagla Bācha
 Nagla Gulariya	2742	7859	403	0
 Gulābi	2737	7869	403	0
 Nagla Gulāb	2729	7873	464	0
@@ -638,7 +638,7 @@ Shiv Gulām ka Purwa	2547	8159	651	0
 Ghulla	3208	7544	487	0
 Rasūlpur Gulrāh	2596	8178	718	0
 Purwa Gulābrāi	2589	8177	718	0
-Katra Gulābsingh	2575	8180	718	0
+Katra Gulābsingh	2575	8180	718	0	Sarāi Bhopat
 Gulra	2578	8196	718	0
 Chak Gulāmmuhammad	2538	8187	607	0
 Chak Dāzi Gulāmmuhammad	2543	8193	607	0
@@ -654,7 +654,7 @@ Gulāwad	2228	7572	329	0
 Gulripura	2240	7574	660	0
 Gulālipur	3136	7480	260	0
 Ghulewāla	3114	7484	260	0
-Ghulāmwāla	3104	7476	566	0
+Ghulāmwāla	3104	7476	566	0	Arāwal
 Ghulām Husainwāla	3098	7457	566	0
 Badhni Gulāb Singh	3086	7475	566	0
 Ghulām Patra	3081	7458	566	0
@@ -706,7 +706,7 @@ Ghulipāli	2136	8362	497	0
 Gulhiapadar	2110	8359	308	0
 Gultha	2198	8398	272	0
 Gulgunda	2147	8390	567	0
-Gulapāra	2104	8381	308	0
+Gulapāra	2104	8381	308	0	Rajopāli
 Gulunda	2103	8378	308	0
 Purwa Gulzār	2796	8128	294	0
 Gulhāpur	2794	8131	294	0
@@ -790,7 +790,7 @@ Gulābpura	2344	7391	512	0
 Gularsār	2956	7916	429	0
 Gūlar Ghattī	2939	7913	551	0
 Gulzārpur	2925	7908	641	0
-Mandaiyān Gulzārī	2918	7907	641	0
+Mandaiyān Gulzārī	2918	7907	641	0	Ganjpurī
 Gūlar Pīpalsāna	2907	7909	552	0
 Milak Miān Ghulām Bāri	2904	7914	552	0
 Tāndā Gulū	2911	7914	552	0
@@ -800,7 +800,7 @@ Gularia Gobrā	2922	7910	641	0
 Gulzārpur	2526	8460	377	0
 Gula Singh Bigha	2530	8472	766	0
 Guloli	2968	7939	429	0
-Gul	2210	7425	155	0
+Gul	2210	7425	155	0	Palwai
 Gultora	2298	7429	173	0
 Gulwat	2208	7439	155	0
 Gulzārpur Banki	2926	7934	551	0
@@ -845,7 +845,7 @@ Gulālpur	2887	7939	552	0
 Gularia Bhawāni	2886	7942	641	0
 Gularia Sukhi	2884	7943	342	0
 Khānpur Gūl	2899	7930	641	0
-Ghulāmganj	2873	7929	552	0
+Ghulāmganj	2873	7929	552	0	Mandaiyān
 Gularia	2871	7933	342	0
 Gularia	2871	7937	342	0
 Gularia Muhammad Husain	2867	7947	342	0
@@ -867,7 +867,7 @@ Gūlaria Mahipat	2844	7962	342	0
 Gulābnagar	2826	7966	342	0
 Gūlaria Lekhrāj	2841	7971	342	0
 Gulābnagar	2825	7957	342	0
-Gulābnagar	2816	7952	342	0
+Gulābnagar	2816	7952	342	0	Bhīkampur
 Gularia	2806	7960	470	0
 Ghulūpura	2818	7966	342	0
 Gularia Makrandpur	2819	7966	342	0
@@ -1077,4 +1077,4 @@ Jhar Gulunda	2142	8410	567	0
 Guljipāli	2161	8431	567	0
 Gool Gulab Garh	3326	7477	666	0
 Gulāl Khera	2668	8113	714	0
-Gulāmzāfar	2575	8157	718	0
+Gulāmzāfar	2575	8157	718	0	Qāzīpur

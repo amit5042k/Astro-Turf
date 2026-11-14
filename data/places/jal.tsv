@@ -5,23 +5,23 @@ Jalpāiguri	2652	8873	602	107832
 Jhālāwār	2460	7616	333	66919
 Jālaun	2615	7934	741	55299
 Jalor	2535	7262	343	54081
-Jalore	2535	7262	343	54081
+Jalore	2535	7262	343	54081	Jalor
 Jalandhar Cantonment	3129	7562	369	47845
 Jalārpet	1257	7857	184	40959
 Jalālābād	3061	7426	3	39525
 Jalesar	2747	7830	711	38614
-Jalesar Town	2747	7830	711	38614
+Jalesar Town	2747	7830	711	38614	Jalesar
 Jhālrapātan	2454	7617	333	37506
-Jhālrapātan Chhroni	2454	7617	333	37506
-Jhalrapatna City	2454	7617	333	37506
-Jhalrapatan City	2454	7617	333	37506
+Jhālrapātan Chhroni	2454	7617	333	37506	Jhālrapātan
+Jhalrapatna City	2454	7617	333	37506	Jhālrapātan
+Jhalrapatan City	2454	7617	333	37506	Jhālrapātan
 Jalālābād	2773	7966	470	35051
 Jalālpur	2631	8274	553	31388
 Jhālod	2310	7416	173	28720
 Jalgaon Jamod	2105	7653	49	28276
-Jālgaon	2105	7653	49	28276
+Jālgaon	2105	7653	49	28276	Jalgaon Jamod
 Jaleshwar	2180	8722	421	25747
-Jalvergi	1701	7677	71	25686
+Jalvergi	1701	7677	71	25686	Jevargi
 Jalālābad	2962	7744	328	25302
 Jhālu	2934	7823	575	20356
 Jalochi	1816	7461	52	19346
@@ -29,9 +29,9 @@ Jalladiampet	1292	8021	247	19100
 Jalālī	2787	7825	543	18177
 Jhalidā	2337	8598	415	18057
 Jalalpore	2095	7290	221	17325
-Jalālpur	2095	7290	221	17325
+Jalālpur	2095	7290	221	17325	Jalalpore
 Jalakandapuram	1170	7787	51	16184
-Jalakantapuram	1170	7787	51	16184
+Jalakantapuram	1170	7787	51	16184	Jalakandapuram
 Jalda	2219	8484	272	15789
 Jāli	1399	7453	59	10802
 Jallaram	1872	7957	748	9329
@@ -42,14 +42,14 @@ Jalgaon	1774	7319	234	5822
 Zaladanki	1488	7991	6	0
 Nimbgaon Jāli	1957	7438	152	0
 Jhalwāra	2378	8046	351	0
-Jhalarwa	2378	8046	351	0
+Jhalarwa	2378	8046	351	0	Jhalwāra
 Jhālra	2600	7588	313	0
 Jhalpo	2443	8555	473	0
 Jhallār	2173	7774	462	0
 Jhalki	1726	7580	80	0
 Jhalap	2122	8238	407	0
 Jhalania	2951	7556	443	0
-Jhalaniān	2951	7556	443	0
+Jhalaniān	2951	7556	443	0	Jhalania
 Jhalambi	2118	7392	186	0
 Jhālāmand	2621	7307	344	0
 Jhalāi	2636	7601	313	0
@@ -57,46 +57,46 @@ Jalwāra	2496	7668	506	0
 Jālwāli	2827	7318	307	0
 Jālūwāla	2785	7187	217	0
 Jalumūru	1851	8404	472	0
-Jalumur	1851	8404	472	0
+Jalumur	1851	8404	472	0	Jalumūru
 Jaltha	3010	8024	508	0
 Jālotra	2414	7258	134	0
 Jalod	2116	7514	78	0
 Jalmāna	2959	7671	457	0
 Jallivāripullalacheruvu	1550	7892	200	0
 Jalkot	1863	7718	158	0
-Jalkote	1863	7718	158	0
+Jalkote	1863	7718	158	0	Jalkot
 Jālihalli	1636	7678	50	0
-Jal Halli	1636	7678	50	0
+Jal Halli	1636	7678	50	0	Jālihalli
 Jālia	2244	7040	145	0
 Jalia	2180	7028	174	0
 Jālgaon Supa	1824	7446	52	0
 Jālgaon	2041	7449	54	0
 Jālgaon	1865	7509	152	0
 Jāleli	2638	7329	344	0
-Jāleli Dāikra	2638	7329	344	0
+Jāleli Dāikra	2638	7329	344	0	Jāleli
 Jālebar	1202	9293	442	0
 Jāle	2639	8573	591	0
 Jaldega	2271	8315	439	0
 Jaldega	2257	8481	495	0
 Jalāsār	2279	8517	287	0
 Jalāripeta	1773	8335	81	0
-Jalar Petta	1773	8335	81	0
+Jalar Petta	1773	8335	81	0	Jalāripeta
 Jalāra	2404	7409	22	0
 Jalapahar	2702	8826	573	0
 Jalantra	1896	8455	472	0
 Jalandhar	2390	7845	352	0
 Jalam	2082	7659	49	0
 Jalālpur Dhai	2601	8115	681	0
-Jalalpur Dhail	2601	8115	681	0
+Jalalpur Dhail	2601	8115	681	0	Jalālpur Dhai
 Jalālpur	2627	7817	484	0
 Jalālpur	2586	7981	645	0
 Jalālpur	2502	9247	163	0
 Jalālkheda	2138	7842	141	0
-Jalālkhera	2138	7842	141	0
+Jalālkhera	2138	7842	141	0	Jalālkheda
 Jalālābād	3090	7524	499	0
 Jalālābād	2710	7978	570	0
 Jālhalli	1304	7755	43	0
-Jālahalli	1304	7755	43	0
+Jālahalli	1304	7755	43	0	Jālhalli
 Dhor Jalgaon	1932	7509	152	0
 Jāleu	2812	7465	539	0
 Jāleu	2806	7491	491	0
@@ -107,15 +107,15 @@ Zālāpur	3423	7458	120	0
 Zalūrāh	3441	7437	0	0
 Jalāra	3296	7458	581	0
 Jāliyān	3381	7426	1	0
-Jallān	3070	7606	674	0
+Jallān	3070	7606	674	0	Jahla
 Jallajan	3063	7607	674	0
 Jalo da Chak	3266	7490	581	0
-Chak Jalo	3266	7490	581	0
+Chak Jalo	3266	7490	581	0	Jalo da Chak
 Jalla	3463	7606	8	0
 Jalālpur Dāda	3000	7781	596	0
-Jalāpur Dāda	3000	7781	596	0
+Jalāpur Dāda	3000	7781	596	0	Jalālpur Dāda
 Gogwān Jalālpur	2954	7744	328	0
-Gogwān Jalāpur	2954	7744	328	0
+Gogwān Jalāpur	2954	7744	328	0	Gogwān Jalālpur
 Jaloti	2518	7569	353	0
 Jaloda	2534	7575	353	0
 Jāl ki Jhonpariyān	2526	7572	353	0
@@ -128,7 +128,7 @@ Jalālpur	1760	7872	129	0
 Jāligaon	1787	7866	466	0
 Manewār Jalāipur	1790	7830	400	0
 Nain Jalālpur	1795	7826	400	0
-Jalpahāri	2816	7550	300	0
+Jalpahāri	2816	7550	300	0	Jaipahāri
 Alipur Jalāl	3057	7622	648	0
 Jalālābād	3053	7606	775	0
 Jalbera	3021	7660	564	0
@@ -150,11 +150,11 @@ Zālim Nagla	2791	7935	117	0
 Jalālpur	2718	7929	464	0
 Jalesar Alīpur	2717	7980	570	0
 Jalālpur Panchmān	2706	7987	570	0
-Jalālpur Katri	2708	7991	570	0
+Jalālpur Katri	2708	7991	570	0	Baks Purwa
 Jalālpur Amra	2708	7993	570	0
 Jalālpur Sarwan	2701	7993	570	0
 Zālimpur	2699	7918	290	0
-Zālimpura	2699	7918	290	0
+Zālimpura	2699	7918	290	0	Zālimpur
 Nagla Jalāl	2694	7922	290	0
 Nagla Jhāl	2698	7903	464	0
 Zālim ka Adda	2680	7901	290	0
@@ -170,7 +170,7 @@ Jalālpur Chirgawān	2605	7950	741	0
 Barha Jālaun	2601	7932	741	0
 Jhala	2553	7904	433	0
 Jalālpura	2547	7933	433	0
-Jalālpur	2697	7956	570	0
+Jalālpur	2697	7956	570	0	Kaklai
 Jalālpur	2677	7966	715	0
 Barai Jhāl	2661	7990	671	0
 Jalihāpur	2656	7980	671	0
@@ -250,8 +250,8 @@ Jhalri	2942	7819	575	0
 Jhalra	2943	7818	575	0
 Jalālpur Qāzi	2934	7811	575	0
 Jhāl	2926	7820	575	0
-Mazra Jalālpur Nila	2927	7803	545	0
-Jalālpur Nīla	2926	7804	545	0
+Mazra Jalālpur Nila	2927	7803	545	0	Nayāgaon
+Jalālpur Nīla	2926	7804	545	0	Nīlāwāla
 Tānda Jalālpur	2967	7800	596	0
 Jālpur	2967	7823	575	0
 Jalālpur	2630	7615	116	0
@@ -277,7 +277,7 @@ Jallandhar	3131	7560	369	0
 Jalālyāna	3062	7477	730	0
 Jaloda Khātiān	2540	7638	371	0
 Jaloda Tejāji	2535	7646	506	0
-Chak Jālu	2976	7475	585	0
+Chak Jālu	2976	7475	585	0	Chak Munānwāli
 Jalālāna	2981	7490	585	0
 Zālimpura	2432	7334	22	0
 Jhalā ka Gūrha	2479	7364	22	0
@@ -322,7 +322,7 @@ Jhāl	2841	7644	519	0
 Jāli Khāl	3039	7824	500	0
 Jhālki	3040	7825	500	0
 Jhālki	3044	7817	448	0
-Nawāda Saiyidpur Jalāl	2932	7864	575	0
+Nawāda Saiyidpur Jalāl	2932	7864	575	0	Dilhīwāla
 Fatehūllahpur Jalāi	2935	7855	575	0
 Jhāli Kharak	3034	7951	183	0
 Jalkheri	2464	7635	333	0
@@ -348,7 +348,7 @@ Jālkheri	3049	7634	648	0
 Jalāl Khera	3026	7636	564	0
 Jalālpur	3035	7648	564	0
 Jhalu Ki Marhi	2778	7791	543	0
-Jhalu	2779	7791	543	0
+Jhalu	2779	7791	543	0	Nagla Chandrām
 Nagla Jālim	2774	7729	114	0
 Jalālpur	2772	7743	177	0
 Jhaliān Sambal	3094	7655	735	0
@@ -476,7 +476,7 @@ Jhalli	1784	7986	249	0
 Jalagambāvi Tānda	1679	7911	101	0
 Jalālpur Phaphūnd	2669	7952	715	0
 Karia Jhāla	2659	7974	671	0
-Jallāpur	2687	7988	570	0
+Jallāpur	2687	7988	570	0	Majh Purwa
 Jalālpur	2634	7999	671	0
 Jalālpur	2629	7987	671	0
 Jalālpur	2625	7977	671	0
@@ -497,8 +497,8 @@ Jalhiāpur	2517	8048	463	0
 Jalālpur Wāri	2560	8121	651	0
 Chak Jalālpur Wāri	2561	8121	651	0
 Jhālwān	2237	7694	465	0
-Jhalihān	2571	8201	607	0
-Jalāluddīnpur	2563	8202	607	0
+Jhalihān	2571	8201	607	0	Sarai Jāja
+Jalāluddīnpur	2563	8202	607	0	Mahpura
 Jalāluddīnpur	2560	8209	607	0
 Kathar Jalāl	2599	8290	498	0
 Chak Jalālpur	2580	8289	498	0
@@ -565,7 +565,7 @@ Jalālpur	2599	8052	728	0
 Jalālpur	1885	7651	33	0
 Jāla	2422	8381	743	0
 Jhaluwa	2415	8378	743	0
-Jaldhara	1945	7817	140	0
+Jaldhara	1945	7817	140	0	Chandrāpur
 Jaldhara	1940	7810	140	0
 Jhalakwād	1934	7809	140	0
 Jalalpur	2786	7634	482	0
@@ -651,7 +651,7 @@ Jalālpur	2552	8286	251	0
 Jalāpur	2621	8080	312	0
 Purwa Zālim Singh	2608	8082	681	0
 Purwa Zālim Singh	2619	8096	681	0
-Jalālpur	2916	7803	700	0
+Jalālpur	2916	7803	700	0	Maqbūlpur
 Jalālpur Khādar	2916	7814	575	0
 Jalīlpur	2914	7819	575	0
 Jalālpur Zora	2906	7805	700	0
@@ -709,15 +709,15 @@ Jalālābād	2693	8145	30	0
 Jalāodīpur	2924	7830	575	0
 Jalālpur Hasna	2924	7826	575	0
 Jalīlpur Mūngra	2901	7830	483	0
-Jalālpur Dīpa	2919	7836	575	0
+Jalālpur Dīpa	2919	7836	575	0	Nawāda
 Jalālpur	2919	7844	575	0
-Jalālpur Mān	2919	7848	575	0
+Jalālpur Mān	2919	7848	575	0	Pauta
 Jalālpur	2665	8132	30	0
 Deora Jhalia	2669	8143	30	0
 Jalālpur	2667	8141	30	0
 Jalchandpur	2665	8148	30	0
 Jhālamāri Baihk	3421	7409	301	0
-Jalālpur	2918	7852	575	0
+Jalālpur	2918	7852	575	0	Shekhpura
 Jhāl	2427	8090	324	0
 Jalālpur	2646	8113	681	0
 Jalālpur	2630	8128	681	0
@@ -765,7 +765,7 @@ Māfl Zālim Singh	2726	8194	542	0
 Jhāla Tarhar	2742	8176	294	0
 Jalālpur	2738	8187	294	0
 Jalālpur Dhana	2890	7855	483	0
-Sinora Jalālābād	2881	7853	483	0
+Sinora Jalālābād	2881	7853	483	0	Sharīfpur
 Jalīlpur Bakkāl	2891	7860	483	0
 Mānpur Jalālpur	2813	7991	683	0
 Amkhera Jalālpur	2816	7992	683	0
@@ -779,7 +779,7 @@ Jalālpur	2593	8129	681	0
 Jalīlpur	2592	8149	718	0
 Jalālpur	2839	7868	646	0
 Sultānpur Jāla	2620	8104	681	0
-Jalālābād	2606	8113	681	0
+Jalālābād	2606	8113	681	0	Ghafurpur
 Pura Jalālpur	2613	8117	681	0
 Purn Zālim Singh	2616	8123	681	0
 Pura Jalālpur	2606	8123	681	0
@@ -1150,7 +1150,7 @@ Jhālri	3088	7764	479	0
 Jalaut	3088	7766	479	0
 Jhālādongri	2406	7993	532	0
 Jhalpī	2358	8374	341	0
-Jalālia	3012	7765	449	0
+Jalālia	3012	7765	449	0	Allahyārpur
 Jalli Chak	3077	7800	448	0
 Jallūru	1754	8198	268	0
 Jamālpur Jalālpur	2912	7781	700	0
@@ -1514,7 +1514,7 @@ Jalchakra Khurd	2088	7595	78	0
 Jalānjni Khurd	2070	7587	78	0
 Jalānjni Budrukh	2070	7587	78	0
 Jhālākurī	2918	8006	554	0
-Jhālākorī Tallī	2919	8007	554	0
+Jhālākorī Tallī	2919	8007	554	0	Shāntok
 Jalkuniā	2916	8014	554	0
 Jalālābād	2793	8002	470	0
 Jalālpur	2778	8014	323	0
@@ -1650,7 +1650,7 @@ Jhāliāgochha	2010	8455	440	0
 Agwari, Jalore	2533	7287	343	0
 Jalangi	2413	8869	471	0
 Jalah	2666	9122	608	0
-Jālila	2510	7099	285	0
+Jālila	2510	7099	285	0	Punjāsar
 Jalālpur	2949	7737	328	0
 Jalālpur	2790	7702	544	0
 Jalālpur	2696	7986	570	0

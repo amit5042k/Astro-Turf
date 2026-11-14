@@ -1,17 +1,17 @@
 Kalyān	1924	7314	246	1262255
-Kalyan-Dombivli	1922	7308	246	1247327
+Kalyan-Dombivli	1922	7308	246	1247327	Dombivali
 Ashoknagar Kalyangarh	2286	8864	450	111475
 Kalyani	2298	8843	528	93184
-Kalyāni	1787	7695	170	69717
-Kalyanpur	2709	9361	578	59490
+Kalyāni	1787	7695	170	69717	Basavakalyan
+Kalyanpur	2709	9361	578	59490	Itanagar
 Kalyandurg	1455	7711	100	32328
-Kalyāndrug	1455	7711	100	32328
+Kalyāndrug	1455	7711	100	32328	Kalyandurg
 Kalyānsingapuram	1951	8331	363	4660
-Kalyanasingpur	1951	8331	363	4660
+Kalyanasingpur	1951	8331	363	4660	Kalyānsingapuram
 Kalyanpur	2392	9160	649	0
-Kalyānpur	1339	7474	257	0
+Kalyānpur	1339	7474	257	0	Kalliānpur
 Kalyādi	1324	7615	679	0
-Kalyanpur	2650	8026	469	0
+Kalyanpur	2650	8026	469	0	Kaliānpur
 Kalyānpur	2602	7258	285	0
 Kālyār	3294	7485	581	0
 Kotra Kalyānpur	3044	7791	448	0
@@ -27,13 +27,13 @@ Kalyānpura	2487	7842	384	0
 Kalyānpura	2470	7855	384	0
 Kalyānpur	2782	7948	470	0
 Nagla Kalyānpur	2714	7935	464	0
-Kalyānpur Rāhan	2691	7910	290	0
-Kalyānpur	2684	7913	290	0
+Kalyānpur Rāhan	2691	7910	290	0	Kaliānpur Rāhan
+Kalyānpur	2684	7913	290	0	Kaliānpur Ayāra
 Kalyānpur	2678	7911	290	0
 Purwa Kalyāni	2654	7986	671	0
 Kalyani Nagar	1855	7390	52	0
 Kalyānpura Purohitān	2836	7448	539	0
-Kalyānpura Purahitān	2836	7448	539	0
+Kalyānpura Purahitān	2836	7448	539	0	Kalyānpura Purohitān
 Kalyānpura Vidāwtān	2836	7448	539	0
 Kalyānpura	2804	7482	491	0
 Khalyābāri	2416	9227	256	0
@@ -84,7 +84,7 @@ Kalyānpura	2629	7848	334	0
 Kalyānpur	2595	7840	484	0
 Kalyānpur	2798	7768	543	0
 Kalyānpur	2754	7773	177	0
-Kalyānpur	2808	7780	543	0
+Kalyānpur	2808	7780	543	0	Nagla Khūb
 Dhanur Kalyānwādi	1791	7700	170	0
 Kalyānpur	2711	7751	326	0
 Nagla Kalyānpur	2711	7751	114	0
@@ -112,7 +112,7 @@ Kalyānpur	2635	7771	478	0
 Kalyānpura	2633	7774	478	0
 Kalyānpur	2681	7787	622	0
 Kalyānpur	2749	7896	711	0
-Kalyānpur	2745	7888	464	0
+Kalyānpur	2745	7888	464	0	Patharua
 Kalyānpur	2414	7736	215	0
 Kalyānpur	2412	7765	215	0
 Kalyānpur Rāhi	2796	7825	543	0
@@ -212,7 +212,7 @@ Kalyanpur	2644	8265	553	0
 Pilai Kalyānpur	2645	8266	553	0
 Kalyānpur	2647	8265	553	0
 Kalyānpur	2661	8281	154	0
-Kalyānpur Udanpur	2655	8276	553	0
+Kalyānpur Udanpur	2655	8276	553	0	Langri
 Kalyānpatti	2658	8295	647	0
 Kalyānpur	2648	8292	553	0
 Kalyānpur	2578	8158	718	0
@@ -230,7 +230,7 @@ Kalyānpur	2314	8017	598	0
 Kalyānpur Chhota	2515	8164	607	0
 Kalyānpur Bara	2516	8164	607	0
 Sarāi Kalyāndev	2593	8194	718	0
-Kalyānpur	2571	8178	607	0
+Kalyānpur	2571	8178	607	0	Bahmanpur
 Kalyānpur Khās	2573	8178	607	0
 Kalyānpur Khās	2574	8178	607	0
 Shahpur Kalyān	2567	8179	607	0

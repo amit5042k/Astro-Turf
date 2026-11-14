@@ -1,6 +1,6 @@
 Gairtganj	2341	7822	338	18184
-Gāiratganj	2341	7822	338	18184
-Gaingundaun	886	7778	191	10779
+Gāiratganj	2341	7822	338	18184	Gairtganj
+Gaingundaun	886	7778	191	10779	Gangaikondān
 Gāisilāt	2096	8332	497	0
 Gaisābād	2424	7983	521	0
 Gairi	2248	7483	130	0
@@ -8,7 +8,7 @@ Gainta	3308	7497	666	0
 Gainta	2558	7631	371	0
 Gainsarī	2753	8254	280	0
 Gaini	2835	7928	342	0
-Gainik	2835	7928	342	0
+Gainik	2835	7928	342	0	Gaini
 Gaindoli	2555	7599	353	0
 Gaik	3355	7815	2	0
 Gaik	3355	7813	2	0
@@ -17,15 +17,15 @@ Gāighāt	2799	8142	294	0
 Gaighāt	2504	8649	538	0
 Gāiba	1892	8395	252	0
 Gai	3335	7424	504	0
-Andarli Gai	3323	7408	504	0
+Andarli Gai	3323	7408	504	0	Amarli Gala
 Gaikat Gala	3318	7409	504	0
-Gaikot	3322	7409	504	0
+Gaikot	3322	7409	504	0	Baikot
 Patha ni Gai	3321	7410	504	0
 Gai	3319	7413	504	0
 Kiāni Gai	3322	7425	504	0
-Kiāli Gai	3322	7425	504	0
-Dhindheka Ghai	3314	7418	504	0
-Gai	3313	7422	504	0
+Kiāli Gai	3322	7425	504	0	Kiāni Gai
+Dhindheka Ghai	3314	7418	504	0	Chindheka Chāhi
+Gai	3313	7422	504	0	Garah ni Parāti
 Gai	3314	7434	504	0
 Ghaink	3287	7479	581	0
 Ghaink Palhwāl	3282	7483	581	0
@@ -69,7 +69,7 @@ Gaindpur	2845	7774	637	0
 Khera Gāindewāla	2951	7624	367	0
 Ghāīsain	3028	7819	448	0
 Gairīgaon	2715	8845	85	0
-Ghaintran ka Pura	2638	7836	334	0
+Ghaintran ka Pura	2638	7836	334	0	Chak Mādhopur
 Gairol	2589	7837	484	0
 Gailewāl	3093	7611	674	0
 Ghailewāl	3084	7622	674	0
@@ -115,7 +115,7 @@ Gāidongri	2081	7957	404	0
 Gāidongri	2050	7984	111	0
 Gāidongri	2020	7988	111	0
 Gaidi Māfi	2535	8042	463	0
-Gairatpur	2342	7824	338	0
+Gairatpur	2342	7824	338	0	Burhāganj
 Gailhari	2424	8107	324	0
 Gailhari	2423	8105	324	0
 Gāikhuri	2172	7855	337	0
@@ -193,8 +193,8 @@ Gainganwān	2611	8379	586	0
 Gaitra	2376	8035	351	0
 Gairtalai	2398	8086	324	0
 Gāighāt	2594	8197	718	0
-Gainda	2571	8180	607	0
-Gainda	2572	8180	607	0
+Gainda	2571	8180	607	0	Umaria Bādal
+Gainda	2572	8180	607	0	Umaria Bādal
 Gaiharpur	2564	8193	607	0
 Gainthila	3247	7569	496	0
 Gaīn	3228	7591	38	0
@@ -275,7 +275,7 @@ Gain	2920	7972	551	0
 Gaillekh	2993	7956	722	0
 Māndna ki Gair	2991	7964	722	0
 Gaighatwa	2703	8426	476	0
-Gaidanji ka Khera	2586	7437	309	0
+Gaidanji ka Khera	2586	7437	309	0	Gopālpura
 Gāiron ka Khera	2592	7438	309	0
 Gaini	2596	7441	446	0
 Gaighāt	2643	8402	535	0
@@ -303,7 +303,7 @@ Gaipānpālya	1317	7710	93	0
 Gaina	2571	8589	138	0
 Gainrā	2438	8551	473	0
 Gairā	2426	8563	764	0
-Gaithibād	2444	8570	473	0
+Gaithibād	2444	8570	473	0	Partāngo
 Gaighātti	2608	8602	591	0
 Ghaighata	2584	8600	138	0
 Gaintol	2540	8641	530	0

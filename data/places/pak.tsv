@@ -1,8 +1,8 @@
 Pakur	2464	8784	658	45840
-Pākaur	2464	8784	658	45840
+Pākaur	2464	8784	658	45840	Pakur
 Pakridayal	2656	8505	396	29582
 Pākāla	1345	7911	45	24680
-Pakal	1345	7911	45	24680
+Pakal	1345	7911	45	24680	Pākāla
 Pakhi Khanauri	2984	7611	593	14096
 Pākhar	2712	7691	708	11960
 Pākhanjur	2003	8062	704	10201
@@ -11,10 +11,10 @@ Pakribarawān	2495	8574	107	0
 Pākni	1772	7577	132	0
 Paklānggaon	2585	9326	405	0
 Pākkam	1247	7986	247	0
-Pakkam-Madurantakam	1247	7986	247	0
+Pakkam-Madurantakam	1247	7986	247	0	Pākkam
 Pākkam	1195	7896	390	0
 Pakka Kalān	3003	7486	563	0
-Pakka	3003	7486	563	0
+Pakka	3003	7486	563	0	Pakka Kalān
 Pakka	3036	7390	3	0
 Pākyong	2724	8860	739	0
 Pākhriāpura	2407	7696	336	0
@@ -54,7 +54,7 @@ Paknos	3165	7713	278	0
 Pakhāna	2979	7690	457	0
 Pakāg	3149	7738	680	0
 Pakhewāla	3045	7419	3	0
-Pākān	3040	7432	3	0
+Pākān	3040	7432	3	0	Ghumārwāla
 Pakki Tibbi	3017	7436	615	0
 Pakkhi Kalān	3075	7476	730	0
 Pakora	3150	7759	680	0
@@ -249,7 +249,7 @@ Pakharpur	3381	7477	76	0
 Pakri	2657	8218	629	0
 Purwa Pakria	2656	8223	629	0
 Pakri	2643	8210	597	0
-Pakhanpur	2638	8210	597	0
+Pakhanpur	2638	8210	597	0	Gobindpur
 Pakripur	2633	8214	597	0
 Pakhanpur	2635	8217	597	0
 Purwa Pakrihāra	2641	8220	629	0
@@ -289,7 +289,7 @@ Pakri Rasūlpur	2661	8254	553	0
 Pakri Bhojpur	2650	8268	553	0
 Pakhanpur	2653	8262	553	0
 Pakri Chhabar	2666	8267	154	0
-Pakri Misrāin	2670	8267	154	0
+Pakri Misrāin	2670	8267	154	0	Nakaha
 Pākardānd	2660	8272	154	0
 Fatehpur Pakri	2642	8253	553	0
 Pakrahia	2636	8252	553	0
@@ -326,7 +326,7 @@ Pakardiha	2710	8321	515	0
 Pakardiha	2714	8330	515	0
 Pakri	2710	8348	515	0
 Pakri Nauniān	2712	8349	515	0
-Mirzāpur Pakri	2701	8356	515	0
+Mirzāpur Pakri	2701	8356	515	0	Muhammadpur
 Pakri	2709	8357	515	0
 Pakriār Khurd	2722	8358	515	0
 Pakri	2700	8362	515	0
@@ -386,7 +386,7 @@ Pakri Khurd	2613	8351	586	0
 Pakhal	3307	7510	373	0
 Pakri	2691	8388	560	0
 Pakri Bantir	2690	8388	560	0
-Pakriār	2692	8388	560	0
+Pakriār	2692	8388	560	0	Naugaon
 Pakri Bangar	2689	8387	560	0
 Pakri	2676	8393	560	0
 Pakri	2686	8397	560	0
@@ -636,7 +636,7 @@ Pakri	2488	8440	137	0
 Pakharpur	2443	8437	118	0
 Pakrī Sohe	2429	8449	701	0
 Pakhaldhāsā	2434	8445	118	0
-Pakhālmar	2421	8426	701	0
+Pakhālmar	2421	8426	701	0	Bāghbārī
 Pakariā	2421	8429	701	0
 Pakrī	2411	8432	701	0
 Pakarīātoli	2418	8435	701	0
@@ -893,7 +893,7 @@ Pākartoli	2285	8496	321	0
 Pākut	2293	8499	321	0
 Pākartoli	2294	8495	321	0
 Pākartoli	2259	8483	495	0
-Pakkiriadappu	877	7769	191	0
+Pakkiriadappu	877	7769	191	0	Vepparkulam
 Pākkudippatti	1056	7852	198	0
 Pākkudi	1058	7866	198	0
 Pakkiritakkāl	1017	7887	198	0

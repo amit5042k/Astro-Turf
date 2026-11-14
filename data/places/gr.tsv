@@ -1,19 +1,19 @@
 Greater Noida	2850	7754	588	293908
-Maddham Gram	2269	8845	450	161126
-Granite City	2535	7262	343	54081
-Grai	1925	7278	207	29107
+Maddham Gram	2269	8845	450	161126	Madhyamgram
+Granite City	2535	7262	343	54081	Jalor
+Grai	1925	7278	207	29107	Gorai
 Khajuraho Group of Monuments	2485	7993	663	25662
 Borgolai Grant No.11	2729	9572	460	5241
 Nakhula Grant	2612	9221	751	3806
 Manu Bans Grunt	2999	7794	596	1962
-Hansāri Grid	2541	7857	433	0
+Hansāri Grid	2541	7857	433	0	Hasāri
 Grunli	2863	9600	427	0
 Griddalūru	1426	7978	6	0
 Grantung	3447	7608	8	0
 Grāmag	3201	7702	680	0
 Grāma	1298	7622	679	0
-Shānti Grāma	1298	7622	679	0
-Bhalsān Great	2232	7017	145	0
+Shānti Grāma	1298	7622	679	0	Grāma
+Bhalsān Great	2232	7017	145	0	Bhalsān Mota
 Grauri	3317	7418	504	0
 Grān	3321	7408	504	0
 Grund Gāla	3306	7426	504	0
@@ -31,7 +31,7 @@ Grahampur	2635	8987	561	0
 Merbil Grant	2731	9523	380	0
 Natanpur Grant	2501	9243	378	0
 Karaballe Grant	2500	9244	378	0
-Karbala Grant	2500	9244	378	0
+Karbala Grant	2500	9244	378	0	Karaballe Grant
 Gramadiha	2023	8568	541	0
 Gratabal	3426	7469	595	0
 Graila	3133	7725	278	0
@@ -50,8 +50,8 @@ Grahi Mājra Mīmla	2937	7731	328	0
 Grant Road Area	1896	7282	106	0
 Green Park	2856	7721	778	0
 Rāmlila Ground	2864	7723	732	0
-Gramang	3159	7804	83	0
-Rāmpur Grant	2524	8034	663	0
+Gramang	3159	7804	83	0	Katgaon
+Rāmpur Grant	2524	8034	663	0	Jhāla
 Grānt Chak	2366	7782	215	0
 Grāspur	2763	7926	688	0
 Jānkinagar Grant	2724	8181	542	0
@@ -64,7 +64,7 @@ Ganeshpur Grant	2729	8222	542	0
 Udepur Grant	2701	8217	542	0
 Patiāla Grant	2731	8229	280	0
 Kālinjar Grant	2726	8229	280	0
-Shiūpur Grant	2727	8242	280	0
+Shiūpur Grant	2727	8242	280	0	Mahūa Chārti
 Gwalio Grant	2715	8226	280	0
 Bijaipur Grant	2715	8227	280	0
 Upadhiapur Grant	2714	8226	542	0
@@ -131,15 +131,15 @@ Grindolapāli	2139	8388	567	0
 Pura Gri Tiwāri	2612	8163	718	0
 Grandasari	1657	8015	10	0
 Graddagunta	1468	8001	6	0
-Grant Number Two	2850	7999	683	0
-Grant Number One	2848	7999	683	0
+Grant Number Two	2850	7999	683	0	Bishanpur
+Grant Number One	2848	7999	683	0	Bānganj
 Grama Chaudi	1345	7485	257	0
 Griganhalli	1313	7790	389	0
 Grāmadotla	1478	7694	100	0
 Bebi Grāma	1249	7660	94	0
 Eden Vale Grant	2748	8052	507	0
 Bekāsur Grant	2749	8055	507	0
-Bajān Grant	2740	8055	507	0
+Bajān Grant	2740	8055	507	0	Girdharpur
 Grace Ville Grant	2732	8066	507	0
 Gramam	1192	7569	266	0
 Grāmam	1072	7595	150	0

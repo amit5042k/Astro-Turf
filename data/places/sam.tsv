@@ -1,9 +1,9 @@
-Chhatrapati Sambhaji Nagar	1988	7534	113	1175116
-Shamnagar	2283	8837	279	441956
-Shamnagore	2283	8837	279	441956
+Chhatrapati Sambhaji Nagar	1988	7534	113	1175116	Aurangabad
+Shamnagar	2283	8837	279	441956	Shyamnagar
+Shamnagore	2283	8837	279	441956	Shyamnagar
 Sambhal	2858	7857	646	196109
 Sambalpur	2147	8398	567	189366
-Sambalpore	2147	8398	567	189366
+Sambalpore	2147	8398	567	189366	Sambalpur
 Shāmli	2945	7731	328	97966
 Samāstipur	2586	8578	138	67925
 Sāmalkot	1706	8218	269	56864
@@ -15,22 +15,22 @@ Sāmba	3256	7512	720	26893
 Shamsābād	2754	7944	688	25266
 Shāmgarh	2419	7564	580	24637
 Sāmbhar	2691	7519	121	22828
-Sambhar Lake	2691	7519	121	22828
+Sambhar Lake	2691	7519	121	22828	Sāmbhar
 Samthar	2584	7891	433	21582
 Sāmalāpuram	1107	7720	156	20691
 Sāmpla	2878	7677	719	20563
 Samrāla	3084	7619	674	19678
 Samdari	2581	7258	285	17915
 Samālka	2853	7709	721	17076
-Sambhalka	2853	7709	721	17076
+Sambhalka	2853	7709	721	17076	Samālka
 Sāmbūrvadakara	900	7739	245	16709
-Sambavar Vadagarai	900	7739	245	16709
+Sambavar Vadagarai	900	7739	245	16709	Sāmbūrvadakara
 Samurou	2470	9390	416	16582
 Samsikāpuram	942	7759	119	14601
-Shamsherkhānpuram	942	7759	119	14601
-Samusigapuram	942	7759	119	14601
+Shamsherkhānpuram	942	7759	119	14601	Samsikāpuram
+Samusigapuram	942	7759	119	14601	Samsikāpuram
 Sāmbre	1587	7461	77	13159
-Sambra	1587	7461	77	13159
+Sambra	1587	7461	77	13159	Sāmbre
 Samarvarni	2026	7301	233	12553
 Shamsābād	2381	7750	215	11329
 Kheri Sāmpla	2878	7678	719	10891
@@ -46,14 +46,14 @@ Shām Churāsi	3150	7575	296	4426
 Samrāri	3110	7586	369	2024
 Shāmpur	3108	7566	369	654
 Yume Samdong	2791	8871	27	0
-Mome Samdong	2791	8871	27	0
+Mome Samdong	2791	8871	27	0	Yume Samdong
 Shamaspur Kalān	3000	7732	449	0
-Shamspur	3000	7732	449	0
+Shamspur	3000	7732	449	0	Shamaspur Kalān
 Shamaspur	2717	8030	686	0
-Shamspur	2717	8030	686	0
+Shamspur	2717	8030	686	0	Shamaspur
 Shamshernagar	2509	8446	137	0
 Shamsgarh	2313	7733	687	0
-Shāmpura	2615	7651	116	0
+Shāmpura	2615	7651	116	0	Shyāmpura
 Shāmpura	2526	7527	309	0
 Shāmpura	2401	7605	347	0
 Shāmpur	2636	7715	447	0
@@ -65,7 +65,7 @@ Shām Nagar	3177	7503	222	0
 Shāmhu	2530	8622	530	0
 Shamgaon	1740	7426	64	0
 Shambhugarh	2581	7442	309	0
-Sambogarh	2581	7442	309	0
+Sambogarh	2581	7442	309	0	Shambhugarh
 Samra	2447	7755	410	0
 Samuja	2584	7283	285	0
 Samudrapur	2064	7896	143	0
@@ -84,10 +84,10 @@ Samou Motawās	2409	7210	134	0
 Samot	3337	7460	504	0
 Samoda	2128	8207	310	0
 Sāmod	2720	7581	121	0
-Samode	2720	7581	121	0
+Samode	2720	7581	121	0	Sāmod
 Samnāpur	2275	8110	468	0
 Samnāpur	2194	8016	144	0
-Samuāpur	2194	8016	144	0
+Samuāpur	2194	8016	144	0	Samnāpur
 Samloti	3208	7635	38	0
 Samla	2264	7176	28	0
 Samjhia	2552	8876	25	0
@@ -105,7 +105,7 @@ Samaul	2630	8545	582	0
 Sāmat	2166	7386	254	0
 Samaruma	2208	8334	439	0
 Sāmar Gopālpur Khurd	2895	7653	719	0
-Sāmar Gopālpur	2895	7653	719	0
+Sāmar Gopālpur	2895	7653	719	0	Sāmar Gopālpur Khurd
 Samardānga	2687	8847	573	0
 Samarda Kaliāsot	2312	7750	687	0
 Samarda	2333	7758	687	0
@@ -115,10 +115,10 @@ Samālsar	3064	7500	499	0
 Samalpur	2520	8805	412	0
 Sāmalpatti	1231	7848	223	0
 Shāmlālji	2369	7339	125	0
-Samlaji	2369	7339	125	0
-Sāmālji	2369	7339	125	0
+Samlaji	2369	7339	125	0	Shāmlālji
+Sāmālji	2369	7339	125	0	Shāmlālji
 Samelia	2573	7417	572	0
-Samalia	2573	7417	572	0
+Samalia	2573	7417	572	0	Samelia
 Samal	2107	8514	414	0
 Sāmākhiāli	2330	7051	108	0
 Samailya	2377	8733	361	0
@@ -129,11 +129,11 @@ Samādhiāla	2129	7189	168	0
 Samādh Bhai	3060	7515	499	0
 Sāma	2997	8003	722	0
 Sām	2683	7051	217	0
-Sāmkheda	2296	7858	522	0
+Sāmkheda	2296	7858	522	0	Sāīnkhera
 Dolma Sampa	2788	8838	27	0
-Sāmuguting	2578	9378	753	0
+Sāmuguting	2578	9378	753	0	Chimakudi
 Samandsar	2817	7385	307	0
-Shāmpuro	2827	7491	539	0
+Shāmpuro	2827	7491	539	0	Shyāmpura
 Shamsheipur	2290	8807	279	0
 Samāh	3296	7467	581	0
 Chak Shamān	3283	7474	581	0
@@ -145,10 +145,10 @@ Samāni	2992	7691	501	0
 Sambhālka	2961	7693	457	0
 Garhi Sāmpla	2876	7677	719	0
 Shāme Chak	3251	7491	720	0
-Chak Shāma	3251	7491	720	0
-Sampūrahpur Kuliān	3268	7479	581	0
+Chak Shāma	3251	7491	720	0	Shāme Chak
+Sampūrahpur Kuliān	3268	7479	581	0	Suparāhpur Kūlīān
 Samundar Bāgh	3273	7483	581	0
-Samandar Bāgh	3273	7483	581	0
+Samandar Bāgh	3273	7483	581	0	Samundar Bāgh
 Sāmar	3451	7620	8	0
 Samchurche	3453	7649	8	0
 Samet	3049	7790	448	0
@@ -200,7 +200,7 @@ Sampur	2689	7974	570	0
 Samāu	2662	7982	671	0
 Shambharpur Sheoli	2655	7999	671	0
 Samreta	2457	7913	663	0
-Samdu Manhāspur	3247	7492	720	0
+Samdu Manhāspur	3247	7492	720	0	Ssmdu Menhāspur
 Shamla Hills	2324	7738	687	0
 Shāmaguri	2641	8991	713	0
 Sardar Samand	2598	7338	273	0
@@ -208,7 +208,7 @@ Nainsar Samerivān	2869	7418	539	0
 Shamtorr	2606	9488	41	0
 Samdāha	2792	8103	323	0
 Samabiyong	2707	8863	492	0
-Samabyong	2707	8863	492	0
+Samabyong	2707	8863	492	0	Samabiyong
 Samsē	1318	7532	98	0
 Samugarangapuram	838	7761	697	0
 Samardarha	2155	8351	497	0
@@ -363,7 +363,7 @@ Samadkheri	2481	7624	333	0
 Samrāi	2453	7608	333	0
 Shambhūpura	2509	7464	417	0
 Samāun	3008	7554	709	0
-Samandgarh	3003	7562	709	0
+Samandgarh	3003	7562	709	0	Khiwa Mihān Singhwāla
 Samarthi	2956	7780	545	0
 Shamsho	2965	7791	545	0
 Sambalhera	2933	7792	545	0
@@ -634,7 +634,7 @@ Shamsherpur	2477	8314	724	0
 Shāmpur	2113	7742	133	0
 Sāmbora	2135	7785	133	0
 Shamsherpur	2076	7730	172	0
-Samda	2460	8316	103	0
+Samda	2460	8316	103	0	Bahera
 Sāmewāra	2109	7989	404	0
 Samelwa	2440	8341	103	0
 Shamla Dīh	2418	8340	743	0
@@ -649,7 +649,7 @@ Samda	2408	8380	743	0
 Shambelli	1813	7747	170	0
 Sāmbar Lori	1968	7813	140	0
 Shambupuram	1756	7837	311	0
-Samarwas	2787	7628	482	0
+Samarwas	2787	7628	482	0	Sherpur
 Shampur	2785	7628	482	0
 Samnāpur	2329	7818	338	0
 Sāminpet	1630	7846	467	0
@@ -827,7 +827,7 @@ Shambu Khera	2642	8116	681	0
 Samar Khera	2649	8120	681	0
 Sambar Singh Purwa	2639	8132	681	0
 Samrahda	2631	8139	681	0
-Shamsābād	2910	7900	552	0
+Shamsābād	2910	7900	552	0	Khabaria
 Shamshera	2631	8177	662	0
 Purwa Shamsherali	2643	8188	597	0
 Sāmu Purwa	2626	8198	597	0
@@ -853,7 +853,7 @@ Samdhāna	2801	7975	470	0
 Sāmāpur Newāda	2593	8128	681	0
 Samānpur	2576	8143	718	0
 Abdul Samadpur	2584	8144	718	0
-Samāpur	2584	8144	718	0
+Samāpur	2584	8144	718	0	Abdul Samadpur
 Shamspur Patauna	2593	8139	681	0
 Shamspur Khālsa	2598	8142	681	0
 Allāhpur Shamspur	2834	7870	117	0
@@ -985,7 +985,7 @@ Samya	2696	8281	154	0
 Samantha	2698	8292	647	0
 Pura Sambhu	2660	8277	154	0
 Shamspur	2653	8284	553	0
-Shamshuddīnpur	2653	8284	553	0
+Shamshuddīnpur	2653	8284	553	0	Shamspur
 Shamsuddīnpur	2591	8331	498	0
 Samunahar	2579	8332	26	0
 Samauddīnpur	2590	8335	586	0
@@ -1005,7 +1005,7 @@ Samdhāwa	2721	8300	292	0
 Samogar	2703	8309	647	0
 Shamashpur	3376	7509	148	0
 Samepur	2590	8174	718	0
-Sambhūnagar	2595	8165	718	0
+Sambhūnagar	2595	8165	718	0	Naya Purwa
 Samda	2691	8307	647	0
 Samda	2700	8306	647	0
 Samdaha	2685	8309	647	0
@@ -1023,7 +1023,7 @@ Samdipur	2626	8321	498	0
 Samadpur	2641	8324	325	0
 Shambhupur	2614	8311	498	0
 Sameda	2601	8323	498	0
-Shām Deurwa	2688	8346	325	0
+Shām Deurwa	2688	8346	325	0	Lāl Karauna
 Tola Samai	2699	8340	515	0
 Purwa Shiu Sampat	2667	8346	325	0
 Shamsh Patti	2641	8326	325	0
@@ -1448,7 +1448,7 @@ Shāmpur	2629	8468	703	0
 Shāmpur	2619	8464	639	0
 Shāmpur Khap	2620	8466	639	0
 Samaria	2882	7965	342	0
-Utarsia Samukhia	2883	7964	342	0
+Utarsia Samukhia	2883	7964	342	0	Bhūriān
 Shāmpur	2680	8484	396	0
 Shāmpur	2693	8494	396	0
 Sambhu	2667	8479	396	0

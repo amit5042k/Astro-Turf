@@ -1,20 +1,20 @@
 Lauri	2514	8000	663	22002
-Laundi	2514	8000	663	22002
+Laundi	2514	8000	663	22002	Lauri
 Laungowāl	3019	7568	593	21880
 Laukāha	2603	8665	426	10689
 Lāu	2495	8488	118	5933
 Lauriyā Nandangarh	2699	8440	476	0
-Lauriya	2699	8440	476	0
+Lauriya	2699	8440	476	0	Lauriyā Nandangarh
 Laurhia Khurd	2486	8707	605	0
-Laurhia Khuro	2486	8707	605	0
+Laurhia Khuro	2486	8707	605	0	Laurhia Khurd
 Lāumunda	2108	8339	497	0
 Laul	1804	7539	132	0
 Laukāhi	2817	8140	294	0
 Laukāhi	2648	8657	556	0
 Laukāha	2655	8647	556	0
 Laua Dīh	2565	8384	26	0
-Laü	2550	9439	112	0
-Lauiāngdong	2463	9376	505	0
+Laü	2550	9439	112	0	Gaziphema
+Lauiāngdong	2463	9376	505	0	Bishenpur
 Binaika Laung	2486	7832	384	0
 Laundpur	2716	7938	464	0
 Laungpur	2691	7904	290	0
@@ -52,8 +52,8 @@ Laumar	2576	8056	463	0
 Lauliti ka Mau	2544	8060	463	0
 Laulāch	2471	8109	324	0
 Laulāch	2472	8110	324	0
-Lauwa	2464	8138	516	0
-Lauwa	2463	8136	516	0
+Lauwa	2464	8138	516	0	Lakshmanpur
+Lauwa	2463	8136	516	0	Lakshmanpur
 Lauri	2483	8164	516	0
 Lauri	2482	8162	516	0
 Lauri	2481	8163	516	0
@@ -67,7 +67,7 @@ Lauria	2503	8270	201	0
 Launmati	2493	8209	607	0
 Laua	2449	8217	672	0
 Purwa Lāupatak	2609	8082	681	0
-Muhammadpur Lauhri	2901	7822	483	0
+Muhammadpur Lauhri	2901	7822	483	0	Lahudda
 Laukāhi	2777	8124	323	0
 Lauki	2767	8112	507	0
 Lauki Purwa	2767	8120	507	0
@@ -119,7 +119,7 @@ Purwa Lautan	2665	8200	629	0
 Purwa Lautan	2634	8203	597	0
 Purwa Lautan	2631	8205	597	0
 Lauhar Dakhin	2623	8201	597	0
-Lauri	2519	8125	643	0
+Lauri	2519	8125	643	0	Lukhri
 Lauhān Khurd	2578	8309	498	0
 Laua	2607	8236	597	0
 Launda	2604	8247	32	0
@@ -255,7 +255,7 @@ Laudah	2444	8789	361	0
 Lautan	2599	8559	395	0
 Launkātoli	2288	8510	432	0
 Karka Laugar	2282	8537	287	0
-Lauābār	2310	8414	321	0
+Lauābār	2310	8414	321	0	Lawābār
 Lauākhār	2368	8450	707	0
 Launga	2283	8478	321	0
 Laupāni	2190	8550	293	0

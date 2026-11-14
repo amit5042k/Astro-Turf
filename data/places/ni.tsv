@@ -1,20 +1,20 @@
 Nizāmābād	1867	7810	75	311152
 Dinapur Nizamat	2564	8505	604	182429
 Nimach	2446	7487	601	128561
-Neemuch	2446	7487	601	128561
+Neemuch	2446	7487	601	128561	Nimach
 Nirmal	1910	7834	360	88433
 Neelankarai	1295	8026	247	76600
 Nipāni	1640	7438	90	62865
-Nimpani	1640	7438	90	62865
+Nimpani	1640	7438	90	62865	Nipāni
 Nīmbāhera	2462	7468	417	61949
 Nithari	2870	7705	689	50464
 Nihtaur	2932	7839	575	48389
 Nilambūr	1127	7623	150	46366
-Nilambur Taluk	1127	7623	150	46366
+Nilambur Taluk	1127	7623	150	46366	Nilambūr
 Nidadavole	1691	8167	87	44173
-Nidadavol	1691	8167	87	44173
+Nidadavol	1691	8167	87	44173	Nidadavole
 Nilithi	2865	7706	771	43371
-Nilothi	2865	7706	771	43371
+Nilothi	2865	7706	771	43371	Nilithi
 Nildoh	2111	7899	141	38157
 Gharonda Neemka Bangar	2862	7729	794	37876
 Niwai	2636	7592	313	37765
@@ -23,31 +23,31 @@ Nilanga	1812	7675	158	36172
 Nīlēshwar	1226	7514	305	25405
 Nivāri	2535	7880	529	23724
 Nilakottai	1016	7785	187	22197
-Nilakkottai-Madura	1016	7785	187	22197
+Nilakkottai-Madura	1016	7785	187	22197	Nilakottai
 Nīmāj	2615	7400	273	20424
-Nimbāj	2615	7400	273	20424
+Nimbāj	2615	7400	273	20424	Nīmāj
 Nirmāli	2631	8659	426	20189
 Nimāparha	2006	8600	603	19289
-Nimapāra	2006	8600	603	19289
+Nimapāra	2006	8600	603	19289	Nimāparha
 Nīlokheri	2984	7693	457	17938
-Nilokhera	2984	7693	457	17938
-Nīlū Kheri	2984	7693	457	17938
+Nilokhera	2984	7693	457	17938	Nīlokheri
+Nīlū Kheri	2984	7693	457	17938	Nīlokheri
 Nichlaul	2731	8373	515	17567
 Nīsang	2969	7675	457	17438
-Nissing	2969	7675	457	17438
+Nissing	2969	7675	457	17438	Nīsang
 Nilagiri	2146	8677	421	17264
-Raj Nilgiri	2146	8677	421	17264
-Nīlgiri	2146	8677	421	17264
+Raj Nilgiri	2146	8677	421	17264	Nilagiri
+Nīlgiri	2146	8677	421	17264	Nilagiri
 Neelagiri	1076	7909	264	16197
-Nij Hājo	2625	9153	636	15977
+Nij Hājo	2625	9153	636	15977	Hājo
 Niz-Hajo	2625	9152	636	15188
 Nirsā	2378	8671	401	14794
 Nilaiyūr	986	7806	274	14684
-Nilaiyur I Bit	986	7806	274	14684
+Nilaiyur I Bit	986	7806	274	14684	Nilaiyūr
 Nizāmābād	2605	8306	498	13895
 Ningthoukhong	2457	9376	505	13078
 Jitwārpur Nizāmat	2585	8580	138	10568
-Niagurhi	2479	8178	516	10404
+Niagurhi	2479	8178	516	10404	Naīgarhi
 Niwāri	2888	7754	727	10330
 Needamangalam	1077	7942	267	9336
 Nīlpur	3047	7658	564	8391
@@ -61,72 +61,72 @@ Kewas Nizamat	2583	8586	138	6599
 Niz - Mankata	2746	9492	380	5924
 Niz Katigorah Pt III	2488	9257	378	5687
 Nīramārgar	1289	7492	55	5503
-Neermarga	1289	7492	55	5503
+Neermarga	1289	7492	55	5503	Nīramārgar
 Niz-Bahjani	2638	9142	758	5183
 Kotla Nihang	3095	7654	735	4715
 Nihālpur Simba	3262	7478	581	3869
 Nimabalia	2265	8811	354	2654
 Gorsiān Nihāl	3103	7558	369	733
-Gursian Nihal	3103	7558	369	733
+Gursian Nihal	3103	7558	369	733	Gorsiān Nihāl
 Zamin Nischinta	2530	8863	25	0
-Vadgaon-Nimbalkar	1813	7436	52	0
+Vadgaon-Nimbalkar	1813	7436	52	0	Wadgaon
 Srī Niketan	2367	8766	361	0
 Shānti Niketan	2368	8769	361	0
-Nisampi	2551	9355	533	0
-Niaga-tso	3401	7891	2	0
-Ni-ya-ko-tsu	3401	7891	2	0
-Niagsu	3401	7891	2	0
-Niagzu	3401	7891	2	0
-Nisu	3401	7891	2	0
+Nisampi	2551	9355	533	0	Pasompui
+Niaga-tso	3401	7891	2	0	Nyagzu
+Ni-ya-ko-tsu	3401	7891	2	0	Nyagzu
+Niagsu	3401	7891	2	0	Nyagzu
+Niagzu	3401	7891	2	0	Nyagzu
+Nisu	3401	7891	2	0	Nyagzu
 Nizau	2745	9263	523	0
 Nizāmpur	2978	7355	374	0
 Nizāmpur	1832	7330	17	0
 Nizāmpet	1809	7788	31	0
 Nizampatnam	1590	8067	220	0
-Nizāmpatam	1590	8067	220	0
+Nizāmpatam	1590	8067	220	0	Nizampatnam
 Nizāmghāt	2828	9571	434	0
-Nizāinghāt	2828	9571	434	0
+Nizāinghāt	2828	9571	434	0	Nizāmghāt
 Nizāmābād	1654	7866	467	0
 Nivāli	2168	7492	248	0
 Nituria	2363	8682	415	0
 Nitūr	1824	7678	158	0
 Nittūr	1332	7686	93	0
 Nitrūd	1902	7619	33	0
-Nitrūr	1902	7619	33	0
+Nitrūr	1902	7619	33	0	Nitrūd
 Nīthrāna	2923	7503	486	0
 Nithor	2696	7704	114	0
 Nisha	2092	8500	414	0
 Nischu	3452	7911	2	0
-Nisichu	3452	7911	2	0
+Nisichu	3452	7911	2	0	Nischu
 Nisarpur	2211	7481	130	0
-Nisarpura	2211	7481	130	0
+Nisarpura	2211	7481	130	0	Nisarpur
 Nisāpui	2394	9277	526	0
-Nirvāda	2130	7535	78	0
+Nirvāda	2130	7535	78	0	Virvāda
 Niruna	2363	6952	108	0
 Niru	3456	7503	120	0
 Nirpar	2063	7340	221	0
-Nirpan	2063	7340	221	0
+Nirpan	2063	7340	221	0	Nirpar
 Nirmāli	2312	7306	167	0
 Nirmal	1940	7277	192	0
 Nirgundihi	2186	8409	627	0
 Nirgunda	1729	7738	71	0
 Nirgājni	2952	7787	545	0
 Nirbāna	2949	7377	374	0
-Niraun	2680	7147	217	0
+Niraun	2680	7147	217	0	Nerān
 Niranjanpur	2517	8455	766	0
 Nirancal	1536	7409	188	0
 Nirākārpur	1998	8555	541	0
-Nirākārpur Patna	1998	8555	541	0
+Nirākārpur Patna	1998	8555	541	0	Nirākārpur
 Niphād	2008	7411	54	0
 Nipāni Dongri	2158	7973	525	0
 Nipāniya	2462	7687	506	0
-Nipānia	2462	7687	506	0
+Nipānia	2462	7687	506	0	Nipāniya
 Nipania	2185	8203	379	0
 Nīpal	2540	7353	273	0
 Nior Nis	3343	7820	2	0
 Nioku	2793	9412	761	0
 Ninor	2364	7487	633	0
-Ninore	2364	7487	633	0
+Ninore	2364	7487	633	0	Ninor
 Ninguani	2331	8200	225	0
 Ningru	2763	9589	767	0
 Ninging	2895	9483	392	0
@@ -135,68 +135,68 @@ Nindali	1411	7970	45	0
 Nīndakara	895	7654	549	0
 Nināwad	2337	7622	314	0
 Nimu	3420	7734	2	0
-Nima	3420	7734	2	0
+Nima	3420	7734	2	0	Nimu
 Nimtita	2465	8803	471	0
 Nimsod	1745	7446	64	0
 Nīmsākhar	1803	7477	52	0
-Nimskhar	1803	7477	52	0
+Nimskhar	1803	7477	52	0	Nīmsākhar
 Nīmbri Chāndāwatān	2693	7393	430	0
-Nīmri	2693	7393	430	0
+Nīmri	2693	7393	430	0	Nīmbri Chāndāwatān
 Nīmpāni	2208	7787	462	0
 Nimora	2651	7552	121	0
 Nimora	2113	8173	310	0
 Nimon	1971	7419	152	0
 Nimod	2386	7504	580	0
-Nimbod	2386	7504	580	0
+Nimbod	2386	7504	580	0	Nimod
 Nimnan	2398	8286	525	0
 Nimmakhandipenth	1935	8447	440	0
-Nimmokhondipentho	1935	8447	440	0
-Nimla	1911	7685	153	0
+Nimmokhondipentho	1935	8447	440	0	Nimmakhandipenth
+Nimla	1911	7685	153	0	Limla
 Nīmkhera	2244	7520	130	0
 Nīm Ka Khera	2534	7548	353	0
 Nimia Dīh	2419	8327	103	0
 Nimiya	2219	7761	462	0
-Nīmia Dhāna	2219	7761	462	0
-Nīmia	2219	7761	462	0
+Nīmia Dhāna	2219	7761	462	0	Nimiya
+Nīmia	2219	7761	462	0	Nimiya
 Nīmgaon	2044	7456	54	0
 Nimgachi	2497	8775	461	0
 Nimera	2752	7553	491	0
 Nimbola	2137	7626	29	0
 Nimod	2725	7479	430	0
-Nimbod	2725	7479	430	0
+Nimbod	2725	7479	430	0	Nimod
 Nimbli Uda	2588	7334	273	0
-Nimbli Vda	2588	7334	273	0
+Nimbli Vda	2588	7334	273	0	Nimbli Uda
 Nīmblāna	2544	7246	343	0
 Nimbi Jodhān	2753	7434	430	0
 Nimbhora Budrukh	2117	7597	78	0
-Nimbhora Buzurg	2117	7597	78	0
-Nimbhora	2117	7597	78	0
+Nimbhora Buzurg	2117	7597	78	0	Nimbhora Budrukh
+Nimbhora	2117	7597	78	0	Nimbhora Budrukh
 Nīmbgaon Ketki	1808	7491	52	0
 Nimbgaon Jāli	1957	7438	152	0
 Nimbgaon	1857	7514	152	0
 Nimbāvās	2500	7215	343	0
-Nīmbāwa	2500	7215	343	0
+Nīmbāwa	2500	7215	343	0	Nimbāvās
 Nimbavda	1746	7485	65	0
 Nimbarga	1739	7659	71	0
-Nimberga	1739	7659	71	0
+Nimberga	1739	7659	71	0	Nimbarga
 Nimbāl Khurd	1710	7585	80	0
 Nimbāl Buzurg	1710	7585	80	0
 Nimbala	1806	7676	158	0
 Nimbāl	2610	7485	446	0
 Nimbal	1739	7639	90	0
-Nimbala	1739	7639	90	0
+Nimbala	1739	7639	90	0	Nimbal
 Nimbāl	1710	7585	80	0
 Nimbagallu	1489	7721	100	0
-Nīmba	1910	7644	153	0
+Nīmba	1910	7644	153	0	Limba
 Nimb	1779	7401	64	0
 Nīma	2846	7548	539	0
-Niman	2846	7548	539	0
+Niman	2846	7548	539	0	Nīma
 Nimakhandipenta	1937	8447	440	0
 Nīvaj	2473	7244	23	0
-Nimach	2473	7244	23	0
+Nimach	2473	7244	23	0	Nīvaj
 Nilvala	2192	7130	216	0
 Nilsar	2544	7129	285	0
-Nilogi	1706	7661	71	0
+Nilogi	1706	7661	71	0	Nelogi
 Nilkund	1445	7470	59	0
 Nilkat	1850	7628	158	0
 Nīlkanth	2565	7271	343	0
@@ -206,17 +206,17 @@ Nīlgāon	2724	8094	507	0
 Nīleswaram	1233	7510	305	0
 Nilamel	882	7688	549	0
 Nilāmbāzār	2475	9235	624	0
-Nilamsbazar	2475	9235	624	0
+Nilamsbazar	2475	9235	624	0	Nilāmbāzār
 Nikursīni	2200	8730	677	0
 Nikurān	2944	7637	367	0
 Nīkūm	2456	7449	417	0
 Niktak	2796	9387	39	0
 Nīkoda Mota	2351	7304	212	0
-Nikora	2351	7304	212	0
-Nikora Mota	2351	7304	212	0
+Nikora	2351	7304	212	0	Nīkoda Mota
+Nikora Mota	2351	7304	212	0	Nīkoda Mota
 Nikora	2177	7312	151	0
 Nikāva	2219	7053	145	0
-Nikāra	2219	7053	145	0
+Nikāra	2219	7053	145	0	Nikāva
 Nij Nārājol	2257	8762	677	0
 Nij Lāluk	2712	9393	355	0
 Nijhar	2148	7420	127	0
@@ -225,31 +225,31 @@ Nihāl Singhwāla	3059	7528	499	0
 Nihālpur	2706	7673	708	0
 Nihāl Khera	3023	7413	3	0
 Nihālāmba	2162	7480	248	0
-Nibālāmba	2162	7480	248	0
+Nibālāmba	2162	7480	248	0	Nihālāmba
 Nigudghar	1811	7373	52	0
 Nigri	2415	8192	631	0
 Nigari	2304	7991	598	0
-Nigri	2304	7991	598	0
+Nigri	2304	7991	598	0	Nigari
 Nigri	1765	7420	64	0
 Nigohi	2811	7987	470	0
 Nigohān	2656	8103	714	0
 Nighoj	1896	7428	152	0
 Nighwa	1919	7786	360	0
-Nighaw	1919	7786	360	0
+Nighaw	1919	7786	360	0	Nighwa
 Nighāsan	2824	8086	323	0
-Nighasin	2824	8086	323	0
+Nighasin	2824	8086	323	0	Nighāsan
 Nigda	1720	7389	64	0
 Nigaria	2285	7450	348	0
 Nigan	2351	8799	375	0
 Nidumolu	1627	8103	68	0
 Nidugal	1415	7709	93	0
 Nidubrolu	1607	8057	319	0
-Niduorolu	1607	8057	319	0
+Niduorolu	1607	8057	319	0	Nidubrolu
 Nidni	1768	7732	170	0
 Nidjapla	1785	7788	31	0
 Nidgundi	1636	7593	80	0
 Nidagundi	1566	7586	606	0
-Nidgundi	1566	7586	606	0
+Nidgundi	1566	7586	606	0	Nidagundi
 Nichuguard	2581	9378	753	0
 Nichinai	3435	7518	547	0
 Nibua Raiganj	2707	8389	560	0
@@ -259,15 +259,15 @@ Nibhora	2290	7850	590	0
 Niaunyu	2685	9532	698	0
 Niāli	2014	8606	303	0
 Niāla Kondapalle	1710	8005	46	0
-Niāla Kondapalli	1710	8005	46	0
+Niāla Kondapalli	1710	8005	46	0	Niāla Kondapalle
 Nīăl	2997	7607	564	0
-Nitrang	2164	7336	151	0
-Nira Narsingpur	1797	7513	52	0
-Nīmkhār	2735	8049	507	0
-Nimsar	2735	8049	507	0
+Nitrang	2164	7336	151	0	Netrang
+Nira Narsingpur	1797	7513	52	0	Narsingpur
+Nīmkhār	2735	8049	507	0	Naimishāranya
+Nimsar	2735	8049	507	0	Naimishāranya
 Mel Nīlidanallūr	911	7760	245	0
-Dev-ni-Mori	2366	7338	125	0
-Nimkhera	2330	7804	338	0
+Dev-ni-Mori	2366	7338	125	0	Devani Mori
+Nimkhera	2330	7804	338	0	Āmkhera
 Nimrāsar	2880	7460	539	0
 Nilarpur	2278	8812	279	0
 Nilgani	2276	8844	450	0
@@ -281,7 +281,7 @@ Taki-i-Nizām	3410	7490	611	0
 Nishāt	3412	7488	611	0
 Nirhad	3376	7418	1	0
 NiganāI	3339	7424	504	0
-Niganār	3339	7424	504	0
+Niganār	3339	7424	504	0	NiganāI
 Nīlīpur	3445	7425	0	0
 Nichahom	3439	7414	0	0
 Nildogar	3439	7419	0	0
@@ -289,18 +289,18 @@ Nildori	3434	7410	0	0
 Nilāh	3417	7452	301	0
 Nihālpur	3415	7452	301	0
 Ningarpur	3411	7450	301	0
-Ningapur	3411	7450	301	0
+Ningapur	3411	7450	301	0	Ningarpur
 Nijul	3404	7465	76	0
 Nihāle Shāh da Mohalla	3294	7456	581	0
 Nilli Dabbi	3324	7417	504	0
-Uparlal Niāla	3322	7415	504	0
+Uparlal Niāla	3322	7415	504	0	Upanta Thala
 Patha ni Gai	3321	7410	504	0
 Lohāran ni Pati	3316	7417	504	0
 Garah ni Parāti	3313	7422	504	0
 Nīlādab	3303	7446	504	0
 Nīli	3300	7446	581	0
 Nikkār	3282	7450	581	0
-Nikkiat	3282	7450	581	0
+Nikkiat	3282	7450	581	0	Nikkār
 Nīūn Bān	3298	7487	666	0
 Nikki Seri	3284	7491	581	0
 Nizāmpur	3065	7603	674	0
@@ -312,7 +312,7 @@ Nibāli	3273	7490	581	0
 Nīmānārāyan	2819	7471	539	0
 Nimbu Tonk	2824	7397	307	0
 Nizāmpur	2974	7729	449	0
-Nīrāisi	2958	7748	545	0
+Nīrāisi	2958	7748	545	0	Qādirgarh
 Niwāria	2581	7551	313	0
 Nizāmpur	2945	7698	298	0
 Niwāzpur	2811	7609	694	0
@@ -322,7 +322,7 @@ Nichla Kāngti	3119	7708	479	0
 Nigāna	2977	7874	612	0
 Nizāmpet	1716	7801	210	0
 Niralapalli	1726	7873	62	0
-Nimarugomla	1748	7873	129	0
+Nimarugomla	1748	7873	129	0	Nemargomla
 Nirmata	1701	7898	101	0
 Nintūr	1781	7860	466	0
 Nizāmpet	1752	7838	311	0
@@ -380,17 +380,17 @@ Niwari	2699	7914	290	0
 Nihālpur	2697	7921	464	0
 Nigo Ekārpur	2676	7917	290	0
 Nigo Buāpur	2676	7915	290	0
-Nigoh	2676	7915	290	0
+Nigoh	2676	7915	290	0	Nigo Buāpur
 Adda Nihāl	2676	7905	290	0
 Nib Sai	2693	7911	290	0
-Nibhāsai	2693	7911	290	0
+Nibhāsai	2693	7911	290	0	Nib Sai
 Nināwa	2677	7917	290	0
 Nibri	2647	7925	290	0
 Ninaoli	2638	7915	741	0
 Nithārwāla ki Dhāni	2698	7554	121	0
 Niwāru	2697	7571	121	0
 Nimnara	2690	7563	121	0
-Nīmera	2690	7563	121	0
+Nīmera	2690	7563	121	0	Nimnara
 Niota	2680	7568	121	0
 Nināwali	2639	7931	741	0
 Kothi Nināwali	2638	7931	741	0
@@ -401,11 +401,11 @@ Pia Niranjanpur	2604	7943	741	0
 Nibūja	2567	7905	433	0
 Niswāra	2543	7942	614	0
 Nizāmpur	2697	7955	570	0
-Niwāzpur	2684	7951	715	0
+Niwāzpur	2684	7951	715	0	Narāyanpur Sahār
 Nihālābād	2685	7956	715	0
 Purwa Nikāri	2689	7972	570	0
 Nibhār	2680	7966	715	0
-Nibhu	2671	7982	671	0
+Nibhu	2671	7982	671	0	Deogaon Chakkar
 Nigohya	2658	7986	671	0
 Nijāmatpur	2652	7998	671	0
 Niwāwari	2493	7921	481	0
@@ -423,7 +423,7 @@ Neemuch	2425	7491	601	0
 Nilai Jhora	2640	8994	713	0
 Nidagatta	1340	7604	98	0
 Nīmla	2900	7456	486	0
-Niranjanpur Fattuwal	3155	7521	222	0
+Niranjanpur Fattuwal	3155	7521	222	0	Fatehwāl
 Nij Charāibāhi	2629	9245	751	0
 Niausao	2682	9528	698	0
 Niāmatpur	2622	7955	741	0
@@ -495,7 +495,7 @@ Nira	3136	7719	278	0
 Nikri Dudhi	3463	7403	0	0
 Nīldat	3456	7406	0	0
 Niulkala	3473	7439	0	0
-Chak Twenty Nine GB	2924	7352	374	0
+Chak Twenty Nine GB	2924	7352	374	0	Bijainagar
 Chak Twnenty Nine M L	2965	7377	374	0
 Chak Thirty Nine L N P	2966	7379	374	0
 Chak Seventy Nine L N P	2950	7379	374	0
@@ -536,7 +536,7 @@ Nimbora	2776	7664	482	0
 Nīmlāka	2797	7674	482	0
 Nirbalpura	2742	7652	482	0
 Nithāri	2743	7670	482	0
-Nirpālpur	3002	7746	449	0
+Nirpālpur	3002	7746	449	0	Domwāla
 Nigāli	3068	7763	534	0
 Niwa	3063	7774	534	0
 Nigāli	3058	7773	534	0
@@ -561,12 +561,12 @@ Nichuniya	2671	7629	708	0
 Nizāmpura	2665	7629	708	0
 Nijharna	2657	7627	708	0
 Nimwāj	2667	7644	708	0
-Islāmpur Nimdās	2936	7817	575	0
+Islāmpur Nimdās	2936	7817	575	0	Jalālpur
 Nijābatpura	2926	7812	575	0
-Mazra Jalālpur Nila	2927	7803	545	0
+Mazra Jalālpur Nila	2927	7803	545	0	Nayāgaon
 Nidhānpuri	2925	7804	700	0
 Nīlāwāla	2926	7804	545	0
-Jalālpur Nīla	2926	7804	545	0
+Jalālpur Nīla	2926	7804	545	0	Nīlāwāla
 Nimma ki Dhāni	2819	7501	491	0
 Nīma ka Bās	2849	7543	539	0
 Niranjanpur	2970	7811	596	0
@@ -619,7 +619,7 @@ Nimoti	2195	7840	337	0
 Nilājhar	2193	7850	462	0
 Nimboti	2173	7837	462	0
 Nimthāna	2160	7838	133	0
-Nipāni	2142	7849	141	0
+Nipāni	2142	7849	141	0	Thugaon
 Nimbūkhera	2193	7869	337	0
 Nīmni	2166	7885	337	0
 Nimboli	2121	7884	141	0
@@ -633,11 +633,11 @@ Gavha Nipāni	2087	7815	133	0
 Nimboli	2092	7818	143	0
 Nimgavhān	2070	7803	133	0
 Niaddim Dogri	3149	7812	83	0
-Niāmiwāla	3050	7491	730	0
+Niāmiwāla	3050	7491	730	0	Baihbal Khurd
 Nitura	2469	7290	23	0
 Bangi Nihāl Singh	3001	7496	563	0
 Nilanwāli	2990	7480	585	0
-Nimla	2942	7459	585	0
+Nimla	2942	7459	585	0	Kumbhasar
 Nindri	2405	7344	22	0
 Nidhānwāla	3084	7506	499	0
 Nihālgarh	3096	7512	499	0
@@ -658,7 +658,7 @@ Nizāmpur	2973	7788	596	0
 Nirāna	2942	7777	545	0
 Nithāri	2933	7781	545	0
 Nizāmpur	2939	7798	545	0
-Mājra Nizāmpūr	2939	7798	545	0
+Mājra Nizāmpūr	2939	7798	545	0	Gangdāspur
 Niwāra	2898	7721	477	0
 Mangli Nīchi	3087	7595	674	0
 Nilhāri	2871	7706	689	0
@@ -673,7 +673,7 @@ Nithūri	2858	7734	588	0
 Hazrat Nizāmuddīn	2859	7725	419	0
 Nibāli	2898	7729	477	0
 Fatehābād Nithaura	2877	7731	727	0
-Niwāda	2898	7744	477	0
+Niwāda	2898	7744	477	0	Shāhiahānpur
 Nīmka	2836	7737	774	0
 Nizāmuddīn	2881	7756	727	0
 Nidhauli Drain	2861	7763	756	0
@@ -736,7 +736,7 @@ Nimka Shāhjahānpur	2814	7761	588	0
 Nigauna	2806	7766	543	0
 Niāzpur Khaya	2881	7794	756	0
 Nitānandpur	2886	7798	700	0
-Nīmāpatti	2860	7790	637	0
+Nīmāpatti	2860	7790	637	0	Muhammad Alīpur
 Nimchāna	2855	7790	637	0
 Nimchāna ki Marhaiyān	2854	7789	637	0
 Nisurkha	2859	7794	637	0
@@ -773,7 +773,7 @@ Nigola	2792	7789	543	0
 Nīmkhera	2798	7791	543	0
 Kīratpur Nīmāna	2790	7793	543	0
 Nībgaon	2752	7745	177	0
-Nizāmlīwāla	3015	7630	564	0
+Nizāmlīwāla	3015	7630	564	0	Amāmnagar
 Chhota Ninansu	3017	7634	564	0
 Ninansu	3017	7635	564	0
 Nīmwāla	3001	7647	501	0
@@ -896,7 +896,7 @@ Nagla Nidri	2706	7874	403	0
 Nīlgal	1620	7713	50	0
 Nīrmānvi	1604	7711	50	0
 Nagla Nihalu	2792	7881	616	0
-Niāzunnisa	2779	7880	616	0
+Niāzunnisa	2779	7880	616	0	Partābpur
 Nīlahalli	1662	7729	72	0
 Nidhaula	2790	7821	543	0
 Allahdādpur Nimri	2788	7804	543	0
@@ -916,7 +916,7 @@ Nīchiābās	2739	7795	670	0
 Garhi Nibāri	2732	7794	670	0
 Niwāspur	2767	7885	616	0
 Nibaua	2760	7890	616	0
-Nagla Nizām	2752	7878	711	0
+Nagla Nizām	2752	7878	711	0	Shibsinghpur
 Kāsaun Nizāmpur	2752	7875	711	0
 Nigoh Hasanpur	2750	7880	711	0
 Niwāji ka Pura	2671	7844	478	0
@@ -1024,7 +1024,7 @@ Niwāri	2410	7725	336	0
 Nirbhaigarh	2458	7730	336	0
 Nizāmābād	2746	7894	711	0
 Nagla Nirati	2737	7880	711	0
-Nināi	2730	7898	464	0
+Nināi	2730	7898	464	0	Mahārājpur
 Nīlkanthpur	2728	7877	464	0
 Nisobarri	2416	7737	215	0
 Niboda	2436	7760	336	0
@@ -1283,7 +1283,7 @@ Nipaniān	2469	8318	103	0
 Nisogi	2462	8314	103	0
 Nipartola	2118	7991	404	0
 Nīlāgondi	2112	7991	404	0
-Nihālpathar	2425	8301	103	0
+Nihālpathar	2425	8301	103	0	Thārhpathar
 Ninga	2443	8302	103	0
 Nipnia	2476	8334	103	0
 Nībi	2475	8336	103	0
@@ -1295,7 +1295,7 @@ Nīlkurti	1742	7983	762	0
 Nimiātola	2413	8340	743	0
 Nirbispur	2497	8369	749	0
 Nimiyān	2495	8362	749	0
-Nimiyādīh	2428	8354	743	0
+Nimiyādīh	2428	8354	743	0	Pālhe Kalān
 Nimyātikar	2411	8366	743	0
 Nirwāh	2096	7932	141	0
 Nirgudi	2088	7968	404	0
@@ -1509,7 +1509,7 @@ Niāmatpur	2947	7839	575	0
 Farīdpur Nizām	2937	7828	575	0
 Nizāmpur	2937	7842	575	0
 Nīndru	2927	7849	575	0
-Nizāmpur Padārath	2940	7837	575	0
+Nizāmpur Padārath	2940	7837	575	0	Nārāyani
 Nizāmpur	2783	8117	323	0
 Nihālpur	2783	8124	323	0
 Nihāl Dās	2769	8102	507	0
@@ -1610,7 +1610,7 @@ Niāmatpur	2694	8136	30	0
 Pura Nikta	2697	8145	30	0
 Niskāpur	2677	8148	30	0
 Nīmgaon	2102	7966	404	0
-Nīdarpur	2912	7838	575	0
+Nīdarpur	2912	7838	575	0	Līndarpur
 Nizāmābād	2668	8133	30	0
 Nimlāpur	2658	8125	681	0
 Nirthua	2654	8133	681	0
@@ -1665,7 +1665,7 @@ Purwa Nidni	2643	8197	597	0
 Pura Nīma	2634	8193	597	0
 Pura Nihru	2633	8199	597	0
 Nizāmuddīnpur	2595	8108	728	0
-Nihālpur	2580	8122	728	0
+Nihālpur	2580	8122	728	0	Ibrāhīmpur
 Nimiyāpur	2580	8121	728	0
 Nihālpur	2586	8115	728	0
 Nihālpur Sāni	2584	8122	728	0
@@ -1704,7 +1704,7 @@ Ningnur	1967	7785	67	0
 Mazra Nighi	2898	7856	511	0
 Nighi	2898	7857	511	0
 Nīlīkheri	2883	7855	483	0
-Nīlīkheri	2881	7854	483	0
+Nīlīkheri	2881	7854	483	0	Mithanpur
 Nibola	2876	7853	646	0
 Nizāmpur Saindri	2889	7860	483	0
 Nagla Nīdar	2878	7865	646	0
@@ -1726,7 +1726,7 @@ Nizāmmai	2577	8133	651	0
 Nizām ka Purwa	2576	8136	651	0
 Niranjanpur	2592	8132	681	0
 Niral	1845	7807	58	0
-Nidhāya	2837	7874	117	0
+Nidhāya	2837	7874	117	0	Chāndpur
 Pura Niwāji	2608	8112	681	0
 Purwa Nidhān Singh	2621	8113	681	0
 Purwa Nidbi Dube	2624	8113	681	0
@@ -1766,7 +1766,7 @@ Nizāmuddīnpur Shāh	2837	7895	117	0
 Nibhia	2774	8213	618	0
 Ninaunia	2764	8220	280	0
 Nitua	2753	8209	280	0
-Gund Ali Niayak	3398	7465	76	0
+Gund Ali Niayak	3398	7465	76	0	Muqām
 Nizāmpur	2809	7899	117	0
 Nīla	3342	7458	504	0
 Nīlī	3333	7462	504	0
@@ -1879,7 +1879,7 @@ Purwa Nībar	2662	8228	629	0
 Niāmatpur	2670	8240	154	0
 Purwa Nirhu	2660	8240	629	0
 Nighiāwān	2655	8234	553	0
-Jaitpur Nighiāwān	2655	8234	553	0
+Jaitpur Nighiāwān	2655	8234	553	0	Jalālpur
 Nidauri	2675	8243	154	0
 Niāzpur	2650	8229	629	0
 Nindura	2633	8231	597	0
@@ -1913,7 +1913,7 @@ Nipahia Kalān	2698	8286	154	0
 Purwa Nisia	2697	8285	154	0
 Nipaniān	2684	8285	647	0
 Nipanta	2675	8277	154	0
-Nipaniān	2675	8277	154	0
+Nipaniān	2675	8277	154	0	Nipanta
 Nizāmpur	2655	8283	553	0
 Nizāmpur	2657	8285	647	0
 Pura Nirhu	2671	8291	154	0
@@ -1922,9 +1922,9 @@ Nibha Khargpur	2656	8292	647	0
 Nihla	2657	8296	647	0
 Nizāmpur	2593	8330	498	0
 Nizāmpur	2590	8335	586	0
-Niāmatpur	2591	8346	586	0
+Niāmatpur	2591	8346	586	0	Bagli
 Nizāmuddīnpur	2580	8343	26	0
-Chho Ni	2739	8882	422	0
+Chho Ni	2739	8882	422	0	Chho Thuibe
 Nimtini	2635	8282	553	0
 Nirahu Sarāi	2649	8286	553	0
 Nība	2643	8287	553	0
@@ -2155,7 +2155,7 @@ Nipāni	2076	8135	668	0
 Nīchlī	2273	8027	368	0
 Niwārgaon	2257	8036	480	0
 Nilijhar	2011	8131	704	0
-Nirinjori	2011	8131	704	0
+Nirinjori	2011	8131	704	0	Nilijhar
 Nilegondi	2017	8133	704	0
 Nipāni	2090	8152	286	0
 Nidhāni	2270	8053	480	0
@@ -2290,7 +2290,7 @@ Nichli Miyāri	2518	7384	572	0
 Bhagwānda Nichla	2509	7387	572	0
 Nirālgudra	2057	8063	644	0
 Nīchekohra	2072	8071	644	0
-Nimān Khujji	2073	8070	644	0
+Nimān Khujji	2073	8070	644	0	Parsātola
 Nireli	2015	8052	644	0
 Nichla Supeka	3261	7632	362	0
 Nironda	2014	8087	704	0
@@ -2410,7 +2410,7 @@ Nihālgarh	3019	7881	612	0
 Nisni	3010	7881	612	0
 Nisini	3015	7890	612	0
 Nizampur	2883	7801	756	0
-Niāmalpur	2881	7811	756	0
+Niāmalpur	2881	7811	756	0	Rāmpur
 Nikhob	2864	7800	637	0
 Nizāmpur	2858	7818	637	0
 Nirandpur	2851	7816	637	0
@@ -2729,7 +2729,7 @@ Nihal	2623	8421	639	0
 Nipānian	2602	8413	536	0
 Nimuiā	2695	8431	476	0
 Bhitaha Nizāmat	2678	8448	476	0
-Bhitaha Nizāmat	2677	8449	476	0
+Bhitaha Nizāmat	2677	8449	476	0	Tola Sonsaraiyā
 Nimuiā	2682	8443	476	0
 Nirtola	2964	7983	429	0
 Nisnaili	2967	7987	429	0
@@ -2768,7 +2768,7 @@ Nīmanpur	2239	7633	322	0
 Nitoi	2820	7929	342	0
 Nimuiyān	2647	8454	703	0
 Khoripākār Nilāmi	2631	8453	639	0
-Nilāmi	2633	8459	703	0
+Nilāmi	2633	8459	703	0	Muhammadpur
 Baghwār Nizāmat	2646	8463	703	0
 Pararia Nizāmt	2635	8474	703	0
 Kapiya Nizāmat	2610	8451	639	0
@@ -2790,7 +2790,7 @@ Nisardi	2102	7498	78	0
 Nizāmpur Māfi	2862	7952	342	0
 Pinra Nigāhi	2857	7957	342	0
 Nizāmdāndi	2864	7964	683	0
-Niamatullāhpur	2832	7958	342	0
+Niamatullāhpur	2832	7958	342	0	Bhawanpur
 Niwaria	2809	7961	342	0
 Nikasua	2814	7959	342	0
 Nizāmpur	2814	7965	470	0
@@ -2835,7 +2835,7 @@ Nimiān	2401	8403	701	0
 Jharī Nimā	2411	8410	701	0
 Nimiā	2420	8416	701	0
 Nimiā	2413	8418	701	0
-Nirpat Chattī	2403	8420	701	0
+Nirpat Chattī	2403	8420	701	0	Kanaudā
 Nimiā	2402	8422	701	0
 Nimiya	2502	8401	409	0
 Niranjanpur	2514	8413	409	0
@@ -3157,7 +3157,7 @@ Nitāli	1544	7602	66	0
 Nīrligi	1519	7610	66	0
 Nimbapuram	1533	7649	366	0
 Nidagurti	1502	7643	44	0
-Nidagurti	1500	7643	44	0
+Nidagurti	1500	7643	44	0	Katinakamba
 Nittūru	1556	7683	44	0
 Nitheri	1263	7561	55	0
 Nilavde	1566	7442	77	0
@@ -3251,7 +3251,7 @@ Nimaha	2500	8722	592	0
 Nimābaran	2491	8718	592	0
 Māl Nistāra	2490	8724	592	0
 Ghāt Nistāra	2490	8724	592	0
-Nilkantāpur	2488	8721	592	0
+Nilkantāpur	2488	8721	592	0	Āndua
 Nipānia	2460	8755	658	0
 Nipānia	2468	8759	658	0
 Nijhor	2456	8770	658	0
@@ -3315,7 +3315,7 @@ Nimgaon	2112	7573	78	0
 Nimvādi	2175	7578	329	0
 Nimbhora Khurd	2107	7591	78	0
 Nimgaon Budrukh	2096	7569	78	0
-Nimbhora	2082	7572	78	0
+Nimbhora	2082	7572	78	0	Kekat
 Nimbāyati	2055	7554	113	0
 Nīlagangavaram	1604	7956	10	0
 Nichin Dona	1672	7993	250	0
@@ -3552,7 +3552,7 @@ Nīrpalni	1062	7871	198	0
 Nilayapatti	1039	7868	198	0
 Nīlamegampatti	1023	7852	454	0
 Nīl Nāttukkurichchi	926	7802	208	0
-Nīrāvi	911	7805	208	0
+Nīrāvi	911	7805	208	0	Puduppatti
 Nīrāvi	942	7827	5	0
 Nīrkkolikudi	942	7849	5	0
 Niranjān	978	7856	454	0

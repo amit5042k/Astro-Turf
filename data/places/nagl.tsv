@@ -13,7 +13,7 @@ Loki Nagla	2797	7908	117	0
 Dhami Nagla	2789	7902	117	0
 Surfuddi Nagla	2795	7908	117	0
 Bīni Nagla	2797	7903	117	0
-Nagla Tayyabpur	2797	7903	117	0
+Nagla Tayyabpur	2797	7903	117	0	Bīni Nagla
 Churia Nagla	2795	7901	117	0
 Nārāyan Nagla	2796	7908	117	0
 Nagla Tadu	2794	7904	117	0
@@ -36,7 +36,7 @@ Mannua Nagla	2790	7914	117	0
 Gaffār Nagla	2786	7912	117	0
 Khanjan Nagla	2785	7912	117	0
 Bāljīt Nagla	2785	7910	117	0
-Bāljīe Nagla	2785	7910	117	0
+Bāljīe Nagla	2785	7910	117	0	Bāljīt Nagla
 Resi Nagla	2785	7910	117	0
 Lalua Nagla	2785	7911	117	0
 Bakhti Nagla	2782	7911	616	0
@@ -49,7 +49,7 @@ Khimai Nagla	2782	7909	616	0
 Raghabīr Nagla	2782	7909	616	0
 Mohan Nagla	2783	7909	616	0
 Mani Nagla	2783	7908	616	0
-Nani Nagla	2783	7908	616	0
+Nani Nagla	2783	7908	616	0	Mani Nagla
 Phullu ka Nagla	2783	7908	616	0
 Bhagwant Nagla	2783	7909	616	0
 Tilak Nagla	2783	7908	616	0
@@ -97,9 +97,9 @@ Nandi Nagla	2786	7924	117	0
 Mohan Nagla	2789	7925	117	0
 Alai Nagla	2788	7919	117	0
 Daraiya Nagla	2782	7909	616	0
-Dardiya Nagla	2782	7909	616	0
+Dardiya Nagla	2782	7909	616	0	Daraiya Nagla
 Kallu Nagla	2792	7913	117	0
-Garheli Nagla	2792	7913	117	0
+Garheli Nagla	2792	7913	117	0	Kallu Nagla
 Fāzil Nagla	2792	7923	117	0
 Chandi Nagla	2792	7922	117	0
 Nagla Gabhwāi	2792	7918	117	0
@@ -201,7 +201,7 @@ Nagla Bidra	2722	7931	464	0
 Nagla Marhaiyān	2722	7932	464	0
 Nagla Devi	2721	7927	464	0
 Nagla Bāl	2718	7925	464	0
-Nagla Bāt	2718	7925	464	0
+Nagla Bāt	2718	7925	464	0	Nagla Bāl
 Nagla Chhati	2718	7926	464	0
 Nagla Jawāhir	2719	7928	464	0
 Nagla Chafra	2717	7928	464	0
@@ -370,7 +370,7 @@ Nagla Kundra	2702	7932	464	0
 Nagla Paitu	2704	7932	464	0
 Nagla Hīra	2704	7933	464	0
 Nagla Ahīra	2707	7934	464	0
-Nagla Ahīran	2707	7934	464	0
+Nagla Ahīran	2707	7934	464	0	Nagla Ahīra
 Nagla Khirkhiri	2704	7935	464	0
 Nagla Chakai	2703	7936	464	0
 Nagla Barhu	2703	7935	464	0
@@ -439,11 +439,11 @@ Halu Nagla	2753	7971	470	0
 Mān Nagla	2757	7974	686	0
 Nagla Bāgh	2717	7975	570	0
 Shyām Nagla	2709	7983	570	0
-Nagla Kathūle	2699	7900	464	0
+Nagla Kathūle	2699	7900	464	0	Kathauli
 Nagla Makund	2698	7901	464	0
-Nagla Mukand	2698	7901	464	0
+Nagla Mukand	2698	7901	464	0	Nagla Makund
 Nagla Biri	2699	7905	464	0
-Nagla Bīre	2699	7905	464	0
+Nagla Bīre	2699	7905	464	0	Nagla Biri
 Nagla Dhansingh	2699	7905	464	0
 Nagla Mache	2700	7907	464	0
 Nagla Tula	2699	7909	464	0
@@ -456,14 +456,14 @@ Nagla Pīpar	2698	7919	464	0
 Nagla Bālsingh	2698	7925	290	0
 Sonua ka Nagla	2698	7921	464	0
 Mānsingh ka Nagla	2694	7921	290	0
-Māmsinglī ka Nagla	2694	7921	290	0
+Māmsinglī ka Nagla	2694	7921	290	0	Mānsingh ka Nagla
 Nagla Jalāl	2694	7922	290	0
 Nagla Bhuri	2697	7900	464	0
-Nagla Bhūre	2697	7900	464	0
+Nagla Bhūre	2697	7900	464	0	Nagla Bhuri
 Nagla Jhāl	2698	7903	464	0
 Nagla Kadam	2695	7902	464	0
 Nagla Bāba	2695	7901	464	0
-Nagla Kishori	2694	7900	290	0
+Nagla Kishori	2694	7900	290	0	Nagia Kishoripur
 Nagla Bihāri	2693	7901	290	0
 Nagla Lale	2693	7902	290	0
 Nagla Tej	2693	7901	290	0
@@ -482,7 +482,7 @@ Mukandi ka Nagla	2681	7901	290	0
 Nagla Mathiya	2698	7905	290	0
 Nagla Hargyān	2697	7905	290	0
 Nagla Birj	2695	7905	290	0
-Nagla Brij	2695	7905	290	0
+Nagla Brij	2695	7905	290	0	Nagla Birj
 Nagla Nathu	2693	7904	290	0
 Nagla Kehari	2693	7904	290	0
 Nagla Kallar	2697	7911	290	0
@@ -520,7 +520,7 @@ Kharjīt ka Nagla	2676	7921	290	0
 Daru ka Nagla	2676	7921	290	0
 Bhagat ka Nagla	2677	7921	290	0
 Nagla Gode	2677	7921	290	0
-Gude ka Nagla	2677	7921	290	0
+Gude ka Nagla	2677	7921	290	0	Nagla Gode
 Rāja ka Nagla	2676	7920	290	0
 Nagru ka Nagla	2675	7921	290	0
 Nagla Bhole	2676	7917	290	0
@@ -542,8 +542,8 @@ Pīpar ka Nagla	2689	7922	290	0
 Nagla Pachhāin	2691	7922	290	0
 Nagla Bhikampura	2687	7922	290	0
 Nagla Bachhlan	2686	7922	290	0
-Nagla Bāchhai	2686	7922	290	0
-Nagla Honumān	2685	7923	290	0
+Nagla Bāchhai	2686	7922	290	0	Nagla Bachhlan
+Nagla Honumān	2685	7923	290	0	Nagia Honumān
 Nagla Harchandi	2685	7922	290	0
 Nagla Basant	2685	7921	290	0
 Nagla Muraina	2685	7922	290	0
@@ -551,7 +551,7 @@ Nagla Dhokal	2685	7918	290	0
 Nagla Jhara	2688	7910	290	0
 Nagla Taru	2687	7910	290	0
 Nagla Laikhi	2687	7903	290	0
-Nagla Lekhi	2687	7903	290	0
+Nagla Lekhi	2687	7903	290	0	Nagla Laikhi
 Sisia ka Nagla	2685	7903	290	0
 Nagla Jagat	2692	7908	290	0
 Nagla Bari	2693	7913	290	0
@@ -567,7 +567,7 @@ Chhadāmi ka Nagla	2692	7915	290	0
 Nagla Pūth	2691	7910	290	0
 Nagla Malik	2689	7908	290	0
 Aima Nagla Mohan	2689	7907	290	0
-Nagla Aima Mohan	2689	7907	290	0
+Nagla Aima Mohan	2689	7907	290	0	Aima Nagla Mohan
 Nagla Himmat	2690	7920	290	0
 Nagla Bhagat	2690	7919	290	0
 Hari ka Nagla	2690	7917	290	0
@@ -578,7 +578,7 @@ Mādhosingh ka Nagla	2687	7906	290	0
 Nagla Hirālāl	2685	7903	290	0
 Jamni ka Nagla	2685	7907	290	0
 Tikur ka Nagla	2686	7911	290	0
-Huili ka Nagla	2686	7911	290	0
+Huili ka Nagla	2686	7911	290	0	Shivrājpur
 Nagla Panchi	2687	7919	290	0
 Nagla Jind	2687	7920	290	0
 Hallan ka Nagla	2687	7921	290	0
@@ -587,7 +587,7 @@ Khagi ka Nagla	2687	7913	290	0
 Nagla Demār	2686	7913	290	0
 Mihandia Ka Nagla	2685	7910	290	0
 Nagla Bābāpur	2684	7909	290	0
-Bāba ka Nagla	2684	7909	290	0
+Bāba ka Nagla	2684	7909	290	0	Nagla Bābāpur
 Nagla Nada	2681	7911	290	0
 Ballam ka Nagla	2681	7910	290	0
 Khādar ka Nagla	2678	7906	290	0
@@ -606,7 +606,7 @@ Nagla Nainsukh	2682	7908	290	0
 Rāmsukh ka Nagla	2681	7907	290	0
 Paruwa ka Nagla	2680	7906	290	0
 Nagla Bandha	2678	7909	290	0
-Nagla Barhai	2678	7909	290	0
+Nagla Barhai	2678	7909	290	0	Marian Bahrion
 Mānsingh ka Nagla	2677	7909	290	0
 Mulu ka Nagla	2684	7916	290	0
 Nagla Harrāi	2684	7916	290	0
@@ -615,7 +615,7 @@ Nagla Beri	2683	7913	290	0
 Nagla Lachhi	2683	7916	290	0
 Nagla Sikāriya	2682	7916	290	0
 Nagla Lek	2682	7916	290	0
-Nagla Lāik	2682	7916	290	0
+Nagla Lāik	2682	7916	290	0	Nagla Lek
 Budha ka Nagla	2677	7912	290	0
 Ajab ka Nagla	2685	7921	290	0
 Nagla Tāl	2683	7918	290	0
@@ -640,7 +640,7 @@ Nagla Rāmlāl	2679	7921	290	0
 Nagla Mahājīr	2679	7919	290	0
 Nagla Gurha	2678	7912	290	0
 Nagla Bandha	2676	7916	290	0
-Nagla Khoran	2648	7913	290	0
+Nagla Khoran	2648	7913	290	0	Khorān Norga
 Hukam ka Nagla	2647	7930	715	0
 Nagla Banāras	2646	7926	715	0
 Sardār Nagla	2700	7951	570	0
@@ -649,7 +649,7 @@ Ghāsi Nagla	2699	7953	570	0
 Chainu Nagla	2700	7954	570	0
 Bhūta Nagla	2700	7955	570	0
 Nagla Jhābar	2698	7952	570	0
-Nagla Jhāber	2698	7952	570	0
+Nagla Jhāber	2698	7952	570	0	Nagla Jhābar
 Toran Nagla	2697	7951	570	0
 Nagla Bakhsh	2694	7954	570	0
 Nagla Danwān	2692	7952	570	0
@@ -773,13 +773,13 @@ Nagla Barauda	2836	7774	637	0
 Nagla Chīti	2843	7766	588	0
 Nagla	2987	7520	563	0
 Khuājeh Nagla	2916	7720	477	0
-Nagla Nainsi	2938	7850	575	0
+Nagla Nainsi	2938	7850	575	0	Nainsīwāla
 Nagla Meda	2939	7852	575	0
 Nagla Ganna	2937	7851	575	0
 Nagli Lādon	2935	7851	575	0
 Nagla	2928	7854	575	0
 Nagla Bhajja	2929	7855	575	0
-Nagla Badwān	2931	7858	575	0
+Nagla Badwān	2931	7858	575	0	Nasīrwāla
 Har Nagla	2896	7909	552	0
 Saktū Nagla	2895	7910	552	0
 Sharīf Nagla	2894	7912	552	0
@@ -877,13 +877,13 @@ Nagla Jat	2798	7779	543	0
 Nagla Mewāti	2795	7778	543	0
 Nagla Sada	2795	7781	543	0
 Nagla Kodam	2793	7778	543	0
-Nagla Jotu	2784	7779	543	0
+Nagla Jotu	2784	7779	543	0	Nāgar
 Nagla Birkhu	2783	7781	543	0
 Nagla Uttampur	2782	7781	543	0
 Pati Ka Nagla	2779	7776	177	0
 Nagla Jaisingh	2777	7779	177	0
 Rām Nagla	2778	7777	177	0
-Nagla Garb	2778	7777	177	0
+Nagla Garb	2778	7777	177	0	Rām Nagla
 Jongli Nagla	2777	7790	543	0
 Nagla Jaswār	2777	7789	543	0
 Nagla Balrām	2777	7788	543	0
@@ -894,7 +894,7 @@ Nagla Pahāri	2780	7789	543	0
 Nagla Sartāj	2779	7784	543	0
 Nagla Mādho	2782	7789	543	0
 Nagla Fakīra	2780	7789	543	0
-Nagla Jangli	2781	7788	543	0
+Nagla Jangli	2781	7788	543	0	Gilehta
 Keshon Nagla	2781	7787	543	0
 Rāmdatta Nagla	2782	7789	543	0
 Nagla Burj	2786	7787	543	0
@@ -913,7 +913,7 @@ Kesi Nagla	2797	7791	543	0
 Mau Ka Nagla	2799	7784	543	0
 Kankan Ka Nagla	2800	7788	543	0
 Chamar Nagla	2791	7795	543	0
-Nagla Bādon	2788	7793	543	0
+Nagla Bādon	2788	7793	543	0	Luharra
 Nagla Aharia	2788	7795	543	0
 Nagla Moni	2785	7796	543	0
 Shyām Nagla	2784	7799	543	0
@@ -947,7 +947,7 @@ Nagla Vijaysingh	2761	7727	114	0
 Nagla Ghāta	2759	7728	114	0
 Nagla Harsukha	2758	7733	114	0
 Nagla Bhīlamka	2754	7734	326	0
-Nagla Kokila	2754	7733	326	0
+Nagla Kokila	2754	7733	326	0	Mālpur
 Nagla Mehrānia	2753	7727	114	0
 Nagla Khumān	2750	7739	114	0
 Nagla Mewatīyān	2756	7739	177	0
@@ -988,7 +988,7 @@ Nagla Sirauli	2791	7750	177	0
 Nagla Utāwar	2789	7750	177	0
 Nagla Majhoi	2786	7756	177	0
 Nagla Bishambara	2781	7754	177	0
-Nagla Chandru	2780	7758	177	0
+Nagla Chandru	2780	7758	177	0	Sidgarhi
 Nagla	2781	7751	177	0
 Nagla Bakhta	2777	7763	177	0
 Nagla Bhāri	2775	7766	177	0
@@ -1029,7 +1029,7 @@ Harbal Ka Nagla	2753	7766	177	0
 Nagla Burja	2756	7767	177	0
 Nagla Moharsingh	2755	7759	177	0
 Nagla Chamārān	2758	7764	177	0
-Panga Ka Nagla	2758	7764	177	0
+Panga Ka Nagla	2758	7764	177	0	Nagla Chamārān
 Nagla Chamārān	2762	7766	177	0
 Nagla Chaudhriyān	2763	7765	177	0
 Nagla Jātān	2763	7766	177	0
@@ -1185,7 +1185,7 @@ Nagla Banjāra	2805	7779	543	0
 Jaraila Nagla	2804	7781	543	0
 Nagla Rājpur	2802	7776	543	0
 Nagla Devīsingh	2800	7779	543	0
-Nagla Assu	2800	7779	543	0
+Nagla Assu	2800	7779	543	0	Nagla Devīsingh
 Nagla Rāmnagar	2803	7781	543	0
 Banjāron ka Nagla	2806	7783	543	0
 Chamār ka Nagla	2806	7783	543	0
@@ -1862,7 +1862,7 @@ Nagla Pancham	2763	7874	711	0
 Nagla Garhi	2765	7875	616	0
 Nagla Marhi	2765	7874	616	0
 Nagla Bhoji	2763	7870	711	0
-Nagla Lukia	2763	7871	711	0
+Nagla Lukia	2763	7871	711	0	Banwāripur
 Nagla Garhi	2764	7869	711	0
 Nagla Khiālī	2765	7864	711	0
 Nagla Noindh	2763	7863	711	0
@@ -2181,7 +2181,7 @@ Nagla Moti	2706	7851	403	0
 Nagla Dayā Rām	2708	7852	403	0
 Nagla Nagariā	2709	7852	403	0
 Nagla Dehk	2704	7850	403	0
-Nagla Fateh	2706	7850	403	0
+Nagla Fateh	2706	7850	403	0	Pīru
 Nagla Parmān	2707	7856	403	0
 Nagla Chāt	2707	7856	403	0
 Nagla Jawāhir	2708	7856	403	0
@@ -2825,7 +2825,7 @@ Nagla Teja	2749	7777	177	0
 Nagla Pūrna	2749	7776	177	0
 Nagla Ratti	2748	7776	177	0
 Nagla Khutīya	2747	7775	177	0
-Nagla Bhoja	2747	7776	177	0
+Nagla Bhoja	2747	7776	177	0	Garhi Hayātpur
 Nagla Khema	2746	7775	177	0
 Nagla Tulsi	2750	7782	177	0
 Nagla Hari	2750	7783	177	0
@@ -2846,7 +2846,7 @@ Nagla Chatti	2738	7780	177	0
 Nagla Jauhari	2736	7777	177	0
 Nagla Rādha	2735	7777	177	0
 Nagla Āzam	2736	7780	177	0
-Nagla Bali	2736	7783	177	0
+Nagla Bali	2736	7783	177	0	Kathela
 Nagla Chamār	2734	7781	177	0
 Nagla Bahādur	2732	7783	177	0
 Naglabās	2732	7782	177	0
@@ -2885,7 +2885,7 @@ Nagla Berka	2732	7785	177	0
 Nagla Bamora	2732	7786	177	0
 Nagla Lekha	2732	7785	177	0
 Nagla Rādha	2732	7784	177	0
-Nagla Gokhrauli	2733	7790	177	0
+Nagla Gokhrauli	2733	7790	177	0	Mangnān
 Nagla Badhna	2733	7786	177	0
 Nagla Kharga	2733	7784	177	0
 Nagla Shora	2736	7789	177	0
@@ -2980,7 +2980,7 @@ Nagla Dom	2736	7783	177	0
 Nagla Hāthi	2774	7876	616	0
 Nagla Sumer	2774	7877	616	0
 Nagla Gadariān	2773	7879	616	0
-Munda Nagla	2773	7879	616	0
+Munda Nagla	2773	7879	616	0	Nagla Gadariān
 Nagla Medi	2772	7877	616	0
 Nagla Tar	2772	7878	616	0
 Nagla Suderān	2774	7882	616	0
@@ -3031,7 +3031,7 @@ Nagla Pemi	2768	7885	616	0
 Nagla Bansi	2772	7882	616	0
 Nagla Dhākan	2772	7881	616	0
 Nagla Tār	2771	7881	616	0
-Monu Ka Nagla	2771	7881	616	0
+Monu Ka Nagla	2771	7881	616	0	Nagla Tār
 Nagla Nāla	2771	7883	616	0
 Nagla Bhīmsen	2770	7883	616	0
 Nagla Kundan	2770	7882	616	0
@@ -3040,7 +3040,7 @@ Nagla Sāwant	2770	7879	616	0
 Nagla Chamārān	2769	7877	616	0
 Nagla Neda	2770	7877	616	0
 Nagla Barai	2766	7878	616	0
-Nagla Indarjīt	2767	7879	616	0
+Nagla Indarjīt	2767	7879	616	0	Arjunpur Nauābād
 Nagla Kishan	2767	7878	616	0
 Nagla Bhawāni	2767	7880	616	0
 Nagla Tejsingh	2767	7880	616	0
@@ -3051,7 +3051,7 @@ Nagla Bali	2765	7885	616	0
 Nagla Kapeta	2767	7891	616	0
 Nagla Chamārān	2768	7890	616	0
 Nagla Darua	2768	7892	616	0
-Nagla Nanaira	2766	7894	616	0
+Nagla Nanaira	2766	7894	616	0	Karanpur
 Nagla Phulu	2767	7898	616	0
 Nagla Lachhman	2767	7898	616	0
 Nagla Nawal	2767	7899	616	0
@@ -3182,7 +3182,7 @@ Nagla Lachhi	2754	7889	711	0
 Nagla Parson	2755	7888	711	0
 Nagla Shankar	2755	7894	711	0
 Nagla Bhūra	2755	7894	711	0
-Nagla Ānandpur	2755	7894	711	0
+Nagla Ānandpur	2755	7894	711	0	Nagla Bhūra
 Nagla Hansi	2755	7896	711	0
 Nagla Baldeo	2755	7895	711	0
 Nagla Khanjan	2754	7894	711	0
@@ -3209,7 +3209,7 @@ Dīp Ka Nagla	2754	7883	711	0
 Nagla Partāp	2753	7882	711	0
 Nagla Bhagwantpur	2753	7883	711	0
 Nagla Kanakpur	2754	7882	711	0
-Nagla Nizām	2752	7878	711	0
+Nagla Nizām	2752	7878	711	0	Shibsinghpur
 Nagla Bhūr	2753	7879	711	0
 Nagla Pūni	2753	7878	711	0
 Nagla Bhīmman	2753	7876	711	0
@@ -3355,7 +3355,7 @@ Nagla Pītam	2774	7902	616	0
 Nagla Ramsi	2769	7911	616	0
 Nagla Garhi	2769	7910	616	0
 Nagla Mahmūd	2766	7913	616	0
-Nagla Bīru	2766	7913	616	0
+Nagla Bīru	2766	7913	616	0	Nagla Mahmūd
 Nagla Baghrāi	2767	7912	616	0
 Nagla Gaur	2766	7907	616	0
 Sri Nagla	2762	7908	616	0
@@ -3385,7 +3385,7 @@ Nagla Chītar	2748	7909	711	0
 Nagla Bahādur	2747	7909	711	0
 Nagla Dongar	2747	7900	711	0
 Nagla Kangār	2746	7901	711	0
-Nagla Painth	2747	7908	711	0
+Nagla Painth	2747	7908	711	0	Kharsela
 Nagla Kalū	2747	7911	711	0
 Nagla Lakhariā	2745	7912	711	0
 Nagla Sūrajpura	2746	7910	711	0
@@ -3855,10 +3855,10 @@ Nagla Purohit	2699	7793	546	0
 Gaduwa ka Nagla	2700	7794	546	0
 Nagla Kesari	2699	7795	546	0
 Nagla Ballu	2699	7797	546	0
-Nagla Bīrai	2697	7795	546	0
+Nagla Bīrai	2697	7795	546	0	Chhītāpura
 Nagla Chhokariya	2696	7787	546	0
 Bar ka Nagla	2695	7787	546	0
-Nagla Mansa	2695	7787	546	0
+Nagla Mansa	2695	7787	546	0	Bar ka Nagla
 Nagla Kehri	2695	7788	546	0
 Nagla Sabdal	2695	7787	546	0
 Nagla Udaiya	2695	7783	546	0
@@ -3914,7 +3914,7 @@ Raghol Nagla	2721	7955	688	0
 Tila Nagla	2717	7952	570	0
 Dilu ka Nagla	2715	7952	570	0
 Chamārān Nagla	2715	7954	570	0
-Nagla Khag	2710	7957	570	0
+Nagla Khag	2710	7957	570	0	Rūppur
 Nagla Natha	2709	7955	570	0
 Nagla Baile	2709	7954	570	0
 Nagla Gadarian	2708	7954	570	0
@@ -3963,7 +3963,7 @@ Narāyan Nagla	2712	7967	570	0
 Madhai ka Nagla	2709	7967	570	0
 Nursa Nagla	2792	7975	470	0
 Nagla Hāji	2789	7985	470	0
-Zindi Nagla	2782	7995	470	0
+Zindi Nagla	2782	7995	470	0	Zainuddīnnagar
 Nagla Hā	2749	7881	711	0
 Nagla Agar	2747	7882	711	0
 Nagla Bhūr	2748	7884	711	0
@@ -3977,7 +3977,7 @@ Nagla Jhamman	2747	7889	464	0
 Nagla Barhpura	2747	7888	711	0
 Nagla Kothi	2748	7886	711	0
 Nagla Pachiya	2749	7888	711	0
-Nagla Dhīmar	2749	7888	711	0
+Nagla Dhīmar	2749	7888	711	0	Nagla Pachiya
 Nagla Khamāni	2748	7888	711	0
 Nagla Salempura	2747	7889	711	0
 Nagla Sultānpur	2747	7893	711	0
@@ -4031,7 +4031,7 @@ Nagla Jamlāpur	2742	7894	464	0
 Nagla Garhi Lālpur	2744	7896	711	0
 Nagla Bhūr	2742	7899	464	0
 Nagla Chamārān	2742	7898	464	0
-Nagla Non	2742	7898	464	0
+Nagla Non	2742	7898	464	0	Nagla Chamārān
 Nagla Jai	2743	7899	711	0
 Nagla Mānjh	2738	7900	464	0
 Nagla Chaini	2739	7897	464	0
@@ -4043,7 +4043,7 @@ Nagla Lokharpura	2739	7895	464	0
 Nagla Khumāni	2740	7894	464	0
 Nagla Rati	2740	7893	464	0
 Nagla Desi	2741	7891	464	0
-Nagla Jhamman	2741	7891	464	0
+Nagla Jhamman	2741	7891	464	0	Nagla Desi
 Nagla Desi	2741	7885	464	0
 Nagla Kheria	2739	7883	711	0
 Nagla Wailāmai	2738	7884	711	0
@@ -4051,7 +4051,7 @@ Nagla Pholi	2740	7879	711	0
 Nagla Sukhi	2739	7877	711	0
 Nagla Marhela	2737	7878	711	0
 Nagla Subhān	2735	7875	711	0
-Nagla Harkishanpur	2735	7877	711	0
+Nagla Harkishanpur	2735	7877	711	0	Khāmini
 Nagla Pūth	2737	7881	711	0
 Nagla Nirati	2737	7880	711	0
 Nagla Marehla	2738	7884	711	0
@@ -4086,7 +4086,7 @@ Nagla Pāi	2733	7886	464	0
 Nagla Bhīm	2733	7887	464	0
 Nagla Kamaria	2732	7888	464	0
 Nagla Minti	2732	7886	464	0
-Nagla Gadariān	2735	7885	464	0
+Nagla Gadariān	2735	7885	464	0	Antpur
 Nagla Debi	2733	7885	464	0
 Nagla Rate	2733	7885	464	0
 Nagla Bhāt	2733	7884	464	0
@@ -4097,7 +4097,7 @@ Nagla Pachen	2733	7881	464	0
 Nagla Sundarpur	2733	7879	464	0
 Nagla Naya	2733	7880	464	0
 Nagla Thuli	2735	7878	711	0
-Nagla Durjan	2735	7878	711	0
+Nagla Durjan	2735	7878	711	0	Nagla Thuli
 Nagla Mani	2732	7876	464	0
 Nagla Jawāhir	2732	7877	464	0
 Nagla Mahāsukh	2732	7876	464	0
@@ -4126,7 +4126,7 @@ Nagla Bāgh	2731	7894	464	0
 Nagla Sukh	2729	7894	464	0
 Nagla Dhīpāri	2729	7893	464	0
 Nagla Paramkuti	2729	7896	464	0
-Nagla Dhākan	2730	7896	464	0
+Nagla Dhākan	2730	7896	464	0	Bilāspur
 Nagla Parahār	2731	7897	464	0
 Nagla Bhagola	2729	7899	464	0
 Nagla Kondar	2728	7896	464	0
@@ -4234,7 +4234,7 @@ Nagla Naya	2760	7801	670	0
 Nagla Motha	2760	7802	670	0
 Nagla Kunwarji	2760	7803	670	0
 Nagla Jarera	2760	7804	670	0
-Nagla Sarak	2760	7804	670	0
+Nagla Sarak	2760	7804	670	0	Nagla Jarera
 Bhūra Nagla	2761	7804	670	0
 Nagla Chaman	2760	7807	670	0
 Rām Nagla	2760	7809	670	0
@@ -4293,7 +4293,7 @@ Nagla Kirpa	2754	7810	670	0
 Nagla Kallu	2752	7811	670	0
 Nagla Pārāsur	2752	7803	670	0
 Nagla Motīrāi	2752	7802	670	0
-Bhāt ka Nagla	2752	7802	670	0
+Bhāt ka Nagla	2752	7802	670	0	Nagla Motīrāi
 Nagla Nāthu	2752	7802	670	0
 Nagla Lachhi	2750	7819	670	0
 Nagla Sāwalia	2750	7819	670	0
@@ -4366,7 +4366,7 @@ Nagla Lala	2783	7834	543	0
 Nagla Sāwanti	2787	7834	543	0
 Nagla Banjāra	2782	7834	543	0
 Nagla Rāipur	2782	7841	670	0
-Nagla Bhānchand	2781	7844	670	0
+Nagla Bhānchand	2781	7844	670	0	Dariyāpur
 Nagla Kothi	2783	7844	670	0
 Nagla Chamman	2784	7842	670	0
 Nagla Chandan	2785	7843	543	0
@@ -4488,7 +4488,7 @@ Nagla Popi	2756	7826	670	0
 Nagla Moti	2754	7826	670	0
 Nagla Ahīr	2753	7826	670	0
 Imliya Nagla	2753	7828	711	0
-Nagla Am	2756	7835	711	0
+Nagla Am	2756	7835	711	0	Maqsūdpur
 Nagla Hīra	2755	7839	711	0
 Nagla Chānd	2754	7840	711	0
 Nagla Tursi	2754	7843	711	0
@@ -4538,7 +4538,7 @@ Nagla Hansi	2721	7834	403	0
 Nagla Harchand	2720	7834	403	0
 Nagla Gola	2719	7836	403	0
 Nagla Lālbeg	2718	7833	403	0
-Nagla Khār	2719	7831	403	0
+Nagla Khār	2719	7831	403	0	Salīmpur
 Nagla Sāda	2719	7828	403	0
 Nagla	2719	7825	403	0
 Nagla Dharmi	2718	7826	403	0
@@ -4626,12 +4626,12 @@ Nagla Gusāīn	2794	7866	616	0
 Nagla Zori	2794	7866	616	0
 Parnor Nagla	2795	7865	616	0
 Nagla Lodha	2796	7865	616	0
-Nagla Sāwanti	2796	7865	616	0
+Nagla Sāwanti	2796	7865	616	0	Nagla Lodha
 Nagla Siārpur	2795	7865	616	0
 Nagla Mukhrām	2797	7862	616	0
-Nagla Baldeo	2797	7862	616	0
+Nagla Baldeo	2797	7862	616	0	Nagla Mukhrām
 Nagla Mahāri	2795	7860	616	0
-Nagla Kesaria	2795	7859	616	0
+Nagla Kesaria	2795	7859	616	0	Mundalia
 Nagla Banjāra	2794	7857	543	0
 Nagla Udia	2794	7855	543	0
 Nagla Tatārpur	2794	7854	543	0
@@ -4675,7 +4675,7 @@ Pīro Ka Nagla	2789	7867	616	0
 Nagla Bagia	2787	7867	616	0
 Nagla Gumāni	2788	7865	616	0
 Nagla Ata	2789	7863	616	0
-Nagla Moti	2788	7863	616	0
+Nagla Moti	2788	7863	616	0	Harnāthpur
 Nagla Chinti	2789	7862	616	0
 Nagla Dāndhe	2790	7857	616	0
 Nagla Ambar	2788	7855	616	0
@@ -4710,13 +4710,13 @@ Nagla Moti	2787	7860	616	0
 Nagla Godhu	2784	7858	616	0
 Nagla Bedha	2785	7862	616	0
 Nagla Bhūra	2785	7863	616	0
-Nagla Dhak	2786	7862	616	0
+Nagla Dhak	2786	7862	616	0	Rāmbāns
 Nagla Mehndi	2787	7864	616	0
 Nagla Urwa	2786	7864	616	0
 Nagla Dauli	2787	7864	616	0
 Nagla Thān	2786	7865	616	0
 Nagla Naukas	2785	7865	616	0
-Nagla Sūkha	2787	7868	616	0
+Nagla Sūkha	2787	7868	616	0	Ināyatpur
 Nagla Jhadda	2787	7869	616	0
 Nagla Khanji	2786	7871	616	0
 Nagla Hira	2785	7869	616	0
@@ -4786,7 +4786,7 @@ Nagla Hajoka	2776	7855	711	0
 Nagla Bhīm	2777	7856	711	0
 Nagla Somi	2778	7851	616	0
 Nagla Daro	2777	7852	616	0
-Nagla Mānsingh	2777	7853	711	0
+Nagla Mānsingh	2777	7853	711	0	Husainpur
 Nagla Kakret	2775	7856	711	0
 Nagla Bāg	2776	7859	711	0
 Nagla Manda	2775	7864	616	0
@@ -4847,7 +4847,7 @@ Nagla Khemkaran	2747	7859	403	0
 Nagla Chhiddu	2747	7860	403	0
 Nagla Ahbanpur	2746	7860	403	0
 Nagla Parshādpur	2745	7861	403	0
-Nagla Garhiya	2745	7861	403	0
+Nagla Garhiya	2745	7861	403	0	Nagla Parshādpur
 Nagla Devi	2745	7861	403	0
 Nagla Ramia	2746	7862	403	0
 Nagla Ghosīpura	2744	7861	403	0
@@ -4864,7 +4864,7 @@ Nagla Mewa	2746	7856	403	0
 Nagla Singh	2745	7857	403	0
 Nagla Gudoriya	2745	7855	711	0
 Nagla Pāt	2744	7854	403	0
-Nagla Bhawāni	2746	7852	711	0
+Nagla Bhawāni	2746	7852	711	0	Rāmnagar
 Nagla Mādho	2746	7852	711	0
 Nagla Barkula	2746	7851	403	0
 Nagla Sunāri	2746	7851	403	0
@@ -4899,11 +4899,11 @@ Nagla Mānsingh	2742	7862	403	0
 Nagla Dhāra	2743	7862	403	0
 Nagla Sawanti	2741	7864	403	0
 Nagla Dalīp	2742	7864	403	0
-Nagla Doyārām	2742	7864	403	0
+Nagla Doyārām	2742	7864	403	0	Nagla Dalīp
 Nagla Bhāra	2741	7865	403	0
 Nagla Bīke	2742	7865	711	0
 Nagla Swāmi	2741	7867	403	0
-Nagla Bari	2740	7869	711	0
+Nagla Bari	2740	7869	711	0	Jīsukhpur Sāni
 Nagla Surali	2738	7869	403	0
 Nagla Kanauli	2740	7874	711	0
 Nagla Chittar	2740	7873	711	0
@@ -4961,7 +4961,7 @@ Nagla Chamāran	2736	7875	711	0
 Nagla Dhodra	2736	7874	711	0
 Nagla Gajia	2736	7872	711	0
 Nagla Chak	2735	7872	711	0
-Nagla Rund	2735	7872	711	0
+Nagla Rund	2735	7872	711	0	Nagla Chak
 Nagla Khangar	2734	7874	711	0
 Nagla Sūrajpur	2733	7872	464	0
 Nagla Ruria	2733	7874	464	0
@@ -4994,14 +4994,14 @@ Nagla Thāna	2733	7856	403	0
 Nagla Zālim	2732	7855	403	0
 Nagla Gadaria	2732	7855	403	0
 Nagla Dansahai	2732	7852	403	0
-Nagla Fateh	2732	7852	403	0
+Nagla Fateh	2732	7852	403	0	Machhariha
 Nagla Kans	2732	7850	403	0
 Nagla Alta	2730	7852	403	0
 Nagla Fateh	2731	7853	403	0
 Nagla Bukhatgarh	2731	7854	403	0
 Nagla Bhādon	2730	7855	403	0
 Nagla Bhopāl	2730	7853	403	0
-Nagla Bhūr	2730	7853	403	0
+Nagla Bhūr	2730	7853	403	0	Nagla Bhopāl
 Nagla Sīs	2729	7855	403	0
 Nagla Gūdar	2728	7854	403	0
 Nagla Kharga	2729	7853	403	0
@@ -5321,7 +5321,7 @@ Lav ka Nagla	2723	7919	464	0
 Nagla Chānde	2724	7922	464	0
 Nagla Madhu	2723	7924	464	0
 Naya Nagla	2723	7924	464	0
-Nagla Janjera	2723	7924	464	0
+Nagla Janjera	2723	7924	464	0	Naya Nagla
 Nagla Patti	2724	7922	464	0
 Nagla Sagai	2724	7921	464	0
 Nagla Bamba	2723	7920	464	0
@@ -5342,7 +5342,7 @@ Mullāh Nagla	2772	7926	117	0
 Bika Nagla	2772	7925	117	0
 Lanju Nagla	2771	7935	470	0
 Gulābi Nagla	2771	7931	117	0
-Anūp Nagla	2771	7931	117	0
+Anūp Nagla	2771	7931	117	0	Gulābi Nagla
 Nagla Shambhu	2770	7929	117	0
 Nagla Hari	2770	7926	117	0
 Sirsa Nagla	2769	7935	470	0
@@ -5434,10 +5434,10 @@ Nagli Khādar	2920	7803	700	0
 Maihal ka Nagla	2908	7817	575	0
 Nagla	2907	7818	575	0
 Nagla Goshāin	2903	7801	700	0
-Nagla Hardās	2961	7829	575	0
-Nagla Umman	2960	7830	575	0
+Nagla Hardās	2961	7829	575	0	Ismāilpur
+Nagla Umman	2960	7830	575	0	Ummanwāla
 Kutubpur Nagli	2954	7833	575	0
-Nagla Ladha	2951	7847	575	0
+Nagla Ladha	2951	7847	575	0	Lābdīpur
 Sūra Nagli	2951	7832	575	0
 Birdo Nagli	2950	7828	575	0
 Jat Nagla	2950	7837	575	0
@@ -5445,10 +5445,10 @@ Nagli	2948	7844	575	0
 Dālam Nagla	2941	7838	575	0
 Dharmsa Nagli	2941	7842	575	0
 Haru Nagla	2939	7842	575	0
-Karto Nagli	2941	7830	575	0
+Karto Nagli	2941	7830	575	0	Pehrūwāla
 Bākar Nagla	2940	7829	575	0
 Bīrchand Nagla	2936	7844	575	0
-Chānda Nagli	2935	7829	575	0
+Chānda Nagli	2935	7829	575	0	Mohanpur
 Kānha Nagla	2934	7827	575	0
 Gordhanpur Nagli	2927	7833	575	0
 Māhu Nagli	2927	7839	575	0
@@ -5516,15 +5516,15 @@ Nagla Banbīr	2881	7866	511	0
 Nagla Nīdar	2878	7865	646	0
 Yūsufpur Nagli	2876	7868	511	0
 Nagla	2866	7854	646	0
-Soran Nagla	2859	7863	646	0
+Soran Nagla	2859	7863	646	0	Shāhbāzpur
 Nagla Khokar	2853	7865	646	0
 Nagla Gūjar	2853	7870	511	0
 Pandit Nagla	2872	7869	511	0
-Komwa Nagla	2835	7853	646	0
+Komwa Nagla	2835	7853	646	0	Rāmnagar
 Manihār Nagla	2833	7853	646	0
 Nagla Khākam	2846	7865	646	0
 Nagla Khādar	2840	7867	646	0
-Dhak Nagla	2832	7868	117	0
+Dhak Nagla	2832	7868	117	0	Mauzuddīnnagar
 Lahra Nagla Shyām	2822	7854	646	0
 Dīpa Nagla	2819	7853	646	0
 Naglia Devi	2814	7855	646	0
@@ -5554,7 +5554,7 @@ Milak Nagla Nasu	2858	7882	511	0
 Mahmūda Nagla	2866	7884	511	0
 Nagla Jathi	2871	7886	511	0
 Rasūlpur Nagli	2872	7889	511	0
-Mahesh Nagli	2872	7890	511	0
+Mahesh Nagli	2872	7890	511	0	Lāla Tīkar
 Qāsim Nagla	2865	7892	552	0
 Qāsim Nagla	2861	7898	552	0
 Dibia Nagla	2862	7898	552	0
@@ -5567,7 +5567,7 @@ Mohan Nagla	2829	7886	117	0
 Nagla Mazra Jet	2840	7887	117	0
 Nagla Purba	2848	7884	646	0
 Godhi Nagla	2815	7881	117	0
-Nagla Hari	2810	7881	117	0
+Nagla Hari	2810	7881	117	0	Hasanpur Lodh
 Phatanpur Nagla	2808	7876	117	0
 Nagla Misr	2806	7877	117	0
 Dhak Nagla	2804	7880	117	0
@@ -5695,7 +5695,7 @@ Nawa Nagla	2875	7898	511	0
 Nāglūr	1808	8195	109	0
 Gāngan Naglī	2908	7908	552	0
 Gadī Naglī	2906	7912	552	0
-Thāpla Naglā	2917	7924	641	0
+Thāpla Naglā	2917	7924	641	0	Bīrpuri
 Bhajwā Nagla	2913	7921	641	0
 Sheo-kā-Nagla	2911	7917	641	0
 Bhewa Nagla	2910	7919	641	0
@@ -5766,7 +5766,7 @@ Chahār Nagla	2832	7955	342	0
 Biku Nagla	2827	7953	342	0
 Pau Nagla	2827	7965	342	0
 Dhanidhar Nagla	2835	7962	342	0
-Bhāo Nagla	2835	7968	342	0
+Bhāo Nagla	2835	7968	342	0	Bauria
 Narhi Naua Nagla	2841	7965	342	0
 Madhu Nagla	2844	7967	342	0
 Bhaua Nagla	2847	7960	342	0
@@ -5920,7 +5920,7 @@ Chamārān Nagla	2719	7951	570	0
 Naya Nagla	2706	7954	570	0
 Nagla Jhābar	2702	7950	570	0
 Nagla Jhābar	2701	7957	570	0
-Barhai Nagla	2700	7954	570	0
+Barhai Nagla	2700	7954	570	0	Kharagpur
 Nagla Pīpar	2705	7923	464	0
 Nagla Chamāran	2706	7924	464	0
 Nagla Tara	2712	7917	464	0

@@ -1,10 +1,10 @@
 Galpadar	2310	7013	108	13155
 Galiākot	2352	7402	512	6906
 Thāna Gālol	2170	7069	174	0
-Ghaluad	2008	7273	192	0
-Ghalvad	2008	7273	192	0
+Ghaluad	2008	7273	192	0	Gholvad
+Ghalvad	2008	7273	192	0	Gholvad
 Galūthi	3351	7427	504	0
-Galutha	3351	7427	504	0
+Galutha	3351	7427	504	0	Galūthi
 Galund	2502	7423	572	0
 Galsi	2334	8769	375	0
 Galri	3213	7534	487	0
@@ -12,16 +12,16 @@ Galonda	2029	7305	233	0
 Gālna	2078	7454	54	0
 Galleri	2009	8457	440	0
 Galleborgaon	2009	7512	113	0
-Galieborga	2009	7512	113	0
-Galleborgao	2009	7512	113	0
+Galieborga	2009	7512	113	0	Galleborgaon
+Galleborgao	2009	7512	113	0	Galleborgaon
 Gālivedu	1402	7850	195	0
 Galatge	1649	7447	77	0
-Galatgi	1649	7447	77	0
-Galatga	1649	7447	77	0
+Galatgi	1649	7447	77	0	Galatge
+Galatga	1649	7447	77	0	Galatge
 Galār	3334	7593	34	0
 Gālan	2060	7527	78	0
 Galaga	1626	7684	50	0
-Galag	1626	7684	50	0
+Galag	1626	7684	50	0	Galaga
 Galgati	2860	7477	539	0
 Galwapura	3404	7478	611	0
 Galināg	3377	7419	1	0
@@ -33,7 +33,7 @@ Khainthi Gala	3351	7418	1	0
 Galwade Chak	3277	7472	581	0
 Amarli Gala	3323	7408	504	0
 Manglai Gāla	3322	7407	504	0
-Mangiāl Gāla	3322	7407	504	0
+Mangiāl Gāla	3322	7407	504	0	Manglai Gāla
 Gaikat Gala	3318	7409	504	0
 Galra Mohra	3317	7417	504	0
 Grund Gāla	3306	7426	504	0
@@ -50,7 +50,7 @@ Chor Gāla	3314	7445	504	0
 Gali	3384	7435	1	0
 Galāli	3294	7479	581	0
 Galhwāl	3255	7499	720	0
-Galwāl	3255	7499	720	0
+Galwāl	3255	7499	720	0	Galhwāl
 Magri Gali	3435	7386	0	0
 Ghaloti	3122	7703	479	0
 Galog	3116	7703	628	0
@@ -195,7 +195,7 @@ Galhaiya	2540	8245	583	0
 Galra	2486	8224	201	0
 Galaria	2487	8223	201	0
 Ghālibpur	2853	7688	763	0
-Hasanpur Galra	2949	7848	575	0
+Hasanpur Galra	2949	7848	575	0	Mohiuddīnpur
 Ghalgala	2764	8108	507	0
 Galgal Kutia	2771	8170	618	0
 Galhai Purwa	2754	8187	294	0
@@ -208,7 +208,7 @@ Ghālib Bara	2894	7834	483	0
 Ghālibpur	2877	7848	646	0
 Galhi Purwa	2709	8170	542	0
 Galsua	2868	7836	483	0
-Gālabpur	2877	7858	646	0
+Gālabpur	2877	7858	646	0	Rājāpur
 Gali Baihk	3374	7429	1	0
 Galni	2847	7898	552	0
 Dagal Gāla	3328	7453	504	0
@@ -353,7 +353,7 @@ Galūhār	3150	7684	278	0
 Galu	3144	7675	772	0
 Ghalchāra	3143	7693	278	0
 Gāler	3141	7699	278	0
-Galor	3127	7688	772	0
+Galor	3127	7688	772	0	Kamārda
 Galta	2692	7586	121	0
 Galot	3112	7707	479	0
 Khūnta Galia	2318	7413	166	0

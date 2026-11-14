@@ -1,16 +1,16 @@
-Kendujhar	2163	8560	293	60590
+Kendujhar	2163	8560	293	60590	Keonjhargarh
 Kendrāparha	2050	8642	702	47006
-Kendrāpāra	2050	8642	702	47006
+Kendrāpāra	2050	8642	702	47006	Kendrāparha
 Kenda	2320	8651	415	15131
 Kenduadīh	2374	8637	401	9032
 Kenjāru	1296	7486	55	5338
-Kenjar	1296	7486	55	5338
-Thiru-alli-keni	1306	8028	204	0
-Kendma	2558	9391	181	0
-Kendguli	1669	7620	80	0
+Kenjar	1296	7486	55	5338	Kenjāru
+Thiru-alli-keni	1306	8028	204	0	Tiruvallikeni
+Kendma	2558	9391	181	0	Pulomi
+Kendguli	1669	7620	80	0	Kondguli
 Khensa	2635	9449	315	0
 Khengoi	2403	9410	685	0
-Khengyoi	2403	9410	685	0
+Khengyoi	2403	9410	685	0	Khengoi
 Kenze Māne	2780	9175	531	0
 Kenjala	1781	7356	234	0
 Kengeri	1291	7748	43	0
@@ -25,15 +25,15 @@ Kendai	2273	8261	388	0
 Kendādih	2260	8642	584	0
 Kenda	2253	8207	291	0
 Kenchamman Hoskota	1286	7586	679	0
-Kenchammana Hoskote	1286	7586	679	0
+Kenchammana Hoskote	1286	7586	679	0	Kenchamman Hoskota
 Kenādhipa	2194	8403	627	0
 Jaydeb Kenduli	2365	8743	361	0
-Kenduāhi	2444	8517	764	0
+Kenduāhi	2444	8517	764	0	Danuā
 Kenjekhālia	2243	8812	354	0
 Kheni	3312	7431	504	0
 Kheni Kātal	2998	7862	612	0
 Kengeri Satellite Town	1292	7748	43	0
-Kengeri Upanagara	1292	7748	43	0
+Kengeri Upanagara	1292	7748	43	0	Kengeri Satellite Town
 Kenchenahalli	1293	7752	43	0
 Kenchanapura	1294	7748	43	0
 Kenchanahalli	1312	7758	43	0
@@ -65,7 +65,7 @@ Kenkra	2376	7920	352	0
 Nagla Kenkan	2719	7866	403	0
 Kenwāha	2456	7802	410	0
 Khenda	2102	7948	141	0
-Khenchātān	2788	7719	544	0
+Khenchātān	2788	7719	544	0	Shamshābād
 Kenwāra	2527	7745	436	0
 Alīnagar Kenjra	2718	7835	403	0
 Murera Kenhersingh	2654	7972	671	0
@@ -87,7 +87,7 @@ Kentha	3268	7572	496	0
 Kenta	3266	7568	496	0
 Kenta	3242	7568	496	0
 Kengītola	2205	8082	144	0
-Kenpura	2541	7343	273	0
+Kenpura	2541	7343	273	0	Kishanpura
 Kenadānd	2256	8215	757	0
 Kenādānd	2251	8259	388	0
 Kenabhāta	2204	8275	696	0
@@ -160,7 +160,7 @@ Kenduguda	1878	8250	316	0
 Kendubedapodoro	1882	8263	316	0
 Kendāro	1890	8270	316	0
 Kenduguda	1900	8261	316	0
-Kendubedāpodoro	1896	8293	316	0
+Kendubedāpodoro	1896	8293	316	0	Kodram
 Kenduguda	1868	8292	316	0
 Kenduguda	1939	8380	363	0
 Kenduguda	1930	8390	363	0

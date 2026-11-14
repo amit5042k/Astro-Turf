@@ -1,9 +1,9 @@
 Jamshedpur	2280	8619	584	1339438
 Jamnagar	2247	7007	145	600943
-Jamnogar	2247	7007	145	600943
+Jamnogar	2247	7007	145	600943	Jamnagar
 Jammu	3274	7486	581	576198
-Jammu City	3274	7486	581	576198
-Jamna Nagar	3013	7728	88	217071
+Jammu City	3274	7486	581	576198	Jammu
+Jamna Nagar	3013	7728	88	217071	Yamuna Nagar
 Jāmuria	2370	8708	642	160242
 Jamālpur	2531	8649	538	105434
 Jamūī	2493	8623	524	87357
@@ -15,8 +15,8 @@ Gogri Jamālpur	2541	8666	759	37753
 Jāmadoba	2372	8640	401	34774
 Jāmkhed	1874	7531	152	34017
 Zamānia	2542	8356	26	32008
-Zaminia	2542	8356	26	32008
-Jamkhed	1903	7471	152	29591
+Zaminia	2542	8356	26	32008	Zamānia
+Jamkhed	1903	7471	152	29591	Ārangaon
 Jāmtāra	2396	8680	770	29415
 Jammu Cantonment	3270	7486	581	28396
 Jalgaon Jamod	2105	7653	49	28276
@@ -24,25 +24,25 @@ Jamjodhpur	2190	7004	145	25892
 Jāmul	2125	8140	286	25878
 Jāmai	2220	7859	337	22587
 Jāmbai	1147	7764	211	16522
-Zamin Uthukuli	1065	7698	156	16354
-Jamda	2216	8543	287	8629
+Zamin Uthukuli	1065	7698	156	16354	Ūttukuli
+Jamda	2216	8543	287	8629	Barajamda
 Jamwa Rāmgarh	2702	7601	121	7665
-Rāmgarh Jamwa	2702	7601	121	7665
+Rāmgarh Jamwa	2702	7601	121	7665	Jamwa Rāmgarh
 Jamunāmukh	2610	9274	706	7377
 Jām	1919	7828	360	6426
-Jāmpura	2183	8557	293	6064
+Jāmpura	2183	8557	293	6064	Jhompra
 Jāmjuri	2468	8758	658	529
 Zamin Nischinta	2530	8863	25	0
-Jamalnagar	2663	8032	312	0
-Narot Jamal Singh	3230	7546	692	0
+Jamalnagar	2663	8032	312	0	Pariar
+Narot Jamal Singh	3230	7546	692	0	Narot
 Jhamtoli	2471	7979	663	0
 Jhamar Kotra	2448	7386	22	0
 Jāmunkira	2154	8439	567	0
 Jamuniyān	2492	7985	663	0
-Jamunīa	2492	7985	663	0
+Jamunīa	2492	7985	663	0	Jamuniyān
 Jamunia	2277	7668	322	0
 Jamungri	2255	8319	439	0
-Jamangri	2255	8319	439	0
+Jamangri	2255	8319	439	0	Jamungri
 Jāmuguri	2672	9293	356	0
 Jāmuguri	2639	9396	740	0
 Jāmugurha	1930	8260	518	0
@@ -52,7 +52,7 @@ Jāmti	2081	7597	78	0
 Jāmtāli	2584	8212	718	0
 Jamsar	2826	7340	307	0
 Jamrauli	2715	7667	482	0
-Jamroli	2715	7667	482	0
+Jamroli	2715	7667	482	0	Jamrauli
 Jāmpai	2370	9146	574	0
 Jamoli	2559	7521	309	0
 Jāmod	2111	7661	49	0
@@ -70,8 +70,8 @@ Jamindargaon	2577	9336	405	0
 Jamikunta	1830	7945	579	0
 Jāmi	1805	8326	179	0
 Jamburi	2438	7293	23	0
-Jāmbudi	2438	7293	23	0
-Jamhuri	2438	7293	23	0
+Jāmbudi	2438	7293	23	0	Jamburi
+Jamhuri	2438	7293	23	0	Jamburi
 Jamgi	1811	7757	170	0
 Jāmgaon Khurd	1757	7569	132	0
 Jāmgaon Buzurg	1757	7569	132	0
@@ -91,10 +91,10 @@ Jāmbuda	2252	7021	145	0
 Jambu	2042	8671	702	0
 Jāmboti	1569	7437	77	0
 Jāmbo	2731	7252	344	0
-Jamba	2731	7252	344	0
+Jamba	2731	7252	344	0	Jāmbo
 Jambhulpāda	1865	7330	17	0
 Jāmbāvali	1518	7409	102	0
-Zambaulim	1518	7409	102	0
+Zambaulim	1518	7409	102	0	Jāmbāvali
 Jāmb	2062	7893	143	0
 Jamanpur	2372	7197	240	0
 Jamania	2864	8005	683	0
@@ -104,14 +104,14 @@ Jamal	2933	7498	585	0
 Jamāhar	2628	7817	484	0
 Jām	2589	8390	536	0
 Jāmb	2139	7958	404	0
-Jām	2139	7958	404	0
-Jamunbhār	2694	8496	396	0
+Jām	2139	7958	404	0	Jāmb
+Jamunbhār	2694	8496	396	0	Adāpur
 Jāmpur	2294	8819	279	0
 Jāmāibati	2285	8816	279	0
 Jāmbāria	2255	8884	450	0
 Bāgh-i-Zamān	3427	7478	595	0
 Jamotiān	3292	7463	581	0
-Jamatiān	3292	7463	581	0
+Jamatiān	3292	7463	581	0	Jamotiān
 Jāmūn di Chhapri	3295	7458	581	0
 Jamāna Bela	3277	7460	581	0
 Jamiān	3390	7435	1	0
@@ -124,20 +124,20 @@ Jamālpur	2965	7734	449	0
 Dukheri Jamālpur	2965	7746	328	0
 Jamālpur	2956	7743	328	0
 Jhamun	3124	7704	479	0
-Jammu	3124	7704	479	0
+Jammu	3124	7704	479	0	Jhamun
 Jamog	3124	7709	479	0
 Jamogra	3124	7709	479	0
-Jamlog	3114	7703	479	0
+Jamlog	3114	7703	479	0	Jemlog
 Jamog	3117	7703	479	0
 Jamtola	2991	7869	612	0
 Jāmal	2990	7854	612	0
 Jameli	2989	7864	612	0
-Jamoli	2989	7864	612	0
+Jamoli	2989	7864	612	0	Jameli
 Jhampa	2980	7870	612	0
 Bīni Jamargadi	2979	7856	612	0
 Jamargadi	2977	7858	612	0
 Jamīlāpet	1749	7873	129	0
-Jamilpet	1749	7873	129	0
+Jamilpet	1749	7873	129	0	Jamīlāpet
 Jambuli	1314	8024	204	0
 Jamālpur	2492	7848	384	0
 Jamora	2487	7837	384	0
@@ -152,9 +152,9 @@ Jamni ka Nagla	2685	7907	290	0
 Jhammanpur	2684	7913	290	0
 Harki Jameh	2645	7903	334	0
 Jameh Behar	2645	7906	334	0
-Behar ki Jameh	2645	7906	334	0
+Behar ki Jameh	2645	7906	334	0	Jameh Behar
 Khargupura Jamālpur	2638	7919	741	0
-Jamālpur	2638	7919	741	0
+Jamālpur	2638	7919	741	0	Khargupura Jamālpur
 Jamādār ki Dhāni	2689	7568	121	0
 Jamālīpur	2646	7943	715	0
 Jamlāpur Zunnārdār	2635	7932	741	0
@@ -164,7 +164,7 @@ Jamlāpur Dhiyān	2632	7935	741	0
 Jamlāpur Churkhi	2623	7948	741	0
 Jamniāpur	2695	7961	570	0
 Jamunia Purwa	2690	7958	570	0
-Jamunid Purwa	2690	7958	570	0
+Jamunid Purwa	2690	7958	570	0	Jamunia Purwa
 Jamāipur	2675	7964	715	0
 Malkhānpur Jamthar	2669	7977	671	0
 Nawāda Jamni	2667	7979	671	0
@@ -189,7 +189,7 @@ Jamburdi Sarwar	2284	7572	660	0
 Jamodi	2297	7589	660	0
 Jamguri	2639	9396	740	0
 Jamun	2341	7955	521	0
-Jamun Kheda	2341	7955	521	0
+Jamun Kheda	2341	7955	521	0	Jamun
 Jamun Taradehi	2328	7947	521	0
 Deora Jamsha	2420	7978	521	0
 Jamalapur	2175	8723	421	0
@@ -254,7 +254,7 @@ Jamālpur	2740	7684	482	0
 Jamuwa	3066	7781	448	0
 Jāmna	3062	7776	534	0
 Jamālpur Pathāni	2942	7814	575	0
-Jamālpur Khoku	2944	7823	575	0
+Jamālpur Khoku	2944	7823	575	0	Tānkli
 Jamālpur Khurd	2992	7806	596	0
 Jamālpur Kalān	2991	7812	596	0
 Jamniya Jāmsha	2359	7848	338	0
@@ -318,7 +318,7 @@ Jāmunjhiri	2210	7893	337	0
 Jamuniya	2209	7879	337	0
 Jambāra	2194	7823	462	0
 Jambāri Khurd	2195	7825	462	0
-Jambāri	2195	7825	462	0
+Jambāri	2195	7825	462	0	Jambāri Khurd
 Jāmunijhiri	2188	7822	462	0
 Jāmthi	2191	7801	462	0
 Jāmthi Buzurg	2186	7808	462	0
@@ -379,15 +379,15 @@ Jāmanwāla Uparla	3036	7801	448	0
 Jamankhāl	3029	7817	448	0
 Jāmna Kātal	3033	7820	500	0
 Jhamtiyālgaon	3039	7820	500	0
-Jamalpur Udāichand	2926	7860	575	0
-Jamālpur Udāichand	2929	7859	575	0
+Jamalpur Udāichand	2926	7860	575	0	Mirza Ālīpur
+Jamālpur Udāichand	2929	7859	575	0	Mirzāpur
 Roshan Zamīrpur	2932	7862	575	0
-Āzampur Jamnībhān	2933	7861	575	0
-Muhammadpur Jamālpur	2932	7861	575	0
+Āzampur Jamnībhān	2933	7861	575	0	Bhinauti
+Muhammadpur Jamālpur	2932	7861	575	0	Ghosiwāla
 Jamanpur	2944	7862	575	0
 Jamunwala	2947	7874	575	0
 Shāhpur Jamāl	2933	7868	575	0
-Fatehpur Jamāl	2932	7865	575	0
+Fatehpur Jamāl	2932	7865	575	0	Manoharwāli
 Jamālpur	2827	7908	117	0
 Jam	2850	7919	342	0
 Jāmgaon	2420	7625	16	0
@@ -521,7 +521,7 @@ Muhammadpur Jhamjham	2706	7857	403	0
 Jamalipur	2701	7859	403	0
 Jambaldinne	1611	7701	50	0
 Jāmni	2799	7877	117	0
-Tappa Jāmni	2799	7878	117	0
+Tappa Jāmni	2799	7878	117	0	Aurangābād
 Jamālpur	2780	7882	616	0
 Jambaldinni	1608	7746	50	0
 Jamālpur Siya	2798	7804	543	0
@@ -614,7 +614,7 @@ Nagla Jhamman	2747	7889	464	0
 Ganga Jamni	2742	7893	464	0
 Nagla Jamlāpur	2742	7894	464	0
 Jamlāpur	2742	7894	464	0
-Nagla Jhamman	2741	7891	464	0
+Nagla Jhamman	2741	7891	464	0	Nagla Desi
 Nagla Jamuniyān	2738	7897	464	0
 Jamālpur	2406	7757	215	0
 Jamniya	2432	7781	410	0
@@ -756,7 +756,7 @@ Jamūkhera	2151	7749	462	0
 Jāmundhāna	2192	7754	462	0
 Jāmu	2180	7754	462	0
 Jamanya	2175	7768	462	0
-Jamunia	2175	7768	462	0
+Jamunia	2175	7768	462	0	Jamanya
 Jāmūthāna	2180	7772	462	0
 Jāmjhiri	2165	7768	462	0
 Jāmjhiri Dhāna	2165	7770	462	0
@@ -1058,7 +1058,7 @@ Jhamal Khera	2637	8100	312	0
 Jamkoriāpur	2625	8097	681	0
 Balāwās Zamanpur	2827	7657	519	0
 Zamīn Bagherwā	2573	8299	498	0
-Jhamkāpur	2569	8290	32	0
+Jhamkāpur	2569	8290	32	0	Brahmanpur
 Jamuārī	2571	8284	32	0
 Jhāmpura	2569	8285	32	0
 Chak Zamīn	2566	8293	32	0
@@ -1071,8 +1071,8 @@ Purwa Zamān	2612	8099	681	0
 Jamrāwān	2602	8100	728	0
 Jamāldinpur	2913	7814	575	0
 Jamāldi	2957	7829	575	0
-Ibrāhīmpur Jamāluddīn	2957	7829	575	0
-Shāh Alīpur Jaman	2956	7843	575	0
+Ibrāhīmpur Jamāluddīn	2957	7829	575	0	Jamāldi
+Shāh Alīpur Jaman	2956	7843	575	0	Rāipur Sādat
 Jamālpur Dhekli	2952	7847	575	0
 Kalānpur Jamāl	2945	7840	575	0
 Jamalpur Bāngar	2938	7845	575	0
@@ -1207,7 +1207,7 @@ Jamālpur	2829	7836	646	0
 Jāmbhrun	1999	7779	67	0
 Jāmb	1965	7796	67	0
 Jamania Khurd	2893	7856	511	0
-Bamania Jampuri	2892	7862	483	0
+Bamania Jampuri	2892	7862	483	0	Mazra Bahmanpuri
 Jamālpur Munda Nagla	2894	7867	511	0
 Mundāla Muhammad Zamānpur	2891	7866	511	0
 Ganga Jamni	2814	7982	470	0
@@ -1246,13 +1246,13 @@ Jamālpur	2822	7862	646	0
 Jamālpur Pīri	2807	7869	117	0
 Jamāl Patti	2614	8184	662	0
 Purwa Jhām Singh	2610	8181	662	0
-Zamānpur	2867	7877	511	0
+Zamānpur	2867	7877	511	0	Muhammadpur
 Jamni	2758	8205	280	0
-Jamīma Jārai	2848	7879	646	0
+Jamīma Jārai	2848	7879	646	0	Akbarpur
 Jamni	2757	8220	280	0
 Jamanpur	2751	8220	280	0
 Zampathar	3378	7475	678	0
-Tappa Jāmni	2801	7879	117	0
+Tappa Jāmni	2801	7879	117	0	Bhīkampur
 Bhujpura Tappa Jāmni	2802	7886	117	0
 Pura Jamna	2735	8202	542	0
 Chotki Jamnahi	2734	8204	542	0
@@ -1372,7 +1372,7 @@ Jamālpur	2595	8305	498	0
 Jamālpur Bhelkhara	2597	8309	498	0
 Jamālpur	2599	8314	498	0
 Jamkhori	2619	8229	597	0
-Jamki	2586	8316	498	0
+Jamki	2586	8316	498	0	Balīpur
 Jhamai Purwa	2614	8231	597	0
 Jamui	2577	8310	498	0
 Jamauli	2607	8249	32	0
@@ -1384,7 +1384,7 @@ Jhamai Jot	2674	8266	154	0
 Jamnipur	2648	8254	553	0
 Jamālpur	2636	8252	553	0
 Jamalpur	2628	8261	553	0
-Guānwān Jamālpur	2627	8262	553	0
+Guānwān Jamālpur	2627	8262	553	0	Gurāen
 Jamāluddīnpur	2640	8261	553	0
 Jamāluddīnpur	2640	8263	553	0
 Jamālāpur	2645	8262	553	0
@@ -1407,7 +1407,7 @@ Jamāpur	2681	8284	154	0
 Jāmrāon	2674	8278	154	0
 Jamālpur	2661	8281	154	0
 Jamuhat	2669	8297	647	0
-Jamīrpur	2582	8330	498	0
+Jamīrpur	2582	8330	498	0	Burhanpur
 Jamuān	2583	8334	498	0
 Zamīn Saraunda	2587	8338	586	0
 Jamālpur	2599	8340	586	0
@@ -1628,7 +1628,7 @@ Jamunia	2253	8042	480	0
 Jāmunpāni	2267	8042	480	0
 Jamgaon	2265	8048	480	0
 Jāmbahār	2039	8135	704	0
-Jāmpāra	2002	8134	659	0
+Jāmpāra	2002	8134	659	0	Iragaon
 Jāmgaon	2098	8168	652	0
 Jamnāhī	2241	8031	480	0
 Jāmuntolā	2230	8033	144	0
@@ -1764,7 +1764,7 @@ Jāmri	2023	8044	644	0
 Jāmnāra	2069	8054	135	0
 Jāmri	2035	8063	644	0
 Jāmsarār Kalān	2098	8083	474	0
-Jamāntola	2081	8089	474	0
+Jamāntola	2081	8089	474	0	Parewādih
 Jāmnāra	2087	8096	474	0
 Jamunia	2291	8106	468	0
 Jhāmul	2253	8117	468	0
@@ -2375,7 +2375,7 @@ Jamuniya	2235	7940	368	0
 Jāmuntola	2237	7944	368	0
 Jamālpur	2669	7919	290	0
 Jamrehī Awwal	2625	7917	741	0
-Jamrehi	2625	7917	741	0
+Jamrehi	2625	7917	741	0	Jamrehī Awwal
 Jamnidārnri	2697	7947	570	0
 Jamohanpur	2685	7929	290	0
 Jāmni	1970	7914	111	0
@@ -2807,7 +2807,7 @@ Jāmjori	2197	8557	293	0
 Jāmdapahār	2196	8556	293	0
 Jāmdia	2178	8557	293	0
 Jāmpura	2183	8561	293	0
-Jāmpukhar	2186	8562	293	0
+Jāmpukhar	2186	8562	293	0	Govindpur
 Jamunia	2197	8560	293	0
 Jāmdih	2161	8553	293	0
 Jāmnāria	2165	8558	293	0
@@ -2826,7 +2826,7 @@ Jāmuda	2179	8585	293	0
 Jāmbani	2186	8587	382	0
 Jāmūti	2186	8584	382	0
 Jāmunālia	2197	8592	382	0
-Jāmnāri	2197	8592	382	0
+Jāmnāri	2197	8592	382	0	Jāmunālia
 Jamaposi	2158	8585	293	0
 Jamunaposi	2162	8583	293	0
 Jāmnāria	2169	8593	293	0
@@ -2847,7 +2847,7 @@ Jāmodih	2476	8586	473	0
 Jāmtoto	2465	8578	473	0
 Jamua	2453	8588	452	0
 Jamdār	2452	8589	452	0
-Jamuāni	2453	8591	452	0
+Jamuāni	2453	8591	452	0	Chandli
 Jamua	2453	8597	452	0
 Jāmu	2432	8581	473	0
 Jamuāri	2411	8581	452	0

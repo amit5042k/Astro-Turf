@@ -2,17 +2,17 @@ Achalpur	2126	7751	133	112311
 Achampet	1640	7864	467	20721
 Achhnera	2718	7776	546	20532
 Achhībal	3368	7522	148	17556
-Acchabal	3368	7522	148	17556
-Achhawāl	3368	7522	148	17556
-Achhiwāl	3368	7522	148	17556
+Acchabal	3368	7522	148	17556	Achhībal
+Achhawāl	3368	7522	148	17556	Achhībal
+Achhiwāl	3368	7522	148	17556	Achhībal
 Āchāripallam Vāniyakudi	817	7738	453	16822
 Achanputtūr	904	7730	245	13566
-Achampudur	904	7730	245	13566
+Achampudur	904	7730	245	13566	Achanputtūr
 Acharapākkam	1240	7982	247	10362
-Acharapokam	1240	7982	247	10362
+Acharapokam	1240	7982	247	10362	Acharapākkam
 Achchippatti	1070	7701	156	9849
 Achān Chak	3102	7582	369	138
-Accarapatam	1090	7984	455	0
+Accarapatam	1090	7984	455	0	Akkaraivādi
 Achra	1622	7345	213	0
 Achirik	3413	7719	2	0
 Achīna	2867	7637	781	0
@@ -183,7 +183,7 @@ Achraura	2772	8175	618	0
 Achlāpur	2762	8194	618	0
 Achal Purwa	2722	8180	542	0
 Achli Purwa	2700	8192	542	0
-Achgām	2698	8127	30	0
+Achgām	2698	8127	30	0	Karand
 Achli Khera	2667	8110	714	0
 Achāka	2658	8109	714	0
 Salempur Achāka	2658	8110	714	0
@@ -215,7 +215,7 @@ Achalpur	2834	7825	637	0
 Pura Achal Dās	2673	8150	30	0
 Achalpur	2841	7866	646	0
 Achalpur	2831	7870	117	0
-Achāka	2619	8107	681	0
+Achāka	2619	8107	681	0	Pura Lodhan
 Pura Achal Singh	2619	8106	681	0
 Pura Achai	2618	8103	681	0
 Pura Achli	2662	8151	30	0
@@ -413,7 +413,7 @@ Achitpur	2603	8479	540	0
 Achambīttīwāri Chhapra	2581	8412	536	0
 Achui	2590	8417	536	0
 Achhua	2535	8482	604	0
-Achalgarh	2580	8442	536	0
+Achalgarh	2580	8442	536	0	Man Singh Chhapra
 Achuki	2488	8456	137	0
 Achuki	2486	8471	118	0
 Achcheyapālem	1617	7990	10	0

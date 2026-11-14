@@ -1,24 +1,24 @@
 Sīkar	2761	7514	491	244497
 Shikohābād	2711	7859	403	99678
 Sikandarābād	2845	7770	637	73379
-Sikandrabad	2845	7770	637	73379
-Lachhmangarh Sīkar	2782	7503	491	53392
+Sikandrabad	2845	7770	637	73379	Sikandarābād
+Lachhmangarh Sīkar	2782	7503	491	53392	Laxmangarh
 Sikandra Rao	2769	7838	670	42229
 Shikaripura	1427	7536	346	36015
-Shikaripur	1427	7536	346	36015
-Shikarpur	1427	7536	346	36015
+Shikaripur	1427	7536	346	36015	Shikaripura
+Shikarpur	1427	7536	346	36015	Shikaripura
 Shikārpūr	2828	7801	637	34649
 Fatehpur Sīkri	2709	7766	546	30026
 Sikka	2243	6984	145	28814
-Siki	2243	6984	145	28814
+Siki	2243	6984	145	28814	Sikka
 Sikandarpur	2604	8405	536	24177
 Sikandra	2637	7963	671	12289
 Sikkarayapuram	1302	8010	161	10187
 Sikandarpur	2942	7693	298	8894
-Sikanderpur	2942	7693	298	8894
+Sikanderpur	2942	7693	298	8894	Sikandarpur
 Sikhong Sekmai	2464	9409	95	7390
 Sikhera	2886	7757	727	5024
-Shikar	3197	7506	487	4001
+Shikar	3197	7506	487	4001	Shakar
 Sikti	2640	8755	667	0
 Sikrorhi	2601	8008	645	0
 Sikri Patti	2758	7707	114	0
@@ -26,28 +26,28 @@ Sīkri	2954	7792	545	0
 Sikosa	2087	8128	668	0
 Siko	2004	8542	541	0
 Sikkil	1076	7980	239	0
-Sikkle	1076	7980	239	0
+Sikkle	1076	7980	239	0	Sikkil
 Sikkal	925	7864	5	0
-Sikkil	925	7864	5	0
+Sikkil	925	7864	5	0	Sikkal
 Sikerkupa	1992	8340	284	0
 Sikāripāra	2424	8747	669	0
 Sikarhāta	2527	8448	377	0
 Sikarapai	1940	8332	363	0
-Sikarapei	1940	8332	363	0
+Sikarapei	1940	8332	363	0	Sikarapai
 Sikandra	2721	7795	546	0
 Sikandra	2559	8198	607	0
 Sikandra	2496	8603	524	0
 Sikandarābād	2796	8050	323	0
-Sikanderabad	2796	8050	323	0
+Sikanderabad	2796	8050	323	0	Sikandarābād
 Sikoketta	2001	8417	387	0
-Sikaketta	2001	8417	387	0
+Sikaketta	2001	8417	387	0	Sikoketta
 Sīka	2354	7686	16	0
 Shikrapur	1869	7414	52	0
 Shikhi	2723	9370	578	0
 Shikārpura	2603	7305	344	0
 Shikārpur	2711	8446	476	0
 Shikārpur	2495	8023	532	0
-Shikarpura	2495	8023	532	0
+Shikarpura	2495	8023	532	0	Shikārpur
 Shikārpur	2398	8872	528	0
 Shikārpur	2326	7067	108	0
 Shikāra	2280	7986	368	0
@@ -113,7 +113,7 @@ Sīmla Shikohābād	2955	7806	575	0
 Shikahābād	2955	7806	575	0
 Sīkri	2955	7822	575	0
 Sikhroli	2669	7652	116	0
-Sikandarpur	2973	7718	449	0
+Sikandarpur	2973	7718	449	0	Ghausgarh
 Sikandarpur	2955	7724	328	0
 Siknauda Jat	2671	7699	447	0
 Shikārpur	2937	7749	545	0
@@ -187,7 +187,7 @@ Sikhra	2738	7813	670	0
 Siktara	2728	7818	546	0
 Sikandarpur	2726	7800	546	0
 Shikār Mothakpalli	1754	7738	71	0
-Siktara	2704	7809	546	0
+Siktara	2704	7809	546	0	Patti Durjan
 Patti Siktara	2704	7812	546	0
 Sikrārī	2740	7842	711	0
 Sikandarpur	2738	7834	403	0
@@ -222,7 +222,7 @@ Sikandarpur Kalān	2702	7797	546	0
 Sikandarpur Khurd	2702	7796	546	0
 Sikandarpur	2762	7912	616	0
 Sikandarpur	2753	7900	711	0
-Sikandarpur Salbahān	2753	7916	711	0
+Sikandarpur Salbahān	2753	7916	711	0	Khairpur
 Shikārpur	2760	7917	616	0
 Sikandarpur Chhitma	2761	7923	688	0
 Sikandarpur Agu	2764	7915	688	0
@@ -268,7 +268,7 @@ Sikarna Kalān	2794	7836	543	0
 Sikarna Khurd	2794	7837	543	0
 Sikandarpur	2786	7828	543	0
 Sikandarpur	2765	7847	670	0
-Sikandarpur Marni	2753	7830	711	0
+Sikandarpur Marni	2753	7830	711	0	Khwājāpur
 Pārauli Sikarwār	2710	7830	546	0
 Sikrāra	2706	7825	546	0
 Sikahra Hardāspur	2703	7847	403	0
@@ -419,11 +419,11 @@ Shekhpur Shikārpur	2827	7660	519	0
 Shikārpur	2853	7695	763	0
 Sikandarpur	2949	7835	575	0
 Sikandari	2925	7816	575	0
-Sikandrābād	2925	7816	575	0
+Sikandrābād	2925	7816	575	0	Sikandari
 Sikra Aundha	2924	7824	575	0
 Mahmūdpur Sikera	2920	7800	700	0
 Mīrāpur Sīkri	2918	7814	575	0
-Sikandar	2907	7818	575	0
+Sikandar	2907	7818	575	0	Nagla
 Sikanīwāla	2967	7849	575	0
 Sikandarpur	2955	7836	575	0
 Sīkri Buzurg	2936	7838	575	0
@@ -454,12 +454,12 @@ Sikandarpur	2908	7832	575	0
 Sīkarkhera	2902	7830	483	0
 Shikria	2903	7841	483	0
 Rawāna Shikārpur	2914	7849	575	0
-Sappar Shīkohpur	2923	7845	575	0
+Sappar Shīkohpur	2923	7845	575	0	Khadāna
 Sikandarpur	2664	8135	30	0
 Sikki Bot	3417	7404	301	0
 Siklī	2059	7903	143	0
 Shikārpur	2915	7850	575	0
-Sikandarābād	2909	7864	511	0
+Sikandarābād	2909	7864	511	0	Samandgarh
 Sikandarganj	2637	8122	681	0
 Sikandar Khera	2650	8100	681	0
 Sikandarpur	2641	8139	681	0
@@ -474,7 +474,7 @@ Sikri	2545	8115	643	0
 Sikri	2718	8078	686	0
 Behta Sikat	2629	8039	469	0
 Milak Sikhrauli	2868	7826	483	0
-Sikandarpur	2869	7844	646	0
+Sikandarpur	2869	7844	646	0	Hasangarh
 Sikri Bhur	2861	7843	483	0
 Sikandrābād	2854	7839	483	0
 Sikandarpur Khāgi	2834	7832	646	0
@@ -483,14 +483,14 @@ Sikandarpur	2842	7834	646	0
 Sikhār	1982	7793	140	0
 Sikandarpur	2896	7853	483	0
 Sīkri	2898	7867	511	0
-Sikandarpur	2899	7864	511	0
+Sikandarpur	2899	7864	511	0	Mehandri
 Sikandarpur	2886	7869	511	0
 Sikandarpur	2804	7988	470	0
 Sikandarpur	2854	7861	646	0
 Sarāi Sikandar	2850	7868	646	0
 Sīkri	2840	7851	646	0
 Sikraura Bhūr	2833	7866	646	0
-Sikandarpur Husainpur	2836	7872	117	0
+Sikandarpur Husainpur	2836	7872	117	0	Beor Qāsimābād
 Sikrauri	2610	8102	681	0
 Sikandarpur	2602	8124	681	0
 Sikraur	2697	8177	542	0
@@ -610,7 +610,7 @@ Siktaur	2684	8335	325	0
 Sikri	2667	8337	325	0
 Siktaur	2670	8342	325	0
 Sikri	2670	8345	325	0
-Sikri Khorābār Jungle	2670	8345	325	0
+Sikri Khorābār Jungle	2670	8345	325	0	Sikri
 Sikta	2679	8370	560	0
 Shikārgarh	2654	8354	325	0
 Sikandarpur	2554	8158	651	0
@@ -973,7 +973,7 @@ Sikwār	2323	8467	321	0
 Sikariātoli	2306	8471	321	0
 Siktātoli	2289	8423	398	0
 Sikoi	2299	8447	321	0
-Sikoi Dumardih	2299	8447	321	0
+Sikoi Dumardih	2299	8447	321	0	Sikoi
 Sikribeorā	2259	8428	495	0
 Sikriādānr	2268	8448	495	0
 Sikorda	2268	8494	495	0
@@ -1020,7 +1020,7 @@ Sikharpānga	2019	8463	548	0
 Sikta	2703	8468	476	0
 Sīkri	2710	7767	546	0
 Sikandarpur	2668	8083	714	0
-Sīkera	2941	7826	575	0
+Sīkera	2941	7826	575	0	Nawāda
 Shikārpur	2714	8450	476	0
 Sikariya	2526	8505	527	0
 Sikandarpur	2767	8005	686	0

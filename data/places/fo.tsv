@@ -1,44 +1,44 @@
-Fort Cochin	994	7626	176	633553
-Kasaragod Fort	1250	7499	305	54172
+Fort Cochin	994	7626	176	633553	Kochi
+Kasaragod Fort	1250	7499	305	54172	Kāsaragod
 Forbesganj	2630	8727	667	50475
-Fort Dansborg	1103	7985	203	23191
+Fort Dansborg	1103	7985	203	23191	Tharangambadi
 Fort Gloster	2250	8818	354	18350
 Forest Village Lakhipathar	2745	9558	460	6129
-Meghahatuburu Forest Village	2207	8527	287	5992
-Chapora Fort	1560	7374	188	1000
+Meghahatuburu Forest Village	2207	8527	287	5992	Meghahatuburu
+Chapora Fort	1560	7374	188	1000	Chapora
 Wardhangarh Fort	1773	7426	64	0
-Wardhangarth Fort	1773	7426	64	0
-Fort Tughlakabad	2851	7727	419	0
-Torna Fort	1827	7362	52	0
-Tirakul Fort	1573	7368	238	0
+Wardhangarth Fort	1773	7426	64	0	Wardhangarh Fort
+Fort Tughlakabad	2851	7727	419	0	Tughlakābād
+Torna Fort	1827	7362	52	0	Torna
+Tirakul Fort	1573	7368	238	0	Terekhol
 Phokur	1948	8045	135	0
 Photaksar	3407	7682	2	0
 Phopnār Kalān	2124	7633	29	0
-Phopnār	2124	7633	29	0
+Phopnār	2124	7633	29	0	Phopnār Kalān
 Phonda	1638	7381	213	0
 Phobrang	3405	7844	2	0
-Forte de Nagoá	2072	7092	218	0
+Forte de Nagoá	2072	7092	218	0	Nagwa
 Mohan Fort	2207	7406	126	0
-Juria Fort	2269	7031	145	0
-Hosdrug Fort	1232	7509	305	0
+Juria Fort	2269	7031	145	0	Jodiya
+Hosdrug Fort	1232	7509	305	0	Hosdrug
 Fort Saint David	1174	7979	178	0
-Bekal Fort	1240	7504	305	0
+Bekal Fort	1240	7504	305	0	Bekal
 Bandhogarh Fort	2368	8104	350	0
 Bandar Fort	1617	8117	68	0
-Aguada Fort	1550	7377	188	0
+Aguada Fort	1550	7377	188	0	Aguada
 Phogān	2854	7466	539	0
-Richhwa Forest	3325	7422	504	0
+Richhwa Forest	3325	7422	504	0	Dehra
 Phojdārān Ki Dhāni	2657	7188	217	0
-Fotehpur	2974	7743	449	0
+Fotehpur	2974	7743	449	0	Fatehpur
 Phoperikhār	1874	7295	17	0
 Phoplivādi	1841	7297	17	0
 Nangal Plot Fourteen	3005	7653	501	0
 Plot Four	3000	7652	501	0
 Fort Kochi	997	7624	176	0
-Fort Cochin	997	7624	176	0
+Fort Cochin	997	7624	176	0	Fort Kochi
 Phogalia Tibba	2771	7108	217	0
 Fort	1893	7284	106	0
-Fort Mumbai	1893	7284	106	0
+Fort Mumbai	1893	7284	106	0	Fort
 Photspi	2526	9152	340	0
 Phoipi	2452	9360	437	0
 Phophalya	2445	7525	655	0
@@ -74,7 +74,7 @@ Chak Four K K	2972	7377	374	0
 Chak Fifty Four L N P	2959	7381	374	0
 Phoksa	3014	7705	691	0
 Foridpur Mān	2943	7825	575	0
-Forest Village	2027	7809	67	0
+Forest Village	2027	7809	67	0	Kharad
 Pholera	2474	7294	23	0
 Phopati	2453	7360	22	0
 Fojbarli	2452	7418	22	0
@@ -116,8 +116,8 @@ Phodinanē	3339	7568	34	0
 Phogal	3260	7529	720	0
 Bāral Bhalun Protected Forest	3230	7586	38	0
 Phophir	2072	7426	54	0
-Forest Village	2273	8097	468	0
-Forest Village	2267	8092	480	0
+Forest Village	2273	8097	468	0	Gorakhpur
+Forest Village	2267	8092	480	0	Churghutī
 Phonk	2242	8079	480	0
 Phopsā	2145	8049	144	0
 Forest Godown	3199	7556	296	0
@@ -140,7 +140,7 @@ Phophal Mota	2310	7373	142	0
 Foresterdoddi	1254	7736	626	0
 Kallana Forest Bungalow	1028	7656	176	0
 Talaināyar Four Setti	1051	7978	239	0
-Setti Four	1037	7975	239	0
+Setti Four	1037	7975	239	0	Āyakkārambalam
 Phoraam	2421	8690	502	0
 Phori	2311	8460	321	0
 Phodutoli	2255	8485	495	0

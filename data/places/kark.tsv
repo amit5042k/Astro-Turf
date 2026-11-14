@@ -1,17 +1,17 @@
 Kārkala	1321	7499	257	25800
-Kārkāl	1321	7499	257	25800
+Kārkāl	1321	7499	257	25800	Kārkala
 Kharkhauda	2888	7691	485	25051
-Kharkhoda	2888	7691	485	25051
+Kharkhoda	2888	7691	485	25051	Kharkhauda
 Kharkhauda	2884	7774	700	13189
 Kharkhari	2378	8624	401	5656
 Kharki	3112	7745	479	273
 Kharki	1796	7433	64	0
 Khārkhand	1889	7291	17	0
 Kharkari	2675	7471	446	0
-Karkeri	2675	7471	446	0
+Karkeri	2675	7471	446	0	Kharkari
 Kharkāla	2143	7134	216	0
 Kharka	2632	7830	484	0
-Kharka	1848	7737	140	0
+Kharka	1848	7737	140	0	Mukramābād
 Karkota	2395	8266	631	0
 Karko	2857	9505	392	0
 Karkkangudi	1095	7977	455	0
@@ -20,11 +20,11 @@ Kharkheli	1896	7774	140	0
 Karkheli	1836	7704	158	0
 Karkeli	2346	8090	350	0
 Karkamb	1787	7530	132	0
-Karkam	1787	7530	132	0
-Karkālī	3064	7688	587	0
+Karkam	1787	7530	132	0	Karkamb
+Karkālī	3064	7688	587	0	Kakrāli
 Karka	1885	8161	600	0
 Karkiāl	3293	7495	666	0
-Kharkāli	2960	7697	457	0
+Kharkāli	2960	7697	457	0	Kharakwāli
 Karkitchhu	3460	7605	8	0
 Kharkhari	2838	7601	694	0
 Kharkhari Nāhar	2858	7696	763	0
@@ -84,13 +84,13 @@ Kharka	2105	7899	141	0
 Khark	3098	7573	674	0
 Kharkri Dayālpur	2982	7776	596	0
 Karkar Dūmān	2865	7730	693	0
-Karkri	2865	7730	693	0
+Karkri	2865	7730	693	0	Karkar Dūmān
 Karkar Mandan	2867	7734	727	0
 Nusratābād Kharkhari	2878	7732	727	0
 Karkara	2584	7408	572	0
 Karkara	2583	7417	572	0
 Kharkhari	2921	7588	339	0
-Karkoli	2920	7710	298	0
+Karkoli	2920	7710	298	0	Kālka
 Karkheri	2833	7902	117	0
 Karkhera	2403	7630	16	0
 Kharkheri	2422	7642	525	0
@@ -124,7 +124,7 @@ Karkoti	2190	7965	368	0
 Karkapura	2688	7758	546	0
 Karkaur	2799	7958	470	0
 Khār ka Pura	2683	7794	622	0
-Karkhwāh	2565	7718	335	0
+Karkhwāh	2565	7718	335	0	Tiktauli
 Kharka ki Musrenri	2511	7724	336	0
 Karki	2115	7611	78	0
 Karkhiya	2466	7760	410	0
@@ -226,7 +226,7 @@ Karkaura	2839	7833	646	0
 Karkauri	2839	7832	646	0
 Kārkhed	1947	7771	67	0
 Kharkhoda Azampur	2878	7853	483	0
-Karkasha	2614	8107	681	0
+Karkasha	2614	8107	681	0	Ekshamba
 Kharka	2663	8174	629	0
 Kharkuiān	2700	8182	542	0
 Kharkhol	2815	7869	117	0
@@ -243,7 +243,7 @@ Purwa Karkat	2644	8210	597	0
 Kharka Bhāri	2657	8234	553	0
 Kharkādeori	2678	8255	154	0
 Kharkābhāri	2667	8265	154	0
-Kharka	2593	8334	498	0
+Kharka	2593	8334	498	0	Murārpur
 Kharkatwa	2707	8314	325	0
 Kharkharia	2710	8316	325	0
 Purwa Kharkwa	2683	8307	647	0
@@ -322,7 +322,7 @@ Kharkion Iaga Gwar	3000	7899	612	0
 Kharkholi	2986	7876	612	0
 Kharkhāli	2898	7807	700	0
 Kharkhauda	2860	7824	483	0
-Karkaura	2828	7816	637	0
+Karkaura	2828	7816	637	0	Māhārājpūr
 Kārkhera	2899	7891	552	0
 Kārkheri	2899	7893	552	0
 Kharkatan Purwa	2771	8131	294	0

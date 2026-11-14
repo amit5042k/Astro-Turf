@@ -1,19 +1,19 @@
 Indore	2272	7583	660	1994397
-Indaur	2272	7583	660	1994397
-Indore Madhya Pradesh	2272	7583	660	1994397
-Indhur	2272	7583	660	1994397
-Temple City of India	2027	8583	541	885363
+Indaur	2272	7583	660	1994397	Indore
+Indore Madhya Pradesh	2272	7583	660	1994397	Indore
+Indhur	2272	7583	660	1994397	Indore
+Temple City of India	2027	8583	541	885363	Bhubaneswar
 Raurkela Industrial Township	2220	8486	272	216410
 Indi	1718	7595	80	38217
 Vapi INA	2036	7293	261	34162
 Indāpur	1830	7325	17	26752
-Indapuri	1830	7325	17	26752
+Indapuri	1830	7325	17	26752	Indāpur
 Indāpur	1812	7503	52	25515
-Babra (India : Taluka)	2185	7131	216	25270
+Babra (India : Taluka)	2185	7131	216	25270	Bābra
 Anklesvar INA	2162	7303	151	24789
 Injambakkam	1292	8025	247	23346
 Indargarh	2591	7856	503	23045
-Doda District (India)	3315	7555	372	21605
+Doda District (India)	3315	7555	372	21605	Doda
 Sarigam INA	2029	7285	261	19903
 Inam Maniyachi	917	7785	208	18258
 Indri	2988	7706	457	17487
@@ -23,14 +23,14 @@ Dever Inder Bug	3446	7445	0	10863
 Chhatral INA	2329	7244	276	10215
 Nandesari INA	2241	7310	159	8290
 Indargarh	2573	7619	353	7444
-Indragarh	2573	7619	353	7444
+Indragarh	2573	7619	353	7444	Indargarh
 Inda Chhoi	2964	7579	443	7000
 Umbergaon INA	2017	7278	261	6976
 Hajira INA	2111	7265	139	5562
 Vithal Udyognagar INA	2253	7293	157	5035
 Indipur	2066	8552	289	4656
 Indpur	3215	7573	38	4534
-Indora	3215	7573	38	4534
+Indora	3215	7573	38	4534	Indpur
 Bharuch INA	2173	7301	151	3332
 Sachin INA	2109	7286	139	2680
 O.C.L. Industrial Township	2221	8459	272	2397
@@ -42,25 +42,25 @@ Kalol INA	2321	7252	276	535
 Inder Hama	3417	7486	611	294
 Vaghodia INA	2230	7338	159	248
 Vasna Borsad INA	2239	7291	157	166
-Tiru Indalūr	1111	7965	203	0
+Tiru Indalūr	1111	7965	203	0	Tiruvilandūr
 Īnyāra	2768	7407	539	0
-Inwāra	2768	7407	539	0
+Inwāra	2768	7407	539	0	Īnyāra
 Inukurti	1434	7971	6	0
 Intāli	2468	7413	22	0
 Ïnt	1862	7560	48	0
 Inshan	3381	7557	34	0
 Inkollu	1583	8019	220	0
-Inkole	1583	8019	220	0
+Inkole	1583	8019	220	0	Inkollu
 Inhauna	2652	8149	662	0
 Ingoie	1052	9248	442	0
 Ingleshwār	1665	7602	80	0
 Indva	2122	7445	190	0
 Indūr	1213	7806	110	0
 Indukūrupeta	1447	8011	6	0
-Indukapet	1447	8011	6	0
+Indukapet	1447	8011	6	0	Indukūrupeta
 Indraprast	2848	7730	774	0
-Indraprastha	2848	7730	774	0
-Indarpat	2848	7730	774	0
+Indraprastha	2848	7730	774	0	Indraprast
+Indarpat	2848	7730	774	0	Indraprast
 Indrāni	2413	8802	471	0
 Indranda	2763	7631	482	0
 Indrāna	2566	7228	285	0
@@ -78,13 +78,13 @@ Indagaon	2008	8237	297	0
 Inamanamellūru	1560	8007	200	0
 Ina Khera	3026	7449	615	0
 Inaka	807	9353	79	0
-Ingoitijala	1055	9235	442	0
+Ingoitijala	1055	9235	442	0	Ignoitijala
 Ināyetpur	2217	8831	4	0
 Kachh-i-Nambal	3430	7491	595	0
 Taki-i-Nizām	3410	7490	611	0
 Indarkūt	3423	7463	120	0
 Khirman-i-Nandram	3440	7430	0	0
-Kherman-i-Nandram	3440	7430	0	0
+Kherman-i-Nandram	3440	7430	0	0	Khirman-i-Nandram
 Indri	3281	7458	581	0
 Ināyatpur	3002	7789	596	0
 Indargarh	2986	7706	457	0
@@ -96,11 +96,11 @@ Indārkan	1752	7815	31	0
 Indūrparial	1792	7856	466	0
 Indrasham	1757	7826	31	0
 Indira Nagar	1300	8025	204	0
-Okhla Industrial Development Area	2853	7728	419	0
-Okhla Industrial Estate	2853	7728	419	0
-Okhla Industrial Area	2853	7728	419	0
-New Okhla Industrial Development Area	2853	7728	419	0
-Okhla Industrial Development Authority	2853	7728	419	0
+Okhla Industrial Development Area	2853	7728	419	0	Okhla
+Okhla Industrial Estate	2853	7728	419	0	Okhla
+Okhla Industrial Area	2853	7728	419	0	Okhla
+New Okhla Industrial Development Area	2853	7728	419	0	Okhla
+Okhla Industrial Development Authority	2853	7728	419	0	Okhla
 IndiraNagar	1297	7764	43	0
 InnerRing Road	1295	7764	43	0
 Indāsar	2875	7550	539	0
@@ -113,9 +113,9 @@ Indarpur	2709	7942	464	0
 Indarpokharia	2711	7935	464	0
 Ināyatpur	2705	7983	570	0
 Indhara	2676	7910	290	0
-Indhauwa	2676	7910	290	0
+Indhauwa	2676	7910	290	0	Indhara
 Indokhia ki Dhāni	2694	7560	121	0
-Intokiya ki Dhāni	2694	7560	121	0
+Intokiya ki Dhāni	2694	7560	121	0	Indokhia ki Dhāni
 Inguri	2637	7940	741	0
 Intaun	2632	7933	741	0
 Indi	2563	7913	433	0
@@ -133,7 +133,7 @@ Ingurti	1765	7974	762	0
 Indāpur	1945	7914	162	0
 Indoka	2711	7450	430	0
 Ingalgi	1512	7524	682	0
-Ināmi	2041	7535	113	0
+Ināmi	2041	7535	113	0	Shendra
 Garmal, India	2249	8723	677	0
 Pipariya Shahnai, India	2405	7942	521	0
 Indrawal Kalan	2346	7480	568	0
@@ -241,9 +241,9 @@ Indmai	2713	7851	403	0
 Indarnagar	2783	7883	616	0
 Ināyatpur Bajhera	2783	7802	543	0
 Ind-ka-Nagla	2724	7876	464	0
-Indāwali	2734	7783	177	0
+Indāwali	2734	7783	177	0	Shahzādpur
 Nagla Inchhia	2736	7792	670	0
-Nagla Indarjīt	2767	7879	616	0
+Nagla Indarjīt	2767	7879	616	0	Arjunpur Nauābād
 Nagla Indar	2757	7900	711	0
 Innīkhera	2674	7840	478	0
 Indra Garhi	2701	7777	546	0
@@ -252,7 +252,7 @@ Nagla Inchha	2688	7891	290	0
 Indar	2769	7911	616	0
 Injegaon	1945	7826	140	0
 Inol	1758	7825	31	0
-Indrapura	2653	7736	622	0
+Indrapura	2653	7736	622	0	Gastīpura
 Indrapura	2652	7733	622	0
 Indora Bāzār	2118	7910	141	0
 Indora	2118	7910	141	0
@@ -283,7 +283,7 @@ Inda Purwa	2728	7990	686	0
 Īnto	2583	7799	484	0
 Inderpur	2437	7739	336	0
 Nagla Indi	2745	7877	711	0
-Ingiekheri	2453	7773	410	0
+Ingiekheri	2453	7773	410	0	Semri
 Jāu Ināyatpur	2767	7828	670	0
 Ināyatpur	2768	7829	670	0
 Indlūr	1706	7942	101	0
@@ -307,7 +307,7 @@ Ingui Khurd	2585	7913	741	0
 Ingui Kalān	2586	7911	741	0
 Indarpura	2586	7968	645	0
 Ināyatpur	2514	8044	463	0
-Intgaon	2571	8113	728	0
+Intgaon	2571	8113	728	0	Qasba Sohan
 Ināyatpur	2553	8115	728	0
 Indrahta	2514	7947	614	0
 Indaura	2528	7966	614	0
@@ -322,8 +322,8 @@ Intaha	2561	8313	26	0
 Indrāini	2689	7848	546	0
 Nagla Īnt	2691	7861	546	0
 Īnguri	2664	7871	334	0
-Īngurīkhod	2662	7870	334	0
-Ingosa	2659	7858	334	0
+Īngurīkhod	2662	7870	334	0	Narsinghgarh
+Ingosa	2659	7858	334	0	Rāipura
 Indra Purwa	2515	8320	724	0
 Indra Purwa	2516	8320	724	0
 Indarpura	2509	8322	724	0
@@ -332,7 +332,7 @@ Indargarh	2560	7804	436	0
 Ināmīpur	2554	8327	26	0
 Ināyatpur	2554	8325	26	0
 Inglish Arāzi	2571	8338	26	0
-Arāzi Inglish	2573	8349	26	0
+Arāzi Inglish	2573	8349	26	0	Dharmāngatpur
 Arāzi Inglish	2567	8348	26	0
 Indarpur Chhīri	2564	8347	26	0
 Ināyatpur	2538	8336	724	0
@@ -366,7 +366,7 @@ Indora	2070	7995	404	0
 Ingalgi	1678	7685	72	0
 Indrathāna	2043	7784	67	0
 Indārwās	2370	7806	215	0
-Marhiya Indarwās	2368	7806	215	0
+Marhiya Indarwās	2368	7806	215	0	Keata
 Ināyatpur	2373	7813	215	0
 Indergūda	1725	7838	62	0
 Indrakallu	1656	7835	467	0
@@ -378,12 +378,12 @@ Indvār	1617	7621	86	0
 Indarweli	1950	7868	282	0
 Injhāsan	1994	7887	67	0
 Pāta Indarweli	1949	7867	282	0
-Ināmi	1987	7884	67	0
-Ināmi	1984	7887	67	0
-Ināmi	1977	7886	67	0
-Ināmi	1976	7883	67	0
-Ināmi	1980	7890	67	0
-Ināmi	1987	7890	67	0
+Ināmi	1987	7884	67	0	Dongargaon
+Ināmi	1984	7887	67	0	Ganeshpur
+Ināmi	1977	7886	67	0	Pimprod
+Ināmi	1976	7883	67	0	Bahilampur
+Ināmi	1980	7890	67	0	Adegaon
+Ināmi	1987	7890	67	0	Nerad
 Intama	2489	8137	516	0
 Ingua	2476	8127	516	0
 Intora	2459	8135	516	0
@@ -482,9 +482,9 @@ Kuti Indal Dās	2672	8143	30	0
 Intahia	2674	8139	30	0
 Purwa Intia	2668	8148	30	0
 Indora Buzurg	2148	7994	171	0
-Indurkar	2076	7904	141	0
+Indurkar	2076	7904	141	0	Kalamnā
 Indāpur	2073	7923	141	0
-Ināyatpur	2902	7862	511	0
+Ināyatpur	2902	7862	511	0	Maghpuri
 Indargaon	2972	7889	612	0
 Garhi Indarjīt	2927	7899	641	0
 Intkuti	2632	8108	681	0
@@ -494,7 +494,7 @@ Injhāsun	2010	7910	111	0
 Ināyatnagar	2912	7888	511	0
 Pura Indar	2633	8184	597	0
 Purwa Indar	2649	8195	597	0
-Indri	2124	7434	186	0
+Indri	2124	7434	186	0	Hatti
 Īntkārara	2881	7840	483	0
 Bibī Ingalgi	1664	7624	80	0
 Rājāpur Indaura	2701	8090	714	0
@@ -509,7 +509,7 @@ Indrāpur	2738	8181	294	0
 Ināpur	1977	7751	67	0
 Khajra Ināyatganj	2843	7842	646	0
 Injani	1988	7785	67	0
-Intzām Alīkhān	2893	7857	483	0
+Intzām Alīkhān	2893	7857	483	0	Sultānpur
 Indarpur Zamīma Sūtha	2811	7977	470	0
 Indar Kho	2805	7994	470	0
 Jiginiān Zamīma Indar Kho	2806	7993	470	0
@@ -662,23 +662,23 @@ Indarwāl	3314	7588	34	0
 Ingārata	3320	7597	34	0
 Indarni Bhagwān	3265	7526	720	0
 Bhurai In	3252	7539	496	0
-Inguwān	2540	8167	607	0
+Inguwān	2540	8167	607	0	Kāthgaon
 Katra Indarkunwar	2587	8192	718	0
 Indalpur	2540	8185	607	0
 Sarāi Ināyat	2543	8197	607	0
 Intār	2517	8189	607	0
 Intār	2518	8189	607	0
-Ināmi	2072	7527	78	0
-Ināmi	2073	7508	78	0
-Ināmi	2069	7509	78	0
-Ināmi	2068	7511	78	0
-Ināmi	2060	7512	78	0
-Ināmi	2059	7546	78	0
-Ināmi	2056	7537	113	0
-Ināmi	2008	7504	113	0
-Ināmi	2002	7522	113	0
-Ināmi	2009	7516	113	0
-Ināmi	2014	7515	113	0
+Ināmi	2072	7527	78	0	Varkhedi
+Ināmi	2073	7508	78	0	Shivra
+Ināmi	2069	7509	78	0	Pandgaon
+Ināmi	2068	7511	78	0	Shindi
+Ināmi	2060	7512	78	0	Gondgaon
+Ināmi	2059	7546	78	0	Jāvkhedi
+Ināmi	2056	7537	113	0	Pohori Khurd
+Ināmi	2008	7504	113	0	Shevta
+Ināmi	2002	7522	113	0	Sarāi
+Ināmi	2009	7516	113	0	Chincholi
+Ināmi	2014	7515	113	0	Ruikheda
 Indrī	2240	8034	480	0
 Indrā	2276	8059	480	0
 Iinsātolā	2258	8055	480	0
@@ -688,7 +688,7 @@ Ināyatpura	3179	7493	222	0
 Ināyat	2912	7678	485	0
 Indrī	2229	8096	480	0
 Indra	2550	7340	273	0
-Intdara Mertiān	2550	7340	273	0
+Intdara Mertiān	2550	7340	273	0	Indra
 Intdara Chārnān	2538	7330	273	0
 Indorā	2139	8001	171	0
 Indrāivādi	2036	7423	54	0
@@ -906,7 +906,7 @@ Bikram Inglispur	2538	8405	620	0
 Indāpur	2530	8403	620	0
 Bābuganj Inglis	2537	8412	620	0
 Chorpokhar Inglis	2535	8413	409	0
-Inglis	2544	8412	620	0
+Inglis	2544	8412	620	0	Bikrampur
 Inarhiya	2501	8412	409	0
 Chāndi Inglis	2521	8417	409	0
 Chaita Inglis	2512	8419	409	0
@@ -1093,7 +1093,7 @@ Indlacheruvu	1581	7946	200	0
 Inimerla	1509	7946	200	0
 Indlūruvāripalli	1423	7919	195	0
 Indlūru	1430	7927	195	0
-Indrapalli	1385	7958	45	0
+Indrapalli	1385	7958	45	0	Vengalampalli
 Inugunta	1400	7975	45	0
 Indrakhandigai	1304	7967	160	0
 Indrapālem	1335	7984	45	0
@@ -1142,7 +1142,7 @@ Inungūr	1085	7849	445	0
 Iniyānūr	1080	7864	270	0
 Īnjūr	1090	7874	270	0
 Īnjūr Pallakkudi	1090	7875	270	0
-Indalūr	1082	7888	264	0
+Indalūr	1082	7888	264	0	Vāliyampatti
 Injavayal	1007	7894	198	0
 Inakkaneri	960	7826	119	0
 Injini	979	7873	454	0
@@ -1150,7 +1150,7 @@ Indangulam	970	7865	454	0
 Indangulam	967	7859	454	0
 Indiramadai	964	7886	5	0
 Inanganūr	1069	7783	445	0
-South Indian Railway	1193	7981	196	0
+South Indian Railway	1193	7981	196	0	Nellittoppu
 Injipadipāra	970	7714	258	0
 Innād	1187	7872	390	0
 Indali	1169	7893	390	0

@@ -1,32 +1,32 @@
-Bijapur	1682	7572	80	327427
+Bijapur	1682	7572	80	327427	Vijayapura
 Bijnor	2937	7814	575	84593
-Bijnor	2913	7827	575	73555
-Bijnor	2933	7857	575	57361
+Bijnor	2913	7827	575	73555	Chāndpur
+Bijnor	2933	7857	575	57361	Sherkot
 Bijuri	2325	8212	225	32682
 Bijaynagar	2593	7465	446	32124
-Bijainagar	2593	7465	446	32124
+Bijainagar	2593	7465	446	32124	Bijaynagar
 Bijbehara	3379	7511	148	24590
-Bijbiāra	3379	7511	148	24590
+Bijbiāra	3379	7511	148	24590	Bijbehara
 Bijāwar	2462	7949	663	20513
 Bijaipur	2605	7737	335	16964
 Bījāpur	1879	8082	288	16129
 Bijolia	2516	7532	309	14140
-Bijolian	2516	7532	309	14140
-Beejoliya Kalan	2516	7532	309	14140
+Bijolian	2516	7532	309	14140	Bijolia
+Beejoliya Kalan	2516	7532	309	14140	Bijolia
 Bijni	2650	9070	357	13257
 Bijeraghogarh	2400	8061	351	8371
 Bijepur	2119	8346	497	6922
 Bijrauni	2493	7764	436	5743
-Bijroni	2493	7764	436	5743
+Bijroni	2493	7764	436	5743	Bijrauni
 Bijapura	2386	7729	687	137
 Bījuwāli	2973	7473	585	0
 Bijūr	1873	7758	140	0
 Bijua	2827	8060	323	0
 Bijrotha	2497	7841	384	0
 Bijpul	2295	8845	450	0
-Bijpur	2295	8845	450	0
+Bijpur	2295	8845	450	0	Bijpul
 Bijauli	2537	7854	433	0
-Bijoli	2537	7854	433	0
+Bijoli	2537	7854	433	0	Bijauli
 Bijni	3007	7842	612	0
 Bijnaur	2674	8090	714	0
 Bījnapalli	1653	7821	467	0
@@ -35,7 +35,7 @@ Bijjargi	1691	7544	80	0
 Bījīwāra	2212	7934	337	0
 Bijepur	1963	8328	284	0
 Bijaybāti	2158	8827	4	0
-Bijavbati	2158	8827	4	0
+Bijavbati	2158	8827	4	0	Bijaybāti
 Bijāwal	2592	7038	285	0
 Bijāpur	2508	8840	412	0
 Bijāpur	2506	7325	273	0
@@ -56,7 +56,7 @@ Bījoli	2838	7575	300	0
 Bījoli ka Bās	2837	7575	300	0
 Bijwāri Bakhta	3074	7675	787	0
 Bījanpur	3053	7686	632	0
-Bijarpur	3053	7686	632	0
+Bijarpur	3053	7686	632	0	Bījanpur
 Bījarpur	3016	7676	501	0
 Bijaipura	2451	7865	384	0
 Bijrāwān	2497	7880	481	0
@@ -67,7 +67,7 @@ Bīja Purwa	2721	7989	686	0
 Bijna	2720	7989	686	0
 Muhammadpur Bīja	2701	7997	570	0
 Bijpuri	2683	7900	290	0
-Khera Bijapur	2683	7900	290	0
+Khera Bijapur	2683	7900	290	0	Naglakhera
 Bijdawān	2631	7924	741	0
 Bijaipur ki Dhāni	2693	7565	121	0
 Bijhalpur	2641	7933	715	0
@@ -222,7 +222,7 @@ Bijaipur	2706	7899	464	0
 Bījātola	2249	7915	337	0
 Bijlīpura	2668	7833	478	0
 Bijna	2248	7956	368	0
-Bijnātola	2249	7957	368	0
+Bijnātola	2249	7957	368	0	Mutiyātola
 Bijaipāni	2215	7977	368	0
 Bijepur	2681	7891	290	0
 Bijora	2675	7879	334	0
@@ -474,7 +474,7 @@ Bijhaura	2652	8151	662	0
 Pura Bijai	2695	8176	542	0
 Bijai Singh	2696	8180	542	0
 Bijāngi	2812	7851	646	0
-Bijaigarhi	2811	7860	117	0
+Bijaigarhi	2811	7860	117	0	Serāi
 Bijaipur	2854	7879	511	0
 Bijaia	2875	7899	552	0
 Bijauri	2840	7898	117	0
@@ -551,8 +551,8 @@ Bijuliādānd	2637	8329	325	0
 Mīrupur Urf Bijai	2641	8333	325	0
 Bijia	2643	8342	325	0
 Bijai Kaf	2676	8362	560	0
-Bijlīpur	2561	8161	607	0
-Bijlīpur	2561	8162	607	0
+Bijlīpur	2561	8161	607	0	Piyri
+Bijlīpur	2561	8162	607	0	Piyri
 Bijauli Tiwāri	2630	8371	535	0
 Bijauli Bhaiya	2631	8371	535	0
 Bijpura	2610	8350	586	0
@@ -645,7 +645,7 @@ Bījepār	2091	8076	474	0
 Bijaipur	2060	8081	644	0
 Bijāpur	2298	8107	468	0
 Bijori	2286	8123	468	0
-Bijāpuri	2291	8127	225	0
+Bijāpuri	2291	8127	225	0	Tikrātola
 Bijāpuri	2290	8128	225	0
 Bijāpuri	2300	8136	225	0
 Bijaura	2284	8149	225	0
@@ -726,7 +726,7 @@ Pura Bijai Singh	2602	8131	681	0
 Pura Bijai Singh	2617	8147	681	0
 Pura Bijai	2616	8147	681	0
 Padumanpur Bijauli	2610	8149	681	0
-Bijaulia	2605	8147	681	0
+Bijaulia	2605	8147	681	0	Jijaulia
 Bijauli Naiya	2677	8170	629	0
 Pura Bijai Singh	2613	8150	681	0
 Pura Bijai	2611	8159	718	0
@@ -761,7 +761,7 @@ Bijāsni	2615	7364	344	0
 Bijaura Pāni	2948	7924	551	0
 Bijār Khāta Shimāli	2909	7908	552	0
 Bijai Nagalia	2916	7920	641	0
-Bijai Rampūra	2915	7921	641	0
+Bijai Rampūra	2915	7921	641	0	Soranpurī
 Bijpur	2594	7345	273	0
 Bijrāni	2994	7934	429	0
 Bijaipur	2978	7945	429	0

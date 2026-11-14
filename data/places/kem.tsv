@@ -1,15 +1,15 @@
 Kemrī	2881	7920	552	26726
 Khem Karan	3114	7456	260	13446
 Kempanāyakkanpālaiyam	1153	7730	211	11103
-Kembainaickenpalayam	1153	7730	211	11103
+Kembainaickenpalayam	1153	7730	211	11103	Kempanāyakkanpālaiyam
 kembanur	1124	7690	156	500
 Khemlapur	1661	7494	77	0
-Khemat	2449	7218	134	0
-Khemaj	2471	7601	371	0
+Khemat	2449	7218	134	0	Khinmat
+Khemaj	2471	7601	371	0	Khīmach
 Kemwāri	2596	7786	484	0
 Kemsara	2181	8519	272	0
 Kemla	2667	7686	447	0
-Kemra	2667	7686	447	0
+Kemra	2667	7686	447	0	Kemla
 Kemmannugundi	1355	7576	98	0
 Kēmios	913	9278	79	0
 Kembhāvi	1665	7653	72	0
@@ -23,7 +23,7 @@ Banhera Khemchand	2968	7745	449	0
 Dasarahalli Nr Kempapura Rd	1306	7761	43	0
 Hebbal Kempapura	1305	7760	43	0
 Khemu ki Dhāni	2821	7565	300	0
-Khema Purwa	2705	7988	570	0
+Khema Purwa	2705	7988	570	0	Kherna Purwa
 Nagla Khemi	2685	7920	290	0
 Purwa Khem	2693	7968	570	0
 Nawāda Khem	2669	7999	671	0
@@ -72,7 +72,7 @@ Khempur	2759	7923	688	0
 Kem	2109	7926	141	0
 Khemri	2684	7768	622	0
 Kemrāi	2582	7749	436	0
-Kemrāra	2582	7749	436	0
+Kemrāra	2582	7749	436	0	Kemrāi
 Nagla Khem Raigāin	2731	7963	688	0
 Katri Nagla Khem Raigāin	2732	7965	688	0
 Khempur	2754	7988	686	0
@@ -85,7 +85,7 @@ Kemanāik Tānda	1762	7976	762	0
 Nagla Khemkaran	2747	7859	403	0
 Khemkaranpur	2567	8105	728	0
 Khemaipur	2570	8223	32	0
-Khempur	2556	8220	607	0
+Khempur	2556	8220	607	0	Khānpur Dāndi
 Khema Ki Marhaiyān	2696	7817	546	0
 Khemaīpur	2506	8304	201	0
 Khemāyatpur	2510	8316	724	0
@@ -121,7 +121,7 @@ Kemi Chak	2754	8175	294	0
 Pura Khem Karan	2717	8193	542	0
 Khema Khera	2671	8115	714	0
 Khemipur	2665	8125	30	0
-Khempur Saifullāhpur	2904	7866	511	0
+Khempur Saifullāhpur	2904	7866	511	0	Gāonri
 Purwa Khem	2643	8129	681	0
 Khempur	2627	8180	662	0
 Khemkaranpur Basahi	2578	8100	728	0
@@ -203,7 +203,7 @@ Kemanagāru	1421	7481	346	0
 Khemerkhār	2106	8310	497	0
 Maheshpur Khem	2898	7887	511	0
 Milk Maheshpur Khem	2898	7886	511	0
-Kāithu Ke Mundia	2887	7897	552	0
+Kāithu Ke Mundia	2887	7897	552	0	Ahmednagar Kalān
 Khemda	2107	8340	497	0
 Khema Kheri	2383	7663	16	0
 Khemsara	2116	8360	497	0
@@ -272,7 +272,7 @@ Kempohalli	1312	7733	389	0
 Kempāpur	1311	7726	626	0
 Kempohalli	1310	7737	389	0
 Kempāpur	1310	7749	43	0
-Kempapura	1310	7749	43	0
+Kempapura	1310	7749	43	0	Kempāpur
 Kempalinganhalli	1305	7737	389	0
 Kempāpur	1305	7760	43	0
 Kempapur	1313	7780	389	0

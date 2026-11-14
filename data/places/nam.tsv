@@ -16,8 +16,8 @@ Nampur	2073	7431	54	0
 Nampong	2731	9611	73	0
 Namoli	3127	7685	772	0
 Nāmkom	2334	8536	562	0
-Namkaum	2334	8536	562	0
-Namkum	2334	8536	562	0
+Namkaum	2334	8536	562	0	Nāmkom
+Namkum	2334	8536	562	0	Nāmkom
 Nāmkhāna	2176	8822	4	0
 Nāmik	3010	8009	508	0
 Namgia	3180	7865	83	0
@@ -27,10 +27,10 @@ Namchang	3376	7804	2	0
 Nambashi	2459	9436	723	0
 Nāmāpur	2542	8282	251	0
 Namano	2499	7390	572	0
-Namāna	2499	7390	572	0
+Namāna	2499	7390	572	0	Namano
 Nāmanagarh	1887	8410	252	0
-Nāmanagar	1887	8410	252	0
-Namanamelluru	1560	8007	200	0
+Nāmanagar	1887	8410	252	0	Nāmanagarh
+Namanamelluru	1560	8007	200	0	Inamanamellūru
 Kachh-i-Nambal	3430	7491	595	0
 Nambalan	3412	7497	595	0
 Nambalbal	3402	7492	428	0
@@ -43,7 +43,7 @@ Namb	3321	7408	504	0
 Kanjīālā na Mohra	3317	7415	504	0
 Nambal	3299	7450	581	0
 Bod Nambal	3450	7400	0	0
-Bād Nambal	3450	7400	0	0
+Bād Nambal	3450	7400	0	0	Bod Nambal
 Namāna	2531	7562	353	0
 Nāmdārkhānpet	1720	7819	62	0
 Nāmāpuram	1702	7893	101	0
@@ -51,7 +51,7 @@ Namle	1773	7895	129	0
 Chigul Namgole	3261	7895	2	0
 Nambulapūlikunta	1406	7841	444	0
 Namassivāyapuram	1588	7961	200	0
-Namassiyayapuram	1588	7961	200	0
+Namassiyayapuram	1588	7961	200	0	Namassivāyapuram
 Niz Namati	2653	9131	608	0
 Kotli-na Malra	3329	7431	504	0
 Nambal	3336	7439	504	0
@@ -103,7 +103,7 @@ Pura Namdār Khān	2727	8164	294	0
 Namoiya	2710	8190	542	0
 Nāmbla	3407	7411	301	0
 Nāmdārpur Chāndan	2912	7851	575	0
-Nāmdeopur	2581	8120	728	0
+Nāmdeopur	2581	8120	728	0	Bachhauti Purwa
 Nambala	1991	7724	640	0
 Namdīpur	2720	8159	294	0
 Nāmupur	2717	8160	294	0
@@ -132,7 +132,7 @@ Nāmdārpur	2611	8319	498	0
 Nāmdeopur	2567	8168	718	0
 Nāman	3305	7521	373	0
 Nambāl Billa	3263	7526	720	0
-Nāmdārganj	2541	8186	607	0
+Nāmdārganj	2541	8186	607	0	Abhaichandpur
 Nāmangaon	2007	7502	113	0
 Nāmonda	2924	7694	298	0
 Nambartolā	2162	8045	144	0
@@ -272,7 +272,7 @@ Namasivāyapuram	906	7811	208	0
 Nambiyūr	998	7887	454	0
 Nambikurichi	835	7779	191	0
 Namasivāyapuram	837	7791	208	0
-Namangunam	1129	7912	383	0
+Namangunam	1129	7912	383	0	Kudikkādu
 Nambivayal	1049	7925	264	0
 Nammangādu	1188	7862	110	0
 Tirumala Nāmasamudram	1164	7851	51	0

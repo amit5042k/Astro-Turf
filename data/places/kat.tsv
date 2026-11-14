@@ -1,11 +1,11 @@
 Katihar	2554	8757	625	240838
-Katni	2384	8039	351	221883
+Katni	2384	8039	351	221883	Murwāra
 Kātoya	2365	8813	375	78408
-Katwa	2365	8813	375	78408
+Katwa	2365	8813	375	78408	Kātoya
 Khatauli	2928	7773	545	64731
 Kathua	3237	7553	496	59866
 Kātrās	2380	8630	401	57349
-Vankaner Kathiawar	2261	7094	147	47814
+Vankaner Kathiawar	2261	7094	147	47814	Wānkāner
 Kātol	2127	7859	141	43267
 Kāttipparutti	1087	7605	150	40318
 Kātpādi	1297	7915	189	38833
@@ -14,22 +14,22 @@ Neem ka Thana	2774	7579	491	36231
 Katirur	1178	7553	266	31087
 Mīrānpur Katra	2803	7967	470	29626
 Kattumannarkoil	1128	7956	178	27294
-Katai	1932	7306	246	26016
+Katai	1932	7306	246	26016	Khoni
 Khātegaon	2260	7691	322	25413
-Kattupakkam	1302	8012	161	23910
+Kattupakkam	1302	8012	161	23910	Kaikalapettai
 Katheru	1704	8178	87	23572
-Kattiganapalli	1252	7821	223	22714
+Kattiganapalli	1252	7821	223	22714	Kādiganpalli
 Katghora	2250	8254	388	22690
 Kathhāra	2376	8588	517	22080
-Tenu Dam-Cum-Kathhara	2376	8588	517	22080
+Tenu Dam-Cum-Kathhara	2376	8588	517	22080	Kathhāra
 Kathlāl	2290	7299	167	22071
 Kataiya	2657	8408	703	20193
 Kattanam	918	7656	243	19764
 Katangi	2344	7980	598	19040
-Nagra Katangi	2344	7980	598	19040
+Nagra Katangi	2344	7980	598	19040	Katangi
 Kattur	1037	7617	241	18017
 Kāttatturai	828	7728	453	17271
-Ranpur Kathiawar	2235	7171	370	16944
+Ranpur Kathiawar	2235	7171	370	16944	Rānpur
 Khātra	2298	8685	571	16484
 Khatīma	2892	7997	641	15714
 Katangi	2177	7981	144	15321
@@ -41,26 +41,26 @@ Kāttupputtūr	1099	7822	270	11040
 Kathāniān	3164	7476	222	10679
 Katra	3299	7493	666	9106
 Katpur	2106	7179	168	8677
-Katpar	2106	7179	168	8677
+Katpar	2106	7179	168	8677	Katpur
 Kattimancode	819	7735	453	8541
 Kattrivedu	1314	8020	204	7580
 Katra	2751	8203	618	6853
 Katangī	2148	8020	171	6440
-Katangi Kala	2148	8020	171	6440
+Katangi Kala	2148	8020	171	6440	Katangī
 Khatiguda	1924	8279	518	6361
 Katirail T.E.	2491	9258	378	6182
 Niz Katigorah Pt III	2488	9257	378	5687
 Katkona	2336	8267	621	4552
-Kathiwadar Bandar	2097	7156	216	1858
+Kathiwadar Bandar	2097	7156	216	1858	Pipāvāv Bandar
 Khata Khedi	2387	7729	687	839
 Thāti Kathūr	3058	7865	500	0
-Kathur	3058	7865	500	0
-Katadi	2302	6921	108	0
-Kāttumannārkovil	1128	7955	178	0
+Kathur	3058	7865	500	0	Thāti Kathūr
+Katadi	2302	6921	108	0	Nāngarecha
+Kāttumannārkovil	1128	7955	178	0	Mannārgudi
 Malu Khāt	2678	9412	451	0
-Katte Malalawādi	1235	7629	74	0
-Lahas Katan	2438	7664	333	0
-Katchugaon	2655	9008	713	0
+Katte Malalawādi	1235	7629	74	0	Malalavādi
+Lahas Katan	2438	7664	333	0	Lahās
+Katchugaon	2655	9008	713	0	Kochugaon
 Khatumba	2229	6914	131	0
 Khātu Khurd	2716	7435	430	0
 Khātu Kalān	2713	7431	430	0
@@ -77,15 +77,15 @@ Khātikhera	2482	7577	417	0
 Khāti	3011	7998	722	0
 Khatgarh	2551	7585	353	0
 Khataura	2497	7770	436	0
-Khatauli	2371	8083	351	0
+Khatauli	2371	8083	351	0	Khetauli
 Khatao	1765	7436	64	0
 Khatanga	2275	8409	398	0
 Khatali	2235	7452	155	0
 Khāt	2124	7955	141	0
-Khatdom	2515	9245	435	0
+Khatdom	2515	9245	435	0	Khaddum
 Katwara	2278	7434	173	0
 Kātūria	2475	8672	605	0
-Katoor	1891	7757	140	0
+Katoor	1891	7757	140	0	Kuntūr
 Kātūr	1486	7503	59	0
 Kattumāvadi	1012	7922	198	0
 Kattubadipalli	1430	7976	6	0
@@ -101,37 +101,37 @@ Katra	2499	8163	516	0
 Katpur	2152	7272	151	0
 Katphal	1824	7462	52	0
 Katosan Road	2341	7224	124	0
-Katosan Road Junction	2341	7224	124	0
+Katosan Road Junction	2341	7224	124	0	Katosan Road
 Katosan	2346	7222	164	0
 Katol	3122	7810	479	0
 Kātoda	2505	7500	417	0
 Katni	2384	8041	351	0
-Katnī Junction	2384	8041	351	0
+Katnī Junction	2384	8041	351	0	Katni
 Kātni	2030	8572	541	0
 Katlichara	2445	9257	345	0
-Katlicherra	2445	9257	345	0
+Katlicherra	2445	9257	345	0	Katlichara
 Kātkūt	2242	7611	329	0
 Kātkumbh	2157	7754	133	0
 Katkona	2322	8204	225	0
-Kathona	2322	8204	225	0
+Kathona	2322	8204	225	0	Katkona
 Kātkola	2187	6988	131	0
 Katkol	1599	7514	77	0
 Katkamsāri	2411	8520	764	0
 Katkāli Ghāt	2458	9230	624	0
 Katingia	1969	8419	387	0
-Katingla	1969	8419	387	0
+Katingla	1969	8419	387	0	Katingia
 Kātikund	2436	8742	669	0
 Kathu Nangal	3173	7504	222	0
 Kathumar	2732	7708	482	0
-Katumbar	2732	7708	482	0
+Katumbar	2732	7708	482	0	Kathumar
 Kathautaha	2441	8171	672	0
-Kathotaha	2441	8171	672	0
-Kathoutaha	2441	8171	672	0
+Kathotaha	2441	8171	672	0	Kathautaha
+Kathoutaha	2441	8171	672	0	Kathautaha
 Kathotia	2325	8077	350	0
 Kathoti	2725	7429	430	0
 Kāthori	2712	7088	217	0
 Kathlaur	3224	7544	692	0
-Kathlour	3224	7544	692	0
+Kathlour	3224	7544	692	0	Kathlaur
 Kathla	3200	7679	278	0
 Kathiwāra	2248	7415	155	0
 Kathiātali	2618	9274	656	0
@@ -146,7 +146,7 @@ Kathālia	2335	9132	574	0
 Katgi	2166	8252	379	0
 Katge Lato	3323	7714	8	0
 Katsangāvi	1704	7682	71	0
-Katesangāwan	1704	7682	71	0
+Katesangāwan	1704	7682	71	0	Katsangāvi
 Kātepalli	1943	7983	162	0
 Katea	2657	8408	703	0
 Katārukonda	1543	7776	236	0
@@ -157,40 +157,40 @@ Kātapuram	1816	8040	226	0
 Kāta Patthar	3051	7786	448	0
 Katangūr	1716	7931	101	0
 Katangjhari	2184	7997	144	0
-Katangjhiri	2184	7997	144	0
+Katangjhiri	2184	7997	144	0	Katangjhari
 Katāng	2519	9356	558	0
-Katangmel	2519	9356	558	0
+Katangmel	2519	9356	558	0	Katāng
 Katāmi	2245	8173	755	0
 Kātalbori	2204	7945	368	0
 Katāla Buzurg	1972	7626	53	0
-Katala	1972	7626	53	0
+Katala	1972	7626	53	0	Katāla Buzurg
 Katakiāsāhi	2047	8573	303	0
 Katak Chincholi	1790	7721	170	0
 Gumāna ka Tala	2530	7085	285	0
 Dodda Kātūr	1218	7661	74	0
 Bīrpur Katra	2721	8179	542	0
 Barka Katra	2519	8377	749	0
-Airwa Katra	2689	7942	715	0
+Airwa Katra	2689	7942	715	0	Airwa
 Khāturi	2261	8885	450	0
 Katsan	3419	7476	595	0
-Chak Katro	3376	7418	1	0
+Chak Katro	3376	7418	1	0	Chak Kauro
 Khati Dharmsāl	3376	7404	1	0
 Lohai Katha	3326	7416	504	0
-Loho Katha	3326	7416	504	0
+Loho Katha	3326	7416	504	0	Lohai Katha
 Katihama	3410	7462	76	0
 Katibug	3411	7450	301	0
 Kāthwār	3400	7470	76	0
 Katswār	3440	7426	0	0
 Katiāl Simbai	3291	7452	581	0
-Katiāl Simbal	3291	7452	581	0
+Katiāl Simbal	3291	7452	581	0	Katiāl Simbai
 Kathlāla	3323	7403	504	0
-Kathiāla	3323	7403	504	0
+Kathiāla	3323	7403	504	0	Kathlāla
 Kater	3318	7413	504	0
 Kathiāla	3317	7410	504	0
 Katoa Dhar	3313	7418	504	0
-Katora Dhak	3313	7418	504	0
+Katora Dhak	3313	7418	504	0	Katoa Dhar
 Katera Khori	3313	7418	504	0
-Katora Khori	3313	7418	504	0
+Katora Khori	3313	7418	504	0	Katera Khori
 Katera	3320	7428	504	0
 Sind Khatūti	3324	7438	504	0
 Kath Panjāl	3388	7426	1	0
@@ -205,7 +205,7 @@ Kathel	3278	7496	581	0
 Kathār	3251	7486	581	0
 Kāthban	3440	7378	0	0
 Kātri	3435	7390	0	0
-Katra	3043	7798	448	0
+Katra	3043	7798	448	0	Kotra
 Puru ka Tānda	3012	7778	449	0
 Nāl ka Talāv	2514	7561	353	0
 Kathiya	2537	7569	353	0
@@ -217,7 +217,7 @@ Khatoti Sultānpur	2810	7603	694	0
 Khatoti Khurd	2810	7602	694	0
 Kātla	3124	7701	479	0
 Kathiyāna	3120	7701	479	0
-Katle	3120	7710	479	0
+Katle	3120	7710	479	0	Kotla
 Kathur	3000	7851	612	0
 Kheni Kātal	2998	7862	612	0
 Kathūr	2990	7853	612	0
@@ -227,7 +227,7 @@ Sīla Kātli	2982	7864	612	0
 Kātal	2982	7853	612	0
 Kāna Katul	2979	7872	612	0
 Katula	2979	7873	612	0
-Katyānakuppam	1316	7995	228	0
+Katyānakuppam	1316	7995	228	0	Kalyānakuppam
 Kathriguppe	1293	7755	43	0
 Kateel	1305	7487	55	0
 Khatehpura	2809	7548	300	0
@@ -236,9 +236,9 @@ Khātiyon ki Dhāni	2821	7543	300	0
 Kātholi ki Dhāni	2820	7548	300	0
 Dhāni Katwār	2878	7575	431	0
 Khātiyan ki Dhāni	2829	7554	300	0
-Khātlyon ki Dhāni	2829	7554	300	0
+Khātlyon ki Dhāni	2829	7554	300	0	Khātiyan ki Dhāni
 Katewan ka Bās	2800	7555	300	0
-Katewon ka Bās	2800	7555	300	0
+Katewon ka Bās	2800	7555	300	0	Katewan ka Bās
 Khatra	3069	7620	674	0
 Kathauli	3014	7656	564	0
 Kāthgarh	3011	7662	731	0
@@ -267,12 +267,12 @@ Kānkar Katha	2760	7957	470	0
 Katri Firozpur	2710	7993	570	0
 Nekpur Khatri	2710	7986	570	0
 Katahara	2700	7979	570	0
-Jalālpur Katri	2708	7991	570	0
+Jalālpur Katri	2708	7991	570	0	Baks Purwa
 Katra	2707	7985	570	0
 Katra	2703	7989	570	0
 Katri Bichhoia	2708	7999	686	0
 Kathauli	2699	7900	464	0
-Nagla Kathūle	2699	7900	464	0
+Nagla Kathūle	2699	7900	464	0	Kathauli
 Kathua	2698	7907	290	0
 Kataiyāpur	2696	7914	290	0
 Katiya	2693	7910	290	0
@@ -282,7 +282,7 @@ Katrauli	2649	7919	290	0
 Khātoja ki Dhāni	2695	7569	121	0
 Khātipura	2692	7575	121	0
 Khatwāra	2682	7567	121	0
-Khātīpura	2677	7569	121	0
+Khātīpura	2677	7569	121	0	Kishanpura
 Katghara Brahmanān	2648	7936	715	0
 Katghara Zunnārdār	2647	7936	715	0
 Katharri	2574	7907	433	0
@@ -299,7 +299,7 @@ Khatora Kalān	2416	7905	352	0
 Katāre ka Purwa	2488	7938	663	0
 Katiyārpurwa	2483	7928	481	0
 Faqırān Ka Tibba	2734	7123	217	0
-Faqiran Ka Tibba	2734	7123	217	0
+Faqiran Ka Tibba	2734	7123	217	0	Faqırān Ka Tibba
 Lārā ka Toba	2744	7134	217	0
 Mullan ka Toba	2743	7128	217	0
 Khāria ka Thaj	2770	7163	217	0
@@ -308,7 +308,7 @@ Bāla ka Talāb	2706	7196	217	0
 Nājirān Daoti Khāta	2647	8984	420	0
 Katirāmpāra	2650	8993	713	0
 Kāthi	3212	7705	680	0
-Sindhan Katan	2577	8044	525	0
+Sindhan Katan	2577	8044	525	0	Sindhan Kalān
 Katra	2490	8167	516	0
 Katea	2602	8461	540	0
 Katrella	1778	7954	249	0
@@ -316,7 +316,7 @@ Kather Chota	2769	7393	539	0
 Kātamdevarakote	1446	7687	255	0
 Kātarkhatav	1757	7452	64	0
 Kātegaon	1837	7578	132	0
-Kataikkurichchi	1108	7936	383	0
+Kataikkurichchi	1108	7936	383	0	Kāraikkurichchi
 Kati Pimpalgaon	1986	7492	113	0
 Kātalbori	2217	8028	144	0
 Kathbaroda	2311	7614	322	0
@@ -400,10 +400,10 @@ Kather	3140	7748	680	0
 Katāhr	3140	7748	680	0
 Kāthla	3142	7747	680	0
 Katāhara	3028	7414	3	0
-Khatwān	3028	7418	3	0
-Katyānwāli	3025	7417	3	0
+Khatwān	3028	7418	3	0	Mammun Khera Jadīd
+Katyānwāli	3025	7417	3	0	Bāzidpur
 Khātwān	3001	7418	3	0
-Katyānwāli	3020	7437	615	0
+Katyānwāli	3020	7437	615	0	Allahabād
 Katorewāla	3025	7452	615	0
 Pindori Khattriān	3090	7498	566	0
 Kathnol	3117	7727	479	0
@@ -600,7 +600,7 @@ Khataula	2597	7652	116	0
 Barod ka Tapra	2598	7665	116	0
 Māli ka Tapra	2589	7666	335	0
 Katārgarh	3014	7499	563	0
-Katār Singhwāla	3014	7499	563	0
+Katār Singhwāla	3014	7499	563	0	Katārgarh
 Khāt	2988	7412	374	0
 Kāthia	2441	7307	212	0
 Kāthwa	2430	7310	212	0
@@ -650,7 +650,7 @@ Kanāru Kātal	3033	7814	500	0
 Kathyūr	3039	7815	448	0
 Khatriwāla	2944	7851	575	0
 Kather	2943	7850	575	0
-Hamzāpur Kather	2943	7850	575	0
+Hamzāpur Kather	2943	7850	575	0	Kather
 Katia	2932	7853	575	0
 Haldūwāla Khātta	2949	7863	575	0
 Nawābpur Khatta	2947	7869	575	0
@@ -771,7 +771,7 @@ Kātri	2045	7838	67	0
 Selu Kāte	2067	7862	143	0
 Khātāla	2016	7865	67	0
 Katandhara	2099	7890	141	0
-Khati	2027	7895	111	0
+Khati	2027	7895	111	0	Charūr
 Kataila	2753	7778	177	0
 Katha	2770	7791	543	0
 Katheria	2759	7797	670	0
@@ -832,7 +832,7 @@ Nagla Khata	2730	7947	688	0
 Kattaya	2733	7939	688	0
 Katangi	2196	7937	368	0
 Katangi	2186	7941	368	0
-Kāta	2161	7940	141	0
+Kāta	2161	7940	141	0	Nawegaon
 Katta	2157	7937	141	0
 Kāthi	2196	7971	368	0
 Katangi	2196	7955	368	0
@@ -866,7 +866,7 @@ Katri Husainpur	2734	7965	688	0
 Katri Chhitāpur	2726	7964	688	0
 Kathmān	2767	7999	686	0
 Kathia Saraiyān	2757	7999	686	0
-Kātpuri	2791	7714	544	0
+Kātpuri	2791	7714	544	0	Sultānpur Pūnāhāna
 Katghara	2704	7952	570	0
 Kataion Nagla	2707	7962	570	0
 Katraulīpatti	2721	7965	688	0
@@ -874,7 +874,7 @@ Katri Singhīrāmpur	2725	7967	688	0
 Katkaia	2715	7973	570	0
 Khatka	2572	7758	436	0
 Piproda Katāra	2572	7752	436	0
-Kataiya	2775	7975	470	0
+Kataiya	2775	7975	470	0	Kuiya
 Kataiya	2776	7976	470	0
 Katwāli	2786	7991	470	0
 Udaipur Khatya	2798	7986	470	0
@@ -953,7 +953,7 @@ Chak Katoghan	2575	8113	728	0
 Katoghan	2575	8115	728	0
 Katharia	2565	8110	728	0
 Khatān	2562	8101	463	0
-Khatrīpur	2567	8122	651	0
+Khatrīpur	2567	8122	651	0	Raghunāthpur
 Kathār	2572	8205	718	0
 Kathindra	2575	8216	718	0
 Barki Katnai	2566	8204	607	0
@@ -978,7 +978,7 @@ Katāriya	2340	7776	338	0
 Kathota	2472	8201	516	0
 Katarwār	2488	7953	663	0
 Katiya	2493	7973	663	0
-Katharwa	2573	8303	498	0
+Katharwa	2573	8303	498	0	Rāmpur
 Katghara	2555	8324	26	0
 Katahar	2545	8302	251	0
 Katehra	2533	8321	724	0
@@ -1201,7 +1201,7 @@ Katta	2216	7840	337	0
 Kathotia	2240	7882	337	0
 Pemmau Katra	2578	8087	728	0
 Katherwān	2593	8098	728	0
-Katia Mirzānpur	2775	7940	470	0
+Katia Mirzānpur	2775	7940	470	0	Chaman Nagdria
 Katra Saādatganj	2771	7929	117	0
 Katel Nagla	2769	7934	470	0
 Katia	2757	7926	688	0
@@ -1229,7 +1229,7 @@ Kathār	2585	8215	718	0
 Katkarpur	2597	8225	718	0
 Kathkone	2463	8061	324	0
 Katwāri	2453	8053	324	0
-Kathra	2589	8231	32	0
+Kathra	2589	8231	32	0	Bhagīpur
 Katra	2589	8233	32	0
 Khatiraha	2581	8232	32	0
 Katka	2577	8242	32	0
@@ -1520,7 +1520,7 @@ Milak Katāi	2885	7855	483	0
 Hasanpur Katia	2889	7862	483	0
 Kataiyā Usmānpur	2810	7989	470	0
 Kathpura	2801	7997	470	0
-Katoni	2864	7860	646	0
+Katoni	2864	7860	646	0	Alīpur
 Milak Katheriya	2869	7868	511	0
 Katra	2597	8145	681	0
 Katra	2596	8141	681	0
@@ -1624,7 +1624,7 @@ Kathrau	2997	7904	612	0
 Narīka Khatta	2980	7907	612	0
 Jamandhār Khatta	2977	7905	612	0
 Ratanyāli Khatta	2979	7912	612	0
-Khatalgaon	2980	7924	429	0
+Khatalgaon	2980	7924	429	0	Galgaon
 Khatālgair	2980	7923	429	0
 Katāhwa	2747	8227	280	0
 Katia	2739	8228	280	0
@@ -1741,7 +1741,7 @@ Katghar	2589	8302	498	0
 Katara	2591	8308	498	0
 Katāi	2581	8309	498	0
 Kathphori	2582	8311	498	0
-Kathghar	2575	8323	26	0
+Kathghar	2575	8323	26	0	Kādīpur
 Katghar	2580	8300	498	0
 Katauli Buzurg	2577	8300	498	0
 Katauli Khurd	2577	8301	498	0
@@ -1828,7 +1828,7 @@ Katghara	2590	8340	586	0
 Katghar Qayām	2590	8335	586	0
 Katra	2593	8339	586	0
 Katehri	2598	8340	586	0
-Khāta	2600	8333	586	0
+Khāta	2600	8333	586	0	Jagesra
 Katāla Khurd	1972	7626	53	0
 Katia Pahalwān	2642	8280	553	0
 Khatmipur	2645	8287	553	0
@@ -1864,7 +1864,7 @@ Katia	2701	8368	515	0
 Kataria	2672	8302	647	0
 Kātrua	3369	7511	148	0
 Katnäpur	2597	8156	718	0
-Katnaepur	2597	8156	718	0
+Katnaepur	2597	8156	718	0	Katnäpur
 Katra	2591	8158	718	0
 Katra Sangrāmsingh	2592	8160	718	0
 Katra	2587	8163	718	0
@@ -1878,7 +1878,7 @@ Katia	2687	8315	325	0
 Kathia	2680	8318	325	0
 Katka	2669	8305	647	0
 Kathaicha	2663	8304	647	0
-Katār Jot	2654	8303	647	0
+Katār Jot	2654	8303	647	0	Chahāram
 Katār	2654	8303	647	0
 Katia	2653	8303	647	0
 Katār Misr	2657	8306	647	0
@@ -1928,7 +1928,7 @@ Bairwa Khātūh	2644	8327	325	0
 Katia	2635	8336	325	0
 Khatīk	2645	8341	325	0
 Narsinghdih Katkauli	2644	8348	325	0
-Sohan Katia	2695	8353	515	0
+Sohan Katia	2695	8353	515	0	Sohanpur
 Katrāri	2691	8350	515	0
 Kataiya	2675	8351	325	0
 Katahia	2690	8359	560	0
@@ -2047,7 +2047,7 @@ Katra Atradhāri	2591	8180	718	0
 Katwar	2590	8179	718	0
 Katra Ramola	2576	8182	718	0
 Dīh Katra	2577	8182	718	0
-Katra Gulābsingh	2575	8180	718	0
+Katra Gulābsingh	2575	8180	718	0	Sarāi Bhopat
 Katāta	2580	8190	718	0
 Katra Indarkunwar	2587	8192	718	0
 Katra Mednīganj	2588	8195	718	0
@@ -2131,7 +2131,7 @@ Katalbor	2078	8172	652	0
 Kātā	2246	8039	480	0
 Katangā	2221	8027	144	0
 Katang Tolā	2225	8036	144	0
-Katangtola	2276	8064	480	0
+Katangtola	2276	8064	480	0	Mugwanī
 Kathotiā	2288	8068	468	0
 Katangī	2264	8062	480	0
 Katangī	2245	8057	480	0
@@ -2161,7 +2161,7 @@ Kātharda	2157	7440	186	0
 Kātharda	2156	7439	186	0
 Katangtolā	2169	8000	144	0
 Katangī	2164	8006	144	0
-Khatukra	2547	7332	273	0
+Khatukra	2547	7332	273	0	Kharokra
 Khātīkhera	2621	7389	273	0
 Katīreo	2609	7386	273	0
 Khātītolā	2149	8007	171	0
@@ -2466,7 +2466,7 @@ Katangpāli	2118	8308	407	0
 Kathiurah	3001	7881	612	0
 Katoirah	3002	7880	612	0
 Katurah	3016	7882	612	0
-Kathuli	3016	7884	612	0
+Kathuli	3016	7884	612	0	Singori
 Khatigād	3012	7888	612	0
 Katebarh	2983	7829	596	0
 Gaindi Khāta	2980	7826	596	0
@@ -2559,7 +2559,7 @@ Katehti	2647	8167	662	0
 Katra	2648	8174	662	0
 Katra	2604	8156	718	0
 Pura Khatik	2619	8160	681	0
-Kathwa	2606	8162	718	0
+Kathwa	2606	8162	718	0	Pura Mālādin
 Kataria	2609	8165	718	0
 Katra	2622	8162	662	0
 Kataria	2609	8166	718	0
@@ -3251,7 +3251,7 @@ Katorwa	2468	8498	118	0
 Katria	2455	8492	118	0
 Katahra	2622	8706	426	0
 Kathi	2617	8707	426	0
-Katpahar	2640	8744	667	0
+Katpahar	2640	8744	667	0	Bhaloa
 Katua	2602	8732	667	0
 Kathua	2636	8755	667	0
 Kathalbāri	2628	8791	510	0
@@ -3569,7 +3569,7 @@ Kāttuvalavu	1127	7740	235	0
 Kāttūr	1126	7743	235	0
 Kāttuppati	1123	7739	235	0
 Kāttuvalasu	1124	7743	235	0
-Sarkār Kattāngāni	1113	7748	235	0
+Sarkār Kattāngāni	1113	7748	235	0	Pāppampālaiyam
 Kāttekavundanpālaiyam	1114	7747	235	0
 Kāttupālaiyam	1108	7740	235	0
 Kattāngāni	1111	7748	235	0
@@ -3747,7 +3747,7 @@ Katkāhi	2322	8423	321	0
 Katāri	2318	8409	321	0
 Chhotā Katrā	2315	8413	321	0
 Kataitoli	2317	8415	321	0
-Khatli	2314	8416	321	0
+Khatli	2314	8416	321	0	Khetli
 Barā Katrā	2314	8412	321	0
 Katiā	2373	8430	707	0
 Katiā	2352	8442	321	0
@@ -3772,7 +3772,7 @@ Kathārtoli	2335	8467	773	0
 Kathotoli	2324	8456	321	0
 Barā Khatanga	2313	8451	321	0
 Chhotka Khatangā	2313	8451	321	0
-Kāthupāni	2304	8461	321	0
+Kāthupāni	2304	8461	321	0	Nawātoli
 Katiātoli	2311	8460	321	0
 Kātetoli	2301	8468	321	0
 Kathartoli	2390	8484	707	0
@@ -4092,7 +4092,7 @@ Kāthochira	2008	8460	440	0
 Kāthpothani	2024	8472	440	0
 Katara	2091	8482	414	0
 Katanga	2082	8491	414	0
-Katra	2660	7947	715	0
+Katra	2660	7947	715	0	Mamanaipur Phaphūnd
 Dumri Katsari	2646	8525	684	0
 Satar Kataiya	2595	8658	661	0
 Katan	2831	9516	392	0

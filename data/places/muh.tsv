@@ -2,20 +2,20 @@ Muhammadābād	2562	8376	26	33186
 Muhamma	961	7636	243	25861
 Muhammadābād	2603	8338	586	24146
 Muhammadābād	2731	7943	688	22151
-Muhanundp	2533	8833	25	7620
+Muhanundp	2533	8833	25	7620	Daulatpur
 Muhdal	3169	7495	222	3882
-Muhapullee	1983	8007	135	0
+Muhapullee	1983	8007	135	0	Mukapullee
 Muhri	3464	7431	0	0
 Muhār	2693	7016	217	0
 Muhammadpur	2629	7991	671	0
-Muhammadpur Malāsa	2629	7991	671	0
+Muhammadpur Malāsa	2629	7991	671	0	Muhammadpur
 Muhammadpur Balmi	2627	8513	395	0
 Muhammadpur Buzurg	2978	7799	596	0
-Muhammadpur	2978	7799	596	0
+Muhammadpur	2978	7799	596	0	Muhammadpur Buzurg
 Muhammadpur	2791	8005	323	0
 Muhammadpur	2596	8446	540	0
 Muhammadpur	2597	8303	498	0
-Muhammadpur	2188	7575	329	0
+Muhammadpur	2188	7575	329	0	Mohamadpur
 Muhammadgarh	2594	7594	313	0
 Muhammadgarh	2364	7817	215	0
 Muhammadganj	2443	8387	701	0
@@ -24,15 +24,15 @@ Muhammadābād	1687	7789	317	0
 Muhammadābād	1397	7801	444	0
 Muhamdī	2795	8021	323	0
 Muhāsa	2438	7764	336	0
-Muhāna	2680	7573	121	0
+Muhāna	2680	7573	121	0	Mohāna
 Muhammadāpuram Chattram	1556	7932	200	0
-Muhri	3384	7416	1	0
+Muhri	3384	7416	1	0	Mahri
 Takia Khān Muhammad	3437	7448	301	0
 Muhri	3376	7430	1	0
 Muhri	3378	7435	1	0
 Muhūr	3290	7495	666	0
 Muhammadābād	2892	7700	485	0
-Muhri	3407	7393	301	0
+Muhri	3407	7393	301	0	Muri
 Muhriān	3441	7396	0	0
 Muhammadpur	3012	7779	449	0
 Muhīuddīnpur	2976	7711	457	0
@@ -58,14 +58,14 @@ Muhammadpur Painth	2705	7989	570	0
 Muhammadpur Bāgh	2701	7997	570	0
 Muhammadpur Bīja	2701	7997	570	0
 Muhabbatpur Labhaua	2696	7902	464	0
-Muhabbatpur	2696	7902	464	0
+Muhabbatpur	2696	7902	464	0	Muhabbatpur Labhaua
 Muhabbatpur Lodhpura	2684	7909	290	0
-Muhabbatpur	2684	7909	290	0
+Muhabbatpur	2684	7909	290	0	Muhabbatpur Lodhpura
 Lodhpura Muhabbatpur	2684	7910	290	0
 Muhabbatpura	2639	7918	741	0
-Muhāna ki Dhāni	2677	7574	121	0
+Muhāna ki Dhāni	2677	7574	121	0	Mohāna ki Dhāni
 Turra Muhār	2549	7947	614	0
-Sennāl Muhammadnagar	2671	7983	671	0
+Sennāl Muhammadnagar	2671	7983	671	0	Sen
 Muhār ka Khera	2453	7924	663	0
 Muhanchuan	2125	8648	421	0
 Muhri	3447	7461	120	0
@@ -84,7 +84,7 @@ Muhri Forest	3452	7447	0	0
 Muhul Forest	3456	7426	0	0
 Muhān	3149	7737	680	0
 Mūhl	3148	7738	680	0
-Khola Muhammad	3039	7401	3	0
+Khola Muhammad	3039	7401	3	0	Sareshwāla
 Mūhkamwāli	3089	7482	566	0
 Muhāli	3154	7769	680	0
 Muhāna Shachāli	3078	7713	534	0
@@ -97,12 +97,12 @@ Muhaiuddīnpur	3040	7744	88	0
 Muhabālīwāla	3031	7743	88	0
 Muhammadbās	2787	7697	544	0
 Muhmadpur	3025	7756	449	0
-Muhammadalipur Mansa	2948	7813	575	0
+Muhammadalipur Mansa	2948	7813	575	0	Lālpur
 Muhammadpur Deomal	2947	7811	575	0
-Muhammadpur Lakhu	2946	7810	575	0
+Muhammadpur Lakhu	2946	7810	575	0	Lakhūwāla
 Muhammadpur Mandauli	2943	7809	575	0
 Muhammadpur	2946	7557	443	0
-Muhammadpur	2981	7801	596	0
+Muhammadpur	2981	7801	596	0	Jinwarheri
 Muhli	2330	7889	352	0
 Chak Muhli	2332	7890	352	0
 Muhammadpur	2972	7710	457	0
@@ -114,11 +114,11 @@ Muhammadpur Gāra	2974	7750	449	0
 Muhammad Alīpur	2972	7766	449	0
 Muhari Kalān	2266	7830	590	0
 Muhāri Khurd	2264	7831	590	0
-Muhammad Akbarpur	2907	7754	700	0
+Muhammad Akbarpur	2907	7754	700	0	Rāsna
 Muhammadpur Mafi	2925	7769	545	0
 Muhammadpur	2902	7767	700	0
 Muhammadpur Hayak	2912	7772	700	0
-Muhammadpur	2982	7472	585	0
+Muhammadpur	2982	7472	585	0	Lambi
 Muhammadgarh	2627	7497	446	0
 Bangir Muhabbat Singh	3006	7510	563	0
 Lahra Muhabbat	3024	7517	563	0
@@ -132,7 +132,7 @@ Muhammadpur Ramzānpur	2881	7718	769	0
 Shāhābād Muhamadpur	2856	7707	721	0
 Muhammadpur	2857	7719	721	0
 Muhārakpur Kotla	2857	7722	419	0
-Muhammad Shāhpur	2884	7730	477	0
+Muhammad Shāhpur	2884	7730	477	0	Fakharpur
 Muhammadpur Ahmed Bāghpat	2891	7744	727	0
 Muhammadpur	2897	7749	700	0
 Muhammadpur Qadīm	2881	7753	727	0
@@ -145,7 +145,7 @@ Muhammadpurkheri	2834	7767	637	0
 Muhammadpur Jādon	2826	7764	588	0
 Muhammadpur	2828	7774	637	0
 Muhammadpur	2949	7499	585	0
-Muhammadpur Risaidārwāla	3030	7584	593	0
+Muhammadpur Risaidārwāla	3030	7584	593	0	Chhanna Gurmukh Singh
 Muhammadgarh	3046	7587	775	0
 Muhammadnagar	3048	7589	775	0
 Muhammadpur Chhatriwāla	3039	7599	593	0
@@ -154,11 +154,11 @@ Muhammadpur	2829	7628	694	0
 Muhammadābād	2941	7855	575	0
 Muhammad Ālīpur	2932	7853	575	0
 Chak Muhammadnagar	2930	7854	575	0
-Muhammad Ālīpur Lālman	2934	7859	575	0
-Muhammadpur Jamālpur	2932	7861	575	0
+Muhammad Ālīpur Lālman	2934	7859	575	0	Rāmsāhaiwāla
+Muhammadpur Jamālpur	2932	7861	575	0	Ghosiwāla
 Muhammad Ālipur Chohar	2941	7867	575	0
 Muhammadpur Bhoja	2942	7873	575	0
-Muhammadnagar	2941	7868	575	0
+Muhammadnagar	2941	7868	575	0	Jogipur
 Muhīūddīnpur	2933	7871	575	0
 Muhammadpur Rajauri	2929	7873	575	0
 Muhammadnagar	2891	7914	552	0
@@ -173,7 +173,7 @@ Muhammadpur Āzampur	2877	7790	756	0
 Muhāna	2851	7777	637	0
 Muhammadābād	2852	7784	637	0
 Muhammad Alīpur	2860	7790	637	0
-Muhammadpanāhpur	2857	7795	637	0
+Muhammadpanāhpur	2857	7795	637	0	Segli
 Muhammadpur	2596	7818	484	0
 Muhammadpura	3049	7603	775	0
 Muhammadpur	1921	7697	153	0
@@ -226,7 +226,7 @@ Muhibullahpur Kairauli	2708	7874	403	0
 Muhammadpur Husainpur Baijua	2711	7870	403	0
 Muhimnagar	2787	7881	616	0
 Muhammadpur	2787	7885	616	0
-Muhammad Khān	2779	7880	616	0
+Muhammad Khān	2779	7880	616	0	Partābpur
 Muhammadpur Ghiror	2718	7878	464	0
 Muhabbatpur Labhaua	2702	7882	464	0
 Muharia	2774	7888	616	0
@@ -316,7 +316,7 @@ Muhammadpur	2573	8215	718	0
 Muhammadābād	2568	8201	607	0
 Muhammadpur	2563	8205	607	0
 Chak Sultān Muhammad	2562	8209	607	0
-Muhammadābād	2563	8211	607	0
+Muhammadābād	2563	8211	607	0	Mailaun
 Chak Pīr Muhammad	2558	8200	607	0
 Rasūlha Muhammadpur	2552	8221	607	0
 Chak Muhammad	2552	8209	607	0
@@ -336,7 +336,7 @@ Muhānsa	2298	7767	338	0
 Muhammadābād	2557	8329	26	0
 Muhammadpur	2571	8348	26	0
 Muhabbatpur	2567	8343	26	0
-Muhammadpur	2562	8347	26	0
+Muhammadpur	2562	8347	26	0	Dhāwa
 Muhrai	2426	7970	521	0
 Muhammadpur	2523	8338	724	0
 Muhammadpur	2515	8341	749	0
@@ -412,30 +412,30 @@ Muhammad Khera	2640	8086	312	0
 Muhammadheri	2850	7699	630	0
 Muhammadmau	2616	8099	681	0
 Muhammadpur Khādar	2915	7816	575	0
-Muhammadpur Lauhri	2901	7822	483	0
+Muhammadpur Lauhri	2901	7822	483	0	Lahudda
 Muhammad Tāharpur	2969	7842	575	0
 Muhammad Tāharpur	2969	7841	575	0
-Muhammad Amīn Khānpur	2970	7840	575	0
-Muhammad Amīn Khānpur	2969	7840	575	0
-Muhammad Amīn Khānpur	2969	7839	575	0
-Muhammad Dalpat	2964	7828	575	0
-Muhammad Ālampur	2964	7830	575	0
-Muhammadpur Aman Khān	2959	7846	575	0
-Muhammad Alīpur Hirde	2961	7830	575	0
+Muhammad Amīn Khānpur	2970	7840	575	0	Jattīwāla
+Muhammad Amīn Khānpur	2969	7840	575	0	Jattīwāla
+Muhammad Amīn Khānpur	2969	7839	575	0	Jattīwāla
+Muhammad Dalpat	2964	7828	575	0	Majhāri
+Muhammad Ālampur	2964	7830	575	0	Jitanpur
+Muhammadpur Aman Khān	2959	7846	575	0	Kot Kādīr
+Muhammad Alīpur Hirde	2961	7830	575	0	Kalheri
 Muhammad Alīpur	2963	7827	575	0
 Muhammad Alīpur	2956	7840	575	0
-Āzampur Muhammad Āli	2954	7831	575	0
-Muhammad Āsikpur Bhūre	2951	7838	575	0
+Āzampur Muhammad Āli	2954	7831	575	0	Khānpur
+Muhammad Āsikpur Bhūre	2951	7838	575	0	Saidpura
 Muhammadpur Garhi	2954	7848	575	0
-Muhammadpur Tilok	2950	7839	575	0
+Muhammadpur Tilok	2950	7839	575	0	Tilokāwāla
 Muhammad Alīpur	2953	7838	575	0
-Muhammadpur Tirlok	2950	7840	575	0
-Muhammad Āshikpur Kamalnain	2949	7842	575	0
-Nūr Muhammadpur	2949	7845	575	0
-Saidpur Muhammad	2942	7843	575	0
+Muhammadpur Tirlok	2950	7840	575	0	Chamraula
+Muhammad Āshikpur Kamalnain	2949	7842	575	0	Belri
+Nūr Muhammadpur	2949	7845	575	0	Taufīkwāla
+Saidpur Muhammad	2942	7843	575	0	Lālwāla
 Muhammadpur Taki	2940	7839	575	0
 Muhammadpur Sultān	2935	7850	575	0
-Muhammadpur Lāl	2930	7846	575	0
+Muhammadpur Lāl	2930	7846	575	0	Ladāwāla
 Muhammadābād	2925	7834	575	0
 Muhammadāpur	2783	8106	323	0
 Muhāri	2762	8109	507	0
@@ -505,10 +505,10 @@ Muhammadpur Bāhūn	2699	8139	30	0
 Muhiuddīnpur	2699	8149	30	0
 Muhammadpur	2698	8145	30	0
 Muhammadpur Kirat	2682	8149	30	0
-Muhammad Husainpur	2908	7833	575	0
+Muhammad Husainpur	2908	7833	575	0	Nawāda
 Muhammadpur Mazra	2900	7843	483	0
-Muhammad Takīpur Ghāsi	2917	7844	575	0
-Muhammad Alīpur Mukta	2924	7848	575	0
+Muhammad Takīpur Ghāsi	2917	7844	575	0	Maulāwāla
+Muhammad Alīpur Mukta	2924	7848	575	0	Shekhūpur
 Muhabatpur	2673	8129	30	0
 Muhiuddīnpur	2672	8129	30	0
 Muhammadpur	2668	8130	30	0
@@ -624,7 +624,7 @@ Muhammadpur	2745	8220	280	0
 Ārāzi Muhammadpur	2746	8220	280	0
 Purwa Muhammad Ali	2712	8216	542	0
 Muhīuddīnpur Kirāon	2538	8144	651	0
-Muhīuddīnpur Deochhār	2540	8149	651	0
+Muhīuddīnpur Deochhār	2540	8149	651	0	Sanrwa
 Pura Dost Muhammad	2705	8223	542	0
 Muhammadpur	2740	8225	280	0
 Muhammad Dīh	2730	8227	280	0
@@ -889,7 +889,7 @@ Muhiuddinpur	2610	8128	681	0
 Pura Muhammad Saiyid	2603	8137	681	0
 Muhammadpur Nimaksār	2622	8148	681	0
 Pura Muhammad Naki	2622	8150	662	0
-Muhiuddīnpur	2606	8149	681	0
+Muhiuddīnpur	2606	8149	681	0	Pirnagar
 Muhedipur	2685	8160	30	0
 Muhammadpur Upadhia	2676	8150	30	0
 Muhammadnagar	2676	8154	30	0
@@ -929,7 +929,7 @@ Muhammadpur	2814	7922	117	0
 Muhammadnagar Sulhra	2807	7921	117	0
 Muhammadpur	2877	7949	342	0
 Muhammadpur	2879	7938	342	0
-Muhammadpur	2883	7932	552	0
+Muhammadpur	2883	7932	552	0	Baskhiria
 Parewa Muhammad Ali Khān	2856	7938	342	0
 Nūr Muhammad	2863	7936	342	0
 Muhammadpur	2869	7937	342	0
@@ -960,7 +960,7 @@ Muhammadpur	2590	8409	536	0
 Muhammadpur	2576	8419	536	0
 Muhammadpur Bhoja	2827	7975	683	0
 Muhammadganj	2844	7981	683	0
-Muhammadganj	2850	7986	683	0
+Muhammadganj	2850	7986	683	0	Rāmpura
 Muhammadpur	2841	7993	683	0
 Muhammadpur	2544	8491	604	0
 Muhammadali Chak	2549	8500	604	0

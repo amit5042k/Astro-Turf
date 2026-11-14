@@ -1,10 +1,10 @@
-Madras	1309	8028	204	4681087
-Indore Madhya Pradesh	2272	7583	660	1994397
+Madras	1309	8028	204	4681087	Chennai
+Indore Madhya Pradesh	2272	7583	660	1994397	Indore
 Madurai	992	7812	274	1465625
-Madura	992	7812	274	1465625
+Madura	992	7812	274	1465625	Madurai
 Madanapalle	1355	7850	195	180180
 Madhyamgram	2269	8845	450	161126
-Maddham Gram	2269	8845	450	161126
+Maddham Gram	2269	8845	450	161126	Madhyamgram
 Madhurampur Dehri	2497	8420	409	137231
 Sawai Madhopur	2602	7634	116	121106
 Madhavaram	1315	8023	204	119105
@@ -13,10 +13,10 @@ Maduravoyal	1307	8016	228	86195
 Madhubani	2635	8607	556	75736
 Madhupur	2427	8664	502	55238
 Madhepura	2592	8679	657	54472
-Madhupura	2592	8679	657	54472
-Madhipura	2592	8679	657	54472
-Madambakkam	1292	8019	247	45356
-Madras Saint Thomas Mount	1300	8020	247	43795
+Madhupura	2592	8679	657	54472	Madhepura
+Madhipura	2592	8679	657	54472	Madhepura
+Madambakkam	1292	8019	247	45356	Meddappakkam
+Madras Saint Thomas Mount	1300	8020	247	43795	Saint Thomas Mount
 Mādāyi	1203	7524	259	35888
 Madipakkam	1296	8020	247	35752
 Madikeri	1243	7574	193	33540
@@ -25,63 +25,63 @@ Sri Mādhopur	2747	7560	491	31366
 Madurāntakam	1251	7988	247	30796
 Madukkarai	1091	7696	156	30357
 Madhugiri	1366	7721	93	29159
-Maddagiri	1366	7721	93	29159
+Maddagiri	1366	7721	93	29159	Madhugiri
 Maddūr	1258	7704	94	28754
 Madhira	1692	8036	46	22716
-Madhra	1692	8036	46	22716
-Nilakkottai-Madura	1016	7785	187	22197
+Madhra	1692	8036	46	22716	Madhira
+Nilakkottai-Madura	1016	7785	187	22197	Nilakottai
 Madattukkulam	1056	7737	235	20620
 Maduraivayal	1306	8017	228	19208
-Madras Chetput	1307	8024	204	18326
-Vada-Madura	1044	7810	187	18015
+Madras Chetput	1307	8024	204	18326	Chetput
+Vada-Madura	1044	7810	187	18015	Vadamadurai
 Madhuban	2644	8514	396	17510
 Madambakkam	1285	8005	161	17058
 Madhuban	2378	9129	744	16579
 Madukkūr	1048	7940	264	16266
 Mādugula	1792	8282	227	14741
 Madayikonam	1037	7623	241	14155
-Madhupur	2372	9121	574	14105
+Madhupur	2372	9121	574	14105	Manoharpur
 Madanpur	2301	8849	528	12959
 Madhūru	1254	7501	305	12685
-Madhur	1254	7501	305	12685
+Madhur	1254	7501	305	12685	Madhūru
 Madanayakahalli	1306	7746	43	12563
-Madanaiyakanahalli	1306	7746	43	12563
+Madanaiyakanahalli	1306	7746	43	12563	Madanayakahalli
 Mādhogarh	2628	7919	741	10530
 Mādhoganj	2712	8014	686	10299
-Madanpur Rampur	2020	8352	284	7892
-Madai	2322	7999	598	6743
+Madanpur Rampur	2020	8352	284	7892	Rāmpur
+Madai	2322	7999	598	6743	Mandai
 Madkai	1541	7394	188	6215
-K.Madapur	1107	7716	156	5626
+K.Madapur	1107	7716	156	5626	Karaivalimādappūr
 Madhogarh	2456	8091	324	5249
-Madhagarh	2456	8091	324	5249
-Madhawgdha	2456	8091	324	5249
+Madhagarh	2456	8091	324	5249	Madhogarh
+Madhawgdha	2456	8091	324	5249	Madhogarh
 Madhuban	2376	8621	401	4316
 Madattumpadi	1020	7627	241	4294
-Madathumpady	1020	7627	241	4294
+Madathumpady	1020	7627	241	4294	Madattumpadi
 Mādarpākkam	1345	8001	228	4250
-Madaharpakkam	1345	8001	228	4250
+Madaharpakkam	1345	8001	228	4250	Mādarpākkam
 Madhavkampa	2319	7323	125	2200
-Madhavkampo	2319	7323	125	2200
+Madhavkampo	2319	7323	125	2200	Madhavkampa
 Mād	2534	7397	572	1149
 Madhupur	2103	7060	136	462
-Madras Vepery	1308	8027	204	0
-Madras Thyagarayanagar	1304	8024	204	0
+Madras Vepery	1308	8027	204	0	Vepery
+Madras Thyagarayanagar	1304	8024	204	0	Thyagaraya Nagar
 Turk Mādhawār	1665	7734	72	0
-Tūrk Madhwāram	1665	7734	72	0
-Madras Triplicane	1306	8028	204	0
-Madras Rayapuram	1311	8029	204	0
-Madras Perambur	1311	8024	204	0
-Pakkam-Madurantakam	1247	7986	247	0
-Madras Nungambakan	1306	8023	204	0
-Madras Mylapore	1303	8027	204	0
-Madkota	2368	7585	347	0
+Tūrk Madhwāram	1665	7734	72	0	Turk Mādhawār
+Madras Triplicane	1306	8028	204	0	Tiruvallikeni
+Madras Rayapuram	1311	8029	204	0	Royapuram
+Madras Perambur	1311	8024	204	0	Perambūr
+Pakkam-Madurantakam	1247	7986	247	0	Pākkam
+Madras Nungambakan	1306	8023	204	0	Nungambākkam
+Madras Mylapore	1303	8027	204	0	Mylapore
+Madkota	2368	7585	347	0	Matkota
 Mādhan	2811	7638	482	0
-Madána	2159	7462	186	0
+Madána	2159	7462	186	0	Mandāna
 Madwa	1262	7493	305	0
-Madya	1262	7493	305	0
+Madya	1262	7493	305	0	Madwa
 Maduvanalli	1215	7714	69	0
-Maduvanahalli	1215	7714	69	0
-Maduvanhalli	1215	7714	69	0
+Maduvanahalli	1215	7714	69	0	Maduvanalli
+Maduvanhalli	1215	7714	69	0	Maduvanalli
 Mādri	2425	7349	22	0
 Madnūr	1850	7762	58	0
 Madnāpur	2787	7968	470	0
@@ -97,7 +97,7 @@ Madhwās	2320	7362	142	0
 Madhwāpur	2660	8585	556	0
 Mādhura	2634	8710	667	0
 Mādhupurgarh	2079	8608	376	0
-Madhupur	2086	8438	414	0
+Madhupur	2086	8438	414	0	Muchhāpur
 Madhubani	2700	8410	476	0
 Madhuban	2617	8368	586	0
 Madhuban	2149	8289	407	0
@@ -110,18 +110,18 @@ Madhopur	2674	8506	396	0
 Mādhia	2186	7206	168	0
 Madhi	2209	6910	131	0
 Madheso	3092	7841	89	0
-Madhes	3092	7841	89	0
+Madhes	3092	7841	89	0	Madheso
 Mādheri	2031	7885	111	0
 Madhepur	2618	8638	556	0
 Mādhavpur	2126	6997	742	0
-Mādharpur	2126	6997	742	0
+Mādharpur	2126	6997	742	0	Mādhavpur
 Mādhavaram	1594	7736	236	0
 Mādha	1803	7552	132	0
 Madh	1931	7384	52	0
 Madh	1915	7283	207	0
 Mādgi	1769	7747	31	0
 Mādēsuvaramalai	1203	7759	69	0
-Mādeswaramalai	1203	7759	69	0
+Mādeswaramalai	1203	7759	69	0	Mādēsuvaramalai
 Maddūr	1686	7761	283	0
 Maddūr	1178	7656	69	0
 Madhupur	2485	8308	103	0
@@ -129,14 +129,14 @@ Maddulūru	1546	7987	200	0
 Maddipenta	1573	7880	200	0
 Maddimadugu	1435	7878	229	0
 Maddilapālem	1774	8332	81	0
-Madal Palao	1774	8332	81	0
+Madal Palao	1774	8332	81	0	Maddilapālem
 Maddikera	1525	7742	236	0
 Madded	1877	8054	288	0
 Madāwarā	2537	7615	353	0
 Madarki	1680	7678	72	0
 Mādāri Hāt	2670	8928	752	0
-Madaura	2438	7880	384	0
-Madaora	2438	7880	384	0
+Madaura	2438	7880	384	0	Mandāwra
+Madaora	2438	7880	384	0	Mandāwra
 Madanpur	2725	7936	688	0
 Madanpur	2630	7816	484	0
 Madanpur	2621	8751	667	0
@@ -149,17 +149,17 @@ Madanganj	2660	7485	446	0
 Madamanūru	1424	7984	6	0
 Mādalmoi	1916	7570	33	0
 Madākhed	2098	7659	49	0
-Madhakhed-Bujruk	2098	7659	49	0
+Madhakhed-Bujruk	2098	7659	49	0	Madākhed
 Madakasīra	1394	7727	444	0
-Mādo	3005	7776	783	0
-Madras Egmore	1307	8026	204	0
+Mādo	3005	7776	783	0	Fatehpur
+Madras Egmore	1307	8026	204	0	Egmore
 Madāwās	2864	7481	539	0
 Chak Madan	2293	8800	279	0
 Mādārhat	2237	8844	4	0
 Madhabpur	2236	8806	354	0
 Madhabpur	2205	8856	4	0
 Khairpur Madera	3007	7382	374	0
-Mad Baihk	3432	7415	0	0
+Mad Baihk	3432	7415	0	0	Mod Behk
 Madhuban	2961	7698	457	0
 Madhāna	3268	7500	720	0
 Madai	3464	7397	0	0
@@ -188,7 +188,7 @@ Madhan Offset Polur	1251	7913	197	0
 Madansar ki Dhāni	2810	7528	300	0
 Mādopura	2877	7553	431	0
 Mādānpur	3066	7689	587	0
-Mādāhpur	3066	7689	587	0
+Mādāhpur	3066	7689	587	0	Mādānpur
 Mādalpur	3069	7684	587	0
 Madanpur	3015	7685	501	0
 Mādal	2419	7809	215	0
@@ -228,13 +228,13 @@ Madārpur	2711	7977	570	0
 Madāhārpur	2702	7996	570	0
 Madhaiyāpur	2696	7910	290	0
 Mādhosingh ka Nagla	2687	7906	290	0
-Madnai	2648	7907	334	0
+Madnai	2648	7907	334	0	Marnai
 Madhupura	2647	7906	334	0
 Rudpura Mādhogarh	2631	7917	741	0
 Sarauli Mādhogarh	2630	7922	741	0
 Rāmpura Mādhogarh	2625	7914	741	0
 Biria Mādhograh	2626	7919	741	0
-Biria Mādhogarh	2626	7919	741	0
+Biria Mādhogarh	2626	7919	741	0	Biria Mādhograh
 Sihārī Madhogarh	2625	7922	741	0
 Madhupur	2648	7949	715	0
 Madnepur	2634	7931	741	0
@@ -245,7 +245,7 @@ Mādhoganj	2534	7933	614	0
 Madhpuri	2699	7960	570	0
 Madhpura	2696	7962	570	0
 Madārīpur	2694	7973	570	0
-Mādhonagar	2687	7960	715	0
+Mādhonagar	2687	7960	715	0	Jīrāon
 Purwa Mādho	2678	7971	715	0
 Maddūpur	2670	8000	671	0
 Purwa Madhu	2665	7986	671	0
@@ -297,8 +297,8 @@ Madārka	2817	7693	544	0
 Mādota	3156	7711	278	0
 Madhār	3154	7719	278	0
 Madh	2971	7540	443	0
-Shakar Madauri	2933	7519	585	0
-Shakar Madauri	2934	7522	585	0
+Shakar Madauri	2933	7519	585	0	Shāhpuriya
+Shakar Madauri	2934	7522	585	0	Sukar
 Mādūwāla	2968	7588	443	0
 Madanpur	2953	7589	339	0
 Madhmādhwi	2869	7622	431	0
@@ -310,7 +310,7 @@ Madhāūn	3129	7743	479	0
 Bāsa Madhaon	3128	7747	479	0
 Madarsa	3047	7437	615	0
 Chak Madarsa	3047	7438	615	0
-Chak Bāje Madāhar	3057	7463	615	0
+Chak Bāje Madāhar	3057	7463	615	0	Chak Sherewāla
 Bāje Madāhar	3056	7465	615	0
 Madāhar	3055	7468	615	0
 Madhīr	3027	7464	615	0
@@ -340,7 +340,7 @@ Madanpur	2341	7831	338	0
 Mādhāmau	2313	7828	338	0
 Mādhopura	2641	7644	116	0
 Mādhopura	2638	7660	116	0
-Mādhorājpura	2626	7664	447	0
+Mādhorājpura	2626	7664	447	0	Dānkīpura
 Madanpur	2329	7850	338	0
 Madanpur	2344	7884	352	0
 Madni	2332	7893	352	0
@@ -396,7 +396,7 @@ Kheri Madanpur	2852	7647	609	0
 Mādal Shāhpur	2854	7647	609	0
 Madhaura	2938	7854	575	0
 Trikauli Madan	2934	7851	575	0
-Madhpur	2949	7863	575	0
+Madhpur	2949	7863	575	0	Haldūwāla Khātta
 Madhaia	2937	7868	575	0
 Madna	3027	7956	183	0
 Madārī-kī-mandaiyān	2889	7900	552	0
@@ -416,8 +416,8 @@ Madāram	1871	7985	237	0
 Mādipalli	1855	7993	237	0
 Madapalli	1861	7994	237	0
 Madanpura	2604	7512	446	0
-Mādolpur	2813	7759	588	0
-Mādalpur	2813	7758	588	0
+Mādolpur	2813	7759	588	0	Sādullāhpur
+Mādalpur	2813	7758	588	0	Sādullāhpur
 Maddūmadgu	1923	8031	135	0
 Madaram	1901	8001	135	0
 Mādhapur	2879	7792	756	0
@@ -455,7 +455,7 @@ Salagara Maddi	1774	7638	48	0
 Mādyāl Tānda	1737	7650	71	0
 Madra Khurd	1729	7654	71	0
 Madra Buzurg	1726	7655	71	0
-Madhkaula	2814	7785	637	0
+Madhkaula	2814	7785	637	0	Haidarnagar
 Madaula	2808	7795	543	0
 Madanewādi	1787	7676	170	0
 Madarpur	2723	7753	114	0
@@ -518,7 +518,7 @@ Madanpur	2703	7864	403	0
 Sherpur Madanpur	2701	7865	403	0
 Nagla Made	2707	7869	403	0
 Mādgiri	1609	7708	50	0
-Madagiri	1609	7708	50	0
+Madagiri	1609	7708	50	0	Mādgiri
 Alīpur Madaiyān	2796	7890	117	0
 Nagla Mādho	2787	7879	616	0
 Mādhawāram	1656	7750	283	0
@@ -591,7 +591,7 @@ Mādhopura	2402	7717	16	0
 Mādhopur	2469	7739	336	0
 Mādhopura	2427	7726	336	0
 Madhupura	2748	7880	711	0
-Mādhoban	2748	7896	711	0
+Mādhoban	2748	7896	711	0	Bhidiya
 Madhkarpur	2743	7893	464	0
 Īsai Madhpuri	2734	7885	464	0
 Madhān	2726	7886	464	0
@@ -644,7 +644,7 @@ Madārīpur	2632	7975	671	0
 Madiāpur	2628	7970	671	0
 Madheva	2627	7957	671	0
 Madārgūdem	1667	7913	101	0
-Madārpur	2614	7974	741	0
+Madārpur	2614	7974	741	0	Shekhpur Bulda
 Madārpur	2687	7999	469	0
 Madnāpur	2693	7981	570	0
 Madnāpur	2685	7988	570	0
@@ -662,7 +662,7 @@ Nagla Madār	2731	7866	403	0
 Madhīpur	2732	7862	403	0
 Madnūpur	2613	7984	671	0
 Madra Lālpur	2610	7984	741	0
-Madāri ka Khor	2604	7994	741	0
+Madāri ka Khor	2604	7994	741	0	Riāznagar
 Kottagode Madaka	1664	7937	101	0
 Mādhavagūdem	1700	7988	250	0
 Mādhayarāyanigūdem	1692	7988	250	0
@@ -674,7 +674,7 @@ Madhandri	2428	7934	663	0
 Madanwa	2444	7949	663	0
 Madra	2570	8218	32	0
 Madhukpura	2566	8215	32	0
-Madhārpur	2568	8217	32	0
+Madhārpur	2568	8217	32	0	Itahra
 Sarāi Madan	2564	8202	607	0
 Sarāi Mād	2552	8207	607	0
 Madarwās	2542	7909	433	0
@@ -700,7 +700,7 @@ Pura Maddān	2692	7837	546	0
 Madanpura	2679	7831	478	0
 Madhia	2532	8305	724	0
 Madarwa	2526	8302	251	0
-Madhni	2537	8309	251	0
+Madhni	2537	8309	251	0	Mahāsīpur
 Madhkarpur	2538	8312	251	0
 Madhraina	2540	8312	251	0
 Madai	2547	8317	724	0
@@ -720,7 +720,7 @@ Kuthīla Madh	2539	7821	436	0
 Madārpur	2561	8338	26	0
 Rāmpur Madra	2574	8340	26	0
 Madhuban	2571	8346	26	0
-Madnahi	2554	8346	26	0
+Madnahi	2554	8346	26	0	Pahunchi
 Mador	2567	7828	503	0
 Madhuban	2529	8328	724	0
 Mādhopur	2525	8329	724	0
@@ -741,7 +741,7 @@ Madwa	2534	7870	529	0
 Madāw	2531	7869	529	0
 Madhuban	2540	8371	26	0
 Madanpura	2537	8355	26	0
-Madhumalpur	2537	8355	26	0
+Madhumalpur	2537	8355	26	0	Madanpura
 Mādhopur	2519	8352	749	0
 Madra	2511	8350	749	0
 Madhūpur	2506	8364	749	0
@@ -793,7 +793,7 @@ Madanāpur	1956	7820	140	0
 Madnai	2362	7824	215	0
 Banda Mādhawaram	1765	7843	311	0
 Madurakānakunta	1749	7833	62	0
-Madaiyān	2541	7884	529	0
+Madaiyān	2541	7884	529	0	Kishorpura
 Mādhāram	1667	7837	467	0
 Mādāpur	1633	7851	467	0
 Madaukheri	2445	7824	410	0
@@ -848,7 +848,7 @@ Madni	2348	7914	352	0
 Madopur	2494	8074	324	0
 Madhupur	2599	8206	718	0
 Kāmpa Madhupur	2597	8202	718	0
-Mādhoganj	2595	8202	718	0
+Mādhoganj	2595	8202	718	0	Mahauli
 Madhauli Khurd	2582	8205	718	0
 Madhauli Kalān	2582	8205	718	0
 Madhwāpur	2577	8209	718	0
@@ -874,7 +874,7 @@ Hisāmpur Mādho	2567	8127	651	0
 Madhwa Mai	2562	8133	651	0
 Madūki	2552	8133	651	0
 Hatwa Rāmpur Madūki	2557	8138	651	0
-Rāmpur Maduki	2557	8138	651	0
+Rāmpur Maduki	2557	8138	651	0	Faizīpur
 Madhdeori	2275	7975	368	0
 Madanpur	2281	7999	368	0
 Mādhopur	2541	8231	607	0
@@ -950,7 +950,7 @@ Purwa Madāri	2614	8089	681	0
 Madai Khera	2617	8084	681	0
 Madanpur	2952	7833	575	0
 Hardāspur Māde	2944	7830	575	0
-Madhi	2929	7847	575	0
+Madhi	2929	7847	575	0	Sādullāh Khānpur
 Purwa Madār Behar	2782	8109	323	0
 Madaniān	2782	8116	323	0
 Mādharmau	2754	8100	507	0
@@ -1040,7 +1040,7 @@ Madārpur	2679	8139	30	0
 Madārpur	2696	8144	30	0
 Madhnapur	2696	8147	30	0
 Madārīpur	2916	7836	575	0
-Madsūdanpur	2919	7844	575	0
+Madsūdanpur	2919	7844	575	0	Jalālpur
 Sarakthal Mādho	2924	7847	575	0
 Madārpur	2673	8128	30	0
 Madārpur	2675	8131	30	0
@@ -1195,7 +1195,7 @@ Madhnagar	2688	8191	542	0
 Madrāha	2696	8194	542	0
 Pura Madār	2698	8199	542	0
 Madho Purwa	2696	8199	542	0
-Madhai	2690	8197	542	0
+Madhai	2690	8197	542	0	Pura Harkāra
 Nagla Madi	2813	7855	646	0
 Madkāwali	2814	7854	646	0
 Madārpur	2810	7867	117	0
@@ -1220,7 +1220,7 @@ Madrahwa	2779	8206	618	0
 Madhwāpur	2775	8212	618	0
 Pipra Madār	2777	8220	280	0
 Madhnagar	2756	8206	280	0
-Madphora	2831	7878	117	0
+Madphora	2831	7878	117	0	Saidpur Rāmnagar
 Patti Mādhosingh	2828	7878	117	0
 Madhrahwa	2763	8219	280	0
 Madhnagar	2771	8212	618	0
@@ -1231,7 +1231,7 @@ Madrāhan	2756	8223	280	0
 Madrahan	2751	8223	280	0
 Madhwāpur	2755	8209	280	0
 Madārgarh	2762	8214	280	0
-Mādhopur	2805	7882	117	0
+Mādhopur	2805	7882	117	0	Relai
 Madhuānagar	2736	8204	542	0
 Mādho Dīhwa	2739	8209	542	0
 Madhnagar	2729	8214	542	0
@@ -1294,7 +1294,7 @@ Mādhopur	2705	8261	154	0
 Madhopur	2703	8276	154	0
 Mādhnagar	2703	8281	154	0
 Mādhopur	2704	8287	292	0
-Madrāhwa	2721	8289	292	0
+Madrāhwa	2721	8289	292	0	Rām Niwāzpur
 Madarha	2700	8295	647	0
 Madrāhnan	2705	8298	292	0
 Madrahnān Lala	2718	8297	292	0
@@ -1605,7 +1605,7 @@ Mādhopur	2556	8178	607	0
 Madārpur	2550	8194	607	0
 Mādhopur	2558	8194	607	0
 Madra	2564	8197	607	0
-Mādhopur	2568	8195	607	0
+Mādhopur	2568	8195	607	0	Nai Bāzār
 Chak Mādho Singh	3231	7566	692	0
 Pura Madāri	2542	8181	607	0
 Madoka	2540	8182	607	0
@@ -1640,7 +1640,7 @@ Madlauda	2940	7680	298	0
 Madanpur	2177	8009	144	0
 Mādhapur	3156	7516	222	0
 Mādāhpur	3154	7522	222	0
-Madīnpur	2931	7751	545	0
+Madīnpur	2931	7751	545	0	Khizarpur
 Madāhar Shera	3108	7511	566	0
 Madarpur	3108	7515	499	0
 Mādhotolā	2154	8039	144	0
@@ -1927,7 +1927,7 @@ Mādeput	1811	8274	268	0
 Poranki Madigapalle	1649	8072	68	0
 Maddūru	1640	8073	68	0
 Madigepalle	1639	8070	319	0
-Mada	1861	8293	316	0
+Mada	1861	8293	316	0	Malla
 Maddalaparva	1693	8076	104	0
 Mādigūdem	1678	8085	24	0
 Madigūdem	1682	8087	24	0
@@ -1971,7 +1971,7 @@ Chinna Madhupāda	1815	8320	179	0
 Pedda Madhupāda	1815	8318	179	0
 Mādalangi	1890	8350	199	0
 Mādāgundipāra	1889	8163	600	0
-Madhupāda	1821	8327	179	0
+Madhupāda	1821	8327	179	0	Maruvāda
 Madhupāda Agrahāram	1831	8334	179	0
 Mādhavarangārāyapuram	1846	8350	179	0
 Madakamirās	1870	8187	599	0
@@ -2049,7 +2049,7 @@ Mādra	2514	7335	273	0
 Mādrawān	2504	7340	22	0
 Mādo	2521	7344	273	0
 Mādpur	2535	7358	273	0
-Mādu	2211	7424	155	0
+Mādu	2211	7424	155	0	Palwi
 Madrāni	2300	7445	348	0
 Madopur	2277	7460	348	0
 Madiul	2945	7930	551	0
@@ -2929,7 +2929,7 @@ Mādigavāda	1441	7960	6	0
 Mādigapalli	1438	7972	6	0
 Mādigavāda	1438	7962	6	0
 Maddūrupalle	1420	7951	6	0
-Mādigavāda	1417	7974	6	0
+Mādigavāda	1417	7974	6	0	Mālavāda
 Mādigaraendlu	1442	7976	6	0
 Maddāli	1404	7996	45	0
 Madevāndlapalli	1382	7906	45	0
@@ -2960,7 +2960,7 @@ Mādigapalli	1389	7959	45	0
 Madibāka	1364	7960	45	0
 Mādhavamāla	1365	7958	45	0
 Maddiledu	1374	7963	45	0
-Madanagopālapuram	1361	7974	45	0
+Madanagopālapuram	1361	7974	45	0	Rāgigunta
 Mādhavapuram	1326	7965	228	0
 Madusrivenkatambapuram	1339	7968	45	0
 Mādhavaram	1334	7971	214	0
@@ -3045,7 +3045,7 @@ Mādanāyakkanpālaiyam	1135	7757	211	0
 Madattuppālaiyam	1127	7756	211	0
 Madavapālaiyam	1103	7762	235	0
 Madiyāmpatti	1164	7798	51	0
-Madatiūr	1156	7788	51	0
+Madatiūr	1156	7788	51	0	Rangappanpālaiyam
 Mādnāyakkampatti	1178	7794	51	0
 Madattuppālaiyam	1120	7781	211	0
 Madattūr	1054	7724	235	0
@@ -3329,7 +3329,7 @@ Madhabdihi	2302	8788	375	0
 Madia	2386	7874	352	0
 Madia	2372	7955	521	0
 Madār	2603	8276	498	0
-Madārdānd	2603	8302	498	0
+Madārdānd	2603	8302	498	0	Muhammadpur
 Mādhopur	2595	8186	718	0
 Mādhopur	2741	8098	507	0
 Madārpur	2699	8150	30	0

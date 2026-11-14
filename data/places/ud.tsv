@@ -1,45 +1,45 @@
 Udaipur	2459	7371	22	451100
-Oodeypore	2459	7371	22	451100
-Udakamandalam	1141	7670	115	233426
-Udhagamandalam	1141	7670	115	233426
+Oodeypore	2459	7371	22	451100	Udaipur
+Udakamandalam	1141	7670	115	233426	Ooty
+Udhagamandalam	1141	7670	115	233426	Ooty
 Udupi	1333	7475	257	165000
-Udipi	1333	7475	257	165000
+Udipi	1333	7475	257	165000	Udupi
 Udgīr	1839	7712	158	103550
 Udhampur	3292	7514	373	84015
 Udumalaippettai	1059	7725	235	61133
-Udamalpet	1059	7725	235	61133
+Udamalpet	1059	7725	235	61133	Udumalaippettai
 Udaipur	2353	9148	385	32758
 Udaipur	2772	7547	300	30264
 Udaipurwati	2773	7547	300	29236
 Chhota Udepur	2230	7402	126	25787
-Chota Udaipur	2230	7402	126	25787
+Chota Udaipur	2230	7402	126	25787	Chhota Udepur
 Udangudi	843	7803	208	19738
-Udankudi	843	7803	208	19738
+Udankudi	843	7803	208	19738	Udangudi
 Udaipura	2307	7851	338	18236
 Udalguri	2675	9210	381	15935
 Udayendram	1270	7862	184	13837
 Udala	2158	8657	382	13152
 Udaiyārpālaiyam	1119	7929	383	12688
-Udayarpalayam	1119	7929	383	12688
+Udayarpalayam	1119	7929	383	12688	Udaiyārpālaiyam
 Udiyāvara	1330	7474	257	11854
-Udayavara	1330	7474	257	11854
+Udayavara	1330	7474	257	11854	Udiyāvara
 Udayagiri	2012	8437	387	11302
-Ghumusar Udayagiri	2012	8437	387	11302
-Udaigiri	2012	8437	387	11302
-G. Udayagiri	2012	8437	387	11302
+Ghumusar Udayagiri	2012	8437	387	11302	Udayagiri
+Udaigiri	2012	8437	387	11302	Udayagiri
+G. Udayagiri	2012	8437	387	11302	Udayagiri
 Udpura	2473	7598	371	10051
-Udugattūr	1277	7888	189	8998
+Udugattūr	1277	7888	189	8998	Odugattūr
 Uduma	1244	7502	305	8115
-Udma	1244	7502	305	8115
+Udma	1244	7502	305	8115	Uduma
 Vithal Udyognagar INA	2253	7293	157	5035
 Rāmagiri Udayagiri	1916	8414	252	4851
-R. Udayagiri	1916	8414	252	4851
+R. Udayagiri	1916	8414	252	4851	Rāmagiri Udayagiri
 Udiana	2646	9161	636	4644
 Udanapur	2005	7649	49	959
 Udidgaon	1970	8144	619	636
 Udvāda	2049	7287	261	0
 Udva	2008	7300	192	0
-Udua	2008	7300	192	0
+Udua	2008	7300	192	0	Udva
 Ūdumbanshola	990	7718	258	0
 Udrāsar	2827	7409	307	0
 Udrāmsar	2794	7330	307	0
@@ -52,12 +52,12 @@ Udepur	2915	7384	374	0
 Udel	2234	7270	157	0
 Uddhoke	3173	7518	222	0
 Uddanappalli	1261	7794	223	0
-Uddanappalle	1261	7794	223	0
+Uddanappalle	1261	7794	223	0	Uddanappalli
 Uday Nārāyanpur	2373	8798	375	0
-Udayanarayanpur	2373	8798	375	0
-Udainarainpur	2373	8798	375	0
+Udayanarayanpur	2373	8798	375	0	Uday Nārāyanpur
+Udainarainpur	2373	8798	375	0	Uday Nārāyanpur
 Udaypur	2390	7806	215	0
-Udayapur	2390	7806	215	0
+Udayapur	2390	7806	215	0	Udaypur
 Udayagiri	2075	8632	376	0
 Udayagiri	1488	7931	6	0
 Udawantnagar	2551	8462	377	0
@@ -72,20 +72,20 @@ Udakatla	1650	7795	317	0
 Udaipura	2479	7868	384	0
 Udaipur	2062	8374	386	0
 Udainagar	2254	7620	322	0
-Udur	3415	7432	301	0
+Udur	3415	7432	301	0	Odur
 Nimbli Uda	2588	7334	273	0
-Udhad	2228	7283	157	0
-Udera	2810	7459	539	0
+Udhad	2228	7283	157	0	Dewan
+Udera	2810	7459	539	0	Hudera
 Udāsar	2837	7469	539	0
 Udasar	2885	7468	486	0
-Udera	2801	7484	491	0
+Udera	2801	7484	491	0	Hudera
 Bar Ūdar	3414	7475	611	0
 Ūdhipura	3437	7433	0	0
 Udāna	2994	7699	457	0
 Udhoāla	3274	7481	581	0
 Udura	3441	7392	0	0
 Udia Khāla	3046	7777	448	0
-Udia Khāia	3046	7777	448	0
+Udia Khāia	3046	7777	448	0	Udia Khāla
 Bhanera Ūda	2962	7737	328	0
 Udal Palla	2993	7870	612	0
 Udal Walla	2993	7870	612	0
@@ -102,14 +102,14 @@ Udhopur	2712	7935	464	0
 Nagla Udai	2712	7930	464	0
 Udepur	2702	7926	464	0
 Udeiāpur	2706	7945	570	0
-Udelāpur	2706	7945	570	0
+Udelāpur	2706	7945	570	0	Udeiāpur
 Uderpur Bhura	2765	7960	470	0
 Udhannāpur	2755	7959	688	0
 Udampur	2692	7905	290	0
 Udepur	2682	7906	290	0
-Udaipur	2682	7906	290	0
+Udaipur	2682	7906	290	0	Udepur
 Udetpur	2639	7923	741	0
-Udotpura	2639	7923	741	0
+Udotpura	2639	7923	741	0	Udetpur
 Udh	2625	7943	741	0
 Udotpura	2612	7930	741	0
 Udaipur	2695	7959	570	0
@@ -129,7 +129,7 @@ Udwāpur	2757	8145	525	0
 Udoyogiri	1808	8155	109	0
 Udesar	2632	7265	344	0
 Udakishunganj	2568	8694	657	0
-Udakishanganj	2568	8694	657	0
+Udakishanganj	2568	8694	657	0	Udakishunganj
 Udiyari	2983	8003	508	0
 Udaynarayanp	2272	8798	354	0
 Udbadal	2201	8770	559	0
@@ -148,7 +148,7 @@ Udhanwās	2814	7695	482	0
 Udrān	2923	7539	705	0
 Udāri	3344	7431	504	0
 Ude Nāl	3129	7714	278	0
-Udīwāli	2961	7375	374	0
+Udīwāli	2961	7375	374	0	Harkhewāla
 Udē Karan	3050	7455	615	0
 Udepur	3090	7705	628	0
 Ūdhamgarh	3030	7721	88	0
@@ -176,7 +176,7 @@ Udaipur	2342	7885	352	0
 Piparia Udebhān	2331	7880	352	0
 Udaka	2311	7862	338	0
 Udaipur	2695	7677	708	0
-Udowāli	2968	7709	457	0
+Udowāli	2968	7709	457	0	Dibarki
 Ūdpur	2961	7712	328	0
 Chhoti Udai	2655	7678	116	0
 Udāpur	2131	7833	141	0
@@ -194,8 +194,8 @@ Udaisāgar	2573	7521	446	0
 Udīn	3301	7658	362	0
 Uddīwāla	3034	7801	448	0
 Udho Jot	2941	7870	575	0
-Jamalpur Udāichand	2926	7860	575	0
-Jamālpur Udāichand	2929	7859	575	0
+Jamalpur Udāichand	2926	7860	575	0	Mirza Ālīpur
+Jamālpur Udāichand	2929	7859	575	0	Mirzāpur
 Udhowāla	2938	7873	575	0
 Udāipur	2934	7872	575	0
 Udāipur	2878	7921	552	0
@@ -222,7 +222,7 @@ Udāka	2767	7730	114	0
 Udaipur Dīwānwāla	3025	7653	564	0
 Udka Tānda	1816	7657	158	0
 Udka	1815	7655	158	0
-Udelābās	2770	7701	114	0
+Udelābās	2770	7701	114	0	Chanāwanda
 Udaipur Nihām	2758	7700	114	0
 Udaipuri	2757	7723	114	0
 Udaigarhi	2792	7772	177	0
@@ -387,7 +387,7 @@ Udai Purwa	2513	8326	724	0
 Udai Rāmpur	2500	8348	749	0
 Bībīpur Udhran	2589	8373	586	0
 Udaipur	2583	8364	26	0
-Udhranpur	2534	8362	26	0
+Udhranpur	2534	8362	26	0	Deharia
 Udhpura	2524	8353	749	0
 Udaipura	2542	8398	620	0
 Uditpur	2481	8310	724	0
@@ -403,7 +403,7 @@ Udāpur	2059	7988	111	0
 Udaipur	2513	8020	663	0
 Udairājpur	2596	8069	728	0
 Udāpur	2042	7779	67	0
-Udamgadda	1732	7845	62	0
+Udamgadda	1732	7845	62	0	Mailārdevpalli
 Udamgadda	1732	7846	424	0
 Udanwas	2792	7639	482	0
 Uduthiāla	1697	7811	317	0
@@ -467,7 +467,7 @@ Udrāherah	2647	8100	681	0
 Udār	2551	8290	251	0
 Udrāhar	2611	8089	681	0
 Udwāmau	2615	8092	681	0
-Abdhīpur Udichand	2948	7844	575	0
+Abdhīpur Udichand	2948	7844	575	0	Nagli
 Purwa Ūdaipur	2791	8117	323	0
 Udaipur	2790	8118	323	0
 Udhrāpur	2745	8155	294	0
@@ -606,7 +606,7 @@ Pura Udit	2648	8260	553	0
 Udepur	2630	8251	553	0
 Ūdho Patti	2604	8259	32	0
 Udaipur	2680	8287	154	0
-Kalyānpur Udanpur	2655	8276	553	0
+Kalyānpur Udanpur	2655	8276	553	0	Langri
 Pura Uditpāl	2658	8288	647	0
 Udha	2655	8293	647	0
 Udaipur	2577	8332	26	0
@@ -645,7 +645,7 @@ Mohi-ud-Dinpur	3219	7545	692	0
 Udepur	3215	7544	487	0
 Ūdāpur	2580	8182	718	0
 Udaichandpur	2557	8189	607	0
-Udhodās	2537	8185	607	0
+Udhodās	2537	8185	607	0	Chak Garībdās
 Udhara	2511	8180	607	0
 Chandar Udaiya	2510	8180	607	0
 Udli	2490	8102	324	0
@@ -778,7 +778,7 @@ Udupa	1853	8192	109	0
 Udayapuram	1896	8370	199	0
 Udigavalasa Venkammapeta	1866	8363	199	0
 Uddavolu	1853	8361	179	0
-Udasingi	1898	8392	252	0
+Udasingi	1898	8392	252	0	Podomsingi
 Udeisingi	1900	8390	252	0
 Udikalapeta	1850	8396	472	0
 Udaibhan Chak	2502	8449	137	0
@@ -786,7 +786,7 @@ Udpuria	2385	7681	16	0
 Ūdpuriya	2372	7693	16	0
 Udpura	2314	7695	675	0
 Udaipura	2254	7620	322	0
-Udhad	2300	7342	142	0
+Udhad	2300	7342	142	0	Janod
 Udeypura	2373	7366	512	0
 Udadia	2340	7390	512	0
 Udargiapara	2342	7392	512	0
@@ -834,7 +834,7 @@ Udkara	2656	8425	703	0
 Dhaulia Udiār	2975	7986	508	0
 Udhiāri	2945	7984	429	0
 Udra	2878	7934	552	0
-Udampur	2878	7934	552	0
+Udampur	2878	7934	552	0	Udra
 Udaipur	2871	7946	342	0
 Mundia Udra	2863	7943	342	0
 Udaipur	2853	7943	342	0
@@ -1050,7 +1050,7 @@ Udappankulam	922	7758	245	0
 Udayappankudiyiruppu	813	7743	453	0
 Udaiyāmpulli	880	7754	245	0
 Udaiyārpatti	874	7771	191	0
-Udaiyamārtāildaperi	848	7757	191	0
+Udaiyamārtāildaperi	848	7757	191	0	Kuttamkulam
 Udaiyattur	825	7772	191	0
 Udaiyaneri	879	7777	191	0
 Udaiyārkulam	875	7781	191	0

@@ -1,43 +1,43 @@
-Simhapuri	1445	7999	6	547621
-Shimogga	1393	7557	346	322650
+Simhapuri	1445	7999	6	547621	Nellore
+Shimogga	1393	7557	346	322650	Shivamogga
 Shimla	3110	7717	479	173503
 Simdega	2262	8450	495	42944
 Simga	2163	8170	379	16027
 Simaria	2479	8115	516	14045
 Simaluguri	2692	9476	520	8286
-Simalunguri	2692	9476	520	8286
-Simaluguri Junction	2692	9476	520	8286
-Seemalwara	2357	7374	512	6891
+Simalunguri	2692	9476	520	8286	Simaluguri
+Simaluguri Junction	2692	9476	520	8286	Simaluguri
+Seemalwara	2357	7374	512	6891	Semarwāra
 Nihālpur Simba	3262	7478	581	3869
 Simli Murārpur	2558	8524	604	3739
-Simla	3088	7705	628	2994
-Simla	3110	7712	479	2467
+Simla	3088	7705	628	2994	Dagshai
+Simla	3110	7712	479	2467	Jutogh
 Simeinasora	2202	9261	244	215
 Simrol	2254	7591	660	0
 Simri Bakhriārpur	2572	8659	661	0
-Simri Bakhtiārpur	2572	8659	661	0
+Simri Bakhtiārpur	2572	8659	661	0	Simri Bakhriārpur
 Simri	2616	8576	591	0
 Simrauta	2646	8141	662	0
 Simrātari	2465	8578	473	0
-Simratanri	2465	8578	473	0
+Simratanri	2465	8578	473	0	Simrātari
 Simrāhi	2631	8685	426	0
-Simraha	2631	8685	426	0
+Simraha	2631	8685	426	0	Simrāhi
 Simra	2518	7865	529	0
 Simlipālgarh	2186	8639	382	0
 Simli	2975	7802	596	0
 Simlāpāl	2291	8707	571	0
 Simlabāri	2610	9045	458	0
-Similigurha	1870	8286	316	0
+Similigurha	1870	8286	316	0	Semiliguda
 Simria	2132	8604	293	0
-Similia	2132	8604	293	0
+Similia	2132	8604	293	0	Simria
 Simhagadda	1859	8302	199	0
 Simhādripuram	1463	7813	229	0
 Simhāchalam	1777	8325	81	0
 Simauri	2722	8076	507	0
 Simariā Kalān	2406	8494	393	0
-Simaria	2406	8494	393	0
+Simaria	2406	8494	393	0	Simariā Kalān
 Simaria	2542	8601	530	0
-Simaria Ghāt	2542	8601	530	0
+Simaria Ghāt	2542	8601	530	0	Simaria
 Simanbādi	1999	8407	387	0
 Simānagāon	2643	9297	656	0
 Simāna Basti	2698	8814	573	0
@@ -48,13 +48,13 @@ Shimla	2869	7457	539	0
 Shimar	2079	7115	136	0
 Mahādeo Simaria	2492	8611	524	0
 Chhota Simla	3109	7718	479	0
-Simla	3097	7720	628	0
+Simla	3097	7720	628	0	Chail
 Simulia	2236	8819	4	0
 Simian	3337	7424	504	0
 Simbal Dhora	3336	7423	504	0
-Simbal Dhara	3336	7423	504	0
+Simbal Dhara	3336	7423	504	0	Simbal Dhora
 Katiāl Simbai	3291	7452	581	0
-Katiāl Simbal	3291	7452	581	0
+Katiāl Simbal	3291	7452	581	0	Katiāl Simbai
 Sui Simbli	3280	7471	581	0
 Simbli Dharm Arti	3279	7472	581	0
 Simbal	3309	7432	504	0
@@ -121,7 +121,7 @@ Simal Kheri	2930	7822	575	0
 Sīmla	2953	7806	575	0
 Sīmli	2954	7806	575	0
 Sīmla Shikohābād	2955	7806	575	0
-Majra Sīmla	2953	7804	575	0
+Majra Sīmla	2953	7804	575	0	Gambhīrpur
 Simaria Kalān	2344	7825	338	0
 Simaria Khurd	2344	7842	338	0
 Simaria Kalān	2328	7826	338	0
@@ -156,7 +156,7 @@ Simiand	3027	7821	448	0
 Simbālwāla	3029	7814	448	0
 Simyāri	3040	7821	448	0
 Deoraniān Shimālī	2891	7913	552	0
-Alīnagar Shimālī	2890	7912	552	0
+Alīnagar Shimālī	2890	7912	552	0	Kunde Kī Mandaiyān
 Badhpura Shimālī	2891	7905	552	0
 Nawābganj Shimālī	2891	7904	552	0
 Misrīnagar Shimālī	2890	7904	552	0
@@ -365,7 +365,7 @@ Singhaur Simri	2622	8086	681	0
 Simri	2624	8086	681	0
 Simarpaha	2615	8095	681	0
 Sīmli	2914	7823	575	0
-Shimālkheri	2957	7829	575	0
+Shimālkheri	2957	7829	575	0	Rāipur
 Simria	2777	8103	507	0
 Purwa Simra	2785	8123	323	0
 Simra Khurd	2759	8103	507	0
@@ -401,7 +401,7 @@ Simri	2667	8135	30	0
 Simrāwān	2673	8138	30	0
 Simalkheri	2921	7855	575	0
 Shimli	2973	7880	612	0
-Simalkhetu	2969	7886	612	0
+Simalkhetu	2969	7886	612	0	Chaboliya
 Simalgaon	2974	7887	612	0
 Simli	2966	7899	612	0
 Simli	2964	7898	612	0
@@ -409,7 +409,7 @@ Simara	2478	8089	324	0
 Simra	2644	8187	597	0
 Simra	2626	8186	662	0
 Simtipur	2640	8192	597	0
-Simraiya	2588	8100	728	0
+Simraiya	2588	8100	728	0	Khawājgīpur
 Simraha	2584	8113	728	0
 Simauri	2580	8120	728	0
 Simaria Charandāsi	2520	8101	643	0
@@ -424,7 +424,7 @@ Simra Mahīpat	2824	7991	683	0
 Simroli	2816	7994	683	0
 Simra	2807	7999	470	0
 Simrājpalli	1887	7812	75	0
-Simroa	2852	7867	646	0
+Simroa	2852	7867	646	0	Tāharpur
 Simri Rānāpur	2597	8129	681	0
 Pura Simauri	2610	8107	681	0
 Simauri	2610	8106	681	0
@@ -444,10 +444,10 @@ Simarra	2817	7896	117	0
 Simrahna	2736	8220	280	0
 Sālpur Simra	2717	8204	542	0
 Simrahwa	2714	8216	542	0
-Simraha	2544	8144	651	0
+Simraha	2544	8144	651	0	Pipri Sādiqpur
 Simra	2718	8224	280	0
 Simkholi	2994	7904	612	0
-Simār	2975	7910	612	0
+Simār	2975	7910	612	0	Kharkoli
 Simkholi	2993	7908	612	0
 Simkhet	2993	7910	612	0
 Simgaon	2988	7917	429	0
@@ -534,8 +534,8 @@ Simrol	2299	7590	660	0
 Simariā	2280	8016	480	0
 Hingona Sim	2054	7512	78	0
 Bhortek Sim	2055	7517	78	0
-Sim	2087	7533	78	0
-Sim	2096	7545	78	0
+Sim	2087	7533	78	0	Khadka
+Sim	2096	7545	78	0	Pimpalkotha
 Shimor	2405	7273	164	0
 Simaria Tolā	2277	8040	480	0
 Simariā	2290	8044	480	0
@@ -672,7 +672,7 @@ Simoli	2960	7941	429	0
 Simaria	2306	7499	348	0
 Simalkha	2951	7943	551	0
 Simāmoi	2262	7409	173	0
-Simlia Nāna	2277	7435	173	0
+Simlia Nāna	2277	7435	173	0	Bhutori
 Simlia Mota	2276	7436	173	0
 Simlia Para	2280	7443	173	0
 Simlani	2209	7449	155	0
@@ -721,7 +721,7 @@ Shīm	2931	7998	554	0
 Simalkhet	2948	7998	554	0
 Bhoria Simul	2905	7988	551	0
 Shimla Pastaur	2896	7945	641	0
-Dūndha Shimāli	2881	7948	342	0
+Dūndha Shimāli	2881	7948	342	0	Harharpur
 Simra	2880	7950	342	0
 Simrāwa	2861	7936	342	0
 Kamālpur Shimāli	2865	7944	342	0
@@ -746,13 +746,13 @@ Simarja Ghausū	2872	7982	683	0
 Simaria Anūp	2870	7982	683	0
 Simra Jāgīr	2850	7980	683	0
 Simaria Tārāchand	2850	7981	683	0
-Simaria	2850	7981	683	0
+Simaria	2850	7981	683	0	Simaria Tārāchand
 Simeri	2583	8424	536	0
 Simri	2564	8412	620	0
 Simra	2837	7981	683	0
-Akbarganj Simra	2837	7981	683	0
+Akbarganj Simra	2837	7981	683	0	Simra
 Simra Inchhā Rām	2847	7992	683	0
-Munda Simnāgar	2848	7992	683	0
+Munda Simnāgar	2848	7992	683	0	Pandri
 Simrī	2457	8410	137	0
 Simrī	2463	8410	137	0
 Simrībhed	2467	8413	137	0
@@ -860,7 +860,7 @@ Simargāchhi	2574	8755	613	0
 Simra	2514	8752	461	0
 Sīmaljori	2502	8753	461	0
 Simria	2522	8758	461	0
-Simria	2522	8756	461	0
+Simria	2522	8756	461	0	Lālmātia
 Simra	2506	8762	461	0
 Simaljori	2516	8769	461	0
 Simaljori	2509	8772	461	0
@@ -959,7 +959,7 @@ Simrāhāt	2385	8440	707	0
 Sīmā	2359	8429	707	0
 Simlābartoli	2310	8432	321	0
 Sīmbārtoli	2305	8435	321	0
-Sīmartoli	2305	8435	321	0
+Sīmartoli	2305	8435	321	0	Sīmbārtoli
 Sīmbartoli	2317	8435	321	0
 Sīmartoli	2321	8449	321	0
 Sīmartoli	2314	8448	321	0

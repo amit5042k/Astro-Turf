@@ -1,23 +1,23 @@
-Nausari	2094	7292	221	171109
+Nausari	2094	7292	221	171109	Navsari
 Naugachhia	2539	8710	411	49069
 Nautanwa	2743	8342	515	32587
-Nautanwa Bazar	2743	8342	515	32587
+Nautanwa Bazar	2743	8342	515	32587	Nautanwa
 Naubatpur	2550	8496	604	25011
 Nāushahra	3316	7424	504	10408
 Naurhiya	2421	8257	631	6529
-Naudhia	2421	8257	631	6529
+Naudhia	2421	8257	631	6529	Naurhiya
 Naubaisa Goan	2680	9422	451	5015
 Naubasta	2456	8118	516	4358
 Qasba Naubug	3365	7538	148	0
 Naurīyāla	2616	7041	285	0
 Naugānwa	2766	7689	482	0
 Naugāwān	2345	7426	166	0
-Naudi	1734	7404	64	0
+Naudi	1734	7404	64	0	Navdi
 Nautārā	2553	7612	353	0
 Naushehra	2861	7266	307	0
 Naushehra Pannuan	3134	7495	260	0
-Naushahra	3134	7495	260	0
-Naushahra Panwān	3134	7495	260	0
+Naushahra	3134	7495	260	0	Naushehra Pannuan
+Naushahra Panwān	3134	7495	260	0	Naushehra Pannuan
 Nauratori	2216	7558	329	0
 Naura	2328	8286	413	0
 Naupahār	2424	8752	669	0
@@ -25,7 +25,7 @@ Naupadapenth	1924	8451	440	0
 Naupada	1856	8430	472	0
 Naultha	2931	7690	298	0
 Naulipatti Pachhim	2544	8340	724	0
-Nauli Patti	2544	8340	724	0
+Nauli Patti	2544	8340	724	0	Naulipatti Pachhim
 Nauli	2549	8371	26	0
 Nauhata	2600	8649	661	0
 Naugarh	2730	8310	292	0
@@ -33,17 +33,17 @@ Naugarh	2483	8326	724	0
 Naugaon Sarf	2288	7564	660	0
 Naugaon Sādāt	2900	7841	483	0
 Naugaon	2992	7872	612	0
-Naugaon Malli	2992	7872	612	0
+Naugaon Malli	2992	7872	612	0	Naugaon
 Naugaon	1943	7551	113	0
 Naugām	3434	7416	0	0
 Naudiha	2438	8627	452	0
 Naude	1905	7310	17	0
-Nagar Nausa	2540	8534	514	0
-Bolkhera Nāu	2367	7580	314	0
+Nagar Nausa	2540	8534	514	0	Nagar Nahusa
+Bolkhera Nāu	2367	7580	314	0	Bolkheri
 Naua	2802	7457	539	0
 Dādi Naubug	3418	7483	595	0
 Naupura	3410	7488	611	0
-Naushera	3413	7481	611	0
+Naushera	3413	7481	611	0	Noushera
 Naugām	3404	7482	611	0
 Naupur	3430	7423	301	0
 Petha Naugām	3421	7460	120	0
@@ -57,16 +57,16 @@ Naular	3412	7458	301	0
 Naugām	3428	7438	301	0
 Naupur	3430	7444	301	0
 Naupur	3438	7440	301	0
-Naunināl	3315	7421	504	0
+Naunināl	3315	7421	504	0	Nuniāl
 Naulgarh	3291	7491	581	0
 Naulsūla	3282	7497	581	0
 Naugirān	3263	7484	581	0
 Naugāwān	3039	7794	448	0
 Naurangpur	3018	7777	449	0
-Naurongpur	3018	7777	449	0
+Naurongpur	3018	7777	449	0	Naurangpur
 Naurta	2985	7704	457	0
 Naunāgli	2956	7727	328	0
-Naunāhli	2956	7727	328	0
+Naunāhli	2956	7727	328	0	Naunāgli
 Naujhal Naujhli	2957	7737	328	0
 Naujhli	2956	7736	328	0
 Naurah	2942	7692	298	0
@@ -89,7 +89,7 @@ Naugawān	2782	7947	470	0
 Naugama	2770	7965	470	0
 Naugaon	2763	7969	686	0
 Naushera	2765	7960	470	0
-Nausāra	2754	7963	688	0
+Nausāra	2754	7963	688	0	Jodhanpura
 Nausāra	2751	7968	470	0
 Nāu Purwa	2722	7996	686	0
 Naurangpur	2716	7978	570	0
@@ -115,7 +115,7 @@ Naurangābād	2880	7623	431	0
 Nauhra	3140	7721	278	0
 Nau Baihk	3461	7440	0	0
 Nautor	3130	7740	479	0
-Naulān	3048	7405	3	0
+Naulān	3048	7405	3	0	Shāman Khān Kāh
 Kila Nau	3065	7471	730	0
 Zīra Nau	3099	7498	566	0
 Naun	3149	7756	680	0
@@ -182,7 +182,7 @@ Nauli	2404	7395	22	0
 Nauatalāo	2452	7408	22	0
 Naualpur	2470	7422	417	0
 Naudharāni	3049	7586	775	0
-Fatehgarh Nauābād	2997	7513	563	0
+Fatehgarh Nauābād	2997	7513	563	0	Nawānpind
 Nauāgāon	2986	7603	593	0
 Nautha	3048	7806	500	0
 Naughar	3046	7823	500	0
@@ -316,7 +316,7 @@ Naudha	2502	8042	532	0
 Nāut ka Purwa	2560	8105	728	0
 Naurangpura	2233	7688	465	0
 Naurera	2572	8216	718	0
-Naurera	2573	8215	718	0
+Naurera	2573	8215	718	0	Sarūppur
 Naudia	2566	8218	32	0
 Pathari Nauābād	2508	7939	525	0
 Nauli	2194	7619	209	0
@@ -370,7 +370,7 @@ Nauāpur	2561	8379	26	0
 Naualia	2525	8387	409	0
 Naua	2525	8395	409	0
 Naudīhwa	2484	8319	724	0
-Naubādi	2478	8311	724	0
+Naubādi	2478	8311	724	0	Chuppepur
 Naughāin Kalān	2474	8303	103	0
 Naugāin Khurd	2474	8303	103	0
 Naubadia	2473	8316	724	0
@@ -530,7 +530,7 @@ Nausin Nangal	2915	7858	575	0
 Naudāno	2966	7889	612	0
 Naugama	2487	8090	324	0
 Naukhi Khera	2649	8120	681	0
-Naumīwāla	2916	7879	511	0
+Naumīwāla	2916	7879	511	0	Mazra
 Naukūnka	2908	7885	511	0
 Pura Nāu	2644	8144	662	0
 Naugīr	2646	8176	662	0
@@ -539,7 +539,7 @@ Naurang	2633	8196	597	0
 Naugawān	2631	8196	597	0
 Naubasta	2406	8092	351	0
 Naugamān	2407	8092	324	0
-Naubasta	2590	8100	728	0
+Naubasta	2590	8100	728	0	Sarāi Mohan Salempur
 Naurangabād	2587	8120	728	0
 Naubasta	2587	8121	728	0
 Naubasta	2540	8116	651	0
@@ -563,7 +563,7 @@ Naugawān	2805	7991	470	0
 Naugawān	2818	7986	470	0
 Naugawān Ammar	2823	7987	683	0
 Naugawān	2816	7999	683	0
-Naugawān	2808	7999	470	0
+Naugawān	2808	7999	470	0	Jaswantpur
 Milak Nausāna Shekhūpur	2871	7868	511	0
 Nausāna Shekhūpur	2871	7869	511	0
 Naugawān	2830	7871	117	0
@@ -593,7 +593,7 @@ Naunān	2837	7878	117	0
 Dārawan Naugāin	3384	7472	76	0
 Nauhār	3390	7471	76	0
 Naugām	3384	7473	76	0
-Nauli	2823	7896	117	0
+Nauli	2823	7896	117	0	Harnāthpur
 Nauvanandi	1861	7847	75	0
 Naushahra	2731	8203	542	0
 Naushahra	2729	8205	542	0
@@ -606,7 +606,7 @@ Naudīhwa	2728	8224	542	0
 Naudīhwa	2731	8224	280	0
 Pura Naurang	2724	8207	542	0
 Naushahra	2701	8201	542	0
-Naubasta	2547	8139	651	0
+Naubasta	2547	8139	651	0	Bhatt Purwa
 Rudargarh Nausi	2719	8213	542	0
 Nausi	2718	8212	542	0
 Naushahra	2717	8216	542	0
@@ -762,12 +762,12 @@ Naugam	3350	7517	550	0
 Naudiha	2591	8150	718	0
 Naubasta	2599	8170	718	0
 Nauwāpār	2683	8303	647	0
-Naudānr	2683	8303	647	0
+Naudānr	2683	8303	647	0	Nauwāpār
 Naudar	2696	8310	647	0
 Nauhat	2680	8308	647	0
 Naugon	2699	8321	647	0
 Naurangia	2671	8303	647	0
-Nāun Jot	2653	8300	647	0
+Nāun Jot	2653	8300	647	0	Garāngarbir
 Nāun Khurd	2653	8300	647	0
 Purwa Nāu	2655	8325	325	0
 Nauka Purwa	2644	8311	325	0
@@ -826,7 +826,7 @@ Naugawān Indarhi	2695	8394	560	0
 Naugawān	2676	8397	560	0
 Naulāgia	2618	8379	586	0
 Nāupura	2603	8380	536	0
-Naupura	2563	8365	26	0
+Naupura	2563	8365	26	0	Nagwa
 Nāur Dewār	2563	8368	26	0
 Nauwapatti	2387	8016	351	0
 Naugama	2377	8087	351	0
@@ -1160,7 +1160,7 @@ Nauāpur	2587	8436	536	0
 Naukāgaon	2586	8443	536	0
 Naukātola	2580	8449	536	0
 Nauner	2497	8429	137	0
-Naukāgaon	2571	8428	536	0
+Naukāgaon	2571	8428	536	0	Rāmnagar
 Naurānga	2572	8441	536	0
 Naurānga	2569	8442	377	0
 Naukātola	2554	8445	377	0

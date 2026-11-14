@@ -4,16 +4,16 @@ Chatibor Gaon	2652	9052	357	8231
 Kumar Kaibarta Gaon	2675	9424	451	8056
 Bahbari Gaon	2748	9533	460	6821
 Digaru Gaon	2616	9199	359	5771
-Sonapur Gaon	2616	9199	359	5771
+Sonapur Gaon	2616	9199	359	5771	Digaru Gaon
 Barua Bari Gaon	2612	9197	359	5444
 Charingia Gaon	2673	9415	451	5094
 Nowsolia Gaon	2673	9419	451	4312
 Kachujan Gaon	2750	9536	460	3246
-Gaorisar	2815	7468	539	0
+Gaorisar	2815	7468	539	0	Gorīsar
 Gāoran	3370	7543	148	0
 Gaonri	2770	7583	491	0
-Gaorni	2770	7583	491	0
-Gaonda	2029	7305	233	0
+Gaorni	2770	7583	491	0	Gaonri
+Gaonda	2029	7305	233	0	Galonda
 Dhola ka Gaon	2544	7323	273	0
 Barka Gaon	2641	8426	703	0
 Bārat Ka Gaon	2671	7198	217	0
@@ -21,7 +21,7 @@ Khejarli Gaon	2658	7191	217	0
 Gaora	3317	7431	504	0
 Gao	2469	7556	580	0
 Bhāno ka Gaon	2774	7280	307	0
-Bhāne ka Gaon	2774	7280	307	0
+Bhāne ka Gaon	2774	7280	307	0	Bhāno ka Gaon
 Shankarpur Gaon Mustaqil	2642	7948	741	0
 Bihiating Gaon	2755	9543	460	0
 Mandia Gaon	2628	9098	358	0
@@ -84,12 +84,12 @@ Gaontia Damūdar Dās	2826	7905	117	0
 Gaontia Khajai Singh	2825	7900	117	0
 Gaontia Rāmnagar	2828	7904	117	0
 Pūp Singh Gaontia	2834	7920	342	0
-Masūdpur Gaonri	2898	7780	700	0
+Masūdpur Gaonri	2898	7780	700	0	Jalāluddīnpur
 Gaonri	2885	7785	700	0
 Gaonri	2894	7783	700	0
 Nadi Ka Gaon	2698	7733	114	0
 Gāonri	2776	7727	114	0
-Gaonra	2772	7706	114	0
+Gaonra	2772	7706	114	0	Nangla Fīrozpur
 Gāonri	2723	7758	114	0
 Gaotāpur	1785	7790	31	0
 Gaonri	2710	7792	546	0

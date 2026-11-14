@@ -1,21 +1,21 @@
 Vasco da Gama	1540	7382	102	100485
 Gamdi	2257	7297	157	14582
 Gamharia	2386	7881	352	7984
-Gamiria Sagar	2386	7881	352	7984
-Ghamārwin	3144	7672	772	7899
+Gamiria Sagar	2386	7881	352	7984	Gamharia
+Ghamārwin	3144	7672	772	7899	Ghumārwīn
 Gamhāria	2281	8610	653	7505
-Bara Gamhāria	2281	8610	653	7505
-Gamaria	2281	8610	653	7505
-Chota Gamahria	2281	8610	653	7505
-Watra Gam	3432	7437	301	7015
+Bara Gamhāria	2281	8610	653	7505	Gamhāria
+Gamaria	2281	8610	653	7505	Gamhāria
+Chota Gamahria	2281	8610	653	7505	Gamhāria
+Watra Gam	3432	7437	301	7015	Watargām
 Hāt Gāmāria	2227	8574	287	0
 Ghamrur	3196	7595	38	0
 Ghamnād	2195	7295	151	0
 Ghāmbiraopet	1831	7857	230	0
 Gamsāli	3075	7983	183	0
 Gāmri	2377	7362	512	0
-Gāmra ki Pāl	2419	7404	22	0
-Gāmrāpāl	2419	7404	22	0
+Gāmra ki Pāl	2419	7404	22	0	Bilia ka Ghara
+Gāmrāpāl	2419	7404	22	0	Bilia ka Ghara
 Gāmph	2236	7217	124	0
 Gampalagūdem	1700	8052	104	0
 Gāmkik	2807	9456	37	0
@@ -24,8 +24,8 @@ Gamhāria	2297	8554	432	0
 Gambhāri	2072	8294	394	0
 Gamarg	3429	7494	595	0
 Gamber	3341	7424	504	0
-Gambhir	3341	7424	504	0
-Gamhīr	3341	7424	504	0
+Gambhir	3341	7424	504	0	Gamber
+Gamhīr	3341	7424	504	0	Gamber
 Gāmwor	3420	7469	595	0
 Gāmapur	3401	7464	76	0
 Gamnān Ki Dhāni	2670	7176	217	0
@@ -59,10 +59,10 @@ Gamorhi	2741	7642	482	0
 Gamri	3069	7778	448	0
 Gambhīrpur	2953	7804	575	0
 Ghāmān	3078	7566	674	0
-Ghamnewāl	3096	7564	674	0
+Ghamnewāl	3096	7564	674	0	Ghās Khāna
 Ghamaoti	2959	7787	545	0
-Gamīrpura	2547	7454	309	0
-Ghamand Singhwāla	3031	7598	593	0
+Gamīrpura	2547	7454	309	0	Harji ka Khera
+Ghamand Singhwāla	3031	7598	593	0	Ramnagar
 Gāmri	3004	7599	593	0
 Gamanpura	2896	7911	552	0
 Gāmra	2896	7793	700	0
@@ -245,7 +245,7 @@ Gamāwāda	1881	8130	406	0
 Gamāwāda	1881	8133	406	0
 Gamāwāda	1879	8132	406	0
 Gampakonda	1810	8182	109	0
-Gampakondagūda	1810	8183	109	0
+Gampakondagūda	1810	8183	109	0	Tummikamadaka
 Gamaragūda	1898	8375	199	0
 Gamandlapālem	1541	8014	200	0
 Gamandlapālem	1431	8007	6	0
@@ -349,7 +349,7 @@ Gamharia	2632	8764	510	0
 Gamharia	2612	8780	510	0
 Gamharpur	2523	8734	411	0
 Gamhra	2514	8742	592	0
-Bishunpur Gamhir	2587	8515	716	0
+Bishunpur Gamhir	2587	8515	716	0	Jalālpur
 Gamhāria	2514	8772	461	0
 Gamāria	2475	8761	658	0
 Gamhāria	2462	8770	658	0
@@ -408,7 +408,7 @@ Gambhārpank	2151	8408	567	0
 Gāmāria	2243	8536	287	0
 Gāmāria	2265	8575	287	0
 Gamāria	2175	8538	293	0
-Gamāripāli	2189	8561	293	0
+Gamāripāli	2189	8561	293	0	Mahadebpur
 Gamāria	2166	8561	293	0
 Bar Gamāria	2167	8580	293	0
 Sān Gamāria	2166	8580	293	0

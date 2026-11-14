@@ -1,15 +1,15 @@
-Kaumuri	941	7837	5	14754
+Kaumuri	941	7837	5	14754	Kamuthi
 Khaur	3260	7481	581	6690
 Kaurānwāli	3038	7406	3	5770
-Kaul	2886	7780	700	2937
-Somarda Kauasot	2312	7750	687	0
-Kaudhalli	1207	7744	69	0
-Kaumloli	1966	7287	192	0
+Kaul	2886	7780	700	2937	Kahol
+Somarda Kauasot	2312	7750	687	0	Samarda Kaliāsot
+Kaudhalli	1207	7744	69	0	Kowdalli
+Kaumloli	1966	7287	192	0	Khamloli
 Kautha	1881	7737	140	0
 Kauthe	1888	7417	52	0
-Kautha	2073	7837	143	0
+Kautha	2073	7837	143	0	Kavtha
 Kaurirām	2653	8341	325	0
-Kauria	2359	8065	350	0
+Kauria	2359	8065	350	0	Kouria
 Kāupur	2114	8643	734	0
 Kaupāti	2658	9224	381	0
 Kaunthal	2541	7391	572	0
@@ -22,20 +22,20 @@ Kaujalgi	1620	7506	77	0
 Kauirik	3209	7868	425	0
 Kauhi	2094	8157	286	0
 Kaudgaon	1911	7491	152	0
-Kaudagon	1911	7491	152	0
+Kaudagon	1911	7491	152	0	Kaudgaon
 Kaua Kol	2484	8589	107	0
 Kau	2338	7332	125	0
-Kauni	3040	7467	615	0
+Kauni	3040	7467	615	0	Kāoni
 Kāu Tserwan	3426	7494	595	0
 Chak Kauro	3376	7418	1	0
-Mohra Kaui	3340	7419	504	0
+Mohra Kaui	3340	7419	504	0	Mohera Khul
 Khaur	3282	7451	581	0
 Kaul	3300	7448	581	0
 Khaur	3283	7446	581	0
 Khaur	3252	7490	720	0
 Kaul	3259	7479	581	0
-Kaulān	3259	7479	581	0
-Rājpur Kaular	3267	7493	720	0
+Kaulān	3259	7479	581	0	Kaul
+Rājpur Kaular	3267	7493	720	0	Rājpura
 Kaular	3266	7492	720	0
 Kausyān	3048	7791	448	0
 Kaula Kheri	2968	7730	449	0
@@ -49,12 +49,12 @@ Kaulāpur	3003	7691	501	0
 Khauran ka Khirk	2521	7890	433	0
 Khaujākheri	2412	7832	352	0
 Kaua Tānda	2721	7925	464	0
-Kauwa	2692	7924	290	0
+Kauwa	2692	7924	290	0	Kua
 Kaunktāpur	2652	7982	671	0
 Kausani	2984	7960	326	0
 Kaunlāsar	2846	7409	539	0
 Kauriāganj	2786	7831	543	0
-Kaurjāgani	2786	7831	543	0
+Kaurjāgani	2786	7831	543	0	Kauriāganj
 Khauriya ki Dhani	2649	7142	285	0
 Kautālam	1577	7714	236	0
 Kausdi	1947	7669	153	0
@@ -67,7 +67,7 @@ Kāuribāra	2968	7529	709	0
 Kaulāna	2820	7635	519	0
 Kaunt	2878	7618	431	0
 Kāuwär	3461	7440	0	0
-Kauwaer	3461	7440	0	0
+Kauwaer	3461	7440	0	0	Kāuwär
 Khāut	3147	7734	680	0
 Kaupo	3107	7747	479	0
 Khauri	3130	7763	479	0
@@ -89,7 +89,7 @@ Kauriya	2187	7858	337	0
 Khauron ki Bagal	2473	7368	22	0
 Kauloke	3037	7522	563	0
 Kaunke Kalan	3077	7542	674	0
-Kaunke	3077	7542	674	0
+Kaunke	3077	7542	674	0	Kaunke Kalan
 Kaulsaheri	3037	7594	593	0
 Kaulāgarh	3035	7801	448	0
 Khaud	2888	7905	552	0
@@ -166,7 +166,7 @@ Barāgaon Gulām Qāum	2656	7972	671	0
 Kauru	2641	7968	671	0
 Kaule Purwa	2694	7989	570	0
 Purwa Khausa	2691	7996	469	0
-Kaushalpur	2594	7912	741	0
+Kaushalpur	2594	7912	741	0	Kamīna
 Khauda Khera	2503	8047	525	0
 Kautasa	2258	7681	322	0
 Kaurāman Dīh	2563	8204	607	0

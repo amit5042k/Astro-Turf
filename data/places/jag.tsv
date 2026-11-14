@@ -1,5 +1,5 @@
-Jagannāth	1980	8582	603	200564
-Jagannathpur	1980	8582	603	200564
+Jagannāth	1980	8582	603	200564	Puri
+Jagannathpur	1980	8582	603	200564	Puri
 Jagdalpur	1908	8202	600	125463
 Jagādhri	3017	7730	88	124894
 Jagtiāl	1879	7892	63	103930
@@ -7,22 +7,22 @@ Jagraon	3079	7547	674	65305
 Jaggaiahpet	1689	8010	104	53530
 Jaggayyapeta	1689	8010	104	41180
 Jagatsinghapur	2026	8617	456	33631
-Jagatsinghpur	2026	8617	456	33631
+Jagatsinghpur	2026	8617	456	33631	Jagatsinghapur
 Jagdīspur	2547	8442	377	32447
 Jagdīshpur	2675	8055	312	31029
 Jagiroad	2612	9220	751	17739
 Jagalūr	1452	7634	275	17257
-Jagathala	1136	7678	115	14383
+Jagathala	1136	7678	115	14383	Manjathala
 Mauli Jagran	3069	7683	787	10786
 Jagnair	2686	7760	546	10023
 Balari urf Jagdishpur Deal	2581	8581	138	9957
-Jāgīr	1205	7703	69	8901
+Jāgīr	1205	7703	69	8901	Yelandūr
 Jhagra Pt.III	2604	8996	561	8838
 Jhagrakhand	2319	8220	513	7680
 Jagannāthpur	2222	8564	287	7310
 Jagatballabhpur	2268	8811	354	7113
-Jagatballavpur	2268	8811	354	7113
-Jāgir	3432	7437	301	7015
+Jagatballavpur	2268	8811	354	7113	Jagatballabhpur
+Jāgir	3432	7437	301	7015	Watargām
 Jagadāpatnam	997	7919	198	6274
 Bhāgal Jagāna	2413	7239	134	6250
 Jhagarwas	2691	7431	430	5728
@@ -30,10 +30,10 @@ Kang Jāgīr	3109	7583	369	1260
 Pandori Jāgīr	3109	7554	369	711
 Zagok	3376	7803	2	0
 Zagalnakchan	3476	7695	2	0
-Jāgīr	2132	7679	133	0
+Jāgīr	2132	7679	133	0	Rānīgohān
 Rāmtīrath Jaga	2995	7516	563	0
-Rām Tirak Jāga	2995	7516	563	0
-Jagnur	1631	7492	77	0
+Rām Tirak Jāga	2995	7516	563	0	Rāmtīrath Jaga
+Jagnur	1631	7492	77	0	Nagnur
 Jhāg	2672	7545	121	0
 Jhāgar	2468	7713	336	0
 Jhagadia	2171	7315	151	0
@@ -45,7 +45,7 @@ Jagpura	2386	7435	166	0
 Jagoti	2340	7580	314	0
 Jaghīna	2726	7753	114	0
 Jaggampeta	1717	8206	269	0
-Jaggammapet	1717	8206	269	0
+Jaggammapet	1717	8206	269	0	Jaggampeta
 Jagdīspur	2646	8162	662	0
 Jagdīshpur	2134	8277	407	0
 Jagdalpur	2113	8294	497	0
@@ -62,18 +62,18 @@ Jagannāthpur	2073	8487	414	0
 Jagannāthprasād	2090	8628	376	0
 Jagannāthapur	1920	8222	518	0
 Jagannāthaprasād	1997	8478	440	0
-Jagannathprasad	1997	8478	440	0
+Jagannathprasad	1997	8478	440	0	Jagannāthaprasād
 Jagannādharāju Chattram	1820	8369	472	0
 Jagannādhapuram	1693	8223	269	0
-Jaganathpuram	1693	8223	269	0
+Jaganathpuram	1693	8223	269	0	Jagannādhapuram
 Jagamanpur	2641	7922	741	0
 Jagadēvipālaiyam	1249	7832	223	0
-Jagadevi	1249	7832	223	0
+Jagadevi	1249	7832	223	0	Jagadēvipālaiyam
 Jagadalāpur	1976	8355	363	0
-Jāgīr	2621	7661	447	0
-Jāghir	2045	7542	113	0
-Dhanora Jagir	2244	7905	337	0
-Jāgīr	2607	7676	116	0
+Jāgīr	2621	7661	447	0	Hādoti
+Jāghir	2045	7542	113	0	Ghātnāndra
+Dhanora Jagir	2244	7905	337	0	Dhanora
+Jāgīr	2607	7676	116	0	Bāler
 Bāin Jagawāra	2242	7669	322	0
 Agra Jagir	2393	7754	215	0
 Jagdispur	2266	8828	354	0
@@ -83,7 +83,7 @@ Jagannāthpur	2244	8817	4	0
 Jagadispur	2216	8832	4	0
 Jagadispur	2214	8871	4	0
 Jhagāl Thana	3378	7407	1	0
-Jhagāj Thāna	3378	7407	1	0
+Jhagāj Thāna	3378	7407	1	0	Jhagāl Thana
 Jagāl	3363	7413	1	0
 Zagsundar	3433	7429	0	0
 Jagarpur	3444	7428	0	0
@@ -98,7 +98,7 @@ Jagtu Chak	3256	7483	581	0
 Jagatpur	3042	7792	448	0
 Jagatpur Birsāni	3043	7793	448	0
 Jagdīshpura	2954	7737	328	0
-Jagdīshupra	2954	7737	328	0
+Jagdīshupra	2954	7737	328	0	Jagdīshpura
 Jagatya	2599	7565	313	0
 Jagatpalli	1736	7877	129	0
 Jagdeopur	1777	7881	466	0
@@ -125,7 +125,7 @@ Jagdīshpur	2702	7936	464	0
 Jagpur	2770	7954	470	0
 Jagatpur	2704	7985	570	0
 Jagarnāthpur	2700	7918	290	0
-Jagannāthpur	2700	7918	290	0
+Jagannāthpur	2700	7918	290	0	Jagarnāthpur
 Jagnia	2699	7919	290	0
 Nagla Jagat	2692	7908	290	0
 Jagrāmau	2680	7905	290	0
@@ -222,7 +222,7 @@ Jagehta	2993	7745	449	0
 Jagrauli	2979	7747	449	0
 Jagatpur	2651	7690	447	0
 Rasīlpur Jāga	2623	7684	447	0
-Jagtāp	2088	7806	133	0
+Jagtāp	2088	7806	133	0	Jalka
 Jagpura	2450	7284	23	0
 Jagmālwāli	2984	7491	585	0
 Jagdīshpura	2514	7685	506	0
@@ -241,10 +241,10 @@ Jāgolāi	2568	7519	309	0
 Jagannāthpura	2563	7521	309	0
 Jagannāthpura	2559	7518	309	0
 Gurūsar Jaga	2996	7511	563	0
-Jagatgarh	2982	7523	709	0
+Jagatgarh	2982	7523	709	0	Bāndrān
 Jāgaus	2913	7715	477	0
 Jāgīr Pīta Singh	2948	7854	575	0
-Jagannāthpur Mehru	2945	7850	575	0
+Jagannāthpur Mehru	2945	7850	575	0	Dhrmūwāla
 Jagannāthpur Gokal	2944	7862	575	0
 Jithaniā Jāgīr	2893	7914	552	0
 Bishanpur Jāgīr	2891	7924	552	0
@@ -255,9 +255,9 @@ Jagalpet	1913	7988	91	0
 Jhāgar	2469	7645	333	0
 Jagdīshpura	2467	7645	333	0
 Jagdīshpura	2432	7642	333	0
-Jāgīr	2446	7660	506	0
-Jāgīr	2444	7667	506	0
-Jāgīr	2443	7667	333	0
+Jāgīr	2446	7660	506	0	Kheri
+Jāgīr	2444	7667	506	0	Digod
+Jāgīr	2443	7667	333	0	Kheri
 Jageshri	2482	7694	336	0
 Pīplya Jāgīr	2473	7676	506	0
 Karni Jāgīr	2455	7677	506	0
@@ -277,10 +277,10 @@ Jagner	2778	7789	543	0
 Jagatpur	2798	7796	543	0
 Jagdevagariya	2785	7792	543	0
 Jagiāl	1838	7683	158	0
-Jāgli	2764	7705	114	0
+Jāgli	2764	7705	114	0	Mādhogarh
 Nagla Jagrūpa	2780	7775	177	0
 Jagdishpura	2983	7644	638	0
-Jagatpur	2833	7775	637	0
+Jagatpur	2833	7775	637	0	Sultānpur
 Maithna Jagatpur	2847	7791	637	0
 Jāgarpur	2817	7777	637	0
 Jagdālwādi	1784	7677	48	0
@@ -389,7 +389,7 @@ Jagannāth Tānda	1751	7943	182	0
 Jagatpur	2771	7823	543	0
 Jagīpur	2765	7808	670	0
 Jagdeopur	2760	7825	670	0
-Jagmohanpur	2784	7837	543	0
+Jagmohanpur	2784	7837	543	0	Hasauna
 Jagrājpur	2703	7826	546	0
 Jagkutti	1795	7958	249	0
 Jaggaiahgudem	1780	7955	61	0
@@ -475,7 +475,7 @@ Jagatpur	2555	8384	26	0
 Jagdīshpur	2526	8391	409	0
 Jagdīshpur	2520	8380	749	0
 Jagdatpur	2514	8397	409	0
-Jāgīr	2099	7786	133	0
+Jāgīr	2099	7786	133	0	Sevti
 Chāndur Jāgir	2131	7745	133	0
 Tuljāpur Jāgīr	2120	7745	133	0
 Jagannāthpur	2115	7761	133	0
@@ -554,7 +554,7 @@ Jagdīshpura	2429	8023	532	0
 Jagannāthpur	2558	8126	651	0
 Jagua	2543	8226	607	0
 Jagdīshpur	2543	8228	607	0
-Jagdīshpur	2541	8231	607	0
+Jagdīshpur	2541	8231	607	0	Mādhopur
 Jagdīshpur	2542	8230	607	0
 Jagatpur	2542	8237	583	0
 Jagāpur	2527	8237	583	0
@@ -620,10 +620,10 @@ Jagatpur	2614	8090	681	0
 Jagatpur	2623	8094	681	0
 Purwa Jaggu Singh	2620	8092	681	0
 Jagarnath Baknsi Khera	2625	8088	681	0
-Jagdīshpur	2956	7834	575	0
+Jagdīshpur	2956	7834	575	0	Bājpur
 Khijarpur Jaggu	2947	7847	575	0
-Jagannātipur	2940	7835	575	0
-Rasūlpur Jāgan	2940	7830	575	0
+Jagannātipur	2940	7835	575	0	Randāwāla
+Rasūlpur Jāgan	2940	7830	575	0	Lakhūwāla
 Jagīpur	2929	7836	575	0
 Jhagarha	2462	8239	201	0
 Purwa Jagan	2787	8101	323	0
@@ -709,7 +709,7 @@ Jagdīspur	2694	8148	30	0
 Jagatpur	2676	8146	30	0
 Jagdīshpur	2682	8149	30	0
 Jaganwāla	2922	7830	575	0
-Jaganpur	2922	7830	575	0
+Jaganpur	2922	7830	575	0	Jaganwāla
 Roshanpur Jāgīr	2914	7844	575	0
 Pīpla Jāgīr	2914	7841	575	0
 Rehti Jāgīr	2909	7845	575	0
@@ -721,7 +721,7 @@ Jagatpur	2653	8139	662	0
 Purwa Jagannāth	2666	8139	30	0
 Purwa Jageshar Bakhsh Singh	2650	8147	662	0
 Jagat Khera	2667	8128	30	0
-Jagatchandpur	2958	7851	575	0
+Jagatchandpur	2958	7851	575	0	Chilkiya
 Jāgīr Wazīrpur	2922	7864	575	0
 Jagatpur Patti	2925	7888	641	0
 Jagatpur	2636	8101	312	0
@@ -774,7 +774,7 @@ Pura Jaggu	2728	8176	542	0
 Pura Jagan	2726	8178	542	0
 Jagdīshpur Baldi	2727	8186	542	0
 Pura Jagat	2736	8180	294	0
-Jāgīr Dānda	2832	7835	646	0
+Jāgīr Dānda	2832	7835	646	0	Bhīkampur
 Jagāpur	1968	7750	67	0
 Jaga Nagla	2886	7855	483	0
 Milak Dehri Jaggu	2875	7861	646	0
@@ -891,7 +891,7 @@ Jag Dat Purwa	2693	8200	542	0
 Pura Jagannāth	2693	8206	542	0
 Jagdis Purwa	2686	8205	542	0
 Jaganpur	2676	8202	629	0
-Jagatpur	2676	8202	629	0
+Jagatpur	2676	8202	629	0	Jaganpur
 Purwa Jagan	2695	8209	542	0
 Pura Jaghmohan Singh	2699	8216	542	0
 Jagannāthpur	2687	8224	154	0
@@ -1010,7 +1010,7 @@ Pura Jagesar	2625	8261	597	0
 Jagdīspur	2603	8253	32	0
 Jagdīspur	2677	8277	154	0
 Majhaua Jagat	2687	8280	154	0
-Jagdispur	2677	8289	154	0
+Jagdispur	2677	8289	154	0	Parmesharpur
 Pura Jagdispur	2678	8290	154	0
 Jagatpur	2692	8291	647	0
 Jagdispur	2677	8295	647	0
@@ -1048,10 +1048,10 @@ Jagdeopur	2720	8323	515	0
 Jagdīspur	2709	8327	515	0
 Jagarnāthpur	2704	8325	325	0
 Jagnihwa	2722	8346	515	0
-Jagpur	2722	8348	515	0
+Jagpur	2722	8348	515	0	Salāmatgarh
 Jagpur Ārāzi	2723	8347	515	0
 Jagdīspur	2702	8365	515	0
-Jagannāthpur	2721	8369	515	0
+Jagannāthpur	2721	8369	515	0	Jaurhar
 Jagannāthpur	2714	8370	515	0
 Brāzul Jāgir	3372	7505	35	0
 Jagannāthpur	2595	8161	718	0
@@ -1176,7 +1176,7 @@ Jagatpur Kalan	3201	7554	487	0
 Jhagrāl	3219	7579	38	0
 Jagnoli	3200	7590	38	0
 Jagnoli	3207	7596	38	0
-Jagir	2019	7587	53	0
+Jagir	2019	7587	53	0	Bārānjala
 Jagāna	2412	7242	134	0
 Wāsna Jagāna	2410	7239	134	0
 Jagtāpur	2415	7272	134	0
@@ -1197,7 +1197,7 @@ Jāgpur Tolā	2187	8022	144	0
 Jāgpur	2179	8017	144	0
 Jagatpur Bazāz	3170	7502	222	0
 Jāgāheri	2947	7761	545	0
-Jaglanwāla	3131	7523	565	0
+Jaglanwāla	3131	7523	565	0	Mehar Singhwāla
 Jagnāik	3134	7519	565	0
 Jagjītpur	3113	7501	565	0
 Telī Jhagra	2612	7385	273	0
@@ -1277,7 +1277,7 @@ Jagatpur	3116	7668	628	0
 Jagat Khana Bagh	3103	7667	628	0
 Jagat	2130	8289	407	0
 Jhagarkot	3194	7693	278	0
-Jaglon	3196	7685	278	0
+Jaglon	3196	7685	278	0	Rawara
 Jagretri	3177	7678	278	0
 Jāganalli	1453	7483	59	0
 Jagannāthpura	2678	7575	121	0
@@ -1355,7 +1355,7 @@ Jagdīspur	2633	8169	662	0
 Jagatpur	2611	8151	681	0
 Bandhwa Jageshar	2610	8154	718	0
 Pura Jagrūp Ahīr	2605	8154	718	0
-Jagdīspur	2610	8159	718	0
+Jagdīspur	2610	8159	718	0	Jogāpur
 Pura Jagesharnāth	2614	8157	718	0
 Pura Jageshar Pande	2614	8158	718	0
 Pura Jagannāth Tiwāri	2614	8155	681	0
@@ -1441,7 +1441,7 @@ Jaggugūda	1885	8330	316	0
 Jagannādhapuram	1879	8342	199	0
 Jagannādhapuram	1865	8344	199	0
 Jagannādhapuram	1858	8338	179	0
-Jaggunāyadupeta	1863	8335	199	0
+Jaggunāyadupeta	1863	8335	199	0	Rāmavaramdāri Venkammapeta
 Jagannādhapuram	1846	8332	179	0
 Jagannādhapuram	1843	8337	179	0
 Jaggāpuram	1817	8333	179	0
@@ -1451,7 +1451,7 @@ Jagannādhapeta	1883	8352	199	0
 Jagannadhapuram Agrahāram	1880	8358	199	0
 Jagadargūda	1886	8369	199	0
 Jaggavaram	1781	8110	46	0
-Jaggammapeta	1867	8362	199	0
+Jaggammapeta	1867	8362	199	0	Chidimidarisītāram Rājupeta
 Jagannādhavalasa	1857	8362	179	0
 Jagannādhavalasa	1837	8365	472	0
 Jaggayyapeta	1802	8351	179	0
@@ -1491,7 +1491,7 @@ Jagatpura	2361	7374	512	0
 Jagola	2327	7409	173	0
 Jagpuraduja	2335	7418	166	0
 Jagdei	2967	7911	612	0
-Jāgīr	2586	7301	273	0
+Jāgīr	2586	7301	273	0	Dholeria
 Jagatpur	2567	8460	377	0
 Jagannāthpur	2915	7908	641	0
 Jagatpur	2923	7908	641	0
@@ -1551,7 +1551,7 @@ Rāmpur Jāga	2653	8426	703	0
 Jagirwā	2698	8458	476	0
 Jagarnāthpur	2692	8465	476	0
 Jagadambapur	2685	8455	476	0
-Jāgir	2678	8468	476	0
+Jāgir	2678	8468	476	0	Patkhauliā
 Tola Jagarnāthpur	2673	8457	476	0
 Jhagru Mahato	2665	8457	396	0
 Jagdīspur	2661	8462	396	0
@@ -1897,8 +1897,8 @@ Jagdīspur	2540	8562	604	0
 Jagjiwānpur	2527	8573	514	0
 Jagmāya ka Mandir	2537	7074	285	0
 Jagadal	2606	8768	613	0
-Jāgīr	2015	7558	113	0
-Jāgīr	2013	7559	113	0
+Jāgīr	2015	7558	113	0	Jalgaon
+Jāgīr	2013	7559	113	0	Gevrāidedri
 Jagatpur	2790	8016	323	0
 Jagatpur	2790	8022	323	0
 Jagtāpur	2761	8013	686	0
@@ -1937,7 +1937,7 @@ Jagu	2301	8510	432	0
 Jagarnāthpur	2332	8529	562	0
 Jagesar	2375	8563	517	0
 Jagdishtoli	2369	8565	517	0
-Jagannāthdīh	2336	8589	415	0
+Jagannāthdīh	2336	8589	415	0	Bandīh
 Jagaisigu	2301	8578	562	0
 Jagda	2288	8534	287	0
 Jagannāthpur	2208	8562	293	0
@@ -1965,7 +1965,7 @@ Jagannadapuram	932	7819	208	0
 Jagavīrapuram	927	7824	208	0
 Jagavīrapuram	909	7817	208	0
 Jagavīrapuram	905	7805	208	0
-Jāghīr	1200	7910	390	0
+Jāghīr	1200	7910	390	0	Chittāmūr
 Jagdātola	2282	8553	653	0
 Jagda	2239	8569	287	0
 Jagda	2242	8563	287	0

@@ -1,13 +1,13 @@
-Sāgar	2384	7874	352	274556
+Sāgar	2384	7874	352	274556	Saugor
 Sāgar	1416	7503	346	54550
 Sagauli	2676	8474	396	38815
-Sagowlee	2676	8474	396	38815
-Saganli	2676	8474	396	38815
+Sagowlee	2676	8474	396	38815	Sagauli
+Saganli	2676	8474	396	38815	Sagauli
 Sāgwāra	2368	7402	512	29439
 L.A.Sagaram	1390	7989	45	19904
-Gamiria Sagar	2386	7881	352	7984
-Gandhi Sagar Hydel Col	2469	7557	580	7178
-Sagarmpur	2467	8785	658	6184
+Gamiria Sagar	2386	7881	352	7984	Gamharia
+Gandhi Sagar Hydel Col	2469	7557	580	7178	Gandhīsāgar Colony
+Sagarmpur	2467	8785	658	6184	Sangrāmpur
 Sāgbāra	2154	7379	254	4496
 Sagalee	2723	9350	578	1315
 Sagarpur	3109	7564	369	927
@@ -16,13 +16,13 @@ Sāgāner	2537	7467	309	0
 Sāgthali	2382	7481	633	0
 Sāgtāla	2257	7391	173	0
 Sagoda	1981	8312	284	0
-Sagorha	1981	8312	284	0
+Sagorha	1981	8312	284	0	Sagoda
 Sāgor	2260	7560	130	0
 Sāgoni	2379	7980	521	0
 Sāgong	2799	9484	729	0
 Sagolmang	2496	9402	489	0
 Sāgasāi	2195	8528	272	0
-Sāgasā	2195	8528	272	0
+Sāgasā	2195	8528	272	0	Sāgasāi
 Sāgar Tāl	2623	7815	484	0
 Sāgarpur	2465	8502	118	0
 Sagarpāta	2125	8592	293	0
@@ -38,7 +38,7 @@ Rana Pratap Sāgar	2495	7563	417	0
 Barwa Sāgar	2537	7873	433	0
 Barrā Sāgar	2271	8036	480	0
 Sāgāsar	2800	7467	539	0
-Sāgar Collectorganj	2182	8817	4	0
+Sāgar Collectorganj	2182	8817	4	0	Collectorganj
 Sāgra	2227	8814	4	0
 Sāgra	3364	7406	1	0
 Sagipur	3441	7436	0	0
@@ -272,13 +272,13 @@ Sāgarpur	2867	7893	552	0
 Sagrāmpur	2838	7898	117	0
 Sāgarpur	2819	7876	117	0
 Sagrāi	2804	7887	117	0
-Sāgarpur	2810	7890	117	0
+Sāgarpur	2810	7890	117	0	Bāgarpur
 Pipri Sāgar	2714	8202	542	0
 Sagra Rāja	2701	8208	542	0
 Purwa Rām Sāgar	2721	8224	280	0
 Sagra	2712	8219	542	0
 Kishanpur Sāgar	2708	8239	280	0
-Sagragarh	2711	8250	542	0
+Sagragarh	2711	8250	542	0	Sitārāmpur Grant
 Sagrāmpur	2749	8258	280	0
 Sagra Jot	2733	8269	292	0
 Sāgar Rauza	2714	8258	292	0

@@ -1,36 +1,36 @@
 Chandigarh	3074	7679	787	970602
 Chānda	1995	7930	111	328351
-Chandrapur	1995	7930	111	328351
+Chandrapur	1995	7930	111	328351	Chānda
 Chandannagar	2286	8837	279	180623
-Chandernagore	2286	8837	279	180623
-Chandernagor	2286	8837	279	180623
-Chanak	2277	8836	450	148174
-Chantarpur	2492	7959	663	142128
+Chandernagore	2286	8837	279	180623	Chandannagar
+Chandernagor	2286	8837	279	180623	Chandannagar
+Chanak	2277	8836	450	148174	Bārākpur
+Chantarpur	2492	7959	663	142128	Chhatarpur
 Chanduasi	2845	7878	646	112635
-Chandausi	2845	7878	646	112635
+Chandausi	2845	7878	646	112635	Chanduasi
 Delhi Cantonment	2860	7713	721	110351
-New Cantonment	2860	7713	721	110351
+New Cantonment	2860	7713	721	110351	Delhi Cantonment
 Kanpur Cantonment	2646	8038	469	108534
-Kanpur Cantt	2646	8038	469	108534
-Ramgarh Cantonment	2363	8552	391	88781
-Kirkee Cantonment	1844	7378	52	78684
+Kanpur Cantt	2646	8038	469	108534	Kanpur Cantonment
+Ramgarh Cantonment	2363	8552	391	88781	Rāmgarh
+Kirkee Cantonment	1844	7378	52	78684	Kharakvasla
 Chāndpur	2913	7827	575	73555
 Channapatna	1265	7721	626	71942
-Channapatan	1265	7721	626	71942
-Cannanore	1187	7536	266	62836
-Deolali Cantonment	1994	7383	54	54027
+Channapatan	1265	7721	626	71942	Channapatna
+Cannanore	1187	7536	266	62836	Kannur
+Deolali Cantonment	1994	7383	54	54027	Deolāli
 Changanācheri	944	7654	271	51430
-Changanacherry	944	7654	271	51430
-Changanasseri	944	7654	271	51430
-Changanassery	944	7654	271	51430
-Morar Cantonment	2623	7822	484	48464
+Changanacherry	944	7654	271	51430	Changanācheri
+Changanasseri	944	7654	271	51430	Changanācheri
+Changanassery	944	7654	271	51430	Changanācheri
+Morar Cantonment	2623	7822	484	48464	Morār
 Jalandhar Cantonment	3129	7562	369	47845
-Jullundur Cantonment	3129	7562	369	47845
+Jullundur Cantonment	3129	7562	369	47845	Jalandhar Cantonment
 Canning	2231	8867	4	42132
-Canning Town	2231	8867	4	42132
-Port Canning	2231	8867	4	42132
+Canning Town	2231	8867	4	42132	Canning
+Port Canning	2231	8867	4	42132	Canning
 Channarāyapatna	1291	7639	679	40417
-Chanzarayapatna	1291	7639	679	40417
+Chanzarayapatna	1291	7639	679	40417	Channarāyapatna
 Chand Chaur	2573	8579	138	33457
 Chanderi	2471	7814	410	33081
 Dinapur Cantonment	2564	8502	604	28723
@@ -39,52 +39,52 @@ Chandrapura	2375	8612	517	27425
 Chanpatia	2694	8454	476	27095
 Chāndur	1973	7917	111	26755
 Chāndor	2033	7424	54	25341
-Chāndwar	2033	7424	54	25341
-Chāndvad	2033	7424	54	25341
+Chāndwar	2033	7424	54	25341	Chāndor
+Chāndvad	2033	7424	54	25341	Chāndor
 Chandauli	2526	8327	724	25035
 Chhanerā	2196	7669	209	22052
 Chandrakona	2273	8752	677	21855
-Chandshona	2273	8752	677	21855
+Chandshona	2273	8752	677	21855	Chandrakona
 Channagiri	1402	7593	275	21313
 Chāndūr	2081	7798	133	19776
-Chandur Railway	2081	7798	133	19776
+Chandur Railway	2081	7798	133	19776	Chāndūr
 Chāndūr Bāzār	2124	7775	133	18780
 Chanod	2035	7293	261	18776
 Chandili	1925	8341	363	18552
 Aurangabad Cantonment	1988	7529	113	18051
 Chanaje	1886	7295	17	16714
-Chanje	1886	7295	17	16714
+Chanje	1886	7295	17	16714	Chanaje
 Chāndāmeta	2219	7873	337	16497
 Chānasma	2371	7211	240	15932
 Chandia	2366	8071	350	15891
 Chandāpuram	816	7736	453	14598
 Chandla	2507	8019	663	12838
-Canacona	1503	7405	102	12444
+Canacona	1503	7405	102	12444	Kānkon
 Canacona	1500	7405	569	12434
 Chandkapur	2128	7910	141	12077
 Chandwā	2368	8474	707	12046
 Yol Cantonment	3218	7638	38	12028
-Canjam	1939	8505	440	11747
+Canjam	1939	8505	440	11747	Ganjām
 Chandūr	1787	7810	400	11220
 Chandūr	1698	7906	101	10880
 Chāndarun	2693	7434	430	10655
-Goredi Chancha	2693	7434	430	10655
+Goredi Chancha	2693	7434	430	10655	Chāndarun
 Chāndbāli	2078	8674	734	9918
 Candolim	1552	7376	188	9197
 Chandīman	3073	7690	587	9051
-Chandīmandir	3073	7690	587	9051
+Chandīmandir	3073	7690	587	9051	Chandīman
 Chandrapur	2260	7096	147	8906
 Chandrapada	1936	7288	192	7750
 Chandrapur	2171	8323	402	7688
 Ahmadabad Cantonment	2305	7261	124	7588
 Chantongia	2655	9469	315	7532
-Changtongya	2655	9469	315	7532
+Changtongya	2655	9469	315	7532	Chantongia
 Chandan Hola	2847	7718	778	6780
 Chanāri	2492	8380	409	6569
 Changlang	2713	9573	73	6236
 Chandigarh	2350	9134	574	5607
 Chāndpur	1994	8541	548	5565
-Chandapur	1994	8541	548	5565
+Chandapur	1994	8541	548	5565	Chāndpur
 Chāngsāri	2626	9168	636	5354
 Candola	1552	7396	188	5354
 Chandrapur Baghicha	2624	9193	359	5106
@@ -92,27 +92,27 @@ Chāndil	2296	8605	653	4839
 Sabathu Cantonment	3098	7699	628	3685
 Chandrai	2543	7294	343	3249
 Changar Talai	3145	7652	772	2372
-Bakloh Cantonment	3248	7592	731	1805
+Bakloh Cantonment	3248	7592	731	1805	Bakloh
 Chandul	2267	8811	354	1512
-Chānt Dāng	2866	7986	683	1437
+Chānt Dāng	2866	7986	683	1437	Baldeopur
 Chandpura	2385	7730	687	557
 Chandagaon	1968	8140	619	133
 Chhanggu	2738	8877	422	0
 Chananwari	3408	7542	547	0
-Chandra	1918	8040	288	0
-Chānju Kothi	3273	7628	362	0
-Panapakam-chandragiri	1350	7921	45	0
+Chandra	1918	8040	288	0	Sandra
+Chānju Kothi	3273	7628	362	0	Suāla
+Panapakam-chandragiri	1350	7921	45	0	Panapākkam
 Nīmbri Chāndāwatān	2693	7393	430	0
 Lebong Canttonment	2706	8828	573	0
 Kasba Chandragi	1604	7514	77	0
-Chandargi	1604	7514	77	0
-Kasba Chandargi	1604	7514	77	0
-Canari	2025	7293	261	0
+Chandargi	1604	7514	77	0	Kasba Chandragi
+Kasba Chandargi	1604	7514	77	0	Kasba Chandragi
+Canari	2025	7293	261	0	Kanadi
 Fatehābād Chandrāwatiganj	2300	7566	660	0
 Dilāri Changeri	2904	7875	511	0
 Chhānz	3384	7452	76	0
 Chhānua	2154	8707	421	0
-Chanuya	2154	8707	421	0
+Chanuya	2154	8707	421	0	Chhānua
 Chhānta	2285	8110	468	0
 Chhāni Bari	2918	7533	486	0
 Chhānsa	2826	7747	774	0
@@ -126,78 +126,78 @@ Chansura	2392	8102	350	0
 Chānpā	2097	7920	141	0
 Chānowāli	3368	7437	1	0
 Chānaud	2553	7313	273	0
-Chānod	2553	7313	273	0
+Chānod	2553	7313	273	0	Chānaud
 Chani	2396	7353	22	0
 Chāni	2046	7677	172	0
-Chanyi	2046	7677	172	0
+Chanyi	2046	7677	172	0	Chāni
 Chāngro	2778	9635	475	0
 Changrabāndha	2642	8892	420	0
 Chāndgothi	2843	7551	539	0
-Changoti	2843	7551	539	0
+Changoti	2843	7551	539	0	Chāndgothi
 Changomal	1726	7803	210	0
 Changoi	2871	7511	539	0
-Changai	2871	7511	539	0
+Changai	2871	7511	539	0	Changoi
 Changlung	3494	7746	2	0
-Chanlung	3494	7746	2	0
+Chanlung	3494	7746	2	0	Changlung
 Changeri	2478	7408	22	0
 Changchang	2659	9445	42	0
 Chāngatpuri	1930	7613	53	0
 Chāng	2888	7625	431	0
 Chanere	1842	7303	17	0
-Chanera	1842	7303	17	0
+Chanera	1842	7303	17	0	Chanere
 Chāndnani	2367	7313	212	0
-Chandarni	2367	7313	212	0
-Chandyan	2367	7313	212	0
+Chandarni	2367	7313	212	0	Chāndnani
+Chandyan	2367	7313	212	0	Chāndnani
 Chandwāsa	2420	7546	580	0
 Chandwak	2559	8300	32	0
 Chandwāji	2722	7595	121	0
 Chandūpura	2616	7785	484	0
 Chāndu	2176	7758	462	0
 Chāndsen	2631	7545	313	0
-Chandsain	2631	7545	313	0
+Chandsain	2631	7545	313	0	Chāndsen
 Chandrupatla	1855	8040	226	0
 Chandru	3292	7625	362	0
 Chandrora	2358	7198	164	0
 Chandrehi	2429	8148	672	0
-Chandre	2429	8148	672	0
+Chandre	2429	8148	672	0	Chandrehi
 Chandrāvati	2444	7274	23	0
 Chandrāwati	2547	8313	251	0
-Chandrautī	2547	8313	251	0
+Chandrautī	2547	8313	251	0	Chandrāwati
 Chandrasekharāpuram	1518	7928	200	0
 Chandrasādhubāri	2381	9151	744	0
 Chandrāpuri	3045	7907	365	0
 Chandrāpur	1960	8388	363	0
 Chandrāni	2329	7007	108	0
 Chandrakal	1703	7751	210	0
-Chandraka	1703	7751	210	0
+Chandraka	1703	7751	210	0	Chandrakal
 Chandragutti	1443	7496	346	0
 Chandragiri	1938	8298	363	0
 Chandragiri	1931	8429	252	0
 Chandragiri	1359	7932	45	0
 Chāndra	2246	8715	677	0
 Chandpura	2490	7896	481	0
-Chanapura	2490	7896	481	0
+Chanapura	2490	7896	481	0	Chandpura
 Chāndpur	2593	8036	728	0
 Chāndpur	2590	8433	536	0
 Chāndpur	2237	7423	155	0
 Chāndpur	2109	8533	289	0
 Chāndpāra	2298	8877	450	0
 Chandor	1528	7403	102	0
-Chandorgo	1528	7403	102	0
-Chander	1528	7403	102	0
+Chandorgo	1528	7403	102	0	Chandor
+Chander	1528	7403	102	0	Chandor
 Chandoli	1696	7385	57	0
 Chāndol	2033	7602	49	0
 Chāndod	2199	7346	159	0
-Chāndni	3058	7753	534	0
+Chāndni	3058	7753	534	0	Ghāndni
 Chāndi	2788	7301	307	0
-Chandni	2788	7301	307	0
+Chandni	2788	7301	307	0	Chāndi
 Chandni	2451	8340	103	0
-Chāndui	2451	8340	103	0
+Chāndui	2451	8340	103	0	Chandni
 Chāndni	2143	7635	29	0
 Chāndma	2650	7566	121	0
 Chandli	2215	7059	174	0
 Chandlai	2669	7588	121	0
-Chandisurhāl	1645	7684	72	0
+Chandisurhāl	1645	7684	72	0	Chaudeshwarahāl
 Chandisar	2422	7231	134	0
 Chandiput	1937	8430	252	0
 Chandīpur	2144	8703	421	0
@@ -210,10 +210,10 @@ Chandgad	1594	7418	57	0
 Chanderi	2481	7927	481	0
 Chandera	2508	7898	481	0
 Chāndli	2576	7551	313	0
-Chāndeli	2576	7551	313	0
+Chāndeli	2576	7551	313	0	Chāndli
 Chandel	1573	7390	188	0
 Chande	1936	7493	152	0
-Chandi	1936	7493	152	0
+Chandi	1936	7493	152	0	Chande
 Chand Bhān	3038	7490	730	0
 Chandbāja	3074	7486	730	0
 Chāndawāri	2122	7045	185	0
@@ -225,20 +225,20 @@ Chāndas	2019	7688	128	0
 Chandarpur	2358	8361	341	0
 Chandarpur	2171	8323	402	0
 Chandrampalli	1753	7746	71	0
-Chandarpalli	1753	7746	71	0
+Chandarpalli	1753	7746	71	0	Chandrampalli
 Chāndāpār	2742	8297	292	0
 Chandap	2392	7284	212	0
 Chandaora	2364	8161	634	0
 Chandanpur	2766	8266	280	0
 Chandanpur	2055	8665	702	0
 Chandankiāri	2357	8636	664	0
-Chandan Kiyari	2357	8636	664	0
+Chandan Kiyari	2357	8636	664	0	Chandankiāri
 Chandankheri	1752	7718	71	0
 Chandankheda	2026	7922	111	0
 Chāndan	2462	8667	605	0
 Chandampet	1658	7888	101	0
 Chandalūru	1580	7960	200	0
-Chandalur	1580	7960	200	0
+Chandalur	1580	7960	200	0	Chandalūru
 Chāndal	3276	7580	496	0
 Chandaka	2037	8577	541	0
 Chandagar	2263	8359	398	0
@@ -248,17 +248,17 @@ Chāndā	2607	8231	597	0
 Chānd	2512	8340	749	0
 Chānd	2195	7912	337	0
 Chānchiāra	2237	8780	559	0
-Chancahara	2237	8780	559	0
+Chancahara	2237	8780	559	0	Chānchiāra
 Chānchak	3028	7765	449	0
 Chānch	2372	8678	664	0
 Chanāt	2147	8281	407	0
 Chanārthal Kalān	3052	7635	648	0
-Chānarthal	3052	7635	648	0
+Chānarthal	3052	7635	648	0	Chanārthal Kalān
 Canvorem	1513	7407	102	0
 Candeapar	1543	7404	188	0
-Candiapar	1543	7404	188	0
+Candiapar	1543	7404	188	0	Candeapar
 Cancarvornem	1571	7388	188	0
-Cansarvorném	1571	7388	188	0
+Cansarvorném	1571	7388	188	0	Cancarvornem
 Cana	1527	7393	102	0
 Chāndsar	2835	7398	307	0
 Chanditala	2269	8826	279	0
@@ -270,13 +270,13 @@ Chandpur	2217	8835	4	0
 Chandipur	2205	8829	4	0
 Chānthan Gulābpura	3428	7475	595	0
 Chak-i-Chandar	3417	7481	595	0
-Chak-i-Chandor	3417	7481	595	0
+Chak-i-Chandor	3417	7481	595	0	Chak-i-Chandar
 Bāgh Chandpura	3416	7489	611	0
 Chandīhār	3410	7479	611	0
 Gund-i-Chandāl	3404	7483	611	0
 Chhānpur	3404	7481	76	0
 Chandak	3375	7417	1	0
-Chanjimul	3439	7418	0	0
+Chanjimul	3439	7418	0	0	Tsanjimul
 Chanderhom	3421	7454	301	0
 Chhandna Deh Nauābād	3417	7472	595	0
 Chandapura	3403	7467	76	0
@@ -299,21 +299,21 @@ Chandeāl	3292	7477	581	0
 Chanjan	3299	7495	666	0
 Chanās	3294	7498	373	0
 Chanor	3278	7484	581	0
-Bhaini Chandarpāl	2900	7631	719	0
+Bhaini Chandarpāl	2900	7631	719	0	Bari Bhaini
 Chander Bhānpur	2993	7688	501	0
-Chhanni Hatiyāl	3250	7492	720	0
+Chhanni Hatiyāl	3250	7492	720	0	Chhāoni Hatiyāl
 Chhanni	3259	7497	720	0
 Channi	3262	7492	720	0
 Chhanni Himmat	3268	7487	581	0
-Chhanni Kamāl	3269	7489	581	0
+Chhanni Kamāl	3269	7489	581	0	Chhauni Kamāla
 Chhanni Himmat	3269	7489	581	0
-Chhanni Pura	3270	7489	581	0
+Chhanni Pura	3270	7489	581	0	Chhauni Rama
 Channi Nānak	3271	7479	581	0
 Chānching	3457	7613	8	0
 Chhānigund	3460	7606	8	0
 Chanpura Bāla	3438	7382	0	0
 Chanpura Pāīn	3437	7382	0	0
-Chanpura Payān	3437	7382	0	0
+Chanpura Payān	3437	7382	0	0	Chanpura Pāīn
 Chāndpur	3043	7786	448	0
 Chhān Chak	3038	7782	448	0
 Chandrabani	3028	7798	448	0
@@ -324,7 +324,7 @@ Mājra Chandrāon Burj	2992	7717	457	0
 Chandrāon	2991	7718	457	0
 Chāndsamand	2982	7711	457	0
 Chandenāmāl	2966	7746	328	0
-Chandenāmār	2966	7746	328	0
+Chandenāmār	2966	7746	328	0	Chandenāmāl
 Chānd ka Talāv	2526	7562	353	0
 Chānpura	2586	7563	313	0
 Chandwār	2585	7571	313	0
@@ -351,7 +351,7 @@ Channapet	1534	7513	682	0
 Nagarbhavi Canara Bank Colony	1296	7753	43	0
 Chandra Layout	1296	7753	43	0
 Gogatia Patta Changoi	2865	7501	539	0
-Gogatia Patta Changai	2865	7501	539	0
+Gogatia Patta Changai	2865	7501	539	0	Gogatia Patta Changoi
 Chandrapura	2808	7545	300	0
 Dhāni Chanaharīwās	2899	7559	339	0
 Chāndnod	2897	7572	339	0
@@ -392,13 +392,13 @@ Chanda Purwa	2706	7983	570	0
 Daryāpur Chandai	2706	7994	570	0
 Chaura Chāndupur	2703	7996	570	0
 Chandarpura	2697	7922	290	0
-Chandrapura	2697	7922	290	0
+Chandrapura	2697	7922	290	0	Chandarpura
 Chandepur	2697	7910	290	0
 Nagla Chandelan	2680	7924	290	0
 Chandanpur	2677	7908	290	0
 Shekhpur Chandehti	2680	7920	290	0
 Chandehti	2680	7920	290	0
-Chandethi	2680	7920	290	0
+Chandethi	2680	7920	290	0	Chandehti
 Chandokh	2627	7900	334	0
 Chāndanpura	2639	7914	741	0
 Chānchukiya	2685	7554	121	0
@@ -416,7 +416,7 @@ Nawāda Chanda	2662	7980	671	0
 Karonda Chāndi	2651	7998	671	0
 Chandpura	2482	7919	481	0
 Chandūli	2475	7905	481	0
-Chandranagar	2464	7923	663	0
+Chandranagar	2464	7923	663	0	Kharduti
 Chandauli	2453	7909	663	0
 Chandpura	2406	7908	352	0
 Changuwān	2483	7930	481	0
@@ -431,7 +431,7 @@ Changa	3394	7773	2	0
 Changmun	2457	9325	576	0
 Chhāni Buzurg	2582	7996	645	0
 Chandai	2480	8085	324	0
-Chanda	2480	8085	324	0
+Chanda	2480	8085	324	0	Chandai
 Chāndpura	2589	8501	540	0
 Chandurti	1856	7873	230	0
 Chandraweli	1908	7950	91	0
@@ -441,7 +441,7 @@ Chansuma	2678	7216	344	0
 Chandanappalli	921	7677	224	0
 Chandrāla	2334	7279	276	0
 Chandīkāpur	2112	7712	172	0
-Chandkāpur	2112	7712	172	0
+Chandkāpur	2112	7712	172	0	Chandīkāpur
 Chāndai Tūmbri	2010	7582	53	0
 Chandkhuri	2114	8127	286	0
 Chandrapur	2623	9192	359	0
@@ -458,7 +458,7 @@ Chandrapur	2087	8422	386	0
 Chandpur	2241	8825	4	0
 Chānadaij	3448	7462	120	0
 Chandlāna	2986	7664	638	0
-Chhanān	2932	7659	367	0
+Chhanān	2932	7659	367	0	Rāmnagar
 Chāndi	2903	7650	719	0
 Chānduwās	2805	7653	519	0
 Chāndāwās	2821	7659	519	0
@@ -470,8 +470,8 @@ Chandeh	3165	7701	278	0
 Chandyās	3151	7705	278	0
 Chanogi	3162	7720	278	0
 Chhanār	3161	7722	278	0
-Bara Chandālia	2919	7497	486	0
-Chhota Chandālia	2916	7496	486	0
+Bara Chandālia	2919	7497	486	0	Rāmgarh
+Chhota Chandālia	2916	7496	486	0	Ujalbās
 Chankoti	2962	7545	443	0
 Chāndelon ki Dhāni	2847	7489	539	0
 Canal Colony	2937	7502	585	0
@@ -582,13 +582,13 @@ Talon ki Chhāni	3074	7781	448	0
 Chandau	3063	7782	448	0
 Chāndpur	2674	7635	708	0
 Chandrāi	2662	7648	116	0
-Chānwās	2655	7627	708	0
+Chānwās	2655	7627	708	0	Mādhopuriya
 Chānsen	2655	7630	708	0
 Chāndpur	2946	7808	575	0
 Chāndpur Nauābād	2942	7809	575	0
 Chāndpur Colony	2942	7808	575	0
 Chāndpuri	2941	7810	575	0
-Ahmadpur Chandru	2938	7822	575	0
+Ahmadpur Chandru	2938	7822	575	0	Gadāna
 Chandīpur	2932	7814	575	0
 Chandanpura	2928	7815	575	0
 Pahārpur Chandarsain	2925	7821	575	0
@@ -645,7 +645,7 @@ Chandranagar	2137	7818	133	0
 Chāndūr	2110	7814	133	0
 Chandora Khurd	2179	7827	462	0
 Chāndas	2144	7834	133	0
-Chāndni	2137	7837	141	0
+Chāndni	2137	7837	141	0	Nāndni
 Chandevāni	2118	7844	143	0
 Chāngoba	2178	7852	337	0
 Chandarjotdhāna	2198	7866	337	0
@@ -683,9 +683,9 @@ Chhanna	3028	7551	726	0
 Chhanna	3046	7573	593	0
 Chāndpur Shekh	2997	7775	596	0
 Chānchak	2995	7778	596	0
-Chandapur	2985	7785	596	0
+Chandapur	2985	7785	596	0	Paniāla
 Chhānga Mazra	2994	7784	596	0
-Chandanpur	2980	7791	596	0
+Chandanpur	2980	7791	596	0	Bhagwānpur
 Chandan	2967	7790	545	0
 Chān Chak	2963	7794	545	0
 Chandpuri Khurd	2960	7799	596	0
@@ -725,12 +725,12 @@ Chhanna Gurmukh Singh	3030	7584	593	0
 Chhannan Bāhādur Singh	3031	7587	593	0
 Chhannān	3032	7597	593	0
 Kheri Chanduh	3031	7597	593	0
-Rāmgarh Channanwāla	2982	7514	563	0
+Rāmgarh Channanwāla	2982	7514	563	0	Nawānpind Kalālwāla
 Chandrāwal	2952	7562	443	0
 Chandoh Kalān	2964	7563	443	0
 Chandoh Khurd	2965	7563	443	0
 Chānaut	2921	7592	339	0
-Chanot	2921	7592	339	0
+Chanot	2921	7592	339	0	Chānaut
 Chandu	2983	7600	593	0
 Chandauli	2912	7712	485	0
 Chandroti	3038	7806	448	0
@@ -740,8 +740,8 @@ Chandernagar	3031	7804	448	0
 Chanchak	3027	7802	448	0
 Humāyūnpur Chandarpāl	2935	7852	575	0
 Chandka	2943	7873	575	0
-Anwarpur Chandka	2943	7873	575	0
-Chāndpur	2934	7872	575	0
+Anwarpur Chandka	2943	7873	575	0	Chandka
+Chāndpur	2934	7872	575	0	Udāipur
 Chandela	2898	7924	552	0
 Mazra Chāndī	2889	7906	552	0
 Chandpura	2839	7912	342	0
@@ -824,7 +824,7 @@ Chanāwanda	2770	7701	114	0
 Chandūpura	2764	7710	114	0
 Chāniyān Kalān	2772	7715	114	0
 Chāniyān Khurd	2772	7721	114	0
-Nagla Chandru	2780	7758	177	0
+Nagla Chandru	2780	7758	177	0	Sidgarhi
 Chāndpur Khurd	2794	7763	177	0
 Chāndpura	2787	7772	177	0
 Nagla Chandi	2757	7757	177	0
@@ -1162,7 +1162,7 @@ Chandla Pahār	2522	7973	614	0
 Chāndu	2530	7983	614	0
 Chāndpura	2529	7983	614	0
 Chandola	2428	7909	352	0
-Chandrabhānpur	2579	8299	498	0
+Chandrabhānpur	2579	8299	498	0	Retwa
 Chandaura	2699	7810	546	0
 Chandīpura	2694	7810	546	0
 Pokhar Chāndna	2685	7815	622	0
@@ -1176,7 +1176,7 @@ Chāndpur	2320	7782	338	0
 Chāndangora	2319	7796	338	0
 Chandpura	2277	7701	322	0
 Chandpura	2487	7962	663	0
-Chanāpur	2574	8301	498	0
+Chanāpur	2574	8301	498	0	Jagdishpur
 Chāndpur	2560	8308	26	0
 Chāndepur	2555	8305	32	0
 Chandpura	2679	7843	478	0
@@ -1430,7 +1430,7 @@ Chhāngāpur	2589	8256	32	0
 Chandanpatti	2574	8253	32	0
 Chanwān Khera	2330	7940	521	0
 Chandarbhānpur	2559	8251	32	0
-Chhāngāpur	2556	8261	32	0
+Chhāngāpur	2556	8261	32	0	Chak Inglis
 Chhāngāpur	2554	8256	32	0
 Khetāb Chandai	2557	8265	32	0
 Chandai Dhekaha	2556	8265	32	0
@@ -1465,7 +1465,7 @@ Chandaipur	2512	8255	201	0
 Chandel Dandiya	2518	8256	201	0
 Chanauli	2546	8283	251	0
 Chāndpur	2531	8295	251	0
-Chandua	2532	8298	251	0
+Chandua	2532	8298	251	0	Habībganj
 Chandāpur	2531	8294	251	0
 Chāndmāri	2538	8297	251	0
 Chandīpatti	2540	8290	251	0
@@ -1548,14 +1548,14 @@ Chandipur	2602	8092	728	0
 Chāndra	2901	7813	483	0
 Chandanpura	2964	7840	575	0
 Chandanwāla	2957	7844	575	0
-Latīfpur Chandnaul	2952	7844	575	0
+Latīfpur Chandnaul	2952	7844	575	0	Bāgrīwāla
 Chāndwāla	2951	7838	575	0
 Lādpur Chāndlo	2952	7839	575	0
 Chāndīki	2948	7839	575	0
 Chāndpura	2947	7830	575	0
 Hargaon Chāndan	2943	7841	575	0
 Chandupura	2941	7833	575	0
-Chānda Nagli	2935	7829	575	0
+Chānda Nagli	2935	7829	575	0	Mohanpur
 Purwa Mānak Chand	2793	8106	323	0
 Chāndi	2777	8106	507	0
 Purwa Chāndi	2777	8117	507	0
@@ -1650,7 +1650,7 @@ Chāngīpur	2910	7844	575	0
 Chande Khera	2664	8131	30	0
 Purwa Chāndka Singh	2652	8143	662	0
 Datauli Chanda	2666	8138	30	0
-Purai Chandarman	2675	8139	30	0
+Purai Chandarman	2675	8139	30	0	Saidpur Purai
 Chandarbhānpur	2675	8142	30	0
 Tikaria Chānd	2671	8142	30	0
 Pura Chandarman	2668	8143	30	0
@@ -1662,8 +1662,8 @@ Chanchalpur	2924	7857	575	0
 Chandpura	2910	7871	511	0
 Chāndpur	2971	7885	612	0
 Chhaniyāni	2973	7889	612	0
-Chandeni	2488	8081	324	0
-Chandeni	2488	8083	324	0
+Chandeni	2488	8081	324	0	Parewa
+Chandeni	2488	8083	324	0	Parewa
 Chāndpur	2927	7900	641	0
 Mānak Chand Purwa	2642	8107	681	0
 Chanpat Khera	2642	8101	312	0
@@ -1766,7 +1766,7 @@ Pura Chanal	2729	8186	542	0
 Chandu Nagla	2835	7837	646	0
 Chāndpur	2836	7850	646	0
 Chāndkheri	2896	7856	511	0
-Chandwār	2875	7855	646	0
+Chandwār	2875	7855	646	0	Mandaiyān Mazra
 Changeri	2891	7864	511	0
 Milak Changeri	2891	7864	511	0
 Chāndpur	2813	7998	683	0
@@ -1782,7 +1782,7 @@ Chak Chāndpur	2578	8129	728	0
 Chāndāpur	1834	7825	58	0
 Chandankati Chuho	2844	7854	646	0
 Chandankati	2844	7853	646	0
-Mazra Chandoi	2836	7875	117	0
+Mazra Chandoi	2836	7875	117	0	Rāmnagar Mandaiyān
 Chāndpur	2837	7874	117	0
 Chānda Tikar	2612	8101	681	0
 Chandi Tiwāri	2612	8108	681	0
@@ -2068,7 +2068,7 @@ Chanan Chāpi	2701	8353	515	0
 Chankauli	2719	8373	515	0
 Chandrampur	2585	8161	718	0
 Purwa Chandan	2587	8174	718	0
-Chandāpur	2592	8171	718	0
+Chandāpur	2592	8171	718	0	Manīpur
 Chānri	2689	8300	647	0
 Chanidīh	2681	8302	647	0
 Chhanchhāpār	2683	8305	647	0
@@ -2248,10 +2248,10 @@ Pure Chandu	2600	8198	718	0
 Chhani	3250	7558	496	0
 Chānti	2566	8176	607	0
 Chanan Dihiwa	2566	8181	607	0
-Sarāi Chandarbhān	2565	8176	607	0
+Sarāi Chandarbhān	2565	8176	607	0	Odhra
 Chāndpur	2564	8183	607	0
 Chāndpur Ahirān	2564	8183	607	0
-Sarāi Chandarbhān	2560	8175	607	0
+Sarāi Chandarbhān	2560	8175	607	0	Nānaksāhi
 Sarāi Chandarbhān	2560	8180	607	0
 Jagdīshpur Chāndan	2555	8175	607	0
 Rasūlpur Chāndon	2555	8179	607	0
@@ -2371,7 +2371,7 @@ Chhāni Virān	3174	7538	487	0
 Mand Chhanna	3163	7543	487	0
 Chhani Rara	3169	7549	296	0
 Chaniāra	3133	7549	369	0
-Chanpāwatan	2561	7371	273	0
+Chanpāwatan	2561	7371	273	0	Ramsingh ka Gūdha
 Chhānt	3198	7556	296	0
 Chhaniān Kalān	3199	7558	296	0
 Chhāngla	3191	7560	296	0
@@ -2510,7 +2510,7 @@ Purwa Changa	2701	8106	30	0
 Purwa Chandi	2706	8113	30	0
 Chandauli	2722	8111	30	0
 Chandiābhāta	2236	8157	755	0
-Chandūtola	2234	8167	755	0
+Chandūtola	2234	8167	755	0	Kosābāri
 Chandli	2223	8166	755	0
 Chandarpur	2224	8170	755	0
 Chāng	2613	7426	273	0
@@ -2706,7 +2706,7 @@ Chandipur	2714	8140	30	0
 Chandanpur	2712	8142	30	0
 Chandnai Purwa	2722	8149	294	0
 Chāndmau	2608	8127	681	0
-Chāndmau	2607	8125	681	0
+Chāndmau	2607	8125	681	0	Jogpatti Kesho
 Pura Chandai	2619	8139	681	0
 Pura Chandi Singh	2618	8139	681	0
 Pura Chāndka Bakhsh	2609	8137	681	0
@@ -3083,7 +3083,7 @@ Chānda	2496	8446	137	0
 Chāntar	2491	8446	137	0
 Chanariā	2445	8448	118	0
 Chankeshar Colony	2261	7656	322	0
-Chankhal	2298	7676	675	0
+Chankhal	2298	7676	675	0	Naurangpur
 Chandaigīr	2401	8427	701	0
 Chandarpur	2404	8449	701	0
 Chandarpur	2404	8443	701	0
@@ -3555,10 +3555,10 @@ Cansaulim	1534	7390	102	0
 Changada	2253	7255	157	0
 Chandeni	2848	7612	781	0
 Kollam Cantonment	889	7660	549	0
-Quilon Cantonment	889	7660	549	0
+Quilon Cantonment	889	7660	549	0	Kollam Cantonment
 Changua	803	9350	79	0
 Chandanathope	893	7664	549	0
-Chandanathoppu	893	7664	549	0
+Chandanathoppu	893	7664	549	0	Chandanathope
 Chandkheda	2311	7257	124	0
 Chanduru	1371	7777	438	0
 Chandagānahalli	1355	7788	438	0
@@ -3707,7 +3707,7 @@ Chananpura	2534	8651	538	0
 Chandītola	2549	8661	759	0
 Chanddāha	2418	8687	502	0
 Chāndraidih	2422	8698	502	0
-Chandpur	2419	8690	502	0
+Chandpur	2419	8690	502	0	Sitaldih
 Chāndo	2395	8410	701	0
 Chandandih	2374	8451	707	0
 Chānpi	2396	8430	701	0
@@ -3785,7 +3785,7 @@ Chāndaposi	2142	8529	414	0
 Chandrashekharpur	2139	8537	293	0
 Chandarsikārpur	2194	8570	293	0
 Chāndposi-diha	2132	8552	293	0
-Chāndusāi	2183	8593	382	0
+Chāndusāi	2183	8593	382	0	Jhulkiāni
 Changua	2171	8582	293	0
 Chandibera	2150	8580	293	0
 Chandiprasād	2018	8518	548	0
@@ -3872,7 +3872,7 @@ Changpang	2640	9420	70	0
 Chandarpur	2709	7923	464	0
 Changeri	2903	7875	511	0
 Chandurti	1857	7878	408	0
-Chanditola	2258	8106	480	0
+Chanditola	2258	8106	480	0	Ataria
 Chandoli	2984	7900	612	0
 Chandipur	2648	8174	662	0
 Pura Chāndka	2615	8174	662	0

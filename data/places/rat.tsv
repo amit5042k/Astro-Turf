@@ -1,5 +1,5 @@
 Ratlām	2333	7504	568	264914
-Rathankot	3227	7565	692	174306
+Rathankot	3227	7565	692	174306	Pathānkot
 Ratnagiri	1699	7331	234	76229
 Ratangarh	2808	7462	539	71124
 Rāth	2559	7957	645	61728
@@ -7,17 +7,17 @@ Ratia	2969	7558	443	37152
 Ratanpur	2229	8217	291	24636
 Rātu	2342	8521	562	22379
 Ratannagar	2821	7496	539	12841
-Ratonnagar	2821	7496	539	12841
+Ratonnagar	2821	7496	539	12841	Ratannagar
 Ratangarh	2482	7512	655	7994
 Rathian	3290	7513	373	6365
 Ratnu Chak	3267	7493	720	5228
-Chak Ratnu	3267	7493	720	5228
+Chak Ratnu	3267	7493	720	5228	Ratnu Chak
 Wadi Ratnagiri	1680	7418	57	4693
 Ratnāpuram	1863	7955	748	3154
-Ratnapur	1863	7955	748	3154
+Ratnapur	1863	7955	748	3154	Ratnāpuram
 Ratua	2520	8793	412	0
 Ratu	2410	9291	19	0
-Ratu Melveng	2410	9291	19	0
+Ratu Melveng	2410	9291	19	0	Ratu
 Rātusar	2878	7458	539	0
 Rattihalli	1442	7552	92	0
 Ratti	1882	8454	472	0
@@ -25,7 +25,7 @@ Rattewāla	3060	7439	566	0
 Rattāsar	2550	7087	285	0
 Ratsānr	2590	8404	536	0
 Rātariya	2661	7203	217	0
-Rātria	2661	7203	217	0
+Rātria	2661	7203	217	0	Rātariya
 Ratodan	2543	7670	335	0
 Ratnāgiri	2062	8635	376	0
 Ratlāi	2437	7631	333	0
@@ -33,10 +33,10 @@ Ratkal	1745	7711	71	0
 Ratia	2142	6982	742	0
 Rātholi	2480	7555	417	0
 Rathkuriya	2655	7356	344	0
-Rathkuria	2655	7356	344	0
+Rathkuria	2655	7356	344	0	Rathkuriya
 Rāter	2256	7895	337	0
 Rateu	2626	7173	285	0
-Raten	2626	7173	285	0
+Raten	2626	7173	285	0	Rateu
 Rātadi	2173	6950	742	0
 Ratanpura	2592	8374	586	0
 Ratanpur	2311	8707	571	0
@@ -47,9 +47,9 @@ Ratanpur	2165	7225	168	0
 Ratanpur	2048	8665	702	0
 Ratādia	2294	6976	108	0
 Rātabāri	2460	9240	624	0
-Ratanpurā	2395	8361	349	0
+Ratanpurā	2395	8361	349	0	Ranpurā
 Ratanshahr	2816	7554	300	0
-Ratanshar	2816	7554	300	0
+Ratanshar	2816	7554	300	0	Ratanshahr
 Ratansara	2816	7476	539	0
 Rātusar	2894	7475	486	0
 Ratanpur	2283	8826	279	0
@@ -63,8 +63,8 @@ Ratanpathri	3390	7432	1	0
 Ratīkhad	3292	7480	581	0
 Jagādkhāna Rator	3279	7491	581	0
 Ratgal	2997	7687	501	0
-Rathāl	3258	7488	581	0
-Ratnāl	3259	7489	581	0
+Rathāl	3258	7488	581	0	Sainien de Kothe
+Ratnāl	3259	7489	581	0	Natrāl
 Ratīān	3263	7479	581	0
 Ratanpura	3031	7791	448	0
 Rāthaura	3001	7794	596	0
@@ -99,11 +99,11 @@ Ratūkāla	2702	7995	570	0
 Rataur	2676	7911	290	0
 Ratauli	2683	7914	290	0
 Ratanpur	2640	7923	741	0
-Ratanpura	2640	7923	741	0
+Ratanpura	2640	7923	741	0	Ratanpur
 Rathaura	2640	7912	741	0
 Rāthauranpura	2637	7909	741	0
 Pura Rathauran	2636	7909	741	0
-Rāthauran	2636	7909	741	0
+Rāthauran	2636	7909	741	0	Pura Rathauran
 Gora Rāthaur	2635	7939	741	0
 Ratnāpur	2697	7972	570	0
 Purwa Ratanpur	2692	7972	570	0
@@ -136,7 +136,7 @@ Ratanwāla	2889	7620	431	0
 Rathāl	3342	7434	504	0
 Rathaila	3138	7727	278	0
 Ratta Khera	3048	7432	3	0
-Ratta Ther	3048	7432	3	0
+Ratta Ther	3048	7432	3	0	Ratta Khera
 Ratanpura	3038	7426	3	0
 Ratta Khera	3029	7442	615	0
 Ratta Khera	3025	7429	615	0
@@ -181,7 +181,7 @@ Ratanpura	2854	7526	539	0
 Ratanpur	2952	7814	575	0
 Ratanpura	2658	7624	708	0
 Ratanpura	2674	7618	121	0
-Ratanpura	2632	7616	116	0
+Ratanpura	2632	7616	116	0	Chorpura
 Ratanhāri	2346	7853	338	0
 Rattīpura	2628	7670	447	0
 Neguwān Ratan	2341	7898	352	0
@@ -214,7 +214,7 @@ Ratwāra	2502	7695	336	0
 Rātiakhet	2450	7396	22	0
 Rātākhera	2630	7476	446	0
 Ratna ka Bāria	2571	7425	309	0
-Rāthor ka Khera	2511	7464	417	0
+Rāthor ka Khera	2511	7464	417	0	Nangpura
 Rātriya	2522	7469	309	0
 Ratanpura	2521	7472	309	0
 Rattoke	3018	7560	593	0
@@ -241,7 +241,7 @@ Rathu	3321	7621	34	0
 Ratanpura Shimālī	2889	7908	552	0
 Ratanpurī	2888	7908	552	0
 Ratanpura	2459	7634	333	0
-Ratanpura	2441	7627	333	0
+Ratanpura	2441	7627	333	0	Nayāgaon
 Rātyādūngrī	2435	7626	333	0
 Ratanpura	2437	7636	333	0
 Ratanpura	2420	7630	16	0
@@ -252,11 +252,11 @@ Ratupura	2874	7800	756	0
 Rātepāni	2714	8844	85	0
 Ratna ka Pura	2645	7792	478	0
 Ratwāl ka Pura	2626	7834	484	0
-Rathiyāpura	2649	7849	334	0
+Rathiyāpura	2649	7849	334	0	Sondha
 Ratangarh	3094	7607	674	0
 Ratipur	3090	7623	674	0
 Ratnāpur	1928	7648	153	0
-Ratangarh	3003	7603	593	0
+Ratangarh	3003	7603	593	0	Sindrānwāla
 Ratanheri	3009	7624	705	0
 Ratangarh	3086	7637	648	0
 Ratanpur	2796	7780	543	0
@@ -378,7 +378,7 @@ Rātātalāi	2243	7693	465	0
 Ratausā	2530	7905	433	0
 Ratwās	2508	7914	481	0
 Ratanpura	2503	7935	663	0
-Rāthor	2187	7621	209	0
+Rāthor	2187	7621	209	0	Surgaon
 Rataulī	2532	7999	614	0
 Ratanpur	2435	7912	352	0
 Ratanbasai	2679	7823	478	0
@@ -445,7 +445,7 @@ Ratnāpur	2048	7780	67	0
 Ratuākhera	2600	8050	728	0
 Ratan Bigha	2449	8395	701	0
 Ratangāra	2446	8375	743	0
-Rathai	2792	7644	482	0
+Rathai	2792	7644	482	0	Karni Kot
 Ratanpur	2307	7815	338	0
 Ratwās	2490	7818	436	0
 Ratbhānpur	2442	7810	410	0
@@ -766,7 +766,7 @@ Ratendah	3109	7594	295	0
 Ratiār	3252	7609	362	0
 Ratāri	3240	7601	362	0
 Rathhaoni	3241	7609	362	0
-Rathhor	3241	7609	362	0
+Rathhor	3241	7609	362	0	Rathhaoni
 Rātāpaili	2100	8091	474	0
 Ratanbhāt	2092	8095	474	0
 Ratna	2281	8138	468	0
@@ -810,7 +810,7 @@ Rātio	2578	7529	446	0
 Ratanpura	2568	7529	309	0
 Rātāpāli	2090	8248	205	0
 Ratipāli	2081	8248	594	0
-Royania Ratanji	2319	7425	166	0
+Royania Ratanji	2319	7425	166	0	Rohinia
 Rāti Mauri	2320	7439	166	0
 Ratipāli	2079	8251	594	0
 Ratwa Dogri	3124	7786	479	0
@@ -1018,7 +1018,7 @@ Ratanpura	2481	8432	137	0
 Ratwār	2485	8438	137	0
 Ratanpur	2491	8439	137	0
 Ratnāg	2435	8442	788	0
-Ratnāg	2428	8442	701	0
+Ratnāg	2428	8442	701	0	Dhankāhi
 Ratwāy	2266	7669	322	0
 Ratanpur Tumri	2298	7694	675	0
 Ratanpur	2277	7698	322	0

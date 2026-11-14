@@ -1,30 +1,30 @@
 Ghosī	2611	8354	586	39138
 Goshaingaon	2644	8996	713	13933
-Gossaigaon	2644	8996	713	13933
+Gossaigaon	2644	8996	713	13933	Goshaingaon
 Goshāinganj	2657	8238	629	13176
 Goshāīnganj	2677	8111	714	9537
 Pura Bāku Goshāin	2667	8169	629	331
 Gosunda	2486	7454	417	0
 Goshing	2069	7632	49	0
 Goshandepur	2546	8347	26	0
-Goshaīndepur	2546	8347	26	0
+Goshaīndepur	2546	8347	26	0	Goshandepur
 Gosānimāri Bandar	2614	8936	420	0
-Gosanimari	2614	8936	420	0
+Gosanimari	2614	8936	420	0	Gosānimāri Bandar
 Gosalpur	2340	8006	598	0
 Gosāiwādi	1794	7602	48	0
 Gosāba	2217	8880	4	0
-Gosaha	2217	8880	4	0
+Gosaha	2217	8880	4	0	Gosāba
 Ghosla	2344	7587	314	0
 Ghosar	2095	8448	414	0
-Gossipur	2262	8838	123	0
-Behta Gosain	2821	7890	117	0
+Gossipur	2262	8838	123	0	Cossipore
+Behta Gosain	2821	7890	117	0	Behta Gusaīn
 Ghoshpur	2239	8848	4	0
 Goshabug	3422	7455	301	0
 Gosāīn Chak	3269	7478	581	0
 Kuān Ghosi	2456	7873	384	0
 Purwa Gosāīn	2651	7993	671	0
 Gosāintola	2595	8548	395	0
-Gosaintala	2595	8548	395	0
+Gosaintala	2595	8548	395	0	Gosāintola
 Gosaibori	2608	9081	458	0
 Ghosh Para	2263	8848	450	0
 Goshāin	3146	7756	680	0
@@ -42,9 +42,9 @@ Gosal	3019	7516	563	0
 Ghosundi	2501	7474	417	0
 Ghosīpura	2975	7793	596	0
 Ghosipur	2893	7774	700	0
-Sāhūwāla Goshānwāla	2949	7856	575	0
+Sāhūwāla Goshānwāla	2949	7856	575	0	Tānda Ranjit Ka
 Ghosiwāla	2932	7861	575	0
-Rāmnagar Goshain	2947	7861	575	0
+Rāmnagar Goshain	2947	7861	575	0	Tānda
 Ghosīpura	2896	7913	552	0
 Farīdpur Gosāīn	2879	7796	756	0
 Ghosi Khurd	1950	7607	53	0
@@ -54,7 +54,7 @@ Goslān	3088	7653	735	0
 Goslān	3081	7657	632	0
 Gosāi Kānadi	1865	7632	33	0
 Gosaipalli	1817	7775	31	0
-Gosāvi	2051	7866	143	0
+Gosāvi	2051	7866	143	0	Gādegaon
 Gosarpur	2766	7871	711	0
 Gosāītola	2238	7971	368	0
 Ghosīdhāna	2462	7810	410	0
@@ -66,7 +66,7 @@ Gosampalli	1902	7864	360	0
 Gosewāri	2136	7907	141	0
 Gosarpur	2729	7950	688	0
 Marhi Goshāinj	2736	7939	688	0
-Goshpur	2791	7966	470	0
+Goshpur	2791	7966	470	0	Kishorpur
 Gosain	2742	7967	688	0
 Gosiāi	2468	7729	336	0
 Ghosīpura	2464	7732	336	0
@@ -92,7 +92,7 @@ Gospur	2664	7804	478	0
 Ghosua	2367	7796	215	0
 Goshāīnpura	2566	8306	32	0
 Goshāīnpur	2550	8303	251	0
-Goshāīnpura	2563	8314	26	0
+Goshāīnpura	2563	8314	26	0	Atithān
 Gosāīnpur	2544	8301	251	0
 Ghosīpura	2546	7813	436	0
 Ghoswa	2531	8339	724	0
@@ -355,7 +355,7 @@ Gosapalli	1821	7859	466	0
 Purwa Goshāin	2647	8205	597	0
 Purwa Goshāin	2640	8205	597	0
 Purwa Goshāin	2634	8210	597	0
-Goshainpur	2632	8200	597	0
+Goshainpur	2632	8200	597	0	Kakraha
 Purwa Goshāin	2628	8204	597	0
 Goshāinganj	2628	8215	597	0
 Purwa Goshāin	2628	8219	597	0
@@ -534,7 +534,7 @@ Gosal Zamiodarān	3180	7500	222	0
 Gosaintolā	2143	8038	171	0
 Ghoswāla	3144	7531	565	0
 Gosāl	3131	7536	565	0
-Ghospur	3127	7540	565	0
+Ghospur	3127	7540	565	0	Kādimochi
 Goshāla	2256	7575	660	0
 Goswā	2711	8063	686	0
 Gosah	2706	8059	686	0
@@ -608,7 +608,7 @@ Goshainpatti	2667	8423	560	0
 Mānjha Gosain	2641	8424	703	0
 Ghosia	2635	8425	703	0
 Bhataulia Gosain	2633	8415	535	0
-Gosain	2637	8421	703	0
+Gosain	2637	8421	703	0	Sariswa
 Goshāinpur	2606	8410	536	0
 Gosopāli	2610	8417	639	0
 Gosainpura	2684	8425	560	0
@@ -707,14 +707,14 @@ Gosuvāripalle	1341	7848	195	0
 Gosalakuruvapalle	1344	7869	214	0
 Bishunpur Ghosi	2566	8554	716	0
 Gosukondavāri Agrahāram	1559	7968	200	0
-Gosulavīdu	1535	7955	200	0
+Gosulavīdu	1535	7955	200	0	Vaggampalle
 Gosotoli	2360	8521	562	0
 Gosāintoli	2349	8503	562	0
 Gosāintoli	2333	8520	562	0
 Goso	2322	8514	432	0
 Gosāintoli	2321	8537	562	0
 Gose	2377	8561	391	0
-Gosa	2360	8555	391	0
+Gosa	2360	8555	391	0	Jatahādih
 Gosaindīh	2314	8560	562	0
 Ghosko	2386	8596	517	0
 Gose	2381	8576	517	0
@@ -735,7 +735,7 @@ Ghosda	2183	8582	382	0
 Gosāin Rāidih	2447	8593	452	0
 Gosāin Bighā	2446	8593	452	0
 Ghoskodih	2444	8592	452	0
-Ghoskodih	2436	8593	452	0
+Ghoskodih	2436	8593	452	0	Dumardiha
 Gosāindih	2438	8581	473	0
 Ghoskodih	2432	8587	452	0
 Gosāindih	2451	8616	452	0

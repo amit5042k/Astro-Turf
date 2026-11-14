@@ -8,7 +8,7 @@ Tāramangalam	1169	7797	51	30222
 Tarsadi	2147	7295	139	29305
 Panipat Taraf Rajputan	2936	7694	298	28803
 Tharād	2440	7163	134	27954
-Taraori	2980	7693	457	25944
+Taraori	2980	7693	457	25944	Tirāwari
 Tarāna	2333	7604	314	24908
 Tharangambadi	1103	7985	203	23191
 Thara	2397	7182	134	18060
@@ -17,11 +17,11 @@ Tharīke	3087	7578	674	12294
 Tarlapalli	1883	7949	91	9656
 Tarapur Pt VI	2485	9277	378	8753
 Tarabha	2073	8367	308	8334
-Tarbha	2073	8367	308	8334
+Tarbha	2073	8367	308	8334	Tarabha
 Tarīchar Kalān	2541	7889	529	7674
 Tārāpur	1986	7268	192	7493
-Tārāpur town	1986	7268	192	7493
-Tarapore	1986	7268	192	7493
+Tārāpur town	1986	7268	192	7493	Tārāpur
+Tarapore	1986	7268	192	7493	Tārāpur
 Tārāpur	2509	8666	538	7450
 Tarapur VII	2481	9278	378	6977
 Tār	2540	8434	377	6123
@@ -31,10 +31,10 @@ Tarsali	2226	7322	159	4929
 Nadgaon Tarf Birwadi	1810	7346	17	4871
 Tarpāl	2481	7343	22	0
 Tharusar	2852	7299	307	0
-Thāroli	2482	7303	23	0
+Thāroli	2482	7303	23	0	Jhāroli
 Tharoch	3098	7769	479	0
 Thari Sonarai	2436	8690	502	0
-Thāri Paunī	2135	7830	141	0
+Thāri Paunī	2135	7830	141	0	Thadi Pavni
 Tharet	2601	7866	503	0
 Tharbitia	2622	8666	426	0
 Tharaoli	2597	7547	313	0
@@ -45,18 +45,18 @@ Tarwa	2575	8318	498	0
 Taruvaikkulam	890	7816	208	0
 Tārubānda	2147	7715	133	0
 Tārpathar	2385	8274	525	0
-Tarapathar	2385	8274	525	0
+Tarapathar	2385	8274	525	0	Tārpathar
 Tarora	2040	7475	54	0
 Tārna	3082	7745	534	0
 Tarlupādu	1566	7922	200	0
-Tarlapadu	1566	7922	200	0
+Tarlapadu	1566	7922	200	0	Tarlupādu
 Tarlākota	1880	8440	472	0
 Tarla	1750	7398	64	0
 Tarkulwa	2663	8390	535	0
-Tarkuwa	2663	8390	535	0
+Tarkuwa	2663	8390	535	0	Tarkulwa
 Tarklak	3423	7684	2	0
 Tarkeshwar	2137	7306	139	0
-Tārkalas	1913	7694	153	0
+Tārkalas	1913	7694	153	0	Tādkalas
 Tarigonda	1369	7863	195	0
 Tārī Barāgaon	2599	8383	536	0
 Targaon	1751	7415	64	0
@@ -64,46 +64,46 @@ Tarenga	2176	8190	379	0
 Taregaon	2234	8124	537	0
 Tardhara	2224	7160	370	0
 Tardeo	1897	7282	106	0
-Bombay Tardeo	1897	7282	106	0
+Bombay Tardeo	1897	7282	106	0	Tardeo
 Tarawat	2469	7405	22	0
 Tarasvu	2226	7349	159	0
 Tārosingi	2009	8469	440	0
-Tarāsingi	2009	8469	440	0
+Tarāsingi	2009	8469	440	0	Tārosingi
 Tarapur	1770	7547	132	0
 Tarnāu	2714	7413	430	0
-Tārānau	2714	7413	430	0
+Tārānau	2714	7413	430	0	Tarnāu
 Tāraj	2452	7650	333	0
 Taraia	2607	8488	540	0
-Taraiya	2607	8488	540	0
+Taraiya	2607	8488	540	0	Taraia
 Tārai	2464	7794	410	0
 Tarahti	2501	8048	463	0
 Taragūpal	1794	7918	182	0
 Taradgaon	1803	7425	64	0
 Tārādehi	2329	7935	521	0
 Tarbor	2064	8261	349	0
-Taraborh	2064	8261	349	0
+Taraborh	2064	8261	349	0	Tarbor
 Taraboi	2012	8563	541	0
 Tarabganj	2696	8199	542	0
 Tārābāri	2623	9112	358	0
-Tarabari Hat	2623	9112	358	0
+Tarabari Hat	2623	9112	358	0	Tārābāri
 Tārābād	1940	7450	152	0
 Tāra	2210	7769	462	0
 Tāra	1908	7283	207	0
-Sarkāri Tara	2770	7087	217	0
+Sarkāri Tara	2770	7087	217	0	Sarkāri Tala
 Sarāi Tarīn	2855	7857	646	0
 Puttan Taruvai	834	7793	208	0
 Māvanda Tarla	2782	7581	491	0
-Maonda Tarla	2782	7581	491	0
+Maonda Tarla	2782	7581	491	0	Māvanda Tarla
 Kasba Tārle	1645	7402	57	0
-Tarla Buzurg	1645	7402	57	0
-Tārla	1645	7402	57	0
+Tarla Buzurg	1645	7402	57	0	Kasba Tārle
+Tārla	1645	7402	57	0	Kasba Tārle
 Andhra Thārhi	2638	8633	556	0
-Andhra Thari	2638	8633	556	0
+Andhra Thari	2638	8633	556	0	Andhra Thārhi
 Thariyāsar	2853	7452	539	0
 Tārayan	2202	8806	559	0
 Tarutin Dhara	3344	7421	504	0
-Tarutla Dhara	3344	7421	504	0
-Tarutala Dhara	3344	7421	504	0
+Tarutla Dhara	3344	7421	504	0	Tarutin Dhara
+Tarutala Dhara	3344	7421	504	0	Tarutin Dhara
 Tardwāl	3332	7423	504	0
 Tarāla	3330	7423	504	0
 Taratpura	3447	7411	0	0
@@ -112,7 +112,7 @@ Tārazu	3427	7450	301	0
 Tarats	3444	7433	0	0
 Targal	3294	7475	581	0
 Tarāli	3317	7422	504	0
-Tarāti	3317	7422	504	0
+Tarāti	3317	7422	504	0	Tarāli
 Tarāl	3310	7432	504	0
 Tārāgarh	3379	7428	1	0
 Tārāgarh	3379	7430	1	0
@@ -120,13 +120,13 @@ Tarer	3376	7433	1	0
 Targāh	3296	7476	581	0
 Targūāl	3294	7477	581	0
 Tāra	3284	7499	581	0
-Tarlokpur	3258	7496	720	0
+Tarlokpur	3258	7496	720	0	Tilokpur
 Tarp	3257	7487	581	0
-Tarf Brāhmanān	3257	7487	581	0
-Taror	3260	7495	720	0
+Tarf Brāhmanān	3257	7487	581	0	Tarp
+Taror	3260	7495	720	0	Tror
 Thārumsa	3452	7617	8	0
 Taratsar	3442	7391	0	0
-Tarūti Hāji	3442	7382	0	0
+Tarūti Hāji	3442	7382	0	0	Trutti Hāji
 Tarauli	3046	7793	448	0
 Sūrna Tarja	3045	7788	448	0
 Amwala Tarla	3037	7800	448	0
@@ -135,7 +135,7 @@ Jamanwala Tarla	3036	7800	448	0
 Sūdhonwāla Tarla	3035	7794	448	0
 Sūdhonwāla Tarla	3034	7793	448	0
 Thākurpur Tarla	3033	7793	448	0
-Thākarpur Tarla	3033	7793	448	0
+Thākarpur Tarla	3033	7793	448	0	Thākurpur Tarla
 Pitthūwāla Tarla	3029	7798	448	0
 Thari	2511	7555	353	0
 Tār ka Khera	2566	7570	353	0
@@ -169,7 +169,7 @@ Taraulia	2699	7909	464	0
 Nagla Tār	2687	7923	290	0
 Tār ka Nagla	2676	7909	290	0
 Tharati Etawah	2676	7901	290	0
-Yamuna Tarhati Etāwah	2676	7901	290	0
+Yamuna Tarhati Etāwah	2676	7901	290	0	Tharati Etawah
 Nagla Taru	2687	7910	290	0
 Taraiya	2682	7919	290	0
 Ālampur Taraia	2681	7919	290	0
@@ -185,7 +185,7 @@ Tarauli	2404	7912	352	0
 Tārāpur	3250	7476	581	0
 Tarangbiang	2521	9221	165	0
 Tarmah	3208	7686	38	0
-Tarmahr	3208	7686	38	0
+Tarmahr	3208	7686	38	0	Tarmah
 Tarauna Bānsgāon	2631	8308	553	0
 Tārāpur	2470	8772	658	0
 Tārsa Khurd	1968	7976	111	0
@@ -238,8 +238,8 @@ Tharog	3141	7742	680	0
 Jelu Tarāla	3150	7749	680	0
 Pīchha Tarāla	3150	7749	680	0
 Tarobri	3049	7414	3	0
-Tārewāla	3050	7428	3	0
-Tarkhānwāla	3032	7438	615	0
+Tārewāla	3050	7428	3	0	Rorānwāla
+Tarkhānwāla	3032	7438	615	0	Bhagwānpura
 Thāra	3053	7475	730	0
 Tharājwāla	3017	7461	615	0
 Tharaut	3119	7732	479	0
@@ -539,7 +539,7 @@ Tarya	2542	8306	251	0
 Taraiya	2541	8306	251	0
 Tāranpur	2527	8312	724	0
 Taria	2531	8316	724	0
-Tārgaon	2549	8321	724	0
+Tārgaon	2549	8321	724	0	Ajgara
 Tārāpur	2531	8318	724	0
 Tārtārpur	2698	7855	403	0
 Urāwar Hasht Taraf	2692	7867	403	0
@@ -728,7 +728,7 @@ Tārāganj	2684	8130	30	0
 Tāripur	2695	8139	30	0
 Tārapur	2694	8148	30	0
 Tārāpat	2687	8149	30	0
-Tārāpur	2901	7843	483	0
+Tārāpur	2901	7843	483	0	Balwāpur
 Tarkaula	2922	7845	575	0
 Thar	2675	8129	30	0
 Purwa Thar	2655	8128	681	0
@@ -772,7 +772,7 @@ Tarodi	1971	7758	67	0
 Thāra Buzruk	1983	7787	67	0
 Thāra Khurd	1982	7786	67	0
 Tārūpura	2888	7858	483	0
-Milak Tārāwāli	2871	7869	511	0
+Milak Tārāwāli	2871	7869	511	0	Maināther
 Tariya	2596	8138	681	0
 Tharaisa Jaisingh	2848	7864	646	0
 Ahmadnagar Tharaisa	2848	7863	646	0
@@ -898,7 +898,7 @@ Tharrāpār	2683	8316	325	0
 Tārdīh	2688	8314	325	0
 Tharauli	2693	8321	647	0
 Tharwāpār	2682	8317	325	0
-Tariāpār	2661	8300	647	0
+Tariāpār	2661	8300	647	0	Pāndepur
 Tāra	2654	8312	647	0
 Tarem	2631	8305	553	0
 Tārkhop	2641	8320	325	0
@@ -941,7 +941,7 @@ Kharka Tāra	2620	8393	535	0
 Kunrāwar Tāra	2619	8392	535	0
 Tarkauliā	2564	8353	26	0
 Tāranpur	2564	8357	26	0
-Tāra Chak	2568	8366	26	0
+Tāra Chak	2568	8366	26	0	Kamraurā
 Tārī	2557	8361	26	0
 Tārūr	1870	8031	288	0
 Tarlagura	1860	8036	288	0
@@ -1319,7 +1319,7 @@ Tari	2967	7917	429	0
 Tarai	2963	7924	429	0
 Tharāsni	2610	7363	273	0
 Bīrpur Tāra	2927	7904	551	0
-Tārapuri	2927	7904	551	0
+Tārapuri	2927	7904	551	0	Bīrpur Tāra
 Thāri	2928	7905	551	0
 Bhagatpur Tariāl	2936	7905	551	0
 Thāranganj	2920	7914	641	0
@@ -1401,7 +1401,7 @@ Tarrachandi	2492	8405	409	0
 Tarār	2508	8409	409	0
 Tara	2497	8444	137	0
 Tarwān Khurd	2449	8426	701	0
-Tarwā	2447	8429	788	0
+Tarwā	2447	8429	788	0	Akaunī
 Tarīdīh	2437	8428	701	0
 Tarwādih	2439	8447	118	0
 Tariā Parangī	2412	8429	701	0
@@ -1554,7 +1554,7 @@ Tarkabail	1488	7456	59	0
 Tārgār	1489	7458	59	0
 Tāremane	1486	7471	59	0
 Tārgadde	1442	7453	59	0
-Tāremane	1433	7472	59	0
+Tāremane	1433	7472	59	0	Talekerr
 Tariberu	1376	7470	257	0
 Tārāchak	2452	8426	701	0
 Tārchuwāntola	2452	8447	118	0
@@ -1590,7 +1590,7 @@ Tārwa	2538	8518	604	0
 Tariābhāg	2570	8757	613	0
 Tārāpur	2509	8759	461	0
 Tārbana	2525	8762	461	0
-Targāchhi	2519	8772	461	0
+Targāchhi	2519	8772	461	0	Kaldi Bita
 Tārābāri	2591	8778	613	0
 Tarpol	2598	8789	610	0
 Tariāl	2597	8797	610	0
@@ -1746,14 +1746,14 @@ Tārā	2297	8583	562	0
 Tārabsāi	2208	8584	287	0
 Tartaria	2206	8593	287	0
 Tārabsāi	2210	8592	287	0
-Tārāpāi	2212	8586	287	0
+Tārāpāi	2212	8586	287	0	Taipāni
 Tārabsāi	2218	8597	287	0
 Tar Julu	2173	8509	272	0
 Tar Genia	2168	8508	272	0
 Tara Jāgar	2164	8548	293	0
 Thāratkhamar	2176	8555	293	0
-Sān Tarant	2194	8588	382	0
-Bār Tarant	2194	8589	382	0
+Sān Tarant	2194	8588	382	0	Sān Terinti
+Bār Tarant	2194	8589	382	0	Bodo Terinit
 Tarānipukuri	2158	8578	293	0
 Tārpada	2162	8597	293	0
 Tarahatā	2097	8531	289	0
@@ -1816,4 +1816,4 @@ Taraso	2700	9341	578	0
 Tarak Lengdi	2787	9373	39	0
 Āmwāla Tarla	3033	7808	448	0
 Nagla Tara	2712	7917	464	0
-Tārābāndha	2207	8165	755	0
+Tārābāndha	2207	8165	755	0	Nawāgaon

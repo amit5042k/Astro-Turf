@@ -3,7 +3,7 @@ Bathinda	3021	7494	563	285788
 Batāla	3181	7520	487	158621
 Bhātāpāra	2174	8195	379	57537
 Bhatkal	1399	7456	59	32000
-Batlagundu	1016	7776	187	22928
+Batlagundu	1016	7776	187	22928	Vattalkundu
 Bhati	2843	7723	778	18864
 Bhattiprolu	1610	8078	220	18001
 Bhatgaon	2336	8300	413	11204
@@ -13,34 +13,34 @@ Batarashi	2487	9233	624	7001
 Bhat	2310	7264	276	6823
 Bhatli	2146	8354	497	4865
 Batoti	3312	7531	550	4315
-Batote	3312	7531	550	4315
+Batote	3312	7531	550	4315	Batoti
 Bat	2486	8307	103	3621
 Bāth	3108	7550	369	2416
 Bhatpal	1967	8146	619	1249
-Sultan Bathery	1166	7626	242	0
-Sultans Battery	1166	7626	242	0
+Sultan Bathery	1166	7626	242	0	Ganapathivattam
+Sultans Battery	1166	7626	242	0	Ganapathivattam
 Sher Bhatoria	2209	7849	337	0
-Bhatoriā	2209	7849	337	0
+Bhatoriā	2209	7849	337	0	Sher Bhatoria
 Rorā Bhatpura	2529	7924	433	0
-Batari	3061	7852	89	0
+Batari	3061	7852	89	0	Bhetiāra
 Bhatwāri	3081	7862	89	0
 Bhatwār	3071	7771	534	0
 Bhātumra	1807	7716	170	0
-Bhatamra	1807	7716	170	0
+Bhatamra	1807	7716	170	0	Bhātumra
 Bhattu Kolān	2938	7534	443	0
-Bhātu	2938	7534	443	0
+Bhātu	2938	7534	443	0	Bhattu Kolān
 Bhattu Khurd	2960	7532	443	0
-Bhattu	2960	7532	443	0
+Bhattu	2960	7532	443	0	Bhattu Khurd
 Bhatpura	2626	7826	484	0
 Bhatnāwar	2560	7739	436	0
 Bhātla	2917	7593	339	0
 Bhātkhuli Jain	2091	7761	133	0
-Bhātkuli	2091	7761	133	0
+Bhātkuli	2091	7761	133	0	Bhātkhuli Jain
 Bhātki	2171	7456	248	0
 Bhātkheri	2451	7514	655	0
 Bhatipura Mānakpur	2891	7785	700	0
 Bhātigān	1920	8241	349	0
-Bhattigām	1920	8241	349	0
+Bhattigām	1920	8241	349	0	Bhātigān
 Bhātiya	2209	6928	131	0
 Bhatha	2119	7276	139	0
 Bhātghar	1816	7386	52	0
@@ -54,20 +54,20 @@ Bhāta	2547	7214	285	0
 Bhāt	2241	7363	180	0
 Bātwa	2296	7261	124	0
 Battulapallipādu	1449	7979	6	0
-Battulapallepādu	1449	7979	6	0
+Battulapallepādu	1449	7979	6	0	Battulapallipādu
 Battulapalle	1452	7777	444	0
 Battili	1901	8379	205	0
 Batrel	2057	8154	652	0
 Batrahalli	1238	7841	223	0
 Batmālun	3407	7479	611	0
-Batmalina	3407	7479	611	0
-Batamalina	3407	7479	611	0
+Batmalina	3407	7479	611	0	Batmālun
+Batamalina	3407	7479	611	0	Batmālun
 Bātlī	3323	7519	550	0
 Batim	1546	7388	188	0
 Batiāgarh	2411	7935	521	0
 Batia	2464	8635	524	0
 Bathnāha	2664	8557	582	0
-Bathnāha Jujharpatti	2664	8557	582	0
+Bathnāha Jujharpatti	2664	8557	582	0	Bathnāha
 Bathnāha	2635	8724	667	0
 Bathād	3160	7748	680	0
 Batgāon	2179	8521	272	0
@@ -77,27 +77,27 @@ Bātelegaon	2767	9469	42	0
 Batāwār	3055	7695	587	0
 Bataw	2523	9224	435	0
 Bātāru	2607	7163	285	0
-Bātārn	2607	7163	285	0
+Bātārn	2607	7163	285	0	Bātāru
 Batāodā	2510	7640	506	0
 Batāoda	2428	7692	336	0
 Batakūt	3394	7530	148	0
 Batakurki	1608	7537	77	0
-Batkurki	1608	7537	77	0
+Batkurki	1608	7537	77	0	Batakurki
 Batābāri	2683	9222	381	0
 Bhātiyāwās	2853	7467	539	0
-Bhatiabās	2853	7467	539	0
-Batchrāro	2810	7477	539	0
+Bhatiabās	2853	7467	539	0	Bhātiyāwās
+Batchrāro	2810	7477	539	0	Bachhrāro
 Bhatkuri	2250	8864	4	0
-Batāla	3321	7402	504	0
+Batāla	3321	7402	504	0	Balan
 Batāpura	3417	7484	611	0
 Batpur	3416	7485	611	0
 Batsapor	3415	7480	611	0
 Batawāra	3406	7485	611	0
-Batān	3380	7405	1	0
+Batān	3380	7405	1	0	Rābatānwāli
 Bhata Kas	3364	7412	1	0
 Bhatidhār	3364	7413	1	0
 Batti Motti	3337	7422	504	0
-Batti Mitti	3337	7422	504	0
+Batti Mitti	3337	7422	504	0	Batti Motti
 Batānwāla	3430	7408	0	0
 Batpur	3449	7409	0	0
 Bathīpur	3425	7455	120	0
@@ -118,14 +118,14 @@ Batāliān	3292	7460	581	0
 Batehra	3285	7474	581	0
 Bātla	3286	7464	581	0
 Batur	3275	7469	581	0
-Bhāta	3320	7410	504	0
+Bhāta	3320	7410	504	0	Phāta
 Bhāta	3320	7423	504	0
 Bhatera	3318	7439	504	0
 Batiār	3322	7445	504	0
 Batala Hīl	3386	7427	1	0
 Bata Chhari	3382	7431	1	0
 Battal	3293	7441	581	0
-Battai	3293	7441	581	0
+Battai	3293	7441	581	0	Battal
 Batla	3293	7487	581	0
 Batan	3299	7489	666	0
 Batwāna	3289	7483	581	0
@@ -134,8 +134,8 @@ Bhatoli Mangotriān	3275	7485	581	0
 Batāl	3280	7496	581	0
 Bhatgaon	2900	7690	485	0
 Chak Bhatiyāri	3257	7493	581	0
-Bhatli	3261	7495	720	0
-Bhatiyāri	3262	7487	581	0
+Bhatli	3261	7495	720	0	Patli
+Bhatiyāri	3262	7487	581	0	Pathīāri
 Batāla	3271	7493	581	0
 Batālik	3466	7634	8	0
 Bāran Bat	3410	7391	301	0
@@ -149,7 +149,7 @@ Bhatpura	3006	7777	783	0
 Bhātu	2960	7733	328	0
 Batwāri ki Dūngariyān	2564	7564	353	0
 Bhātmānān	3118	7705	479	0
-Bathmāna	3118	7705	479	0
+Bathmāna	3118	7705	479	0	Bhātmānān
 Bathālang	3116	7701	628	0
 Batkholu	2994	7871	612	0
 Bhatnyūdāng	2988	7871	612	0
@@ -164,7 +164,7 @@ Bhatīān	3071	7620	674	0
 Bhatton	3056	7621	648	0
 Bāthan	3051	7601	775	0
 Batrohān	3025	7661	691	0
-Bhatt Mājra	3000	7660	501	0
+Bhatt Mājra	3000	7660	501	0	Sarusti Khera
 Batauli	3057	7680	632	0
 Batwāi	3059	7699	587	0
 Bhata	2522	7897	433	0
@@ -172,7 +172,7 @@ Bhatauli	2420	7807	215	0
 Batwāha	2487	7880	481	0
 Pīr Battu	2795	7901	117	0
 Khera Bhāt	2782	7910	616	0
-Nagla Bāt	2718	7925	464	0
+Nagla Bāt	2718	7925	464	0	Nagla Bāl
 Batua	2711	7947	570	0
 Bhatpura	2717	7939	464	0
 Batparao	2703	7925	464	0
@@ -184,8 +184,8 @@ Bhatan Purwa	2721	7979	686	0
 Bhatta	2709	7981	570	0
 Basīrāpur Bhāt	2706	7985	570	0
 Kunwarpur Bhatpur	2675	7914	290	0
-Bhatbur	2675	7914	290	0
-Bhatpur	2675	7914	290	0
+Bhatbur	2675	7914	290	0	Kunwarpur Bhatpur
+Bhatpur	2675	7914	290	0	Kunwarpur Bhatpur
 Batiāpur	2679	7919	290	0
 Bhatpura	2635	7913	741	0
 Bhattāwāla	2676	7559	121	0
@@ -193,7 +193,7 @@ Bhataura	2687	7950	715	0
 Battāha	2687	7952	715	0
 Bat Purwa	2669	7981	671	0
 Bhatgora	2496	7909	481	0
-Bhatte	3249	7476	581	0
+Bhatte	3249	7476	581	0	Bhotte
 Bhātupāra	2643	8998	713	0
 Petla Bhāti	2626	8986	561	0
 Bater	2628	8981	561	0
@@ -560,7 +560,7 @@ Bhatoli	2409	7735	215	0
 Bhatoli	2412	7777	215	0
 Safdarpur Bhatādora	2411	7776	215	0
 Battīsa Nagla	2774	7816	670	0
-Bhāt ka Nagla	2752	7802	670	0
+Bhāt ka Nagla	2752	7802	670	0	Nagla Motīrāi
 Bhatela	2751	7801	670	0
 Bhatīkra	2778	7847	670	0
 Bhatpura	2769	7827	670	0
@@ -615,7 +615,7 @@ Bhatwāri	2280	7796	590	0
 Batkui	2260	7795	590	0
 Dāwar Bhāt	2555	7823	436	0
 Bhatsa	2543	8340	724	0
-Bhatauli	2550	8345	26	0
+Bhatauli	2550	8345	26	0	Bīrāpah
 Bhatdewa	2426	7971	521	0
 Bhatiya	2407	7951	521	0
 Bhatpura	2219	7704	465	0
@@ -644,7 +644,7 @@ Bhāt	2456	7985	663	0
 Bhatauli	2526	8366	749	0
 Bhatauni	2528	8356	749	0
 Bhattu	2182	7711	209	0
-Bātla Khurd	2186	7718	462	0
+Bātla Khurd	2186	7718	462	0	Kāvdi
 Bātla Kalān	2171	7703	462	0
 Batki	2175	7718	462	0
 Bhatbhuri	2180	7736	462	0
@@ -822,7 +822,7 @@ Bathera	2848	7669	609	0
 Bhatpurwa	2620	8089	681	0
 Purwa Bhatran	2623	8098	681	0
 Bhatauli	2956	7839	575	0
-Bhatpura	2932	7848	575	0
+Bhatpura	2932	7848	575	0	Allāhdīnpur
 Bhatiāna Khushhālpur	2928	7844	575	0
 Batāsi	2475	8245	201	0
 Bhatpurwa Khurd	2787	8107	323	0
@@ -926,7 +926,7 @@ Bhatpurwa	2731	8199	542	0
 Bhati Purwa	2742	8179	294	0
 Bhātegaon	1962	7747	140	0
 Bhatūmba	1990	7761	67	0
-Bhatpura	2892	7858	483	0
+Bhatpura	2892	7858	483	0	Akbarpur
 Milak Bhatauli	2882	7875	511	0
 Bhatauli	2890	7873	511	0
 Bhatauli	2890	7874	511	0
@@ -934,7 +934,7 @@ Bathui Āka	2806	7980	470	0
 Bhatpura	2802	7980	470	0
 Bhatpura Misr	2816	7991	470	0
 Bataua	2872	7863	646	0
-Mazra Bataua	2873	7864	646	0
+Mazra Bataua	2873	7864	646	0	Tātārpur
 Manīpur Bhatehri	2595	8130	681	0
 Bhatpura	2575	8137	651	0
 Tikaria Bhatt	2597	8149	681	0
@@ -1215,7 +1215,7 @@ Bhatauli Khurd	2659	8365	535	0
 Bhatauli	2661	8365	535	0
 Batulahi	2663	8367	535	0
 Baturhi	2650	8370	535	0
-Baturi	2650	8370	535	0
+Baturi	2650	8370	535	0	Baturhi
 Bhat Purwa	2569	8170	718	0
 Bhat Purwa	2573	8169	718	0
 Bhatauli	2643	8350	535	0
@@ -1261,7 +1261,7 @@ Bhatauli	2624	8389	535	0
 Bhatauliā	2574	8366	26	0
 Batūl Chak	2574	8372	26	0
 Bhatauliā	2568	8371	26	0
-Batpalli	1886	8034	288	0
+Batpalli	1886	8034	288	0	Odāguda
 Bhattiguda	1882	8045	288	0
 Bhattīgudem	1860	8033	237	0
 Batiwōr	3342	7563	34	0
@@ -1391,7 +1391,7 @@ Bhatgaon	2091	8135	668	0
 Bhātāgaon	2084	8129	668	0
 Batrel	2089	8141	286	0
 Bhātāgaon	2095	8139	668	0
-Bater	2024	8129	704	0
+Bater	2024	8129	704	0	Domaharra
 Bhātāpāra	2051	8139	704	0
 Bhati Tolā	2271	8050	480	0
 Bhatheli	2089	8159	652	0
@@ -1568,7 +1568,7 @@ Bhāti	3209	7630	38	0
 Bhāti	3204	7626	38	0
 Bhatehr	3203	7635	38	0
 Bhatkura	2724	8106	507	0
-Batāri	2708	8101	714	0
+Batāri	2708	8101	714	0	Deopurwa
 Bhat Purwa	2706	8114	30	0
 Bhatpurwa	2717	8115	30	0
 Bhathāpur	2717	8115	30	0
@@ -1969,7 +1969,7 @@ Bhatauliā	2670	8418	560	0
 Bhatwa	2634	8406	535	0
 Bhattkheri	2500	7448	417	0
 Bhatpār	2631	8403	535	0
-Bhatpar Rani	2631	8403	535	0
+Bhatpar Rani	2631	8403	535	0	Bhatpār
 Batrauli	2630	8412	535	0
 Bhatwa Pānde	2628	8404	535	0
 Bhatahi Zamin	2628	8412	535	0
@@ -1983,7 +1983,7 @@ Shāhpur Batarha	2643	8421	703	0
 Dūbe Batarha	2643	8422	703	0
 Bansi Batarha	2643	8423	703	0
 Misir Batarha	2644	8421	703	0
-Kushum Bathua	2646	8421	703	0
+Kushum Bathua	2646	8421	703	0	Gular Bāga
 Birsa Bathua	2646	8424	703	0
 Kunar Bhatua	2647	8423	703	0
 Bathua Bazar	2648	8423	703	0
@@ -2010,7 +2010,7 @@ Bhatkot	2969	7992	429	0
 Bhatwa Parasrām	2656	8434	703	0
 Bhātgarh	2973	7992	508	0
 Bhataura	2699	8454	476	0
-Bhatautiā	2686	8463	476	0
+Bhatautiā	2686	8463	476	0	Mathiā
 Mahodipur Tola Bhat	2680	8461	476	0
 Bathnā	2687	8468	476	0
 Bhatwāra	2407	7404	22	0
@@ -2287,7 +2287,7 @@ Bathaura	2562	8783	625	0
 Bhātol	2550	8788	412	0
 Chhota Bhātol	2549	8789	412	0
 Batha	2540	8787	412	0
-Bhātdiha	2483	8705	605	0
+Bhātdiha	2483	8705	605	0	Mahuādih
 Bhātdiha	2476	8702	605	0
 Bhatdiha	2481	8722	592	0
 Bhātkāndar	2456	8753	658	0

@@ -1,13 +1,13 @@
 Kāvali	1492	7999	6	90099
-Kawar	1481	7413	59	77139
+Kawar	1481	7413	59	77139	Karwar
 Kavanur	1300	8008	161	54986
 Kawardha	2201	8123	537	46657
 Kavisuryanagar	1958	8476	440	17430
 Kāveripatnam	1242	7822	223	15006
-Kaveripattinam	1242	7822	223	15006
-Kāverippattanam	1242	7822	223	15006
+Kaveripattinam	1242	7822	223	15006	Kāveripatnam
+Kāverippattanam	1242	7822	223	15006	Kāveripatnam
 Kāveripāk	1291	7946	160	14583
-Kaveripakkam	1291	7946	160	14583
+Kaveripakkam	1291	7946	160	14583	Kāveripāk
 Kavaratti	1057	7264	780	11210
 Khawzawl	2352	9319	11	11022
 Kawānt	2209	7405	126	9553
@@ -15,18 +15,18 @@ Kawāi	2476	7673	506	9487
 Kavundanpālaiyam	1116	7726	235	9192
 Kavundaneri	1157	7798	51	8485
 Kawnpur	2405	9268	526	7732
-N. Kawnpui	2405	9268	526	7732
+N. Kawnpui	2405	9268	526	7732	Kawnpur
 Kawlet	1452	7577	92	6265
-Kawalettu	1452	7577	92	6265
+Kawalettu	1452	7577	92	6265	Kawlet
 Khawāsa	2170	7944	368	3238
 Khawhai	2338	9313	11	2537
 Kawlchaw ?E?	2240	9295	20	1071
-Kawlchaw East	2240	9295	20	1071
+Kawlchaw East	2240	9295	20	1071	Kawlchaw ?E?
 Kavalūr	1529	7594	66	1010
 Rājābhāt Khāwa	2661	8953	752	0
 Muālbu Kawnpui	2233	9271	244	0
-Kavalli	1681	7523	77	0
-Khawāra	3056	7867	500	0
+Kavalli	1681	7523	77	0	Kohalli
+Khawāra	3056	7867	500	0	Khowara
 Khawthlīr	2363	9300	21	0
 Khawruhlian	2387	9288	19	0
 Khawlek	2407	9303	21	0
@@ -35,10 +35,10 @@ Khawdungsei	2398	9321	21	0
 Khawbung	2317	9322	253	0
 Khāwad	2320	7224	164	0
 Khāvda	2384	6973	108	0
-Khawada	2384	6973	108	0
+Khawada	2384	6973	108	0	Khāvda
 Khāvadi Mota	2239	6987	145	0
-Khāvadi	2239	6987	145	0
-Kawta	1881	7737	140	0
+Khāvadi	2239	6987	145	0	Khāvadi Mota
+Kawta	1881	7737	140	0	Kautha
 Kawlkulh	2362	9308	11	0
 Kawihruilian	2426	9281	526	0
 Kāwalgūda	1890	7767	140	0
@@ -47,18 +47,18 @@ Kawā	2698	7607	121	0
 Kāvvūr	969	7886	5	0
 Kavutaram	1633	8108	68	0
 Kāvūru	1614	8012	10	0
-Kavur	1614	8012	10	0
+Kavur	1614	8012	10	0	Kāvūru
 Kavindapadi	1143	7756	211	0
-Kavundapadi	1143	7756	211	0
+Kavundapadi	1143	7756	211	0	Kavindapadi
 Kavtha Mahānkāl	1701	7486	65	0
 Kavlapur	1692	7461	65	0
-Kaviapur	1692	7461	65	0
+Kaviapur	1692	7461	65	0	Kavlapur
 Kaviti	1901	8469	472	0
 Kavitāl	1611	7680	50	0
 Kāvi	2220	7264	151	0
 Kāveripattanam	1113	7986	203	0
 Kavarapettai	1336	8014	228	0
-Kavaraipettai	1336	8014	228	0
+Kavaraipettai	1336	8014	228	0	Kavarapettai
 Kavalandi	1203	7680	74	0
 Kav	1264	7528	55	0
 Kavtha	2073	7837	143	0
@@ -76,7 +76,7 @@ Kawaiyan	2460	7919	663	0
 Kavur	1604	8066	220	0
 Tale Kaveri	1238	7549	193	0
 Khawāi	2783	7145	217	0
-Manathanathu Kavu	1130	7587	262	0
+Manathanathu Kavu	1130	7587	262	0	Manathanathu Temple
 Khawlian	2400	9313	21	0
 Kavitibhadra	1877	8334	199	0
 Kawadi	2651	9077	746	0
@@ -135,7 +135,7 @@ Kavtha Khurd	2001	7817	67	0
 Kavādi	2093	7830	143	0
 Kavtha Jhopri	2072	7837	143	0
 Kavitgaon	2062	7825	143	0
-Kāvre	2055	7832	143	0
+Kāvre	2055	7832	143	0	Hivra
 Kavadghāt	2055	7881	143	0
 Nagla Kawwa	2788	7899	117	0
 Khawa	2755	7891	711	0
@@ -174,7 +174,7 @@ Kavthal	2033	7747	128	0
 Kavtha	2084	7750	172	0
 Kāvsa	2087	7749	133	0
 Kawāldāg	2444	8369	743	0
-Kavtha	2086	7931	141	0
+Kavtha	2086	7931	141	0	Durgāpur
 Tel Kawadsi	2080	7927	141	0
 Kawadsi	2077	7929	141	0
 Kavthāla	2053	7936	111	0
@@ -185,7 +185,7 @@ Chak Kawadāpur	2044	7905	111	0
 Kawarsi	2049	7936	111	0
 Kawatra	2578	8042	463	0
 Terhi Kawari	2525	8030	663	0
-Kawalpur	2419	8394	701	0
+Kawalpur	2419	8394	701	0	Kadhwan
 Kavādigūda	1742	7849	424	0
 Kawalgi	1748	7649	71	0
 Kawāl	1917	7896	91	0
@@ -678,7 +678,7 @@ Kāvanūr	1016	7857	454	0
 Periya Kavundanpatti	979	7801	274	0
 Kāvulpatti	943	7814	119	0
 Kavundanpatti	924	7814	208	0
-Kavarayapatti	995	7836	274	0
+Kavarayapatti	995	7836	274	0	Panangādi
 Kāvadipatti	941	7829	5	0
 Kāvanūr	959	7870	5	0
 Mel Kāvanūr	949	7857	5	0

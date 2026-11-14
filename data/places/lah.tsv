@@ -2,15 +2,15 @@ Lāharpur	2771	8090	507	55911
 Lahār	2619	7894	334	35674
 Lāhauran Bara	3040	7616	564	10218
 Pāl Laharā	2143	8519	414	5749
-Pal-Lahare	2143	8519	414	5749
+Pal-Lahare	2143	8519	414	5749	Pāl Laharā
 Laharijan Natun Bosti	2591	9369	405	2508
-Lahara	2167	7255	151	0
+Lahara	2167	7255	151	0	Luhāra
 Lahsunpāt	2347	8366	341	0
 Lahsora	2583	7642	116	0
 Lahri	3255	7607	362	0
 Lahpatra	2304	8309	725	0
 Lahorighāt Pām	2643	9235	751	0
-Lahorighāt	2643	9235	751	0
+Lahorighāt	2643	9235	751	0	Lahorighāt Pām
 Lāhori	2338	7637	320	0
 Lāhori	1878	7602	33	0
 Lāhli	2885	7645	719	0
@@ -18,10 +18,10 @@ Laheria Sarāi	2612	8590	591	0
 Laher	2571	9261	330	0
 Lahchūrāghāt	2533	7928	433	0
 Lahās	2438	7664	333	0
-Lahas Katan	2438	7664	333	0
-Lahās Kalān	2438	7664	333	0
+Lahas Katan	2438	7664	333	0	Lahās
+Lahās Kalān	2438	7664	333	0	Lahās
 Lahar Khurd	2490	7901	481	0
-Lāhar	2490	7901	481	0
+Lāhar	2490	7901	481	0	Lahar Khurd
 Lahail	2988	7586	593	0
 Kupar Lāhr	3205	7625	38	0
 Jhako Lahri	3221	7554	692	0
@@ -29,12 +29,12 @@ Lahshmipul	2279	8859	450	0
 Lahikot	3431	7418	0	0
 Lahei	3323	7434	504	0
 Lahīl Bela	3381	7431	1	0
-Lahāriya	2569	7569	353	0
+Lahāriya	2569	7569	353	0	Lohāriya
 Lahroda	2810	7611	694	0
 Lahgarh	3064	7682	632	0
 Lahli	3051	7681	632	0
 Lahatwās	2423	7837	352	0
-Lahrain	2458	7888	384	0
+Lahrain	2458	7888	384	0	Lār
 Lahrāpur	2771	7971	470	0
 Lāhorīpura	2691	7917	290	0
 Lahar Kanār	2632	7944	741	0
@@ -47,7 +47,7 @@ Lāhera	2500	7944	663	0
 Lahal	3247	7647	362	0
 Lahunipara	2189	8494	272	0
 Laharwālpur	3441	7459	120	0
-Lahariāwās	2808	7666	482	0
+Lahariāwās	2808	7666	482	0	Rāmpur
 Lahag	3171	7711	278	0
 Lah	3349	7436	504	0
 Lahthro	3133	7721	278	0
@@ -211,10 +211,10 @@ Laharia Dar	2486	8213	201	0
 Laharia Dar	2485	8212	201	0
 Lahās	2490	8273	201	0
 Lāhangpur	2556	8281	32	0
-Lahedpur	2901	7820	483	0
+Lahedpur	2901	7820	483	0	Tājpur
 Lahudda	2901	7822	483	0
-Lāhak Khurd	2962	7826	575	0
-Lāhak Kalān	2962	7826	575	0
+Lāhak Khurd	2962	7826	575	0	Khushālpur
+Lāhak Kalān	2962	7826	575	0	Khushalpur
 Lāhak	2961	7825	575	0
 Lahas	2475	8266	103	0
 Lahsānda	2759	8108	507	0
@@ -323,7 +323,7 @@ Lahag	3239	7592	38	0
 Lāhri	3240	7598	362	0
 Lāhru	3241	7598	362	0
 Lāhori Mal	3161	7468	222	0
-Lahāri Tibba	2901	7688	485	0
+Lahāri Tibba	2901	7688	485	0	Jatmālpur
 Lahbar	2203	8094	537	0
 Lahrka	3174	7510	222	0
 Lahra Bet	3109	7502	566	0
@@ -489,7 +489,7 @@ Lahuri	2617	8470	639	0
 Lāhaurganj	2877	7974	683	0
 Lahbari	2835	7954	342	0
 Lahia	2837	7961	342	0
-Lāhi Khera	2807	7963	470	0
+Lāhi Khera	2807	7963	470	0	Garhi
 Lahna	2565	8420	620	0
 Lahlādpur	2543	8479	604	0
 Lahiārpur	2478	8423	137	0

@@ -1,19 +1,19 @@
 Bidar	1791	7752	170	216020
 Beed	1899	7576	33	146709
-Bid Rural	1899	7576	33	146709
+Bid Rural	1899	7576	33	146709	Beed
 Bīdāsar	2784	7432	539	35683
 Bidhūna	2680	7951	715	27158
-Ashti Bidh	1881	7518	33	11972
+Ashti Bidh	1881	7518	33	11972	Āshti
 Bidadi	1280	7739	626	9917
-Kalegaon Bid	1870	7595	33	0
-Her Bidar	1842	7698	158	0
-Halgira Bidar	1810	7689	158	0
-Dhanasari Bidar	1765	7747	569	0
+Kalegaon Bid	1870	7595	33	0	Kālegaon
+Her Bidar	1842	7698	158	0	Her
+Halgira Bidar	1810	7689	158	0	Halgar
+Dhanasari Bidar	1765	7747	569	0	Dhanāseri
 Bidwāl	2284	7519	130	0
 Bidsāngvi	1889	7521	33	0
 Bidkingaon	1970	7530	113	0
 Bidiyād	2697	7470	430	0
-Bidiād	2697	7470	430	0
+Bidiād	2697	7470	430	0	Bidiyād
 Bīdi	1557	7466	77	0
 Bidhnu	2632	8027	469	0
 Bideipur	2101	8682	734	0
@@ -21,7 +21,7 @@ Bidauli	2958	7712	705	0
 Bidare	1390	7564	346	0
 Bidada	2290	6948	108	0
 Bid	1665	7413	57	0
-Adas Bidh	1878	7623	33	0
+Adas Bidh	1878	7623	33	0	Ādas
 Bidhlān	2895	7687	485	0
 Bidhauli	3041	7797	448	0
 Bidās	3040	7797	448	0
@@ -30,12 +30,12 @@ Nagla Bidra	2722	7931	464	0
 Bidhuna	2689	7909	290	0
 Tājpur Bidhūna	2682	7954	715	0
 Bidnoi	2865	7572	431	0
-Bidnol	2865	7572	431	0
+Bidnol	2865	7572	431	0	Bidnoi
 Bidyardābri	2626	8979	561	0
 Bidasaria	2786	7384	307	0
 Bhidana	2528	7190	285	0
 Bidarūr	1417	7481	346	0
-Bidarūl	1417	7481	346	0
+Bidarūl	1417	7481	346	0	Bidarūr
 Biderakere	1443	7630	275	0
 Beniagram balika Bidyalaya	2477	8792	471	0
 Bidyutprava	2081	8693	734	0
@@ -173,7 +173,7 @@ Bīdhal	2907	7682	485	0
 Bidhipur	3130	7520	565	0
 Bidhipur	3193	7531	487	0
 Bidiadih	2182	8236	291	0
-Bidhi Saiyamān	2702	8073	714	0
+Bidhi Saiyamān	2702	8073	714	0	Bhanwār
 Bidārganj	2746	8089	507	0
 Bidot	3288	7601	362	0
 Bidiāli	3285	7609	362	0

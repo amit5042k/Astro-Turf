@@ -1,22 +1,22 @@
 Nāngloi Jāt	2868	7707	771	205596
 Jatani	2016	8571	541	63697
-Jātni	2016	8571	541	63697
+Jātni	2016	8571	541	63697	Jatani
 Jatāra	2501	7905	481	17499
-Jatpurwa	2727	8084	507	2292
+Jatpurwa	2727	8084	507	2292	Ahmadpurjat
 Lohāri Jātu	2891	7608	431	0
 Kingaon Jatu	1997	7635	49	0
 Jhatingri	3195	7688	278	0
-Jhatingr	3195	7688	278	0
+Jhatingr	3195	7688	278	0	Jhatingri
 Jatwāra	2688	7620	121	0
 Jatwār	3045	7693	691	0
 Jātūsāna	2833	7654	519	0
 Jatpura	2906	7883	511	0
 Jatkanhār	2118	8082	474	0
-Jathwāra	2583	8177	718	0
+Jathwāra	2583	8177	718	0	Jethwāra
 Jath	1705	7522	65	0
 Jatawada	2383	7071	108	0
 Jatār Deul	2199	8849	4	0
-Jatar Duel	2199	8849	4	0
+Jatar Duel	2199	8849	4	0	Jatār Deul
 Jāt	2485	7494	655	0
 Jhattīāli	3334	7421	504	0
 Jatot	3332	7423	504	0
@@ -24,9 +24,9 @@ Jāta	3325	7443	504	0
 Kheri Jātān	2993	7697	457	0
 Chak Bhāna Jattān	3256	7493	581	0
 Chumbīān Jattān	3260	7487	581	0
-Jhumbiyān Jattān	3260	7487	581	0
+Jhumbiyān Jattān	3260	7487	581	0	Chumbīān Jattān
 Jatowala	3038	7777	448	0
-Jātonwāla	3038	7777	448	0
+Jātonwāla	3038	7777	448	0	Jatowala
 Garhi Jātān	2992	7704	457	0
 Sahanspur Jāt	2988	7722	449	0
 Bībīpur Jātān	2983	7704	457	0
@@ -36,8 +36,8 @@ Jhatri	2986	7859	612	0
 Lāmba Jātān	2666	7386	430	0
 Jātāwās	2820	7548	300	0
 Kheri Jattān	3051	7688	632	0
-Jattān	3013	7686	501	0
-Jattān	3010	7685	501	0
+Jattān	3013	7686	501	0	Khānpur
+Jattān	3010	7685	501	0	Chironi
 Jatowa	2468	7889	481	0
 Jataūa	2453	7888	384	0
 Jhatauli	2789	7947	470	0
@@ -129,7 +129,7 @@ Khānpur Jātān	2956	7720	328	0
 Jatia Kheri	2984	7743	449	0
 Siknauda Jat	2671	7699	447	0
 Jatpura	2602	7693	335	0
-Jatān	2949	7727	328	0
+Jatān	2949	7727	328	0	Nayāgaon
 Barla Jāt	2942	7735	328	0
 Bhanera Jāt	2943	7743	328	0
 Jataula	2906	7747	700	0
@@ -184,7 +184,7 @@ Khanūn Jat	2938	7850	575	0
 Jatpura	2926	7869	575	0
 Pipaliā Jat	2891	7917	552	0
 Jatpura	2892	7910	552	0
-Sainaiyā Jat	2883	7910	552	0
+Sainaiyā Jat	2883	7910	552	0	Dharampur
 Jatpura	2880	7911	552	0
 Jatāmali	2443	7633	333	0
 Jatāwa	2436	7675	333	0
@@ -218,14 +218,14 @@ Chhanna Jattān	3015	7643	731	0
 Salempur Jattān	3020	7642	638	0
 Dhareri Jattān	3040	7650	564	0
 Malakpur Jattān	3030	7658	564	0
-Jattān	3046	7689	632	0
-Jattān	3044	7691	691	0
+Jattān	3046	7689	632	0	Barāna
+Jattān	3044	7691	691	0	Khera
 Nāngal Jāt	2794	7728	754	0
 Jātauli	2799	7749	754	0
 Jatbās	2751	7716	114	0
 Jātoli	2753	7715	114	0
 Jātoli	2763	7716	114	0
-Jāton ka Bās	2762	7723	114	0
+Jāton ka Bās	2762	7723	114	0	Nagla Gopīnāth
 Jateri	2751	7720	114	0
 Jatwāri	2778	7757	177	0
 Nagla Jatwāri	2778	7765	177	0
@@ -379,7 +379,7 @@ Jatpura	2955	7838	575	0
 Jat Nagla	2950	7837	575	0
 Alīpur Jat	2948	7837	575	0
 Maheshwari Jat	2943	7831	575	0
-Jatīpur	2938	7846	575	0
+Jatīpur	2938	7846	575	0	Kalyānpur
 Kheri Jat	2937	7839	575	0
 Gangori Jat	2936	7828	575	0
 Hasanpur Jat	2936	7826	575	0
@@ -426,7 +426,7 @@ Jathaura	2819	7985	470	0
 Bāzpūr Zamīma Jatpura	2802	7998	470	0
 Jatpura	2857	7873	511	0
 Mirza Jattupur	2602	8117	681	0
-Jatnāmau	2612	8111	681	0
+Jatnāmau	2612	8111	681	0	Bhagautipur
 Jatki	2812	7865	117	0
 Milak Nagalīa Jāt	2863	7882	511	0
 Nagalīa Jāt	2864	7882	511	0
@@ -536,7 +536,7 @@ Jatlāhr	3184	7634	38	0
 Jathmān	3184	7626	38	0
 Jatehr	3182	7630	38	0
 Jatoli	3177	7630	38	0
-Jattān	3063	7653	648	0
+Jattān	3063	7653	648	0	Manhera
 Jatesara	2111	8286	497	0
 Jātākanhār	2117	8292	407	0
 Jathia	3109	7709	479	0
@@ -548,7 +548,7 @@ Jhatwāri	3120	7781	479	0
 Jatār	3100	7783	448	0
 Jatāra	3096	7767	479	0
 Jatro	2362	8366	341	0
-Jatwāla	3023	7761	449	0
+Jatwāla	3023	7761	449	0	Sherullāhpur
 Jhanderī Jatān	2924	7779	545	0
 Jataula	2824	7732	754	0
 Nagla Jāt	2803	7747	754	0
@@ -556,7 +556,7 @@ Jatri	2177	8327	439	0
 Jatiapāli	2150	8333	635	0
 Jatola	2898	7800	700	0
 Jatpūra	2841	7818	637	0
-Dungra Jāt	2839	7814	637	0
+Dungra Jāt	2839	7814	637	0	Khāliqābād
 Jatwāi	2839	7807	637	0
 Jalālpur Jāt	2830	7824	637	0
 Nagla Jātan	2820	7814	637	0
@@ -600,7 +600,7 @@ Jatkua	2424	7406	22	0
 Jātonwāli ki Dhāni	2716	7585	121	0
 Jātonwāli	2717	7586	121	0
 Jatāshankar	2263	7637	322	0
-Jatpura	2850	7926	342	0
+Jatpura	2850	7926	342	0	Mughalpur
 Jataūa	2856	7943	342	0
 Muhammadpur Jātān	2857	7947	342	0
 Jatau Patti	2850	7949	342	0
@@ -708,7 +708,7 @@ Jatoi	2139	8539	293	0
 Jathoma	2196	8593	382	0
 Jhatiāri	2181	8591	382	0
 Jhatiālisāi	2185	8598	382	0
-Jhatihāri	2185	8598	382	0
+Jhatihāri	2185	8598	382	0	Jhatiālisāi
 Jātrābarpatnā	2000	8503	548	0
 Jhātibāhāli	2089	8532	289	0
 Jathā	2438	8587	452	0

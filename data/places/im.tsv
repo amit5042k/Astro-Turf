@@ -1,11 +1,11 @@
 Imphal	2481	9394	96	277196
 Mayāng Imphāl	2461	9389	416	24239
-Pasch im Nāokōta	2665	9172	608	0
+Pasch im Nāokōta	2665	9172	608	0	Nāokāta
 Imlota	2862	7645	781	0
 Imliā	2602	7723	335	0
 Imlāni	2401	7773	215	0
 Imla Khās	2618	8350	586	0
-Imla	2618	8350	586	0
+Imla	2618	8350	586	0	Imla Khās
 Imāmganj	2445	8459	118	0
 Bāgh-i-Mahānand	3427	7477	595	0
 Hora Improvi	3375	7408	1	0
@@ -20,7 +20,7 @@ Imāmuddīnnagar	2777	7902	616	0
 Īmādpur	2794	7925	117	0
 Imalia Purwa	2700	7994	570	0
 Imratpur	2682	7907	290	0
-Imilia	2649	7922	290	0
+Imilia	2649	7922	290	0	Emilia
 Imlia	2571	7902	433	0
 Imlauta	2541	7931	433	0
 Imlia	2528	7943	614	0
@@ -50,7 +50,7 @@ Imarti	2215	7856	337	0
 Imalia	2298	7882	522	0
 Imjhiri	2297	7895	522	0
 Imalia	2285	7893	522	0
-Imliya	2205	7898	337	0
+Imliya	2205	7898	337	0	Bohra
 Imlikhera	2196	7867	337	0
 Imlīkhera	2200	7894	337	0
 Nagla Imād	2978	7784	596	0
@@ -65,7 +65,7 @@ Imādpur	2860	7789	637	0
 Imliya	2692	7725	114	0
 Imlia	2640	7789	478	0
 Imāmgarh	3015	7619	564	0
-Imānullāhpur	2779	7780	177	0
+Imānullāhpur	2779	7780	177	0	Mahmūdgarhi
 Nagla Īmāmkhān	2769	7735	177	0
 Imratpur	2785	7725	544	0
 Imlāri	2754	7710	114	0
@@ -163,7 +163,7 @@ Imlī Khera	2544	7977	614	0
 Imiliyā	2541	7985	614	0
 Imlia	2472	7926	481	0
 Imādpur	2600	8276	498	0
-Imām Ali	2598	8285	498	0
+Imām Ali	2598	8285	498	0	Belāhri
 Imalia	2655	7801	478	0
 Imaliya	2358	7778	215	0
 Imaliya	2360	7785	215	0
@@ -188,7 +188,7 @@ Imaratīpurwa	2495	7985	663	0
 Imiliya	2487	7978	663	0
 Imilia	2513	8333	724	0
 Imlia	2585	7873	503	0
-Imlīdhāna	2201	7779	462	0
+Imlīdhāna	2201	7779	462	0	Naharpur
 Imlia	2569	7858	503	0
 Imlia Dīh	2588	8357	586	0
 Imāmuddīnpur	2577	8364	26	0

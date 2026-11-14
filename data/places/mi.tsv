@@ -1,21 +1,21 @@
 Meerut	2898	7771	700	1223184
-Meerut City	2898	7771	700	1223184
-Mira-Bhayandar	1930	7285	246	809378
+Meerut City	2898	7771	700	1223184	Meerut
+Mira-Bhayandar	1930	7285	246	809378	Bhayandar
 Mirzāpur	2514	8257	201	220029
-Mirzapur-cum-Vindhyachal	2514	8257	201	220029
-Mirzarpur	2514	8257	201	220029
-Midnapore	2242	8732	677	153349
-Midnapur	2242	8732	677	153349
+Mirzapur-cum-Vindhyachal	2514	8257	201	220029	Mirzāpur
+Mirzarpur	2514	8257	201	220029	Mirzāpur
+Midnapore	2242	8732	677	153349	Medinīpur
+Midnapur	2242	8732	677	153349	Medinīpur
 Miryalaguda	1687	7956	101	104918
-Miryalguda	1687	7956	101	104918
-Miriyalguda	1687	7956	101	104918
-Miriālgūda	1687	7956	101	104918
+Miryalguda	1687	7956	101	104918	Miryalaguda
+Miriyalguda	1687	7956	101	104918	Miryalaguda
+Miriālgūda	1687	7956	101	104918	Miryalaguda
 Mīthepur	2850	7732	419	69837
 Milavittan	882	7809	208	45863
-Mihijan	2386	8690	642	45305
-Mihijām	2386	8690	642	45305
-Mīrānpur Akbarpur	2643	8253	553	36865
-Mosaboni Mines	2251	8646	584	32761
+Mihijan	2386	8690	642	45305	Chittaranjan
+Mihijām	2386	8690	642	45305	Chittaranjan
+Mīrānpur Akbarpur	2643	8253	553	36865	Akbarpur
+Mosaboni Mines	2251	8646	584	32761	Mushābani
 Meerpet	1732	7853	62	32013
 Mīnād	885	7670	549	29716
 Mīrānpur Katra	2803	7967	470	29626
@@ -37,7 +37,7 @@ Minnampalli	1100	7812	445	9031
 Midalam	822	7726	453	8625
 Milattūr	1086	7924	264	8131
 Mīnākshipuram	999	7737	194	7846
-B. Meenakshipuram	999	7737	194	7846
+B. Meenakshipuram	999	7737	194	7846	Mīnākshipuram
 Mirjhapar	2322	6963	108	7109
 Mitrāon	2861	7695	763	6512
 Mīnākshināyakkanpatti	1038	7796	187	6182
@@ -45,20 +45,20 @@ Minalur	1062	7622	241	6120
 Mīrpur	3061	7685	632	5967
 Mirchi	2556	8521	604	5938
 Miāo	2749	9618	73	5841
-Mirza Pahar	2612	9154	636	4925
+Mirza Pahar	2612	9154	636	4925	Palāsbāri
 Mircha	2555	8522	604	1816
 Mithra	3112	7565	369	1579
 Alok Mishra	2642	8037	469	30
-Mission Vadala	1943	7491	152	0
+Mission Vadala	1943	7491	152	0	Vadala Bhairoba
 Thaska Mīrānji Sāhib	3011	7669	501	0
-Thaska Mīrānji	3011	7669	501	0
-Mimsar	2735	8049	507	0
-Mīājlār	2625	7038	217	0
+Thaska Mīrānji	3011	7669	501	0	Thaska Mīrānji Sāhib
+Mimsar	2735	8049	507	0	Naimishāranya
+Mīājlār	2625	7038	217	0	Myājlār
 Mingsaria	2790	7415	307	0
 Miyāni	2184	6938	742	0
-Miāni	2184	6938	742	0
+Miāni	2184	6938	742	0	Miyāni
 Miyāgām	2203	7309	159	0
-Miagam	2203	7309	159	0
+Miagam	2203	7309	159	0	Miyāgām
 Mittemari	1369	7787	438	0
 Mittātukūru	1425	7980	45	0
 Mitivirdi	2148	7225	168	0
@@ -81,22 +81,22 @@ Mirza Murād	2529	8278	251	0
 Miryān	1736	7750	71	0
 Mirya	1703	7327	234	0
 Mirthal	3212	7562	692	0
-Mirthai	3212	7562	692	0
-Mīrpur	2464	7324	22	0
+Mirthai	3212	7562	692	0	Mirthal
+Mīrpur	2464	7324	22	0	Merpur
 Mīron	2620	7538	313	0
 Mīrmau	2669	8167	629	0
 Mirle	1254	7633	74	0
 Mirjān	1449	7443	59	0
-Mirian	1449	7443	59	0
+Mirian	1449	7443	59	0	Mirjān
 Miri	1929	7497	152	0
 Mire	1927	7288	246	0
 Mirchādhorhi	2430	8278	103	0
-Mirchaduri	2430	8278	103	0
+Mirchaduri	2430	8278	103	0	Mirchādhorhi
 Mīrān	2884	7573	431	0
 Miran	2769	7487	491	0
 Mirajgaon	1873	7503	152	0
 Miraj	1682	7465	65	0
-Miraj Senior	1682	7465	65	0
+Miraj Senior	1682	7465	65	0	Miraj
 Miragwās	2432	7692	336	0
 Mipi	2894	9582	427	0
 Minzong	2789	9691	122	0
@@ -111,12 +111,12 @@ Milakpur	2755	7687	482	0
 Mīkīrgaon	2623	9276	656	0
 Mījuru	1377	8008	45	0
 Mijika	2681	9315	302	0
-Mijik	2681	9315	302	0
+Mijik	2681	9315	302	0	Mijika
 Mihīnpurwa	2802	8138	294	0
 Miging	2885	9477	392	0
-Mi-chin	2885	9477	392	0
+Mi-chin	2885	9477	392	0	Miging
 Midutūru	1577	7829	232	0
-Midutur	1577	7829	232	0
+Midutur	1577	7829	232	0	Midutūru
 Midigesi	1383	7720	93	0
 Midda	3029	7435	615	0
 Miānwāli	2980	7386	374	0
@@ -125,7 +125,7 @@ Miāni	3171	7557	296	0
 Miānī	3059	7805	500	0
 Miāna	2484	7747	336	0
 Miāl	2462	7175	134	0
-Mirikote	1971	8428	440	0
+Mirikote	1971	8428	440	0	Merikot
 Kasba Mirgoda	2172	8748	559	0
 Chutiyā Mīrigaon	2756	9474	299	0
 Mitharia	2895	7392	307	0
@@ -135,13 +135,13 @@ Mithākhāli	2232	8880	4	0
 Mindi	3402	7420	673	0
 Mīnmargi	3441	7483	120	0
 Mirāpur	3415	7477	611	0
-MItti	3337	7422	504	0
-Batti Mitti	3337	7422	504	0
+MItti	3337	7422	504	0	Batti Motti
+Batti Mitti	3337	7422	504	0	Batti Motti
 Chhati Miāri	3333	7424	504	0
-Chhoti Miāri	3333	7424	504	0
+Chhoti Miāri	3333	7424	504	0	Chhati Miāri
 Mitthi Dhara	3334	7417	504	0
 Miāri	3332	7424	504	0
-Miāri Manlolān	3332	7424	504	0
+Miāri Manlolān	3332	7424	504	0	Miāri
 Mīragund	3413	7467	301	0
 Mīragund	3410	7451	301	0
 Mirapur	3404	7462	76	0
@@ -152,7 +152,7 @@ Misāl	3287	7451	581	0
 Mīnka	3305	7434	504	0
 Mīār	3320	7442	504	0
 Mitra	3283	7449	581	0
-Mitrāl	3283	7449	581	0
+Mitrāl	3283	7449	581	0	Mitra
 Chak Subhān Mīr	3462	7507	547	0
 Chak Subhān Mīr	3461	7506	120	0
 Sikandar Mīr	3461	7506	547	0
@@ -160,15 +160,15 @@ Mihāri	3295	7487	581	0
 Misrīāla	3281	7477	581	0
 Alūna Mīāna	3068	7606	674	0
 Kotli Mien di	3258	7481	581	0
-Kotli Miyān	3258	7481	581	0
+Kotli Miyān	3258	7481	581	0	Kotli Mien di
 Mien Chak	3260	7493	581	0
-Chak Miān Sāhib Singh	3260	7493	581	0
+Chak Miān Sāhib Singh	3260	7493	581	0	Mien Chak
 Mihīn Chārkān	3265	7497	720	0
 Dhīnde Minor	3262	7483	581	0
 Mīān di Kotle	3263	7483	581	0
-Kotli Miyān Fatta	3263	7483	581	0
+Kotli Miyān Fatta	3263	7483	581	0	Mīān di Kotle
 Mihīn Chārkan	3264	7495	720	0
-Mihīn Sarkār	3264	7495	720	0
+Mihīn Sarkār	3264	7495	720	0	Mihīn Chārkan
 Gura Mīān	3274	7485	581	0
 Mithīn	3275	7492	581	0
 Mīnjra	3450	7394	0	0
@@ -179,7 +179,7 @@ Mirzāpur	3013	7779	449	0
 Tānda Misri	3011	7782	449	0
 Mīrpur	3007	7778	783	0
 Mitragarh	2973	7742	449	0
-Mīrnagar	2598	7573	313	0
+Mīrnagar	2598	7573	313	0	Rāmnagar
 Miyān	3116	7702	628	0
 Mirāmpur	1713	7811	62	0
 Mīr Khānpet	1705	7857	62	0
@@ -190,12 +190,12 @@ Minakshi Ammanpet	1311	8029	204	0
 Tukda Miyāni	2179	6943	742	0
 Mithoi	2232	6977	145	0
 Mira Road	1928	7287	246	0
-Mira Road, Thane	1928	7287	246	0
+Mira Road, Thane	1928	7287	246	0	Mira Road
 Mico Layout(Near Shilpa Kala Mantapa)	1291	7760	43	0
 Binny Mills	1297	7757	43	0
 Mikhāla	2871	7512	539	0
 Miyon ka Bās	2829	7533	300	0
-Mīya ka Bās	2829	7533	300	0
+Mīya ka Bās	2829	7533	300	0	Miyon ka Bās
 Mila ki Dhāni	2811	7544	300	0
 Mīlan ki Dhāni	2806	7544	300	0
 Misarpura	2801	7543	300	0
@@ -203,7 +203,7 @@ Mithi ki Dhāni	2893	7559	431	0
 Dhāni Mīrān	2887	7570	431	0
 Mirchāwās	2821	7575	300	0
 Mila ki Dhāni	2807	7562	300	0
-Mīrampura	2807	7557	300	0
+Mīrampura	2807	7557	300	0	Mahrampura
 Mithrīya	2750	7279	344	0
 Miyākor	2756	7284	307	0
 Miānpur	3060	7617	648	0
@@ -247,7 +247,7 @@ Milkia	2685	7915	290	0
 Milkia	2679	7916	290	0
 Nagla Mihīnlāl	2678	7915	290	0
 Mirzāpur	2640	7911	741	0
-Mirzapura	2640	7911	741	0
+Mirzapura	2640	7911	741	0	Mirzāpur
 Mihauna Amota	2637	7921	741	0
 Mihoni	2630	7918	741	0
 Mīnawāli Dhāni	2692	7572	121	0
@@ -288,7 +288,7 @@ Midawali	2462	7918	481	0
 Mituani	2094	8632	734	0
 Mirzapur	2286	8880	450	0
 Minidob	3445	7459	120	0
-Kheri Miran Shāhi	2942	7670	367	0
+Kheri Miran Shāhi	2942	7670	367	0	Todi Kheri
 Mirzāpur Kheri	2907	7663	485	0
 Mikash ki Dhāni	2800	7663	482	0
 Mīrpur	2825	7669	519	0
@@ -302,7 +302,7 @@ Mīthiāwās	2808	7684	482	0
 Milakpur Turk	2806	7689	482	0
 Mirpur Khurd	2972	7527	709	0
 Mīrpur Kalān	2971	7529	709	0
-Mithli	2917	7514	486	0
+Mithli	2917	7514	486	0	Chak Bhojasar
 Dhāni Miān Khānwāli	2944	7549	443	0
 Mingnīkhera	2918	7557	339	0
 Dhāni Mīrdād	2931	7591	339	0
@@ -326,7 +326,7 @@ Miniyānwāla	3032	7461	615	0
 Mithri Budhgir	3004	7468	615	0
 Khera Miānwāla	3095	7480	566	0
 Nāju Shāh Misri	3095	7475	566	0
-Misrīwāla	3095	7475	566	0
+Misrīwāla	3095	7475	566	0	Nāju Shāh Misri
 Misrīwāla	3087	7476	566	0
 Mirzeke	3082	7481	566	0
 Mihān Singhwāla	3100	7490	566	0
@@ -384,7 +384,7 @@ Milgad	3053	7800	500	0
 Mirzāpura	2651	7631	708	0
 Dawānchli Mīna	2651	7644	708	0
 Mīrpur Khurd	2945	7801	545	0
-Mirzāpur Mahesh	2942	7824	575	0
+Mirzāpur Mahesh	2942	7824	575	0	Bānkpur
 Mīrpur	2938	7823	575	0
 Mīrpur	2934	7564	339	0
 Mīthwās	2803	7516	300	0
@@ -413,7 +413,7 @@ Milakpura	2636	7664	116	0
 Mirzāpur	2350	7890	352	0
 Milkīpura	2695	7685	447	0
 Mirzāpur	2690	7685	447	0
-Mirgāin	2964	7706	457	0
+Mirgāin	2964	7706	457	0	Nagla Farm
 Miān Kasba	2959	7713	328	0
 Mīrpur	2992	7726	449	0
 Mīrampur	2983	7733	449	0
@@ -429,7 +429,7 @@ Mindkāli	2924	7745	545	0
 Mimlāna	2950	7767	545	0
 Mīdpur	2954	7773	545	0
 Miragpur	2969	7775	449	0
-Mītha Borna	2273	7811	590	0
+Mītha Borna	2273	7811	590	0	Tāgra Borna
 Midhwāni	2291	7868	522	0
 Mītākota	2255	7862	337	0
 Khāpa Mitthekhān	2211	7896	337	0
@@ -438,7 +438,7 @@ Mirjāpur	2081	7813	133	0
 Mitnāpur	2061	7813	67	0
 Mitnāpur	2055	7819	67	0
 Mila	3130	7800	479	0
-Chak Mirzāpur	2907	7754	700	0
+Chak Mirzāpur	2907	7754	700	0	Damgarhi
 Mīrpur	2905	7752	700	0
 Milak	2914	7765	700	0
 Misriwāla	3074	7484	730	0
@@ -449,7 +449,7 @@ Mitarwāra	2433	7311	212	0
 Mithri	2985	7483	585	0
 Midu Khera	2996	7459	615	0
 Mithanpur	2941	7465	585	0
-Mītha Surera	2942	7470	585	0
+Mītha Surera	2942	7470	585	0	Surera Kalān
 Mīthod	2550	7653	371	0
 Mithepura	2566	7668	335	0
 Diālpura Mirza	3040	7513	563	0
@@ -474,7 +474,7 @@ Miānwāl	3097	7599	674	0
 Chār Minār	2855	7721	778	0
 Mirkhera	2874	7726	727	0
 Mīrpur	2872	7726	791	0
-Mithepur	2865	7740	727	0
+Mithepur	2865	7740	727	0	Shāhābād
 Mirzāpur	2865	7741	727	0
 Milk Lachhi	2859	7747	588	0
 Milk Chamra	2860	7745	588	0
@@ -494,7 +494,7 @@ Milak	2852	7764	588	0
 Milak	2830	7755	588	0
 Mirzāpur	2829	7757	588	0
 Milak	2834	7759	588	0
-Miāna	2841	7759	588	0
+Miāna	2841	7759	588	0	Amīnābād
 Pandori Mindomind	3155	7582	296	0
 Mirzāpur	3159	7582	296	0
 Mithewāl	3160	7585	296	0
@@ -516,9 +516,9 @@ Miru	3154	7815	83	0
 Miyānwāla Uparla	3027	7810	448	0
 Miyānwāla Tarla	3027	7809	448	0
 Mithūpur	2948	7852	575	0
-Mirza Alīpur	2943	7855	575	0
+Mirza Alīpur	2943	7855	575	0	Bhojāwāla
 Milak	2934	7851	575	0
-Mirzāpur Palla	2928	7850	575	0
+Mirzāpur Palla	2928	7850	575	0	Pallāwāla
 Mirza Ālīpur	2926	7860	575	0
 Mirzāpur	2929	7859	575	0
 Miān Bhaipur	2943	7860	575	0
@@ -561,7 +561,7 @@ Miyāna	2823	7763	588	0
 Milk Karīmābad	2818	7767	588	0
 Mīrpur Dhaura	2807	7775	543	0
 Mīrpur Khudīala	2862	7777	756	0
-Mithepur	2857	7779	637	0
+Mithepur	2857	7779	637	0	Makhdumnagar
 Mīrpur	2854	7786	637	0
 Mīrpur Kalān	2865	7782	756	0
 Mikhola	2714	8835	85	0
@@ -604,9 +604,9 @@ Mirchpur	2931	7618	339	0
 Milak Muhsingarh	2841	7789	637	0
 Mīrpur	2839	7788	637	0
 Mirzāpur	2839	7789	637	0
-Mirzāpur	2825	7790	637	0
+Mirzāpur	2825	7790	637	0	Lakhāoti
 Mīrpur	2842	7798	637	0
-Mirzāpur	2842	7795	637	0
+Mirzāpur	2842	7795	637	0	Agarpur
 Milk Makhanpur	2844	7795	637	0
 Marhi Mīrpur	2807	7775	543	0
 Mīrpur	2820	7788	637	0
@@ -631,7 +631,7 @@ Minminia	2188	8101	537	0
 Mīthāpur	1910	7705	153	0
 Pimpalgaon Mishri	1911	7739	140	0
 Mirzāpur	1914	7796	360	0
-Mirzāpur	1852	7760	408	0
+Mirzāpur	1852	7760	408	0	Salābatpur
 Minki	1869	7766	140	0
 Mishankalāli	1843	7771	58	0
 Mirzāpur	1862	7780	75	0
@@ -690,7 +690,7 @@ Mirzāpur Siya	2796	7807	543	0
 Mirjāpur	1695	7766	283	0
 Mīnkunta Tānda	1675	7769	283	0
 Nagla Miya	2713	7881	464	0
-Milk	2708	7881	464	0
+Milk	2708	7881	464	0	Aima Hasannagar
 Nagla Milak	2703	7885	464	0
 Nagla Mīr	2700	7888	464	0
 Nagla Milk	2701	7882	464	0
@@ -729,7 +729,7 @@ Nagla Mitgar	2740	7908	464	0
 Nagla Misar	2740	7909	464	0
 Mirzāpur	2726	7909	464	0
 Nagla Milak	2733	7915	464	0
-Mihan	2107	7906	141	0
+Mihan	2107	7906	141	0	Chīnchbhuwan
 Empress Mill Colony	2117	7909	141	0
 Milkiya	2746	7934	688	0
 Milkiya	2744	7925	711	0
@@ -784,7 +784,7 @@ Mitauji Khurd	2528	7750	436	0
 Mitauji Kalān	2527	7751	436	0
 Mīnāpura	2477	7712	336	0
 Mīrpur	2439	7718	336	0
-Mīna	2412	7704	336	0
+Mīna	2412	7704	336	0	Bhānpura
 Mirzāpur	2452	7734	336	0
 Mitepura	2457	7732	336	0
 Mīrzāpur	2445	7730	336	0
@@ -857,14 +857,14 @@ Mīrpur	2571	8110	728	0
 Miyānmāni ke Purwa	2572	8112	728	0
 Mirzāpur	2247	7682	322	0
 Mirzāpur Jawai	2559	8124	651	0
-Minātara	2553	8108	728	0
+Minātara	2553	8108	728	0	Kharkhar
 Mirzāpur	2245	7681	322	0
 Mināwān	2220	7679	209	0
 Sarwa Misirpur	2570	8212	718	0
 Surwa Misirpur	2569	8212	718	0
 Mīrakpur	2561	8202	607	0
 Mīrpur	2558	8223	607	0
-Mishrāpur	2558	8210	607	0
+Mishrāpur	2558	8210	607	0	Etmādpur
 Mirzāpur	2556	8218	607	0
 Miyānpatti	2551	8209	607	0
 Mirtelā	2526	7984	614	0
@@ -889,7 +889,7 @@ Mitāoli	2687	7844	546	0
 Milak	2693	7842	546	0
 Milkopur	2538	8309	251	0
 Miharkha	2534	8318	724	0
-Misirpur	2526	8322	724	0
+Misirpur	2526	8322	724	0	Bhikhārīpur
 Misirpura	2541	8317	251	0
 Miragpura	2659	7867	334	0
 Mishrān ka Pura	2659	7863	334	0
@@ -948,9 +948,9 @@ Misraulia	2523	8379	749	0
 Misraulia	2517	8395	409	0
 Misraulia	2501	8386	409	0
 Mirjāpur	2106	7712	172	0
-Mirzāpur	2109	7722	133	0
+Mirzāpur	2109	7722	133	0	Hingni
 Mirzāpur Elori	2106	7754	133	0
-Mitzāpur	2123	7777	133	0
+Mitzāpur	2123	7777	133	0	Nazarpur
 Mirzāpur	2070	7727	172	0
 Hingni Mirzāpur	2086	7730	133	0
 Mirchītola	2153	7971	404	0
@@ -986,7 +986,7 @@ Mittikellur	1605	7654	50	0
 Misraulia	2448	8378	743	0
 Misīr Bigha	2440	8384	743	0
 Mirzāpur	2397	7809	215	0
-Midwāsan	2374	7805	215	0
+Midwāsan	2374	7805	215	0	Vidaywāra
 Mirgāwali	2367	7804	215	0
 Mijajigūdem	1764	7825	31	0
 Mirguanipani	1699	7801	317	0
@@ -1040,7 +1040,7 @@ Mīrpur	2581	8095	728	0
 Miānpur	2586	8090	728	0
 Miriyā Purwā	2528	8075	643	0
 Mīr Sāhib Purwā	2540	8096	643	0
-Katia Mirzānpur	2775	7940	470	0
+Katia Mirzānpur	2775	7940	470	0	Chaman Nagdria
 Mīrpur Kamruddīnnagar	2754	7937	688	0
 Papri Milkia	2752	7939	688	0
 Milkia	2751	7927	711	0
@@ -1089,7 +1089,7 @@ Bhawānipur Misrān	2558	8264	32	0
 Misirpur	2560	8265	32	0
 Misirpur	2570	8271	32	0
 Chak Mirzāpur	2574	8264	32	0
-Miānpur	2574	8269	32	0
+Miānpur	2574	8269	32	0	Sarāi Qāzīkādan
 Mirdha Chak	2572	8268	32	0
 Mirzāpur Chak	2571	8271	32	0
 Mihandwa	2445	8007	532	0
@@ -1097,7 +1097,7 @@ Mihgawān	2428	8007	532	0
 Mīrānpur	2564	8141	651	0
 Sanyāra Mitthepur	2563	8135	651	0
 Miriān	2571	8141	718	0
-Mirzāpur	2552	8144	651	0
+Mirzāpur	2552	8144	651	0	Khajuāpur
 Mirki	2291	7995	598	0
 Pure Misir	2548	8227	607	0
 Milkīpur	2545	8234	583	0
@@ -1127,14 +1127,14 @@ Misrauli	2506	8268	201	0
 Milki	2527	8280	251	0
 Mīrāban	2531	8288	251	0
 Milki Chak	2526	8288	251	0
-Mīrānpur	2526	8293	251	0
+Mīrānpur	2526	8293	251	0	Lathia
 Misirpur	2527	8292	251	0
 Mīrānpur Basahi	2537	8297	251	0
 Mirzāpur	2538	8293	251	0
 Mīrepur	2543	8206	607	0
 Midaur	2542	8207	607	0
 Misirpur	2527	8213	607	0
-Misrān	2535	8210	607	0
+Misrān	2535	8210	607	0	Bajhā
 Mīrān Dānd	2544	8215	607	0
 Mīrānpattī	2544	8215	607	0
 Mīrānpattī	2550	8209	607	0
@@ -1218,16 +1218,16 @@ Mirzāpur	2955	7839	575	0
 Milak	2954	7833	575	0
 Saidpur Mīra	2955	7832	575	0
 Shāhpur Mīrān	2956	7827	575	0
-Husainpur Mīra	2952	7825	575	0
+Husainpur Mīra	2952	7825	575	0	Khatāi
 Mithāri	2951	7828	575	0
-Mirzāpur Rangela	2953	7832	575	0
+Mirzāpur Rangela	2953	7832	575	0	Paimār
 Mirza Alīpur	2952	7842	575	0
 Milak	2950	7839	575	0
 Mirzāpur	2951	7836	575	0
 Mīlakpur	2945	7832	575	0
 Mirza Alīpur Bhāra	2943	7840	575	0
 Milak	2936	7827	575	0
-Mahmūdpur Miiak	2934	7837	575	0
+Mahmūdpur Miiak	2934	7837	575	0	Bachhīwāla
 Milak Mukīmpur	2935	7844	575	0
 Milak Takāwali	2935	7850	575	0
 Mīmla	2931	7846	575	0
@@ -1411,7 +1411,7 @@ Misarwāla	2922	7894	641	0
 Mitha Purwa	2627	8141	662	0
 Milak	2908	7894	511	0
 Pura Moti Misr	2650	8147	662	0
-Milak Phātak	2903	7894	552	0
+Milak Phātak	2903	7894	552	0	Chak Lādpur
 Miānganj	2650	8149	662	0
 Najjāwāli Milak	2901	7898	552	0
 Milak Mughlān	2903	7896	552	0
@@ -1584,7 +1584,7 @@ Milak Bela	2872	7859	646	0
 Mundi Milak	2874	7867	511	0
 Milak Tātārpur	2872	7864	646	0
 Milak Shāhpur Chamāran	2872	7866	646	0
-Milak Tārāwāli	2871	7869	511	0
+Milak Tārāwāli	2871	7869	511	0	Maināther
 Milak Nausāna Shekhūpur	2871	7868	511	0
 Milak Fatehullāhganj	2870	7866	646	0
 Milak Katheriya	2869	7868	511	0
@@ -1636,7 +1636,7 @@ Pura Misri Bakhsh	2667	8163	629	0
 Mīrānpur	2650	8163	662	0
 Mīrānpur	2658	8160	662	0
 Mirauri	2653	8166	662	0
-Bagh Mīran	2651	8165	662	0
+Bagh Mīran	2651	8165	662	0	Bhatwa
 Mirzāpur	2650	8167	662	0
 Pura Mindai Gir	2661	8173	629	0
 Pura Misr	2664	8173	629	0
@@ -1705,7 +1705,7 @@ Milak Gūlarwāli	2873	7887	511	0
 Milak Khātionwāli	2874	7887	511	0
 Milak Bikanpur	2874	7886	511	0
 Milak Chamārohwāli	2874	7887	511	0
-Milak Raniāther	2874	7894	511	0
+Milak Raniāther	2874	7894	511	0	Hīrāpur
 Milak Rionda	2870	7890	511	0
 Milak Ghonda	2870	7893	511	0
 Milak Gusāīnwāli	2869	7891	511	0
@@ -1728,11 +1728,11 @@ Paltha Mithanpur	2848	7886	646	0
 Mirzāpur	2849	7886	646	0
 Mirzāpur	2767	8220	280	0
 Bālāpur Mirza	2767	8219	280	0
-Mīrpur	2838	7888	117	0
+Mīrpur	2838	7888	117	0	Asogpur
 Misr Purwa	2765	8221	280	0
 Nagla Misr	2806	7877	117	0
 Mirzāpur Bela	2801	7875	117	0
-Mīrānpur	2803	7886	117	0
+Mīrānpur	2803	7886	117	0	Dhakpura
 Mirzāpur Sohra	2813	7884	117	0
 Mishrīpur	2811	7890	117	0
 Purwa Misrīrām	2748	8205	618	0
@@ -1999,7 +1999,7 @@ Misraulia Khurd	2669	8255	154	0
 Mīrānpur Bamhanpura	2660	8257	553	0
 Mīrāpur Sadar Ali	2659	8257	553	0
 Misraulia	2661	8270	154	0
-Pakri Misrāin	2670	8267	154	0
+Pakri Misrāin	2670	8267	154	0	Nakaha
 Khajuria Misr	2674	8263	154	0
 Misraulia	2652	8273	553	0
 Mirza Jot	2662	8264	154	0
@@ -2010,7 +2010,7 @@ Mirzāpur	2642	8252	553	0
 Mīrpur	2643	8259	553	0
 Mīrpur Shaikhpur	2638	8250	553	0
 Mirāpur	2631	8261	553	0
-Mirzābeg Dubhar	2639	8263	553	0
+Mirzābeg Dubhar	2639	8263	553	0	Makhdūmpur
 Mīrpur	2639	8265	553	0
 Mirzāpur	2646	8262	553	0
 Umarpur Mīnāpur	2643	8275	553	0
@@ -2110,7 +2110,7 @@ Misraulia	2722	8324	515	0
 Mīrganj	2706	8325	325	0
 Miān	2703	8341	515	0
 Mithaura	2704	8352	515	0
-Mirzāpur Pakri	2701	8356	515	0
+Mirzāpur Pakri	2701	8356	515	0	Muhammadpur
 Misraulia	2725	8363	515	0
 Barahra Mīr	2717	8363	515	0
 Parsa Mīr	2722	8364	515	0
@@ -2127,7 +2127,7 @@ Misrāīnpur	2595	8171	718	0
 Belwa Misr	2699	8303	647	0
 Lohrauli Misr	2697	8304	647	0
 Misraulia Parāg	2690	8302	647	0
-Misraulia	2679	8305	647	0
+Misraulia	2679	8305	647	0	Manraulia
 Churia Mīr	2690	8308	647	0
 Misraulia Pandit	2697	8310	647	0
 Midrāpār	2691	8309	647	0
@@ -2181,7 +2181,7 @@ Mīrupur Urf Bijai	2641	8333	325	0
 Misrauli	2636	8337	325	0
 Misrauli	2639	8335	325	0
 Purwa Misr	2642	8337	325	0
-Misrauli	2646	8339	325	0
+Misrauli	2646	8339	325	0	Parshādipur
 Kāsht Misrauli	2640	8339	325	0
 Misrauli	2640	8339	325	0
 Misrauli	2639	8339	325	0
@@ -2239,7 +2239,7 @@ Mīr	3305	7512	373	0
 Michgunda	1931	8029	135	0
 Mirbhia	2699	8376	560	0
 Miröispathar	3398	7533	148	0
-Miroeispathar	3398	7533	148	0
+Miroeispathar	3398	7533	148	0	Miröispathar
 Mīrun	3346	7534	148	0
 Mirdapallitola	1930	8070	135	0
 Mirdapalli	1930	8071	135	0
@@ -2292,7 +2292,7 @@ Mīranpur	2547	8159	651	0
 Mirzāpur Chandnān	2539	8158	651	0
 Misrapur Dahia	2540	8158	651	0
 Mīrāpur	2535	8159	651	0
-Mirzāpur	2541	8167	607	0
+Mirzāpur	2541	8167	607	0	Akbarpur
 Mīrpur	2544	8167	607	0
 Mishrāpur	2521	8166	607	0
 Mīda	3065	7423	3	0
@@ -2321,7 +2321,7 @@ Mīrāpatti	2545	8177	607	0
 Mirakpur	2541	8183	607	0
 Mithāi ka Pura	2529	8181	607	0
 Chak Misrān	2528	8192	607	0
-Miyān ka Pura	2534	8188	607	0
+Miyān ka Pura	2534	8188	607	0	Chak Pura Khurd
 Midwa	2550	8195	607	0
 Mīrānpur	2550	8198	607	0
 Chak Mīrfazal Ali	2533	8186	607	0
@@ -2654,7 +2654,7 @@ Misr Purwa	2735	8136	507	0
 Mirdha Purwa	2748	8144	294	0
 Mirānmau	2715	8129	30	0
 Mīrpur	2713	8130	30	0
-Mirzāpur	2724	8137	30	0
+Mirzāpur	2724	8137	30	0	Reta
 Mithpur	2711	8144	30	0
 Mirān Purwa	2618	8129	681	0
 Purwa Miān	2612	8130	681	0
@@ -2796,7 +2796,7 @@ Michchuvārigūda	1847	8201	109	0
 Minakhunti	1931	8320	363	0
 Minnapai	1904	8316	316	0
 Miniāpai	1908	8320	363	0
-Minnajolla	1943	8333	363	0
+Minnajolla	1943	8333	363	0	Nimmajolla
 Minnajolla	1926	8361	363	0
 Mittaputtu	1814	8247	268	0
 Minamalūr	1804	8270	268	0
@@ -2857,7 +2857,7 @@ Mitera	2346	7662	320	0
 Mirzāpur	2358	7673	16	0
 Mitthanpur	2371	7670	16	0
 Misarkheri	2345	7659	320	0
-Mirzāpur	2301	7665	675	0
+Mirzāpur	2301	7665	675	0	Mānkund
 Gīdor Mīna	2388	7699	16	0
 Mīlkheri	2370	7693	16	0
 Mirzāpur	2299	7623	322	0
@@ -2987,7 +2987,7 @@ Miu	2984	7985	722	0
 Mitryādāi	2980	7981	722	0
 Misrauliyā	2690	8444	476	0
 Ganesh Misir	2696	8444	476	0
-Mirtola	2964	7983	429	0
+Mirtola	2964	7983	429	0	Nirtola
 Misrauli	2672	8426	560	0
 Misar	2669	8426	560	0
 Miroli	2954	7981	429	0
@@ -3174,7 +3174,7 @@ Milkī	2442	8448	118	0
 Chhāpri Miyān	2298	7697	675	0
 Mitthūpura	2289	7678	675	0
 Misir Patrā	2408	8429	701	0
-Misirgurhā	2401	8442	701	0
+Misirgurhā	2401	8442	701	0	Husenīgurhā
 Misir Bigha	2494	8456	137	0
 Mithāpur	2489	8474	118	0
 Mithāpur	2483	8474	118	0

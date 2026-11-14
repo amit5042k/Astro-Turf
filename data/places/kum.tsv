@@ -1,11 +1,11 @@
 Kumarapalayam	1144	7771	231	195071
 Kumbakonam	1096	7939	264	167155
 Kumbalangy	988	7628	176	42367
-Kummankod	1168	7565	262	40230
+Kummankod	1168	7565	262	40230	Nādāpuram
 Kumhāri	2127	8152	286	38334
 Kumta	1443	7442	59	36719
-Kumpta	1443	7442	59	36719
-Kumding	2575	9317	706	31347
+Kumpta	1443	7442	59	36719	Kumta
+Kumding	2575	9317	706	31347	Lumding Railway Colony
 Kumbalam	991	7631	176	29193
 Kumārapuram	927	7643	243	26943
 Kūmher	2732	7737	114	23540
@@ -17,7 +17,7 @@ Kumaragiri	875	7805	208	13344
 Kumarghat	2416	9203	782	13054
 Pīplya Kumar	2277	7591	660	10684
 Kumbalgod	1288	7745	43	10178
-Kumbalagodu	1288	7745	43	10178
+Kumbalagodu	1288	7745	43	10178	Kumbalgod
 Kumbi	2443	9381	505	9546
 Kumārmunda	2230	8478	272	9043
 Kumar Kaibarta Gaon	2675	9424	451	8056
@@ -26,7 +26,7 @@ Kumārpur	2468	8784	658	7153
 Kumbhkot	2462	7600	371	6602
 Kumsi	1405	7540	346	6468
 Kumardubhi	2374	8678	664	4832
-Kumhardubhi	2374	8678	664	4832
+Kumhardubhi	2374	8678	664	4832	Kumardubhi
 Kumily	963	7713	258	50
 Kūmudi	997	7693	258	0
 Kumta	1772	7418	64	0
@@ -37,7 +37,7 @@ Kumki	2727	9691	73	0
 Kumhārsain	3132	7745	479	0
 Kumhāri	2389	7982	521	0
 Kumhari	2044	8328	394	0
-Kumaria	2044	8328	394	0
+Kumaria	2044	8328	394	0	Kumhari
 Kūmhā	2257	8093	480	0
 Kumguri	2668	9110	608	0
 Kumerhin	2344	8184	634	0
@@ -46,34 +46,34 @@ Kumdih	2164	8544	293	0
 Kumbla	1259	7494	305	0
 Kumbhoj	1683	7444	57	0
 Kumbhir	2494	9296	378	0
-Kumbhirgram	2494	9296	378	0
+Kumbhirgram	2494	9296	378	0	Kumbhir
 Kumbhikota	1912	8325	363	0
 Kumbhārvāda	1513	7440	59	0
 Kumbhāriputtu	1903	8326	316	0
-Kumbhāriput	1903	8326	316	0
+Kumbhāriput	1903	8326	316	0	Kumbhāriputtu
 Kumbhāri	2121	8365	497	0
 Kumbhāri	1711	7512	65	0
 Kumbhagiri	1459	7907	229	0
 Kumashi	1710	7637	80	0
 Kumārkera	2320	8458	321	0
-Kumarkela	2320	8458	321	0
+Kumarkela	2320	8458	321	0	Kumārkera
 Kumārkara	2220	8460	272	0
-Kumārkera	2220	8460	272	0
+Kumārkera	2220	8460	272	0	Kumārkara
 Kumari	2566	8771	625	0
 Kumārgrām	2662	8983	42	0
 Kumār Bāzidpur	2583	8555	716	0
 Kumāraswāmi	1501	7656	44	0
-Kumarswami	1501	7656	44	0
+Kumarswami	1501	7656	44	0	Kumāraswāmi
 Kumarakom	960	7643	271	0
-Kumaraham	960	7643	271	0
-Kumaragam	960	7643	271	0
+Kumaraham	960	7643	271	0	Kumarakom
+Kumaragam	960	7643	271	0	Kumarakom
 Kumār	3368	7408	1	0
 Kumār	3302	7646	362	0
 Kumai	2700	8882	492	0
 Kūm	3092	7607	674	0
-Kumurda	2175	8736	421	0
-Kumarwá	2357	8109	350	0
-Kumbala Hill	1897	7280	90	0
+Kumurda	2175	8736	421	0	Kamarda
+Kumarwá	2357	8109	350	0	Kamarwa
+Kumbala Hill	1897	7280	90	0	Cumballa Hill
 Kumirimora	2270	8823	279	0
 Kumarkhāli	2243	8892	450	0
 Kumārpāra	2235	8878	4	0
@@ -330,7 +330,7 @@ Kumhārtoli	2507	7944	663	0
 Kumharwār	2408	7933	521	0
 Kumbdhaura	2525	7991	614	0
 Kumen	2585	8287	498	0
-Kumbh	2585	8287	498	0
+Kumbh	2585	8287	498	0	Kumen
 Kumharpura	2688	7816	622	0
 Kumhārpura	2672	7823	478	0
 Tor Kumbh	2672	7824	478	0
@@ -485,7 +485,7 @@ Purwa Kumedān	2656	8140	662	0
 Purwa Kumedān	2658	8136	30	0
 Kumbhi Chaur	2974	7853	612	0
 Kumriya Jabla	2903	7869	511	0
-Kumriya Jabla	2904	7870	511	0
+Kumriya Jabla	2904	7870	511	0	Mahdūd Kalmi
 Kumāldi	2968	7885	612	0
 Kuma Thok	2641	8108	681	0
 Kumedānganj	2636	8109	681	0
@@ -934,7 +934,7 @@ Kumāria	2287	7602	322	0
 Kumbhāria M.	2309	7307	167	0
 Khuma Muwara	2309	7320	167	0
 Khumji Muwara	2305	7323	167	0
-Kumbhārio	2384	7399	512	0
+Kumbhārio	2384	7399	512	0	Gara
 Kumbhāria	2377	7399	512	0
 Kumpara	2325	7400	173	0
 Kumi Chaur	2967	7912	429	0
@@ -979,7 +979,7 @@ Kumbhkhet	2187	7470	248	0
 Kumhaila	2607	8476	540	0
 Kumharka	2804	7972	470	0
 Kumraho	2893	7993	641	0
-Kumharpura	2860	7984	683	0
+Kumharpura	2860	7984	683	0	Gāebojh
 Kumhaila	2580	8411	536	0
 Kumhia	2586	8410	536	0
 Kumbhi	2557	8422	620	0
@@ -1101,7 +1101,7 @@ Kumār Chak	2549	8647	759	0
 Kumbārakoppal	1266	7687	94	0
 Kumbadhālu	1597	7703	50	0
 Kumbalanūru	1588	7706	236	0
-Kumarala	1565	7764	236	0
+Kumarala	1565	7764	236	0	Bandahutta
 Kumārtari	2509	8632	524	0
 Kumārpur	2521	8639	538	0
 Kumedān	2580	8657	661	0
@@ -1159,7 +1159,7 @@ Kumārdom	2521	8742	592	0
 Kumharua	2596	8762	613	0
 Kumharwa	2587	8775	613	0
 Kumrāhar	2560	8519	604	0
-Kumhrar	2560	8519	604	0
+Kumhrar	2560	8519	604	0	Kumrāhar
 Kumra	2599	8797	610	0
 Kumlāghāt	2571	8775	625	0
 Kumārīpur	2572	8779	625	0
@@ -1199,7 +1199,7 @@ Kumaramputhur	1096	7644	263	0
 Kumaranellur	1079	7605	263	0
 Kumardubi	2226	8681	584	0
 Kumbhar Falia	2091	7312	221	0
-Kumbhar Faliya	2091	7312	221	0
+Kumbhar Faliya	2091	7312	221	0	Kumbhar Falia
 Kumirdaha	2405	8739	669	0
 Kumaramangalam	1137	7793	231	0
 Kumbhāri	1988	7734	67	0
@@ -1561,7 +1561,7 @@ Kumarankali	971	7891	5	0
 Kumilendal	969	7889	5	0
 Kumārapuram	834	7784	191	0
 Kumārneri	848	7785	208	0
-Kumārapuram	869	7806	208	0
+Kumārapuram	869	7806	208	0	Iruvappapuram
 Kumārapannai Pacheri	862	7809	208	0
 Kumārasāmipuram	846	7801	208	0
 Kumārakkavundanūr	1095	7798	445	0
@@ -1632,14 +1632,14 @@ Kumarpāli	2151	8502	712	0
 Sāno Kumud	2136	8546	293	0
 Baro Kumud	2136	8546	293	0
 Kumārgāon	2169	8556	293	0
-Kumri	2120	8560	293	0
+Kumri	2120	8560	293	0	Kāliāhattā
 Kumlabāri	2162	8580	293	0
 Kumarbāri	2156	8592	293	0
 Kumbhirtola	2043	8522	303	0
 Kumbhārpāra	2036	8502	548	0
 Kumbhāriā	2009	8508	548	0
 Kumusi	2085	8537	289	0
-Kumundoli	2079	8539	289	0
+Kumundoli	2079	8539	289	0	Nādhara
 Kumhaina	2463	8591	452	0
 Kumbh	2452	8584	473	0
 Kumārdih	2443	8582	473	0
@@ -1693,7 +1693,7 @@ Kumbhakilla	2036	8454	548	0
 Kumārguru	2027	8456	548	0
 Kumāribira	2040	8462	548	0
 Kumbhipalli	2009	8461	440	0
-Kumbhārsāhi	2080	8497	414	0
+Kumbhārsāhi	2080	8497	414	0	Madanmohanpātna
 Khumtai	2661	9383	740	0
 Kumhāron ki Dhāni	2702	7580	121	0
 Kummarapalle	1402	7829	444	0

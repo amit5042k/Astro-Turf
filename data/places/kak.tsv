@@ -7,25 +7,25 @@ Kakkanad	1002	7634	176	25531
 Kakdwip	2188	8819	4	19368
 Kākori	2687	8079	714	18332
 Kākalūr	1314	7993	228	14528
-Kaklūr	1314	7993	228	14528
+Kaklūr	1314	7993	228	14528	Kākalūr
 Kākti	1593	7453	77	13946
-Kakati	1593	7453	77	13946
+Kakati	1593	7453	77	13946	Kākti
 Kakching Khunou	2440	9390	175	11379
 Kakosi	2400	7230	240	9734
-Kakoski	2400	7230	240	9734
+Kakoski	2400	7230	240	9734	Kakosi
 Kākarāti	2456	8027	532	8452
 Kakaya	2636	9134	758	5550
 Kakar Mājra	3048	7703	691	3246
 Nīm Ka Khera	2534	7548	353	0
 Kak	1946	7675	153	0
-Kakilamuka	2683	9409	777	0
-Kakilāmukh	2683	9409	777	0
+Kakilamuka	2683	9409	777	0	Kokilāmukh
+Kakilāmukh	2683	9409	777	0	Kokilāmukh
 Khakurla	1663	7390	57	0
 Khakurdi	2069	7442	54	0
 Khaknār	2137	7657	29	0
 Khāki Hāt	2099	8663	734	0
 Khākharti	2691	7500	430	0
-Khākar	1986	7680	640	0
+Khākar	1986	7680	640	0	Kāhākar Khurd
 Kakrāli	3064	7688	587	0
 Kakwān	2674	7997	469	0
 Kaku	2740	7337	307	0
@@ -34,11 +34,11 @@ Kakshar	3458	7598	8	0
 Kāksa	2345	8746	642	0
 Kakricholi	2207	8317	439	0
 Kakriātalāi	2487	7508	655	0
-Kākri	1907	7737	140	0
+Kākri	1907	7737	140	0	Kānkādi
 Kākreji	2308	7092	147	0
 Kakrana	2205	7446	155	0
 Kakrāla	3037	7609	564	0
-Kakrala Kalan	3037	7609	564	0
+Kakrala Kalan	3037	7609	564	0	Kakrāla
 Kakrāla	2861	7298	307	0
 Kākrāban	2349	9140	385	0
 Kākora	2788	7904	117	0
@@ -54,25 +54,25 @@ Kākitālapūru	1422	7990	6	0
 Kāki	2602	9303	706	0
 Kakhra	2165	8746	421	0
 Kākhandiki	1660	7564	80	0
-Kakhandi	1660	7564	80	0
+Kakhandi	1660	7564	80	0	Kākhandiki
 Kākelao	2620	7320	344	0
 Kakaur	2830	7769	637	0
 Kākatpur	2000	8620	603	0
 Kakarwāha	2447	7897	481	0
-Kakarwao	2447	7897	481	0
+Kakarwao	2447	7897	481	0	Kakarwāha
 Kakarmatha	2529	8297	251	0
 Kakkirigumma	1893	8301	316	0
-Kakkiragumma	1893	8301	316	0
-Kākariguma	1893	8301	316	0
+Kakkiragumma	1893	8301	316	0	Kakkirigumma
+Kākariguma	1893	8301	316	0	Kakkirigumma
 Kākarda	2228	7538	130	0
 Kakarbai	2570	7933	433	0
 Kākanpur	2283	7349	180	0
 Kākankote	1191	7621	74	0
-Kakanakote	1191	7621	74	0
+Kakanakote	1191	7621	74	0	Kākankote
 Kākana	912	9280	442	0
 Kākba	2293	7557	660	0
-Kakaldinne	1618	7707	50	0
-Dholi Kākri	2415	7287	134	0
+Kakaldinne	1618	7707	50	0	Jakkaldinne
+Dholi Kākri	2415	7287	134	0	Dholia
 Kāklāsar	2840	7471	539	0
 Kakrākuli	2295	8807	279	0
 Khakurdāh	2226	8846	4	0
@@ -87,10 +87,10 @@ Balele ka Kot	3321	7431	504	0
 Kākadan	3322	7435	504	0
 Kāko Gāla	3325	7447	504	0
 Gunnu ka Khera	3300	7437	504	0
-Gunnu ka Kiera	3300	7437	504	0
+Gunnu ka Kiera	3300	7437	504	0	Gunnu ka Khera
 Kakroi	2896	7696	485	0
 Dabhūj Kāka	3257	7496	720	0
-Dabaj Kāka	3257	7496	720	0
+Dabaj Kāka	3257	7496	720	0	Dabhūj Kāka
 Chhāt ka Khera	2507	7550	353	0
 Shivshakti ka Khera	2540	7571	353	0
 Bhārmal ka Khera	2567	7563	353	0
@@ -104,7 +104,7 @@ Khākharda	2210	6937	131	0
 Kakaguda	1746	7850	424	0
 Kakol	1468	7555	92	0
 Kakreu Kalān	2833	7537	300	0
-Kakreu Kaiān	2833	7537	300	0
+Kakreu Kaiān	2833	7537	300	0	Kakreu Kalān
 Kakreu Khurd	2832	7535	300	0
 Khāna ka Kuwa	2830	7537	300	0
 Kakrāl	2891	7556	431	0
@@ -136,7 +136,7 @@ Kakron	2400	7824	215	0
 Kakrela	2498	7827	436	0
 Kakrāri	2498	7845	384	0
 Barhai ka Kuān	2454	7872	384	0
-Barhal ka Kuān	2454	7872	384	0
+Barhal ka Kuān	2454	7872	384	0	Barhai ka Kuān
 Pathele Ka Khirk	2489	7879	481	0
 Kakrela	2483	7876	384	0
 Nārgora Ka Khera	2477	7888	481	0
@@ -153,7 +153,7 @@ Khakhondi	2768	7967	470	0
 Khākhan	2761	7963	688	0
 Kaklāpur	2704	7980	570	0
 Kakrāha	2693	7900	290	0
-Kakrāra	2693	7900	290	0
+Kakrāra	2693	7900	290	0	Kakrāha
 Kakarha	2694	7910	290	0
 Kākuri Dhāni	2700	7573	121	0
 Kākroda	2688	7561	121	0
@@ -168,7 +168,7 @@ Kakrāi	2689	7964	715	0
 Kakrāha	2692	7973	570	0
 Kakrāhi	2679	7970	715	0
 Kakrāri	2668	7985	671	0
-Bāba ka Khera	2478	7916	481	0
+Bāba ka Khera	2478	7916	481	0	Majrākāshi
 Jmagarhiyan ka Khera	2482	7912	481	0
 Monemāto ka Khero	2474	7920	481	0
 Pachran ka Khera	2462	7907	663	0
@@ -263,14 +263,14 @@ Nolāgādri ka Khera	2505	7463	417	0
 Jojron ka Khera	2508	7462	417	0
 Jīwānāyak ka Khera	2508	7464	417	0
 Sūratsinghji ka Khera	2509	7463	417	0
-Kālon ka Khera	2509	7464	417	0
+Kālon ka Khera	2509	7464	417	0	Shambhūpura
 Rāwtān ka Khera	2509	7460	417	0
-Rāthor ka Khera	2511	7464	417	0
+Rāthor ka Khera	2511	7464	417	0	Nangpura
 Dola ka Khera	2513	7463	417	0
 Nānga ka Khera	2513	7460	417	0
 Bābān ka Khera	2511	7462	417	0
 Mātāji ka Khera	2511	7462	417	0
-Māl ka Khera	2514	7465	417	0
+Māl ka Khera	2514	7465	417	0	Rūppura
 Bhaga ka Khera	2525	7473	309	0
 Solankhiyo ka Khera	2524	7472	309	0
 Dalelsinghji ka Khera	2521	7475	309	0
@@ -318,7 +318,7 @@ Mora ka Khera	2545	7460	309	0
 Deva ka Khera	2546	7459	309	0
 Nīm ka Khera	2550	7458	309	0
 Batkon ka Khera	2527	7474	309	0
-Chohlon ka Khera	2526	7467	309	0
+Chohlon ka Khera	2526	7467	309	0	Dāntājati
 Keran ka Khera	2466	7401	22	0
 Zurji ka Khera	2464	7402	22	0
 Bori ka Khera	2458	7405	22	0
@@ -361,7 +361,7 @@ Kakrāri	2630	7841	484	0
 Kakardha	2598	7806	484	0
 Kakrāe	2806	7593	300	0
 Dagra ka Kuwān	2577	7832	503	0
-Kākda	1977	7623	53	0
+Kākda	1977	7623	53	0	Vāsūnāīk Tānda
 Kākda	1977	7624	53	0
 Kākra	3029	7603	593	0
 Kakrāla	3007	7613	564	0
@@ -435,7 +435,7 @@ Kakarha	2718	7964	688	0
 Kakarha	2701	7972	570	0
 Kakrai	2570	7741	436	0
 Kakra	2554	7731	436	0
-Umri Kakra	2554	7731	436	0
+Umri Kakra	2554	7731	436	0	Kakra
 Kaketa	2589	7771	484	0
 Kakraua	2581	7752	436	0
 Kakarghata	2775	7983	470	0
@@ -445,7 +445,7 @@ Kakara	2732	7985	686	0
 Kakarwāya	2537	7762	436	0
 Rāni ka Khejra	2429	7709	336	0
 Kakrua	2416	7716	336	0
-Kakruva	2432	7733	336	0
+Kakruva	2432	7733	336	0	Kirria
 Kakrāi	2453	7751	410	0
 Kakrua Rāi	2454	7761	410	0
 Kākākheri	2448	7754	410	0
@@ -473,7 +473,7 @@ Kākanūti Tānda	1651	7902	101	0
 Kakarghāta	2696	7990	570	0
 Kakrāhia	2684	7985	570	0
 Kakraihia	2696	7979	570	0
-Madāri ka Khor	2604	7994	741	0
+Madāri ka Khor	2604	7994	741	0	Riāznagar
 Khakal	2585	7906	433	0
 Kakrao	2594	7988	645	0
 Kakraiya	2512	8035	326	0
@@ -510,7 +510,7 @@ Kakoria	2512	8317	724	0
 Kakhara	2641	7898	334	0
 Kakarda	2272	7743	675	0
 Kakrotha	2525	7814	436	0
-Kakrahi	2557	8325	26	0
+Kakrahi	2557	8325	26	0	Narāinpur
 Kakrāwal	2551	8329	26	0
 Tuglayan ka Kuān	2571	7842	503	0
 Kakrahi	2544	8325	724	0
@@ -700,7 +700,7 @@ Kakrāli	2879	7855	483	0
 Kakraua	2806	7988	470	0
 Kakraūa Zamīma Munda	2802	7994	470	0
 Kakriha	2588	8142	718	0
-Khakom	2837	7859	646	0
+Khakom	2837	7859	646	0	Khajra
 Nagla Khākam	2846	7865	646	0
 Kākora	2600	8109	681	0
 Kakrahia	2672	8172	629	0
@@ -771,7 +771,7 @@ Kakrahi	2690	8298	647	0
 Kakrauli	2672	8284	154	0
 Kakraha	2658	8296	647	0
 Kakarghatta	2665	8298	647	0
-Khakhra Amānābād	2666	8281	154	0
+Khakhra Amānābād	2666	8281	154	0	Jagannāthpur
 Kakarha	2591	8339	586	0
 Kakrāpār	2641	8297	553	0
 Kakrahi Kishanpur	2645	8297	553	0
@@ -817,7 +817,7 @@ Kākra	3256	7538	496	0
 Kakarhāt	2537	8153	651	0
 Kakaraila	2503	8154	516	0
 Kakarha	2511	8174	607	0
-Kakhri Mātpur	2568	8193	607	0
+Kakhri Mātpur	2568	8193	607	0	Ganga ka Pura
 Kakra	2550	8176	607	0
 Kakra Belwāra	2537	8199	607	0
 Kakra	2537	8198	607	0
@@ -1043,7 +1043,7 @@ Kaklipadar	1933	8306	363	0
 Kākiri	1934	8321	363	0
 Kakkulupoda	1868	8241	316	0
 Pedda Kākili	1903	8339	363	0
-Mahādevi Kākili	1903	8339	363	0
+Mahādevi Kākili	1903	8339	363	0	Pedda Kākili
 Kakkaramaska	1946	8355	363	0
 Kakkulapādu	1865	8257	316	0
 Kakki	1872	8285	316	0
@@ -1174,13 +1174,13 @@ Moti ka Khera	2575	7428	309	0
 Modi ka Khera	2577	7441	309	0
 Hatān ka Khera	2578	7438	309	0
 Daula ka Khera	2579	7440	309	0
-Gaidanji ka Khera	2586	7437	309	0
+Gaidanji ka Khera	2586	7437	309	0	Gopālpura
 Hatingji ka Khera	2590	7440	309	0
 Gāiron ka Khera	2592	7438	309	0
 Nāthji ka Khera	2519	7428	309	0
 Gādriyon ka Khera	2548	7430	309	0
 Siroton ka Khera	2547	7429	309	0
-Chatra ka Khera	2545	7433	309	0
+Chatra ka Khera	2545	7433	309	0	Rūppura
 Motrān ka Khera	2543	7428	309	0
 Soji ka Khera	2543	7432	309	0
 Chenna ka Khera	2541	7434	309	0
@@ -1196,9 +1196,9 @@ Chauki ka Khera	2526	7430	309	0
 Mahendragarh ka Khera	2526	7436	309	0
 Balāyon ka Khera	2527	7443	309	0
 Thagān ka Khera	2530	7443	309	0
-Purohitji ka Khera	2532	7440	309	0
+Purohitji ka Khera	2532	7440	309	0	Dhera Devpura
 Bājja ka Khera	2534	7437	309	0
-Mahārāj ka Khera	2538	7436	309	0
+Mahārāj ka Khera	2538	7436	309	0	Madanpura
 Sārno ka Khera	2537	7445	309	0
 Khākhriyākhera	2541	7440	309	0
 Khepron ka Khera	2542	7443	309	0
@@ -1226,7 +1226,7 @@ Khāro ka Khera	2522	7489	309	0
 Bhārji ka Khera	2524	7496	309	0
 Mehtāji ka Khera	2522	7495	309	0
 Bhawānsinhji ka Khera	2520	7498	309	0
-Mātāji ka Khera	2520	7493	309	0
+Mātāji ka Khera	2520	7493	309	0	Debīpura
 Kakarsima	2424	7405	22	0
 Kakarda	2142	7437	186	0
 Nima ka Khera	2402	7438	633	0
@@ -1338,7 +1338,7 @@ Kakarihia	2658	7938	715	0
 Kakband	1965	7912	111	0
 Kākarbordi	1936	7904	162	0
 Kākarlapalli	1861	7966	748	0
-Kakelapalli	1831	7975	237	0
+Kakelapalli	1831	7975	237	0	Martapalli
 Kākbālu	1522	7653	366	0
 Kakkalli	1475	7464	59	0
 Kakigadde	1428	7452	59	0
@@ -1371,7 +1371,7 @@ Kakanivāripālem	1649	7971	10	0
 Kākargūda	1746	7850	424	0
 Kākan	2615	8757	667	0
 Kakorha	2601	8753	667	0
-Kākar	2066	7599	78	0
+Kākar	2066	7599	78	0	Palaskheda
 Khakralī	2916	8006	554	0
 Kakarwa	2793	8015	323	0
 Khākhin	2788	8025	323	0

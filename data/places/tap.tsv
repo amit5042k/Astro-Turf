@@ -1,7 +1,7 @@
 Tapa	3030	7537	726	23248
 Tapukrāh	2811	7683	482	9471
-Tapookra	2811	7683	482	9471
-Thappakuttai	1160	7798	51	6986
+Tapookra	2811	7683	482	9471	Tapukrāh
+Thappakuttai	1160	7798	51	6986	Ayyānūr Teppakkuttai
 Taping	2384	8549	391	5080
 Thāpli	2245	7468	155	0
 Thāpan	2568	7230	285	0
@@ -11,13 +11,13 @@ Taptapāni	1949	8439	440	0
 Tāpra	2571	7216	285	0
 Tappal	2804	7758	543	0
 Tappa Sukalia	2285	7648	322	0
-Tappa	2285	7648	322	0
+Tappa	2285	7648	322	0	Tappa Sukalia
 Tappa	2108	8082	474	0
 Tapkora	2250	8395	398	0
-Tapkara	2250	8395	398	0
+Tapkara	2250	8395	398	0	Tapkora
 Tapkara	2278	8470	321	0
 Tapīyang	807	9357	79	0
-Tapivang	807	9357	79	0
+Tapivang	807	9357	79	0	Tapīyang
 Taparia	2204	8356	349	0
 Tāpar Pāin	3421	7451	301	0
 Takiya Tāpar	3421	7451	301	0
@@ -36,7 +36,7 @@ Tapra Tindra	2500	7848	384	0
 Tapriān Rajju	2497	7843	384	0
 Tapariyān	2469	7850	384	0
 Tapariyān	2466	7857	384	0
-Tapariyān	2483	7885	481	0
+Tapariyān	2483	7885	481	0	Topariyān
 Tapariyān	2481	7894	481	0
 Tapariyān	2463	7894	481	0
 Nagla Tapra	2716	7928	464	0
@@ -87,7 +87,7 @@ Tunde ki Tapriān	3040	7729	88	0
 Tāpu Kamālpur	3007	7732	88	0
 Mājri Tāpur	3012	7742	449	0
 Tāpu Mājra	3021	7741	88	0
-Thāpar	3050	7761	534	0
+Thāpar	3050	7761	534	0	Khāra
 Tapra	3072	7771	534	0
 Thāpoli	3073	7756	534	0
 Thāparpur	3042	7757	783	0
@@ -102,7 +102,7 @@ Taparia	2317	7880	338	0
 Datli Tapariyan	2305	7880	522	0
 Tapariya	2303	7892	522	0
 Taprāna	2974	7702	457	0
-Tapri	2969	7720	449	0
+Tapri	2969	7720	449	0	Kunda
 Tapri	2960	7722	328	0
 Taprāna	2949	7726	328	0
 Tāparwāni	2263	7859	337	0
@@ -151,7 +151,7 @@ Tapariya	2382	7949	521	0
 Tapariyāntola	2379	7953	521	0
 Tapariyān	2322	7952	598	0
 Tapa	2336	7997	598	0
-Tappa Jāmni	2799	7878	117	0
+Tappa Jāmni	2799	7878	117	0	Aurangābād
 Nagla Tapua	2762	7893	616	0
 Thāpi	2718	7783	546	0
 Tapra	2713	7798	546	0
@@ -165,7 +165,7 @@ Tapua	2761	7985	686	0
 Rājepur Tappa Mandit	2722	7953	688	0
 Tapkāpur	2716	7973	570	0
 Satairia ke Tapre	2534	7759	436	0
-Tapra	2537	7751	436	0
+Tapra	2537	7751	436	0	Kūnda
 Mānīpura Tapriya	2521	7760	436	0
 Deharda ki Tapriyān	2515	7767	436	0
 Tapriyān	2518	7758	436	0
@@ -226,7 +226,7 @@ Tapsāl	1819	7728	170	0
 Tapariyān	2532	7875	529	0
 Semri Tappa	2301	7819	338	0
 Tāpriya	2493	7646	371	0
-Taparyān	2482	7867	384	0
+Taparyān	2482	7867	384	0	Kailauni
 Taparyān	2490	7869	481	0
 Taparia	2486	7859	384	0
 Tagiyāwāre Ka Tapra	2406	7853	352	0
@@ -261,7 +261,7 @@ Tappa Sipāh	2710	8151	294	0
 Tapra Purwa	2720	8169	542	0
 Tapri	2720	8168	542	0
 Mohan Tapra	2729	8177	542	0
-Tappa Farīdnagar	2825	7865	117	0
+Tappa Farīdnagar	2825	7865	117	0	Sultānpur
 Bhagwānpur Tappa Tirkha	2614	8109	681	0
 Tappa Haveli	2610	8106	681	0
 Pura Tapāi	2620	8113	681	0
@@ -276,9 +276,9 @@ Dharampur Tappa Bais	2812	7860	117	0
 Rasūlpur Tappa Malsai	2808	7869	117	0
 Nasīrpur Tappa Malsai	2806	7866	117	0
 Alīpur Tappa Haweli	2811	7876	117	0
-Tappa Jāmni	2801	7879	117	0
+Tappa Jāmni	2801	7879	117	0	Bhīkampur
 Bhujpura Tappa Jāmni	2802	7886	117	0
-Tappa Ahmadnagar	2803	7894	117	0
+Tappa Ahmadnagar	2803	7894	117	0	Mustafābād
 Pura Tapra	2707	8201	542	0
 Pura Tapra	2700	8204	542	0
 Purwa Tapraha	2711	8215	542	0
@@ -327,7 +327,7 @@ Tāppar	3245	7629	362	0
 Tapehr	3205	7641	38	0
 Tapri Adhwār	3247	7662	362	0
 Tappa	3202	7654	38	0
-Tappa Mewa	3202	7654	38	0
+Tappa Mewa	3202	7654	38	0	Tappa
 Tapara	2445	7977	663	0
 Tapariya	2429	7989	532	0
 Billa ka Thappa	3176	7620	327	0
@@ -356,7 +356,7 @@ Thāpla	2992	7886	612	0
 Thāpla Talla	2985	7896	612	0
 Thāpla Malla	2985	7896	612	0
 Thāpal	2982	7899	612	0
-Thāpla	2982	7899	612	0
+Thāpla	2982	7899	612	0	Thāpal
 Taparda	2172	8328	439	0
 Taponi	3056	7920	365	0
 Taparba	2197	8390	272	0
@@ -373,7 +373,7 @@ Nawa Tapra	2380	7396	512	0
 Thāpra	2342	7420	166	0
 Thāpni ki Dhāni	2624	7349	344	0
 Thāpla	2967	7924	429	0
-Thāpla Naglā	2917	7924	641	0
+Thāpla Naglā	2917	7924	641	0	Bīrpuri
 Thāpal	2960	7933	551	0
 Thāpla	2963	7941	429	0
 Thāpla Gāja	2937	7934	551	0
@@ -435,7 +435,7 @@ Tapinsara	2289	8533	432	0
 Tapej	2421	8490	393	0
 Tapkarā	2305	8492	562	0
 Tāppāy	1099	7891	270	0
-Tāppay	1089	7893	270	0
+Tāppay	1089	7893	270	0	Kalligudi
 Tappukundu	993	7747	194	0
 Tapesa	2283	8558	653	0
 Tapshipur	2495	8578	107	0
@@ -444,7 +444,7 @@ Taperika	2011	8412	387	0
 Tapurusingha	2095	8439	414	0
 Tāpdhol	2081	8479	414	0
 Tapan	2531	8857	25	0
-Tappa Yūsuf	2536	8152	651	0
+Tappa Yūsuf	2536	8152	651	0	Rasūlpur
 Thāpla	3017	7884	612	0
 Tapra	2592	8701	613	0
 Tapra	2589	8701	657	0

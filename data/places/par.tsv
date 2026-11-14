@@ -1,36 +1,36 @@
 Parbhani	1927	7677	153	307170
-Parbaini	1927	7677	153	307170
-Andhra Paris	1624	8064	319	164937
+Parbaini	1927	7677	153	307170	Parbhani
+Andhra Paris	1624	8064	319	164937	Thenali
 Paramagudi	955	7859	5	95579
 Parli Vaijnāth	1885	7653	33	94863
-Parli	1885	7653	33	94863
+Parli	1885	7653	33	94863	Parli Vaijnāth
 Paralakhemundi	1878	8410	252	87152
-Parala	1878	8410	252	87152
+Parala	1878	8410	252	87152	Paralakhemundi
 Parādīp Garh	2032	8661	456	85868
-Pārādwīp	2032	8661	456	85868
-Paradip	2032	8661	456	85868
-Paradipur	2032	8661	456	85868
-Bela Partabgarh	2592	8200	718	73992
-Partapgarh	2592	8200	718	73992
+Pārādwīp	2032	8661	456	85868	Parādīp Garh
+Paradip	2032	8661	456	85868	Parādīp Garh
+Paradipur	2032	8661	456	85868	Parādīp Garh
+Bela Partabgarh	2592	8200	718	73992	Bela
+Partapgarh	2592	8200	718	73992	Bela
 Pārvatipuram	1878	8343	199	53844
-Paraniputhur	1298	8013	247	48050
-Parangimalai	1300	8020	247	43795
-Paranginealai	1300	8020	247	43795
+Paraniputhur	1298	8013	247	48050	Anakaputhur
+Parangimalai	1300	8020	247	43795	Saint Thomas Mount
+Paranginealai	1300	8020	247	43795	Saint Thomas Mount
 Parāsia	2219	7876	337	42786
-Dongar Parāsia	2219	7876	337	42786
-Partabgarh	2403	7478	633	42079
-Partapgarh	2403	7478	633	42079
+Dongar Parāsia	2219	7876	337	42786	Parāsia
+Partabgarh	2403	7478	633	42079	Pratāpgarh
+Partapgarh	2403	7478	633	42079	Pratāpgarh
 Paravūr Tekkumbhāgam	879	7667	549	38946
-Paravar	879	7667	549	38946
-Paravoor	879	7667	549	38946
+Paravar	879	7667	549	38946	Paravūr Tekkumbhāgam
+Paravoor	879	7667	549	38946	Paravūr Tekkumbhāgam
 Parola	2088	7512	78	37666
 Parappur	1101	7599	150	36270
 Partūr	1960	7622	53	35883
 Pārassāla	834	7715	277	34096
-Parasuvaikkal	834	7715	277	34096
+Parasuvaikkal	834	7715	277	34096	Pārassāla
 Parūr	1015	7623	176	31503
-Paravur	1015	7623	176	31503
-Parsopant	2049	7787	67	29302
+Paravur	1015	7623	176	31503	Parūr
+Parsopant	2049	7787	67	29302	Ner
 Pārdi	2051	7295	261	28495
 Parangipettai	1149	7976	178	25541
 Paramathi Velur	1119	7796	231	25012
@@ -40,33 +40,33 @@ Paravai	996	7807	274	20042
 Parīchhatgarh	2898	7793	700	18990
 Paranda	1826	7546	48	18758
 Parvatsar	2689	7477	430	15405
-Parbatsar	2689	7477	430	15405
+Parbatsar	2689	7477	430	15405	Parvatsar
 Ambikapur Part-X	2480	9279	378	14283
-Partapgarh	2590	8194	718	13672
-Partabgarh City	2590	8194	718	13672
+Partapgarh	2590	8194	718	13672	Pratāpgarh
+Partabgarh City	2590	8194	718	13672	Pratāpgarh
 Parnera	2056	7295	261	12296
 Paramati	1115	7802	231	11986
 Parappukkara	1040	7625	241	11893
 Partābpur	2183	7564	329	11835
-Partap Singhwala	3093	7578	674	10843
+Partap Singhwala	3093	7578	674	10843	Pratāp Singhwāla
 Partāpur	2359	7417	166	10758
-Partapor	2359	7417	166	10758
+Partapor	2359	7417	166	10758	Partāpur
 Parshādepur	2607	8149	681	10690
-Paryur	974	7779	274	10394
+Paryur	974	7779	274	10394	Peraiyur
 Kanakpur Part-II	2480	9280	378	9519
 Paralam	1046	7619	241	9187
 Pardi Kanade	2109	7288	139	9167
 Parakād	1050	7615	241	9093
 Durga Nagar Part-V	2488	9288	378	9051
 Paratdiha	2416	8631	452	8854
-Paratdih	2416	8631	452	8854
+Paratdih	2416	8631	452	8854	Paratdiha
 Parwanoo	3084	7696	628	8758
 Parbatipur	2266	8822	354	8657
 Pareo	2556	8480	604	8435
 Pārtibanūr	959	7845	5	8232
 Pardi Sondhpur	2062	7294	261	7833
 Parol	3235	7543	496	7800
-Parole	3235	7543	496	7800
+Parole	3235	7543	496	7800	Parol
 Pārīchha	2551	7876	433	7399
 Uttar Krishnapur Part-I	2479	9279	378	6960
 Silchar Part-X	2482	9281	378	6313
@@ -78,39 +78,39 @@ Partābpur	2349	8321	413	5635
 Pardi Parnera	2057	7295	261	5454
 Paria	2528	8658	538	4922
 Parxem	1568	7378	188	4627
-Parcem	1568	7378	188	4627
+Parcem	1568	7378	188	4627	Parxem
 Parpori	2159	8121	710	3741
-Parpodi	2159	8121	710	3741
+Parpodi	2159	8121	710	3741	Parpori
 Partābpura	3104	7571	369	2770
-Partappura	3104	7571	369	2770
+Partappura	3104	7571	369	2770	Partābpura
 Pār	2421	7815	352	1630
 Parva I	2209	9265	244	1516
 Pariswani	3406	7449	301	1088
 Koregaon Park	1853	7390	52	0
 Vile Parle	1910	7283	207	0
-Bombay Vile Parle	1910	7283	207	0
-Vile-Parele	1910	7283	207	0
+Bombay Vile Parle	1910	7283	207	0	Vile Parle
+Vile-Parele	1910	7283	207	0	Vile Parle
 Rangrao Parao	2141	7718	133	0
-Parsewakam	1308	8025	204	0
-Pāras	2072	7682	172	0
+Parsewakam	1308	8025	204	0	Purasawalkam
+Pāras	2072	7682	172	0	Pūras
 Partāppur	2180	8673	382	0
-Partābgarh	2725	7616	482	0
-Paren	2706	8887	492	0
+Partābgarh	2725	7616	482	0	Pratāpgarh
+Paren	2706	8887	492	0	Paten
 Parwalpur	2521	8537	514	0
 Parwai	2469	7707	336	0
 Parwāha	2623	8722	667	0
 Parwa	2770	7337	307	0
 Pārwa	1999	7833	67	0
-Parvatābād	1718	7679	71	0
+Parvatābād	1718	7679	71	0	Farhatābād
 Paruttippādu	859	7778	191	0
 Pārumanchāla	1580	7840	232	0
 Paruchūru	1597	8027	220	0
 Partiāla	1666	8041	104	0
-Partitala	1666	8041	104	0
+Partitala	1666	8041	104	0	Partiāla
 Partek	3420	7592	8	0
 Partābpur	2430	8464	393	0
 Partābpur	1999	8073	704	0
-Partapur	1999	8073	704	0
+Partapur	1999	8073	704	0	Partābpur
 Partābnagar	3047	7848	500	0
 Parsūlia	2386	7685	16	0
 Parsuli	2068	8213	297	0
@@ -121,13 +121,13 @@ Pārsola	2395	7438	633	0
 Pārsol	2489	7778	410	0
 Pārsipāda	1992	7301	192	0
 Pārsivni	2137	7915	141	0
-Pārseoni	2137	7915	141	0
+Pārseoni	2137	7915	141	0	Pārsivni
 Parsendi	2759	8084	507	0
-Parsāwli	1760	7646	71	0
+Parsāwli	1760	7646	71	0	Padasāvli
 Parsāti	2113	8173	310	0
 Parsathua	2521	8381	409	0
 Pārsain	2631	7837	484	0
-Pārsar	2631	7837	484	0
+Pārsar	2631	7837	484	0	Pārsain
 Parsāmau	2231	8084	144	0
 Parsad	2419	7371	22	0
 Parsābād	2430	8575	473	0
@@ -136,7 +136,7 @@ Parra	1558	7379	188	0
 Parpatia	2284	8317	725	0
 Parorā	2516	7794	436	0
 Paror Khās	3207	7646	38	0
-Paror	3207	7646	38	0
+Paror	3207	7646	38	0	Paror Khās
 Pāron	2499	7692	336	0
 Pāron	2493	7858	384	0
 Paroli	2552	7509	309	0
@@ -144,8 +144,8 @@ Parolā	3087	7808	89	0
 Pārokāta	2645	8972	752	0
 Parodi	2157	7163	168	0
 Paroda	1523	7405	102	0
-Paradá	1523	7405	102	0
-Paredā	1523	7405	102	0
+Paradá	1523	7405	102	0	Paroda
+Paredā	1523	7405	102	0	Paroda
 Pāro	2609	8506	395	0
 Pārner	1900	7444	152	0
 Parnasāla	1793	8090	60	0
@@ -155,37 +155,37 @@ Parmānand	3217	7550	692	0
 Parmālkasa	2113	8110	474	0
 Pārlia Rājpura	2447	7452	417	0
 Parliya	2368	7648	16	0
-Parlia	2368	7648	16	0
+Parlia	2368	7648	16	0	Parliya
 Pārlapalli	1435	7976	6	0
 Parkutse	3410	7602	8	0
 Parkor	2093	8257	349	0
-Parkorh	2093	8257	349	0
+Parkorh	2093	8257	349	0	Parkor
 Parkaryan	3409	7599	8	0
 Parkāl	1820	7970	61	0
 Parjang	2092	8532	289	0
 Parinche	1820	7409	52	0
-Parincha	1820	7409	52	0
+Parincha	1820	7409	52	0	Parinche
 Parimal	1922	8407	252	0
 Pārihāti	2252	8685	665	0
 Pariharpur	2671	8568	582	0
-Parihar	2671	8568	582	0
+Parihar	2671	8568	582	0	Pariharpur
 Parihara	2793	7456	539	0
 Parihāra	2554	8627	530	0
 Parigi	1389	7746	444	0
-Parige	1389	7746	444	0
+Parige	1389	7746	444	0	Parigi
 Pariar	2663	8032	312	0
 Pariali	2038	7284	760	0
 Parhur	1871	7292	17	0
-Parhia	1817	8154	109	0
+Parhia	1817	8154	109	0	Podia
 Pargoāl	3280	7460	581	0
 Pargi	1718	7788	210	0
 Pārghāt	2663	9374	740	0
-Parchat	2663	9374	740	0
+Parchat	2663	9374	740	0	Pārghāt
 Pārgaon	1872	7515	33	0
 Pārgaon	1856	7437	52	0
 Pārerkola	2461	8760	658	0
 Pārewra	2768	7415	539	0
-Pareora	2768	7415	539	0
+Pareora	2768	7415	539	0	Pārewra
 Pareng	2839	9491	40	0
 Parenda	1827	7545	48	0
 Parel	1900	7283	106	0
@@ -197,21 +197,21 @@ Parbal	3306	7547	372	0
 Parba	2246	8485	495	0
 Paravāda	1763	8308	227	0
 Paratwāda	2130	7752	133	0
-Paratwāde	2130	7752	133	0
+Paratwāde	2130	7752	133	0	Paratwāda
 Parattipalli	857	7711	219	0
 Paraswārāghāt	2166	7980	144	0
 Paraswāra	2218	8030	144	0
 Paraswār	2334	8323	341	0
 Paraswāni	2121	8265	407	0
 Parasurāmpūr	1426	7688	255	0
-Parasurampura	1426	7688	255	0
+Parasurampura	1426	7688	255	0	Parasurāmpūr
 Paraspur	2703	8178	542	0
 Parāsoli	2578	7435	309	0
-Paraoli	2578	7435	309	0
+Paraoli	2578	7435	309	0	Parāsoli
 Parāsi	2367	8094	350	0
 Parāsi	2307	8202	525	0
 Parāsi	2300	8571	562	0
-Pararia	2321	8015	598	0
+Pararia	2321	8015	598	0	Padaria
 Parapur	1912	8169	600	0
 Parappanangādi	1105	7586	150	0
 Parāoli	2463	7338	22	0
@@ -219,9 +219,9 @@ Parāntīj	2344	7285	212	0
 Paranga	2088	8503	414	0
 Parāna	2387	7621	347	0
 Parhāna	2360	7657	16	0
-Pārāna	2360	7657	16	0
+Pārāna	2360	7657	16	0	Parhāna
 Parambikulam	1039	7679	263	0
-Parambikolam	1039	7679	263	0
+Parambikolam	1039	7679	263	0	Parambikulam
 Paramatti	1096	7791	445	0
 Paramanandal	1236	7877	197	0
 Parāli	2018	8069	704	0
@@ -237,16 +237,16 @@ Pāra	2264	7466	348	0
 Pāra	1864	7582	48	0
 Pāra	1722	7526	132	0
 Pār	2780	9395	761	0
-Parliament House, Delhi	2864	7722	732	0
+Parliament House, Delhi	2864	7722	732	0	Pahār Ganj
 Nijgaon Parānpur	2515	8797	412	0
 Kutti Paracheri	1307	8023	204	0
 Deolia Para	2288	7440	173	0
-Parigas	3270	7945	2	0
-Dabri Pār	2666	7024	217	0
+Parigas	3270	7945	2	0	Demchok
+Dabri Pār	2666	7024	217	0	Dabri
 Chhītar ka Pār	2594	7159	285	0
-Paras Rām	2787	9636	475	0
-Parwaya	2482	8484	118	0
-Paraiya	2482	8484	118	0
+Paras Rām	2787	9636	475	0	Brahmakund
+Parwaya	2482	8484	118	0	Azmatganj
+Paraiya	2482	8484	118	0	Azmatganj
 Pārāmbo	2292	8805	279	0
 Parorā	2280	8814	279	0
 Pārulia	2221	8818	4	0
@@ -257,7 +257,7 @@ Parāt	3361	7423	1	0
 Parhuti	3349	7420	1	0
 Parān	3327	7417	504	0
 Parokhin	3325	7406	504	0
-Parokhāi	3325	7406	504	0
+Parokhāi	3325	7406	504	0	Parokhin
 Ranbergad Partāpgad	3414	7469	611	0
 Chak Ranbergad Partāpgad	3413	7466	301	0
 Pāras	3401	7466	76	0
@@ -269,9 +269,9 @@ Parauriān	3293	7474	581	0
 Parāngla	3281	7454	581	0
 Pariāl	3280	7473	581	0
 Rāh na Parāt	3319	7408	504	0
-Rāli na Parāt	3319	7408	504	0
+Rāli na Parāt	3319	7408	504	0	Rāh na Parāt
 Gung Parta	3323	7420	504	0
-Gura Partha	3323	7420	504	0
+Gura Partha	3323	7420	504	0	Gung Parta
 Parāti	3316	7424	504	0
 Parāti	3317	7420	504	0
 Garah ni Parāti	3313	7422	504	0
@@ -288,23 +288,23 @@ Parjgirāīn	3284	7492	581	0
 Parkālta	3277	7495	581	0
 Parangāli	3280	7490	581	0
 Partapgarh	2999	7688	501	0
-Partāpgart	2999	7688	501	0
+Partāpgart	2999	7688	501	0	Partapgarh
 Shri Partāpsinghpur	3250	7487	581	0
 Partāpgarh	3250	7488	581	0
 Shri Partāpsinghpura	3253	7491	720	0
 Parla	3253	7476	581	0
-Partān	3253	7476	581	0
-Sri Paratāpsinghpura	3259	7487	581	0
+Partān	3253	7476	581	0	Parla
+Sri Paratāpsinghpura	3259	7487	581	0	Laleāna
 Pardhor	3272	7476	581	0
 Parbūn	3275	7500	581	0
-Parhūn	3275	7500	581	0
-Chaind Pariya	2819	7459	539	0
+Parhūn	3275	7500	581	0	Parbūn
+Chaind Pariya	2819	7459	539	0	Chainpura
 Parāra	3435	7381	0	0
-Parwāla	3038	7789	448	0
+Parwāla	3038	7789	448	0	Porwāla
 Parwal Nawa	3033	7790	448	0
 Parhech	3114	7708	479	0
 Parhot	3115	7711	479	0
-Parkot	3115	7711	479	0
+Parkot	3115	7711	479	0	Parhot
 Paranda	2993	7850	612	0
 Parinda	2986	7869	612	0
 Parwari	2982	7870	612	0
@@ -319,7 +319,7 @@ Kumara Park	1300	7758	43	0
 BIAL Taxi Parking	1320	7771	389	0
 BIAL 2 Wheeler Parking	1320	7771	389	0
 Jim Corbett National Park	2953	7894	326	0
-Partāppura	2815	7547	300	0
+Partāppura	2815	7547	300	0	Pratāppura
 Parotji ka Bās	2841	7566	300	0
 Parmāwāli Dhāni	2818	7552	300	0
 Parāgpur	3059	7681	632	0
@@ -334,7 +334,7 @@ Parson	2421	7848	352	0
 Parwān	2464	7872	384	0
 Parwar	2492	7878	481	0
 Parsua	2474	7896	481	0
-Parsawan	2474	7896	481	0
+Parsawan	2474	7896	481	0	Parsua
 Parwār	2401	7879	352	0
 Parvīn Nagla	2785	7923	117	0
 Parshidpur	2799	7937	117	0
@@ -359,16 +359,16 @@ Paruwa Purwa	2715	7981	570	0
 Partābpur	2709	7979	570	0
 Paraspur	2704	7983	570	0
 Bhawānīpur Partāb	2708	7986	570	0
-Parara	2699	7903	464	0
+Parara	2699	7903	464	0	Pandara
 Bhagautipur Durga Parshād	2690	7901	290	0
 Parasna	2696	7910	290	0
 Parauri Rāmāin	2696	7915	290	0
-Parauli Ramāin	2696	7915	290	0
-Partāpura	2685	7914	290	0
+Parauli Ramāin	2696	7915	290	0	Parauri Rāmāin
+Partāpura	2685	7914	290	0	Pattāpura
 Paruwa ka Nagla	2680	7906	290	0
 Lakhanpur Parhar	2683	7918	290	0
 Parora	2639	7901	334	0
-Parhuanpura	2629	7901	334	0
+Parhuanpura	2629	7901	334	0	Kanhaipura
 Parhīn	2650	7949	715	0
 Pāren Mustaqil	2641	7941	741	0
 Parkhula	2626	7929	741	0
@@ -401,10 +401,10 @@ Green Park Extension	2856	7720	778	0
 Chittaranjan Park	2854	7725	419	0
 Parsneu	2804	7437	539	0
 Parsauni Kapür	2656	8514	396	0
-Parsauni Kapuer	2656	8514	396	0
+Parsauni Kapuer	2656	8514	396	0	Parsauni Kapür
 Pāraippatti	977	7809	274	0
-Paraspani	2172	7920	337	0
-Parrai	2368	8076	350	0
+Paraspani	2172	7920	337	0	Palāspāni
+Parrai	2368	8076	350	0	Patrei
 Pārdi	2047	8067	644	0
 Pārīkhera	2349	7579	314	0
 Parsahi	2214	8235	291	0
@@ -521,7 +521,7 @@ Parariya Kalān	2368	7849	352	0
 Parsora	2357	7838	338	0
 Parāsasri Khurd	2374	7838	352	0
 Bar ka Pāra	2660	7616	121	0
-Bās Parsa	2648	7617	116	0
+Bās Parsa	2648	7617	116	0	Bāsra
 Pararia	2342	7828	338	0
 Pararia Rājādhār	2345	7847	338	0
 Pararia Sītārām	2341	7847	338	0
@@ -591,7 +591,7 @@ Pāra	2459	7372	22	0
 Parera	2414	7358	22	0
 Parāniya	2500	7678	506	0
 Parola	2448	7381	22	0
-Paroria	2626	7490	446	0
+Paroria	2626	7490	446	0	Lachhmīpura
 Parjiān Bihāri	3098	7546	369	0
 Pārli	2463	7605	371	0
 Parolya	2452	7603	333	0
@@ -619,7 +619,7 @@ Partāl	2826	7630	694	0
 Dhāni Partāl	2826	7631	694	0
 Vijay Park Colony	3034	7805	448	0
 Parmānwāla	2938	7863	575	0
-Fazalābād Parmānandpur	2938	7874	575	0
+Fazalābād Parmānandpur	2938	7874	575	0	Maniānwāla
 Parbatpur	2936	7871	575	0
 Pargāsi	3065	7953	183	0
 Parāri	3057	7952	183	0
@@ -716,7 +716,7 @@ Paraskol	2130	8200	310	0
 Parsadih	2126	8213	407	0
 Parsada	2132	8211	310	0
 Paraswāni	2136	8209	310	0
-Parsapāli	2149	8271	635	0
+Parsapāli	2149	8271	635	0	Bhogdihi
 Parastarāi	2092	8121	668	0
 Parna	2090	8121	668	0
 Parsada	2082	8118	668	0
@@ -957,7 +957,7 @@ Parichha	2551	7745	436	0
 Parāsari	2544	7734	436	0
 Pārarkhera	2570	7763	436	0
 Pāri Basai	2553	7757	436	0
-Parwezpur	2789	7982	470	0
+Parwezpur	2789	7982	470	0	Dhakia
 Parbatpur	2786	7978	470	0
 Paraicha Mazra	2775	7980	470	0
 Paraicha	2776	7981	470	0
@@ -969,7 +969,7 @@ Parsu Purwa	2726	7982	686	0
 Parchauli	2728	7977	686	0
 Saria Paraspur	2738	7986	686	0
 Parsāpur	2728	7999	686	0
-Pāron	2536	7752	436	0
+Pāron	2536	7752	436	0	Kūnda
 Parora	2529	7764	436	0
 Mānīpura Paraw	2521	7761	436	0
 Pārāgarh	2523	7770	436	0
@@ -1085,7 +1085,7 @@ Parwān	2213	7690	465	0
 Partāppura	2204	7689	465	0
 Parmānandpur	2573	8201	607	0
 Parasupur	2570	8212	718	0
-Parsa Dīh	2559	8213	607	0
+Parsa Dīh	2559	8213	607	0	Chak Bhikhāri
 Partābpur Kalān	2551	8216	607	0
 Partābpur Khurd	2552	8216	607	0
 Parāsanpur	2553	8209	607	0
@@ -1192,7 +1192,7 @@ Phūlpur Parsādpur	2545	8326	724	0
 Parhūpur	2541	8326	724	0
 Parewa	2526	8340	724	0
 Parsia	2528	8342	724	0
-Partāppur	2549	8347	26	0
+Partāppur	2549	8347	26	0	Madanpur
 Paraspura	2430	7971	521	0
 Parāsari	2541	7836	433	0
 Pārdi	2061	7723	172	0
@@ -1509,7 +1509,7 @@ Partāppur	2774	7942	470	0
 Partābpur	2487	8029	532	0
 Parsodi	2032	7869	67	0
 Pārdi	2035	7871	67	0
-Pāreria	2459	8029	532	0
+Pāreria	2459	8029	532	0	Gārhi
 Pāreri	2451	8026	532	0
 Parari	2340	7905	352	0
 Parāria	2419	8036	532	0
@@ -1517,7 +1517,7 @@ Pārāganj	2402	8044	324	0
 Pārāri	2499	8067	324	0
 Pārāri	2500	8068	324	0
 Parras	2322	7905	352	0
-Parbatpur	2599	8227	718	0
+Parbatpur	2599	8227	718	0	Sulemān
 Para Mitai	2587	8203	718	0
 Paranpur	2593	8212	718	0
 Parasrāmpur	2583	8205	718	0
@@ -1539,7 +1539,7 @@ Paraupatti	2595	8236	32	0
 Parsadh	2589	8228	718	0
 Parhat	2591	8232	718	0
 Parsādpur	2598	8251	32	0
-Chak Pargāsin	2584	8255	32	0
+Chak Pargāsin	2584	8255	32	0	Chakia
 Parasrāmpur	2576	8262	32	0
 Parsahi	2579	8267	32	0
 Pāra	2578	8274	32	0
@@ -1581,7 +1581,7 @@ Parās	2572	8129	651	0
 Chak Bakhtiāra Parsīpur	2569	8131	651	0
 Parai Khāgal	2564	8126	651	0
 Jawai Parri	2560	8126	651	0
-Chaukā Pārpur	2574	8140	718	0
+Chaukā Pārpur	2574	8140	718	0	Garhi
 Farīdpur Parsakhi	2564	8143	651	0
 Hisāmpur Parsākhi	2564	8143	651	0
 Fatehpur Parsākhi	2562	8144	651	0
@@ -1593,7 +1593,7 @@ Parsia	2299	7998	598	0
 Partīpur	2542	8229	607	0
 Parbhūpur	2540	8231	607	0
 Partābpur	2541	8232	607	0
-Partīpur	2542	8231	607	0
+Partīpur	2542	8231	607	0	Ban Purwa
 Parasrāmpur	2534	8237	583	0
 Pura Partāb	2527	8243	583	0
 Parbatpur	2528	8247	583	0
@@ -1726,9 +1726,9 @@ Parsāpur	2921	7809	700	0
 Rājpur Parsu	2918	7820	575	0
 Parsotampur	2963	7834	575	0
 Parmāwāla	2962	7844	575	0
-Parmānandpur	2948	7839	575	0
+Parmānandpur	2948	7839	575	0	Gāonri
 Parmāwāla	2929	7847	575	0
-Mahmūdpur Parma	2929	7847	575	0
+Mahmūdpur Parma	2929	7847	575	0	Parmāwāla
 Parari	2451	8239	631	0
 Pārsia Murpali	2462	8236	201	0
 Parsona	2471	8261	103	0
@@ -1740,7 +1740,7 @@ Parsia	2783	8110	323	0
 Parbatpur	2777	8105	507	0
 Parai	2778	8112	507	0
 Parewa	2779	8112	507	0
-Parsa	2798	8118	323	0
+Parsa	2798	8118	323	0	Moraun Purwa
 Parmesri Purwa	2771	8109	507	0
 Sūri Pāra	2771	8114	507	0
 Parari	2774	8122	323	0
@@ -1956,7 +1956,7 @@ Parsan Singh Purwa	2644	8125	681	0
 Shiu Parshād Purwa	2638	8130	681	0
 Sarkara Parampur	2914	7877	511	0
 Pargawān	2629	8126	681	0
-Parbatpur Mahānand	2900	7885	511	0
+Parbatpur Mahānand	2900	7885	511	0	Garhi
 Parh Purwa	2644	8140	662	0
 Parshad Purwa Nihāl Singh	2639	8141	662	0
 Pura Parshād	2630	8135	681	0
@@ -2077,7 +2077,7 @@ Parsoli	2801	7976	470	0
 Parā Jharsa	2801	7987	470	0
 Parsara Parsari	2807	7992	470	0
 Pariyāwali	2864	7855	646	0
-Matāwali Patti Parasrām	2874	7857	646	0
+Matāwali Patti Parasrām	2874	7857	646	0	Nayāgaon
 Pure Parbat	2588	8131	681	0
 Bikai Sarāi Parsu	2591	8133	681	0
 Parsai	2587	8134	718	0
@@ -2223,7 +2223,7 @@ Purwa Kāli Parshād	2719	8201	542	0
 Parsa Sohnsa	2719	8207	542	0
 Purwa Parmātmādīn	2717	8202	542	0
 Pura Pargās Singh	2717	8207	542	0
-Purwa Parāg	2725	8207	542	0
+Purwa Parāg	2725	8207	542	0	Terhia
 Parsia Agya Rām	2714	8204	542	0
 Pura Pardāni	2714	8205	542	0
 Parsāpur	2710	8200	542	0
@@ -2510,7 +2510,7 @@ Purwa Parwāni	2639	8249	553	0
 Partābpur	2627	8249	597	0
 Parmeshwarpur	2598	8319	498	0
 Pars Patti	2622	8232	597	0
-Parāsind	2581	8322	498	0
+Parāsind	2581	8322	498	0	Bishunpur
 Parsotampur	2581	8324	498	0
 Parsrāmpur	2610	8226	597	0
 Parimānpur	2576	8318	498	0
@@ -2706,7 +2706,7 @@ Parsia	2705	8360	515	0
 Parsa Khurd	2701	8362	515	0
 Parsauni	2702	8366	515	0
 Parsa Gidahi	2711	8363	515	0
-Parwaniā	2715	8365	515	0
+Parwaniā	2715	8365	515	0	Bishunāthpur
 Parsa Gobarhi Chak	2720	8366	515	0
 Parsa Mīr	2722	8364	515	0
 Parsotampur	2715	8368	515	0
@@ -2720,7 +2720,7 @@ Parsa Kalān	2685	8302	647	0
 Parsa Jhakaria	2686	8301	647	0
 Parokhar	2681	8300	647	0
 Paraswa	2680	8300	647	0
-Parjūdīh	2687	8308	647	0
+Parjūdīh	2687	8308	647	0	Faizūdīh
 Parsohia	2694	8308	647	0
 Parsa Pānde	2698	8307	647	0
 Purwa Lachhmi Parshād	2683	8321	325	0
@@ -2792,7 +2792,7 @@ Parsauni	2661	8329	325	0
 Parsia	2657	8329	325	0
 Gerua Parsaunān	2655	8336	325	0
 Hathia Parās	2665	8343	325	0
-Jungle Ajudhia Parshād	2669	8342	325	0
+Jungle Ajudhia Parshād	2669	8342	325	0	Marhara Semri
 Paraha	2675	8339	325	0
 Math Parsrām	2648	8326	325	0
 Parsa Buzurg	2647	8327	325	0
@@ -2839,7 +2839,7 @@ Parsagarh	2654	8365	535	0
 Saraiyān Parwezpur	2567	8156	718	0
 Parānopur	2564	8158	718	0
 Parsia	2672	8364	560	0
-Sona Paras Rām	2669	8368	535	0
+Sona Paras Rām	2669	8368	535	0	Kakwal
 Parsia	2668	8372	535	0
 Parsauni	2661	8370	535	0
 Parsīpur	2562	8155	718	0
@@ -2857,7 +2857,7 @@ Parsan	2629	8358	325	0
 Parsauni	2646	8357	535	0
 Parsa	2647	8371	535	0
 Parsa Jangal	2647	8371	535	0
-Parsa Jokha	2646	8369	535	0
+Parsa Jokha	2646	8369	535	0	Dah
 Parsia Hirāmān	2640	8367	535	0
 Parsia Jaddu	2642	8370	535	0
 Parasrām	2637	8367	535	0
@@ -2917,7 +2917,7 @@ Parsan	2625	8394	535	0
 Parmānandpur	2566	8359	26	0
 Parsupur	2571	8373	26	0
 Partāppur	2568	8372	26	0
-Parainian	2563	8374	26	0
+Parainian	2563	8374	26	0	Karanpura
 Pārun	3350	7560	34	0
 Parwār	2363	8022	351	0
 Partābpur	2340	8020	598	0
@@ -2991,8 +2991,8 @@ Parsādpur	2558	8186	607	0
 Parsīt ka Purwa	2553	8186	607	0
 Parshottampur	2552	8195	607	0
 Partābpur	2553	8198	607	0
-Pāran Dih	2552	8198	607	0
-Parwezpur	2569	8196	607	0
+Pāran Dih	2552	8198	607	0	Mathura
+Parwezpur	2569	8196	607	0	Shivsāgar
 Parwezpur	2570	8195	607	0
 Parla Dudor	3248	7553	496	0
 Parānta	3242	7552	496	0
@@ -3014,7 +3014,7 @@ Parhori	3213	7570	38	0
 Partabpura	2242	7427	155	0
 Pargana	3229	7580	38	0
 Pārnalā	3235	7586	38	0
-Parka	3232	7588	38	0
+Parka	3232	7588	38	0	Bhatka
 Parah	3234	7599	38	0
 Parnotan da Bāsa	3235	7597	38	0
 Parchor	3240	7598	362	0
@@ -3025,8 +3025,8 @@ Pārliya	2299	7561	660	0
 Parāsmāl	2239	7553	130	0
 Lasurdya Parmār	2285	7596	660	0
 Pārdya Bajrang	2285	7589	660	0
-Parao	2236	7594	329	0
-Parao	2237	7593	329	0
+Parao	2236	7594	329	0	Bandīkhar
+Parao	2237	7593	329	0	Athwān
 Partābgarh	2276	8001	368	0
 Parrākol	2288	8021	480	0
 Pardhād	2073	7537	78	0
@@ -3316,9 +3316,9 @@ Parsada	2185	8183	710	0
 Parsada	2196	8184	755	0
 Parsada	2155	8175	310	0
 Parsada	2155	8190	310	0
-Paraswāni	2152	8189	310	0
+Paraswāni	2152	8189	310	0	Sarārīdih
 Paraswāni	2148	8190	310	0
-Parsadi	2139	8193	310	0
+Parsadi	2139	8193	310	0	Nawāgaon
 Parsāthi	2131	8196	310	0
 Pārowāl	3124	7614	296	0
 Paro	3104	7612	295	0
@@ -3358,7 +3358,7 @@ Parīyān	3115	7715	479	0
 Parsada Kalān	2095	8206	297	0
 Parsatti	2093	8203	297	0
 Parsoda	2088	8219	297	0
-Parsond	2076	8220	297	0
+Parsond	2076	8220	297	0	Bijaipur
 Pārāgaon	2062	8205	297	0
 Pāragaon	2041	8224	297	0
 Partābpura	2571	7526	446	0
@@ -3443,7 +3443,7 @@ Parshan Purwa	2797	8129	294	0
 Parmanandpur	2788	8134	294	0
 Parāg Kuti Bīkāguria	2775	8134	294	0
 Parshād Purwa	2798	8141	294	0
-Parāgpurwa	2799	8145	294	0
+Parāgpurwa	2799	8145	294	0	Rānīpur
 Pura Parshādi	2792	8141	294	0
 Parbatipur	2788	8148	294	0
 Parameshwara Deven	1372	7470	257	0
@@ -3630,7 +3630,7 @@ Parasurāmpuram	1849	8367	179	0
 Parla Agrahāram	1825	8358	179	0
 Pārāpuram	1877	8389	472	0
 Parasurāmpuram	1881	8395	252	0
-Paradi	1889	8395	252	0
+Paradi	1889	8395	252	0	Porida
 Parida	1892	8377	363	0
 Parasurāmpuram	1861	8377	199	0
 Parta	1858	8378	199	0
@@ -3686,7 +3686,7 @@ Paronia	2389	7687	16	0
 Parsūkheri	2362	7676	16	0
 Pārliyākheri	2364	7697	16	0
 Pārwa	2310	7681	675	0
-Pārvatīpura	2288	7601	322	0
+Pārvatīpura	2288	7601	322	0	Sumrākheri
 Parbatpura	2278	7618	322	0
 Parabia	2308	7337	142	0
 Pāraskheri	2235	7601	329	0
@@ -3732,7 +3732,7 @@ Parura Rāmpur	2544	8472	377	0
 Parura	2544	8472	377	0
 Parsadi Inglis	2529	8469	766	0
 Latifpur Paraha	2526	8475	766	0
-Paraha	2526	8475	766	0
+Paraha	2526	8475	766	0	Latifpur Paraha
 Parāsla Khurd	2575	7350	273	0
 Partābgarh	2558	7346	273	0
 Parthola	2980	7927	429	0
@@ -3847,7 +3847,7 @@ Parāsi	2504	8464	137	0
 Parsan Bigha	2512	8465	766	0
 Parsan Bigha	2520	8465	766	0
 Paremla Bigha	2514	8472	766	0
-Partābpura	2635	7436	446	0
+Partābpura	2635	7436	446	0	Nayāgaon
 Pārwa	2242	7469	155	0
 Parolia	2973	7961	429	0
 Parao	2293	7480	348	0
@@ -3923,7 +3923,7 @@ Chānri Partap	2654	8425	703	0
 Parsauni Gopālpur	2657	8424	703	0
 Parsauni	2665	8420	560	0
 Parsaun	2667	8424	560	0
-Parhadwa	2636	8425	703	0
+Parhadwa	2636	8425	703	0	Ghinhu Chhāpra
 Rām Partāb	2643	8400	535	0
 Pariwadh	2648	8406	703	0
 Rāmpur Pariwadh	2648	8406	703	0
@@ -3944,7 +3944,7 @@ Parsauni	2634	8416	535	0
 Pargāsāha	2635	8416	535	0
 Parman Patti	2638	8424	703	0
 Parrauna	2641	8417	703	0
-Pareag Singh	2639	8422	703	0
+Pareag Singh	2639	8422	703	0	Samāil
 Khapkat Parrauna	2641	8416	703	0
 Lila Parsa	2642	8424	703	0
 Pānre Parsa	2644	8423	703	0
@@ -4115,13 +4115,13 @@ Parāsiya	2557	8405	620	0
 Parsahāra	2550	8407	620	0
 Bhainsāi Parbatpur	2843	7979	683	0
 Parbatpur Patti	2843	7979	683	0
-Parānpur	2836	7978	683	0
+Parānpur	2836	7978	683	0	Bhīkampur
 Parsbanatola	2557	8411	620	0
 Partāpsāgar	2558	8410	620	0
 Parmanpur	2561	8414	620	0
 Parāri	2564	8414	620	0
 Parsia	2835	7980	683	0
-Parāsi	2835	7980	683	0
+Parāsi	2835	7980	683	0	Parsia
 Parāsi Rām Kishan	2837	7979	683	0
 Parsanpāh	2569	8413	620	0
 Partāppur	2571	8416	620	0
@@ -4253,7 +4253,7 @@ Par Nadītola	2445	8462	118	0
 Parin Bigha	2450	8464	118	0
 Parsāwān Khurd	2449	8467	118	0
 Parsāchuān	2447	8470	118	0
-Parthohar	2410	8452	701	0
+Parthohar	2410	8452	701	0	Tāl
 Pardohar	2408	8454	701	0
 Parahiātoli	2421	8461	393	0
 Parsāma	2547	8575	604	0
@@ -4710,7 +4710,7 @@ Paraiya	2503	8753	461	0
 Pārādār	2501	8751	461	0
 Partutola	2514	8760	461	0
 Parte Bedo	2519	8770	461	0
-Partābāri	2524	8769	461	0
+Partābāri	2524	8769	461	0	Bhāgiāmāri
 Pārerkola	2507	8771	461	0
 Parāria	2502	8775	461	0
 Parua	2581	8785	625	0
@@ -5049,7 +5049,7 @@ Paruttikkottai	1070	7939	267	0
 Paravattūr	1054	7937	264	0
 Paravākkottai	1056	7942	267	0
 Parutikota	1069	7940	267	0
-Paruttikkottai	1069	7940	267	0
+Paruttikkottai	1069	7940	267	0	Parutikota
 Paruttikkottai	1071	7944	267	0
 Parasupuram	1052	7949	267	0
 Parakkalakottai	1039	7942	264	0
@@ -5087,7 +5087,7 @@ Parsātoli	2321	8530	562	0
 Parsāt	2399	8569	764	0
 Partanga	2396	8557	764	0
 Parsāpāni	2384	8574	517	0
-Parsābera	2377	8558	391	0
+Parsābera	2377	8558	391	0	Garkia
 Parsatoli	2375	8554	391	0
 Parsatāmtoli	2373	8565	517	0
 Parsādih	2365	8574	391	0
@@ -5102,7 +5102,7 @@ Parāngdīh	2314	8557	562	0
 Parautitoli	2308	8570	562	0
 Parsātānr	2373	8584	517	0
 Pārgo Tilaiyā	2395	8598	452	0
-Parsāberātoli	2387	8589	517	0
+Parsāberātoli	2387	8589	517	0	Pānāberātoli
 Parasia	2388	8584	764	0
 Parsāberātoli	2384	8593	517	0
 Parsādih	2368	8598	517	0
@@ -5166,7 +5166,7 @@ Parsātoli	2327	8459	321	0
 Parsātoli	2332	8461	321	0
 Pārhi	2336	8460	773	0
 Pararhiā	2307	8466	321	0
-Parrāni	2323	8473	321	0
+Parrāni	2323	8473	321	0	Pandrāni
 Parariyā	2314	8474	321	0
 Pargarhātoli	2377	8480	707	0
 Parāstoli	2377	8491	707	0
@@ -5199,14 +5199,14 @@ Paraiātoli	2260	8476	495	0
 Parchārioli	2253	8485	495	0
 Parsantoli	2264	8483	495	0
 Parba Tonia	2251	8496	495	0
-Pardhāntoli	2250	8499	495	0
+Pardhāntoli	2250	8499	495	0	Kuābera
 Pardiyādihi	2200	8402	272	0
 Parmānpur	2180	8411	627	0
 Pardhiāpāli	2151	8402	567	0
 Parmānpur	2153	8410	567	0
 Pardesīpāli	2163	8408	567	0
 Pardhānpāli	2165	8409	567	0
-Paruvakkudi	929	7755	245	0
+Paruvakkudi	929	7755	245	0	Mavadikudi
 Parappattipadakudi	926	7768	245	0
 Parumāl Kāni	865	7728	191	0
 Parakod	825	7731	453	0

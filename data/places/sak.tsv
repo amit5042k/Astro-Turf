@@ -1,7 +1,7 @@
 Nangli Sakrawat	2862	7699	763	37706
 Saknepalli	1893	7946	91	32385
 Sakleshpur	1294	7578	679	24931
-Saklaspur	1294	7578	679	24931
+Saklaspur	1294	7578	679	24931	Sakleshpur
 Saktī	2203	8296	402	21955
 Sakri	2099	7431	190	21764
 Shaktinagar	1636	7736	50	17088
@@ -9,7 +9,7 @@ Sakharkherda	2021	7640	49	14719
 Sākoli	2109	7999	404	14636
 Shaktinagar	2220	6966	131	13463
 Sakrī	2211	8208	291	12861
-Sakari	2211	8208	291	12861
+Sakari	2211	8208	291	12861	Sakrī
 Sakkimangalam	988	7819	274	10854
 Sakīt	2743	7878	711	7811
 Saktasanala	2279	7080	147	5786
@@ -18,17 +18,17 @@ Shakar Pur Baramad	2862	7728	794	1178
 Shakūrpur	2868	7714	689	0
 Shake	788	9335	442	0
 Shākāpur	1655	7795	317	0
-Sakchi	2281	8620	584	0
+Sakchi	2281	8620	584	0	Sānkchi
 Sakyong	2757	8840	27	0
-Sakyang	2757	8840	27	0
+Sakyang	2757	8840	27	0	Sakyong
 Sākur	1935	7430	152	0
-Sakuri	1935	7430	152	0
+Sakuri	1935	7430	152	0	Sākur
 Saktipur	2386	8820	471	0
 Saktigarh	2321	8797	375	0
 Sakti	2762	9172	531	0
 Saktesgarh	2498	8282	201	0
 Saksohāra	2536	8570	514	0
-Saksohra	2536	8570	514	0
+Saksohra	2536	8570	514	0	Saksohāra
 Sākrītolā	2127	8041	171	0
 Sakri	2622	8609	556	0
 Sakrauda	3000	7785	596	0
@@ -38,7 +38,7 @@ Sākonia	2437	7710	336	0
 Sakong	2743	9280	523	0
 Sakola	2320	8193	225	0
 Sakok	2487	9431	723	0
-Sākna	2597	7574	313	0
+Sākna	2597	7574	313	0	Sānkhna
 Sakna	2546	7498	309	0
 Sakmuthi	2652	9302	656	0
 Sākli	2117	7563	78	0
@@ -55,7 +55,7 @@ Sākhare	1991	7281	192	0
 Sākhān	2380	9216	256	0
 Sakhālu	2598	9451	7	0
 Sakhai	2588	9450	7	0
-Sakha	2588	9450	7	0
+Sakha	2588	9450	7	0	Sakhai
 Sakarra	2194	8297	402	0
 Sakargarh	2546	7532	309	0
 Sakārdih	2297	8403	398	0
@@ -74,11 +74,11 @@ Sakist	3455	7650	8	0
 Shakarpur	2977	7720	449	0
 Shakarpur Sānkror	2976	7719	449	0
 Sakrāmpura	2580	7553	313	0
-Shakoh	3115	7703	479	0
+Shakoh	3115	7703	479	0	Shekoh
 Shakrah	3115	7706	479	0
-Shakrān	3115	7706	479	0
+Shakrān	3115	7706	479	0	Shakrah
 Shakrāh Hatti	3114	7705	479	0
-Shakrāh	3114	7705	479	0
+Shakrāh	3114	7705	479	0	Shakrāh Hatti
 Mūni Sakri	2988	7854	612	0
 Sakmunda	2987	7867	612	0
 Sakanyāni	2982	7866	612	0
@@ -120,8 +120,8 @@ Shakohar	3162	7703	278	0
 Sakraini	3159	7705	278	0
 Sakol	3159	7709	278	0
 Shakaran	3160	7713	278	0
-Shakar Madauri	2933	7519	585	0
-Shakar Madauri	2934	7522	585	0
+Shakar Madauri	2933	7519	585	0	Shāhpuriya
+Shakar Madauri	2934	7522	585	0	Sukar
 Shakarpura	2973	7575	443	0
 Sakatpur Bāwad	2802	7650	482	0
 Sākri	3340	7446	504	0
@@ -166,7 +166,7 @@ Shakoti	3060	7771	534	0
 Sakni	3059	7786	448	0
 Sakarol	3056	7792	448	0
 Sakhigopal	1995	8581	603	0
-Aurangābād Shakūrpur	2948	7808	575	0
+Aurangābād Shakūrpur	2948	7808	575	0	Gidarpura
 Husainpur Sakatsingh	2931	7817	575	0
 Sākhantāl	2837	7541	539	0
 Tumli Sākhan	2836	7539	539	0
@@ -441,7 +441,7 @@ Milak Saktalpur	2909	7818	575	0
 Saktalpur	2909	7818	575	0
 Mausanpur Sulemān Sakhopur	2941	7841	575	0
 Majhera Shakru	2938	7847	575	0
-Hakīmpur Sakarganj	2935	7849	575	0
+Hakīmpur Sakarganj	2935	7849	575	0	Mandhāra
 Shakhārampur Gilāra	2935	7837	575	0
 Sakran	2766	8106	507	0
 Sakran	2756	8105	507	0
@@ -505,8 +505,8 @@ Rudarpur Sakhunia	2775	8209	618	0
 Sakha Mai	2831	7877	117	0
 Shakri	2755	8211	280	0
 Sakri	2766	8218	280	0
-Sakatpur	2802	7887	117	0
-Shakanti	1871	7838	75	0
+Sakatpur	2802	7887	117	0	Gadanpur
+Shakanti	1871	7838	75	0	Chegal
 Pura Sakti	2727	8214	542	0
 Sakaha Dīh	2731	8219	542	0
 Pura Saktu	2726	8224	542	0
@@ -535,7 +535,7 @@ Sakra	2602	8212	718	0
 Sakwa	2616	8216	597	0
 Saktipur	2676	8236	154	0
 Sakardāh	2681	8246	154	0
-Saktipur	2650	8229	629	0
+Saktipur	2650	8229	629	0	Niāzpur
 Udepur Sakarwāri	2627	8237	597	0
 Sakatpur	2631	8244	553	0
 Rāmpur Sakarwāri	2628	8243	597	0
@@ -750,7 +750,7 @@ Sakarboga	2183	8349	439	0
 Muhammad Shakarpur	2883	7810	756	0
 Sakartunga	2148	8327	635	0
 Shakrauli	2868	7824	483	0
-Shakratila	2867	7819	756	0
+Shakratila	2867	7819	756	0	Kand
 Shakarpūr	2850	7811	637	0
 Shakurganj	2819	7827	637	0
 Sakeri	2328	7648	320	0

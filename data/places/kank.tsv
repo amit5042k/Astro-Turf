@@ -1,11 +1,11 @@
-Kānkānhalli	1255	7742	626	54014
+Kānkānhalli	1255	7742	626	54014	Kanakapura
 Kānker	2027	8149	704	37442
 Kānke	2343	8532	562	17560
 Kankauli	1627	7371	213	16398
-Kankavli	1627	7371	213	16398
-Kankavali	1627	7371	213	16398
+Kankavli	1627	7371	213	16398	Kankauli
+Kankavali	1627	7371	213	16398	Kankauli
 Kankipādu	1644	8077	68	14616
-Kankipad	1644	8077	68	14616
+Kankipad	1644	8077	68	14616	Kankipādu
 Kānkon	1503	7405	102	12444
 Kankapāl	1876	8185	600	0
 Khānkotra	2229	7025	145	0
@@ -30,17 +30,17 @@ Khānkahbāgh	3403	7491	428	0
 Kankot	3377	7413	1	0
 Khankhari	3341	7424	504	0
 Dhora Khānke	3333	7422	504	0
-Khānka Dharo	3333	7422	504	0
+Khānka Dharo	3333	7422	504	0	Dhora Khānke
 Khānkhera	2536	7564	353	0
 Kankamāmidi	1730	7825	62	0
 Kankal	1720	7801	210	0
-Kānkunta	1770	7842	31	0
+Kānkunta	1770	7842	31	0	Kānukunta
 Kankhar	2425	7824	352	0
 Kānkar	2417	7801	215	0
 Khān ka Tāl	2722	7927	464	0
 Kānkarpur	2703	7942	570	0
 Kānkar Katha	2760	7957	470	0
-Kānkarpur	2694	7910	290	0
+Kānkarpur	2694	7910	290	0	Kakarha
 Kankua	2532	7940	614	0
 Kānkar Kuin	2698	7958	570	0
 Kānkardo	2400	7923	521	0
@@ -142,7 +142,7 @@ Khānkri	2612	7955	741	0
 Kankankhera	2593	7929	741	0
 Kānkarkui	2273	7694	322	0
 Kānkaria	2264	7700	322	0
-Kānkariya	2264	7700	322	0
+Kānkariya	2264	7700	322	0	Kānkaria
 Kānkariya	2228	7698	465	0
 Kānkarkachchh	2218	7695	465	0
 Kankariyākhera	2472	7928	481	0
@@ -182,7 +182,7 @@ Kankar Kola	2649	8177	597	0
 Kankota	2542	8115	643	0
 Kānkarkhera	2890	7841	483	0
 Kankha	1975	7726	640	0
-Kānkar Sarāi	2887	7850	483	0
+Kānkar Sarāi	2887	7850	483	0	Qāzi Sarāi
 Kankal	1834	7822	58	0
 Kankarha	2667	8167	629	0
 Kānksi	2812	7869	117	0
@@ -402,7 +402,7 @@ Chhota Kankra	2272	8596	653	0
 Kankrājori	2121	8556	293	0
 Kankadāhād	2107	8557	289	0
 Kānkra	2185	8580	293	0
-Kānkia	2198	8585	382	0
+Kānkia	2198	8585	382	0	Kānika
 Kankarāsorā	2097	8535	289	0
 Kankālo	2077	8526	289	0
 Kankāra	2453	8631	524	0

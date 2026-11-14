@@ -1,6 +1,6 @@
 Chimbel	1549	7387	188	15289
 Chiman	3009	7569	593	11615
-Cheema	3009	7569	593	11615
+Cheema	3009	7569	593	11615	Chiman
 Chīma	3069	7609	674	9894
 Chimur	2049	7937	111	0
 Chimthāna	2118	7469	190	0
@@ -14,7 +14,7 @@ Chimalwāni	2598	7753	335	0
 Chhimluang	2439	9272	526	0
 Bara Chimta	2227	8891	4	0
 Chimna Chak	3254	7490	581	0
-Chak Chimna	3254	7490	581	0
+Chak Chimna	3254	7490	581	0	Chimna Chak
 Chimaidari	1746	7800	210	0
 Chimirāla	1717	7891	129	0
 Chimna	2489	7846	384	0
@@ -27,7 +27,7 @@ Chimhni	3145	7736	680	0
 Chimthara	3133	7736	479	0
 Chimla	3131	7747	479	0
 Chimnewāla	3044	7417	3	0
-Chhimbewāla	3050	7434	3	0
+Chhimbewāla	3050	7434	3	0	Chak Jānisar
 Chimrāwāli Chhoti	2737	7677	482	0
 Chimrāwāli Gor	2735	7676	482	0
 Chimanpura	2746	7691	482	0
@@ -132,7 +132,7 @@ Chimna	2979	7894	612	0
 Chimāoli	2826	7820	637	0
 Chiman	2809	7824	543	0
 Chīmalapādu	1798	8251	268	0
-Chīmalapādu	1779	8269	227	0
+Chīmalapādu	1779	8269	227	0	Kalyānapulova
 Chimidipālem	1798	8293	227	0
 Chīmalapādu	1689	8065	104	0
 Chimatakollapālem	1636	8066	319	0
@@ -203,7 +203,7 @@ Chimbiliyāmpālaiyam	1125	7785	211	0
 Chimtia	2307	8591	653	0
 Chimra	2205	8557	293	0
 Chimtutoli	2245	8442	495	0
-Chimanbera	2238	8546	287	0
+Chimanbera	2238	8546	287	0	Tiunbera
 Chimi Kunti	2237	8571	287	0
 Chimihātu	2258	8587	287	0
 Chimisāi	2239	8584	287	0

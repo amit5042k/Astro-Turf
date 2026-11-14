@@ -1,17 +1,17 @@
-Lachmangarh	2782	7503	491	53392
-Lachhmangarh Sīkar	2782	7503	491	53392
-Lachhmanpur	2722	8076	507	0
-Lachpur	2106	7290	139	0
+Lachmangarh	2782	7503	491	53392	Laxmangarh
+Lachhmangarh Sīkar	2782	7503	491	53392	Laxmangarh
+Lachhmanpur	2722	8076	507	0	Simauri
+Lachpur	2106	7290	139	0	Lajpur
 Lachyan	1728	7497	132	0
 Lachung	2769	8874	27	0
 Lachrāgarh	2264	8486	495	0
 Lāchhora	2560	7436	309	0
 Lachmipur	2450	8713	669	0
-Lachmipui	2450	8713	669	0
+Lachmipui	2450	8713	669	0	Lachmipur
 Lachmipos	2230	8453	272	0
 Lachhmīpur	2838	7899	117	0
 Lachhmangarh	2737	7686	482	0
-Lachhmangarh	2631	7826	484	0
+Lachhmangarh	2631	7826	484	0	Lakshmangarh
 Lachhīwāla	3020	7812	448	0
 Lāchharsar	2810	7435	539	0
 Lāchharas	2191	7354	254	0
@@ -23,7 +23,7 @@ Lachhampur	3442	7414	0	0
 Lachhipur	3442	7423	0	0
 Lachhpathar	3430	7413	0	0
 Chak Lachhman	3267	7476	581	0
-Lachhmanpur	3267	7476	581	0
+Lachhmanpur	3267	7476	581	0	Chak Lachhman
 Lachhmīpur	3044	7779	448	0
 Lachhmīpur	3038	7781	448	0
 Lachhmīpur	3033	7793	448	0
@@ -57,12 +57,12 @@ Lachhmanpur	2661	7991	671	0
 Lachhmanpur	2652	7988	671	0
 Purwa Lachhman	2653	7985	671	0
 Lachhmanpura	2470	7917	481	0
-Lachhmīpura	2470	7900	481	0
+Lachhmīpura	2470	7900	481	0	Sukora
 Lachmidevipet	1830	7996	226	0
 Lachhanpur	2206	8172	755	0
 Lachkābās	2763	7695	482	0
 Lāchha	3058	7797	448	0
-Lachhūrām ka Bās	2822	7523	300	0
+Lachhūrām ka Bās	2822	7523	300	0	Kolīnd ka Bās
 Lachhmīpura	2661	7605	121	0
 Lachhmīpura	2968	7716	328	0
 Lachhmanpur	2953	7720	328	0
@@ -88,7 +88,7 @@ Lachhmipur	2837	7911	342	0
 Lachhmīpura	2434	7641	333	0
 Lachhmīpura	2425	7631	333	0
 Lachhmīpura	2410	7626	16	0
-Lachhmanpura	2404	7644	16	0
+Lachhmanpura	2404	7644	16	0	Bhojpur
 Lachhmanpura	2426	7666	16	0
 Lachhmīpura	2611	7507	446	0
 Lachhmīpura	2600	7512	446	0
@@ -302,7 +302,7 @@ Pura Lachhman Ahīr	2736	8186	294	0
 Lachhmanpur	2739	8200	542	0
 Lacchimpur	2834	7825	637	0
 Lachhmāpuram	1873	7805	75	0
-Lachhampur	2862	7873	511	0
+Lachhampur	2862	7873	511	0	Nagaliya Shāhpur
 Lachhmīganj	2596	8132	681	0
 Pura Lachhmanganj	2613	8105	681	0
 Pura Lachhāi	2611	8102	681	0
@@ -318,7 +318,7 @@ Pura Lachhman	2698	8199	542	0
 Lachhmanpur Ghoghara	2692	8197	542	0
 Pura Lachhman	2616	8187	662	0
 Purwa Lachha	2605	8191	718	0
-Lachhanpur	2857	7875	511	0
+Lachhanpur	2857	7875	511	0	Mundiya Dehri
 Lachhīpur	2850	7884	646	0
 Lachhmāpur	1823	7806	58	0
 Lachhmanpur Majhgawān	2775	8207	618	0
@@ -494,12 +494,12 @@ Lachhmipur	2633	8344	325	0
 Lachhmipur	2699	8356	515	0
 Lachhi Rai	2684	8358	560	0
 Lachhmipur	2691	8357	560	0
-Lachhmipur	2700	8358	515	0
+Lachhmipur	2700	8358	515	0	Bhargawān
 Lachhmipur	2676	8372	560	0
 Lachhmipur	2687	8375	560	0
 Lachhmipur	2664	8351	325	0
 Lachhmipur	2658	8352	325	0
-Lachhmanpur	2663	8357	325	0
+Lachhmanpur	2663	8357	325	0	Bhiswa
 Lachhmanpur	2661	8358	325	0
 Lachhman Tola	2668	8363	560	0
 Rām Lachhman	2651	8364	535	0
@@ -561,7 +561,7 @@ Lachhūn	3208	7660	38	0
 Lachyān	3200	7688	278	0
 Lachhūn	3197	7620	38	0
 Lachhanpur	2202	8182	755	0
-Lachhāpār	2149	8190	310	0
+Lachhāpār	2149	8190	310	0	Keotara
 Salghun Lachho	3179	7647	281	0
 Lachkandi	3199	7688	278	0
 Lachhmangarh	3074	7649	648	0
@@ -571,7 +571,7 @@ Lachmikhera	2602	7462	446	0
 Lachhmīpura	2677	7583	121	0
 Lachhog	3103	7709	628	0
 Lachhmana ka wās	2579	7546	313	0
-Lachhmīpura	2556	7549	353	0
+Lachhmīpura	2556	7549	353	0	Singāri
 Lachhmīpura	2325	7442	166	0
 Lachhog	3097	7767	479	0
 Lachmansidh	3025	7808	448	0
@@ -627,10 +627,10 @@ Lachchayyapeta	1838	8382	472	0
 Lachāpuram	1732	8105	60	0
 Lachchammapeta	1797	8311	179	0
 Lachchipeta	1799	8155	109	0
-Lachman Chhapra	2576	8456	536	0
+Lachman Chhapra	2576	8456	536	0	Kondarha
 Lachhmanpura	2365	7671	16	0
 Lachhmanpura	2396	7680	16	0
-Lachhmanpura	2394	7675	16	0
+Lachhmanpura	2394	7675	16	0	Barwarpura
 Lachhmanpura	2382	7679	16	0
 Bīpur Lachhi	2927	7906	551	0
 Lachampur	2939	7907	551	0
@@ -661,7 +661,7 @@ Lachhanpur	2704	8457	476	0
 Lachhmīpura	2531	7405	572	0
 Lachhmīwās	2508	7425	309	0
 Lachhmīpura	2502	7423	572	0
-Lachhmīpura	2590	7435	309	0
+Lachhmīpura	2590	7435	309	0	Kotro
 Lachhmīkhera	2578	7447	309	0
 Lachhmīpura	2531	7435	309	0
 Lachhmanpura	2532	7442	309	0
@@ -707,7 +707,7 @@ Lachhnauta	2698	8451	476	0
 Lachhmīpur	2697	8451	476	0
 Barwat Lachchhu	2678	8456	476	0
 Lachhumanwa	2693	8475	396	0
-Lachhirma Birt Tola Balua	2662	8453	396	0
+Lachhirma Birt Tola Balua	2662	8453	396	0	Sarea
 Lachhumanwa	2657	8473	396	0
 Lachhmīnārāyanpura	2703	7580	121	0
 Lachhmīpur	2881	7948	342	0
@@ -883,7 +883,7 @@ Lachhmīpur	2598	8717	667	0
 Lachhmīpur	2555	8707	613	0
 Lachhminia	2551	8704	657	0
 Lachhmania	2551	8710	613	0
-Lachhmīpur	2554	8715	613	0
+Lachhmīpur	2554	8715	613	0	Chharrāpatti
 Lachhminiātola	2546	8706	411	0
 Lachhmīpur	2537	8710	411	0
 Lachhmīpur	2512	8713	411	0

@@ -1,21 +1,21 @@
-Subathu	3097	7699	628	6691
+Subathu	3097	7699	628	6691	Sabāthu
 Subulia	2090	8417	308	5072
-Subalaya	2090	8417	308	5072
+Subalaya	2090	8417	308	5072	Subulia
 Subrahmanya	1267	7561	55	0
 Sūbedārganj	2543	8180	607	0
 Subarnagiri	1983	8386	387	0
 Subankhāta	2679	9142	608	0
 Subāna	2847	7657	609	0
-Sūbānāh	2847	7657	609	0
-Subzi Mundi	2867	7721	732	0
-Sub-tahsil	3072	7517	499	0
-South Suburban	2250	8828	4	0
-Shekh Subhān	3035	7426	3	0
+Sūbānāh	2847	7657	609	0	Subāna
+Subzi Mundi	2867	7721	732	0	Sabzi Mandi
+Sub-tahsil	3072	7517	499	0	Chirak
+South Suburban	2250	8828	4	0	Behāla
+Shekh Subhān	3035	7426	3	0	Arniwāla
 Chak Subhān Mīr	3462	7507	547	0
 Chak Subhān Mīr	3461	7506	120	0
 Sūbe Chak	3257	7493	581	0
-Chak Sūba	3257	7493	581	0
-Subhāshnagar	3028	7799	448	0
+Chak Sūba	3257	7493	581	0	Sūbe Chak
+Subhāshnagar	3028	7799	448	0	Sobhāshnagar
 Sūbri	2972	7747	449	0
 Subhānpur	1710	7835	62	0
 Subramanya Nagar	1301	7756	43	0
@@ -26,7 +26,7 @@ Subeha	2664	8151	30	0
 Subdega	2229	8411	272	0
 Subasheri	2801	7660	519	0
 Subāsheri	2818	7691	544	0
-Subhānpura	3001	7418	3	0
+Subhānpura	3001	7418	3	0	Khātwān
 Shubhkhera	3045	7763	534	0
 Subhāsgarh	2984	7803	596	0
 Subhri	2969	7706	457	0
@@ -103,10 +103,10 @@ Subhau	2499	8281	201	0
 Subahdār Khera	2660	8075	312	0
 Subas Khera	2646	8090	312	0
 Subāpur	2617	8078	681	0
-Suftānpur Subhāchand	2949	7835	575	0
+Suftānpur Subhāchand	2949	7835	575	0	Sikandarpur
 Purwa Subedār	2613	8085	681	0
 Purwa Subhān Beg	2615	8099	681	0
-Gāzi Subhāchand	2952	7842	575	0
+Gāzi Subhāchand	2952	7842	575	0	Bairopur
 Subansipur	2758	8117	507	0
 Subhān Purwa	2766	8153	294	0
 Pura Subbha	2729	8169	294	0
@@ -241,7 +241,7 @@ Purwa Subēdār	2646	8231	553	0
 Purwa Sūbedār	2648	8236	553	0
 Subhākharpur	2634	8243	553	0
 Sūbedār Purwa	2616	8238	597	0
-Subhāupur	2663	8270	154	0
+Subhāupur	2663	8270	154	0	Samuapur
 Pura Subrāti	2634	8250	553	0
 Subārpur	2638	8262	553	0
 Pura Subec	2649	8262	553	0
@@ -297,7 +297,7 @@ Subhānnagar	2708	8102	714	0
 Kana Subhān	3193	7646	38	0
 Sūbil	3130	7694	628	0
 Subāne	2390	8390	743	0
-Subhān	2883	7800	756	0
+Subhān	2883	7800	756	0	Lodhipur
 Subanpur	2127	8396	567	0
 Subbampeta	1810	8076	60	0
 Purwa Subedār	2713	8138	30	0
@@ -374,7 +374,7 @@ Subkona	2967	7901	612	0
 Subhāgpura	2538	7385	572	0
 Subdar Bigha	2512	8465	766	0
 Subākot	2977	7963	429	0
-Subhānpur	2811	7917	117	0
+Subhānpur	2811	7917	117	0	Sarakpur
 Nagaria Subarni	2861	7935	342	0
 Subhānuddin	2827	7926	342	0
 Subhānpur	2625	8498	395	0
@@ -497,7 +497,7 @@ Subrahmanyapuram	907	7808	208	0
 Subbayyapuram	903	7815	208	0
 Subrahmanyapuram	903	7823	208	0
 Subbayyapuram	924	7826	208	0
-Naryian Subbarāyapuram	943	7843	5	0
+Naryian Subbarāyapuram	943	7843	5	0	Rānisetupuram
 Subrahmanyapuram	925	7826	208	0
 Subbarāyapuram	949	7860	5	0
 Subrahmanyapuram	983	7895	5	0

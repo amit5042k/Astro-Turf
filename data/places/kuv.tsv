@@ -4,12 +4,12 @@ Kuwarbav	1699	7336	234	6497
 Kuwar	2353	7162	240	0
 Kūvattūr	1244	8011	247	0
 Kuvādra	2236	7095	174	0
-Kuvada	2236	7095	174	0
-Kuvārva	2236	7095	174	0
-Kuwāla	2362	7431	166	0
-Khūvda	2384	6973	108	0
-Kuwānthal	2541	7391	572	0
-Kuwa	2307	7136	28	0
+Kuvada	2236	7095	174	0	Kuvādra
+Kuvārva	2236	7095	174	0	Kuvādra
+Kuwāla	2362	7431	166	0	Kuala
+Khūvda	2384	6973	108	0	Khāvda
+Kuwānthal	2541	7391	572	0	Kaunthal
+Kuwa	2307	7136	28	0	Kankavati
 Kuvempu Nagar	1307	7754	43	0
 Khāna ka Kuwa	2830	7537	300	0
 Nawāda Khuwa	2660	7994	671	0
@@ -41,7 +41,7 @@ Kuwān	2597	8193	718	0
 Kuvali	2248	7567	660	0
 Khūwātolā	2111	8068	474	0
 Kuwarsi	2256	7557	130	0
-Kuwāntolā	2163	8097	509	0
+Kuwāntolā	2163	8097	509	0	Jūjhārā
 Kuvarkheda	2111	7548	78	0
 Kuwān Kausar	2703	8103	30	0
 Sandhu Kuwān	2607	8126	681	0
@@ -60,7 +60,7 @@ Kuvel	1178	7591	242	0
 Kuwār Singh	2925	8004	554	0
 Kuvagam	1129	7929	383	0
 Kuvākollai	1369	7994	45	0
-Kūvam	1302	7983	228	0
+Kūvam	1302	7983	228	0	Cooum
 Kūvamūla	1177	7604	242	0
 Kuvekeru	1136	7691	115	0
 Kūvapādi	1015	7648	176	0

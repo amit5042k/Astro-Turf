@@ -1,8 +1,8 @@
 Rasapūdipalem	1773	8332	81	1728128
-Raspari Palao	1773	8332	81	1728128
-Rasaul	2698	8485	396	55536
+Raspari Palao	1773	8332	81	1728128	Rasapūdipalem
+Rasaul	2698	8485	396	55536	Raxaul
 Rasipuram	1146	7819	231	50244
-Rāsīpur	1146	7819	231	50244
+Rāsīpur	1146	7819	231	50244	Rasipuram
 Rasrā	2586	8385	536	31876
 Rās	2631	7420	273	9511
 Rasikpur	2429	8725	669	8320
@@ -11,7 +11,7 @@ Raipur Rasulpur	3140	7559	369	3916
 Rasunchāpa	2256	8611	584	0
 Rasūlpur Rohta	2904	7755	700	0
 Rasūlpur	2446	7740	336	0
-Rasūlpura	2446	7740	336	0
+Rasūlpura	2446	7740	336	0	Rasūlpur
 Rasūlpur	3111	7501	566	0
 Rasūlābād	2668	7978	671	0
 Rasuan	2379	8721	361	0
@@ -20,16 +20,16 @@ Rāsol	2063	8531	289	0
 Rāsmi	2507	7437	417	0
 Rasliāni	2593	7043	285	0
 Rāslākheri	2331	7744	687	0
-Rastakheri	2331	7744	687	0
+Rastakheri	2331	7744	687	0	Rāslākheri
 Rāsla	2672	7134	217	0
 Rāshivade	1655	7410	57	0
-Rāshivda	1655	7410	57	0
-Rashivde	1655	7410	57	0
+Rāshivda	1655	7410	57	0	Rāshivade
+Rashivde	1655	7410	57	0	Rāshivade
 Rāshil	3262	7688	425	0
 Rasela	2069	8230	297	0
 Rāsegaon	2016	7375	54	0
-Rasulganj	2644	8564	582	0
-Rasulpur-Dholri	2892	7748	700	0
+Rasulganj	2644	8564	582	0	Koili
+Rasulpur-Dholri	2892	7748	700	0	Dhaulri
 Rasūlpur	2809	7499	491	0
 Rasidpur	2273	8801	279	0
 Raspunji	2244	8827	4	0
@@ -39,7 +39,7 @@ Rasīn	2958	7695	457	0
 Ramblu Rasoriyān	3251	7495	720	0
 Rasūlpur	3048	7778	448	0
 Rasūlpur Kalān	3006	7778	783	0
-Rasūlpar Kalān	3006	7778	783	0
+Rasūlpar Kalān	3006	7778	783	0	Rasūlpur Kalān
 Rasūlpur Tongia	3004	7796	596	0
 Rasūlpur	3004	7796	596	0
 Rasūlpur	2986	7705	457	0
@@ -50,8 +50,8 @@ Rasora	2813	7530	300	0
 Rasūlra	3070	7619	674	0
 Rasūlpur	3023	7663	691	0
 Rasūlpur	3022	7655	564	0
-Rashanpur	3014	7659	564	0
-Rashanpur	3013	7658	564	0
+Rashanpur	3014	7659	564	0	Blogi
+Rashanpur	3013	7658	564	0	Tamakloda
 Rasilpur	2404	7815	352	0
 Rasūla	2401	7817	215	0
 Rasoi	2484	7835	384	0
@@ -72,7 +72,7 @@ Rasūlpur	2751	7967	470	0
 Rasūlpur	2714	7978	570	0
 Rasūlpur	2702	7980	570	0
 Rasūlābād	2682	7915	290	0
-Bhadwān Rasūlābād	2682	7915	290	0
+Bhadwān Rasūlābād	2682	7915	290	0	Rasūlābād
 Rasūlpur	2629	7933	741	0
 Rasūlpur Rasūlābād	2674	7989	671	0
 Munawarpur Rasūlābād	2670	7988	671	0
@@ -86,7 +86,7 @@ Rāsmāno	2469	7921	481	0
 Rasoi	2464	7902	481	0
 Rasikbīl	2642	8975	420	0
 Mathiā Rasūlpur	2690	8442	476	0
-Rasūlpur	2690	8442	476	0
+Rasūlpur	2690	8442	476	0	Mathiā Rasūlpur
 Rāspalli	1923	7977	162	0
 Rasidpur	2707	7690	708	0
 Rasiyari	2605	8635	591	0
@@ -121,9 +121,9 @@ Rasgan	2763	7694	482	0
 Rasūlpur	2729	7680	482	0
 Rashīdpur Garhi	2939	7816	575	0
 Rasūlpur	2936	7824	575	0
-Rasūlpur	2933	7812	575	0
-Rasūlpur	2971	7813	596	0
-Rasūlpur Saiyad	2965	7822	575	0
+Rasūlpur	2933	7812	575	0	Bomanpura
+Rasūlpur	2971	7813	596	0	Kānkarkhāta
+Rasūlpur Saiyad	2965	7822	575	0	Saidpuri
 Rasūlpur	2626	7638	116	0
 Rasena	2330	7897	352	0
 Rasūlpur Kalān	2967	7707	457	0
@@ -152,7 +152,7 @@ Rasoi	2890	7711	485	0
 Rasūlpur	2871	7702	689	0
 Rasūlpur	2862	7737	588	0
 Rasūlpur Sankalputti	2893	7735	477	0
-Rasūlpur	2900	7763	700	0
+Rasūlpur	2900	7763	700	0	Lakhwaya
 Rasūlpur Dhantola	2883	7771	700	0
 Rasūlpur Sikroda	2869	7751	727	0
 Rasūlpur	2860	7759	588	0
@@ -160,8 +160,8 @@ Rasūlpur	2835	7774	637	0
 Rasūlpur Ekbel	2829	7764	637	0
 Rasūlpur	3157	7592	296	0
 Rāsīngpura	2547	7461	309	0
-Rasūlpur	3032	7597	593	0
-Rasūlpur	3009	7593	593	0
+Rasūlpur	3032	7597	593	0	Chhannān
+Rasūlpur	3009	7593	593	0	Sulhar
 Rasūlpur	2964	7569	443	0
 Rasuli	2990	7617	564	0
 Rashīdān	2973	7603	367	0
@@ -197,7 +197,7 @@ Rasūlpur	2992	7641	638	0
 Rasūlpur	2835	7794	637	0
 Rashīdpur	2837	7797	637	0
 Rasūlpur	2818	7793	637	0
-Rashīdpur	2805	7791	543	0
+Rashīdpur	2805	7791	543	0	Gorna
 Rashoi Nagla	2805	7800	543	0
 Rasūlpur	2712	7764	546	0
 Rasota	2156	8216	379	0
@@ -264,7 +264,7 @@ Rasūlpur	2711	7952	570	0
 Rasūlābād	2703	7965	570	0
 Rashīdpur	2720	7959	688	0
 Rasülpur	2722	7959	688	0
-Rasuelpur	2722	7959	688	0
+Rasuelpur	2722	7959	688	0	Rasülpur
 Rasera	2566	7747	436	0
 Husainpur Raskupa	2788	7977	470	0
 Raskūpa Bahādurpur	2782	7981	470	0
@@ -294,7 +294,7 @@ Rasūlpur	2631	7999	671	0
 Rasālpur	2632	7988	671	0
 Dārāpur Raseni	2726	7856	403	0
 Rasūlpur	2621	7995	671	0
-Rasrāpur	2615	7978	671	0
+Rasrāpur	2615	7978	671	0	Dharmpur
 Rasūlpur	2612	7978	671	0
 Rasūlpur	2602	7979	741	0
 Rasūlpur Ānt	2505	8034	463	0
@@ -307,7 +307,7 @@ Rasūlpur	2561	8210	607	0
 Rastīpur	2555	8224	607	0
 Rasūlha Muhammadpur	2552	8221	607	0
 Rasāwān	2598	8279	498	0
-Rasūlpur	2590	8278	498	0
+Rasūlpur	2590	8278	498	0	Bhādon
 Rasūlpur	2586	8282	498	0
 Rasūlpur	2576	8297	498	0
 Rasilpur	2654	7808	478	0
@@ -316,7 +316,7 @@ Rhamrāri Ki Rasoiya	2486	7951	663	0
 Rasda	2559	8302	32	0
 Rasra	2555	8301	251	0
 Rasūlpur	2558	8316	26	0
-Rasūlpur	2568	8312	498	0
+Rasūlpur	2568	8312	498	0	Mubārakpur
 Rasūlpur	2570	8316	498	0
 Rasūlpur	2573	8316	498	0
 Rasūlābād	2556	8324	26	0
@@ -417,7 +417,7 @@ Rasauli	2517	8230	201	0
 Rasulha	2549	8256	32	0
 Rasulha	2536	8271	251	0
 Rasulha	2541	8272	251	0
-Purwa Rasulha	2545	8268	32	0
+Purwa Rasulha	2545	8268	32	0	Neorhia
 Rasena	2509	8270	201	0
 Rasūlpur	2546	8278	251	0
 Rasūlpur	2540	8285	251	0
@@ -450,9 +450,9 @@ New Rashanpura	2860	7699	763	0
 Rasūlpur	2617	8079	681	0
 Rasūlpur	2601	8090	728	0
 Rāsigāon	2610	8087	681	0
-Rasūlpur	2908	7817	575	0
-Rasūlpur Shāhbuddīn	2951	7825	575	0
-Rasūlpur Jāgan	2940	7830	575	0
+Rasūlpur	2908	7817	575	0	Maihal ka Nagla
+Rasūlpur Shāhbuddīn	2951	7825	575	0	Sherpur
+Rasūlpur Jāgan	2940	7830	575	0	Lakhūwāla
 Rasūlpur Alma	2932	7849	575	0
 Rasūlpur	2791	8108	323	0
 Rasūlpur	2758	8102	507	0
@@ -496,7 +496,7 @@ Rasūlpur	2680	8133	30	0
 Rasūlābād	2678	8132	30	0
 Rasūlpur	2687	8142	30	0
 Rasūlpur Māfi	2902	7827	483	0
-Rasūlpur	2901	7834	483	0
+Rasūlpur	2901	7834	483	0	Khitpura
 Rasūlpur Pheona	2907	7833	575	0
 Rasūlpur Dhāki	2920	7833	575	0
 Rasūlābād	2668	8137	30	0
@@ -518,7 +518,7 @@ Rasūlpur	2641	8189	597	0
 Rasūlpur	2631	8198	597	0
 Rasūlpur	2587	8106	728	0
 Rasūlpur	2577	8101	728	0
-Rasūlpur	2582	8116	728	0
+Rasūlpur	2582	8116	728	0	Hisāmuddīnpur
 Rasūlpur Bichhār	2584	8114	728	0
 Rasūlpur	2594	8114	728	0
 Rasūlpur Atrāsi	2884	7840	483	0
@@ -575,8 +575,8 @@ Rasūlpur	2710	8203	542	0
 Pura Rasiāwan	2704	8207	542	0
 Rasūlpur Bargaon	2537	8142	651	0
 Rasūlpur Soni	2541	8144	651	0
-Rasūlpur Sukhwāra	2541	8148	651	0
-Rasūlpur Ukhaiya	2545	8140	651	0
+Rasūlpur Sukhwāra	2541	8148	651	0	Rānīpur
+Rasūlpur Ukhaiya	2545	8140	651	0	Bhikhiyāpur
 Rasūlābād	2743	8230	280	0
 Rasiāwan Dīh	2732	8226	280	0
 Rasūlpur	2731	8234	280	0
@@ -713,7 +713,7 @@ Rāshgwār	3335	7585	34	0
 Rasāt	3252	7522	720	0
 Rasāna	3251	7526	496	0
 Bandhori Rasūlpur	2544	8151	651	0
-Rasūlpur	2546	8162	651	0
+Rasūlpur	2546	8162	651	0	Shekhpur
 Rasūlpur	2535	8163	651	0
 Rasūlpur	2537	8163	651	0
 Rasulpur Ghagrotiān	3209	7547	487	0
@@ -770,7 +770,7 @@ Sīta Rasoīn	2734	8087	507	0
 Rasūlpur	2747	8079	507	0
 Rasūlpur	3135	7597	296	0
 Rasu	3202	7624	38	0
-Rasūli	2042	8094	704	0
+Rasūli	2042	8094	704	0	Goragdalli
 Rāsoi	2285	8119	468	0
 Rasolitola	2276	8146	468	0
 Rasūlābād	2725	8104	507	0
@@ -781,7 +781,7 @@ Rasūlpur Hatim	2709	8118	30	0
 Rasūlpur	2718	8119	30	0
 Rasūl Panāh	2715	8122	30	0
 Rasūlpur Kadwai	2701	8123	30	0
-Raspālpur	2221	8160	755	0
+Raspālpur	2221	8160	755	0	Nakta
 Rasoi Simāna	3213	7676	38	0
 Rasuhi	3189	7623	38	0
 Rasūlpur	3117	7612	296	0
@@ -849,7 +849,7 @@ Rashīdpur	2587	8482	540	0
 Rasūlpur	2583	8488	540	0
 Rasūlpur	2593	8488	540	0
 Rasūlpur	2586	8497	540	0
-Rasūlpur	2586	8498	540	0
+Rasūlpur	2586	8498	540	0	Khirkia
 Rasunpura	2575	8483	540	0
 Rasulpur	2565	8488	604	0
 Rasulpur	2574	8488	540	0
@@ -1069,7 +1069,7 @@ Rasīdupuram	1551	7941	200	0
 Rasapalli	1423	7919	195	0
 Rāsapalli	1427	7926	195	0
 Rasireddipālem	1483	7966	6	0
-Rasūlābād	1476	7971	6	0
+Rasūlābād	1476	7971	6	0	Gollapeta
 Rāsupalli	1358	7900	214	0
 Rāsupallāvāripalli	1358	7903	214	0
 Rasapālaiyam	1349	7996	45	0
@@ -1114,7 +1114,7 @@ Rāsipālaiyam	1107	7815	231	0
 Rāsipuram	1103	7853	270	0
 Rassuntala	2183	8574	293	0
 Rasabantala	2183	8575	293	0
-Rāsasāi	2198	8594	382	0
+Rāsasāi	2198	8594	382	0	Rensasāi
 Rasopāra	2165	8592	293	0
 Rāsang	2043	8501	548	0
 Rasūlpur	2597	8643	661	0

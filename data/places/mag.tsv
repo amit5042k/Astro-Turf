@@ -2,9 +2,9 @@ Māgadi	1296	7722	626	27605
 Maghar	2676	8313	647	17011
 Reis Magos	1551	7381	188	8053
 Magarlor	2075	8185	652	6280
-Magarlod	2075	8185	652	6280
+Magarlod	2075	8185	652	6280	Magarlor
 Māgām	3409	7459	301	5470
-Magar	3214	7717	680	2000
+Magar	3214	7717	680	2000	Nagar
 Magdala	2110	7275	139	18
 Mageda	1986	8190	659	0
 Magwāna	2322	6937	108	0
@@ -17,8 +17,8 @@ Magoi	2260	7387	173	0
 Magodi	2331	7343	125	0
 Magnūr	1646	7743	283	0
 Maglūna	2775	7479	491	0
-Maglona	2775	7479	491	0
-Maghora	2736	7756	177	0
+Maglona	2775	7479	491	0	Maglūna
+Maghora	2736	7756	177	0	Mugarra
 Magdāl	1497	7406	102	0
 Māgatūru	1570	7909	200	0
 Magarwāra	2652	8043	312	0
@@ -30,9 +30,9 @@ Māgam	3446	7423	0	0
 Magrīpur	3422	7457	301	0
 Wat Māgām	3409	7459	76	0
 Gudiwāla Magra	2669	7186	217	0
-Maggowāli	3256	7476	581	0
+Maggowāli	3256	7476	581	0	Muggbali
 Magri Gali	3435	7386	0	0
-Maglāna	2590	7565	313	0
+Maglāna	2590	7565	313	0	Muglāna
 Māgaral	1320	8005	228	0
 Magadi Road Tolgate	1297	7755	43	0
 Magar	3018	7660	564	0
@@ -87,7 +87,7 @@ Magror	3095	7658	735	0
 Magar	3036	7656	564	0
 Magarwādi	1873	7643	33	0
 Magra	3049	7678	632	0
-Maghubās	2781	7726	544	0
+Maghubās	2781	7726	544	0	Shamsābād
 Maghera	2757	7759	177	0
 Māgho Mājri	2981	7635	638	0
 Magaruchhla	2197	8221	291	0
@@ -125,7 +125,7 @@ Maghai ka Nagla	2706	7958	570	0
 Maganpur	2749	7999	686	0
 Māgron	2422	7700	336	0
 Magrāna	2471	7750	336	0
-Magāda	2456	7774	410	0
+Magāda	2456	7774	410	0	Tapra
 Magla Brāhman	2786	7844	543	0
 Magra	2594	7910	741	0
 Magraul	2573	7969	645	0
@@ -331,7 +331,7 @@ Maguraha	2731	8453	476	0
 Magarahi	2710	8454	476	0
 Magrā	2662	7478	446	0
 Khera Kāli Magri	2524	7424	309	0
-Maghrib	2673	8422	560	0
+Maghrib	2673	8422	560	0	Pakariār
 Magahia	2650	8419	703	0
 Magria	2298	7626	322	0
 Maganpur	2828	7949	342	0
@@ -347,7 +347,7 @@ Magrāsa	2834	7968	342	0
 Sisaiya Maganpur	2819	7954	342	0
 Maganpur	2801	7958	470	0
 Magar Sanda	2898	7975	641	0
-Magar Sarba	2875	7991	683	0
+Magar Sarba	2875	7991	683	0	Debīpur
 Maghrī	2462	8405	137	0
 Magurāhi	2476	8429	137	0
 Magariya	2255	7672	322	0
@@ -370,7 +370,7 @@ Magalu	1343	7520	98	0
 Magagar	1343	7524	98	0
 Magibail	1340	7517	98	0
 Māgodu	1336	7545	98	0
-Magundi	1327	7549	98	0
+Magundi	1327	7549	98	0	Mahāgundi
 Māgalu	1337	7553	98	0
 Magehalli	1318	7574	679	0
 Magajahalli	1301	7567	679	0

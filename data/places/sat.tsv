@@ -2,12 +2,12 @@ Satna	2458	8083	324	282977
 Satara	1769	7399	64	120195
 Sattenapalle	1639	8015	10	56721
 Sathupalli	1725	8087	46	40000
-Sathupalle	1725	8087	46	40000
-Sathupally	1725	8087	46	40000
+Sathupalle	1725	8087	46	40000	Sathupalli
+Sathupally	1725	8087	46	40000	Sathupalli
 Sathyamangalam	1151	7724	211	37816
 Satānā	2059	7420	54	37701
-Satara	1695	7441	65	37105
-Sathupalle	1721	8084	46	31857
+Satara	1695	7441	65	37105	Ashta
+Sathupalle	1721	8084	46	31857	Sādpalli
 Sattur	936	7792	119	31856
 Satyāmangala	1302	7612	679	18002
 Sātalkheri	2465	7600	371	15617
@@ -15,45 +15,45 @@ Satlapur	2311	7753	338	14755
 Sathankulam	844	7791	208	14193
 Satwās	2254	7668	322	14108
 Sātraud Kalān	2910	7581	339	11932
-Satrod Kalan	2910	7581	339	11932
+Satrod Kalan	2910	7581	339	11932	Sātraud Kalān
 Satgawan	2455	8428	701	11811
 Satrikh	2686	8120	30	11023
 Satrod Khas	2913	7579	339	10932
 Satai	2472	7963	663	10592
 Satiāwāla	3093	7465	566	8724
-Satyewala	3093	7465	566	8724
+Satyewala	3093	7465	566	8724	Satiāwāla
 Satghara	2640	8617	556	8060
 Sathamba	2317	7333	125	7213
 Sāter	2257	7578	660	6540
 Satrampādu	1671	8107	24	6393
 Sattiyavijayanagaram	1268	7932	197	5894
 Sātraud Khurd	2913	7579	339	5568
-Satrod Khurd	2913	7579	339	5568
+Satrod Khurd	2913	7579	339	5568	Sātraud Khurd
 Satakha	2592	9444	7	4964
-Satakha Hq.	2592	9444	7	4964
+Satakha Hq.	2592	9444	7	4964	Satakha
 Satlāna	2597	7296	344	0
-Satkatta	1606	7451	90	0
-Satara	1699	7413	65	0
+Satkatta	1606	7451	90	0	Sutkatte
+Satara	1699	7413	65	0	Shirāla
 Shatrāna	2991	7612	564	0
 Satyavedu	1344	7996	45	0
-Sattivedu	1344	7996	45	0
+Sattivedu	1344	7996	45	0	Satyavedu
 Saturang	3142	7838	83	0
 Sātur	2547	7556	353	0
 Sātona	1950	7635	53	0
-Sātuna	1950	7635	53	0
-Sātuna Khurd	1950	7635	53	0
+Sātuna	1950	7635	53	0	Sātona
+Sātuna Khurd	1950	7635	53	0	Sātona
 Sattūr	1541	7505	682	0
 Sattīgeri	1603	7504	77	0
 Satti	3448	7773	2	0
 Satti	1657	7508	77	0
 Sattēgālam	1224	7715	69	0
-Sattegal	1224	7715	69	0
+Sattegal	1224	7715	69	0	Sattēgālam
 Sattavāda	1771	8169	268	0
 Satrengā	2259	8268	388	0
 Satrāsen	2136	7515	78	0
 Satpati	1972	7270	192	0
-Satpate	1972	7270	192	0
-Satapati Port	1972	7270	192	0
+Satpate	1972	7270	192	0	Satpati
+Satapati Port	1972	7270	192	0	Satpati
 Satpāra	2399	7918	521	0
 Satpāra	2370	7768	215	0
 Sātpāra	1965	8543	603	0
@@ -66,25 +66,25 @@ Satnāli	2838	7596	694	0
 Satlāsna	2403	7279	164	0
 Sātkosia	2136	8615	382	0
 Satjanda	2940	7348	374	0
-Satianda	2940	7348	374	0
+Satianda	2940	7348	374	0	Satjanda
 Satipāra	2319	8261	621	0
 Satiko	2759	7311	307	0
 Satihāl	1673	7606	80	0
 Sātra	2822	7480	539	0
-Sathro	2822	7480	539	0
+Sathro	2822	7480	539	0	Sātra
 Sathri	2671	8208	629	0
 Sātyūn	2856	7512	539	0
-Sathon	2856	7512	539	0
+Sathon	2856	7512	539	0	Sātyūn
 Sathla	2905	7793	700	0
 Sāthkhera	2429	7556	580	0
 Sāthin	2646	7357	344	0
 Sathiāla	3159	7530	222	0
 Satheri	2926	7770	545	0
 Sathazumi	2576	9436	9	0
-Sathazum	2576	9436	9	0
+Sathazum	2576	9436	9	0	Sathazumi
 Sathāna	2598	7463	446	0
 Sathalli	1287	7602	679	0
-Sattihalli	1287	7602	679	0
+Sattihalli	1287	7602	679	0	Sathalli
 Sātgawān	2475	8577	473	0
 Satgaon	2040	7622	49	0
 Sātgāchia	2327	8813	375	0
@@ -92,12 +92,12 @@ Sater	2979	7923	429	0
 Sātej	2311	7248	276	0
 Sātegaon	2111	7724	133	0
 Satbarwā	2392	8426	701	0
-Satāngar	2643	7058	217	0
+Satāngar	2643	7058	217	0	Chhattāngar
 Sātam	2092	7309	221	0
 Sātak	2134	7927	141	0
 Sātabhāya	2064	8693	702	0
-Satbaia	2064	8693	702	0
-Sātbhaya	2064	8693	702	0
+Satbaia	2064	8693	702	0	Sātabhāya
+Sātbhaya	2064	8693	702	0	Sātabhāya
 Auniāti Sattra	2690	9408	777	0
 Satgara	2271	8806	279	0
 Sātul	2233	8817	4	0
@@ -106,7 +106,7 @@ Sāthāti	2265	8866	450	0
 Satgharia	2236	8874	4	0
 Rohirānwāli Sathārān	3005	7380	374	0
 Satwās	3432	7480	595	0
-Satra	3377	7421	1	0
+Satra	3377	7421	1	0	Safra
 Peth Shātagand	3434	7424	0	0
 Satakohaj	3441	7411	0	0
 Shatagām	3438	7416	0	0
@@ -118,10 +118,10 @@ Satharban	3389	7433	1	0
 Sateni	3460	7502	120	0
 Sathar	3299	7476	581	0
 Satowān	3287	7481	581	0
-Sataundi	2958	7691	457	0
+Sataundi	2958	7691	457	0	Sītaundi
 Sati	3257	7498	720	0
 Satwāri	3268	7483	581	0
-Rāepur Satwāri	3268	7483	581	0
+Rāepur Satwāri	3268	7483	581	0	Satwāri
 Sati	3252	7495	720	0
 Gundi Shāth	3438	7379	0	0
 Sati	3044	7780	448	0
@@ -139,7 +139,7 @@ Satyamurti Nagar	1305	8024	204	0
 Kengeri Satellite Town	1292	7748	43	0
 Sati	2871	7501	539	0
 Sati	2878	7542	539	0
-Sati	2817	7543	300	0
+Sati	2817	7543	300	0	Soti
 Sati	2890	7565	431	0
 Sati	2895	7553	431	0
 Sati	2802	7564	300	0
@@ -236,9 +236,9 @@ Sātgaon	2615	9185	359	0
 Sātun	2381	7157	240	0
 Sātapura	2145	7168	168	0
 Sati	2642	7430	446	0
-Saturājapuram	916	7830	5	0
+Saturājapuram	916	7830	5	0	Seturājapuram
 Sātona Buzurg	1951	7633	53	0
-Sātuna Buzurg	1951	7633	53	0
+Sātuna Buzurg	1951	7633	53	0	Sātona Buzurg
 Sati	2374	7497	601	0
 Sātephal	2046	7770	67	0
 Satouwa	2384	7924	521	0
@@ -304,7 +304,7 @@ Satīwāla	3041	7757	326	0
 Satkhora	2674	7661	447	0
 Sateri	2309	7855	338	0
 Satsara	2976	7734	449	0
-Satīwāla	2979	7743	449	0
+Satīwāla	2979	7743	449	0	Rāmpuri
 Satheri	2926	7745	545	0
 Satwāsa	2279	7809	590	0
 Satrāwan	2288	7823	338	0
@@ -316,7 +316,7 @@ Satoti	2202	7882	337	0
 Sātārpur	2131	7814	143	0
 Sātargaon	2112	7807	133	0
 Sātguwāri	2197	7843	337	0
-Satudhāna	2167	7831	462	0
+Satudhāna	2167	7831	462	0	Somgadh
 Sātnūr	2156	7830	133	0
 Satnūr	2191	7883	337	0
 Sātnūr	2151	7885	337	0
@@ -406,7 +406,7 @@ Sātanpur	2737	7959	688	0
 Katri Sathra	2742	7971	688	0
 Sathra	2741	7970	688	0
 Satpura	2778	7718	114	0
-Satarbās	2797	7707	544	0
+Satarbās	2797	7707	544	0	Khān Muhammadpur
 Satakpuri	2794	7711	544	0
 Sātod	2101	7608	78	0
 Sataura	2701	7974	570	0
@@ -556,7 +556,7 @@ Satwa Khera	2617	8081	681	0
 Satkiha	2623	8086	681	0
 Sātanpur	2620	8094	681	0
 Purwa Satidin	2615	8092	681	0
-Shāh Abdul Satār	2952	7833	575	0
+Shāh Abdul Satār	2952	7833	575	0	Madanpur
 Satārwāla	2950	7841	575	0
 Sataiyāpur	2776	8101	507	0
 Īrānpur Satauli	2759	8113	507	0
@@ -616,7 +616,7 @@ Satewar	2601	8199	718	0
 Satiganj	2606	8190	718	0
 Purwa Sāti	2785	8205	618	0
 Satrahia	2760	8218	280	0
-Satpura	2822	7889	117	0
+Satpura	2822	7889	117	0	Bhilaulia
 Sateti	2812	7898	117	0
 Pura Sattār Hajām	2745	8206	280	0
 Pura Sattan	2739	8205	542	0
@@ -821,7 +821,7 @@ Sāthchhera	2309	7435	166	0
 Sātha	3095	7758	479	0
 Shatul	3088	7772	479	0
 Satwa	2411	7979	532	0
-Satiārī	2395	8377	743	0
+Satiārī	2395	8377	743	0	Chaukrī
 Sāthli	3093	7782	448	0
 Satang	3095	7790	448	0
 Sātila	3078	7788	448	0

@@ -1,7 +1,7 @@
 Lamshang	2482	9387	416	10593
-Lamjaotongba	2482	9387	416	10593
-Lamlai	2487	9401	96	4601
-Lama	2371	6925	108	0
+Lamjaotongba	2482	9387	416	10593	Lamshang
+Lamlai	2487	9401	96	4601	Sawombung
+Lama	2371	6925	108	0	Luna
 Lāmzawl	2382	9322	21	0
 Lāmta	2213	8012	144	0
 Lāmpolai	2664	7419	430	0
@@ -12,23 +12,23 @@ Lāmjan	1813	7658	158	0
 Lámbria	2427	7306	212	0
 Lāmbkani	2109	7457	190	0
 Lāmbia	2640	7406	273	0
-Lāmbiya	2640	7406	273	0
+Lāmbiya	2640	7406	273	0	Lāmbia
 Lambi	3006	7461	615	0
 Lambhūa	2614	8223	597	0
 Lambāna	2624	7448	446	0
-Lāmāna	2624	7448	446	0
+Lāmāna	2624	7448	446	0	Lambāna
 Lāmba Harisingh	2630	7516	313	0
-Lāmba	2630	7516	313	0
-Lāmba Bara	2630	7516	313	0
+Lāmba	2630	7516	313	0	Lāmba Harisingh
+Lāmba Bara	2630	7516	313	0	Lāmba Harisingh
 Lāmba	2190	6932	131	0
 Lāmayūrū	3429	7677	2	0
 Lāmākho	2505	7548	353	0
 Lāmākhera	2444	7700	336	0
 Lamaj	1775	7365	64	0
 Lāmache	3170	7863	83	0
-Lamsuaka	2426	9281	526	0
+Lamsuaka	2426	9281	526	0	Kawihruilian
 Lām	3412	7488	611	0
-Lambi Bāri	3342	7420	504	0
+Lambi Bāri	3342	7420	504	0	Neako
 Lām	3325	7413	504	0
 Lamber	3311	7436	504	0
 Lām	3283	7448	581	0
@@ -43,7 +43,7 @@ Lāmba Jātān	2666	7386	430	0
 Lāmba	2825	7546	300	0
 Lāmba Gothra	2824	7556	300	0
 Lambāna Mūlavān	2762	7293	307	0
-Lambāna Mūlvān	2762	7293	307	0
+Lambāna Mūlvān	2762	7293	307	0	Lambāna Mūlavān
 Lambāna Bhātīyān	2759	7294	307	0
 Lamethi	2420	7835	352	0
 Lamnau	2411	7898	352	0
@@ -160,7 +160,7 @@ Lamkana	2568	7825	503	0
 Lamāyacha	2559	7846	503	0
 Lamui	2539	8353	26	0
 Lāmghāti	2141	7761	462	0
-Lāmi	2440	8345	743	0
+Lāmi	2440	8345	743	0	Sarahiya
 Lāmbhi	2407	8328	103	0
 Lamhartola	2404	8329	341	0
 Lāmītola	2409	8355	743	0
@@ -201,7 +201,7 @@ Lambia	2717	8188	542	0
 Lambārdār Purwa	2724	8195	542	0
 Lambardār Purwa	2722	8184	542	0
 Lamti	2707	8199	542	0
-Lāmtā	2078	7905	141	0
+Lāmtā	2078	7905	141	0	Borgaon
 Lāmbākhera	2920	7853	575	0
 Lāmia	2910	7853	575	0
 Lamdhar	2969	7891	612	0
@@ -248,7 +248,7 @@ Lamuha	2690	8394	560	0
 Lāmridhār	3353	7568	34	0
 Lamtara	2344	8026	598	0
 Lamkana	2365	8060	351	0
-Lami Dheri	3259	7539	496	0
+Lami Dheri	3259	7539	496	0	Bāndh
 Lamochar Khurd	3057	7415	3	0
 Lamochan Kalān Uttar	3057	7417	3	0
 Chak Lamochar	3056	7419	3	0

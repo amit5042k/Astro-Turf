@@ -10,20 +10,20 @@ Sirohi	2489	7285	23	39229
 Sirūr	1883	7437	52	37111
 Shirdi	1977	7448	152	36004
 Sīrkāzhi	1124	7974	203	34927
-Sirkali	1124	7974	203	34927
+Sirkali	1124	7974	203	34927	Sīrkāzhi
 Siraspur	2876	7713	769	30445
 Sirsāganj	2706	7869	403	29034
 Shiraguppi	1662	7471	90	25000
 Sirsi	2864	7864	646	22549
 Sirumugai	1132	7701	156	20066
-Sirumugal	1132	7701	156	20066
+Sirumugal	1132	7701	156	20066	Sirumugai
 Sirka	2365	8543	391	19871
 Sirgittī	2205	8215	291	18428
-Bhogpur Sirwal	3155	7564	369	18008
+Bhogpur Sirwal	3155	7564	369	18008	Bhogpur
 Sir Muttra	2652	7737	622	17988
 Shirhatti	1523	7558	606	17610
 Sirālkoppa	1438	7525	346	16864
-Sirāikoppa	1438	7525	346	16864
+Sirāikoppa	1438	7525	346	16864	Sirālkoppa
 Sirāthu	2564	8132	651	13598
 Shirwal	1815	7398	64	12703
 Sirsā	2526	8209	607	12608
@@ -31,22 +31,22 @@ Sirāppalli	1145	7825	231	12403
 Sirmaur	2484	8136	516	11878
 Sirugamani	1089	7853	270	10743
 Sirpur	1948	7958	162	10116
-Sirpur-Tandura	1948	7958	162	10116
+Sirpur-Tandura	1948	7958	162	10116	Sirpur
 Gokul Shirgaon	1664	7427	57	8623
 Shirud	2074	7489	190	8455
 Seer Hamdan	3379	7524	148	8233
 Sirukkāveripākkam	1285	7968	161	8032
 Shiravāgilu	1255	7499	305	7630
-Shiribagilu	1255	7499	305	7630
+Shiribagilu	1255	7499	305	7630	Shiravāgilu
 Sirgora	2221	7888	337	7430
 Sironchā	1885	7996	135	7427
-Sironcha Ry.	1885	7996	135	7427
-Sirdārpore	2267	7498	130	7293
+Sironcha Ry.	1885	7996	135	7427	Sironchā
+Sirdārpore	2267	7498	130	7293	Sardārpur
 Sirsia	2421	8631	452	7181
 Sirukalathur	1298	8005	161	6117
-Sircar Periapalayam	1113	7740	235	5986
+Sircar Periapalayam	1113	7740	235	5986	Sarkār Periyapālaiyam
 Shirgaon	1970	7272	192	5971
-Siri	1970	7272	192	5971
+Siri	1970	7272	192	5971	Shirgaon
 Shiriya	1263	7493	305	5277
 Sirpur	1966	8144	619	279
 Sirwāra	2312	7769	338	0
@@ -56,10 +56,10 @@ Sirwa	2667	7110	217	0
 Sirwa	2508	7116	285	0
 Sirvoi	1520	7408	102	0
 Sirvel	1532	7853	232	0
-Sirvei	1532	7853	232	0
+Sirvei	1532	7853	232	0	Sirvel
 Sirvār	1618	7702	50	0
 Siruvalūr	1136	7746	211	0
-Siruvaliur	1136	7746	211	0
+Siruvaliur	1136	7746	211	0	Siruvalūr
 Siruvallūr	1246	7902	197	0
 Siruvāchchūr	1119	7887	265	0
 Sirūr Tājband	1863	7697	158	0
@@ -71,7 +71,7 @@ Sirtiso	2583	9252	330	0
 Sirtiguda	2010	8400	387	0
 Sirsuphal	1832	7458	52	0
 Sirsodem	1550	7417	188	0
-Sirçodem	1550	7417	188	0
+Sirçodem	1550	7417	188	0	Sirsodem
 Sirsod	2548	7750	436	0
 Sirsi	2654	8310	647	0
 Sirsī	2502	7725	336	0
@@ -98,29 +98,29 @@ Sirisādu	1829	7954	579	0
 Sirire	2591	9477	18	0
 Sirigeri	1544	7684	44	0
 Sirigāo	1560	7390	188	0
-Sirgão	1560	7390	188	0
+Sirgão	1560	7390	188	0	Sirigāo
 Siriāri	2568	7381	273	0
 Sirhāli Kalān	3128	7494	260	0
-Sirhāli	3128	7494	260	0
+Sirhāli	3128	7494	260	0	Sirhāli Kalān
 Sirdukbāri	2377	9159	649	0
 Sirdala	2466	8541	107	0
 Sird	2749	7248	344	0
 Sir Bhum Chun	3292	7758	650	0
 Siravda	1737	7414	64	0
-Sirauda	1737	7414	64	0
+Sirauda	1737	7414	64	0	Siravda
 Sirasgaon	2133	7768	133	0
 Sirangulim	1548	7418	188	0
-Siranguli	1548	7418	188	0
+Siranguli	1548	7418	188	0	Sirangulim
 Sirāmpur	2412	8633	452	0
 Sirāli	2215	7706	465	0
 Sirahōm	3385	7516	148	0
 Siradhon	1737	7560	90	0
-Siridão	1545	7386	188	0
-Sīra	2718	7205	344	0
+Siridão	1545	7386	188	0	Silidao
+Sīra	2718	7205	344	0	Sīhar
 Shirsoli	2092	7553	78	0
 Shirsi	1737	7531	132	0
 Shirsāla Budrukh	2106	7498	78	0
-Shirsāla	2106	7498	78	0
+Shirsāla	2106	7498	78	0	Shirsāla Budrukh
 Shirsadi	1789	7334	234	0
 Shiroshi	1940	7361	246	0
 Shirola	1521	7436	59	0
@@ -128,19 +128,19 @@ Shirol	1674	7460	57	0
 Shirnandgi	1730	7543	132	0
 Shīrkhed	2122	7794	133	0
 Shirir	3207	7712	680	0
-Shiri	3207	7712	680	0
-Shirar	3207	7712	680	0
+Shiri	3207	7712	680	0	Shirir
+Shirar	3207	7712	680	0	Shirir
 Shirguppi	1662	7471	90	0
 Shirguppi	1536	7528	682	0
 Shirgaon	1745	7363	234	0
 Shirgaon	1638	7357	213	0
-Shirgaon-Devgad	1638	7357	213	0
+Shirgaon-Devgad	1638	7357	213	0	Shirgaon
 Shirāli	1403	7453	59	0
 Shirāla	1699	7413	65	0
 Shirāla	1646	7386	213	0
 Shirādi	1283	7553	55	0
 Shīradhon	1852	7618	48	0
-Nangal Sirohi	2819	7613	694	0
+Nangal Sirohi	2819	7613	694	0	Serohi Nāngal
 Sirgiri	2086	8235	349	0
 Sirangsar	2891	7448	486	0
 Sirgāpur	1780	7617	48	0
@@ -172,7 +172,7 @@ Siruvallur	1311	8024	204	0
 Siruvallur	1312	8025	204	0
 Siruseri	1283	8020	247	0
 Siruppananjeri	1287	7998	161	0
-Siruppanahieri	1287	7998	161	0
+Siruppanahieri	1287	7998	161	0	Siruppananjeri
 Sirsi Circle Flyover	1297	7760	43	0
 Sirsali	2847	7514	539	0
 Sirsala	2843	7514	539	0
@@ -188,7 +188,7 @@ Sīron Kalān	2483	7832	384	0
 Sirsa	2798	7912	117	0
 Sirājmau	2679	7904	290	0
 Sirsā Biba Etāwah	2680	7912	290	0
-Sirsa Etāwah	2680	7912	290	0
+Sirsa Etāwah	2680	7912	290	0	Sirsā Biba Etāwah
 Sirsi ki Dhāni	2693	7569	121	0
 Sirsi	2691	7568	121	0
 Sirāni	2676	7563	121	0
@@ -202,7 +202,7 @@ Sirkonda	1942	7856	282	0
 Shīrūru	1391	7461	257	0
 Shirur	1688	7493	569	0
 Shirval	1759	7629	132	0
-Shirāval	1759	7629	132	0
+Shirāval	1759	7629	132	0	Shirval
 Sirupākkam	1155	7899	178	0
 Siruttondamādavi	1166	7957	697	0
 Sirasmarga	1911	7566	33	0
@@ -290,7 +290,7 @@ Sīrah	3097	7590	674	0
 Dhūl Sira	2855	7703	763	0
 Sirsa	2843	7758	588	0
 Sirondhan	2847	7774	637	0
-Siraswala	2948	7476	585	0
+Siraswala	2948	7476	585	0	Shaikhū Khera
 Siraswala	2950	7499	585	0
 Sīrmān	2585	7405	273	0
 Sirsi	2708	7559	121	0
@@ -472,7 +472,7 @@ Zamīn Sir	2575	8298	498	0
 Sirmaur ka Pura	2664	7818	478	0
 Sirmati	2657	7813	478	0
 Sirsoda	2125	7617	29	0
-Sirsod	2125	7617	29	0
+Sirsod	2125	7617	29	0	Sirsoda
 Sirpur	2178	7633	209	0
 Sirāli	2285	7709	675	0
 Sīr Govardhanpur	2526	8300	251	0
@@ -532,7 +532,7 @@ Sirsa Malkhān	2595	7893	334	0
 Siriyādangar	2428	8356	743	0
 Sirajpur	2060	7946	111	0
 Sirsi	2095	7964	141	0
-Sirās	2047	7941	111	0
+Sirās	2047	7941	111	0	Songaon
 Sirpur	2047	7950	111	0
 Sirsi Kalān	2547	8009	614	0
 Sirkānda	2031	7952	111	0
@@ -594,7 +594,7 @@ Siri	2446	8001	532	0
 Sīro	2444	8010	532	0
 Sirsi	2400	8006	532	0
 Siregaon	2209	7920	337	0
-Sirai	2452	8091	324	0
+Sirai	2452	8091	324	0	Amriha
 Sirolīpār	2266	7961	368	0
 Siromānpur	2512	8227	607	0
 Sirīpatti	2519	8253	201	0
@@ -741,7 +741,7 @@ Pura Sir	2711	8246	542	0
 Sirāpār	2704	8242	542	0
 Bhika Sīr	2703	8245	542	0
 Dhanghata Sir	2703	8247	542	0
-Sīr	2750	8250	280	0
+Sīr	2750	8250	280	0	Bagahi
 Sirponkha	2736	8265	292	0
 Sirsihwa	2747	8269	280	0
 Sirsia	2734	8271	292	0
@@ -830,7 +830,7 @@ Math Siroman	2643	8328	325	0
 Sīr Buzurg	2646	8342	325	0
 Sīr	2648	8348	325	0
 Sirsia	2686	8351	325	0
-Sirsia	2698	8357	515	0
+Sirsia	2698	8357	515	0	Malmalia
 Sirsia	2676	8362	560	0
 Sirsia	2684	8373	560	0
 Balua Rāmpur Sirpāl	2670	8371	560	0
@@ -863,7 +863,7 @@ Pura Sirwār	2511	8184	607	0
 Sirhir	2509	8194	607	0
 Sirwāri	2485	8108	324	0
 Sirsi	2212	7495	130	0
-Sirni	3243	7580	692	0
+Sirni	3243	7580	692	0	Hardo Saran
 Sirsāni	2176	7423	186	0
 Shirdhane	2096	7486	190	0
 Shirvadevani	2022	7405	54	0
@@ -951,7 +951,7 @@ Shiraka	3265	7615	362	0
 Sirsundi	2043	8038	135	0
 Sirna	3248	7617	362	0
 Sirpur	2003	8048	135	0
-Sirdārtola	2084	8059	644	0
+Sirdārtola	2084	8059	644	0	Lātākoro
 Sirori	2518	7387	572	0
 Sirmani	3220	7609	38	0
 Sirmani	3218	7601	38	0
@@ -1625,7 +1625,7 @@ Shiristedārdoddi	1248	7746	626	0
 Sīrtimmanatti	1257	7774	223	0
 Sirideddipalle	1578	7808	236	0
 Sirigepalle	1476	7845	229	0
-Sirvel	1539	7847	232	0
+Sirvel	1539	7847	232	0	Nāgulavaram
 Sirigepalle	1491	7811	229	0
 Sirigepalle	1434	7811	444	0
 Siresandra	1309	7828	47	0
@@ -1891,7 +1891,7 @@ Siruvattūr	1167	7920	390	0
 Siruvambār	1162	7923	178	0
 Sirupākkam	1172	7923	390	0
 Sirumāttūr	1133	7900	265	0
-Sirumadurai	1129	7911	265	0
+Sirumadurai	1129	7911	265	0	Tungapuram
 Sirumulai	1143	7915	178	0
 Sirukalattūr	1128	7923	383	0
 Sirumangalam	1149	7922	178	0
@@ -1931,7 +1931,7 @@ Ten Siruvallūr	1161	7894	390	0
 Sirukudal	1129	7894	265	0
 Siruvayalūr	1135	7888	265	0
 Sirunila	1146	7885	265	0
-Sirumāttūr	1131	7898	265	0
+Sirumāttūr	1131	7898	265	0	Kudikkādu
 Sirumāttūr	1132	7899	265	0
 Sirukalappur	1104	7890	270	0
 Sirukanbūr	1116	7893	265	0

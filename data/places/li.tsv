@@ -1,32 +1,32 @@
 Libāspur	2875	7715	769	44375
 Limbdi	2257	7181	28	42769
-Limri	2257	7181	28	42769
+Limri	2257	7181	28	42769	Limbdi
 Lingsugūr	1616	7652	50	35411
-Lilong	2471	9397	95	24900
+Lilong	2471	9397	95	24900	Keirao Bitra
 Lingiādīh	2208	8218	291	22209
-Lidhora Khas	2507	7887	481	12974
+Lidhora Khas	2507	7887	481	12974	Ladhaura
 Lido Town	2729	9574	460	11717
 Lilia	2154	7136	216	10359
-Lilia Moia	2154	7136	216	10359
-Liliya	2154	7136	216	10359
+Lilia Moia	2154	7136	216	10359	Lilia
+Liliya	2154	7136	216	10359	Lilia
 Limbodi	2267	7589	660	9488
 Lido Tikok	2729	9574	460	5091
 Līmkheda	2283	7399	173	3924
-Linkheda	2283	7399	173	3924
-Limkhera	2283	7399	173	3924
+Linkheda	2283	7399	173	3924	Līmkheda
+Limkhera	2283	7399	173	3924	Līmkheda
 Limla	2119	7270	139	3683
 O.C.L. Industrial Township	2221	8459	272	2397
 Limodra	2136	7301	139	1869
-Limodara	2136	7301	139	1869
+Limodara	2136	7301	139	1869	Limodra
 Lit	3150	7548	565	1151
 Lit	3180	7577	296	640
 Limla	1911	7685	153	0
-Limgachi	2497	8775	461	0
+Limgachi	2497	8775	461	0	Nimgachi
 Limba	1910	7644	153	0
 Litipāra	2469	8762	658	0
 Litipāra	2057	8228	297	0
 Litim	2637	9470	41	0
-Lipaoli	2680	7690	447	0
+Lipaoli	2680	7690	447	0	Lapāvali
 Linshot	3390	7682	2	0
 Lingtām	2725	8871	739	0
 Lingi	1967	7688	640	0
@@ -34,12 +34,12 @@ Lingāpur	1902	7913	91	0
 Linganamakki	1417	7483	346	0
 Lingampet	1824	7813	58	0
 Lingampalli	1749	7832	62	0
-Lingampalle	1749	7832	62	0
+Lingampalle	1749	7832	62	0	Lingampalli
 Lingāla	1801	8029	226	0
 Lingāla	1450	7811	229	0
 Lingāl	1627	7852	467	0
 Lingadahalli	1360	7585	98	0
-Lingadhalli	1360	7585	98	0
+Lingadhalli	1360	7585	98	0	Lingadahalli
 Linga	2197	7893	337	0
 Lingā	2178	8025	144	0
 Linga	2069	7377	169	0
@@ -61,9 +61,9 @@ Likche	3373	7796	2	0
 Lifripāra	2211	8381	349	0
 Liekzan	3460	7763	2	0
 Lida	2805	9420	557	0
-Lidi	2805	9420	557	0
+Lidi	2805	9420	557	0	Lida
 Libāsi	2261	7262	167	0
-Pa-li-chia-ssu	3270	7945	2	0
+Pa-li-chia-ssu	3270	7945	2	0	Demchok
 Lidwās	3417	7498	595	0
 Littarbal	3400	7492	428	0
 Lisriān	3335	7418	504	0
@@ -89,14 +89,14 @@ JP Nagar LIC Colony	1291	7759	43	0
 Limri ki Dhāni	2819	7547	300	0
 Līlas	2885	7554	431	0
 Likua	2846	7569	300	0
-Līlon ki Dhāni	2807	7562	300	0
+Līlon ki Dhāni	2807	7562	300	0	Mila ki Dhāni
 Libra	3072	7618	674	0
 Lira	2489	7898	481	0
 Nagla Līta	2715	7946	570	0
 Līlāpur	2756	7959	688	0
 Likkha Purwa	2707	7994	570	0
 Lidhora	2628	7903	334	0
-Lidhaura	2628	7903	334	0
+Lidhaura	2628	7903	334	0	Lidhora
 Lidhaura Khurd	2544	7940	614	0
 Lilwa	2537	7932	614	0
 Lidhora	2675	7966	715	0
@@ -110,11 +110,11 @@ Litsammi	2619	9464	7	0
 Lizatomi	2609	9466	7	0
 Lingasanpalli	1654	7834	467	0
 Lingāpuram	1803	8078	60	0
-Lingānur	1890	8019	135	0
+Lingānur	1890	8019	135	0	Jingānur
 Lingadahalli	1419	7705	93	0
 Lihara	1860	7571	48	0
 Lingdev	1943	7405	152	0
-Liavāndippatti	1016	7845	454	0
+Liavāndippatti	1016	7845	454	0	Ilavāndippatti
 Lingpāni	2223	7930	337	0
 Lilahat	2684	8420	560	0
 Lidhora	2535	7867	529	0
@@ -201,10 +201,10 @@ Lingampeta	1891	7988	91	0
 Lingampalli	1916	8017	135	0
 Lingsingbong	2709	8809	573	0
 Lingten	2709	8817	573	0
-Lisdi	2881	7799	756	0
+Lisdi	2881	7799	756	0	Bhagwatīpur
 Limbu Basti	2710	8827	573	0
 Lingling	2703	8837	573	0
-Linding	2703	8837	573	0
+Linding	2703	8837	573	0	Lingling
 Lingāng	2718	8843	85	0
 Lingthing	2713	8847	85	0
 Lingtse	2723	8852	739	0
@@ -326,7 +326,7 @@ Lingareddiguda	1719	7819	62	0
 Liler ka Pura	2629	7764	478	0
 Lines Gaokhāna	2731	7962	688	0
 Lillipur	1711	7836	62	0
-Lingampalli	1703	7840	62	0
+Lingampalli	1703	7840	62	0	Murlīnagar
 Lingāram	1695	7827	317	0
 Lingarāopalli	1692	7838	62	0
 Lingamdana	1687	7833	62	0
@@ -374,13 +374,13 @@ Lihida	2122	7798	133	0
 Ling	2020	7775	67	0
 Ling	2009	7787	67	0
 Lingāpaunār	2173	7967	144	0
-Lilāma	2157	7992	144	0
+Lilāma	2157	7992	144	0	Shivpur
 Lilāri	2465	8324	103	0
 Lilmarwa	2409	8315	103	0
 Lilāsi	2408	8316	103	0
 Lībar	2407	8341	341	0
 Lingampalli	1731	7975	250	0
-Likhanidhaura	2407	8351	743	0
+Likhanidhaura	2407	8351	743	0	Kadwa
 Lidhaura Haveli	2567	7875	503	0
 Lilambarpur	2596	8072	728	0
 Lingadahalli	1636	7663	72	0
@@ -390,7 +390,7 @@ Lingadhalli	1821	7731	170	0
 Lingadahalli	1819	7749	170	0
 Lingāpur	1927	7821	360	0
 Lingāpur	1767	7846	311	0
-Maheshwaram Lines	1732	7848	62	0
+Maheshwaram Lines	1732	7848	62	0	Barkas
 Lilgawān	2329	7808	338	0
 Lingampalli	1693	7806	317	0
 Lingampet	1682	7822	317	0
@@ -530,7 +530,7 @@ Lilpur	3371	7512	148	0
 Lisar Muqān	3361	7524	148	0
 Tāl Likhia	2687	8328	325	0
 Lillahwa	2682	8337	325	0
-Lighra Khairwa	2649	8350	535	0
+Lighra Khairwa	2649	8350	535	0	Tighra Khairwa
 Chak Lilkanth	2673	8363	560	0
 Lilau ka Purwa	2561	8159	718	0
 Lilapur Bhainsahi	2647	8351	535	0
@@ -553,7 +553,7 @@ Liundi	3257	7573	496	0
 Līlāpur	2592	8183	718	0
 Lilauli	2578	8187	718	0
 Likdirpur	2559	8177	607	0
-Pure Līla	2567	8196	607	0
+Pure Līla	2567	8196	607	0	Chak Afzal
 Lidra	2487	8101	324	0
 Lidhar	3200	7568	296	0
 Lilumri	2249	7435	155	0
@@ -600,7 +600,7 @@ Lirhot	3274	7607	362	0
 Ligga	3268	7602	362	0
 Lindi Behi	3255	7607	362	0
 Lingru Nāg	3230	7622	38	0
-Līlātola	2294	8140	225	0
+Līlātola	2294	8140	225	0	Jarwātola
 Likhnitola	2285	8134	468	0
 Līlātola	2293	8141	225	0
 Limhaipur	2228	8132	537	0
@@ -664,7 +664,7 @@ Lianka	3057	7921	365	0
 Limoda	2385	7664	16	0
 Lingmāni	2112	8361	308	0
 Liākhai	2185	8384	627	0
-Limaipatra	2171	8376	627	0
+Limaipatra	2171	8376	627	0	Katātikra
 Limpāli	2152	8391	567	0
 Limchhor	2125	8386	497	0
 Lingāgiri	1857	8094	288	0
@@ -917,7 +917,7 @@ Lingannanahalli	1455	7624	275	0
 Lingāpura	1447	7604	275	0
 Lingavvanāgatihalli	1431	7621	255	0
 Lingannanahalli	1448	7634	275	0
-Lingadahalli	1434	7635	255	0
+Lingadahalli	1434	7635	255	0	Sultānipura
 Lingārhatti	1426	7647	255	0
 Lingadahalli	1415	7626	255	0
 Lingammanahalli	1484	7663	366	0

@@ -1,25 +1,25 @@
-Nagra Katangi	2344	7980	598	19040
+Nagra Katangi	2344	7980	598	19040	Katangi
 Nagrota	3280	7491	581	13836
-Nagrota Panjgirain	3280	7491	581	13836
+Nagrota Panjgirain	3280	7491	581	13836	Nagrota
 Nagri	2035	8196	652	13308
 Nagrām	2662	8114	714	9858
 Nagri Kalan	2382	8634	401	9410
-Nagri	3235	7543	496	7800
+Nagri	3235	7543	496	7800	Parol
 Nagri	2385	7514	580	7034
 Nagrota	3206	7609	38	6125
 Nagrota Bagwān	3211	7638	38	5900
-Nagrota Khās	3211	7638	38	5900
-Nagrota	3211	7638	38	5900
-Khās Nagrota	3211	7638	38	5900
+Nagrota Khās	3211	7638	38	5900	Nagrota Bagwān
+Nagrota	3211	7638	38	5900	Nagrota Bagwān
+Khās Nagrota	3211	7638	38	5900	Nagrota Bagwān
 Nagrota Thāl	3270	7525	373	0
-Nagrota	3270	7525	373	0
+Nagrota	3270	7525	373	0	Nagrota Thāl
 Nagri	2535	8445	377	0
 Nagri	2333	8518	562	0
 Nāgri	2041	7887	111	0
-Nāgrāl	1610	7631	50	0
+Nāgrāl	1610	7631	50	0	Nāgarhāl
 Nāgrākāta	2688	8890	602	0
 Nagrājsar	2764	7245	307	0
-Nagrāsar	2764	7245	307	0
+Nagrāsar	2764	7245	307	0	Nagrājsar
 Nagrāj	2646	7089	217	0
 Nāgraibāri	2360	9161	385	0
 Nagra	2597	8388	536	0
@@ -66,7 +66,7 @@ Nagra Ammu	2757	7777	177	0
 Nagra Mahal	2722	7792	546	0
 Nāgri	2694	7882	290	0
 Jhaman Nagra	2738	7919	711	0
-Nāgreddipalli	1750	7806	31	0
+Nāgreddipalli	1750	7806	31	0	Gadimalkapur
 Nagla Nagriya	2694	7758	114	0
 Nagriya	2682	7794	622	0
 Nagra	2725	7970	686	0
@@ -95,7 +95,7 @@ Nagrāl	1812	7732	170	0
 Nagrājkhera	2334	7807	338	0
 Nāgrākheri	2490	7628	371	0
 Nāgri	2238	7888	337	0
-Dāra Nagra	2770	7938	470	0
+Dāra Nagra	2770	7938	470	0	Kaimgan
 Chita Nagra	2773	7939	470	0
 Dauria Nagra	2775	7935	117	0
 Jailāl Nagra	2773	7936	470	0
@@ -118,7 +118,7 @@ Amīnpur Nagraur	2757	8163	294	0
 Nagraur	2756	8164	294	0
 Nagraura	2759	8177	618	0
 Nagraurah	2681	8119	30	0
-Nagra	2589	8107	728	0
+Nagra	2589	8107	728	0	Sarāi Sāba
 Nāgrālhuli	1660	7615	80	0
 Nāgrāldon	1671	7614	80	0
 Nagra	2714	8099	30	0
@@ -129,7 +129,7 @@ Zākir Nagra	2807	7978	470	0
 Nagra Rata	2822	7990	683	0
 Kutub Nagra	2824	7985	683	0
 Nagra Shāhjahān Khān	2801	7996	470	0
-Nagrumau	2611	8106	681	0
+Nagrumau	2611	8106	681	0	Saādatābād
 Nagra	2862	7887	511	0
 Nagra	2838	7899	117	0
 Nāgrādhkhāh	3399	7472	76	0
@@ -181,7 +181,7 @@ Nagrota	3232	7598	38	0
 Nagrār	2297	8028	480	0
 Nāgrā	2150	8021	171	0
 Nagrota	3194	7595	38	0
-Nagrota	3183	7588	296	0
+Nagrota	3183	7588	296	0	Chatarpur
 Nāgre	3181	7576	296	0
 Nagrāhī	2240	8223	388	0
 Nagra	3108	7569	369	0
@@ -238,7 +238,7 @@ Nagrā	2341	8511	562	0
 Nagri	2347	8532	562	0
 Nagri	2392	8552	764	0
 Ūpar Nagrū	2349	8556	562	0
-Nagrāberā Degā Degi	2346	8558	562	0
+Nagrāberā Degā Degi	2346	8558	562	0	Pailādā
 Nagra	2416	8682	502	0
 Nagri	2398	8435	701	0
 Nagrā	2382	8483	707	0

@@ -1,32 +1,32 @@
 Durgapur	2352	8731	642	518872
 Dhule	2090	7478	190	375559
-Dhūlia	2090	7478	190	375559
-Dundigal	1037	7798	187	292512
-Dhundgal	1037	7798	187	292512
+Dhūlia	2090	7478	190	375559	Dhule
+Dundigal	1037	7798	187	292512	Dindigul
+Dhundgal	1037	7798	187	292512	Dindigul
 Durg	2119	8128	286	268806
-Surendranagar Dudhrej	2273	7165	28	179628
-Dum Dum	2263	8842	450	122719
-DDU Nagar	2528	8312	724	109650
+Surendranagar Dudhrej	2273	7165	28	179628	Surendranagar
+Dum Dum	2263	8842	450	122719	Dam Dam
+DDU Nagar	2528	8312	724	109650	Pandit Deen Dayal Upadhyaya Nagar
 Dhuliān	2468	8795	471	77070
 Alīpur Duār	2648	8952	752	65232
-Alipur Duars	2648	8952	752	65232
+Alipur Duars	2648	8952	752	65232	Alīpur Duār
 Dhubri	2602	8999	561	63388
-Dhuburi	2602	8999	561	63388
+Dhuburi	2602	8999	561	63388	Dhubri
 Dhūri	3037	7587	593	55225
 Dumraon	2555	8415	620	53618
 Sri Dūngargarh	2810	7401	307	53294
-Dungargarh	2810	7401	307	53294
+Dungargarh	2810	7401	307	53294	Sri Dūngargarh
 Dūngarpur	2384	7371	512	47706
 Dumka	2427	8725	669	47663
 Ganj Dundwāra	2773	7894	616	46314
-Dundwārāganj	2773	7894	616	46314
+Dundwārāganj	2773	7894	616	46314	Ganj Dundwāra
 Dhupgāri	2659	8901	602	41168
-Dhupguri	2659	8901	602	41168
+Dhupguri	2659	8901	602	41168	Dhupgāri
 Dubrājpur	2379	8738	361	35087
 Duliajan	2736	9532	380	28626
-Duliāgaon	2736	9532	380	28626
+Duliāgaon	2736	9532	380	28626	Duliajan
 Duliajan Oil Town	2736	9531	380	28626
-Dhurrumpur	2054	7317	261	24178
+Dhurrumpur	2054	7317	261	24178	Dharampur
 Dooru Verinag	3356	7523	148	22968
 Dugda	2375	8617	517	22740
 Dum Duma	2757	9556	460	21706
@@ -35,12 +35,12 @@ Durgāpur	2001	7930	111	18561
 Dumjor	2262	8825	354	17972
 Dukli	2380	9130	744	16941
 Dumra	2657	8552	582	15778
-Dungaria Chhapāra	2239	7954	368	15371
+Dungaria Chhapāra	2239	7954	368	15371	Seoni Chhapāra
 Dundigal	1761	7841	311	13465
-Dhundgol	1761	7841	311	13465
+Dhundgol	1761	7841	311	13465	Dundigal
 Dūdhi	2421	8324	103	12742
 Dudhani	1736	7637	132	12735
-Dudhni	1736	7637	132	12735
+Dudhni	1736	7637	132	12735	Dudhani
 Dunetha	2043	7285	760	12470
 Dhuwaran	2224	7276	157	11473
 Dumarkunda	2371	8679	401	11434
@@ -55,9 +55,9 @@ Dungarpur	2129	7176	168	6105
 Durena	2238	8259	388	5892
 Dūsi	1278	7968	197	5577
 Dudpatil I	2491	9279	378	5083
-Dudhpatil PT I	2491	9279	378	5083
+Dudhpatil PT I	2491	9279	378	5083	Dudpatil I
 Dungarpur	2145	7049	185	5039
-Dukpen	2720	9240	523	3812
+Dukpen	2720	9240	523	3812	Rupa
 Dhuleta	3112	7583	369	3008
 Dugadda	2981	7861	612	2780
 Dubai	2708	8293	292	2139
@@ -66,18 +66,18 @@ Dubai	2631	8075	312	1969
 Dug	3179	7457	222	1345
 Dubai	2708	8175	542	1081
 Duna	2954	7959	551	41
-Dungti	3322	7888	2	0
+Dungti	3322	7888	2	0	Thangra
 Patwa Dunga	2934	7945	551	0
-Jatar Duel	2199	8849	4	0
-Hariharpur-Dumka	2442	8692	669	0
+Jatar Duel	2199	8849	4	0	Jatār Deul
+Hariharpur-Dumka	2442	8692	669	0	Hariharpur
 Dūgal Kota	2803	7648	482	0
-Dungar Singhpura	2975	7390	374	0
+Dungar Singhpura	2975	7390	374	0	Ganeshgarh
 Duvvūru	1484	7865	229	0
 Duvvam	1826	8354	179	0
 Duva	2452	7190	134	0
 Dutung	3255	7816	425	0
 Duttalūru	1485	7940	6	0
-Duthalur	1485	7940	6	0
+Duthalur	1485	7940	6	0	Duttalūru
 Dūta	2758	9383	15	0
 Dusragām	1972	8398	387	0
 Dusarbid	2001	7631	49	0
@@ -95,7 +95,7 @@ Durgi	1643	7954	10	0
 Durgauti	2521	8352	749	0
 Durgarājupatnam	1398	8015	45	0
 Durgāpur	2553	8815	610	0
-Doorgap	2553	8815	610	0
+Doorgap	2553	8815	610	0	Durgāpur
 Durgāpur	2477	8773	461	0
 Durgāpur	2092	8488	414	0
 Durgapanga	1969	8365	387	0
@@ -104,32 +104,32 @@ Durbate	1538	7398	188	0
 Duraundha	2609	8446	639	0
 Durāha	2340	7716	675	0
 Durgpura	2463	7614	333	0
-Duragpur	2463	7614	333	0
-Duragpura	2463	7614	333	0
+Duragpur	2463	7614	333	0	Durgpura
+Duragpura	2463	7614	333	0	Durgpura
 Dura	2705	7774	546	0
 Dupāra	2353	7620	320	0
 Dūpādu	1592	7937	200	0
-Dupad	1592	7937	200	0
+Dupad	1592	7937	200	0	Dūpādu
 Dunya	2930	8000	554	0
 Dūni	2587	7560	313	0
 Dungripāli	2105	8355	308	0
-Dunguripāli	2105	8355	308	0
+Dunguripāli	2105	8355	308	0	Dungripāli
 Dungri	2296	7410	173	0
 Dūngrāna	2901	7510	486	0
 Dungra Chhota	2317	7431	166	0
-Dūngra	2317	7431	166	0
+Dūngra	2317	7431	166	0	Dungra Chhota
 Dūngla	2451	7433	417	0
 Dunera	3244	7589	692	0
 Dundlod	2790	7523	300	0
 Dunāwa	2187	7849	462	0
 Dūndāra	2589	7280	344	0
-Dunāra	2589	7280	344	0
+Dunāra	2589	7280	344	0	Dūndāra
 Dummuriputtu	1877	8280	316	0
-Dumuriput	1877	8280	316	0
+Dumuriput	1877	8280	316	0	Dummuriputtu
 Dumsa	2752	9587	460	0
 Dumri Kalān	2134	7925	141	0
 Dumri Chatti	2461	8522	118	0
-Dumrl Chatti	2461	8522	118	0
+Dumrl Chatti	2461	8522	118	0	Dumri Chatti
 Dumri	2548	8509	604	0
 Dumri	2400	8600	452	0
 Dumrahar	2392	8298	349	0
@@ -140,28 +140,28 @@ Dumra	2304	6904	108	0
 Dumnichauki	2635	9183	747	0
 Dummagūdem	1785	8089	60	0
 Dumkhar	3439	7676	2	0
-Dumkbar	3439	7676	2	0
+Dumkbar	3439	7676	2	0	Dumkhar
 Dumkhal	2174	7384	254	0
 Dumerbal	2000	8345	284	0
 Dumdumi	2390	8618	401	0
 Dumbartoli	2288	8438	321	0
-Dumartoli	2288	8438	321	0
+Dumartoli	2288	8438	321	0	Dumbartoli
 Dumbāgurha	1915	8297	316	0
-Dumbāguda	1915	8297	316	0
+Dumbāguda	1915	8297	316	0	Dumbāgurha
 Dumāsar	2908	7468	486	0
 Dumas	2110	7270	139	0
 Dumarpān	2395	8326	341	0
 Dumāro	2183	8511	272	0
 Dumariā	2444	8440	118	0
 Dumāre	3292	7647	362	0
-Dumāri	3292	7647	362	0
+Dumāri	3292	7647	362	0	Dumāre
 Dumanata	1950	8113	619	0
 Dumacem	1569	7392	188	0
 Dulumābāri	2349	9171	385	0
 Dulhi	2815	8097	323	0
 Dule	3079	7585	674	0
 Dulchāsar	2802	7378	307	0
-Dulchāser	2802	7378	307	0
+Dulchāser	2802	7378	307	0	Dulchāsar
 Dulangmukh	2750	9427	355	0
 Dulampur	2441	8644	524	0
 Dulāhātgaon	2716	9399	355	0
@@ -174,17 +174,17 @@ Duggirāla	1633	8063	319	0
 Dugāsra	2485	7762	410	0
 Dugāri	2567	7581	353	0
 Dugarājupatnam	1398	8016	45	0
-Dugarazpatnam	1398	8016	45	0
-Dugarazpatam	1398	8016	45	0
+Dugarazpatnam	1398	8016	45	0	Dugarājupatnam
+Dugarazpatam	1398	8016	45	0	Dugarājupatnam
 Duff Dunbar	3224	7719	680	0
 Dudwa	2851	8067	323	0
-Dudwa Junction	2851	8067	323	0
+Dudwa Junction	2851	8067	323	0	Dudwa
 Dūdhwa	2833	7482	539	0
 Dudu	3288	7551	373	0
 Dūdu	2748	7395	430	0
 Dudkha	2363	7168	240	0
 Dudirās	1865	8155	406	0
-Dudimeta	1819	8187	109	0
+Dudimeta	1819	8187	109	0	Doddimetta
 Dudi	3467	7444	0	0
 Dudhnai	2598	9078	458	0
 Dudhia	2288	7401	173	0
@@ -195,7 +195,7 @@ Dudhai	2332	7013	108	0
 Dudhabhawi	1793	7451	64	0
 Dūdgaon	1898	7838	75	0
 Duddukūru	1574	8017	220	0
-Dudukur	1574	8017	220	0
+Dudukur	1574	8017	220	0	Duddukūru
 Dudda	1308	7621	679	0
 Dudada	1800	7889	466	0
 Dudāberi	2596	7104	285	0
@@ -206,29 +206,29 @@ Dublābera	2217	8604	382	0
 Dublabahāl	2107	8320	497	0
 Dubī	2618	7637	116	0
 Dubere	1978	7397	54	0
-Dubera	1978	7397	54	0
+Dubera	1978	7397	54	0	Dubere
 Dubbī	2693	7652	708	0
 Dubaulia	2670	8251	154	0
-Bazar Dubaulia	2670	8251	154	0
+Bazar Dubaulia	2670	8251	154	0	Dubaulia
 Dubāri	2619	8373	586	0
 Dūbaldhan	2868	7649	609	0
 Dubak	1817	7867	466	0
 Dūbacherla	1691	8136	87	0
 Duārmara	2749	9573	460	0
-Dūr	3358	7522	148	0
-Dūngar Khera	2355	7586	314	0
+Dūr	3358	7522	148	0	Doru
+Dūngar Khera	2355	7586	314	0	Dongarkhera
 Dumela Talla	2985	7903	612	0
 Dhutera	2226	7988	368	0
 Dhusera	2115	8168	310	0
 Dhurwasin	2312	8185	225	0
-Dhuruasan	2312	8185	225	0
+Dhuruasan	2312	8185	225	0	Dhurwasin
 Dhurwai	2548	7904	433	0
 Dhurkot	2194	8261	696	0
 Dhurki	2414	8344	326	0
-Dhurk	2414	8344	326	0
+Dhurk	2414	8344	326	0	Dhurki
 Dhuriāpār	2642	8325	325	0
 Dhurra	2470	7773	410	0
-Dhuri	2470	7773	410	0
+Dhuri	2470	7773	410	0	Dhurra
 Dhurairī	2684	7724	114	0
 Dhuraia	2498	8714	605	0
 Dhupdhara	2596	9106	458	0
@@ -246,22 +246,22 @@ Dhudike	3078	7534	499	0
 Dhubai	2764	7829	670	0
 Dhuanuali	1987	8513	541	0
 Dhuwānkheri	2358	7678	16	0
-Dhuankheri	2358	7678	16	0
+Dhuankheri	2358	7678	16	0	Dhuwānkheri
 Dhuān Bari	2593	7568	313	0
-Dhuān	2593	7568	313	0
+Dhuān	2593	7568	313	0	Dhuān Bari
 Duttargaon	1746	7660	71	0
-Dhundharka	2394	7513	580	0
+Dhundharka	2394	7513	580	0	Dhondarka
 Dūdu	2668	7523	121	0
 Buxa Duār	2676	8959	752	0
-Baksa Duar	2676	8959	752	0
+Baksa Duar	2676	8959	752	0	Buxa Duār
 Dulrāsar	2830	7451	539	0
 Duleri	2878	7498	539	0
-Duteri	2878	7498	539	0
+Duteri	2878	7498	539	0	Duleri
 Durgapur	2179	8823	4	0
 Dubi Bheri	2289	8828	279	0
 Dhulāsimia	2241	8809	354	0
 Dukherpol	2204	8841	4	0
-Dhuān	3091	7443	566	0
+Dhuān	3091	7443	566	0	Masta Gatti
 Dullāpur Kheri	3009	7388	374	0
 Dulleke Bāreke	3022	7399	3	0
 Durgjan	3408	7484	611	0
@@ -271,7 +271,7 @@ Dara Dulliān	3373	7407	1	0
 Dhundak	3369	7424	1	0
 Dungi Maniālān	3335	7422	504	0
 Dungi Brahiranān	3334	7423	504	0
-Dungi Brahmanān	3334	7423	504	0
+Dungi Brahmanān	3334	7423	504	0	Dungi Brahiranān
 Chak Dūdhkul	3431	7422	0	0
 Dūdhban	3431	7411	0	0
 Dūhom	3449	7415	0	0
@@ -279,7 +279,7 @@ Dudipur	3442	7423	0	0
 Duinwār	3429	7421	301	0
 Dusilpur	3417	7461	301	0
 Dusilporichrakh	3417	7461	301	0
-Dusilparichrakh	3417	7461	301	0
+Dusilparichrakh	3417	7461	301	0	Dusilporichrakh
 Dundor	3414	7451	301	0
 Dundus	3406	7474	76	0
 Durabal	3408	7474	76	0
@@ -307,7 +307,7 @@ Dumhūni	3287	7491	581	0
 Dūdhi	2997	7699	501	0
 Dūdha	2997	7700	501	0
 Dunne da Chak	3252	7493	720	0
-Chak Dunne	3252	7493	720	0
+Chak Dunne	3252	7493	720	0	Dunne da Chak
 Dundpur	3268	7477	581	0
 Dhūmwāl	3274	7481	581	0
 Dhūn	3273	7500	581	0
@@ -356,7 +356,7 @@ Dudwa	2846	7574	300	0
 Dūdhi	2844	7573	300	0
 Dulānīya	2841	7569	300	0
 Dugri	3056	7600	775	0
-Dundi Mājra	3022	7655	564	0
+Dundi Mājra	3022	7655	564	0	Rasūlpur
 Dūdhan Gujrān	3014	7654	564	0
 Dūdhan Sādhān	3016	7653	564	0
 Dhūpsari	3004	7651	501	0
@@ -415,25 +415,25 @@ Dunda Purwa	2719	7986	686	0
 Durgāganj	2723	7999	686	0
 Dūngarpur	2709	7994	570	0
 Durga Purwa	2703	7987	570	0
-Durha	2696	7921	290	0
+Durha	2696	7921	290	0	Dorha
 Durha	2692	7922	290	0
 Bhagautipur Durga Parshād	2690	7901	290	0
-Bhagwatīpur Durgāprasād	2690	7901	290	0
-Dhulbaja	2683	7923	290	0
+Bhagwatīpur Durgāprasād	2690	7901	290	0	Bhagautipur Durga Parshād
+Dhulbaja	2683	7923	290	0	Nagla Dolwajja
 Merhi Dudhi	2675	7915	290	0
-Meri Dudhi	2675	7915	290	0
-Meri Dudhj	2675	7915	290	0
+Meri Dudhi	2675	7915	290	0	Merhi Dudhi
+Meri Dudhj	2675	7915	290	0	Merhi Dudhi
 Dhumanpur	2676	7901	290	0
 Durha	2685	7916	290	0
 Durgāpur	2683	7910	290	0
 Dugaoli	2682	7909	290	0
-Dugāwali	2682	7909	290	0
+Dugāwali	2682	7909	290	0	Dugaoli
 Dugāin	2680	7913	290	0
 Pura Dundiān	2640	7908	334	0
-Dundian	2640	7908	334	0
+Dundian	2640	7908	334	0	Pura Dundiān
 Purwa Duār	2644	7913	326	0
 Purwa Duār	2641	7912	326	0
-Duār	2641	7912	326	0
+Duār	2641	7912	326	0	Purwa Duār
 Dhurniyāwās	2696	7559	121	0
 Dudhāra ki Dhāni	2693	7572	121	0
 Dhūta	2638	7925	741	0
@@ -458,7 +458,7 @@ Dulchīpur	2425	7902	352	0
 Dhundāri	2495	7948	663	0
 Dubdaipurwa	2480	7929	481	0
 Dhupsari	3249	7495	720	0
-Dhupiri	3249	7495	720	0
+Dhupiri	3249	7495	720	0	Dhupsari
 Dudod	2577	7365	273	0
 Kāla Dungarwāla	2711	7107	217	0
 Durjni	2734	7200	344	0
@@ -467,7 +467,7 @@ Duibohin Alma	2628	8999	713	0
 Ratnādesar Dūdli	2891	7415	486	0
 Dulchāsar	2872	7417	307	0
 Dhāni Dūngarsinghpura	2823	7497	539	0
-Dūngarsinghpura	2823	7497	539	0
+Dūngarsinghpura	2823	7497	539	0	Dhāni Dūngarsinghpura
 Duligaon	2626	9008	713	0
 Duaapāra	2612	9065	458	0
 Dubbin	2744	9251	523	0
@@ -516,12 +516,12 @@ Dullapur	2199	8128	537	0
 Dudharkhal	2988	7879	612	0
 Duttapukur	2277	8854	450	0
 Durgapur	2678	9137	608	0
-Dudlai Dewaran	2447	7541	655	0
+Dudlai Dewaran	2447	7541	655	0	Dudhlai
 Dudhahansa	2164	8704	421	0
 Dumawan	2472	7702	336	0
 Duarabagada	1961	8486	440	0
 Dudpatil VIII	2489	9281	378	0
-Dudhpatil Pt VIII	2489	9281	378	0
+Dudhpatil Pt VIII	2489	9281	378	0	Dudpatil VIII
 Duni	2647	9184	747	0
 Duhalia Pt 1	2463	9235	624	0
 Dulia Puranimelia	2687	9453	520	0
@@ -552,14 +552,14 @@ Dungarwās	2820	7672	519	0
 Dūnmān	2846	7677	630	0
 Duili ki Dhāni	2806	7686	482	0
 Dūdhla	3175	7701	278	0
-Dhūda	3171	7703	278	0
+Dhūda	3171	7703	278	0	Doda
 Dhuāndevi	3166	7704	278	0
 Dungādhār	3157	7708	278	0
 Dudhūl	3156	7704	278	0
 Dudla	3164	7716	278	0
 Dūlawāla	2993	7536	709	0
 Karipur Dumb	2971	7535	709	0
-Dungarsi	2911	7517	486	0
+Dungarsi	2911	7517	486	0	Jhorarpura
 Dūngarwās	2915	7518	486	0
 Durjanpur	2924	7565	339	0
 Dungarpura	2887	7504	486	0
@@ -700,7 +700,7 @@ Sihora Dungaria	2308	7843	338	0
 Dungaria	2314	7825	338	0
 Dungaria	2357	7855	352	0
 Dūngret	2672	7655	447	0
-Dūngarwāra	2667	7654	116	0
+Dūngarwāra	2667	7654	116	0	Bandhāwāra
 Dudiyāpura	2632	7673	447	0
 Dhūlwās	2629	7672	447	0
 Dūndipura	2627	7669	447	0
@@ -787,7 +787,7 @@ Dunka	2443	7348	22	0
 Dulāwat ka Gūrha	2477	7360	22	0
 Dubon	2491	7370	572	0
 Dunewāla	3083	7514	499	0
-Duneke	3083	7514	499	0
+Duneke	3083	7514	499	0	Dunewāla
 Dhūlkot Tāhli	3076	7525	499	0
 Burj Duna	3068	7522	499	0
 Dubri	2560	7654	335	0
@@ -803,7 +803,7 @@ Duriya	2521	7450	309	0
 Dhuwālya	2505	7465	417	0
 Kot Dunna	3019	7553	726	0
 Duggan	3025	7573	593	0
-Dula Singhwāla	3003	7574	593	0
+Dula Singhwāla	3003	7574	593	0	Naraingarh
 Dugchāri	2971	7776	449	0
 Dudhli	2967	7777	449	0
 Dhumanpuri	2966	7794	545	0
@@ -814,12 +814,12 @@ Dhūl Sira	2855	7703	763	0
 Dūndaheri	2851	7708	630	0
 Karkar Dūmān	2865	7730	693	0
 Dundāhera	2863	7744	727	0
-Durbha	2893	7725	477	0
+Durbha	2893	7725	477	0	Kāshmābād
 Jahāngīrpur Dundāhera	2884	7727	477	0
 Dugrawali	2878	7728	727	0
 Dūndsa	2825	7730	754	0
 Dungarpur	2842	7742	774	0
-Dulehpur	2829	7748	774	0
+Dulehpur	2829	7748	774	0	Parasrāmpur
 Dungrāwali	2894	7764	700	0
 Duryāi	2863	7751	588	0
 Dujāna	2862	7752	588	0
@@ -896,7 +896,7 @@ Durgāpura	2625	7525	313	0
 Dhulai	2612	7528	446	0
 Dungri Kalān	2625	7549	313	0
 Dungri Khurd	2623	7547	313	0
-Dudhera	2815	7757	588	0
+Dudhera	2815	7757	588	0	Alāuddīnnagar
 Durgāpur	2802	7765	543	0
 Sālehābād Dumhera	2866	7795	637	0
 Sālehābād Dumhera ki Marhaiyān	2867	7795	637	0
@@ -1091,7 +1091,7 @@ Dudhrai	2705	7859	403	0
 Nagla Dhure	2707	7864	403	0
 Nagla Dugmai	2704	7870	403	0
 Duganūr	1696	7730	71	0
-Dungar	2785	7891	616	0
+Dungar	2785	7891	616	0	Garhi Rāmpur
 Dupalli	1654	7739	72	0
 Dumehra	2784	7821	543	0
 Dhubia	2779	7822	543	0
@@ -1246,7 +1246,7 @@ Dhūsar Nawādia	2798	7975	470	0
 Mahāu Durga	2795	8000	470	0
 Dudaūn	2780	7996	470	0
 Dubaha	2749	7979	686	0
-Nai Dunia	2739	7975	686	0
+Nai Dunia	2739	7975	686	0	Marhaiyān
 Dulārpur	2746	7999	686	0
 Dubghatia	2744	8000	686	0
 Dudhia	2739	7998	686	0
@@ -1260,8 +1260,8 @@ Dūngarpur	2740	7876	711	0
 Dulhāpur	2737	7885	464	0
 Durgpur	2734	7898	464	0
 Garhi Duli	2734	7882	464	0
-Nagla Durjan	2735	7878	711	0
-Duhāi	2500	7751	436	0
+Nagla Durjan	2735	7878	711	0	Nagla Thuli
+Duhāi	2500	7751	436	0	Taintāi
 Dhūmgarh	2401	7741	215	0
 Durbeshi	2457	7759	410	0
 Dhurion	2428	7764	215	0
@@ -1288,12 +1288,12 @@ Nagla Dūngar	2793	7867	616	0
 Nagla Dūnda	2781	7852	616	0
 Dubbayigūdem	1699	7909	101	0
 Dhupkhari	2672	7969	715	0
-Dhupkhari	2669	7969	715	0
+Dhupkhari	2669	7969	715	0	Thulpia
 Dundua Mahua	2670	7975	671	0
 Nagla Durga	2660	7959	715	0
 Purwa Dulhārāi	2661	7952	715	0
 Durājpur	2632	7965	671	0
-Dujāpur	2632	7965	671	0
+Dujāpur	2632	7965	671	0	Durājpur
 Dugyāla	1668	7910	101	0
 Dūndepur	2623	7973	671	0
 Dhundha Purwa	2700	7983	570	0
@@ -1372,7 +1372,7 @@ Dube Ka Pura	2563	8305	32	0
 Dudhaunda	2557	8308	32	0
 Dulhāpur	2555	8303	251	0
 Dundhua	2551	8312	251	0
-Dhundpur	2561	8314	26	0
+Dhundpur	2561	8314	26	0	Parchandpur
 Duhuru	2566	8314	498	0
 Dudhaīpur	2560	8323	26	0
 Durjanpur	2561	8321	26	0
@@ -1412,7 +1412,7 @@ Dumgana	2547	7809	436	0
 Duwāhi	2536	7815	436	0
 Dulhai	2535	7805	436	0
 Dhuwārjan	2560	8331	26	0
-Durgāpur	2522	7809	436	0
+Durgāpur	2522	7809	436	0	Piproniyakhera
 Durgāpur	2517	7812	436	0
 Durgāpur	2513	7802	436	0
 Durgāpur	2505	7814	436	0
@@ -1537,12 +1537,12 @@ Durgāpur	2518	7873	529	0
 Dudhmaniyātola	2421	8360	743	0
 Dunikhārtola	2415	8367	743	0
 Duldulwa	2409	8374	743	0
-Duduhara	2405	8359	743	0
+Duduhara	2405	8359	743	0	Rājbāns
 Dumariyātanr	2401	8367	743	0
 Durgāpur	2086	7931	141	0
 Dhurkhera	2081	7932	141	0
 Dhuāni	2553	7883	433	0
-Durgāpur	2550	7889	529	0
+Durgāpur	2550	7889	529	0	Majra
 Dudhāra	2004	7943	111	0
 Dhūmankhera	2036	7960	111	0
 Dumkhera	2509	8018	663	0
@@ -1760,7 +1760,7 @@ Dubrāpahāri	2509	8248	201	0
 Kathwaiya Dūbe	2515	8239	201	0
 Dūbepur	2523	8246	583	0
 Dūbepur	2545	8253	32	0
-Dhūndāpur	2544	8262	32	0
+Dhūndāpur	2544	8262	32	0	Bhānpur
 Dūbepur	2547	8261	32	0
 Durasta	2542	8251	583	0
 Durjanpur	2542	8256	583	0
@@ -1823,7 +1823,7 @@ Dhus Kalān	2489	8202	607	0
 Dhus Khurd	2489	8202	607	0
 Durjanīpur	2489	8217	201	0
 Durjanīpur	2490	8218	201	0
-Duhia	2500	8234	201	0
+Duhia	2500	8234	201	0	Bistra Pānde
 Dhuria	2489	8235	201	0
 Dubār Kalān	2497	8241	201	0
 Dubār Khurd	2497	8239	201	0
@@ -1832,7 +1832,7 @@ Dūdhār	2933	7722	328	0
 Devri Dubāi	2495	8251	201	0
 Dhurkari	2482	8274	103	0
 Dhurkar	2483	8274	201	0
-Dubepur	2487	8286	201	0
+Dubepur	2487	8286	201	0	Rāmpur
 Dudhia	2479	8292	103	0
 Dubkhili	2471	8283	103	0
 Dulhatha	2469	8275	103	0
@@ -1903,10 +1903,10 @@ Dulāpur	2624	8093	681	0
 Purwa Durga Singh	2615	8093	681	0
 Dūdhli Khādar	2914	7805	700	0
 Durgāpur	2975	7847	326	0
-Fatehullāhpur Dūrgu	2957	7832	575	0
+Fatehullāhpur Dūrgu	2957	7832	575	0	Rānīpur
 Asrafpur Dūdhli	2952	7830	575	0
 Dūdhla	2952	7832	575	0
-Hakīmpur Dulla	2939	7832	575	0
+Hakīmpur Dulla	2939	7832	575	0	Gaonri
 Farīdpur Dulla	2936	7830	575	0
 Dūndakheri	2934	7840	575	0
 Dugri	2933	7842	575	0
@@ -2123,7 +2123,7 @@ Pura Dundi	2635	8140	662	0
 Dusauti	2632	8136	681	0
 Durga Purwa	2625	8135	681	0
 Kuti Bābā Durgādās	2648	8143	662	0
-Dūlānagar	2905	7893	552	0
+Dūlānagar	2905	7893	552	0	Kishanpur
 Pura Dunda	2643	8145	662	0
 Durgāpur	2640	8144	662	0
 Chak Dullīwāla	2902	7898	552	0
@@ -2217,7 +2217,7 @@ Durjanpur	2808	7990	470	0
 Dhullia	2819	7984	470	0
 Dhuriā Khurd	2813	7997	683	0
 Dūsgaon	1859	7819	75	0
-Dulepur Band	2874	7851	646	0
+Dulepur Band	2874	7851	646	0	Dārāpur
 Dugāwar	2872	7856	646	0
 Milak Dhūreta	2851	7857	646	0
 Dūlīpur	2592	8128	681	0
@@ -2714,7 +2714,7 @@ Dubra	2637	8255	553	0
 Pura Dulai	2636	8253	553	0
 Pura Dūbe	2627	8260	553	0
 Ismaīlpur Dubkhar	2639	8262	553	0
-Mirzābeg Dubhar	2639	8263	553	0
+Mirzābeg Dubhar	2639	8263	553	0	Makhdūmpur
 Dubkhar	2642	8263	553	0
 Dhuniāna	2647	8263	553	0
 Dulhāpur	2650	8261	553	0
@@ -3107,7 +3107,7 @@ Duwāl	3248	7537	496	0
 Dudoli	3238	7543	496	0
 Durgāpur	2535	8160	651	0
 Dubha	2526	8165	607	0
-Dulhāpur	2537	8164	651	0
+Dulhāpur	2537	8164	651	0	Ibrāhīmpur
 Durgāpur	2547	8164	651	0
 Kuniān Dube	2503	8171	516	0
 Jhanijhara Dūbe	2508	8172	607	0
@@ -3125,7 +3125,7 @@ Sandwa Dubān	2595	8181	718	0
 Dhurīpur	2592	8180	718	0
 Dulhīpur	2591	8180	718	0
 Dūbe ka Purwa	2589	8178	718	0
-Durgāganj	2587	8187	718	0
+Durgāganj	2587	8187	718	0	Amrauna
 Khāmpur Dūbepatti	2578	8197	718	0
 Dhusurpur	2566	8176	607	0
 Dūbepur	2564	8179	607	0
@@ -3213,9 +3213,9 @@ Durendā	2205	8018	144	0
 Dūnī	2213	8016	144	0
 Duhal Kuhna	3122	7456	260	0
 Duhal Nau	3118	7452	260	0
-Dūlchīke	3101	7462	566	0
+Dūlchīke	3101	7462	566	0	Kamālewāla
 Dulle ki Thoān	3106	7466	731	0
-Dhungabahāra	2295	8026	480	0
+Dhungabahāra	2295	8026	480	0	Raksha Tolā
 Dungariā	2288	8029	480	0
 Dungariā	2282	8032	480	0
 Dungariā Tolā	2283	8034	480	0
@@ -3412,7 +3412,7 @@ Dumamma	3254	7610	362	0
 Dūgb	3252	7606	362	0
 Dudli	3252	7610	362	0
 Dupai	3251	7615	362	0
-Duti	3251	7615	362	0
+Duti	3251	7615	362	0	Dupai
 Dulāru	3251	7623	362	0
 Dūgli	3256	7624	362	0
 Dhūni Uparla	3249	7604	362	0
@@ -3467,7 +3467,7 @@ Tikaria Dudia	2298	8122	225	0
 Dudia	2295	8121	225	0
 Dudhera	2270	8118	468	0
 Dundi Sarai	2269	8103	468	0
-Dumartola	2254	8101	480	0
+Dumartola	2254	8101	480	0	Kerpāni
 Durjanpur	2234	8124	537	0
 Dhūmāchhāpar	2232	8118	537	0
 Duldula	2219	8106	537	0
@@ -3716,7 +3716,7 @@ Dulhapāli	2158	8343	497	0
 Duāri	2155	8344	497	0
 Dhuria	2874	7819	483	0
 Dungrā Jogi	2838	7820	637	0
-Dungra Jāt	2839	7814	637	0
+Dungra Jāt	2839	7814	637	0	Khāliqābād
 Dugrāo	2836	7823	637	0
 Duamla	2828	7813	637	0
 Dūngarpur	2816	7803	637	0
@@ -3750,7 +3750,7 @@ Dūmarpāli	2132	8359	497	0
 Dumaldīha	2138	8362	497	0
 Dumalpāra	2140	8363	497	0
 Dūmarpāli	2140	8374	497	0
-Dhurmsala	3054	7917	365	0
+Dhurmsala	3054	7917	365	0	Mastha
 Dumak	3051	7943	183	0
 Dūndāheri	2395	7655	16	0
 Dhūlen	2377	7667	16	0
@@ -4210,7 +4210,7 @@ Dhūnga	2974	7931	429	0
 Dhura	2969	7927	429	0
 Dumdoli	2965	7930	429	0
 Dhuliya	2951	7937	551	0
-Dhulgaon	2958	7936	551	0
+Dhulgaon	2958	7936	551	0	Naugaon
 Dūbhana	2965	7934	429	0
 Dugaura	2971	7949	429	0
 Dumpri	2960	7942	429	0
@@ -4312,7 +4312,7 @@ Batrauli Dhurkarwā	2680	8412	560	0
 Āmwā Dube	2676	8402	560	0
 Dumhi	2675	8414	560	0
 Dumhi	2675	8418	560	0
-Dubahā	2686	8417	476	0
+Dubahā	2686	8417	476	0	Machhahā
 Durdukhiā	2674	8406	560	0
 Dumhi	2675	8416	560	0
 Dumarbhār	2669	8413	560	0
@@ -4356,7 +4356,7 @@ Dubaulia	2645	8424	703	0
 Ganesh Dumar	2645	8420	703	0
 Dulārpur	2648	8420	703	0
 Dulārpur Khurd	2648	8422	703	0
-Dūbe	2638	8420	703	0
+Dūbe	2638	8420	703	0	Sariswa
 Dugāri Rājmal	2623	8401	788	0
 Dumar Chhāpra	2620	8415	639	0
 Dumrahar Khurd	2611	8407	639	0
@@ -4443,10 +4443,10 @@ Dūndenagar	2805	7905	117	0
 Dūmahra	2809	7917	117	0
 Dhundri	2586	7524	446	0
 Dhuriāi	2893	7937	552	0
-Dūndha Shimāli	2881	7948	342	0
+Dūndha Shimāli	2881	7948	342	0	Harharpur
 Durha	2880	7947	342	0
-Dūndha Janūbi	2880	7947	342	0
-Durjanpur	2888	7926	552	0
+Dūndha Janūbi	2880	7947	342	0	Durha
+Durjanpur	2888	7926	552	0	Dewapur
 Dūndāpīpal	2890	7945	641	0
 Dunki	2862	7929	342	0
 Dunka	2862	7930	342	0
@@ -4633,7 +4633,7 @@ Dumri	2522	8581	690	0
 Dullāpur	2517	8578	690	0
 Dugāi	2515	8600	589	0
 Dumi	2411	8506	393	0
-Dhuruā	2409	8515	393	0
+Dhuruā	2409	8515	393	0	Semrātari
 Duari	2413	8515	393	0
 Dhudhauha Purwa	2518	8059	463	0
 Lāla Dube ka Purwa	2518	8062	463	0
@@ -4708,7 +4708,7 @@ Dudhpura	2587	8577	138	0
 Dhurlakh	2585	8576	138	0
 Dhuma	2581	8588	138	0
 Dhurlakh	2595	8583	138	0
-Dhundi	2580	8598	138	0
+Dhundi	2580	8598	138	0	Dhād
 Dulārpur	2553	8588	530	0
 Karāri Dulārpur	2554	8587	530	0
 Dumaria	2566	8596	138	0
@@ -5187,7 +5187,7 @@ Dhurā	2917	8006	554	0
 Sel Dhungī	2919	8005	554	0
 Dungarpur Arsalāni	2787	8004	470	0
 Dubghatia	2780	8005	470	0
-Dumān	2799	8013	323	0
+Dumān	2799	8013	323	0	Bitandāpur
 Dulhāpur	2783	8023	323	0
 Dhukia	2760	8013	686	0
 Dulapur	2759	8022	686	0
@@ -5468,7 +5468,7 @@ Dumardānr	2321	8413	321	0
 Dumbartoli	2316	8403	321	0
 Dumri	2317	8412	321	0
 Dhuntipāt	2311	8411	321	0
-Dudrukonā	2308	8408	398	0
+Dudrukonā	2308	8408	398	0	Dhondrukonā
 Dumartoli	2304	8423	321	0
 Dulsulmā	2392	8427	701	0
 Dumārtānr	2386	8439	707	0
@@ -5572,7 +5572,7 @@ Dukātoli	2252	8420	495	0
 Dumbartoli	2300	8454	321	0
 Dumardih	2299	8432	321	0
 Dungettoli	2286	8438	321	0
-Sikoi Dumardih	2299	8447	321	0
+Sikoi Dumardih	2299	8447	321	0	Sikoi
 Dumbartoli	2298	8447	321	0
 Dumbartoli	2295	8445	321	0
 Dumbartoli	2292	8450	321	0
@@ -5716,7 +5716,7 @@ Dudhi	2273	8595	653	0
 Dumardiha	2269	8600	653	0
 Dhuripāda	2258	8599	653	0
 Dumang Siring	2242	8585	287	0
-Dumardiha	2246	8593	287	0
+Dumardiha	2246	8593	287	0	Loāhātu
 Dukāisāi	2234	8598	287	0
 Duinānsāi	2225	8579	287	0
 Dudjori	2221	8580	287	0
@@ -5785,7 +5785,7 @@ Dumri	2473	8579	473	0
 Dumardiha	2468	8587	452	0
 Dudhpania	2471	8588	452	0
 Duba	2470	8596	452	0
-Dumardiha	2470	8596	452	0
+Dumardiha	2470	8596	452	0	Duba
 Dumarjhāra	2473	8594	452	0
 Dumrdihatoli	2460	8594	452	0
 Dumargarhā	2444	8583	452	0

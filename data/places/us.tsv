@@ -1,5 +1,5 @@
-Oossoor	1274	7783	223	229528
-Usmanabad	1818	7604	48	112085
+Oossoor	1274	7783	223	229528	Hosūr
+Usmanabad	1818	7604	48	112085	Dharashiv
 Usilampatti	997	7779	274	35219
 Usehat	2780	7924	117	15068
 Usgao	1543	7407	188	12436
@@ -9,16 +9,16 @@ Usuruia	2221	8525	287	0
 Ūsūr	1286	7906	189	0
 Ustem	1556	7420	188	0
 Ustikoilpenta	1383	7903	45	0
-Ustakāyalapenta	1383	7903	45	0
-Ustekāyalapenta	1383	7903	45	0
+Ustakāyalapenta	1383	7903	45	0	Ustikoilpenta
+Ustekāyalapenta	1383	7903	45	0	Ustikoilpenta
 Ustapāl	2057	8544	289	0
 Usrāhar	2695	7929	290	0
 Uslāpur	2211	8211	291	0
 Uska	2719	8313	292	0
 Usās	2504	8475	118	0
 Usarni	1958	7272	192	0
-Usurai	1958	7272	192	0
-Ushtumme	1844	7313	17	0
+Usurai	1958	7272	192	0	Usarni
+Ushtumme	1844	7313	17	0	Āshtami
 Usti	2224	8828	4	0
 Usmān Khera	3002	7391	3	0
 Usmānpur	2955	7737	328	0
@@ -201,7 +201,7 @@ Usmānpur	2812	7867	117	0
 Usrahia	2605	8177	718	0
 Uska	2618	8196	662	0
 Hansūdi Ūsanpur	2728	8265	292	0
-Usanpur	2728	8251	292	0
+Usanpur	2728	8251	292	0	Betnar
 Ūsūfnagar	1887	7867	63	0
 Uska	2722	8286	292	0
 Uski	2722	8286	292	0
@@ -359,7 +359,7 @@ Pura Usarwa	2605	8161	718	0
 Usmānpur	2607	8167	718	0
 Usirikāyiput	1824	8278	268	0
 Usirigūdem	1783	8227	268	0
-Usuvāda	1745	8240	269	0
+Usuvāda	1745	8240	269	0	Kottūru
 Usulumarrupādu	1682	8174	87	0
 Ustapalle	1670	8015	104	0
 Usri Khurd	2608	8436	639	0
@@ -501,7 +501,7 @@ Usitti	1194	7974	277	0
 Usilampatti	994	7756	194	0
 Usāmpi	2219	8595	287	0
 Uskora	2173	8517	272	0
-Uskipāra	2195	8589	382	0
+Uskipāra	2195	8589	382	0	Asukipāl
 Ustapāl	2051	8522	303	0
 Usri	2580	8636	591	0
 Usbīlīka	2075	8407	386	0

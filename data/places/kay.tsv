@@ -1,23 +1,23 @@
 Kayamkulam	918	7650	243	68634
-Kayangulam	918	7650	243	68634
-Kāyankulam	918	7650	243	68634
+Kayangulam	918	7650	243	68634	Kayamkulam
+Kāyankulam	918	7650	243	68634	Kayamkulam
 Kayalpattinam	857	7812	208	40588
-Kayalpatuam	857	7812	208	40588
-Kāyalpatnam	857	7812	208	40588
+Kayalpatuam	857	7812	208	40588	Kayalpattinam
+Kāyalpatnam	857	7812	208	40588	Kayalpattinam
 Kayattār	895	7777	208	10400
-Kayatharu	895	7777	208	10400
+Kayatharu	895	7777	208	10400	Kayattār
 Kāying	2841	9468	40	0
 Kayar	1991	7890	67	0
 Kāyatha	2324	7602	314	0
 Kayamba	2268	8853	450	0
-Kayan	3384	7418	1	0
+Kayan	3384	7418	1	0	Karvān
 Kayāi di Bān	3300	7469	581	0
 Kāyamsar	2824	7535	300	0
 Sarāi Kāyam	2703	7943	570	0
 Kāyampur	2704	7949	570	0
 Kayavarohan	2208	7325	159	0
 Kayikolattattanūr	1115	7927	383	0
-Kayilolattanūr	1115	7927	383	0
+Kayilolattanūr	1115	7927	383	0	Kayikolattattanūr
 Khayogi	3164	7711	278	0
 Kāyasa	2804	7626	482	0
 Uparla Kayālu	3125	7734	479	0
@@ -44,7 +44,7 @@ Asadpur Qayām	2789	7811	543	0
 Kāyampur	2739	7882	711	0
 Nagla Khayyātān	2718	7847	403	0
 Kayāmpur	2784	7866	616	0
-Kayān ki Purwa	2463	7930	663	0
+Kayān ki Purwa	2463	7930	663	0	Purāmohanlāl
 Kayānwāla Ghāt	2463	7928	663	0
 Kayān	2463	7929	663	0
 Kāyāgaon	2237	7702	465	0
@@ -113,7 +113,7 @@ Kayilingayipalli	1457	7905	229	0
 Kayapālem	1483	7968	6	0
 Kayyūru	1403	7965	45	0
 Kayathakaran	1299	7930	160	0
-Kayappākkam	1274	7930	197	0
+Kayappākkam	1274	7930	197	0	Appantāngal
 Kayattūr	1202	7958	202	0
 Kayappākkam	1235	7986	247	0
 Kāyilmedu	1216	7984	202	0

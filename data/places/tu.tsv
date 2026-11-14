@@ -1,33 +1,33 @@
-Turmeric city	1685	7456	65	601214
-Tulu Nadu	1292	7486	55	499487
+Turmeric city	1685	7456	65	601214	Sāngli
+Tulu Nadu	1292	7486	55	499487	Mangaluru
 Thoothukudi	877	7813	208	410760
-Tuticorin	877	7813	208	410760
+Tuticorin	877	7813	208	410760	Thoothukudi
 Tumkūr	1334	7710	93	307359
-Tumakooru	1334	7710	93	307359
+Tumakooru	1334	7710	93	307359	Tumkūr
 Tura	2551	9020	399	74858
-Tullipurmbu	1204	7536	266	72465
+Tullipurmbu	1204	7536	266	72465	Taliparamba
 Tuni	1736	8255	269	53425
 Tūndla	2721	7824	403	50939
 Tumsar	2138	7973	404	44869
 Tuvāgudi	1075	7882	270	38887
-Thuvakudi	1075	7882	270	38887
+Thuvakudi	1075	7882	270	38887	Tuvāgudi
 Tuensang	2627	9482	41	36774
 Tuljāpur	1801	7607	48	35596
 Tudiyalūr	1108	7694	156	33924
 Thuraiyur	1115	7860	270	32439
-Turalyur	1115	7860	270	32134
+Turalyur	1115	7860	270	32134	Turaiyūr
 Tūnēri	1170	7563	262	23421
 Tulsīpur	2753	8242	280	22486
-Sindi Turf Hindnagar	2074	7859	143	20956
+Sindi Turf Hindnagar	2074	7859	143	20956	Sindi
 Tufānganj	2632	8967	420	20420
 Mir Pur Turk	2870	7726	791	19098
-Turkayamjal	1727	7858	62	15689
+Turkayamjal	1727	7858	62	15689	Yamjāl
 Turuvekere	1316	7667	93	14194
 Thurayur	1153	7567	262	14176
 Thummalamenta	1503	7802	232	12373
 Tundhul	2332	8524	562	11190
-Tundiul	2332	8524	562	11190
-Kalambe Turf Thane	1666	7421	57	10138
+Tundiul	2332	8524	562	11190	Tundhul
+Kalambe Turf Thane	1666	7421	57	10138	Kalombe
 Tundra	2168	8261	379	8211
 Tuli	2666	9464	315	7864
 Tumgaon	2119	8212	407	7394
@@ -53,15 +53,15 @@ Turuvanūr	1440	7644	255	0
 Turtok	3485	7683	2	0
 Turpupūndla	1419	7978	6	0
 Turk Mādhawār	1665	7734	72	0
-Tūrk Madhwāram	1665	7734	72	0
+Tūrk Madhwāram	1665	7734	72	0	Turk Mādhawār
 Turki	2604	8536	395	0
 Turkauliyā	2661	8483	396	0
-Turkaulla	2661	8483	396	0
+Turkaulla	2661	8483	396	0	Turkauliyā
 Turimerla	1428	7974	6	0
 Turet	2715	9559	397	0
 Turekela	2050	8280	394	0
 Turbihāl	1576	7660	50	0
-Turvihal	1576	7660	50	0
+Turvihal	1576	7660	50	0	Turbihāl
 Turavūr	977	7632	243	0
 Turambhe	1907	7301	246	0
 Turaiyūr	910	7792	208	0
@@ -69,7 +69,7 @@ Turad	2283	8366	398	0
 Tūprān	1785	7848	400	0
 Tuphema	2548	9414	112	0
 Tuntoli	2664	7580	121	0
-Tuntili	2664	7580	121	0
+Tuntili	2664	7580	121	0	Tuntoli
 Tunkra	2561	7544	353	0
 Tunkapālem	1431	7983	6	0
 Tungus	3443	7584	8	0
@@ -78,7 +78,7 @@ Tungring	3352	7680	8	0
 Tungaturti	1741	7959	250	0
 Tunga	2673	7615	121	0
 Tundu	2379	8626	401	0
-Tundo	2379	8626	401	0
+Tundo	2379	8626	401	0	Tundu
 Tundri	2189	8320	402	0
 Tundi	2398	8645	401	0
 Tundāo	2248	7320	159	0
@@ -95,14 +95,14 @@ Tumlong	2742	8858	27	0
 Tūmkūr	1651	7709	72	0
 Tuminkatti	1441	7562	92	0
 Tumbagi	1658	7629	80	0
-Tumbgi	1658	7629	80	0
+Tumbgi	1658	7629	80	0	Tumbagi
 Tumbal	1178	7852	51	0
 Tumbāgarh	1902	8446	408	0
-Tumbāgad	1902	8446	408	0
+Tumbāgad	1902	8446	408	0	Tumbāgarh
 Tumbā	2474	8403	409	0
 Tumen Kalān	2449	7771	410	0
-Tumain	2449	7771	410	0
-Tumain Kalān	2449	7771	410	0
+Tumain	2449	7771	410	0	Tumen Kalān
+Tumain Kalān	2449	7771	410	0	Tumen Kalān
 Tulsīpur	2537	8704	411	0
 Tulsipun	2030	8552	303	0
 Tulsīhāta	2546	8791	412	0
@@ -112,26 +112,26 @@ Tuljāpur	2079	7883	143	0
 Tūlin	2338	8589	415	0
 Tulihal	2475	9389	416	0
 Tukrajhār	2666	9045	357	0
-Tukra Zhar	2666	9045	357	0
+Tukra Zhar	2666	9045	357	0	Tukrajhār
 Tukrāi	2503	7508	417	0
 Tukkalh	2393	9237	418	0
-Tukkath	2393	9237	418	0
+Tukkath	2393	9237	418	0	Tukkalh
 Tuisen	2353	9317	11	0
 Tuipang	2231	9303	20	0
 Tuidang	2225	9283	244	0
 Tuichong	2292	9252	14	0
 Tugla	3375	7799	2	0
 Tughlakābād	2851	7727	419	0
-Fort Tughlakabad	2851	7727	419	0
+Fort Tughlakabad	2851	7727	419	0	Tughlakābād
 Tuggali	1531	7755	236	0
 Tuem	1566	7380	188	0
 Tudou	1522	7422	102	0
 Tudigadia	2130	8663	421	0
 Tuān	3303	7662	362	0
 Tualbung	2376	9294	21	0
-Turcunapulli	926	7641	243	0
+Turcunapulli	926	7641	243	0	Trikkunnapuzha
 Thuruk	2532	9271	435	0
-Thurek	2532	9271	435	0
+Thurek	2532	9271	435	0	Thuruk
 Thūr	2499	7244	343	0
 Thūr	2467	7364	22	0
 Thuna	2450	8102	324	0
@@ -139,37 +139,37 @@ Thūn	2738	7712	114	0
 Thumba	2541	7295	343	0
 Thulipalem	1475	8011	6	0
 Thuamai Rāmapur	1954	8293	284	0
-Thuāmal Rāmpur	1954	8293	284	0
-Tulla	1829	7314	17	0
+Thuāmal Rāmpur	1954	8293	284	0	Thuamai Rāmapur
+Tulla	1829	7314	17	0	Tala
 Rajolī Tukm	2019	7969	111	0
-Rajoli Tukum	2019	7969	111	0
+Rajoli Tukum	2019	7969	111	0	Rajolī Tukm
 Kwate tu Kwage	1059	9254	105	0
 Bukhmai Tuak	2415	9269	526	0
 Tulān	2223	8832	4	0
-Tugowāli	3249	7472	581	0
+Tugowāli	3249	7472	581	0	Kugowāli
 Tūtwāla	3005	7395	3	0
 Thūru	3423	7475	595	0
 Thuli	3341	7423	504	0
-Thul	3341	7423	504	0
+Thul	3341	7423	504	0	Thuli
 Tunditrār	3339	7424	504	0
-Tuppa	3334	7420	504	0
+Tuppa	3334	7420	504	0	Juppa
 Muttor Thul	3330	7416	504	0
-Mutta Thul	3330	7416	504	0
+Mutta Thul	3330	7416	504	0	Muttor Thul
 Tumna	3447	7405	0	0
 Turkapur	3442	7422	0	0
 Tularzu	3419	7461	120	0
 Tūnjhiran	3411	7459	301	0
 Tulamul	3422	7473	595	0
 Thukarpur	3435	7436	0	0
-Thukatpur	3435	7436	0	0
+Thukatpur	3435	7436	0	0	Thukarpur
 Tutigund	3441	7429	0	0
 Tutigund	3442	7429	0	0
 Thundus	3448	7444	0	0
 Thuggi	3298	7450	581	0
 Tunra da Kalia	3309	7420	504	0
-Tunia da Kalla	3309	7420	504	0
+Tunia da Kalla	3309	7420	504	0	Tunra da Kalia
 Turo	3310	7420	504	0
-Turoi	3310	7420	504	0
+Turoi	3310	7420	504	0	Turo
 Thus	3312	7427	504	0
 Tung	3308	7438	504	0
 Tungwālipathri	3394	7428	1	0
@@ -179,13 +179,13 @@ Tūngewāli	3380	7432	1	0
 Tung	3297	7479	581	0
 Tutān Kuhi	3276	7497	581	0
 Tūtre	3263	7481	581	0
-Tukār	3267	7497	720	0
+Tukār	3267	7497	720	0	Takār
 Thulwāl	3270	7478	581	0
 Tumel	3456	7621	8	0
 Tungwāli Baihk	3435	7390	0	0
 Tuntāwāla	3029	7798	448	0
 Kothri Tulsi	3022	7777	449	0
-Tūn	3120	7704	479	0
+Tūn	3120	7704	479	0	Ton
 Tukwana	3114	7701	628	0
 Tul	3116	7706	479	0
 Tumpalli	1710	7801	62	0
@@ -215,7 +215,7 @@ Tula Purwa	2707	7994	570	0
 Nagla Tula	2699	7909	464	0
 Thulrai	2700	7914	290	0
 Tulshipur	2690	7906	290	0
-Turaiya	2682	7919	290	0
+Turaiya	2682	7919	290	0	Taraiya
 Adda Tujsīrām	2679	7904	290	0
 Tuwāriānwāla	2692	7557	121	0
 Tulakpur	2640	7937	741	0
@@ -227,7 +227,7 @@ Purwa Tula	2698	7970	570	0
 Purwa Tula	2687	7973	570	0
 Tulsi Purwa	2675	7951	715	0
 Patti Turna	2675	7968	715	0
-Turkiāpur	2675	7991	671	0
+Turkiāpur	2675	7991	671	0	Bādshāhpur
 Turka	2478	7924	481	0
 Tūrhār	2500	7946	663	0
 Thukrīyāsar	2818	7411	307	0
@@ -291,7 +291,7 @@ Tumman	3141	7738	278	0
 Tuni	3137	7748	680	0
 Thua	3149	7745	680	0
 Thua	3150	7746	680	0
-Tukra Pāliwāla	3047	7426	3	0
+Tukra Pāliwāla	3047	7426	3	0	Miniyānwāla
 Tumbar Bhan	3082	7489	566	0
 Tunda	3107	7734	479	0
 Tungla	3102	7728	479	0
@@ -488,7 +488,7 @@ Turakanagori	1667	7637	80	0
 Tuggli	1623	7648	50	0
 Tumrīlewa	2117	8111	474	0
 Tūrāsemaria	2173	8145	710	0
-Tuma Kalān	2139	8128	286	0
+Tuma Kalān	2139	8128	286	0	Nawāpāra
 Tuma Kalān	2138	8127	286	0
 Tuma Khurd	2138	8127	286	0
 Tuma	2177	8171	710	0
@@ -604,7 +604,7 @@ Tūndābeh	2443	7704	336	0
 Tulshīkheri	2435	7705	336	0
 Pura Thukri	2403	7723	336	0
 Nagla Tulsi	2750	7896	711	0
-Turkīpura	2743	7884	711	0
+Turkīpura	2743	7884	711	0	Shāh Ālampur
 Nagla Thuli	2735	7878	711	0
 Thuma Kundal	2400	7729	336	0
 Tukraoda	2418	7728	336	0
@@ -655,7 +655,7 @@ Tunikinātla Tānda	1666	7939	101	0
 Tummala Tānda	1678	7981	250	0
 Tutiyāra	2513	8037	463	0
 Tulaya ka Pura	2570	8211	718	0
-Tubai	2178	7616	209	0
+Tubai	2178	7616	209	0	Bhīlkheri
 Thurat	2527	7952	614	0
 Tungi	2586	8282	498	0
 Shāhpur Tula	2697	7813	546	0
@@ -676,7 +676,7 @@ Tuli	2148	7692	133	0
 Thuni	2526	7805	436	0
 Turkahi	2553	8326	26	0
 Turnān	2558	8336	26	0
-Tulāpatti	2551	8346	26	0
+Tulāpatti	2551	8346	26	0	Brahmanpura
 Tuglayan ka Kuān	2571	7842	503	0
 Tūnka	2529	7842	433	0
 Thuha	2249	7741	590	0
@@ -728,7 +728,7 @@ Arjuni Tukum	2037	7922	111	0
 Wadāla Tukm	2030	7925	111	0
 Katwal Tukm	2026	7926	111	0
 Madnāpur Tukm	2039	7940	111	0
-Tukm Chaiti	2038	7938	111	0
+Tukm Chaiti	2038	7938	111	0	Deori
 Tukm	2044	7938	111	0
 Tukm Māsala	2044	7935	111	0
 Vihītgaon Tukm	2038	7944	111	0
@@ -876,7 +876,7 @@ Tusaurī	2562	8284	32	0
 Purwa Tuniān	2621	8093	681	0
 Tungri	2922	7825	575	0
 Thuraila	2910	7822	575	0
-Mauzampur Tulsi	2962	7835	575	0
+Mauzampur Tulsi	2962	7835	575	0	Garhi
 Tukhmānpur Harbans	2945	7846	575	0
 Shekhpura Turk	2945	7839	575	0
 Jalālpur Turk	2927	7835	575	0
@@ -922,7 +922,7 @@ Tunri	2685	8143	30	0
 Tulsīpur	2687	8142	30	0
 Turkāni	2691	8138	30	0
 Turaigāon	2675	8145	30	0
-Turābnagar	2922	7839	575	0
+Turābnagar	2922	7839	575	0	Nagla
 Tunihān	2669	8133	30	0
 Purwa Tulshi	2674	8138	30	0
 Purwa Turanti	2667	8149	30	0
@@ -1235,7 +1235,7 @@ Tularh	3248	7595	362	0
 Thuvāni	2192	7411	186	0
 Tūmni	2299	7572	660	0
 Tumāni	2292	7598	322	0
-Turk	2090	7525	78	0
+Turk	2090	7525	78	0	Sāvkheda
 Tūyāpāni	2252	8005	480	0
 Tumegaon	2252	8009	480	0
 Thūlar	3210	7584	38	0
@@ -1424,7 +1424,7 @@ Tulsīpāra	2018	8260	594	0
 Turakmara	2398	8316	103	0
 Tukupakhna	2397	8322	341	0
 Turimundā	2396	8361	743	0
-Tunī	2396	8361	743	0
+Tunī	2396	8361	743	0	Turimundā
 Thuth	3095	7756	479	0
 Thundna	3094	7753	479	0
 Thunal	3088	7757	479	0
@@ -1743,7 +1743,7 @@ Tukoganj	2365	7654	16	0
 Tūti	2364	7679	16	0
 Thunchāl	2306	7304	167	0
 Tulia	2303	7343	142	0
-Thurno	2390	7396	512	0
+Thurno	2390	7396	512	0	Pāra
 Thupni Pāl	2389	7398	512	0
 Tutiaber	2350	7442	166	0
 Thūria	2338	7448	166	0
@@ -1808,7 +1808,7 @@ Thunai	2984	7976	722	0
 Tunera	2982	7983	722	0
 Tukra	2677	8429	476	0
 Tola Tumkaraiā	2677	8445	476	0
-Bishunpur Tuniā	2682	8448	476	0
+Bishunpur Tuniā	2682	8448	476	0	Tola Bishunpur
 Turhāpatti	2685	8445	476	0
 Turha	2689	8448	476	0
 Turmoli	2972	7987	722	0
@@ -1846,7 +1846,7 @@ Turki	2613	8486	540	0
 Turkanian	2836	7954	342	0
 Rāmpura Tulsi Rām	2836	7964	342	0
 Turkuniān	2878	7977	683	0
-Turakpura	2876	7981	683	0
+Turakpura	2876	7981	683	0	Barhwār
 Turkpur	2865	7987	683	0
 Turki Bāri	2589	8403	536	0
 Thubha Uttam	2584	8405	536	0
@@ -2138,9 +2138,9 @@ Tulsīpur	2515	8727	411	0
 Tulsīpur	2508	8738	592	0
 Tulārām Bhuska	2513	8739	592	0
 Tulsīpur	2523	8744	411	0
-Tundwa	2531	8744	411	0
+Tundwa	2531	8744	411	0	Mundwa
 Turki	2585	8512	540	0
-Tutha	2589	8519	716	0
+Tutha	2589	8519	716	0	Shāhpur Tewari
 Tulai Chak	2560	8506	604	0
 Thutipur	2553	8509	604	0
 Tulsi Mandāi	2560	8520	604	0
@@ -2580,7 +2580,7 @@ Tungāri	2373	8417	707	0
 Tukudih	2354	8404	707	0
 Tumbāl	2353	8404	707	0
 Thūthātoli	2319	8424	321	0
-Thūtātoli	2314	8417	321	0
+Thūtātoli	2314	8417	321	0	Bartoli
 Tumāgarā	2390	8427	701	0
 Tulbul	2378	8447	707	0
 Tupu Khurd	2373	8445	707	0
@@ -2952,4 +2952,4 @@ Tulsīpur	2627	8169	662	0
 Tumnār	1899	8125	406	0
 Tula Purwa	2706	8000	686	0
 Thummalapalli	1350	7826	47	0
-Turaiyūr	1103	7856	270	0
+Turaiyūr	1103	7856	270	0	Puduppatti

@@ -1,10 +1,10 @@
 Kadapa	1448	7882	229	344893
 Kadayanallur	907	7734	245	90364
-Kadaiyanallūr	907	7734	245	90364
+Kadaiyanallūr	907	7734	245	90364	Kadayanallur
 Kadiri	1411	7816	444	89429
 Kadi	2330	7233	164	81404
-Khadakvaslal	1844	7378	52	78684
-Khadakwasla	1844	7378	52	78684
+Khadakvaslal	1844	7378	52	78684	Kharakvasla
+Khadakwasla	1844	7378	52	78684	Kharakvasla
 Khadki	1856	7385	52	75654
 Kadungalūr	1009	7632	176	39666
 Kadūr	1355	7601	98	34151
@@ -19,39 +19,39 @@ Kādīpur	2877	7716	769	18369
 Kadod	2122	7322	139	16747
 Khada	2718	8388	560	16350
 Kadamakudi	1006	7625	176	16295
-Kadamakkudy	1006	7625	176	16295
+Kadamakkudy	1006	7625	176	16295	Kadamakudi
 Kadaura	2599	7984	741	13784
-Baoni Kadawa	2599	7984	741	13784
+Baoni Kadawa	2599	7984	741	13784	Kadaura
 Khadkale	1876	7356	52	13435
 Kadaiya	2046	7285	760	12717
 Khadki Buzurg	2067	7702	172	12133
-Khadki Bk	2067	7702	172	12133
+Khadki Bk	2067	7702	172	12133	Khadki Buzurg
 Chilla Saroda Khadar	2859	7730	794	11743
 Kādiyāmpatti	1187	7810	51	11390
 Kadattūr	1209	7829	110	11382
 Kadambuttūr	1310	7986	228	11235
-Kadambatur	1310	7986	228	11235
+Kadambatur	1310	7986	228	11235	Kadambuttūr
 Kadannappalli	1210	7528	266	10430
 Kadaparai	1100	7808	445	9574
 Kadipikonda	1796	7951	61	8685
-Kadpur	2106	7179	168	8677
-Kadhirvedu	1314	8020	204	7580
+Kadpur	2106	7179	168	8677	Katpur
+Kadhirvedu	1314	8020	204	7580	Kattrivedu
 Kādīpur	2617	8237	597	7472
 Kadmā	2399	8535	764	7239
-Kadma No-II	2399	8535	764	7239
+Kadma No-II	2399	8535	764	7239	Kadmā
 Kādiganahalli	1317	7763	43	6587
 Kadakola	1219	7667	74	6436
 Kadaiyam	882	7737	245	5430
-Kadayam	882	7737	245	5430
+Kadayam	882	7737	245	5430	Kadaiyam
 Kadmat	1122	7277	780	5404
 Kadambūr	900	7786	208	4512
 Kadvād	1483	7418	59	4403
 Kadūpur	3139	7541	565	1068
-Khuifatoojanwali at Khadoojanwali	2684	6953	217	18
-Kadur	1311	7716	626	0
-Kadur	1828	8355	179	0
+Khuifatoojanwali at Khadoojanwali	2684	6953	217	18	Khuifatoojanwali@Khadoojanwali
+Kadur	1311	7716	626	0	Kudūru
+Kadur	1828	8355	179	0	Kodūru
 Khadsangi	2051	7927	111	0
-Khadka	1848	7737	140	0
+Khadka	1848	7737	140	0	Mukramābād
 Khādar	2435	8294	103	0
 Khadrāla	3126	7763	479	0
 Khadoli	2015	7303	233	0
@@ -66,7 +66,7 @@ Kadwāha	2496	7792	410	0
 Kadvāli	2153	7344	151	0
 Kadvāl	2249	7376	126	0
 Kaduthuruthy	975	7650	271	0
-Kaduthuruthi	975	7650	271	0
+Kaduthuruthi	975	7650	271	0	Kaduthuruthy
 Kadus	1889	7381	52	0
 Kadum	2779	9618	767	0
 Kadra	1491	7435	59	0
@@ -77,8 +77,8 @@ Kadiyam	1692	8183	87	0
 Qādirganj	2779	7906	616	0
 Kādirābād	1985	7590	53	0
 Kadechūr	1652	7733	72	0
-Kadaichur	1652	7733	72	0
-Kadichūr	1652	7733	72	0
+Kadaichur	1652	7733	72	0	Kadechūr
+Kadichūr	1652	7733	72	0	Kadechūr
 Kādera	2581	7505	446	0
 Kadegaon	1730	7433	65	0
 Kadavūr	1059	7819	445	0
@@ -90,7 +90,7 @@ Kadandale	1311	7492	55	0
 Kadāna	2329	7384	142	0
 Kādalkudi	920	7824	208	0
 Kadlīgarh	2095	8431	567	0
-Kadaligarh	2095	8431	567	0
+Kadaligarh	2095	8431	567	0	Kadlīgarh
 Kadālgori	2433	8495	393	0
 Kadalādi	1240	7896	197	0
 Kadalādi	922	7850	5	0
@@ -103,7 +103,7 @@ Kada	1890	7508	33	0
 Khichīo Ka Daipura	2598	7264	344	0
 Bhojpur Kadīm	2558	8413	620	0
 Kādiya	2801	7476	539	0
-Kādio	2801	7476	539	0
+Kādio	2801	7476	539	0	Kādiya
 Amda Kadal	3412	7482	611	0
 Safa Kadal	3409	7479	611	0
 Kadalbal	3401	7491	428	0
@@ -120,9 +120,9 @@ Parol ka Dhak	3309	7425	504	0
 Khadārian	3325	7433	504	0
 Qādirpur	3255	7478	581	0
 Qadre Chak	3257	7493	581	0
-Chak Qādir	3257	7493	581	0
+Chak Qādir	3257	7493	581	0	Qadre Chak
 Khadīrgāl	3261	7493	720	0
-Khadargāi	3261	7493	720	0
+Khadargāi	3261	7493	720	0	Khadīrgāl
 Khadāh	3267	7498	720	0
 Pābuji Mahārāj Ka Dhora	2824	7457	539	0
 Fateh ka Dera	3402	7395	301	0
@@ -132,16 +132,16 @@ Qādirgarh	2958	7748	545	0
 Ajaipāl ka Dūngri	2573	7564	313	0
 Khādi Āshram	2937	7698	298	0
 Kadarāban	3122	7707	479	0
-Kadraina	3122	7707	479	0
+Kadraina	3122	7707	479	0	Kadarāban
 Kadmūr	1722	7803	210	0
 Kadergu	1791	7894	466	0
 Kadkandla	1786	7876	466	0
-Kadungaiyur	1313	8025	204	0
+Kadungaiyur	1313	8025	204	0	Kodangiyur
 Kadwār	2085	7045	136	0
 Kaderanahalli Junction	1291	7757	43	0
 KadugondanaHalli	1302	7762	43	0
 Kadirenahalli	1291	7756	43	0
-Khadot	2815	7566	300	0
+Khadot	2815	7566	300	0	Khudot
 Khadri	2498	7843	384	0
 Qādir Chauk	2787	7908	117	0
 Qādirbāri	2785	7907	117	0
@@ -160,7 +160,7 @@ Wazīr ka Adda	2680	7906	290	0
 Pīpal ka Adda	2679	7901	290	0
 Munni ka Adda	2680	7901	290	0
 Zālim ka Adda	2680	7901	290	0
-Cālim ka Adda	2680	7901	290	0
+Cālim ka Adda	2680	7901	290	0	Zālim ka Adda
 Qadampura	2637	7912	741	0
 Umrāosingh ka Adda	2648	7933	715	0
 Banjāre ka Dera	2649	7936	715	0
@@ -176,7 +176,7 @@ Kadjāli	2101	7149	216	0
 Kādgi	2145	6998	742	0
 Qādirpur	2573	8543	716	0
 Qādirganj	2491	8559	107	0
-Kadulagumma	1920	8330	363	0
+Kadulagumma	1920	8330	363	0	Kodulagumma
 Kadah	1336	7502	257	0
 Kadgaon	1619	7398	57	0
 Kadihalli	1607	7461	90	0
@@ -338,7 +338,7 @@ Kādarpura	2467	7693	506	0
 Dātāji ka Deora	2617	7531	313	0
 Rāmpur Khādar	2816	7756	588	0
 Jewar Khādar	2815	7753	588	0
-Kādarpur	2808	7772	543	0
+Kādarpur	2808	7772	543	0	Kāra
 Hasanpur Kadīm	2894	7779	700	0
 Kāda	2150	8108	509	0
 Kadīlbhāvi	1716	7879	129	0
@@ -487,7 +487,7 @@ Khadki	2091	7610	49	0
 Kadora Lodhi	2548	7824	436	0
 Khadpura	2546	7822	436	0
 Kādīpur	2571	8327	26	0
-Khādīmān	2555	8335	26	0
+Khādīmān	2555	8335	26	0	Katghara
 Kādīpur	2567	8337	26	0
 Kādīpur Bahādur	2571	8337	26	0
 Khadatgaon	2077	7641	49	0
@@ -515,7 +515,7 @@ Chandu ka Dera	2538	8398	620	0
 Khadāwān	2528	8394	409	0
 Kadai	2503	8377	749	0
 Kadatwādi	2105	7709	172	0
-Kadu	2078	7789	133	0
+Kadu	2078	7789	133	0	Kavtha
 Kādri	2073	7788	133	0
 Kadatvādi	2092	7702	172	0
 Kadatkheda	2086	7719	133	0
@@ -639,8 +639,8 @@ Dūdhli Khādar	2914	7805	700	0
 Khaddan	2911	7811	575	0
 Kot Kādīr	2959	7846	575	0
 Kādarpur Nānon	2958	7845	575	0
-Kādīpura	2953	7837	575	0
-Kadūspur	2945	7832	575	0
+Kādīpura	2953	7837	575	0	Gāzīpur Bhagwān
+Kadūspur	2945	7832	575	0	Mīlakpur
 Kadil Sarāi	2779	8111	323	0
 Kadipur	2739	8107	507	0
 Sarāyan Kadipur	2738	8106	507	0
@@ -678,7 +678,7 @@ Khadki Pāda	2123	7404	186	0
 Kābar Khadak Pāda	2108	7402	190	0
 Māndal Khadi Pāda	2107	7401	190	0
 Khād Gūjar	2886	7828	483	0
-Bhūt Khaderi	2875	7831	483	0
+Bhūt Khaderi	2875	7831	483	0	Shāhpur
 Kadkol	1668	7617	80	0
 Kadāli	1997	7704	640	0
 Khadāti	1980	7702	640	0
@@ -713,7 +713,7 @@ Kādarpur	2675	8177	629	0
 Sikraura Khādar	2822	7856	646	0
 Kādrābād	2818	7859	646	0
 Kādirnagar	2819	7870	117	0
-Kādirchauk	2819	7870	117	0
+Kādirchauk	2819	7870	117	0	Kādirnagar
 Khadri Bīrpur	2604	8177	662	0
 Chakarpur Kadīm	2857	7896	552	0
 Nabīganj Qadīm	2862	7898	552	0
@@ -727,7 +727,7 @@ Kadīla	2986	7901	612	0
 Khadau Purwa	2730	8228	280	0
 Pura Kādar	2721	8230	280	0
 Khadgaura	2739	8254	280	0
-Kadampur	2739	8265	292	0
+Kadampur	2739	8265	292	0	Padampur
 Kūhar Gadhi Khādar	2742	8268	280	0
 Imlia Khādar	2742	8269	280	0
 Kādirābad	2717	8261	292	0
@@ -844,7 +844,7 @@ Khadak Jāmb	2025	7408	54	0
 Khadak Ojhar	2024	7413	54	0
 Khadak Mālegaon	2018	7417	54	0
 Khadān	2298	7569	660	0
-Khadotiya	2293	7568	660	0
+Khadotiya	2293	7568	660	0	Kharotiya
 Kadwāli Khurd	2283	7600	660	0
 Kadwāli Bujurg	2283	7599	660	0
 Kadawa	2290	7590	660	0
@@ -873,7 +873,7 @@ Kadūr Sāhib	3143	7510	260	0
 Bhīm Qadīm	3124	7511	565	0
 Beri Qādirābād	3103	7504	566	0
 Khādepār	2121	8018	171	0
-Kādlā	2184	8047	144	0
+Kādlā	2184	8047	144	0	Harrānālā
 Khaddītolā	2187	8049	144	0
 Kadamtolā	2155	8044	144	0
 Ratta Qadīm	3136	7531	565	0
@@ -1106,7 +1106,7 @@ Qādirnagar	2820	7907	117	0
 Bāqarpur Khādar	2807	7916	117	0
 Kadriganj	2893	7926	552	0
 Bholapur Kadīm	2884	7935	552	0
-Kadīm	2874	7930	552	0
+Kadīm	2874	7930	552	0	Chandpura
 Zainpur Qādirābād	2829	7934	342	0
 Kādevri	2248	7642	322	0
 Qādirābād	2810	7930	117	0
@@ -1329,7 +1329,7 @@ Kadai Bungalow	1293	7578	679	0
 Kadlūr	1287	7586	679	0
 Kadadarvalli	1300	7590	679	0
 Kadabgal	1291	7599	679	0
-Kadabāgāla	1291	7599	679	0
+Kadabāgāla	1291	7599	679	0	Kadabgal
 Kadnur	1259	7598	679	0
 Kadamalakonda	1557	7784	236	0
 Kādarganj	2512	8655	538	0
@@ -1365,7 +1365,7 @@ Kadampur	2697	7929	290	0
 Qadampur	2679	7940	715	0
 Kadoli	1979	7909	111	0
 Kadupalli	1852	7928	748	0
-Kadehalli	1505	7607	366	0
+Kadehalli	1505	7607	366	0	Giregondanahalli
 Kadarahalli	1549	7614	66	0
 Kadlabālu	1508	7620	366	0
 Kadirāmpuram	1531	7645	366	0
@@ -1728,7 +1728,7 @@ Kadalibandh	2000	8500	548	0
 Kādhamdiri	2395	8502	393	0
 Kadamtoli	2350	8506	562	0
 Khadiādumartoli	2323	8505	562	0
-Kadal	2321	8511	432	0
+Kadal	2321	8511	432	0	Korkatā
 Kadmā	2344	8531	562	0
 Kadal	2342	8541	562	0
 Kāditoli	2340	8543	562	0

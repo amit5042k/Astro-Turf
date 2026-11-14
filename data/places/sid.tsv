@@ -1,6 +1,6 @@
 Siddipet	1810	7885	466	66737
 Siddhapur	2392	7237	240	61867
-Sidhpur	2392	7237	240	61867
+Sidhpur	2392	7237	240	61867	Siddhapur
 Sidhi	2440	8188	672	54331
 Sidlaghatta	1339	7786	438	51159
 Sidhaulī	2728	8083	507	22193
@@ -12,11 +12,11 @@ Bara Sidhpur	3112	7540	369	399
 Sidsar	2188	7011	145	0
 Sidrias	2542	7478	309	0
 Sidhmukh	2889	7529	539	0
-Sīdmūth	2889	7529	539	0
+Sīdmūth	2889	7529	539	0	Sidhmukh
 Sidli	2654	9045	357	0
 Sidi	2369	8166	634	0
 Sidhwan Bet	3093	7548	674	0
-Sidhwān Khās	3093	7548	674	0
+Sidhwān Khās	3093	7548	674	0	Sidhwan Bet
 Sidhnath Wadgaon	1982	7500	113	0
 Sidhauli	2493	8420	409	0
 Sidhāgar	2583	8375	26	0
@@ -26,12 +26,12 @@ Siddhavattam	1447	7897	229	0
 Siddeswaram	1603	7833	232	0
 Siddāpura	1481	7679	255	0
 Siddapura	1230	7587	193	0
-Sidapur	1230	7587	193	0
+Sidapur	1230	7587	193	0	Siddapura
 Shidaul	3339	7493	666	0
-Siduma	2587	9395	42	0
+Siduma	2587	9395	42	0	Shedhumi
 Pānchla Sidda	2699	7327	430	0
 Dodda Siddavvanahalli	1420	7647	255	0
-Siddavvanahalli	1420	7647	255	0
+Siddavvanahalli	1420	7647	255	0	Dodda Siddavvanahalli
 Siddheswarpur	2212	8829	4	0
 Shidipur	3447	7431	0	0
 Siddara	3298	7458	581	0
@@ -46,7 +46,7 @@ Siddaguntepalya	1293	7761	43	0
 SIddapura Rd	1295	7759	43	0
 Sidhān	2882	7571	431	0
 Sidhpura	2479	7887	481	0
-Sidhpura	2640	7913	741	0
+Sidhpura	2640	7913	741	0	Sadhpura
 Sidhpura	2562	7901	433	0
 Sidhanawa	2870	7573	431	0
 Sidrāo	2737	7107	217	0
@@ -59,7 +59,7 @@ Sidharāwāli	2827	7683	630	0
 Sidïnpathar	3470	7447	0	0
 Sidhuāna	3040	7421	3	0
 Shidāl	3083	7745	534	0
-Sidhrāwat	2777	7695	544	0
+Sidhrāwat	2777	7695	544	0	Bilākpur
 Sidhrāwat	2777	7693	544	0
 Sidhru	2979	7802	596	0
 Sidh Parāo	2991	7820	596	0
@@ -193,7 +193,7 @@ Sidhe Purwa	2666	8124	30	0
 Sidhauli	2915	7849	575	0
 Kuti Sidhi Dās	2657	8149	30	0
 Sidh Khāl	2970	7888	612	0
-Sidhpur	2969	7891	612	0
+Sidhpur	2969	7891	612	0	Lamdhar
 Sidhāwali	2901	7882	511	0
 Sidhauna	2629	8133	681	0
 Pura Sidhi	2638	8184	662	0
@@ -213,7 +213,7 @@ Purwa Sahjād Sīdāganj	2605	8183	662	0
 Malhpur Sidhāri	2859	7885	511	0
 Sidāpuram	1817	7824	58	0
 Sidhpur	2830	7888	117	0
-Sidhārpur	2805	7877	117	0
+Sidhārpur	2805	7877	117	0	Mundāri
 Siddhpur Chittarsain	2810	7894	117	0
 Sidapalli	1868	7846	75	0
 Pura Sidhāri	2725	8210	542	0

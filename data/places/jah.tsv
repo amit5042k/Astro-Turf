@@ -6,7 +6,7 @@ Jahāzpur	2562	7528	309	20586
 Jahānābād	2863	7972	683	13617
 Jahāngīrpur	2818	7771	588	10042
 Jhahura	2605	8667	426	3435
-Jāhiar Kotra	2448	7386	22	0
+Jāhiar Kotra	2448	7386	22	0	Jhamar Kotra
 Jāhru	2724	7693	482	0
 Jahri	1941	7677	153	0
 Jahāngīrpur Pirthi	2562	8529	716	0
@@ -15,7 +15,7 @@ Jahāngīrābād	2542	8187	607	0
 Jahāngīra	2525	8672	538	0
 Jahāngir	3039	7582	593	0
 Jahānābād	2610	8035	728	0
-Jahānābād	2505	8379	749	0
+Jahānābād	2505	8379	749	0	Kudra
 Jahom	3433	7423	0	0
 Jahāma	3401	7470	76	0
 Jahla	3070	7606	674	0
@@ -23,10 +23,10 @@ Jahāngīrpur	2959	7730	328	0
 Jahurābād	1786	7851	400	0
 Jahānpur	2708	7990	570	0
 Zāhirpura	2650	7914	290	0
-Zāharpura	2650	7914	290	0
+Zāharpura	2650	7914	290	0	Zāhirpura
 Jahtauli	2627	7946	741	0
 Jahānāganj	2596	8327	498	0
-Jahānāgani	2596	8327	498	0
+Jahānāgani	2596	8327	498	0	Jahānāganj
 Jahanabad	2372	7553	568	0
 Jahalda	2195	8749	677	0
 Jahal	2078	8620	376	0
@@ -55,7 +55,7 @@ Jahājgarh	2989	7781	596	0
 Zāhirpur	2966	7781	449	0
 Hājīpur Jahāngīrpur	2953	7797	545	0
 Jahāngīrpur	3094	7590	674	0
-Jahājgarh	2851	7700	630	0
+Jahājgarh	2851	7700	630	0	Panwāla Khusropur
 Jahāngīrpur Dundāhera	2884	7727	477	0
 Jahāngīrpur	2879	7760	727	0
 Budhera Zāhidpur	2893	7773	700	0
@@ -132,7 +132,7 @@ Jāhin	2574	8334	26	0
 Khawāja Jahānpur	2596	8357	586	0
 Jahāngīrābād	2595	8355	586	0
 Zahurābād	2575	8372	26	0
-Chak Jahrulla	2538	8356	26	0
+Chak Jahrulla	2538	8356	26	0	Garhi Chak
 Jahānpur Siktauna	2548	8400	620	0
 Dighi Jahānpur	2105	7754	133	0
 Jhonbādi Jahāngīr	2054	7783	67	0
@@ -160,11 +160,11 @@ Jahāzgarh	2864	7656	609	0
 Jahāngīrpur	2858	7674	609	0
 Zāhīdpur	2851	7671	609	0
 Jahānābād	2668	8085	714	0
-Jahānābād	2923	7815	575	0
+Jahānābād	2923	7815	575	0	Bhitraula
 Jahānābād	2961	7849	575	0
 Jahānābād	2959	7837	575	0
-Hīmpur Makhdūra Jahān	2950	7841	575	0
-Jahāngīrpur Khās	2950	7842	575	0
+Hīmpur Makhdūra Jahān	2950	7841	575	0	Satārwāla
+Jahāngīrpur Khās	2950	7842	575	0	Haizarpur
 Jahāngīrābād	2934	7847	575	0
 Jahāngīrābād	2752	8111	507	0
 Purwa Jahān Singh	2743	8121	507	0
@@ -177,10 +177,10 @@ Jahāngirābād	2651	8113	681	0
 Jahānpur	2665	8119	30	0
 Zahīruddīnpur	2687	8128	30	0
 Jahānābād	2676	8131	30	0
-Jahāngīrpur	2911	7826	575	0
+Jahāngīrpur	2911	7826	575	0	Rūppur
 Jāhmati Khera	2660	8128	30	0
 Sheikhpur Zāhid Alī	2670	8144	30	0
-Jahānābād	2960	7850	575	0
+Jahānābād	2960	7850	575	0	Khobra
 Jahāngīrpur Jakhpheri	2902	7870	511	0
 Jahala	2432	8093	324	0
 Zāhidpur	2938	7877	575	0
@@ -197,7 +197,7 @@ Jahangirwān	2711	8163	542	0
 Jahra	1964	7738	640	0
 Jahānpur	2839	7838	646	0
 Jahānpur ki Madaiyān	2839	7838	646	0
-Zahīdpur	2879	7850	483	0
+Zahīdpur	2879	7850	483	0	Mujāhidpur
 Zahūr Nagra	2808	7976	470	0
 Jahānpur	2806	7985	470	0
 Aima Jahāniān	2588	8134	681	0
@@ -274,7 +274,7 @@ Zāhidpur	3173	7521	487	0
 Jahānian Cheh	3109	7516	369	0
 Jahāniān	3109	7517	369	0
 Jahaniān Chehl	3109	7517	369	0
-Jahāngīr	3117	7542	369	0
+Jahāngīr	3117	7542	369	0	Dakhni
 Zāhidpur	3196	7555	296	0
 Zāhidpur	3196	7568	296	0
 Zāhidpur	3179	7557	296	0
@@ -321,7 +321,7 @@ Saidpur Zāhid	2577	8578	138	0
 Jahāngīrpur	2586	8590	138	0
 Jahānpur	2559	8592	530	0
 Jahānpur	2494	8540	107	0
-Jahāngīrpur	2580	8601	138	0
+Jahāngīrpur	2580	8601	138	0	Murādpur
 Jahāngīrpur	2581	8614	138	0
 Jahāna	2509	8600	589	0
 Jahāngīr Chakla	2568	8654	661	0

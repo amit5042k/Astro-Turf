@@ -1,51 +1,51 @@
 Gharroli	2862	7733	794	92540
 Parādīp Garh	2032	8661	456	85868
 Garhchiroli	2018	8001	135	54152
-Garhchiroh	2018	8001	135	54152
+Garhchiroh	2018	8001	135	54152	Garhchiroli
 Garhwa	2416	8381	743	46059
-Garwa	2416	8381	743	46059
+Garwa	2416	8381	743	46059	Garhwa
 Gharonda Neemka Bangar	2862	7729	794	37876
 Gharaunda	2954	7697	457	37816
 Garhmuktesar	2879	7810	756	37043
 Gariadhar	2154	7158	168	35692
-Gariyadhar	2154	7158	168	35692
+Gariyadhar	2154	7158	168	35692	Gariadhar
 Garhākota	2378	7914	352	32726
-Tehri-Garhwāl	3039	7848	500	27611
-Srinagar Garhwal	3022	7878	612	20216
-Navlock Garden	1294	7931	160	20171
+Tehri-Garhwāl	3039	7848	500	27611	Tehri
+Srinagar Garhwal	3022	7878	612	20216	Srīnagar
+Navlock Garden	1294	7931	160	20171	Puliyankannu
 Garhshankar	3122	7614	296	16955
-Garshankar	3122	7614	296	16955
+Garshankar	3122	7614	296	16955	Garhshankar
 Garot	2432	7565	580	15122
 Garacharma	1161	9270	105	14419
 Garhi	2504	7969	663	13625
 Garhi Pūkhta	2955	7731	328	13381
-Garhī	2955	7731	328	13381
+Garhī	2955	7731	328	13381	Garhi Pūkhta
 Maidan Garhi	2850	7721	778	11111
 Bhulath Gharbi	3154	7551	565	10669
 Gariāband	2063	8206	297	10517
 Garautha	2557	7930	433	9489
 Gharghoda	2217	8335	439	9455
 Garhi Harsāru	2845	7694	630	7894
-Qutab Garh	2880	7696	689	7639
+Qutab Garh	2880	7696	689	7639	Outabgarh
 Garhdiwāla	3174	7576	296	7593
-Gardhīwāla	3174	7576	296	7593
+Gardhīwāla	3174	7576	296	7593	Garhdiwāla
 Rakh Gadi Garh	3267	7484	581	7588
 Garimellapadu	1754	8062	60	6296
-Mullanpur Garib Dass	3080	7674	632	6165
-Garia	2377	8321	341	6048
+Mullanpur Garib Dass	3080	7674	632	6165	Mulānpur
+Garia	2377	8321	341	6048	Wādrupnagar
 Tasti Tea Garden	2665	8915	752	5568
 Garrā	2181	8014	144	5533
 Gargeswari	1224	7689	74	5343
 Garhi	2359	7415	166	5180
 Garal	2614	9161	359	4400
-Garhwal	2981	7861	612	2780
+Garhwal	2981	7861	612	2780	Dugadda
 Garhi Māhān Singh	3111	7588	369	1231
 Kot Garewāl	3115	7584	369	1045
 Garha Brahman	2387	7736	687	1013
 Kohar Garī	2708	8385	560	0
-Gharsatan	2850	7448	539	0
-Gharsotān	2850	7448	539	0
-Gariparon	1772	8328	81	0
+Gharsatan	2850	7448	539	0	Hariyāsar
+Gharsotān	2850	7448	539	0	Hariyāsar
+Gariparon	1772	8328	81	0	Gnānapuram
 Gharyāla	3123	7474	260	0
 Gharod	2452	7555	655	0
 Ghari Ghāt	2701	8250	542	0
@@ -55,7 +55,7 @@ Garwā	2766	8145	294	0
 Gārvi	2084	7369	169	0
 Garui	2263	8840	450	0
 Garubhāsa	2657	9037	357	0
-Garnbhasa	2657	9037	357	0
+Garnbhasa	2657	9037	357	0	Garubhāsa
 Gāru	2725	7707	482	0
 Gāru	2367	8423	707	0
 Gharsīsar	2842	7420	539	0
@@ -70,16 +70,16 @@ Garnimitta	1382	7890	195	0
 Garnia	2621	7386	273	0
 Garnāwad	2448	7597	525	0
 Garmali Nāni	2136	7117	216	0
-Garmali	2136	7117	216	0
+Garmali	2136	7117	216	0	Garmali Nāni
 Garli	3181	7624	38	0
-Garlamarla	2522	7451	309	0
+Garlamarla	2522	7451	309	0	Gādarmāla
 Garladinne	1531	7798	232	0
 Gārladinne	1482	7760	100	0
 Gārkhadi	2081	7389	169	0
 Garkha	2583	8486	540	0
 Garjiā	2948	7914	551	0
 Garimenapenta	1438	7946	6	0
-Garimanipenta	1438	7946	6	0
+Garimanipenta	1438	7946	6	0	Garimenapenta
 Garifa	2291	8841	450	0
 Garībpur	2510	8683	605	0
 Gariāgāon	2669	9412	451	0
@@ -87,7 +87,7 @@ Garhwa	2473	8319	724	0
 Garh Phuljhar	2121	8285	407	0
 Garh Pānchkot	2360	8677	415	0
 Garhpahra	2392	7873	352	0
-Garhpera	2392	7873	352	0
+Garhpera	2392	7873	352	0	Garhpahra
 Garh Morān	2671	7654	447	0
 Garh Krishnaprasād	1963	8526	603	0
 Garhī Barod	2534	7781	436	0
@@ -97,37 +97,37 @@ Garhī	2612	7731	335	0
 Garhi	2340	7814	338	0
 Garhī	2221	8079	144	0
 Garhāni	2541	8456	377	0
-Garh Anāpur	2457	7219	134	0
+Garh Anāpur	2457	7219	134	0	Anāpurgarh
 Garha Kalān	2375	7734	687	0
-Garha	2375	7734	687	0
+Garha	2375	7734	687	0	Garha Kalān
 Garha	2316	7990	598	0
 Garh	3291	7464	581	0
 Garh	2733	7673	482	0
 Garh	2482	8165	516	0
-Ghar	2482	8165	516	0
+Ghar	2482	8165	516	0	Garh
 Gārgoti	1632	7414	57	0
-Gārgoli	1632	7414	57	0
+Gārgoli	1632	7414	57	0	Gārgoti
 Gargi	2430	8575	473	0
 Garethi	2350	7480	568	0
-Gareth	2350	7480	568	0
+Gareth	2350	7480	568	0	Garethi
 Garenga	1939	8194	600	0
 Gardi	2742	7808	670	0
 Garden Reach	2254	8831	123	0
-Calcutta Garden-Reach	2254	8831	123	0
+Calcutta Garden-Reach	2254	8831	123	0	Garden Reach
 Gardāwad	2270	7524	130	0
 Garbyāng	3012	8086	508	0
 Garbor	2525	7370	572	0
 Garbhām	1837	8345	179	0
 Garbāra	2268	7431	173	0
-Garbada	2268	7431	173	0
+Garbada	2268	7431	173	0	Garbāra
 Garappu	2924	7928	551	0
 Garampāni	2639	9388	405	0
 Garag	1557	7493	682	0
 Garāra	2316	7412	173	0
-Garāda	2316	7412	173	0
+Garāda	2316	7412	173	0	Garāra
 Garacherāma	1161	9270	105	0
 Gārabdesar	2844	7401	307	0
-Gārabdenar	2844	7401	307	0
+Gārabdenar	2844	7401	307	0	Gārabdesar
 Gārabandh	1883	8427	252	0
 Gara	2462	7721	336	0
 Gāra	1832	8407	472	0
@@ -156,15 +156,15 @@ Garhi	3290	7478	581	0
 Gharorwān	3283	7481	581	0
 Garhi	3279	7477	581	0
 Ghari Multān	2951	7699	457	0
-Garhi Multān	2951	7699	457	0
+Garhi Multān	2951	7699	457	0	Ghari Multān
 Garhi Sāmpla	2876	7677	719	0
 Garhi Brahmanān	2900	7699	485	0
-Gārigarh	3267	7484	581	0
+Gārigarh	3267	7484	581	0	Gādīgarh
 Garh	3271	7495	581	0
-Gārāl	3271	7495	581	0
+Gārāl	3271	7495	581	0	Garh
 Garkhun	3463	7645	8	0
 Lachhman Garhi	3031	7799	448	0
-Lochhman Garhi	3031	7799	448	0
+Lochhman Garhi	3031	7799	448	0	Lachhman Garhi
 Garhi Jātān	2992	7704	457	0
 Garhi Sādān	2991	7703	457	0
 Garhi Gujrāh	2984	7702	457	0
@@ -175,12 +175,12 @@ Garnāra	2535	7555	353	0
 Gārdhari	2575	7569	353	0
 Gārdher	2574	7568	353	0
 Gārdhari	2572	7568	353	0
-Gharīana	3124	7711	278	0
+Gharīana	3124	7711	278	0	Charīāna
 Garoth	3124	7710	278	0
 Gharog	3116	7708	479	0
 Garbareth	2997	7852	612	0
 Garhkot	2997	7854	612	0
-Garhkat	2997	7854	612	0
+Garhkat	2997	7854	612	0	Garhkot
 Garwāri	2994	7870	612	0
 Garh	2991	7868	612	0
 Garhkhetu	2982	7871	612	0
@@ -197,7 +197,7 @@ Gārinda	2838	7553	300	0
 Ghararu	2830	7571	300	0
 Gārākhera	2818	7574	300	0
 Ghardāna Kalān	2813	7571	300	0
-Ghardāna Khurd	2811	7570	300	0
+Ghardāna Khurd	2811	7570	300	0	Charddna Khurd
 Garhi	3010	7673	501	0
 Garroli	2525	7882	529	0
 Garār ka Khirk	2509	7878	529	0
@@ -209,12 +209,12 @@ Garhaulīdhīraj	2410	7845	352	0
 Garhaulīdhīraj Khurd	2411	7845	352	0
 Garhaula	2403	7844	352	0
 Garaulia	2790	7906	117	0
-Garaulla	2790	7906	117	0
+Garaulla	2790	7906	117	0	Garaulia
 Garhia	2786	7912	117	0
 Kāli Garhia	2778	7902	616	0
 Garhia	2779	7906	616	0
 Garhia Hardopatti	2780	7920	117	0
-Garheli Nagla	2792	7913	117	0
+Garheli Nagla	2792	7913	117	0	Kallu Nagla
 Garhia Lachha	2796	7936	117	0
 Gargat Nagla	2793	7935	117	0
 Garhia Shāhpur	2794	7940	117	0
@@ -239,14 +239,14 @@ Garhi	2758	7951	688	0
 Garhia	2756	7956	688	0
 Garhia	2714	7976	570	0
 Garhia Kachhpura	2711	7977	570	0
-Garhia Hāthīsingh	2685	7921	290	0
+Garhia Hāthīsingh	2685	7921	290	0	Gadhia
 Gharia	2688	7920	290	0
 Naiagaon Garhia	2644	7903	334	0
-Nayāgaon ki Garhia	2644	7903	334	0
-Garhi Mangad	2646	7906	290	0
-Ballamsingh ki Garhia	2646	7910	525	0
-Garhia	2645	7921	290	0
-Garhi	2645	7921	290	0
+Nayāgaon ki Garhia	2644	7903	334	0	Naiagaon Garhia
+Garhi Mangad	2646	7906	290	0	Gadhi Mangad
+Ballamsingh ki Garhia	2646	7910	525	0	Purwa Bailam Singh
+Garhia	2645	7921	290	0	Anaitha
+Garhi	2645	7921	290	0	Anaitha
 Garkatu	2625	7912	741	0
 Garia	2647	7930	715	0
 Garhiya Bakhsīrām	2650	7948	715	0
@@ -292,15 +292,15 @@ Gārobhātkhoa	2608	9038	458	0
 Garehagā Chuk	2719	9416	355	0
 Garāni	2354	6905	108	0
 Garāmri	2214	6955	131	0
-Gargoi	2603	8483	540	0
+Gargoi	2603	8483	540	0	Gangoi
 Garaimāri	2404	8863	788	0
 Gharial	2776	7259	307	0
 Garaga	1363	7635	255	0
-Gharosa	1816	7667	158	0
+Gharosa	1816	7667	158	0	Kharosa
 Gharni	1849	7681	158	0
 Ghargaon	1875	7464	152	0
 Gargoti Temni	2196	7875	337	0
-Garla	2012	8253	594	0
+Garla	2012	8253	594	0	Gorla
 Garbeta	2286	8735	677	0
 Garhbeta II (community development block)	2271	8717	677	0
 Garda	2386	7554	568	0
@@ -326,7 +326,7 @@ Garhi Bohar	2888	7665	719	0
 Garhi ki Dhāni	2811	7667	519	0
 Garhi	2811	7668	519	0
 Garhi Sisāna	2889	7683	485	0
-Garhi	2883	7696	485	0
+Garhi	2883	7696	485	0	Nizāmpur Khurd
 Garhi Nathe Khūn	2843	7677	630	0
 Garauli Kalān	2845	7698	630	0
 Garauli Khurd	2844	7698	630	0
@@ -451,7 +451,7 @@ Garhi	2930	7736	545	0
 Garhi Nauābād	2936	7747	545	0
 Garhmalpur Sāgri	2934	7743	545	0
 Garhi Sakhāwatpur	2929	7744	545	0
-Garhi	2920	7742	477	0
+Garhi	2920	7742	477	0	Gathiābād
 Garhi Dulla	2908	7741	477	0
 Garhi Banjār	2919	7746	477	0
 Muhammadpur Gāra	2974	7750	449	0
@@ -492,18 +492,18 @@ Garh	2995	7800	596	0
 Garhi	2931	7786	545	0
 Garhi	2931	7793	545	0
 Garh Shāhjahānpur	2900	7706	485	0
-Basti Garhi Bāla	2891	7701	485	0
+Basti Garhi Bāla	2891	7701	485	0	Abbāspur
 Khera Garhi	2877	7712	769	0
 Shāhpur Garhi	2882	7711	769	0
-Garhi Khushhālwāli	2891	7712	485	0
+Garhi Khushhālwāli	2891	7712	485	0	Badh Khālsa
 Garhi Bakhtāwarpur	2883	7718	769	0
 Gharib Nāgri	3083	7592	674	0
 Garhi Pīra	2868	7709	771	0
 Garhi Mendhu	2870	7725	791	0
 Garhi	2851	7736	588	0
-Shālimār Garden	2869	7735	727	0
+Shālimār Garden	2869	7735	727	0	Chhābra Colony
 Garhi	2870	7744	727	0
-Garhi	2860	7740	588	0
+Garhi	2860	7740	588	0	Chaukhandi
 Indar Garhi	2868	7750	727	0
 Pahlād Garhi	2866	7736	727	0
 Garhi Katiya	2876	7727	727	0
@@ -563,11 +563,11 @@ Garheth	3049	7823	500	0
 Garh	3041	7824	500	0
 Garh	3027	7808	448	0
 Garhi Chamāran	2948	7854	575	0
-Rāipur Garhi	2948	7854	575	0
+Rāipur Garhi	2948	7854	575	0	Garhi Chamāran
 Garhi	2943	7868	575	0
-Afzalnagar Garhi	2943	7868	575	0
+Afzalnagar Garhi	2943	7868	575	0	Garhi
 Garhi	2942	7872	575	0
-Mustafābād Garhi	2942	7872	575	0
+Mustafābād Garhi	2942	7872	575	0	Garhi
 Garhwāwāla	2937	7870	575	0
 Kāsimpur Garhi	2939	7874	575	0
 Garh	3050	7963	183	0
@@ -606,9 +606,9 @@ Garhi Tikhān	3088	7618	674	0
 Garhi Nazīr	3013	7621	705	0
 Ghārgaon	1855	7623	48	0
 Garhi Sainiān	3094	7630	674	0
-Nagla Garb	2778	7777	177	0
+Nagla Garb	2778	7777	177	0	Rām Nagla
 Garhi Tārāpur	2784	7788	543	0
-Gharāli	3002	7644	501	0
+Gharāli	3002	7644	501	0	Ratangarh
 Garhi Lāngri	3004	7649	501	0
 Phūlpur Garewāl	3095	7656	735	0
 Gharūwān	3077	7656	632	0
@@ -624,7 +624,7 @@ Gharni Project Colony	1838	7681	158	0
 Garhi Barwāri	2780	7731	177	0
 Garhi Patti	2787	7736	754	0
 Garhi	2776	7748	177	0
-Garhi	2766	7703	114	0
+Garhi	2766	7703	114	0	Jot Sadaruddīn
 Garh Teski	2760	7701	114	0
 Buhāpur Garhi	2756	7715	114	0
 Garh Ajān	2768	7721	114	0
@@ -655,7 +655,7 @@ Nagaria Garhi Chandraman	2717	7773	546	0
 Garhi Chandraman	2716	7772	546	0
 Garhgorhī	2204	8300	402	0
 Garhseoni	2128	8211	407	0
-Gardih	2150	8272	635	0
+Gardih	2150	8272	635	0	Joradabri
 Garāīndih	2089	8115	668	0
 Gārka	2087	8108	668	0
 Garda	2012	8123	704	0
@@ -801,7 +801,7 @@ Garhi Rāri	2701	7814	546	0
 Garhi Gusāīn	2700	7820	546	0
 Garhi Kharagjīt	2700	7823	546	0
 Garhi Thākurdās	2705	7821	546	0
-Bhūr Garha	2747	7828	711	0
+Bhūr Garha	2747	7828	711	0	Muhammadnagar
 Nagla Gharīb	2746	7845	711	0
 Garhī	2746	7829	711	0
 Bhopāl Garhī	2741	7828	711	0
@@ -1210,7 +1210,7 @@ Garhewa	2650	7986	671	0
 Garhewa Thākuran	2644	7990	671	0
 Garhewa	2644	7988	671	0
 Garhia Yadgārpur	2745	7872	711	0
-Nagla Garhiya	2745	7861	403	0
+Nagla Garhiya	2745	7861	403	0	Nagla Parshādpur
 Nagla Garhwa	2739	7866	403	0
 Garhi	2737	7864	403	0
 Garhia Khās	2729	7856	403	0
@@ -1285,7 +1285,7 @@ Gārha	2469	8207	516	0
 Garariyan Ka Purwa	2481	7965	663	0
 Patti Garīb	2565	8316	26	0
 Garhi Udairāj	2697	7829	546	0
-Garhi Kesar	2697	7829	546	0
+Garhi Kesar	2697	7829	546	0	Garhi Udairāj
 Kūmre Ki Garhi	2697	7830	546	0
 Garhi Mohanlāl	2697	7833	546	0
 Garhi Ishwari	2695	7849	546	0
@@ -1320,7 +1320,7 @@ Garla	2502	8322	724	0
 Garhīsīta	2647	7899	334	0
 Garhīsultān	2647	7899	334	0
 Garhpāra	2646	7875	334	0
-Garjāla	2285	7790	675	0
+Garjāla	2285	7790	675	0	Sardārnagar
 Gargā Malūr	2145	7698	133	0
 Garera	2549	7836	503	0
 Garthauli	2554	8336	26	0
@@ -1329,7 +1329,7 @@ Garha	2503	7806	436	0
 Garhi	2575	7843	503	0
 Gāropur	2544	8336	724	0
 Garruwa	2430	7952	521	0
-Garda	2439	7966	663	0
+Garda	2439	7966	663	0	Gadaran
 Garhiya	2413	7959	521	0
 Garduāghāt	2405	7973	521	0
 Garetha	2515	7827	436	0
@@ -1417,7 +1417,7 @@ Garriādīh	2426	8393	701	0
 Gara Khurd	2450	8384	743	0
 Garnāha	2417	8392	743	0
 Garhāyla	2374	7800	215	0
-Garhi	2342	7819	338	0
+Garhi	2342	7819	338	0	Chāndoni
 Garholi	2436	7824	352	0
 Garaunti	2558	8055	463	0
 Garhi	2574	8058	728	0
@@ -1510,7 +1510,7 @@ Garwa	2579	8228	32	0
 Garetha	2576	8248	32	0
 Gharwāspur	2583	8240	32	0
 Gārāpur	2591	8227	718	0
-Garha	2594	8255	32	0
+Garha	2594	8255	32	0	Gopālāpur
 Garothan	2592	8262	32	0
 Garha Bāghrāi	2581	8251	32	0
 Garha Seni	2580	8253	32	0
@@ -1628,11 +1628,11 @@ Garhi	2948	7843	575	0
 Gārabpur	2942	7833	575	0
 Gārabpur	2932	7842	575	0
 Garhi Bishonpur	2932	7836	575	0
-Garhi	2928	7831	575	0
+Garhi	2928	7831	575	0	Hardāspur Jāfrābād
 Garuah	2457	8227	672	0
 Garu	2453	8271	631	0
 Garchapa	2765	8113	507	0
-Garhi	2766	8115	507	0
+Garhi	2766	8115	507	0	Baraiya Pind
 Bajrang Garh	2751	8120	507	0
 Naiya Gharia	2728	8101	507	0
 Gharthari Khurd	2746	8118	507	0
@@ -1794,7 +1794,7 @@ Garhi Khānpur	2827	7871	117	0
 Garhi	2604	8102	728	0
 Pura Garhi	2604	8102	728	0
 Garhi Deogāon	2601	8112	681	0
-Nasirpur Ghariāri	2608	8111	681	0
+Nasirpur Ghariāri	2608	8111	681	0	Ismāilpur
 Pakra Garifta	2615	8116	681	0
 Garhi Mutwali	2619	8124	681	0
 Pura Garhiwa	2601	8103	728	0
@@ -1974,7 +1974,7 @@ Gargājpur	2607	8382	536	0
 Garthauli	2620	8387	535	0
 Garuā Maqsudpur	2555	8358	26	0
 Gāra	2375	8001	351	0
-Garegūdem	1849	8042	226	0
+Garegūdem	1849	8042	226	0	Sītānagaram
 Gāra	2364	8008	351	0
 Garchhapa	2353	8012	598	0
 Garchapa	2344	8007	598	0
@@ -2028,7 +2028,7 @@ Pure Gharībdās	2596	8194	718	0
 Garwāra	2597	8194	718	0
 Gārabpur	2562	8179	607	0
 Gharaundpur	2554	8177	607	0
-Gārāpur	2552	8195	607	0
+Gārāpur	2552	8195	607	0	Parshottampur
 Garh Champa	2573	8196	607	0
 Garera	3248	7559	496	0
 Garera	3247	7559	496	0
@@ -2092,7 +2092,7 @@ Garhītolā	2266	8051	480	0
 Ghārkiān	3190	7495	487	0
 Durgāpur Gharbi	3131	7494	260	0
 Garhi Haqīqat	2902	7690	485	0
-Garhi	2906	7698	485	0
+Garhi	2906	7698	485	0	Sāndal Kalān
 Gārādongrī	2242	8080	480	0
 Gārāpurī Khursudī	2189	8003	144	0
 Garrā Tolā	2181	8013	144	0
@@ -2117,7 +2117,7 @@ Gharībwāl	3149	7527	260	0
 Garjali	3182	7573	296	0
 Garhi Bakhsh	3150	7562	369	0
 Murādpur Gharwah	3154	7573	296	0
-Ghartha Devi	3184	7592	296	0
+Ghartha Devi	3184	7592	296	0	Dharmpur
 Garre	3175	7592	296	0
 Gārāgoda	2280	8243	388	0
 Garrātolā	2193	8077	144	0
@@ -2126,7 +2126,7 @@ Garhwat	2225	8221	291	0
 Gāraj	2006	7497	113	0
 Garaindhodhi	2222	8230	291	0
 Gārakheri	2308	7538	314	0
-Gargarā	2255	8254	388	0
+Gargarā	2255	8254	388	0	Tānākhār
 Gharīpakhnā	2252	8257	388	0
 Garāghāt	2258	8258	388	0
 Garh	2264	8271	388	0
@@ -2387,7 +2387,7 @@ Garhiā	2351	8384	341	0
 Garroli	2327	7614	320	0
 Pedda Gārlapādu	1737	8193	268	0
 Chinna Gārlapādu	1735	8193	268	0
-Gāreka	2816	7726	754	0
+Gāreka	2816	7726	754	0	Allika
 Pīr Garhi	2803	7749	754	0
 Gargyam Dogri	3165	7836	83	0
 Gharaghāti	2151	8314	635	0
@@ -2520,7 +2520,7 @@ Gārinavalasa	1858	8399	472	0
 Garikipādu	1848	8376	179	0
 Garimella Kottavalasa	1846	8382	472	0
 Garnāyudupeta	1842	8382	179	0
-Garāpeta	1833	8377	472	0
+Garāpeta	1833	8377	472	0	Krishnāpuram
 Gargi Lanka	1748	8101	60	0
 Garugubilli	1784	8300	227	0
 Garlevānipālem	1797	8313	179	0
@@ -2982,7 +2982,7 @@ Garhātoli	2334	8502	562	0
 Garhātoli	2335	8512	562	0
 Gargaon	2332	8507	562	0
 Garsul	2321	8524	562	0
-Gārātoli	2301	8505	432	0
+Gārātoli	2301	8505	432	0	Simgārā
 Gartoli	2303	8516	432	0
 Garsulā	2371	8534	764	0
 Garwātānrtoli	2362	8527	391	0
@@ -2996,7 +2996,7 @@ Gargaon	2310	8539	432	0
 Gārāmārā	2308	8543	432	0
 Garea	2398	8556	764	0
 Garkia	2377	8558	391	0
-Garhachārtoli	2343	8556	562	0
+Garhachārtoli	2343	8556	562	0	Balara
 Garhātoli	2330	8551	562	0
 Garurpiritoli	2327	8554	562	0
 Ghargrāberā	2322	8553	562	0

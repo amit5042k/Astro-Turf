@@ -1,23 +1,23 @@
 Sunām	3013	7580	593	69069
 Sunabeda	1873	8283	316	50394
 Sundergarh	2212	8403	272	45036
-Sundargarh	2212	8403	272	45036
+Sundargarh	2212	8403	272	45036	Sundergarh
 Sundarnagar	3154	7690	278	25338
 Sundakkāmpālaiyam	1057	7721	235	16459
 Sunel	2437	7596	333	15840
-Sundna	2405	8407	701	14552
+Sundna	2405	8407	701	14552	Sudnā
 Sundarapāndiyam	961	7767	119	8513
 Sunāri Kalān	2886	7657	719	7506
 Sunderbani	3305	7449	504	6930
 Sunākhala	2017	8533	548	6299
 Sundarapāndiyanpattanam	984	7910	5	4007
-Sundarapandianpatnam	984	7910	5	4007
+Sundarapandianpatnam	984	7910	5	4007	Sundarapāndiyanpattanam
 Suntikoppa	1246	7583	193	3500
 Sunār Khurd	3116	7570	369	1040
 Sundarpahari	2476	8736	592	873
 Sunwāsa	2533	7585	353	0
 Sunwāra	2244	7974	368	0
-Sunwar	2484	7408	22	0
+Sunwar	2484	7408	22	0	Sanawār
 Sunukothi	3280	7593	362	0
 Suntadāsupalli	1422	7982	45	0
 Sūnswārā	2533	7685	335	0
@@ -34,16 +34,16 @@ Sunger	1946	8310	363	0
 Sungarpur	2875	7587	431	0
 Sunera	2347	7636	320	0
 Sunel Chhoti	2434	7602	333	0
-Sunel	2434	7602	333	0
+Sunel	2434	7602	333	0	Sunel Chhoti
 Sundrel	2269	7657	322	0
 Sundra	2609	7022	285	0
-Sundra	1918	8040	288	0
+Sundra	1918	8040	288	0	Sandra
 Sundi Penta	1608	7891	232	0
 Sundarsi	2327	7644	320	0
 Sundarpur	2815	8037	323	0
 Sundari	2410	8330	103	0
 Sundani	2369	7431	166	0
-Sundni	2369	7431	166	0
+Sundni	2369	7431	166	0	Sundani
 Sunāri	2948	7983	429	0
 Sunāri	2729	8060	507	0
 Sunāra	2645	7583	313	0
@@ -51,16 +51,16 @@ Sunāra	2456	7587	580	0
 Sunāo-Kala	2148	7283	151	0
 Sunāmāl	1943	8280	284	0
 Sunākhala	1984	8529	541	0
-Sunakhulla	1984	8529	541	0
+Sunakhulla	1984	8529	541	0	Sunākhala
 Sunokh	2362	7329	125	0
-Sunak	2362	7329	125	0
+Sunak	2362	7329	125	0	Sunokh
 Sunaj	2524	7781	436	0
 Sunag	1629	7562	86	0
-Sunāberha	2051	8246	594	0
+Sunāberha	2051	8246	594	0	Sonābera
 Suna	3009	7946	183	0
-Sunkon	1839	8166	599	0
-Soonkhed	1903	7722	140	0
-Sunpura	2783	9588	475	0
+Sunkon	1839	8166	599	0	Sukma
+Soonkhed	1903	7722	140	0	Sonkhed
+Sunpura	2783	9588	475	0	Chunpura
 Bishunpur Sundar	2606	8698	657	0
 Sundarika	2226	8811	4	0
 Shunglipura	3411	7477	611	0
@@ -77,7 +77,7 @@ Sundal	2989	7857	612	0
 Sundriyālgaon	2988	7870	612	0
 Sunārgaon	2982	7861	612	0
 Sundri Thok	2980	7852	612	0
-Sundri Thak	2980	7852	612	0
+Sundri Thak	2980	7852	612	0	Sundri Thok
 Sunkatal	2980	7873	612	0
 Sun City	1293	7767	277	0
 Sundo ka Bās	2802	7532	300	0
@@ -104,7 +104,7 @@ Sundra	2695	7920	290	0
 Sundarpur	2678	7905	290	0
 Sundarpura	2639	7912	741	0
 Sundariāwās	2696	7560	121	0
-Sundriyāwās	2696	7560	121	0
+Sundriyāwās	2696	7560	121	0	Sundariāwās
 Sundarpur	2649	7948	715	0
 Sunīkhera	2685	7962	715	0
 Sungwānār	2660	7981	671	0
@@ -313,7 +313,7 @@ Sundripur	2647	7958	715	0
 Suniāpur	2627	7978	671	0
 Sundarpur	2745	7865	711	0
 Nagla Sunāri	2746	7851	403	0
-Sundar	2740	7865	403	0
+Sundar	2740	7865	403	0	Nagla Khushhāl
 Sunau	2735	7851	403	0
 Nagla Sunda	2737	7862	403	0
 Sundarpur	2734	7864	403	0
@@ -338,7 +338,7 @@ Sundarbel	2187	7641	209	0
 Sunpura Chak	2353	7777	215	0
 Sunpura	2353	7777	215	0
 Sunera	2324	7781	338	0
-Sūnd	2338	7780	338	0
+Sūnd	2338	7780	338	0	Ajāyabnagar
 Sundhi	2566	8308	498	0
 Sundarpura	2697	7850	403	0
 Sungulpur	2544	8311	251	0
@@ -428,7 +428,7 @@ Sungarh	2911	7839	575	0
 Sundoli	2965	7899	612	0
 Chak Sunda	2631	8111	681	0
 Sunkāmau	2627	8118	681	0
-Sundarnagar	2912	7882	511	0
+Sundarnagar	2912	7882	511	0	Bhūtkhera
 Sunrāi	2639	8145	662	0
 Sundarpur	2648	8185	597	0
 Purwa Sundarlāl	2642	8185	597	0
@@ -462,13 +462,13 @@ Sundipur	3399	7469	76	0
 Sunkita	1879	7843	75	0
 Sunār Dīh	2737	8217	280	0
 Sunbharia	2713	8208	542	0
-Sungargairi	2991	7901	612	0
+Sungargairi	2991	7901	612	0	Thanga Talla
 Sundola Bākhal	2975	7911	429	0
 Sungarkhāl	2980	7910	612	0
 Sungariya	2981	7910	612	0
 Sungariya	2983	7909	612	0
 Sūndar	3000	7909	612	0
-Sundargaon	2999	7916	612	0
+Sundargaon	2999	7916	612	0	Sugargaron
 Sunoli	2987	7923	429	0
 Sūnaichipur	2745	8239	280	0
 Sunwarupur	2707	8228	542	0
@@ -512,7 +512,7 @@ Sundarpur	2644	8300	553	0
 Sunauli	2721	8325	515	0
 Sunsapur	3379	7517	148	0
 Sungom	3370	7504	35	0
-Sundarganj	2575	8169	718	0
+Sundarganj	2575	8169	718	0	Baghrai
 Sundarpur Bujhna	2684	8305	647	0
 Sunaura	2695	8308	647	0
 Sunaura	2699	8312	647	0
@@ -581,9 +581,9 @@ Sundia	3186	7569	296	0
 Sūniātolā	2108	8056	474	0
 Sunārmūda	2254	8208	291	0
 Sunhera	3195	7575	296	0
-Sundāra	2258	8240	388	0
+Sundāra	2258	8240	388	0	Chheodharra
 Sundarwāhī	2193	8079	144	0
-Sunderābād	2314	7532	314	0
+Sunderābād	2314	7532	314	0	Piploda
 Sundarpati	2101	7509	78	0
 Sunsunia	2170	8244	379	0
 Sunsunia	2107	8239	407	0
@@ -713,7 +713,7 @@ Sunāsipālem	1812	8269	268	0
 Sundruput	1808	8267	268	0
 Poroja Sunku	1887	8285	316	0
 Brahmono Sunku	1888	8286	316	0
-Bamono Sunku	1888	8286	316	0
+Bamono Sunku	1888	8286	316	0	Brahmono Sunku
 Sundiguda	1875	8296	316	0
 Sunnarigām	1937	8376	363	0
 Sunārpāra	1899	8140	406	0
@@ -1128,5 +1128,5 @@ Sundarkumpa	2033	8463	548	0
 Sundaruguma	2014	8453	440	0
 Sunāpalli	2004	8463	440	0
 Sungro	2627	9433	70	0
-Sunārān	3102	7707	628	0
+Sunārān	3102	7707	628	0	Ānji
 Sunoli	2988	7931	429	0

@@ -1,13 +1,13 @@
 Mangaluru	1292	7486	55	499487
-Mangalur	1292	7486	55	499487
-Mangalore	1292	7486	55	499487
-Manglapuram	1292	7486	55	499487
+Mangalur	1292	7486	55	499487	Mangaluru
+Mangalore	1292	7486	55	499487	Mangaluru
+Manglapuram	1292	7486	55	499487	Mangaluru
 Mango	2283	8622	584	223805
 Mangalagiri	1643	8057	319	107197
 Māngrol	2112	7011	185	69779
-Māngral	2112	7011	185	69779
+Māngral	2112	7011	185	69779	Māngrol
 Manglaur	2979	7788	596	46395
-Manglaur Town	2979	7788	596	46395
+Manglaur Town	2979	7788	596	46395	Manglaur
 Mangrūl Pīr	2031	7734	128	30983
 Mangaldai	2644	9203	747	25989
 Māngrol	2533	7651	506	25073
@@ -15,56 +15,56 @@ Mangalvedha	1751	7545	132	21824
 Mangalam	1366	7946	45	19318
 Mangattidam	1184	7554	266	18627
 Mangalam	1110	7727	235	17699
-R. S. Mangalam	964	7885	5	14565
+R. S. Mangalam	964	7885	5	14565	Rājāsingamangalam
 Mangawān	2467	8155	516	13700
 Mangalapādi	1267	7491	305	12790
-Mangalpady	1267	7491	305	12790
+Mangalpady	1267	7491	305	12790	Mangalapādi
 Mangalam	976	7864	454	11379
 Mānglya	2281	7593	660	10393
-Mānglia	2281	7593	660	10393
-Manglaya Sadak	2281	7593	660	10393
+Mānglia	2281	7593	660	10393	Mānglya
+Manglaya Sadak	2281	7593	660	10393	Mānglya
 Mangalam	1164	7928	178	9278
-Mangalampet	1164	7928	178	9278
+Mangalampet	1164	7928	178	9278	Mangalam
 Mangasamudram	1323	7909	214	8113
 Māngvādi	1843	7386	52	7685
 Mangampeta	1402	7931	195	5175
 Mangan	2751	8852	27	4644
-Mangen	2751	8852	27	4644
-Mangang	2751	8852	27	4644
-Mangan Bazar	2751	8852	27	4644
+Mangen	2751	8852	27	4644	Mangan
+Mangang	2751	8852	27	4644	Mangan
+Mangan Bazar	2751	8852	27	4644	Mangan
 Mangwāl	3201	7608	38	0
 Bara Māngwa	2707	8842	573	0
-Māngwa	2707	8842	573	0
+Māngwa	2707	8842	573	0	Bara Māngwa
 Māngta	2536	7139	285	0
 Mangrop	2524	7469	309	0
-Mangrup	2524	7469	309	0
+Mangrup	2524	7469	309	0	Mangrop
 Mangrul Chaval	2061	7782	133	0
 Mangrūl	2083	7824	133	0
 Mangrul	1917	7316	246	0
 Mangarūl	1793	7609	48	0
-Mangrūl	1793	7609	48	0
+Mangrūl	1793	7609	48	0	Mangarūl
 Māngrol	2624	7735	478	0
 Mangpu	2697	8838	573	0
-Mangphu	2697	8838	573	0
-Mangpur	2697	8838	573	0
+Mangphu	2697	8838	573	0	Mangpu
+Mangpur	2697	8838	573	0	Mangpu
 Mangom	3428	7480	595	0
 Mangoli	1665	7581	80	0
 Manglutān	1158	9265	105	0
 Mangalūr	1655	7664	72	0
-Manglūr	1655	7664	72	0
+Manglūr	1655	7664	72	0	Mangalūr
 Manglūr	1552	7615	66	0
 Māngliāwās	2627	7451	446	0
-Māngaliyāwās	2627	7451	446	0
+Māngaliyāwās	2627	7451	446	0	Māngliāwās
 Māngewāl	3126	7648	735	0
 Mangchua	2074	8087	668	0
 Mangat	3344	7511	550	0
 Māngalwāra	2662	7528	121	0
-Māngarwāra	2662	7528	121	0
+Māngarwāra	2662	7528	121	0	Māngalwāra
 Mangarwār	2459	7430	417	0
 Mangāri	2546	8288	251	0
 Māngarh	3075	7725	534	0
 Mangapet	1825	8052	226	0
-Mangapel	1825	8052	226	0
+Mangapel	1825	8052	226	0	Mangapet
 Mangaon	1823	7329	17	0
 Māngaon	1597	7378	213	0
 Manganam	958	7655	271	0
@@ -72,7 +72,7 @@ Mangāna	2488	7426	417	0
 Mangalpur	2651	7969	671	0
 Mangalpur	2082	8652	376	0
 Mangalkot	2353	8790	375	0
-Mangalkat	2353	8790	375	0
+Mangalkat	2353	8790	375	0	Mangalkot
 Mangāli	2904	7574	339	0
 Mangalgi	1775	7730	170	0
 Mangalduāri	2240	8770	559	0
@@ -80,9 +80,9 @@ Mangalawāda	1407	7708	93	0
 Mangalapūru	1412	7979	45	0
 Mangalapuram	863	7685	219	0
 Mangalampeta	1358	7909	214	0
-Mangalampet	1358	7909	214	0
+Mangalampet	1358	7909	214	0	Mangalampeta
 Mangalagunta	1432	7986	6	0
-Killbara Mang	3010	7984	722	0
+Killbara Mang	3010	7984	722	0	Kilbara
 Māngāsar	2828	7452	539	0
 Mangām	3430	7486	595	0
 Manganwār	3401	7483	76	0
@@ -92,22 +92,22 @@ Mangalnār	3349	7424	504	0
 Mangu di Patiān	3299	7471	581	0
 Mai Mangla	3322	7408	504	0
 Manglai Gāla	3322	7407	504	0
-Mangiāl Gāla	3322	7407	504	0
+Mangiāl Gāla	3322	7407	504	0	Manglai Gāla
 Manglāt	3322	7406	504	0
-Mangiāl	3322	7406	504	0
+Mangiāl	3322	7406	504	0	Manglāt
 Mangaldei	3310	7429	504	0
 Mangler	3306	7430	504	0
 Mangāni	3308	7440	504	0
 Mangiāna	3392	7433	1	0
 Mangher	3294	7443	581	0
 Manglāl Lālu	3279	7449	581	0
-Mangiāl Lālu	3279	7449	581	0
+Mangiāl Lālu	3279	7449	581	0	Manglāl Lālu
 Mangiāl Abtāra	3278	7450	581	0
 Manghāl	3295	7493	666	0
 Bhatoli Mangotriān	3275	7485	581	0
 Manghāl	3256	7490	581	0
 Chak Mangu	3266	7478	581	0
-Rājpura Mangotriyān	3274	7484	581	0
+Rājpura Mangotriyān	3274	7484	581	0	Rājpur
 Mangmūr	3456	7615	8	0
 Manganpur	2954	7749	545	0
 Mangāl	2538	7556	353	0
@@ -124,7 +124,7 @@ Mangampet	1764	7831	31	0
 Mangol	1791	7879	466	0
 Mangala ki Dhāni	2831	7551	300	0
 Māngarth	3060	7622	648	0
-Māngarh	3060	7622	648	0
+Māngarh	3060	7622	648	0	Māngarth
 Mangnīwāla	3074	7697	587	0
 Mangawān	2482	7835	384	0
 Mangūs	2419	7846	352	0
@@ -138,9 +138,9 @@ Māngarh	2751	7974	470	0
 Manglia Purwa	2704	7978	570	0
 Mangawān	2699	7912	290	0
 Gadhi Mangad	2646	7906	290	0
-Garhi Mangad	2646	7906	290	0
+Garhi Mangad	2646	7906	290	0	Gadhi Mangad
 Māngiāwās	2686	7574	121	0
-Māngiyāwās	2686	7574	121	0
+Māngiyāwās	2686	7574	121	0	Māngiāwās
 Ūncha Mangra	2681	7552	121	0
 Mangad Purwa	2688	7958	570	0
 Manglāpur	2658	7975	671	0
@@ -150,7 +150,7 @@ Mangur	1657	7441	90	0
 Mangachitigūdem	1713	8112	24	0
 Mangenkop	1557	7472	77	0
 Mangyāl	1864	7729	140	0
-Mangial	1864	7729	140	0
+Mangial	1864	7729	140	0	Mangyāl
 Māngōd	1089	7634	263	0
 Māngaon	1670	7437	57	0
 Mangwar	2575	8680	661	0
@@ -210,7 +210,7 @@ Māngurli	2161	7893	337	0
 Māngli	2107	7892	141	0
 Mangrūi	2112	7889	141	0
 Mangrūl	2056	7812	67	0
-Māngāheri	2550	7631	371	0
+Māngāheri	2550	7631	371	0	Harīpura
 Mangiyāna	2992	7480	585	0
 Talwandi Mange Khān	3095	7505	566	0
 Fīrozwāl Mangal Singh	3098	7527	499	0
@@ -331,7 +331,7 @@ Mangalmot	1936	7846	282	0
 Mangadpur	2740	7923	711	0
 Māngurla Khurd	1988	7873	67	0
 Māngurla Buzurg	1988	7875	67	0
-Mangrul Buzurg	1988	7875	67	0
+Mangrul Buzurg	1988	7875	67	0	Māngurla Buzurg
 Mangāpur	1772	7822	31	0
 Mangalwāri	2117	7912	141	0
 Mangarli	2147	7949	404	0
@@ -350,7 +350,7 @@ Manglipur	2761	7994	686	0
 Mangiāwān	2759	7997	686	0
 Mangampalli	1648	7802	146	0
 Mangilla	1641	7800	146	0
-Mangrūr	2181	7667	209	0
+Mangrūr	2181	7667	209	0	Ahmadnagar
 Mangrora	2478	7702	336	0
 Mangwār	2469	7732	336	0
 Nagla Mangli	2726	7878	464	0
@@ -489,7 +489,7 @@ Mangrāon	2574	8281	32	0
 Mangadpur	2614	8078	681	0
 Purwa Mangal Singh	2620	8086	681	0
 Manga Khera	2615	8094	681	0
-Rāmpur Mangal	2965	7835	575	0
+Rāmpur Mangal	2965	7835	575	0	Banwārīpur
 Mangas	2952	7834	575	0
 Mangara	2464	8233	201	0
 Purwa Mangu	2789	8105	323	0
@@ -529,7 +529,7 @@ Māngarh	2651	8120	681	0
 Mangtan Purwa	2664	8123	30	0
 Mangraul	2684	8126	30	0
 Mangraura	2687	8144	30	0
-Mangalkhera	2918	7849	575	0
+Mangalkhera	2918	7849	575	0	Kāsimpur
 Purwa Mangal	2666	8130	30	0
 Purwa Mangal Singh	2660	8143	30	0
 Mangatpur	2673	8139	30	0
@@ -562,11 +562,11 @@ Manglusa	2702	8173	542	0
 Mangalnagar	2730	8189	542	0
 Wat Māngri	1980	7794	140	0
 Mangūpura	2883	7870	511	0
-Mangarh	2578	8150	718	0
+Mangarh	2578	8150	718	0	Bāba ka Purwa
 Manganpur	2860	7865	646	0
 Mangarh	2578	8149	718	0
 Mangarhar	2585	8149	718	0
-Mangalpur	2847	7865	646	0
+Mangalpur	2847	7865	646	0	Mubāraknagar
 Pura Mangu	2621	8123	681	0
 Pura Mangal	2617	8125	681	0
 Mangwa	2656	8152	30	0
@@ -668,12 +668,12 @@ Mangitpur	2632	8301	498	0
 Purwa Manglu	2631	8316	498	0
 Purwa Mangru	2633	8315	498	0
 Mangan Purwa	2649	8324	325	0
-Mangalpur	2691	8335	325	0
+Mangalpur	2691	8335	325	0	Manaitapur
 Mangalpur	2693	8342	325	0
 Mangalpur	2693	8349	515	0
 Mangalpur	2694	8329	325	0
 Mangalpur	2671	8331	325	0
-Gauri Mangalpur	2662	8346	325	0
+Gauri Mangalpur	2662	8346	325	0	Mohnāpur
 Mangalpur	2630	8344	325	0
 Mangalpur	2681	8370	560	0
 Mangalpur	2679	8372	560	0
@@ -1220,7 +1220,7 @@ Māngudi	1073	7963	267	0
 Mangalanāyakipuram	1043	7960	267	0
 Māngudi	1095	7968	267	0
 Mangalpur	2033	8488	548	0
-Mangardahā	2372	8505	393	0
+Mangardahā	2372	8505	393	0	Piparwār
 Māngubāndh	2323	8538	562	0
 Mangarpatta	2397	8559	764	0
 Mangro	2393	8570	517	0
@@ -1232,7 +1232,7 @@ Mangwādāha	2431	8478	393	0
 Mangalpur	2207	8561	293	0
 Manguahir	2420	8682	502	0
 Mangrā	2388	8411	707	0
-Mangra	2358	8409	707	0
+Mangra	2358	8409	707	0	Rānimahuā
 Mangrutallā	2306	8416	321	0
 Mangrā	2381	8459	707	0
 Mangnātoli	2306	8465	321	0
@@ -1349,10 +1349,10 @@ Mangappatti	1139	7850	270	0
 Chinna Mangalam	1135	7860	51	0
 Periya Mangalam	1135	7861	51	0
 Mangalpur	2178	8587	293	0
-Māngarh	2185	8593	382	0
+Māngarh	2185	8593	382	0	Dumbisāi
 Mangalpur	2162	8590	293	0
 Mangarājpur	2035	8510	548	0
-Mangalpur	2030	8521	548	0
+Mangalpur	2030	8521	548	0	Natabarprasād
 Mangarājpur	2015	8506	548	0
 Mangrājpur	2005	8518	548	0
 Mangalpur	2085	8529	289	0

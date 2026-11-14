@@ -1,10 +1,10 @@
 Srinagar	3409	7481	611	1206419
-Srinigar	3409	7481	611	1206419
+Srinigar	3409	7481	611	1206419	Srinagar
 Sri Ganganagar	2992	7387	374	237780
-Sriganga Najar	2992	7387	374	237780
+Sriganga Najar	2992	7387	374	237780	Sri Ganganagar
 Shrīrāmpur	2275	8834	279	226317
 Srikakulam	1830	8390	472	137944
-Sri Vijaya Puram	1167	9275	105	112050
+Sri Vijaya Puram	1167	9275	105	112050	Port Blair
 Shrirampur	1962	7466	152	89282
 Srikalahasti	1376	7970	45	80056
 Srivilliputhur	951	7763	119	75396
@@ -14,38 +14,38 @@ Sri Mādhopur	2747	7560	491	31366
 Shrīgonda	1862	7470	152	31134
 Srīnivāspur	1334	7821	47	26793
 Shrīrangapattana	1242	7668	94	25061
-Srirangapatna	1242	7668	94	25061
+Srirangapatna	1242	7668	94	25061	Shrīrangapattana
 Srīperumbūdūr	1297	7994	161	24864
-Sriperumbubur	1297	7994	161	24864
+Sriperumbubur	1297	7994	161	24864	Srīperumbūdūr
 Srīsailain	1607	7887	232	24142
-Srīsailam	1607	7887	232	24142
+Srīsailam	1607	7887	232	24142	Srīsailain
 Srīkandamangalam	966	7636	243	23681
 Sreekaryam	855	7692	219	23528
-Sri Karanpur	2984	7346	374	21604
+Sri Karanpur	2984	7346	374	21604	Karanpur
 Srisailam Project RFC Township	1607	7887	232	21452
 Srīnagar	3022	7878	612	20216
-Srinagar Garhwal	3022	7878	612	20216
+Srinagar Garhwal	3022	7878	612	20216	Srīnagar
 Srīrāmnagar	1727	7826	62	19550
-Sri Rama Nagar	1727	7826	62	19550
+Sri Rama Nagar	1727	7826	62	19550	Srīrāmnagar
 Sriramnagar	1828	8353	179	18893
 Srirāmpur	2295	8802	279	18682
 Srivaikuntam	863	7791	208	15847
 Srīvardhan	1805	7302	17	15279
-Shriwardham	1805	7302	17	15279
+Shriwardham	1805	7302	17	15279	Srīvardhan
 Shrivardhan	1805	7300	90	15123
 Srīmushnam	1140	7940	178	13971
-Srimushnum	1140	7940	178	13971
+Srimushnum	1140	7940	178	13971	Srīmushnam
 Srirampura	1225	7662	74	11234
 Srīrāmpuram	1043	7781	187	10653
-Sri Kolayatji	2784	7296	307	9684
+Sri Kolayatji	2784	7296	307	9684	Kolāyat
 Srīgobindpur	3169	7548	487	8241
-Sri Govindpur	3169	7548	487	8241
-Sri Hargobindpur	3169	7548	487	8241
+Sri Govindpur	3169	7548	487	8241	Srīgobindpur
+Sri Hargobindpur	3169	7548	487	8241	Srīgobindpur
 S. Rayavaram	1745	8281	227	6568
 Srāvana Belgola	1286	7649	679	6485
-Shravan Belgola	1286	7649	679	6485
-Shravanabelagola	1286	7649	679	6485
-Srikalikapuram	1314	7940	228	5044
+Shravan Belgola	1286	7649	679	6485	Srāvana Belgola
+Shravanabelagola	1286	7649	679	6485	Srāvana Belgola
+Srikalikapuram	1314	7940	228	5044	Rangāpuram
 Sringeri	1342	7525	98	4271
 Srungavarapukota	1811	8314	179	0
 Srīrangāpur	1619	7805	146	0
@@ -63,23 +63,23 @@ Srīkūrmam	1827	8400	472	0
 Srikhanda	2360	8808	375	0
 Srikākulam	1620	8085	68	0
 Srīguda	1942	8381	363	0
-Srigurha	1942	8381	363	0
+Srigurha	1942	8381	363	0	Srīguda
 Srīgiripādu	1631	7933	10	0
 Sri Chhatarpur	2454	7594	333	0
 Sri Brādria	2710	7155	217	0
 Shrīnagar	2295	7952	522	0
 Shri Mohangarh	2729	7124	217	0
-Shripalle	1600	7807	306	0
+Shripalle	1600	7807	306	0	Seripalle
 Srikrishnapur	2297	8803	279	0
 Srirāmpur	2282	8847	450	0
 Srichandia	2228	8828	4	0
 Srikrishnanagar	2208	8833	4	0
-Shrjan	3402	7464	76	0
-Sri	3294	7440	581	0
+Shrjan	3402	7464	76	0	Shījan
+Sri	3294	7440	581	0	Seri
 Shri Gulābsinghpur	3251	7488	581	0
 Shri Partāpsinghpur	3250	7487	581	0
 Shri Partāpsinghpura	3253	7491	720	0
-Sri Paratāpsinghpura	3259	7487	581	0
+Sri Paratāpsinghpura	3259	7487	581	0	Laleāna
 Shrīnagar	2537	7557	353	0
 Shrīnagar	2582	7553	313	0
 Srīrangapur	1709	7808	62	0
@@ -92,7 +92,7 @@ Srirampuram	1299	7756	43	0
 Shri Chaturbhuj	2467	7567	580	0
 Shrinagar	2461	7573	580	0
 Shri Arnarpura	2809	7563	300	0
-Shri Amarpura	2809	7563	300	0
+Shri Amarpura	2809	7563	300	0	Shri Arnarpura
 Shri Sardārpura	2804	7566	300	0
 Srīnagar	3008	7672	501	0
 Srīniwās Bāg	2484	7884	481	0
@@ -115,7 +115,7 @@ Srinagar	2281	8758	677	0
 Srikrishnapur	2193	8738	677	0
 Sri Gangāsinghpura	2908	7522	486	0
 Srīnagor	2823	7635	519	0
-Māira Srinagar	2824	7636	519	0
+Māira Srinagar	2824	7636	519	0	Jaisinghpura
 Shrant	3457	7446	0	0
 Srāhan	3134	7738	479	0
 Srīnagar	3097	7709	628	0
@@ -125,11 +125,11 @@ Shrigul	3054	7778	534	0
 Shrīya	2659	7625	708	0
 Shrīpura	2654	7614	121	0
 Shrīkrishnapura	2666	7613	121	0
-Srīrādhārājpura	2649	7610	313	0
+Srīrādhārājpura	2649	7610	313	0	Gujron ki Thūni
 Srīrājdhānpura	2648	7611	313	0
 Shrisukpura	2642	7602	313	0
 Srīrāmpura	2643	7609	313	0
-Srīrāmchandrapura	2642	7611	313	0
+Srīrāmchandrapura	2642	7611	313	0	Thārakpur
 Srīgopālpura	2639	7605	313	0
 Sripura	2630	7641	116	0
 Shri Mahāvīrji	2670	7691	447	0
@@ -238,7 +238,7 @@ Shrīpur	2584	8212	718	0
 Srīrāmpur	2576	8259	32	0
 Srīpālpur	2565	8259	32	0
 Shrīpur	2545	8236	583	0
-Shrīpur	2547	8235	583	0
+Shrīpur	2547	8235	583	0	Tema
 Shrīkāntpur	2538	8232	583	0
 Shrīpur	2539	8230	607	0
 Chak Shri Datt	2535	8245	583	0
@@ -284,7 +284,7 @@ Srinagar	2605	8191	718	0
 Srirāmpur	2608	8186	662	0
 Sripur	2618	8185	662	0
 Srīnagar	2769	8210	618	0
-Srīnagar	2767	8214	280	0
+Srīnagar	2767	8214	280	0	Tutkapurwa
 Purwa Srīnagar	2775	8222	280	0
 Srirāmpuram	1894	7825	75	0
 Sri Jot	2750	8202	618	0
@@ -420,7 +420,7 @@ Srungvāda	1890	8198	600	0
 Srīharipuram Agrahāram	1858	8358	179	0
 Srīrangarājapuram	1854	8359	179	0
 Srangārarāyapuram Agrahāram	1865	8366	199	0
-Srirangarājupuram	1841	8350	179	0
+Srirangarājupuram	1841	8350	179	0	Gātāda
 Srīrangagūda	1874	8387	472	0
 Srīrāmavalasa	1853	8390	472	0
 Srīharināyudupeta	1849	8377	179	0
@@ -494,7 +494,7 @@ Srīpur	2624	8677	426	0
 Srīpur	2612	8691	426	0
 Srīpur Bhajrāhi	2592	8607	138	0
 Srīpur	2559	8608	530	0
-Srīrāmpalli	1878	7900	63	0
+Srīrāmpalli	1878	7900	63	0	Ibrāhīmpalli
 Srīrangāpura	1300	7671	94	0
 Srirāmanahalli	1274	7665	94	0
 Srīnivāspur Agrahāra	1243	7671	94	0
@@ -607,7 +607,7 @@ Srīnivāsapuramkhandrika	1330	7985	228	0
 Srīrāmpuram	1332	7985	45	0
 Srīharipuram	1323	7977	214	0
 Srī Rāmarpālaiyam	1303	7991	161	0
-Srīnivāsapuram	1272	7918	197	0
+Srīnivāsapuram	1272	7918	197	0	Attimalaippattu
 Srīnivāsapuram	1275	7923	197	0
 Shrotriam	1248	7909	197	0
 Srīnivāsapuram	1300	7929	160	0
@@ -635,7 +635,7 @@ Shrotriamnattam	1091	7960	267	0
 Sridharpur	2204	8561	293	0
 Sridangal	2418	8686	502	0
 Srirāmpur	2411	8697	502	0
-Srī Padmanābhanallūr	825	7745	453	0
+Srī Padmanābhanallūr	825	7745	453	0	Sīdapāl
 Srī Govindapperi	858	7760	191	0
 Srīvaramangaipuram	854	7765	191	0
 Srīrangarājapuram	853	7771	191	0

@@ -1,7 +1,7 @@
 Gadag-Betageri	1542	7562	606	172813
 Gadag	1543	7563	606	172612
 Gadwāl	1624	7780	306	63177
-Gadchiroli	2018	8001	135	54152
+Gadchiroli	2018	8001	135	54152	Garhchiroli
 Gaddi Annaram	1737	7852	62	53622
 Gādarwāra	2292	7878	522	47604
 Gadhada	2197	7158	370	29872
@@ -11,12 +11,12 @@ Gadhra	2275	8625	584	18801
 Rakh Gadi Garh	3267	7484	581	7588
 Gumthala Gadhu	2994	7655	501	0
 Gadrāna	2980	7499	585	0
-Gadhra	2092	7092	136	0
-Gādulabādi	1985	8428	440	0
-Gadhai	2951	7445	486	0
+Gadhra	2092	7092	136	0	Godhra
+Gādulabādi	1985	8428	440	0	Gazalbārhi
+Gadhai	2951	7445	486	0	Garohi
 Gādarmāla	2522	7451	309	0
-Gadati	2350	7480	568	0
-Gadrio	2746	7375	430	0
+Gadati	2350	7480	568	0	Garethi
+Gadrio	2746	7375	430	0	Gorera
 Gadra Road	2574	7064	285	0
 Gadlegaon	1768	7686	170	0
 Gādigarpālya	1321	7745	389	0
@@ -26,12 +26,12 @@ Gādidemadugu	1578	7815	236	0
 Gadhūla	2175	7172	168	0
 Gadhka	2226	7096	174	0
 Gadhka	2210	6942	131	0
-Gadhaka	2210	6942	131	0
+Gadhaka	2210	6942	131	0	Gadhka
 Gadhia	2121	7114	216	0
 Gadhāli	2188	7162	370	0
 Gādhagra	2126	7140	216	0
 Gadhada	2387	7038	108	0
-Gadra	2387	7038	108	0
+Gadra	2387	7038	108	0	Gadhada
 Gadelagūdem	1756	8061	60	0
 Gadekallu	1512	7724	100	0
 Gadhechi	2235	6904	131	0
@@ -42,7 +42,7 @@ Gadāna	2868	7489	539	0
 Gadkhali	2217	8878	4	0
 Gādurāh	3418	7478	595	0
 Gādakhod	3418	7462	120	0
-Ghādewāl	3067	7604	674	0
+Ghādewāl	3067	7604	674	0	Bhādewāl
 Gādli	2996	7697	501	0
 Kheri Gādiān	2994	7695	501	0
 Gādīgarh	3267	7484	581	0
@@ -94,7 +94,7 @@ Gadha	2669	7886	334	0
 Gadiya	2309	7726	675	0
 Gadari	2510	7919	481	0
 Ghadsinga	2310	7558	314	0
-Gadhari	2939	7658	367	0
+Gadhari	2939	7658	367	0	Jaipur
 Gaddi Kheri	2889	7652	719	0
 Gādpur	2818	7688	482	0
 Gadhīman	3156	7708	278	0
@@ -161,7 +161,7 @@ Gadli	2669	7621	708	0
 Gādarwara	2329	7835	338	0
 Gadoli	2369	7873	352	0
 Gādota	2629	7630	116	0
-Gaddi	2625	7639	116	0
+Gaddi	2625	7639	116	0	Bhārja
 Gadri	2653	7666	116	0
 Gadgawān	2337	7858	338	0
 Gadhera	2325	7870	338	0
@@ -173,7 +173,7 @@ Gādegaon	2136	7826	133	0
 Gādarwāra	2195	7891	337	0
 Ghadela	2173	7891	337	0
 Gadhabera	2457	7277	23	0
-Gadarkhera	2994	7418	374	0
+Gadarkhera	2994	7418	374	0	Rajpura
 Gadarwās	2456	7371	22	0
 Gaderi	2635	7478	446	0
 Gādiya	2458	7604	371	0
@@ -189,7 +189,7 @@ Gadāna	2835	7763	637	0
 Gādriyākhera	2541	7451	309	0
 Gādriyon ka Khera	2534	7462	309	0
 Gādrīkhera	2547	7474	309	0
-Gadhiānwāla	2998	7517	563	0
+Gadhiānwāla	2998	7517	563	0	Bhagwānpura
 Gadhi	2841	7634	519	0
 Gaddūwāla	3039	7805	448	0
 Gadā	2892	7922	552	0
@@ -228,11 +228,11 @@ Nagla Gadariya	2773	7771	177	0
 Gadli	2981	7637	638	0
 Ghadwāli Khera	2917	7634	367	0
 Gadlegaon	1773	7672	170	0
-Gadāipur	2817	7777	637	0
+Gadāipur	2817	7777	637	0	Jāgarpur
 Gadlegaon Tānda	1768	7687	170	0
 Gadām	2018	8102	704	0
 Gadisomanāl	1655	7633	80	0
-Gadhābhāta	2199	8160	710	0
+Gadhābhāta	2199	8160	710	0	Mānikpur
 Gādegaon	1918	7736	140	0
 Gadga	1881	7746	140	0
 Gādidi Hukran	1806	7775	31	0
@@ -282,7 +282,7 @@ Gadāya Latīfpur	2737	7777	177	0
 Gadūmra	2735	7794	670	0
 Gādarwārākhera	2282	7944	522	0
 Nagla Gadariān	2773	7879	616	0
-Gadhepur	2771	7877	616	0
+Gadhepur	2771	7877	616	0	Sarset
 Nagla Gadariān	2760	7891	616	0
 Nagla Gadariān	2759	7887	616	0
 Gadhiya	2751	7897	711	0
@@ -360,7 +360,7 @@ Gādher	2418	7711	336	0
 Nagla Gadarian	2749	7892	711	0
 Nagla Gadaria	2746	7886	711	0
 Nagla Gadaria	2738	7897	464	0
-Nagla Gadariān	2735	7885	464	0
+Nagla Gadariān	2735	7885	464	0	Antpur
 Nagla Gadaria	2730	7893	464	0
 Nagla Gadariyān	2728	7882	464	0
 Gādher	2424	7727	336	0
@@ -381,7 +381,7 @@ Gadanpur	2678	7987	671	0
 Gadāīpur	2677	7988	671	0
 Gadarian Purwa	2641	7991	671	0
 Gadhia Kher	2634	7989	671	0
-Gadarian Purwa	2646	7995	671	0
+Gadarian Purwa	2646	7995	671	0	Galokhar
 Gadanpur	2750	7856	711	0
 Nagla Gadaria	2746	7864	403	0
 Gadanpur	2742	7856	403	0
@@ -483,7 +483,7 @@ Nagla Gadaria	2753	7940	688	0
 Gadauri Kalān	2590	8217	718	0
 Gadauri Khurd	2589	8217	718	0
 Gadhiāwāh	2590	8230	718	0
-Gadhiāwān	2590	8230	718	0
+Gadhiāwān	2590	8230	718	0	Gadhiāwāh
 Arāzi Gaddopur	2587	8235	32	0
 Gaddopur	2587	8236	32	0
 Gadarāha	2579	8253	32	0
@@ -503,7 +503,7 @@ Gaddupur	2538	8282	251	0
 Gādar	2549	8293	251	0
 Gadela	2532	8205	607	0
 Pura Gadariā	2533	8223	607	0
-Gaderān	2501	8298	201	0
+Gaderān	2501	8298	201	0	Maraīpur
 Gadhwa	2485	8259	201	0
 Gadmān	2468	8287	103	0
 Gādli	2828	7589	300	0
@@ -872,7 +872,7 @@ Chainpur Gadwal	2683	8267	154	0
 Gāgar Gādh	2661	8273	154	0
 Pura Gadarian	2646	8256	553	0
 Pura Gadaria	2642	8255	553	0
-Gadāwān	2644	8255	553	0
+Gadāwān	2644	8255	553	0	Garāen
 Pura Gadaria	2637	8254	553	0
 Pura Gadaria	2637	8256	553	0
 Pura Gadaria	2630	8251	553	0
@@ -962,11 +962,11 @@ Gadera	3267	7550	496	0
 Gadiāra	3266	7573	496	0
 Gadiyāni	2567	8184	607	0
 Gadhīna	2565	8186	607	0
-Gadrān	2562	8186	607	0
+Gadrān	2562	8186	607	0	Sarāi Bāzu
 Gaddopur	2554	8185	607	0
 Dera Gadāj	2554	8194	607	0
 Dera Gadāi	2555	8194	607	0
-Dera Gadāi	2555	8192	607	0
+Dera Gadāi	2555	8192	607	0	Bhamanpur
 Gadāipur	2571	8191	607	0
 Gadariyan ka Purwa	2566	8179	607	0
 Gaderi	1985	8026	135	0
@@ -1263,7 +1263,7 @@ Gadikālu	1899	8301	316	0
 Gadabagūda	1887	8317	316	0
 Gadabavalasa	1860	8309	199	0
 Gadivalasa	1855	8304	199	0
-Gadiguddavalasa	1852	8307	316	0
+Gadiguddavalasa	1852	8307	316	0	Tādamānavalasa
 Gadivalasa	1851	8314	199	0
 Gādelavalasa	1861	8323	199	0
 Gādipallevalasa	1866	8317	199	0
@@ -1328,7 +1328,7 @@ Gadidiladinne	1463	8010	6	0
 Gaditavaga	1428	8007	6	0
 Gadura	2510	8433	409	0
 Gadithibore	1728	8131	24	0
-Gadiya	2359	7671	16	0
+Gadiya	2359	7671	16	0	Kāchhipura
 Gādariyākheri	2371	7693	16	0
 Gādrākheri	2314	7681	320	0
 Gādrākheri	2310	7687	675	0

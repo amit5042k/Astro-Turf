@@ -1,29 +1,29 @@
-Baunagar	2176	7215	168	605882
-Bhauwar	2193	6978	131	22142
+Baunagar	2176	7215	168	605882	Bhavnagar
+Bhauwar	2193	6978	131	22142	Bhānvad
 Baud	2084	8433	386	20424
-Baudh Rāj	2084	8433	386	20424
-Baudh-Ral	2084	8433	386	20424
-Bauda	2084	8433	386	20424
-Baudhgarh	2084	8433	386	20424
+Baudh Rāj	2084	8433	386	20424	Baud
+Baudh-Ral	2084	8433	386	20424	Baud
+Bauda	2084	8433	386	20424	Baud
+Baudhgarh	2084	8433	386	20424	Baud
 Bhauri	2466	7291	23	15312
-Bhaurasa	2299	7621	322	12166
+Bhaurasa	2299	7621	322	12166	Bhonrāsa
 Baua Kalan	2381	8636	401	9489
 Bāupur	3122	7543	369	153
 Bhaunra	2228	7787	462	0
 Bhauraguri	2643	9007	713	0
 Bhaunti	2532	7810	436	0
 Bhaunri	2384	8369	743	0
-Bhauri	2384	8369	743	0
+Bhauri	2384	8369	743	0	Bhaunri
 Bhaunrabāri	2703	8335	325	0
 Bhaunri	2703	8466	476	0
-Bhaunra	2703	8466	476	0
+Bhaunra	2703	8466	476	0	Bhaunri
 Bhāūnkheri	2310	7699	675	0
-Bhaunāthpur	2439	8358	743	0
+Bhaunāthpur	2439	8358	743	0	Bhavnāthpur
 Bhauli	2698	8089	714	0
 Bhaudi	1864	7482	152	0
 Bhauwāpar	2667	8337	325	0
-Bhauāpār	2667	8337	325	0
-Bautra	2535	7224	343	0
+Bhauāpār	2667	8337	325	0	Bhauwāpar
+Bautra	2535	7224	343	0	Bābatra
 Baut Bāzār	2574	9269	330	0
 Bausi	2480	8702	605	0
 Bāuria	2249	8817	354	0
@@ -32,9 +32,9 @@ Bāura	1797	7500	52	0
 Baunsuni	2082	8406	386	0
 Baundi	2746	8141	294	0
 Baund Kalān	2878	7634	781	0
-Baund	2878	7634	781	0
+Baund	2878	7634	781	0	Baund Kalān
 Baudha	2670	8476	396	0
-Bhaundesar	2802	7452	539	0
+Bhaundesar	2802	7452	539	0	Bhāvandesar
 Bauria	2239	8806	354	0
 Dhār Gathun Bāuji	3358	7418	1	0
 Baaūni	3353	7419	1	0
@@ -61,7 +61,7 @@ Bhaunti	2770	7954	470	0
 Rauli Bauri	2770	7966	470	0
 Bhāu Purwa	2725	7996	686	0
 Bhāūpur	2691	7922	290	0
-Baurāin	2689	7901	290	0
+Baurāin	2689	7901	290	0	Bahorayān
 Nagla Bauri	2676	7916	290	0
 Bhauntāpur	2649	7935	715	0
 Bhāūpura	2629	7932	741	0
@@ -132,7 +132,7 @@ Bāūpura Khurd	2592	7819	484	0
 Bauna	2599	7827	484	0
 Bhaurla	3076	7613	674	0
 Baundli	3084	7621	674	0
-Bhaunki	3034	7622	564	0
+Bhaunki	3034	7622	564	0	Sangatpura
 Bhaurla	3096	7629	674	0
 Bhāūwāl	3094	7648	735	0
 Bhau Nagla	2785	7786	543	0
@@ -172,7 +172,7 @@ Bhaupur Chaurāsi	2749	7962	688	0
 Bhaurāna	2573	7751	436	0
 Bhaurāna	2551	7762	436	0
 Khānda Baura	2780	7988	470	0
-Khar Baura	2780	7988	470	0
+Khar Baura	2780	7988	470	0	Khānda Baura
 Bhauraha	2744	7981	686	0
 Bauria Purwa	2738	7984	686	0
 Bhaurājpur	2730	7994	686	0
@@ -208,7 +208,7 @@ Bauri	2521	8312	724	0
 Bhāupur	2513	8319	724	0
 Bhaunrasa	2297	7765	338	0
 Bhauran	2529	7807	436	0
-Bhaunrār	2527	7810	436	0
+Bhaunrār	2527	7810	436	0	Nayākhera
 Baurwa	2561	8327	26	0
 Bhaura	2559	8349	26	0
 Bhauri ka Barera	2521	7807	436	0
@@ -224,7 +224,7 @@ Baurādīh	2456	8302	103	0
 Baurihwa	2432	8312	103	0
 Nauka Bhaunriya	2418	8366	743	0
 Bāulia	2415	8359	743	0
-Bāuli	2415	8359	743	0
+Bāuli	2415	8359	743	0	Bāulia
 Bhauraha	2408	8375	743	0
 Bhaunra	2589	8034	645	0
 Bāuli	2390	7812	215	0
@@ -322,7 +322,7 @@ Bhāūpura	2907	7896	552	0
 Bhāu Purwa	2648	8184	597	0
 Bhaurānwān	2649	8192	597	0
 Bhaunri	2523	8105	643	0
-Bhaunri	2525	8105	643	0
+Bhaunri	2525	8105	643	0	Luksmīpur
 Bauna	2515	8102	643	0
 Bausar	2629	8044	469	0
 Nawāda Bausar	2625	8046	469	0
@@ -330,7 +330,7 @@ Bhauli	2719	8158	294	0
 Pura Bhāuh	2709	8158	542	0
 Fatehpur Bhau	2861	7846	646	0
 Bhaurīganj	2701	8173	542	0
-Bhauria	2831	7829	637	0
+Bhauria	2831	7829	637	0	Muhammadābād
 Bauni	2820	7978	683	0
 Baulia Bāzyāft	2586	8148	718	0
 Pura Bauri	2612	8102	681	0
@@ -370,7 +370,7 @@ Purwa Bhāu	2659	8224	629	0
 Purwa Bhāu	2655	8217	629	0
 Bhausa	2646	8208	597	0
 Purwa Bhauni	2647	8211	597	0
-Pura Baurāh	2642	8220	629	0
+Pura Baurāh	2642	8220	629	0	Pura Manohar
 Baurāha	2605	8217	597	0
 Bhāu	3261	7481	581	0
 Baunsar	2502	8131	516	0
@@ -451,7 +451,7 @@ Bāun Dih	2610	8370	586	0
 Bhaunrupur	2617	8375	586	0
 Baul Dih	2609	8387	536	0
 Baur Dih	2624	8396	535	0
-Bhaupur	2602	8394	536	0
+Bhaupur	2602	8394	536	0	Kondha Ghālib Patti
 Bhaunraha	2573	8353	26	0
 Baurī	2571	8363	26	0
 Bhaunrha	2332	8013	598	0

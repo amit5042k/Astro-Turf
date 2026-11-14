@@ -1,23 +1,23 @@
 Dombivali	1922	7308	246	1247327
-Kalyan-Dombivli	1922	7308	246	1247327
-Dholpur	2669	7788	622	133075
+Kalyan-Dombivli	1922	7308	246	1247327	Dombivali
+Dholpur	2669	7788	622	133075	Dhaulpur
 Dohad	2283	7426	173	118846
 Doddaballapura	1329	7754	389	93105
-Dod Ballāpur	1329	7754	389	93105
+Dod Ballāpur	1329	7754	389	93105	Doddaballapura
 Dhoraji	2173	7045	174	84545
-Dhorail	2173	7045	174	84545
+Dhorail	2173	7045	174	84545	Dhoraji
 Dholka	2273	7244	124	80945
 Dhone	1540	7787	232	59272
-Dhond	1847	7458	52	49450
+Dhond	1847	7458	52	49450	Daund
 Dondaicha	2132	7457	190	46767
 Dowleswaram	1695	8178	87	44637
-Dongar Parāsia	2219	7876	337	42786
+Dongar Parāsia	2219	7876	337	42786	Parāsia
 Dongargarh	2119	8075	474	37372
 Dorāha	3080	7602	674	25424
 Doda	3315	7555	372	21605
-Doda District (India)	3315	7555	372	21605
+Doda District (India)	3315	7555	372	21605	Doda
 Raipur Domana	3280	7478	581	20238
-Domjur	2262	8825	354	17972
+Domjur	2262	8825	354	17972	Dumjor
 Domchānch	2447	8569	473	15809
 Dornakal	1744	8015	762	15350
 Dongargaon	2097	8085	474	14693
@@ -26,49 +26,49 @@ Dostpur	2627	8247	597	12688
 Dommasandra	1288	7775	43	12610
 Mubārakpur Dobās	2871	7704	689	12043
 Dohrighāt	2627	8351	586	11180
-Ghoda Dongri Ryt	2212	7800	462	9745
+Ghoda Dongri Ryt	2212	7800	462	9745	Ghoradongri
 Dola	2322	8213	225	9273
 Donkamokam	2593	9271	330	9116
 Dommaranandyāla	1486	7836	229	8337
 Doiwāla	3018	7812	448	8247
 Dhola	2188	7177	168	8206
 Dondi	2049	8109	668	8042
-Dondi-Awari	2049	8109	668	8042
-Doundi	2049	8109	668	8042
+Dondi-Awari	2049	8109	668	8042	Dondi
+Doundi	2049	8109	668	8042	Dondi
 Doha	2768	7694	544	7642
 Dornapal	1816	8151	599	7238
 Donimalai Township	1506	7659	44	6672
 Dhorīmanna	2520	7144	285	6513
 Salvador do Mundo	1553	7384	188	6373
 Dhodra Mohār	2227	7789	462	5956
-Dhodaramohar	2227	7789	462	5956
+Dhodaramohar	2227	7789	462	5956	Dhodra Mohār
 Dokmoka	2621	9305	405	5478
-Doramangalam	1169	7790	51	5322
+Doramangalam	1169	7790	51	5322	Toramangalam
 Doptāla	1980	7934	111	4945
-Dhopatala	1980	7934	111	4945
+Dhopatala	1980	7934	111	4945	Doptāla
 Dobbaspet	1323	7724	389	4336
 Dosanjh Kalān	3117	7584	369	3883
-Chota Dongar	1945	8133	619	3817
-Dholeta	3112	7583	369	3008
-Dogadda	2981	7861	612	2780
+Chota Dongar	1945	8133	619	3817	Chhotedongar
+Dholeta	3112	7583	369	3008	Dhuleta
+Dogadda	2981	7861	612	2780	Dugadda
 Doha	2548	8048	463	1033
 Chak Dhotrān	3113	7576	369	573
 Tākli Dhokeshwar	1916	7438	152	0
-Takali Dhokeshwar	1916	7438	152	0
+Takali Dhokeshwar	1916	7438	152	0	Tākli Dhokeshwar
 Pedda Dokulapādu	1872	8446	472	0
 Nipāni Dongri	2158	7973	525	0
-Dongari	2158	7973	525	0
+Dongari	2158	7973	525	0	Nipāni Dongri
 Dod Maralvadi	1261	7753	626	0
-Dondi-Lohara	2079	8105	668	0
-Donpuri	2277	8350	725	0
+Dondi-Lohara	2079	8105	668	0	Lohāra
+Donpuri	2277	8350	725	0	Kalnai
 Dodomara	3151	7602	296	0
 Doranahalli	1673	7692	72	0
-Dolungmukh	2750	9427	355	0
-Doimukh	2715	9375	578	0
-Dodu	2748	7395	430	0
-Dolaras	1865	8155	406	0
+Dolungmukh	2750	9427	355	0	Dulangmukh
+Doimukh	2715	9375	578	0	Duimukh
+Dodu	2748	7395	430	0	Dūdu
+Dolaras	1865	8155	406	0	Dudirās
 Doddimetta	1819	8187	109	0
-Dodmetla	1819	8187	109	0
+Dodmetla	1819	8187	109	0	Doddimetta
 Dowlaiswaram	1695	8178	87	0
 Dotihāl	1586	7621	66	0
 Dotārānwāli	3007	7429	3	0
@@ -76,9 +76,9 @@ Dosing	2798	9505	577	0
 Dosapādu	1647	8095	68	0
 Dosamantapur	1905	8293	316	0
 Dorzong	3328	7703	8	0
-Dorwa	2202	7614	329	0
+Dorwa	2202	7614	329	0	Dhaurwa
 Doru	3358	7522	148	0
-Doru Shahabad	3358	7522	148	0
+Doru Shahabad	3358	7522	148	0	Doru
 Dorra	2489	7243	343	0
 Dorkang	2813	9479	37	0
 Dorka	2369	8116	350	0
@@ -89,10 +89,10 @@ Dontāli	1439	7989	6	0
 Donnakuttahalli	1201	7789	110	0
 Donli	2828	9610	434	0
 Donkung	2804	8860	27	0
-Dokung	2804	8860	27	0
-Dongthung	2804	8860	27	0
+Dokung	2804	8860	27	0	Donkung
+Dongthung	2804	8860	27	0	Donkung
 Donkeng	2805	9471	37	0
-Domkeng	2805	9471	37	0
+Domkeng	2805	9471	37	0	Donkeng
 Donje	1840	7535	48	0
 Dongupura	1813	7722	170	0
 Dongru	2364	8337	341	0
@@ -101,7 +101,7 @@ Dongri	1928	7281	246	0
 Dongarkhera	2355	7586	314	0
 Dongarkharda	2030	7845	67	0
 Dongargaon	2425	7617	601	0
-Dongorgaon	2425	7617	601	0
+Dongorgaon	2425	7617	601	0	Dongargaon
 Dongargaon	2120	8038	171	0
 Dongara	1937	8237	349	0
 Dongar	2107	7157	216	0
@@ -109,22 +109,22 @@ Dongar	1883	8153	406	0
 Dongaon	2019	7672	49	0
 Dong	2817	9704	122	0
 Dondvāda	2072	7485	190	0
-Donovada	2072	7485	190	0
+Donovada	2072	7485	190	0	Dondvāda
 Dondaparti	1773	8330	81	0
 Don Buzurg	2614	8415	639	0
-Don	2614	8415	639	0
+Don	2614	8415	639	0	Don Buzurg
 Dona Paula	1546	7380	188	0
-Donna Paulaho	1546	7380	188	0
+Donna Paulaho	1546	7380	188	0	Dona Paula
 Donakonda	1583	7948	200	0
-Donakondi	1583	7948	200	0
+Donakondi	1583	7948	200	0	Donakonda
 Dommati	2584	9164	331	0
-Donmatia	2584	9164	331	0
+Donmatia	2584	9164	331	0	Dommati
 Domli	3237	7800	425	0
 Domkipāli	2092	8322	394	0
 Domkhera	2362	7754	687	0
 Dombri	1890	7556	33	0
 Domariāganj	2721	8265	292	0
-Domaila	2985	7903	612	0
+Domaila	2985	7903	612	0	Dumela Talla
 Domahani	2375	8703	642	0
 Domāh	1709	7783	210	0
 Dolyganj	1163	9263	442	0
@@ -132,13 +132,13 @@ Dolwān	2090	7333	127	0
 Dolsa	2633	7817	478	0
 Dolma Sampa	2788	8838	27	0
 Doli Rājguran	2606	7266	285	0
-Doli	2606	7266	285	0
+Doli	2606	7266	285	0	Doli Rājguran
 Dolatpur	2158	7328	151	0
 Dolasne	1939	7421	152	0
 Dolāsa	2082	7086	136	0
 Dolaria	2259	7764	590	0
 Dolāra	2008	7304	233	0
-Dolora	2008	7304	233	0
+Dolora	2008	7304	233	0	Dolāra
 Dolār	2139	7697	133	0
 Dokla	2054	8135	704	0
 Doimara	2699	9242	523	0
@@ -148,18 +148,18 @@ Dogāl	2999	7604	564	0
 Dodvad	1568	7497	77	0
 Dodra	1959	8225	349	0
 Dodiyāna	2659	7435	430	0
-Dodiāna	2659	7435	430	0
+Dodiāna	2659	7435	430	0	Dodiyāna
 Dodi	2301	7659	675	0
 Dodh	3077	7460	730	0
 Dodderi	1430	7671	255	0
 Dodda Siddavvanahalli	1420	7647	255	0
 Dodda Magge	1269	7608	679	0
-Doddainagge	1269	7608	679	0
+Doddainagge	1269	7608	679	0	Dodda Magge
 Dodda Kātūr	1218	7661	74	0
 Dodda Kānya	1217	7664	74	0
 Doddaguni	1333	7676	93	0
 Dodda Gaudanakoppal	1258	7665	94	0
-Doddegowdankoppal	1258	7665	94	0
+Doddegowdankoppal	1258	7665	94	0	Dodda Gaudanakoppal
 Dodbelvangala	1329	7742	389	0
 Doda	3039	7464	615	0
 Dobi	2289	7790	675	0
@@ -171,7 +171,7 @@ Dhowa	2406	8691	770	0
 Dhotria	2304	7506	130	0
 Dhotri	1767	7608	132	0
 Dhotre	1987	7462	152	0
-Dhotargaon	1746	7660	71	0
+Dhotargaon	1746	7660	71	0	Duttargaon
 Dhosha	2225	8854	4	0
 Dhorpur	2320	8344	725	0
 Dhormopur	2011	8411	387	0
@@ -188,24 +188,24 @@ Dhondarka	2394	7513	580	0
 Dholunda	2170	8350	627	0
 Dholpur	2070	8448	386	0
 Dholovira	2387	7022	108	0
-Dholipal	2975	7427	486	0
+Dholipal	2975	7427	486	0	Dhāolipāl
 Dholia	2415	7287	134	0
-Dholi Kākri	2415	7287	134	0
+Dholi Kākri	2415	7287	134	0	Dholia
 Dholerao ki Dhāni	2595	7337	273	0
-Dholerao	2595	7337	273	0
+Dholerao	2595	7337	273	0	Dholerao ki Dhāni
 Dholera	2225	7220	124	0
 Dholar	2038	7283	760	0
-Doler	2038	7283	760	0
+Doler	2038	7283	760	0	Dholar
 Dholāpāni	2427	7467	633	0
 Dhola ka Gaon	2544	7323	273	0
-Dhola	2544	7323	273	0
+Dhola	2544	7323	273	0	Dhola ka Gaon
 Dhol	2487	7344	22	0
 Dhokaude	1877	7288	17	0
 Dhoha	2606	7791	484	0
 Dongwa	2486	8005	663	0
-Dhogwa	2486	8005	663	0
+Dhogwa	2486	8005	663	0	Dongwa
 Dhodrāmau	2224	7764	462	0
-Dhodrāmou	2224	7764	462	0
+Dhodrāmou	2224	7764	462	0	Dhodrāmau
 Dhodhar	2594	7686	335	0
 Dhodhar	2377	7511	568	0
 Dhodha	2594	7760	478	0
@@ -213,17 +213,17 @@ Dhobīmu	2127	8687	421	0
 Dhobe	1933	8093	619	0
 Dhobani	2251	8644	584	0
 Dhoa	3019	7704	691	0
-Rasulpur-Dholri	2892	7748	700	0
-Dholri	2892	7748	700	0
+Rasulpur-Dholri	2892	7748	700	0	Dhaulri
+Dholri	2892	7748	700	0	Dhaulri
 Dhopāra	2283	7816	590	0
 Dhod	2749	7499	491	0
-Dolwa	2828	7396	307	0
-Don da	1958	7273	192	0
+Dolwa	2828	7396	307	0	Delwa
+Don da	1958	7273	192	0	Dāndepāda
 Bar Dhoa	2641	9254	656	0
-Bar Dobia	2641	9254	656	0
+Bar Dobia	2641	9254	656	0	Bar Dhoa
 Bada Doikal	1972	8349	363	0
 Dhodlio	2832	7470	539	0
-Doduo	2832	7470	539	0
+Doduo	2832	7470	539	0	Dhodlio
 Dogāchia	2289	8831	279	0
 Dhopāpukur	2282	8831	279	0
 Dogāchi	2273	8802	279	0
@@ -247,7 +247,7 @@ Doda	3385	7422	1	0
 Fakīr Dorax	3376	7403	1	0
 Simbal Dhora	3336	7423	504	0
 Dhora Khānke	3333	7422	504	0
-Dorumbro	3331	7420	504	0
+Dorumbro	3331	7420	504	0	Darumbid
 Dogarpur	3443	7412	0	0
 Dolipura	3446	7415	0	0
 Doebān	3409	7455	301	0
@@ -256,7 +256,7 @@ Dolāniān Ki Dhāni	2653	7177	217	0
 Dogul Teng	3428	7447	301	0
 Dobgāh	3427	7441	301	0
 Dogarpur	3431	7428	301	0
-Dordpura	3441	7436	0	0
+Dordpura	3441	7436	0	0	Dardpura
 Doruswāin	3446	7441	0	0
 Dhok Khālsa	3290	7466	581	0
 Phāmbreān di Dhok	3288	7457	581	0
@@ -272,7 +272,7 @@ Dohāgali	3375	7436	1	0
 Doriān	3388	7437	1	0
 Dhok	3287	7447	581	0
 Dolyān	3280	7449	581	0
-Doiyān	3280	7449	581	0
+Doiyān	3280	7449	581	0	Dolyān
 Dororen Bān	3292	7490	581	0
 Domel	3289	7496	581	0
 Dhokriān Kāzi	3278	7474	581	0
@@ -281,9 +281,9 @@ Doāl	3256	7492	581	0
 Doliyān	3263	7491	720	0
 Dholpūr	3267	7495	720	0
 Doāra	3274	7490	581	0
-Dowāran	3274	7490	581	0
+Dowāran	3274	7490	581	0	Doāra
 Pābuji Mahārāj Ka Dhora	2824	7457	539	0
-Donna	3462	7399	0	0
+Donna	3462	7399	0	0	Danna
 Domāri	3455	7398	0	0
 Domāri	3452	7399	0	0
 Doba Sar Jārān	3404	7392	301	0
@@ -318,14 +318,14 @@ Doctor Radhakrishna Nagar South	1312	8028	204	0
 Doctor Vijayaraghavulu Nagar	1311	8028	204	0
 Doveton	1308	8026	204	0
 Dollars Colony	1304	7757	43	0
-Dollar Colony	1304	7757	43	0
+Dollar Colony	1304	7757	43	0	Dollars Colony
 Dobbasapete	1323	7724	389	0
 Doddaaladamara	1290	7743	43	0
 Domlur	1296	7764	43	0
 Doddasanne	1322	7769	389	0
 Dorāsar	2806	7550	300	0
 Dorādās	2801	7544	300	0
-Dorāna ki Dhāni	2801	7564	300	0
+Dorāna ki Dhāni	2801	7564	300	0	Borāno ki Dhāni
 Dolowāl	3054	7604	775	0
 Dodhpur	3009	7655	705	0
 Dhol Mājra	3012	7686	501	0
@@ -371,10 +371,10 @@ Dolgaon	2644	9000	713	0
 Doddapalya	1351	7737	93	0
 Dollusar	2875	7425	539	0
 Dolāniva Bas	2841	7442	539	0
-Dolāniya Bas	2841	7442	539	0
-Dolariya Būs	2841	7442	539	0
+Dolāniya Bas	2841	7442	539	0	Dolāniva Bas
+Dolariya Būs	2841	7442	539	0	Dolāniva Bas
 Dholīya	2821	7402	307	0
-Dhoilya	2821	7402	307	0
+Dhoilya	2821	7402	307	0	Dholīya
 Dosatān	2632	9191	747	0
 Doiāngmukh	2580	9294	494	0
 Domgaon	2707	9456	520	0
@@ -391,7 +391,7 @@ Dongargaon	1956	7740	640	0
 Dhongar Pimpalgaon	1970	7574	53	0
 Dhondalgaon	1999	7493	113	0
 Dokya	2188	7779	462	0
-Dokia	2188	7779	462	0
+Dokia	2188	7779	462	0	Dokya
 Dongaraj	2066	7414	54	0
 Dongarāle	2079	7457	54	0
 Dohaya	2375	7753	687	0
@@ -410,7 +410,7 @@ Dosinga	2082	8696	734	0
 Dhontola	2617	9394	740	0
 Doulashal	2627	9123	758	0
 Kharija Dolaigaon	2650	9058	746	0
-Kharija Dolaigain II	2650	9058	746	0
+Kharija Dolaigain II	2650	9058	746	0	Kharija Dolaigaon
 Dhora	2461	7769	410	0
 Kharija Dolaigain PT-I	2650	9057	357	0
 No.1.Doulasai	2629	9126	358	0
@@ -584,7 +584,7 @@ Dolāwās	2668	7634	708	0
 Dob	2667	7638	708	0
 Dhosi	2652	7649	116	0
 Dokuwa	2858	7532	539	0
-Dokwa	2858	7532	539	0
+Dokwa	2858	7532	539	0	Dokuwa
 Dholāpuri	2964	7819	575	0
 Domanpuri	2965	7809	596	0
 Dholpur	2351	7845	338	0
@@ -663,10 +663,10 @@ Dorli	2040	7816	67	0
 Niaddim Dogri	3149	7812	83	0
 Dorli	2904	7771	700	0
 Dorli	2545	7638	371	0
-Dodewāla	2996	7424	3	0
+Dodewāla	2996	7424	3	0	Panwārwāla
 Dother	2427	7304	212	0
 Dongria	2431	7323	22	0
-Domwāli	2997	7473	563	0
+Domwāli	2997	7473	563	0	Chak Kharak Singh
 Dosānj	3085	7521	499	0
 Hāthi Dora	2463	7364	22	0
 Dodāwali	2457	7354	22	0
@@ -806,7 +806,7 @@ Dhotri	1781	7602	48	0
 Dorakhi	2773	7706	544	0
 Domrāki	2751	7702	114	0
 Dondari	2758	7714	114	0
-Patti Dogar	2978	7637	638	0
+Patti Dogar	2978	7637	638	0	Silla Niera
 Dohar	2989	7641	638	0
 Dodyāl	1750	7616	132	0
 Dombar Jalvage	1766	7615	132	0
@@ -918,7 +918,7 @@ Dhoklābās	2773	7779	177	0
 Nagla Dhokasa	2765	7776	177	0
 Dhona	2383	7919	352	0
 Imaliya Dhona	2384	7920	521	0
-Dora	2770	7871	616	0
+Dora	2770	7871	616	0	Durra
 Nagla Doria	2769	7865	711	0
 Dongarpur	2765	7857	711	0
 Doni	2344	7968	521	0
@@ -1080,7 +1080,7 @@ Dohrāpur	2632	7978	671	0
 Dobha	2627	7986	671	0
 Donki	2749	7857	711	0
 Dodalpur	2746	7871	711	0
-Nagla Doyārām	2742	7864	403	0
+Nagla Doyārām	2742	7864	403	0	Nagla Dalīp
 Nagla Dhōra	2740	7860	403	0
 Nagla Dorel	2736	7864	403	0
 Nagla Dodhu	2736	7867	403	0
@@ -1308,7 +1308,7 @@ Dongargaon	2095	7997	404	0
 Donād	2073	7979	404	0
 Dhorpa	2065	7975	111	0
 Dongargaon	2047	7901	143	0
-Dhorghāt	2005	7930	111	0
+Dhorghāt	2005	7930	111	0	Kitādi
 Dongargaon	2035	7968	111	0
 Dorli	2043	7994	111	0
 Nimbūghāt Dhonda	2042	7995	111	0
@@ -1591,7 +1591,7 @@ Muhri Doba	3405	7404	301	0
 Dothchōn	3403	7417	301	0
 Dongargaon Buzurg	2099	7903	141	0
 Dongangaon	2080	7919	141	0
-Dhokra	2078	7916	141	0
+Dhokra	2078	7916	141	0	Chikhal
 Dhondgaon	2064	7906	143	0
 Dhoja Tak	2974	7882	612	0
 Dodi Bamnauli	2920	7863	575	0
@@ -1655,7 +1655,7 @@ Dondi	2873	7860	646	0
 Doheli	2854	7865	646	0
 Dohri	2858	7875	511	0
 Tāharpur Doyam	2874	7873	511	0
-Dhorampur	2845	7865	646	0
+Dhorampur	2845	7865	646	0	Amarpur
 Dhobinjhāla	2601	8120	681	0
 Chak Doma	2653	8153	30	0
 Pura Dhorāi Gadaria	2694	8184	542	0
@@ -1959,7 +1959,7 @@ Dongiyān	3257	7542	496	0
 Dodora	3262	7543	496	0
 Donga	3268	7535	373	0
 Dhodan	3263	7546	496	0
-Dhok	3228	7535	692	0
+Dhok	3228	7535	692	0	Chumbar
 Dostpur	3231	7536	692	0
 Dobli	3235	7537	496	0
 Dhok Dīnpurjān	3236	7539	496	0
@@ -2019,7 +2019,7 @@ Mundla Dosdar	2263	7599	660	0
 Dholiya	2226	7581	329	0
 Domvāda	2182	7531	329	0
 Dongargaon	2194	7541	329	0
-Dongaria	2286	8006	480	0
+Dongaria	2286	8006	480	0	Dādar Tolā
 Dondrā Tolā	2290	8015	480	0
 Dhomna	2055	7507	78	0
 Dokaikheda	2082	7542	78	0
@@ -2089,7 +2089,7 @@ Dhon Khem Singhwāli	3109	7482	566	0
 Dhon Bhānewāli	3108	7476	566	0
 Dholewāla	3107	7478	566	0
 Dholewāla	3102	7475	566	0
-Dokarghāt	2258	8079	480	0
+Dokarghāt	2258	8079	480	0	Pīpardon
 Dhobābār	2257	8081	480	0
 Dodwa	2909	7684	485	0
 Dobheta	2913	7686	485	0
@@ -2111,7 +2111,7 @@ Har-do-Sarli	3150	7511	260	0
 Kotli Dhole Shah	3175	7511	222	0
 Dhota	3148	7512	260	0
 Doda Wazīr	3127	7514	565	0
-Doda Kamān	3127	7514	565	0
+Doda Kamān	3127	7514	565	0	Doda Wazīr
 Doda Saudagar	3129	7513	565	0
 Beriwāla Dogrāni	3135	7518	565	0
 Dholewāla	3101	7520	499	0
@@ -2662,7 +2662,7 @@ Lapya Dogri	3163	7845	83	0
 Tāren Dogri	3162	7847	83	0
 Zābar Dogri	3159	7845	83	0
 Hauldo Dogri	3158	7841	83	0
-Lojang Dogri	3157	7843	83	0
+Lojang Dogri	3157	7843	83	0	Lijing
 Rovāng Dogri	3157	7846	83	0
 Pībar Dogri	3155	7847	83	0
 Pirkutāng Dogri	3155	7847	83	0
@@ -3299,7 +3299,7 @@ Dhobīdīh	2442	8425	701	0
 Mannā Dohar	2439	8433	701	0
 Dogri	2285	7650	322	0
 Dokākui	2266	7667	322	0
-Doāmba	2421	8426	701	0
+Doāmba	2421	8426	701	0	Haraia Khurd
 Churā Dohar	2420	8433	701	0
 Teliā Dohar	2418	8434	701	0
 Dhosila	2478	8464	137	0
@@ -4168,7 +4168,7 @@ Domandīh	2334	8582	562	0
 Dogodīh	2325	8596	415	0
 Domadīh	2321	8579	562	0
 Dompārā	2304	8593	653	0
-Domandīh	2306	8582	653	0
+Domandīh	2306	8582	653	0	Salgādīh
 Domrākochātoli	2303	8577	562	0
 Domrā	2303	8578	562	0
 Domkulitoli	2302	8587	653	0
@@ -4194,7 +4194,7 @@ Dorāmi	2388	8415	707	0
 Dongipāni	2324	8404	341	0
 Dhondrukonā	2308	8408	398	0
 Dhobāri	2306	8415	321	0
-Dhobri	2306	8415	321	0
+Dhobri	2306	8415	321	0	Dhobāri
 Dhomarpāt	2307	8408	398	0
 Dhobātolā	2372	8456	707	0
 Dhothāhi	2398	8426	701	0
@@ -4227,7 +4227,7 @@ Dobā	2352	8482	773	0
 Dhobāli	2335	8483	773	0
 Dongritoli	2337	8488	773	0
 Dorandā	2338	8490	562	0
-Dongātoli	2345	8497	562	0
+Dongātoli	2345	8497	562	0	Deori
 Dhoutātoli	2334	8495	562	0
 Dolaichā	2319	8496	562	0
 Dombā	2316	8483	321	0
@@ -4338,7 +4338,7 @@ Dolang	2171	8572	293	0
 Dodropāl	2164	8570	293	0
 Dogot	2162	8572	293	0
 Doaghāt	2175	8583	293	0
-Dodipāni	2192	8593	382	0
+Dodipāni	2192	8593	382	0	Dharipāni
 Dongapāni	2156	8585	293	0
 Dondahuri	2174	8588	293	0
 Donkasāi	2158	8596	293	0

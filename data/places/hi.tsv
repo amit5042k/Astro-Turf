@@ -9,12 +9,12 @@ Hilsa	2532	8528	514	51052
 Hisua	2483	8542	107	32585
 Hīrākud	2153	8387	567	30207
 Hinjilicut	1948	8474	440	24671
-Hinjili	1948	8474	440	24671
-Hinjilikatu	1948	8474	440	24671
+Hinjili	1948	8474	440	24671	Hinjilicut
+Hinjilikatu	1948	8474	440	24671	Hinjilicut
 Hinakallu	1233	7660	74	23162
-Hinkal	1233	7660	74	23162
-Sindi Turf Hindnagar	2074	7859	143	20956
-Hirod	1250	7667	94	20399
+Hinkal	1233	7660	74	23162	Hinakallu
+Sindi Turf Hindnagar	2074	7859	143	20956	Sindi
+Hirod	1250	7667	94	20399	French Rocks
 Hirekerūr	1446	7540	92	19191
 Hindoria	2390	7957	521	16001
 Hindalgi	1587	7447	77	13741
@@ -25,25 +25,25 @@ Hiramandalam	1867	8395	472	6603
 Buna Hir	3452	7420	0	6348
 Hirāpur	2184	8024	144	6315
 Hīrāpur Hamesha	2156	7979	404	6069
-Hīrāpur	2156	7979	404	6069
+Hīrāpur	2156	7979	404	6069	Hīrāpur Hamesha
 Hirmi	2154	8194	379	5139
 Highways	965	7736	194	4882
 Hindustan Paper Corporation Ltd. Township	2486	9260	345	2732
-Hindustan Paper Corporation	2486	9260	345	2732
-Hindustan Paper Corporation Ltd.	2486	9260	345	2732
-Hindustan Paper Corporation Township	2486	9260	345	2732
+Hindustan Paper Corporation	2486	9260	345	2732	Hindustan Paper Corporation Ltd. Township
+Hindustan Paper Corporation Ltd.	2486	9260	345	2732	Hindustan Paper Corporation Ltd. Township
+Hindustan Paper Corporation Township	2486	9260	345	2732	Hindustan Paper Corporation Ltd. Township
 Hill Town	2434	9369	437	2293
 Bhandal Himmat	3112	7558	369	942
 Hill -2	2225	8646	382	404
-Salod Hirapur	2070	7855	143	0
-Nandi Hills	1334	7765	389	0
+Salod Hirapur	2070	7855	143	0	Sālod
+Nandi Hills	1334	7765	389	0	Nandigunda
 Mandār Hill	2481	8702	605	0
 Malabar Hill	1895	7278	90	0
-Bombay Malabar Hill	1895	7278	90	0
-Malbar Hill	1895	7278	90	0
+Bombay Malabar Hill	1895	7278	90	0	Malabar Hill
+Malbar Hill	1895	7278	90	0	Malabar Hill
 Longbi Hirei	2521	9446	364	0
-Hisāmbād	2533	8140	651	0
-Hisāmābād	2533	8140	651	0
+Hisāmbād	2533	8140	651	0	Kosam Khirāj
+Hisāmābād	2533	8140	651	0	Kosam Khirāj
 Kolli Hills	1133	7833	231	0
 Huvin Hippargi	1656	7608	80	0
 Hīwarkheri	2217	7915	337	0
@@ -52,7 +52,7 @@ Hiwarkhed	2113	7686	172	0
 Hivre	1893	7471	152	0
 Hivra	1722	7479	65	0
 Hita	2456	7420	22	0
-Hīnta	2456	7420	22	0
+Hīnta	2456	7420	22	0	Hita
 Hisamki	2907	7305	374	0
 Hisāla	2127	7510	190	0
 Hirodih	2439	8558	473	0
@@ -64,54 +64,54 @@ Hire Kotankal	1596	7695	50	0
 Hirehadagalli	1493	7583	366	0
 Hire Bamanhāl	1560	7627	66	0
 Hīrāwāri	2195	7852	337	0
-Hirāsar	2788	7458	539	0
+Hirāsar	2788	7458	539	0	Harāsar
 Hīrāpur	2437	7921	352	0
 Hīrāpur	2366	8694	642	0
 Hīrāpur	2352	9153	385	0
 Hiranpur	2471	8770	658	0
 Hirankhera	2252	7760	590	0
-Hirānkherī	2252	7760	590	0
-Hirangaon	2275	7697	322	0
+Hirānkherī	2252	7760	590	0	Hirankhera
+Hirangaon	2275	7697	322	0	Harangaon
 Hirād	2427	7298	134	0
 Hīra	1619	7682	50	0
 Devar Hippargi	1682	7606	80	0
 Hipparga	1746	7637	71	0
-Hipperga	1746	7637	71	0
+Hipperga	1746	7637	71	0	Hipparga
 Hinsa	3269	7669	425	0
-Hinis	3269	7669	425	0
+Hinis	3269	7669	425	0	Hinsa
 Hiniskūt	3425	7658	8	0
 Hingpūr	3344	7537	148	0
 Hingoniya	2653	7587	121	0
-Hingonia	2653	7587	121	0
+Hingonia	2653	7587	121	0	Hingoniya
 Hingona	2119	7578	78	0
 Hingoli	2672	7348	344	0
 Hingni	2091	7872	143	0
 Hingīr	2195	8368	349	0
-Himgir	2195	8368	349	0
+Himgir	2195	8368	349	0	Hingīr
 Hingalganj	2247	8899	450	0
-Hingulganj	2247	8899	450	0
+Hingulganj	2247	8899	450	0	Hingalganj
 Hindu Malkot	3014	7392	374	0
 Hindolia	2326	7371	142	0
-Hindoliya	2326	7371	142	0
+Hindoliya	2326	7371	142	0	Hindolia
 Hindoli	2558	7550	353	0
 Hindola	2623	7527	313	0
 Hindol	2061	8520	289	0
-Hindola	2061	8520	289	0
+Hindola	2061	8520	289	0	Hindol
 Hindiganal	1322	7791	389	0
 Hinām	825	9308	442	0
 Himmatgarh	2425	7610	333	0
 Himala	2287	7442	173	0
 Hijrāon Kalān	2956	7540	443	0
-Hijrāon	2956	7540	443	0
+Hijrāon	2956	7540	443	0	Hijrāon Kalān
 Higona	2411	7719	336	0
-Hidāl	2849	7520	539	0
+Hidāl	2849	7520	539	0	Hadyāl
 Hingīr	2195	8370	272	0
-Himgir	2195	8370	272	0
+Himgir	2195	8370	272	0	Hingīr
 Cumballa Hill	1897	7280	90	0
-Kumbala Hill	1897	7280	90	0
-Bombay Cumballa Hill	1897	7280	90	0
+Kumbala Hill	1897	7280	90	0	Cumballa Hill
+Bombay Cumballa Hill	1897	7280	90	0	Cumballa Hill
 Bhanas Hivre	1949	7497	152	0
-Bhans-Hivra	1949	7497	152	0
+Bhans-Hivra	1949	7497	152	0	Bhanas Hivre
 Hirāganj	2242	8813	354	0
 Hijilia	2284	8860	450	0
 Harīke Hithār	3088	7437	566	0
@@ -140,7 +140,7 @@ Hīra ki Dhāni	2821	7540	300	0
 Hīrawa	2817	7568	300	0
 Himatgarh	3064	7616	648	0
 Himatgarh Chhannān	3057	7617	648	0
-Hīrasinghwāla	3011	7652	564	0
+Hīrasinghwāla	3011	7652	564	0	Devīnagar
 Himmatgarh	3065	7683	632	0
 Haripur Hinduan	3059	7689	632	0
 Hibāna	3013	7685	501	0
@@ -168,10 +168,10 @@ Hīrānagar	2765	7959	470	0
 Hīra Purwa	2709	7993	570	0
 Hirāpur	2689	7901	290	0
 Hīrāpur	2696	7906	290	0
-Hirmāni	2688	7925	290	0
+Hirmāni	2688	7925	290	0	Harmani
 Hiranpur	2677	7908	290	0
 Hirdepur	2695	7913	290	0
-Hiddapuro	2695	7913	290	0
+Hiddapuro	2695	7913	290	0	Hirdepur
 Nagla Himmat	2690	7920	290	0
 Nagla Hirālāl	2685	7903	290	0
 Nagla Hīrālāl	2678	7915	290	0
@@ -258,7 +258,7 @@ Hiwani	3074	7759	534	0
 Hīngwāra	2795	7680	482	0
 Hirwari	2778	7699	544	0
 Hīrājāt ka Bās	2763	7691	482	0
-Hindūwāla	3025	7768	449	0
+Hindūwāla	3025	7768	449	0	Haidarpur
 Hingoto	2740	7687	482	0
 Hirauli	2962	7822	575	0
 Himmatpur Bela	2962	7804	596	0
@@ -318,7 +318,7 @@ Hingoniya	2489	7616	371	0
 Hīchar	2467	7620	333	0
 Himmatpura	3053	7536	499	0
 Hirāji ka Gaon	2574	7406	572	0
-Hirākhera	2512	7460	417	0
+Hirākhera	2512	7460	417	0	Bhuwānīpura
 Hissowāl	3080	7567	674	0
 Hiron Khurd	3004	7563	709	0
 Hiron Kalān	3012	7563	709	0
@@ -343,7 +343,7 @@ Hilālpur	2919	7719	477	0
 Hikotu Dogri	3140	7833	83	0
 Bāla Hissār	3044	7809	448	0
 Hilaswali	3030	7817	448	0
-Hirāpur Gokal	2937	7870	575	0
+Hirāpur Gokal	2937	7870	575	0	Garhwāwāla
 Hidāyatganj	2880	7911	552	0
 Hīnga Nagla	2877	7922	552	0
 Hingla Nagla	2846	7907	342	0
@@ -383,7 +383,7 @@ Hirdāpur	3041	7628	564	0
 Hīrāgarh	3026	7644	564	0
 Hīrābāgh	3034	7644	564	0
 Hirdai Ki Nagariya	2785	7783	543	0
-Mājra Hīrpur	2787	7793	543	0
+Mājra Hīrpur	2787	7793	543	0	Marhi
 Hīrpur Husainpur	2786	7794	543	0
 Ād Hingni	1895	7626	33	0
 Hingni	1893	7626	33	0
@@ -392,14 +392,14 @@ Hiwra	1864	7629	33	0
 Hiparga	1814	7642	158	0
 Hipalgaon	1838	7675	158	0
 Chawani Hiparga	1828	7697	158	0
-Hisāmābād	1828	7680	158	0
+Hisāmābād	1828	7680	158	0	Ujer
 Tād Hipparga	1784	7615	48	0
 Himmatpura	2994	7637	638	0
 Hiple	1756	7602	132	0
 Hipparga	1792	7641	48	0
 Hippargarawa	1796	7626	48	0
 Hirapur	2841	7787	637	0
-Hingthala	2849	7794	637	0
+Hingthala	2849	7794	637	0	Phāosi
 Hiroli	1758	7636	71	0
 Hipparga	1767	7669	71	0
 Hittal Sirūr	1738	7656	71	0
@@ -446,7 +446,7 @@ Hire Honakuni	1639	7698	50	0
 Hingnādih	2134	8143	286	0
 Hingna	2119	8137	286	0
 Hīrāpur	2127	8158	310	0
-Hīrāpur	2128	8157	310	0
+Hīrāpur	2128	8157	310	0	Jarwāi
 Hirehanigi	1612	7685	50	0
 Hire Dinne	1603	7681	50	0
 Hire Bahādurdinne	1608	7691	50	0
@@ -657,7 +657,7 @@ Nagla Hira	2785	7869	616	0
 Himmatpur Sai	2784	7863	616	0
 Nagla Hīrāsingh	2779	7869	616	0
 Purwa Hīra	2666	7954	715	0
-Aurangābād Hīrāmansha	2655	7966	671	0
+Aurangābād Hīrāmansha	2655	7966	671	0	Nawāda Khurd
 Hīrānagar	2653	7962	715	0
 Hīrānagar	2658	7962	715	0
 Hisāwān	2642	7965	671	0
@@ -670,10 +670,10 @@ Hīra Purwa	2697	7985	570	0
 Hisāmuddīnpur	2682	7985	570	0
 Nawāda Hīra	2680	7999	469	0
 Nagla Himmat	2747	7854	711	0
-Himmathār	2628	7987	671	0
+Himmathār	2628	7987	671	0	Sūrajpura
 Nagla Hīrāsingh	2739	7856	403	0
 Nagla Himānchal	2728	7873	464	0
-Hīra Lālpur	2624	7976	671	0
+Hīra Lālpur	2624	7976	671	0	Dwārika Purwa
 Hīrāpur	2625	7980	671	0
 Hīrāpur	2616	7975	741	0
 Hīrānagar	2564	7932	433	0
@@ -747,7 +747,7 @@ Hīrāpura	2537	7819	436	0
 Hirānandpur	2559	8325	26	0
 Hīrāpur	2525	7807	436	0
 Himmatpur	2505	7812	436	0
-Himmatpur	2506	7823	436	0
+Himmatpur	2506	7823	436	0	Redi
 Hīrāpur	2507	7824	436	0
 Hingangohān	2091	7636	49	0
 Hingna	2093	7645	49	0
@@ -768,7 +768,7 @@ Hīrāpur	2522	7843	433	0
 Himmatpur	2517	7836	503	0
 Hīrāpur	2514	7841	503	0
 Hirangi	2034	7723	128	0
-Himmatnagar	2488	7994	663	0
+Himmatnagar	2488	7994	663	0	Darjīpurwa
 Himmatdhāna	2231	7785	462	0
 Hiranchāpra	2243	7783	590	0
 Hīrāwāri	2224	7786	462	0
@@ -839,7 +839,7 @@ Himāyatnagar	1740	7849	424	0
 Hinotiyākhas	2343	7816	338	0
 Hinotiya Kalān	2336	7822	338	0
 Hinotiyāmahalpur	2332	7802	338	0
-Hīrāpur	2487	7814	436	0
+Hīrāpur	2487	7814	436	0	Chhān
 Hindorākheri	2488	7801	436	0
 Hīrāwal	2478	7817	410	0
 Hinoda	2444	7815	410	0
@@ -848,7 +848,7 @@ Hīngi	2487	7632	371	0
 Hinotiya Khurd	2377	7835	352	0
 Hira Bevanūr	1724	7605	80	0
 Hirankheri	2393	7626	347	0
-Hirankheri	2393	7625	347	0
+Hirankheri	2393	7625	347	0	Khera
 Himmatgarh	2398	7647	16	0
 Hiryāl	1719	7620	71	0
 Hisāri	2496	7854	384	0
@@ -999,18 +999,18 @@ Hilauli	2645	8094	312	0
 Hindupur	2634	8094	681	0
 Dhāni Hīrān	2848	7671	630	0
 Hīrāmanpur	2555	8287	251	0
-Hirankūdna	2867	7700	771	0
+Hirankūdna	2867	7700	771	0	Jāfarpur Kalān
 Himmat Khera	2604	8075	728	0
 Himmatpur	2614	8085	681	0
 Hilauli	2607	8083	681	0
 Hirnākheri	2902	7822	483	0
-Muhammad Alīpur Hirde	2961	7830	575	0
+Muhammad Alīpur Hirde	2961	7830	575	0	Kalheri
 Hīmpur	2958	7838	575	0
 Hindūpur	2952	7835	575	0
-Hīmpur Makhdūra Jahān	2950	7841	575	0
+Hīmpur Makhdūra Jahān	2950	7841	575	0	Satārwāla
 Hīrāwāli	2948	7844	575	0
 Hīrāpur Māli	2944	7835	575	0
-Hīrāwāla	2944	7836	575	0
+Hīrāwāla	2944	7836	575	0	Khānpur
 Phulsanda Hīra	2938	7837	575	0
 Shafīpur Hīra	2927	7833	575	0
 Hiralāl	2469	8235	201	0
@@ -1046,10 +1046,10 @@ Hindu Khera	2664	8122	30	0
 Sarāi Hījra	2681	8126	30	0
 Himatpur	2677	8131	30	0
 Hiura	2120	7955	141	0
-Hilālpur	2911	7829	575	0
+Hilālpur	2911	7829	575	0	Bahāwalpur
 Hirnakheri	2905	7829	575	0
 Hisāmpur	2904	7843	483	0
-Hisāmpur	2904	7833	575	0
+Hisāmpur	2904	7833	575	0	Shāmpur
 Hindūganj	2653	8126	681	0
 Purwa Hindu	2658	8138	662	0
 Purwa Hiwānchal	2670	8149	30	0
@@ -1059,7 +1059,7 @@ Hīrāpur	2907	7869	511	0
 Hiraundi	2486	8080	324	0
 Hiroundi	2486	8082	324	0
 Hinauta	2481	8099	324	0
-Hidāyatpur	2944	7876	575	0
+Hidāyatpur	2944	7876	575	0	Chorwāla
 Johwa Hisār	2640	8109	681	0
 Hilalgānj	2632	8116	681	0
 Hilālganj	2632	8114	681	0
@@ -1123,7 +1123,7 @@ Hīrapur	1968	7749	140	0
 Hiwri	1993	7770	67	0
 Hingni	1975	7772	67	0
 Hirauni	2837	7844	646	0
-Gunnaur Hīrāpur	2825	7842	646	0
+Gunnaur Hīrāpur	2825	7842	646	0	Itauwu
 Hiwalni	1997	7779	67	0
 Hiwri	1985	7785	67	0
 Hingni	1975	7787	140	0
@@ -1316,7 +1316,7 @@ Hinota	2398	8064	351	0
 Hilondi	2342	8065	350	0
 Hīrāpur	2301	8053	480	0
 Hirapur	2389	8084	351	0
-Hilūr	3322	7576	34	0
+Hilūr	3322	7576	34	0	Kolī
 Hiūr	3328	7578	34	0
 Hinda Chak	3238	7533	496	0
 Hingwāi	2548	8162	651	0
@@ -1367,7 +1367,7 @@ Hirdenagar	2254	8040	480	0
 Hinganjhār	2036	8136	704	0
 Hichka	2004	8141	659	0
 Hirdepur	2298	8061	468	0
-Hīrāpur	2203	8056	144	0
+Hīrāpur	2203	8056	144	0	Bansulī
 Hilli	1735	7607	132	0
 Bhura Hithār	3115	7482	260	0
 Arar Hithār	3109	7480	566	0
@@ -1434,7 +1434,7 @@ Hīrāpur	2011	8003	135	0
 Pur Hirān	3150	7589	296	0
 Hiūn	3121	7599	295	0
 Hijal	3334	7616	34	0
-Hil	3315	7646	362	0
+Hil	3315	7646	362	0	Bheri Shalaor
 Hisrund	3284	7619	362	0
 Hiār	3283	7612	362	0
 Hiranaota	3278	7606	362	0
@@ -1589,7 +1589,7 @@ Hichhan Bigha	2511	8446	137	0
 Higona	2386	7697	16	0
 Hīrāpura	2353	7683	16	0
 Hīkmi	2360	7693	16	0
-Hirānkheri	2278	7604	660	0
+Hirānkheri	2278	7604	660	0	Sakkarkheri
 Hīrapur	2277	7618	322	0
 Himtāji Muwara	2306	7314	167	0
 Hirāpur Muwara	2308	7309	167	0
@@ -1986,7 +1986,7 @@ Hingna	2616	8732	667	0
 Hirdepur	2614	8737	667	0
 Hirdepur	2613	8737	667	0
 Hirdepur	2612	8743	667	0
-Himmatnagar	2612	8783	510	0
+Himmatnagar	2612	8783	510	0	Baluāgari
 Hinguāgot	2596	8716	667	0
 Hijukita	2504	8736	592	0
 Hijri	2508	8741	592	0
@@ -2091,7 +2091,7 @@ Hirung	2262	8528	287	0
 Hirāpur	2422	8677	502	0
 Hirpardangal	2405	8686	770	0
 Hisrā	2394	8400	701	0
-Hisrā	2397	8417	701	0
+Hisrā	2397	8417	701	0	Pokhrāha
 Hiringbār	2390	8449	701	0
 Hisir	2344	8440	321	0
 Hirnākhaitola	2314	8444	321	0
@@ -2101,7 +2101,7 @@ Hisri	2371	8474	707	0
 Hirhitoli	2350	8473	773	0
 Hisri	2344	8461	773	0
 Hirhi	2349	8472	773	0
-Hirhitoli	2349	8472	773	0
+Hirhitoli	2349	8472	773	0	Hirhi
 Hingirtoli	2262	8419	495	0
 Hirnachhāpar	2295	8444	321	0
 Hindutoli	2267	8487	495	0

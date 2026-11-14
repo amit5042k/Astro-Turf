@@ -1,6 +1,6 @@
-Kandenavolu	1583	7804	236	460184
+Kandenavolu	1583	7804	236	460184	Kurnool
 Khandwa	2182	7635	209	200738
-Khandakwalsa	1844	7378	52	78684
+Khandakwalsa	1844	7378	52	78684	Kharakvasla
 Kandukūr	1522	7990	6	57246
 Kāndi	2396	8804	471	54848
 Kāndhla	2932	7727	328	43387
@@ -11,13 +11,13 @@ Kandalloor	918	7647	243	19925
 Kandāri	2106	7581	78	16353
 Kandamkunnu	1187	7558	266	16025
 Kandānisshēri	1060	7608	241	14645
-Kandanassery	1060	7608	241	14645
-Khand	2418	8129	634	10653
+Kandanassery	1060	7608	241	14645	Kandānisshēri
+Khand	2418	8129	634	10653	Khanr
 Kandri	2124	7924	141	10624
 Khandpara	2026	8518	548	9038
-Kandaparha	2026	8518	548	9038
-Khandparagarh	2026	8518	548	9038
-Khandapada	2026	8518	548	9038
+Kandaparha	2026	8518	548	9038	Khandpara
+Khandparagarh	2026	8518	548	9038	Khandpara
+Khandapada	2026	8518	548	9038	Khandpara
 Kāndri	2142	7928	141	8315
 Kāndra	2285	8605	653	8157
 Kandanūr	1010	7883	454	7696
@@ -28,33 +28,33 @@ Tada Khandrika	1359	8003	45	6123
 Kandragādia	2101	8574	376	5505
 Khānda Saharol	2516	7712	506	0
 Pisore Khānd	1873	7478	152	0
-Nasirabad Khandesh	2100	7566	78	0
+Nasirabad Khandesh	2100	7566	78	0	Nasirābād
 Nāndgaon Khandeshwar	2068	7783	133	0
 Loni Kand	1862	7402	52	0
 Khāndu	2346	7454	166	0
 Khandsara	2182	8153	710	0
 Khāndsa	2843	7700	630	0
 Khāndoāl	2142	8400	567	0
-Khanduala	2142	8400	567	0
+Khanduala	2142	8400	567	0	Khāndoāl
 Khāndhār	2601	7661	116	0
 Khandera	2228	7031	145	0
 Khandela	2523	7685	506	0
 Khandauli	2731	7803	546	0
-Khandauh	2731	7803	546	0
+Khandauh	2731	7803	546	0	Khandauli
 Khandār	2776	7959	470	0
 Khandāla Khurd	2134	7943	141	0
 Khandāla Kalān	2133	7942	141	0
 Khandala	2002	7480	113	0
-Khandola	2002	7480	113	0
+Khandola	2002	7480	113	0	Khandala
 Khandāla	1989	7744	67	0
 Khandāla	1876	7337	52	0
 Khandāla	1806	7402	64	0
-Khandala Bavda	1806	7402	64	0
+Khandala Bavda	1806	7402	64	0	Khandāla
 Khandagiri	2026	8579	541	0
-Khandgiri	2026	8579	541	0
+Khandgiri	2026	8579	541	0	Khandagiri
 Khandaghosh	2321	8769	375	0
 Kandūru	1356	7877	214	0
-Kandur	1356	7877	214	0
+Kandur	1356	7877	214	0	Kandūru
 Kāndūr	1295	7983	161	0
 Kandukūru	1459	7764	100	0
 Kandukūr	1376	7816	195	0
@@ -66,30 +66,30 @@ Kandogal	3024	7820	448	0
 Kāndla Port	2298	7022	108	0
 Kandkurti	1881	7789	75	0
 Kandivli	1787	7323	207	0
-Kandivali	1787	7323	207	0
-Khandolee	1787	7323	207	0
+Kandivali	1787	7323	207	0	Kandivli
+Khandolee	1787	7323	207	0	Kandivli
 Kandivalli	1111	7680	156	0
 Kandiramānikkam	1005	7863	454	0
-Kandlramanikkam	1005	7863	454	0
-Kandramanikam	1005	7863	454	0
-Kandramanickam	1005	7863	454	0
+Kandlramanikkam	1005	7863	454	0	Kandiramānikkam
+Kandramanikam	1005	7863	454	0	Kandiramānikkam
+Kandramanickam	1005	7863	454	0	Kandiramānikkam
 Kandili	1248	7845	184	0
 Kandikere	1353	7662	93	0
 Kandiyāla	2712	7088	217	0
-Kandiāla	2712	7088	217	0
+Kandiāla	2712	7088	217	0	Kandiyāla
 Kāndi	3300	7473	581	0
 Kāndi	3155	7721	278	0
 Kāndi	2994	7845	612	0
 Kandhrāpur	2614	8314	498	0
 Kāndhot	3314	7572	372	0
 Kandharā	2105	8554	289	0
-Kandbara	2105	8554	289	0
+Kandbara	2105	8554	289	0	Kandharā
 Kāndh	2158	7308	151	0
 Kandgal	1632	7577	86	0
 Kandgal	1596	7627	86	0
 Kandel	2073	8166	652	0
 Kandaura	2634	8117	681	0
-Kandauara	2634	8117	681	0
+Kandauara	2634	8117	681	0	Kandaura
 Kandar	3134	7692	628	0
 Kandar	1947	8036	135	0
 Kandar	1811	7519	132	0
@@ -98,19 +98,19 @@ Kandalike	1189	7642	74	0
 Kandakkadava	985	7627	176	0
 Kandāghāt	3097	7711	628	0
 Kānda	3090	7784	448	0
-Kānds	3090	7784	448	0
+Kānds	3090	7784	448	0	Kānda
 Kānda	2963	7892	612	0
 Khandwa	2847	7479	539	0
-Khandua	2847	7479	539	0
+Khandua	2847	7479	539	0	Khandwa
 Kanda	3328	7410	504	0
-Jijot Kandao	3328	7409	504	0
+Jijot Kandao	3328	7409	504	0	Jijot
 Kandan	3430	7410	0	0
 Kāndhom	3406	7457	76	0
 Kandi	3446	7433	0	0
 Kandeāl	3288	7456	581	0
-Kandeāi	3288	7456	581	0
+Kandeāi	3288	7456	581	0	Kandeāl
 Kāndai	3318	7416	504	0
-Kandal	3318	7416	504	0
+Kandal	3318	7416	504	0	Kāndai
 Khandra	3296	7500	373	0
 Khandek	3296	7497	666	0
 Kandihār	3292	7494	666	0
@@ -120,15 +120,15 @@ Khānda	2892	7690	485	0
 Chhota Khānda	2894	7692	485	0
 Kandi Bāla	3439	7384	0	0
 Kandi Pāīn	3439	7384	0	0
-Kandi Payān	3439	7384	0	0
+Kandi Payān	3439	7384	0	0	Kandi Pāīn
 Kanda	3050	7797	500	0
 Kanda	3045	7798	448	0
 Kandholl Uparli	3039	7797	448	0
-Kandhall Uparli	3039	7797	448	0
+Kandhall Uparli	3039	7797	448	0	Kandholl Uparli
 Kandholi Tarll	3038	7796	448	0
 Kandrauli	2997	7719	88	0
-Kandraull	2997	7719	88	0
-Kanda	3112	7709	479	0
+Kandraull	2997	7719	88	0	Kandrauli
+Kanda	3112	7709	479	0	Randa
 Khandūri	2999	7854	612	0
 Kandāra	2997	7874	612	0
 Kandrora	2994	7869	612	0
@@ -325,7 +325,7 @@ Khāndāla	2126	7855	141	0
 Kandwāl	3126	7807	479	0
 Khandewala	2591	7656	116	0
 Khandor	2437	7305	212	0
-Kandu Khera	2995	7450	615	0
+Kandu Khera	2995	7450	615	0	Khānwāla
 Khandgaon	2497	7614	371	0
 Khandiyad	2458	7618	333	0
 Khāndur	3080	7572	674	0
@@ -466,7 +466,7 @@ Kāndvel	2111	7601	78	0
 Khānde Dewar	2712	7972	570	0
 Khāndi	2587	7772	436	0
 Khānda Baura	2780	7988	470	0
-Khānda	2781	7997	470	0
+Khānda	2781	7997	470	0	Maholia
 Khandauwa	2744	7982	686	0
 Kāndai	2445	7710	336	0
 Khāndia	2407	7703	16	0
@@ -488,7 +488,7 @@ Khandehijar	2582	8000	645	0
 Khandi Lodhan	2570	7985	645	0
 Kandhauli	2561	7979	645	0
 Kandibanda	1687	7995	250	0
-Khāndepur	2559	8124	651	0
+Khāndepur	2559	8124	651	0	Mirzāpur Jawai
 Sarai Khāndeo	2571	8201	607	0
 Kandharpur	2557	8215	607	0
 Khandarkā	2537	7921	433	0
@@ -612,7 +612,7 @@ Kāndhāpur	2575	8239	32	0
 Kāndhpur	2558	8246	32	0
 Khānde Deo	2669	8080	714	0
 Kandarpur	2657	8083	312	0
-Khandar	2569	8284	32	0
+Khandar	2569	8284	32	0	Murtazābād
 Kandhaulī	2569	8281	32	0
 Kandhaipur	2561	8289	32	0
 Sarāi Khānde	2609	8079	681	0
@@ -711,13 +711,13 @@ Kandayapalli	1806	7804	400	0
 Kānd Bhāri	2751	8206	280	0
 Purwa Kandra Ahīr	2753	8208	280	0
 Khandwa	2838	7875	646	0
-Kandharpur	2833	7876	117	0
+Kandharpur	2833	7876	117	0	Kānharpur
 Khandaili	2849	7896	552	0
 Khandwa	2822	7876	117	0
 Khāndpur	3397	7456	76	0
 Zuhom Kāndipur	3393	7475	76	0
 Khandak	2807	7881	117	0
-Mazra Khandak	2806	7880	117	0
+Mazra Khandak	2806	7880	117	0	Pītamnagar
 Kandi	3339	7451	504	0
 Kandra Hil	3339	7459	504	0
 Khandī Gāla	3329	7466	666	0
@@ -837,7 +837,7 @@ Khāndāhāl	3333	7529	550	0
 Kandhrāpur	2614	8377	586	0
 Pura Kandhai	2612	8382	536	0
 Khandwa	2605	8385	536	0
-Kandhwārā	2564	8361	26	0
+Kandhwārā	2564	8361	26	0	Rasūlpur
 Kāndharpur	2565	8367	26	0
 Kandlāparti	1897	8045	288	0
 Kāndala	1877	8029	288	0
@@ -986,7 +986,7 @@ Kandha	3186	7637	38	0
 Kandha	3189	7634	38	0
 Kandha	3183	7638	38	0
 Kāndh	3180	7638	38	0
-Kāndabahāl	2145	8278	407	0
+Kāndabahāl	2145	8278	407	0	Rajpālpur
 Kāndadongri	2137	8286	407	0
 Kandiālu	3197	7686	278	0
 Kāndewāla	3182	7677	278	0

@@ -1,11 +1,11 @@
-Korakhpur	2677	8337	325	674246
+Korakhpur	2677	8337	325	674246	Gorakhpur
 Korba	2235	8270	388	419146
 Koratla	1882	7871	63	66504
 Koraput	1881	8271	316	47468
 Khordha	2018	8562	541	46205
-Korinar	2079	7070	136	41492
+Korinar	2079	7070	136	41492	Kodīnar
 Koregaon	1865	7406	52	25846
-Koregaon-Bhima	1865	7406	52	25846
+Koregaon-Bhima	1865	7406	52	25846	Koregaon
 Koregaon	1770	7416	64	24690
 Korochi	1672	7445	57	20420
 Koratti	1027	7635	241	17618
@@ -16,12 +16,12 @@ Khore	3282	7451	581	6931
 Koradacheri	1077	7949	267	6450
 Bali Koria	2644	9142	758	6359
 Korādi	2125	7911	141	6321
-Korādih	2125	7911	141	6321
+Korādih	2125	7911	141	6321	Korādi
 Khori Kalān	2822	7688	544	6007
-Korianwali	3038	7406	3	5770
+Korianwali	3038	7406	3	5770	Kaurānwāli
 Khor	2459	7481	655	5683
 Korangarapādi	1331	7476	257	4944
-Korangrapady	1331	7476	257	4944
+Korangrapady	1331	7476	257	4944	Korangarapādi
 Korampallam	878	7809	208	3228
 Khorājpur	2882	7744	727	1240
 Koregaon Park	1853	7390	52	0
@@ -30,7 +30,7 @@ Kurse Korhi	2023	8079	704	0
 Korwātānr	2479	8615	524	0
 Korwār	1675	7621	80	0
 Korukonda	1828	8199	109	0
-Korkonda	1828	8199	109	0
+Korkonda	1828	8199	109	0	Korukonda
 Kortimadugu	1430	7889	195	0
 Korti	1840	7502	132	0
 Korta	2518	7296	273	0
@@ -39,7 +39,7 @@ Korosavāda	1873	8406	472	0
 Korondi	1965	8197	659	0
 Korna	2621	7260	285	0
 Kormangala	1294	7762	43	0
-Kormangal	1294	7762	43	0
+Kormangal	1294	7762	43	0	Kormangala
 Korlai	1852	7290	90	0
 Korla	1704	7726	71	0
 Korkop	1602	7509	77	0
@@ -48,16 +48,16 @@ Korkai	864	7806	208	0
 Korīrās	1865	8141	406	0
 Korid	2389	8446	707	0
 Koriāpatti	2611	8699	426	0
-Koriabatti	2611	8699	426	0
+Koriabatti	2611	8699	426	0	Koriāpatti
 Korhalli	1703	7623	80	0
 Korea	2315	8397	398	0
 Korda	2388	7138	240	0
 Korbo	2912	9502	392	0
 Korattūr	1311	8017	228	0
-Korathru	1311	8017	228	0
+Korathru	1311	8017	228	0	Korattūr
 Koratgi	1561	7666	66	0
 Korata	1964	7805	67	0
-Korat	1964	7805	67	0
+Korat	1964	7805	67	0	Korata
 Korangal	1710	7763	210	0
 Korandh	1941	7723	640	0
 Koral	2183	7321	159	0
@@ -75,17 +75,17 @@ Khorbāni	3324	7463	504	0
 Khorāna	2243	7084	174	0
 Khor	3485	7705	2	0
 Khor	3408	7450	301	0
-Khor	2799	7626	482	0
-Khorzang	3297	7826	2	0
-Khorpa	2895	7485	486	0
+Khor	2799	7626	482	0	Khohar
+Khorzang	3297	7826	2	0	Karzok Gömpa
+Khorpa	2895	7485	486	0	Khopra
 Kora	1955	7270	90	0
 Khorel	2269	8830	279	0
 Jhiblān Khori	3383	7425	1	0
-Khori	3383	7425	1	0
+Khori	3383	7425	1	0	Jhiblān Khori
 Khori	3434	7419	0	0
 Khor	3413	7457	301	0
 Katera Khori	3313	7418	504	0
-Katora Khori	3313	7418	504	0
+Katora Khori	3313	7418	504	0	Katera Khori
 Khori	3311	7418	504	0
 Koral	3318	7445	504	0
 Kor Jāgīr	3282	7495	581	0
@@ -95,13 +95,13 @@ Khoriān	3461	7399	0	0
 Khori	3444	7386	779	0
 Khorpāra	3439	7385	0	0
 Khorak	2991	7716	457	0
-Korhech	3113	7706	479	0
+Korhech	3113	7706	479	0	Karhech
 Korampalli	1795	7806	400	0
 Korpak	1798	7814	400	0
 Korpol	1771	7812	31	0
 Korwāram	1777	7893	129	0
 Korukkupet	1312	8028	204	0
-Korukkpet	1312	8028	204	0
+Korukkpet	1312	8028	204	0	Korukkupet
 Korattūr	1308	8002	228	0
 Kormangla 4Th Block	1293	7763	43	0
 Kormangla 8th Block	1294	7762	43	0
@@ -121,23 +121,23 @@ Korat	2677	7907	290	0
 Khoran	2642	7903	334	0
 Telian ki Khor	2647	7915	290	0
 Khorān Norga	2648	7913	290	0
-Nagla Khoran	2648	7913	290	0
+Nagla Khoran	2648	7913	290	0	Khorān Norga
 Khoran	2646	7910	290	0
 Khorh	2634	7913	334	0
-Khor	2636	7909	741	0
+Khor	2636	7909	741	0	Pura Rathauran
 Khorh	2629	7912	741	0
-Khor	2629	7912	741	0
-Khor	2625	7912	741	0
+Khor	2629	7912	741	0	Khorh
+Khor	2625	7912	741	0	Garkatu
 Khoran	2630	7944	741	0
 Korerīhār	2692	7965	570	0
 Korom	2666	7999	671	0
 Korigāpur	2655	7989	671	0
 Khorera	2466	7919	481	0
 Koriabhasa	2631	8977	664	0
-Khoriā	2730	7893	464	0
+Khoriā	2730	7893	464	0	Khuria
 Khoradi	2489	8296	525	0
 Korlahalli	1512	7589	606	0
-Korbagi	1561	7495	682	0
+Korbagi	1561	7495	682	0	Kotbāgi
 Korrapādu	1482	7858	229	0
 Korbi	2235	8270	388	0
 Khordda Kulbaria	2320	8886	450	0
@@ -208,7 +208,7 @@ Koriāna	2985	7512	563	0
 Khöri	3317	7622	34	0
 Korar	2973	7621	638	0
 Khorra	2848	7630	609	0
-Korika	2825	7634	694	0
+Korika	2825	7634	694	0	Mānpur
 Korār Ibrahimpur	2905	7706	485	0
 Korneli	1916	7994	135	0
 Korkya	2463	7649	333	0
@@ -312,14 +312,14 @@ Korroni Tānda	1668	7904	101	0
 Korian Purwa	2646	7994	671	0
 Khorwa	2641	7998	671	0
 Korari Sarhad	2732	7854	403	0
-Madāri ka Khor	2604	7994	741	0
+Madāri ka Khor	2604	7994	741	0	Riāznagar
 Khor Patreta	2589	7979	741	0
 Koro Khurd	2524	8041	463	0
 Koro Kalān	2524	8043	463	0
 Khor	2679	7817	525	0
 Korīkhāl	2164	7601	329	0
 Korgalān	2178	7631	209	0
-Kori	2281	7714	675	0
+Kori	2281	7714	675	0	Kuri
 Koriya Kānkariya	2268	7703	322	0
 Khorhmāni	2463	8206	516	0
 Khorhmāni	2460	8205	516	0
@@ -349,7 +349,7 @@ Dahendri Korku Dhāna	2163	7756	133	0
 Korda	2160	7752	133	0
 Gauli Korda	2159	7752	133	0
 Koria	2157	7761	462	0
-Kordi Dhāna	2152	7758	462	0
+Kordi Dhāna	2152	7758	462	0	Sālai Dhāna
 Kordi	2153	7761	462	0
 Kori	2506	8364	749	0
 Korīgānwān	2506	8369	749	0
@@ -401,7 +401,7 @@ Koratikal	1749	7916	129	0
 Korpaili	1754	7954	762	0
 Korāri	2548	8056	463	0
 Khoriäkheri	2394	7643	16	0
-Khoriaekheri	2394	7643	16	0
+Khoriaekheri	2394	7643	16	0	Khoriäkheri
 Korpana	1974	7899	111	0
 Dīwān Khora	2498	8017	663	0
 Gonbat Khora	2498	8017	663	0
@@ -424,7 +424,7 @@ Korhīdār	2302	7903	522	0
 Kora Dīh	2581	8209	718	0
 Korīpura	2597	8257	32	0
 Kōrai	2333	7938	521	0
-Khorābīr	2555	8264	32	0
+Khorābīr	2555	8264	32	0	Rājāpur
 Khori ka Āhirān	2560	8271	32	0
 Korya	2308	7943	522	0
 Chak Korion Panjhhazāri	2573	8130	651	0
@@ -454,8 +454,8 @@ Kornī	2569	8246	32	0
 Korutganj	2636	8093	312	0
 Khor	2829	7674	630	0
 Khor Rāi Dayālpur	2910	7800	700	0
-Rāokheri Kora	2960	7832	575	0
-Sarīfpur Khorūj	2943	7841	575	0
+Rāokheri Kora	2960	7832	575	0	Rājārāmpur
+Sarīfpur Khorūj	2943	7841	575	0	Gaonri
 Samaspur Khora	2946	7831	575	0
 Korāwāla	2940	7842	575	0
 Purwa Kori	2789	8101	323	0
@@ -533,7 +533,7 @@ Korambi	2060	7958	111	0
 Kordha	2059	7974	111	0
 Korwān	2587	8106	728	0
 Khorda	2146	7411	127	0
-Korda	2122	7423	190	0
+Korda	2122	7423	190	0	Kāltek Pāda
 Khori	2119	7433	190	0
 Korīpur	2542	8125	651	0
 Koriyāpar	2549	8123	728	0
@@ -695,11 +695,11 @@ Purwa Kori	2699	8336	515	0
 Maula Khor	2680	8349	325	0
 Purwa Kori	2697	8340	515	0
 Purwa Kori	2699	8345	515	0
-Khoria	2669	8330	325	0
+Khoria	2669	8330	325	0	Bhīti
 Kortha	2665	8333	325	0
 Purwa Badlu Kori	2668	8346	325	0
 Khorābār	2671	8343	325	0
-Sikri Khorābār Jungle	2670	8345	325	0
+Sikri Khorābār Jungle	2670	8345	325	0	Sikri
 Purwa Kori	2632	8326	498	0
 Purwa Kori	2628	8326	498	0
 Purwa Kori	2626	8329	498	0
@@ -777,7 +777,7 @@ Khoria	2590	7400	273	0
 Kori	3189	7584	296	0
 Korgār	2296	8235	388	0
 Korbi	2286	8245	388	0
-Korātolā	2182	8080	144	0
+Korātolā	2182	8080	144	0	Jhāmul
 Koradgaon	2008	7480	113	0
 Kormī	2203	8217	291	0
 Korbā Zamīndāri	2224	8246	388	0
@@ -868,7 +868,7 @@ Khori	2385	8352	341	0
 Lani Khor	3085	7771	479	0
 Korian	3083	7758	479	0
 Korain	3075	7756	534	0
-Suar Korwā	2373	8373	341	0
+Suar Korwā	2373	8373	341	0	Dhanpurī
 Korhattī	2384	8390	743	0
 Korwā	2393	8386	743	0
 Khor	3092	7778	650	0
@@ -921,7 +921,7 @@ Korlamanda	1704	8077	104	0
 Korupolu	1776	8259	227	0
 Korrapādu	1638	8024	319	0
 Koruprolumallavaram	1748	8257	269	0
-Korlayipeta	1726	8255	227	0
+Korlayipeta	1726	8255	227	0	Rājayyapeta
 Korravānipalem	1739	8271	227	0
 Korar	2603	8445	639	0
 Korāri Khurd	2607	8446	639	0
@@ -1023,7 +1023,7 @@ Koriyākheri	2361	7668	16	0
 Koria	2343	7650	320	0
 Koriākheri	2390	7698	16	0
 Koriyāgor	2372	7683	16	0
-Koria	2294	7622	322	0
+Koria	2294	7622	322	0	Pīplia Khurd
 Kordam	2324	7346	142	0
 Khordara	2314	7385	142	0
 Khoralimb	2332	7420	166	0
@@ -1054,7 +1054,7 @@ Khorābār	2626	8409	535	0
 Khor	2611	8409	639	0
 Khori Pākar	2657	8465	396	0
 Korar	2669	8460	396	0
-Koraīā	2672	8473	396	0
+Koraīā	2672	8473	396	0	Gurha
 Korarh	2661	8469	396	0
 Khora	2708	7580	121	0
 Khora	2705	7593	121	0
@@ -1303,7 +1303,7 @@ Koranelli	1337	7832	47	0
 Koravenūr	1304	7838	47	0
 Koramākulapalle	1316	7866	214	0
 Koralūr	1300	7778	389	0
-Kodaginbele Korandhalli	1300	7800	47	0
+Kodaginbele Korandhalli	1300	7800	47	0	Kodaginbele
 Koravāndapatti	1241	7801	110	0
 Korappalli	1215	7803	110	0
 Koratti	1242	7855	184	0
@@ -1388,7 +1388,7 @@ Korgāli	2377	8598	517	0
 Korarma	2370	8579	517	0
 Korāmbe	2361	8575	391	0
 Korādīh	2333	8594	415	0
-Korādīh	2326	8584	415	0
+Korādīh	2326	8584	415	0	Nayādīh
 Koreng	2323	8598	415	0
 Korla	2298	8513	432	0
 Korkel	2267	8507	432	0
@@ -1453,7 +1453,7 @@ Korukkai	1115	7961	203	0
 Korukkamedu	1186	7979	196	0
 Koramaduttuvalavu	1178	7867	390	0
 Korakkavādi	1147	7891	178	0
-Korakkavādi	1148	7890	178	0
+Korakkavādi	1148	7890	178	0	Kudikkādu
 Korakodu	1477	7733	100	0
 Korrā	2399	8538	764	0
 Korai	2204	8520	272	0
@@ -1506,7 +1506,7 @@ Khorwāli	2014	8427	387	0
 Korihindal	2075	8454	414	0
 Korodāgochha	2013	8451	440	0
 Korara	2095	8489	414	0
-Korarmera	2097	8139	668	0
+Korarmera	2097	8139	668	0	Parsāhi
 Koronu	2806	9593	434	0
 Kora Korang	2793	9506	577	0
 Korukonda	1717	8182	87	0

@@ -12,35 +12,35 @@ Mālpura	2628	7536	313	36028
 Malajkhand	2205	8072	144	34176
 Malkapur	1726	7418	64	32000
 Malakanagiri	1836	8189	109	31007
-Malkanagiri	1836	8189	109	31007
-Malakangairi	1836	8189	109	31007
-Mālkāngiri	1836	8189	109	31007
+Malkanagiri	1836	8189	109	31007	Malakanagiri
+Malakangairi	1836	8189	109	31007	Malakanagiri
+Mālkāngiri	1836	8189	109	31007	Malakanagiri
 Seoni Mālwa	2245	7747	590	30100
 Malakpur Kohi Rangpur	2854	7712	721	23726
-Malik Pur Kohi	2854	7712	721	23726
+Malik Pur Kohi	2854	7712	721	23726	Malakpur Kohi Rangpur
 Malpe	1335	7470	257	23496
 Mālvan	1606	7346	213	18858
 Mallasamudram	1149	7803	231	18820
 Bada Malhera	2456	7931	663	18335
 Malīhābād	2692	8071	714	16649
-Mallānwāla	3106	7482	566	16183
-Mallanwala Khass	3106	7482	566	16183
+Mallānwāla	3106	7482	566	16183	Mullānwāla
+Mallanwala Khass	3106	7482	566	16183	Mullānwāla
 Māliya	2309	7076	147	15964
-Mālia	2309	7076	147	15964
+Mālia	2309	7076	147	15964	Māliya
 Malsīsar	2835	7530	300	13719
-Malcolm Peth	1756	7340	234	13598
+Malcolm Peth	1756	7340	234	13598	Mahābaleshwar
 Malkāpur	1692	7393	57	13343
 Mallānkinar	960	7806	119	12986
 Malaimāchchampatti	1091	7700	156	12936
-Malumichampatti	1091	7700	156	12936
+Malumichampatti	1091	7700	156	12936	Malaimāchchampatti
 Malsiān	3113	7535	369	12780
 Mallāpuram	1198	7825	110	12705
-B.Mallapuram	1198	7825	110	12705
+B.Mallapuram	1198	7825	110	12705	Mallāpuram
 Malkera	2378	8629	401	12591
 Mālhīpur	2541	8602	530	12439
 Māldhe	2052	7455	54	11881
 Māllūr	1154	7814	51	10524
-Mallamooppampatti	1167	7809	51	10199
+Mallamooppampatti	1167	7809	51	10199	Chittanūr
 Malhār	2189	8228	291	8505
 Malhārgarh	2428	7499	580	8332
 Malayadi	836	7718	453	7812
@@ -55,34 +55,34 @@ Malakpur	3228	7559	692	4645
 Mālri	3117	7547	369	2469
 Malingnar	1969	8137	619	533
 Talwandi Malak	3017	7607	564	0
-Talwandi Malik	3017	7607	564	0
+Talwandi Malik	3017	7607	564	0	Talwandi Malak
 Siwāna Māl	2926	7658	367	0
-Malodh	2202	7178	370	0
-Naugaon Malli	2992	7872	612	0
-Muhammadpur Malāsa	2629	7991	671	0
+Malodh	2202	7178	370	0	Shiānagar
+Naugaon Malli	2992	7872	612	0	Naugaon
+Muhammadpur Malāsa	2629	7991	671	0	Muhammadpur
 Mallat	1614	7694	50	0
 Malsīsar	2897	7502	486	0
 Malwāsi	2301	7423	173	0
 Mālwāra	2478	7229	343	0
 Malwa	2603	8071	728	0
-Malwān	2603	8071	728	0
+Malwān	2603	8071	728	0	Malwa
 Malvona	1545	7417	188	0
-Malbona	1545	7417	188	0
+Malbona	1545	7417	188	0	Malvona
 Mālvādi	1978	7409	54	0
 Mālūr	1373	7534	346	0
 Mālūnje Khurd	1950	7470	152	0
 Mālūnje Budrukh	1952	7472	152	0
-Malunja-Bundruk	1952	7472	152	0
+Malunja-Bundruk	1952	7472	152	0	Mālūnje Budrukh
 Mālūnje	1951	7472	152	0
 Mālungi	2015	7324	261	0
-Malanji	2015	7324	261	0
+Malanji	2015	7324	261	0	Mālungi
 Malu Khāt	2678	9412	451	0
 Mālud	1957	8525	603	0
 Mallu Ani	2938	7485	486	0
 Mālthone	2431	7853	352	0
-Mālthon	2431	7853	352	0
+Mālthon	2431	7853	352	0	Mālthone
 Maltehr	3160	7690	278	0
-Malther	3160	7690	278	0
+Malther	3160	7690	278	0	Maltehr
 Malthan	1884	7423	52	0
 Malthan	1840	7473	52	0
 Malsisar	2775	7458	539	0
@@ -94,9 +94,9 @@ Mālpur	2128	7451	190	0
 Malotha	3209	7678	38	0
 Māloni	2678	7784	622	0
 Malliyakarai	1157	7849	51	0
-Malliakarai	1157	7849	51	0
+Malliakarai	1157	7849	51	0	Malliyakarai
 Mallipatnam	1028	7931	264	0
-Malli	1028	7931	264	0
+Malli	1028	7931	264	0	Mallipatnam
 Mallipatna	1276	7596	679	0
 Mallāpuram	1897	7871	63	0
 Mallāpur	1567	7563	606	0
@@ -107,16 +107,16 @@ Mallankuli	1175	7692	211	0
 Mallampalli	1811	7985	226	0
 Mallām	1395	8012	45	0
 Malla Buzurg	1674	7656	72	0
-Malla	1674	7656	72	0
+Malla	1674	7656	72	0	Malla Buzurg
 Mālkautha	1906	7746	140	0
-Mālkot	1906	7746	140	0
+Mālkot	1906	7746	140	0	Mālkautha
 Mālkhurda	2186	8299	402	0
 Mālkhed	2082	7788	133	0
 Mālkhed Buzurg	2042	7790	67	0
-Mālkhed	2042	7790	67	0
+Mālkhed	2042	7790	67	0	Mālkhed Buzurg
 Malkhānpura	2633	7820	478	0
 Malkhaid	1719	7716	71	0
-Malkhed	1719	7716	71	0
+Malkhed	1719	7716	71	0	Malkhaid
 Malkāpur	1776	7759	31	0
 Malkāpur	1727	7880	129	0
 Malkāna	2994	7504	563	0
@@ -126,32 +126,32 @@ Mālin	2480	8778	461	0
 Malikpeth	1787	7564	132	0
 Malī Kot	3342	7473	666	0
 Māligām	1897	8296	316	0
-Māligān	1897	8296	316	0
+Māligān	1897	8296	316	0	Māligām
 Malichedu	1431	7973	6	0
 Māliāra	2348	8722	571	0
 Mali and Munjeri	1853	7387	52	0
 Maliāl	1870	7895	63	0
 Mālia	2408	7517	580	0
 Māliya	2116	7031	185	0
-Mālia	2116	7031	185	0
+Mālia	2116	7031	185	0	Māliya
 Mālhūra	1983	7719	640	0
 Mālhiwri	1997	7785	67	0
 Malhera	2919	7753	700	0
 Malharia	2603	8753	667	0
 Malhārgarh	2428	7807	410	0
 Malār	2720	7238	344	0
-Malhār	2720	7238	344	0
+Malhār	2720	7238	344	0	Malār
 Malhana	1955	7272	246	0
 Mālgund	1716	7327	234	0
-Malgom	1716	7327	234	0
+Malgom	1716	7327	234	0	Mālgund
 Malgaon	2155	7471	186	0
 Malgaon	2045	7464	54	0
 Malgaon	1687	7472	65	0
 Malewāra	2049	8037	135	0
 Malepur	2497	8626	524	0
-Mallehpur	2497	8626	524	0
+Mallehpur	2497	8626	524	0	Malepur
 Bara Malehra	2457	7931	663	0
-Malehra	2457	7931	663	0
+Malehra	2457	7931	663	0	Bara Malehra
 Malehr	3193	7646	38	0
 Mālegaon	2024	7700	128	0
 Mālegaon	1930	7727	140	0
@@ -159,7 +159,7 @@ Mālegaon	1882	7701	140	0
 Mālegaon	1841	7753	140	0
 Malebennūr	1435	7574	275	0
 Malcopona	1519	7413	102	0
-Maleopona	1519	7413	102	0
+Maleopona	1519	7413	102	0	Malcopona
 Malconda	1543	7423	102	0
 Malchalma	1758	7761	31	0
 Malayāttūr	1020	7653	176	0
@@ -170,7 +170,7 @@ Mālavi	1500	7620	366	0
 Māl Āsoli	1977	7756	67	0
 Malāsa	2627	7994	671	0
 Malārnādūngar	2629	7647	116	0
-Malarna	2629	7647	116	0
+Malarna	2629	7647	116	0	Malārnādūngar
 Malāri	3069	7989	183	0
 Mālara	2587	7531	313	0
 Malar	1553	7391	188	0
@@ -182,39 +182,39 @@ Malāna	3207	7726	680	0
 Malān	3329	7545	372	0
 Mālan	2422	7253	134	0
 Malalavādi	1235	7629	74	0
-Katte Malalawādi	1235	7629	74	0
+Katte Malalawādi	1235	7629	74	0	Malalavādi
 Malala	2071	7095	776	0
 Mālākhera	2739	7663	482	0
 Malakāpuram	1769	8324	81	0
-Malkapuram	1769	8324	81	0
+Malkapuram	1769	8324	81	0	Malakāpuram
 Malaiyūr	1249	7946	197	0
 Malaiyāndipattanam	1053	7698	156	0
 Malaiyadivāram	1088	7839	445	0
-Malaiyadvāram	1088	7839	445	0
+Malaiyadvāram	1088	7839	445	0	Malaiyadivāram
 Malāi	3011	7893	612	0
 Malahra	2504	7967	663	0
-Malahar	2504	7967	663	0
+Malahar	2504	7967	663	0	Malahra
 Malahipur	2487	8377	409	0
 Mālād	1920	7285	207	0
 Malachua	2326	8124	350	0
 Malacca	917	9282	79	0
 Malabar Hill	1895	7278	90	0
-Bombay Malabar Hill	1895	7278	90	0
-Malbar Hill	1895	7278	90	0
+Bombay Malabar Hill	1895	7278	90	0	Malabar Hill
+Malbar Hill	1895	7278	90	0	Malabar Hill
 Mālab	2804	7701	544	0
 Māla	2654	7510	446	0
 Māla	1024	7626	241	0
 Māl	2702	8074	714	0
 Kotli Surat Malii	3194	7509	487	0
-Malli	3194	7509	487	0
+Malli	3194	7509	487	0	Kotli Surat Malii
 Hindu Malkot	3014	7392	374	0
 Fatta Māluka	2977	7530	709	0
 Chur Mālda	2195	8535	293	0
 Malkīsar Bara	2865	7391	307	0
-Malkisar	2865	7391	307	0
+Malkisar	2865	7391	307	0	Malkīsar Bara
 Malkīsar Chhota	2868	7391	307	0
 Mālāsar	2824	7458	539	0
-Malisar	2818	7482	539	0
+Malisar	2818	7482	539	0	Molīsar Bara
 Malo	2857	7496	539	0
 Mālipāra	2296	8824	279	0
 Malancha	2220	8826	4	0
@@ -223,11 +223,11 @@ Malarpura	3423	7477	595	0
 Malshāhibāgh	3421	7479	595	0
 Malpur	3411	7486	611	0
 Malabāgh	3415	7482	611	0
-Degwār Maldiālān	3380	7408	1	0
+Degwār Maldiālān	3380	7408	1	0	Degwār Maidiālan
 Malhān	3372	7424	1	0
 Malkāh Khemi	3331	7421	504	0
-Malkāh Khētar	3331	7421	504	0
-Malkan da	3331	7421	504	0
+Malkāh Khētar	3331	7421	504	0	Malkāh Khemi
+Malkan da	3331	7421	504	0	Malkāh Khemi
 Malikpura	3447	7409	0	0
 Malikpur	3417	7451	301	0
 Malikpur	3417	7466	120	0
@@ -261,7 +261,7 @@ Mālwi	2910	7634	367	0
 Dera Māliyānwāla	2989	7688	501	0
 Mālakpur	2952	7695	457	0
 Malakpur	3265	7480	581	0
-Maāli	3273	7496	581	0
+Maāli	3273	7496	581	0	Moāli
 Mālpura	2811	7470	539	0
 Malwāra	3048	7790	448	0
 Maleta	3046	7793	448	0
@@ -269,7 +269,7 @@ Malūkāwāla	3045	7778	448	0
 Malūkāwāla	3033	7798	448	0
 Malhān	3030	7790	448	0
 Mālaindi	2951	7729	328	0
-Malhābatpur	2951	7739	328	0
+Malhābatpur	2951	7739	328	0	Mahābatpur
 Māliyon ki Jhonpariyān	2549	7554	353	0
 Mālīpura	2530	7558	353	0
 Māllyon ki Jhonpariyān	2562	7564	353	0
@@ -307,13 +307,13 @@ Mallāpur	1763	7891	129	0
 Malaipattu	1292	8001	161	0
 Mālsaram	2075	7078	136	0
 Malleshwaram	1301	7756	43	0
-Malleshwara	1301	7756	43	0
+Malleshwara	1301	7756	43	0	Malleshwaram
 Malathalli	1296	7751	43	0
-mal	852	7696	219	0
+mal	852	7696	219	0	Kaudiar
 Mālīrām ki Dhāni	2808	7535	300	0
 Mālsar	2803	7547	300	0
 Māliya ki Dhāni	2814	7541	300	0
-Mālīyan ki Dhāni	2814	7541	300	0
+Mālīyan ki Dhāni	2814	7541	300	0	Māliya ki Dhāni
 Māliyon ki Dhāni	2823	7541	300	0
 Māligaon	2822	7549	300	0
 Māliyon ki Dhāni	2817	7547	300	0
@@ -323,7 +323,7 @@ Mālūmpura	2815	7558	300	0
 Malesiya ki Dhāni	2811	7575	300	0
 Khāria Malīnāth	2764	7281	307	0
 Mālowāl	3055	7615	648	0
-Malakpur	3057	7610	674	0
+Malakpur	3057	7610	674	0	Devīnagar
 Malānpur	3058	7608	674	0
 Mallewal	3050	7616	564	0
 Malakpur	3022	7654	564	0
@@ -351,7 +351,7 @@ Mal Purwa	2712	7976	570	0
 Nagla Malkhān	2698	7918	290	0
 Nagla Malik	2689	7908	290	0
 Maraiyān Mallahān	2685	7907	290	0
-Marhaiyān Mallāhān	2685	7907	290	0
+Marhaiyān Mallāhān	2685	7907	290	0	Maraiyān Mallahān
 Malpura	2684	7911	290	0
 Sarāi Malpura	2683	7911	290	0
 Marhaiyān Mallāhān	2646	7925	290	0
@@ -380,7 +380,7 @@ Malpura	2454	7921	663	0
 Malūk Tibba	2774	7124	217	0
 Mālingra	2710	7130	217	0
 Malesar	2786	7179	217	0
-Malka	2710	7176	217	0
+Malka	2710	7176	217	0	Barla
 Mālāguri	2647	8996	713	0
 Malanduba	2625	8988	713	0
 Malladihalli	1404	7609	255	0
@@ -394,11 +394,11 @@ Mallapparajugudem	1638	8115	68	0
 Mallepalli	1860	8094	288	0
 Malchema	1900	8223	408	0
 Mālūni	2454	7641	333	0
-Maloni	2454	7641	333	0
+Maloni	2454	7641	333	0	Mālūni
 Maledgudda	1602	7685	50	0
 Hire Mallanakere	1508	7598	366	0
 Mālūmra	1793	7601	48	0
-Mālūmbra	1793	7601	48	0
+Mālūmbra	1793	7601	48	0	Mālūmra
 Mālapalle	1583	7733	236	0
 Mālegaan	1817	7583	132	0
 Mālyavantam	1456	7778	444	0
@@ -449,7 +449,7 @@ Malhei	3170	7720	278	0
 Māliya	2913	7469	486	0
 Malkon	2981	7545	709	0
 Malakpur Bhimra	2980	7548	709	0
-Mal Singhwāla	2987	7550	709	0
+Mal Singhwāla	2987	7550	709	0	Fatehgarh
 Malwāla	2973	7541	443	0
 Mallhar	2958	7545	443	0
 Malkhaira	2919	7522	486	0
@@ -481,7 +481,7 @@ Dhāni Chandan Mal	3036	7409	3	0
 Malukpur	3013	7435	3	0
 Machāki Mal Singhwāli	3062	7474	730	0
 Budhi Mal	3060	7463	615	0
-Mallan	3056	7470	615	0
+Mallan	3056	7470	615	0	Chak Motliwāla
 Mārh Malhu	3055	7455	615	0
 Takht Malāna	3055	7462	615	0
 Mallan	3040	7474	615	0
@@ -542,7 +542,7 @@ Mālibās	2747	7679	482	0
 Māliyon Ka Bās	2747	7675	482	0
 Māliyān Ka Bās	2735	7675	482	0
 Malāwāli	2732	7677	482	0
-Malāwali	2730	7676	482	0
+Malāwali	2730	7676	482	0	Fatehpur
 Malla Ka Bās	2740	7691	482	0
 Maleta	3068	7779	448	0
 Malog	3062	7781	448	0
@@ -639,7 +639,7 @@ Mālkot	2559	7407	572	0
 Mālikmoria	2560	7405	572	0
 Māldeokhera	2555	7408	572	0
 Mālion ka Bās	2551	7402	572	0
-Māl ka Khera	2514	7465	417	0
+Māl ka Khera	2514	7465	417	0	Rūppura
 Malliānwala	3045	7542	726	0
 Malakpur	3093	7574	674	0
 Malakpur	2987	7791	596	0
@@ -722,7 +722,7 @@ Palaskhed Malakdev	1997	7610	49	0
 Malewāl	3093	7610	674	0
 Malipur	3079	7606	674	0
 Malakwāl	3099	7619	674	0
-Mālīpimpalgaon	1968	7606	53	0
+Mālīpimpalgaon	1968	7606	53	0	Mamdābād
 Mālīpārgaon	1922	7611	33	0
 Māltondi	1973	7640	53	0
 Mālkinhi	1968	7646	53	0
@@ -1009,7 +1009,7 @@ Malhan Khera	2504	8044	532	0
 Malehra	2515	8050	463	0
 Malār	2440	7937	663	0
 Mālūkbāri	2558	8108	728	0
-Mallūpur	2558	8124	651	0
+Mallūpur	2558	8124	651	0	Badrīkedār
 Mālpon	2249	7696	465	0
 Mallūpur	2572	8224	32	0
 Chak Malahtha	2568	8222	32	0
@@ -1037,7 +1037,7 @@ Mālāgaon	2259	7702	322	0
 Mālibāyan	2275	7745	675	0
 Malgama	2471	8213	516	0
 Malpura	2496	7951	663	0
-Mal	2565	8316	26	0
+Mal	2565	8316	26	0	Patti Garīb
 Malaura	2567	8318	26	0
 Malikpur	2557	8323	26	0
 Pura Malh	2692	7830	546	0
@@ -1069,7 +1069,7 @@ Malik Shāhpur	2553	8330	26	0
 Malik Shāhpar	2552	8329	26	0
 Chak Maluk	2574	8343	26	0
 Malikpura	2570	8345	26	0
-Malikpura	2562	8347	26	0
+Malikpura	2562	8347	26	0	Dhāwa
 Malāwani	2519	7807	436	0
 Mālegaon	2079	7643	49	0
 Malwāra	2428	7969	521	0
@@ -1309,15 +1309,15 @@ Malūkwāli	2962	7835	575	0
 Malakpur	2951	7844	575	0
 Malakpur	2951	7835	575	0
 Malakpur Lakhman	2949	7844	575	0
-Malakpur Abdullāh	2946	7840	575	0
+Malakpur Abdullāh	2946	7840	575	0	Abdullāhpur
 Hīrāpur Māli	2944	7835	575	0
-Hempur Malak	2942	7836	575	0
+Hempur Malak	2942	7836	575	0	Barhāpura
 Malakpur Dehri	2940	7831	575	0
 Mālīwāla	2941	7828	575	0
 Farīdpur Malhu	2933	7830	575	0
-Rāipur Maliyābād	2933	7842	575	0
+Rāipur Maliyābād	2933	7842	575	0	Badhiowāla
 Malakpur	2931	7842	575	0
-Rālpur Malūk	2931	7844	575	0
+Rālpur Malūk	2931	7844	575	0	Kāgpur
 Malpur	2752	8105	507	0
 Malik	2774	8125	323	0
 Maloni	2734	8101	507	0
@@ -1386,7 +1386,7 @@ Mālpurī	2138	7994	171	0
 Mālhi	2132	7990	171	0
 Mālegaon	2131	7994	171	0
 Sukhrau Malla	2975	7851	612	0
-Sādikpur Malūkpur	2903	7859	511	0
+Sādikpur Malūkpur	2903	7859	511	0	Khichri
 Malakpur	2923	7859	575	0
 Malhīwāla	2908	7866	511	0
 Malhīwāla	2907	7867	511	0
@@ -1557,7 +1557,7 @@ Dumela Malla	2984	7903	612	0
 Dāngu Malla	2983	7905	612	0
 Bawānsa Malla	2982	7907	612	0
 Rauna Malla	2977	7901	612	0
-Silli Malli	2980	7911	612	0
+Silli Malli	2980	7911	612	0	Jamariya
 Malla Lakhaur	2986	7908	429	0
 Sārson Malla	2988	7913	429	0
 Bhatbo Malla	2991	7912	612	0
@@ -1608,7 +1608,7 @@ Malika Purwa	2692	8210	542	0
 Purwa Hazāri Mal	2692	8216	542	0
 Māli Purwa	2697	8211	542	0
 Pura Malanga	2693	8223	542	0
-Mallahanpurwa	2683	8221	542	0
+Mallahanpurwa	2683	8221	542	0	Wazīrābād
 Malapur	3389	7482	76	0
 Malikgund	3398	7483	76	0
 Malawar	3392	7489	428	0
@@ -1837,7 +1837,7 @@ Maleri	2610	8380	536	0
 Mālda	2609	8395	536	0
 Maleji	2607	8400	536	0
 Malsa Kalān	2552	8356	26	0
-Mālīpur	2565	8366	26	0
+Mālīpur	2565	8366	26	0	Ismāilpur
 Malaithā	2572	8372	26	0
 Malyāla	1837	8031	226	0
 Malrayun	3349	7554	34	0
@@ -1889,7 +1889,7 @@ Malar	3269	7571	496	0
 Maleri	3266	7571	496	0
 Malhūpur	2575	8192	718	0
 Malāk Piāgi	2567	8182	607	0
-Malkia	2565	8181	607	0
+Malkia	2565	8181	607	0	Purshottampur
 Malāk Piāgi	2567	8184	607	0
 Mālāpur	2561	8179	607	0
 Malāk Chaturi	2557	8183	607	0
@@ -1989,7 +1989,7 @@ Mal Mobri	3142	7500	260	0
 Āima Mallian	3142	7480	260	0
 Mallāhānwāla	3112	7483	566	0
 Malhuwāla	3108	7488	566	0
-Malhuwaliawāla	3108	7488	566	0
+Malhuwaliawāla	3108	7488	566	0	Malhuwāla
 Malsian Kalān	3101	7498	566	0
 Malisān Khurd	3101	7498	566	0
 Jhuggiān Telu Mal	3101	7486	566	0
@@ -2280,12 +2280,12 @@ Maleth	2995	7844	612	0
 Simalna Malla	2985	7845	612	0
 Māla	2995	7841	612	0
 Īra Malla	2982	7849	612	0
-Gwār Malla	2998	7883	612	0
+Gwār Malla	2998	7883	612	0	Dobhāl
 Sīla Malla	2998	7887	612	0
 Malli Gwāri	3000	7900	612	0
 Dhela Malli	2997	7894	612	0
 Mālkot	2996	7890	612	0
-Sadūl Malla	2995	7889	612	0
+Sadūl Malla	2995	7889	612	0	Saundal
 Malli Bīna	2992	7892	612	0
 Māld	2991	7887	612	0
 Māld	2992	7887	612	0
@@ -2478,7 +2478,7 @@ Māligām	1936	8300	363	0
 Upar Māligām	1931	8313	363	0
 Māligām	1931	8313	363	0
 Mālipadar	1940	8309	363	0
-Mālipadar	1946	8320	363	0
+Mālipadar	1946	8320	363	0	Kutrumāli
 Mālijharan	1925	8300	363	0
 Māligūda	1853	8239	109	0
 Malakapodoro	1859	8236	109	0
@@ -2684,7 +2684,7 @@ Bhagatpur Maliāl	2937	7906	551	0
 Tānda Mallūka	2936	7910	551	0
 Tāndā Maka Malaiyā Dayā Rāmpur	2934	7909	551	0
 Mālthar	2553	8462	377	0
-Malū Khān	2910	7919	641	0
+Malū Khān	2910	7919	641	0	Bhewa Nagla
 Mālpuria Kalān	2588	7349	273	0
 Mālpuria Khurd	2588	7347	273	0
 Mālipur	2534	8450	377	0
@@ -2725,7 +2725,7 @@ Ghunna Malla	2944	7948	551	0
 Malikhera	2496	7386	572	0
 Malar Gūrha	2489	7377	572	0
 Malkāwās ka Dhāni	2475	7379	22	0
-Malla Bhūra	2911	7941	551	0
+Malla Bhūra	2911	7941	551	0	Jhotiāl Khatta
 Bajwālpur Malla	2916	7950	551	0
 Himmatpur Malla	2922	7949	551	0
 Lohriasāl Malla	2923	7949	551	0
@@ -3176,7 +3176,7 @@ Mālti	2487	8532	118	0
 Malki Bigha	2487	8547	107	0
 Malia Bigha	2468	8548	107	0
 Malikānā	2435	8538	764	0
-Mālikdih	2429	8548	764	0
+Mālikdih	2429	8548	764	0	Burhidih
 Mallenahalli	1433	7630	255	0
 Mallāpura	1425	7640	255	0
 Obajjana Mālige	1426	7646	255	0
@@ -3276,7 +3276,7 @@ Malbidu	1283	7562	679	0
 Malgod	1297	7564	679	0
 Malarhalli	1295	7570	679	0
 Malēgadde	1293	7569	679	0
-Malannapet	1880	7901	63	0
+Malannapet	1880	7901	63	0	Tirmalāpur
 Malkagudem	1895	7919	91	0
 Mallampet	1897	7919	91	0
 Malia	2508	8614	589	0
@@ -3699,7 +3699,7 @@ Mallavanipalle	1557	7810	232	0
 Malamīdikambāladinne	1488	7825	229	0
 Malliyambhāvi	1479	7837	229	0
 Malametta	1555	7827	232	0
-Mallappa	1540	7844	232	0
+Mallappa	1540	7844	232	0	Chintakunta
 Mallavemula	1494	7856	232	0
 Mallavapalle	1478	7872	229	0
 Mālavānipeta	1534	7860	232	0
@@ -3842,7 +3842,7 @@ Mālekondrāyunipālem	1512	7977	6	0
 Mallampēta	1468	7901	229	0
 Malinenipatnam	1449	7910	229	0
 Mallaiyapalli	1433	7912	229	0
-Mallampet	1432	7909	229	0
+Mallampet	1432	7909	229	0	Vaddapalli
 Malluvāripalli	1415	7911	195	0
 Mallevāripalli	1416	7917	195	0
 Mallemadugu	1429	7938	195	0
@@ -3855,7 +3855,7 @@ Malpatidevasthanamkhandrika	1450	7963	6	0
 Mālapalli	1447	7968	6	0
 Mālapalli	1445	7972	6	0
 Mālapalli	1443	7970	6	0
-Mālapalli	1442	7972	6	0
+Mālapalli	1442	7972	6	0	Narasimhakhandrika
 Mālapalli	1435	7951	6	0
 Mālapalli	1436	7966	6	0
 Mālapalli	1434	7972	6	0
@@ -4166,7 +4166,7 @@ Mallikkudi	975	7894	5	0
 Malariterkukkudi	970	7891	5	0
 Malarivadakkukudi	970	7892	5	0
 Malayankudiyiruppu	836	7778	191	0
-Malavilaipatti	840	7803	208	0
+Malavilaipatti	840	7803	208	0	Kīrthāpuram
 Malaipālaiyam	1098	7787	445	0
 Malaiyūr	1098	7799	445	0
 Malachchipudūr	1093	7798	445	0
@@ -4206,7 +4206,7 @@ Māllārpatti	1103	7953	203	0
 Mallikarcherinattam	1112	7959	203	0
 Māli	972	7714	258	0
 Mallingapuram	987	7729	194	0
-Mallingapuram	978	7735	194	0
+Mallingapuram	978	7735	194	0	Ānaimalaiyanpatti
 Mallayakkavundanpatti	990	7746	194	0
 Malāpāra	944	7731	258	0
 Malaiyadikurichi	920	7743	245	0

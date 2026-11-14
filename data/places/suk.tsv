@@ -1,26 +1,26 @@
 Suket	2465	7604	371	22319
-Suket-Kotah	2465	7604	371	22319
-Suke	2465	7604	371	22319
-Sookerating	2757	9556	460	21706
+Suket-Kotah	2465	7604	371	22319	Suket
+Suke	2465	7604	371	22319	Suket
+Sookerating	2757	9556	460	21706	Dum Duma
 Sukma	1833	8163	599	13926
 Sukhpar	2322	6961	108	13303
 Sukhpur Solhani	2606	8654	426	10281
-Sukhpur	2606	8654	426	10281
+Sukhpur	2606	8654	426	10281	Sukhpur Solhani
 Tappa Sukalia	2285	7648	322	0
 Suktiyāl	3442	7577	8	0
 Sukta	2153	7613	29	0
 Sukri	2292	7984	598	0
 Sukli	2167	7968	144	0
-Sukri	2167	7968	144	0
+Sukri	2167	7968	144	0	Sukli
 Sukli	2166	7967	144	0
-Sukri	2166	7967	144	0
+Sukri	2166	7967	144	0	Sukli
 Sukma	1839	8166	599	0
 Suklatirth	2175	7312	151	0
-Sukaltirth	2175	7312	151	0
+Sukaltirth	2175	7312	151	0	Suklatirth
 Suklāra	2319	8635	415	0
 Suklapāra	1898	8162	600	0
 Sukinda	2097	8591	376	0
-Sukinda Khās	2097	8591	376	0
+Sukinda Khās	2097	8591	376	0	Sukinda
 Sukhsar	2315	7403	173	0
 Sukhidhāng	2916	8011	554	0
 Sukhera	2367	7495	601	0
@@ -29,7 +29,7 @@ Sukhani	2687	8890	602	0
 Sukhānagar	2629	8693	426	0
 Sukene	2007	7401	54	0
 Sukal	1993	8572	603	0
-Sukuwal	2556	8364	26	0
+Sukuwal	2556	8364	26	0	Suhuwāl
 Sukdebpur	2215	8828	4	0
 Bāgh Shukar Shāh	3402	7491	76	0
 Sukil	3385	7431	1	0
@@ -42,7 +42,7 @@ Sukoli Talli	2976	7875	612	0
 Sukhwāsi	2874	7506	539	0
 Sukhrām ka Bās	2838	7573	300	0
 Sukhdorshanpur	3060	7698	587	0
-Sukhdarshanpur	3060	7698	587	0
+Sukhdarshanpur	3060	7698	587	0	Sukhdorshanpur
 Sarāi Sukhi	3006	7684	501	0
 Torya Shuklanki	2500	7878	481	0
 Sukāri	2461	7864	384	0
@@ -53,7 +53,7 @@ Nagla Sukhi	2709	7929	464	0
 Sukhdāspur	2697	7911	290	0
 Sukhlāl ka Nagla	2679	7923	290	0
 Sukhia	2681	7575	121	0
-Sukhiya	2681	7575	121	0
+Sukhiya	2681	7575	121	0	Sukhia
 Sukhsenpur	2689	7959	570	0
 Sukhi	2688	7974	570	0
 Babina Sukhchainpur	2679	7951	715	0
@@ -133,8 +133,8 @@ Sukli	2107	7898	141	0
 Sukli	2048	7816	67	0
 Kot Sukhya	3068	7488	730	0
 Sukhladdi	3000	7491	563	0
-Sukhchainpura	2992	7421	374	0
-Sukherewāla	2983	7462	585	0
+Sukhchainpura	2992	7421	374	0	Kararwala
+Sukherewāla	2983	7462	585	0	Sābu Khera
 Sukhpūra	2440	7344	22	0
 Sukhewāla	3096	7502	566	0
 Sukher	2464	7372	22	0
@@ -150,10 +150,10 @@ Sukhlālpur	2845	7773	637	0
 Sukhia	3154	7591	296	0
 Sukhchain	2978	7502	585	0
 Sukhmanpur	2964	7560	443	0
-Sukhāwāla	2949	7855	575	0
+Sukhāwāla	2949	7855	575	0	Tānda Mukhram
 Sūki	3052	7972	183	0
 Sainaiyā Sukh	2883	7911	552	0
-Sukutia	2842	7900	342	0
+Sukutia	2842	7900	342	0	Tākha
 Sukhri	2166	8116	509	0
 Sukhri Kalān	2140	8124	286	0
 Sukhri Khurd	2140	8124	286	0
@@ -234,7 +234,7 @@ Sukhpura Haveli	2646	7773	478	0
 Sūkhpuri	2795	7708	544	0
 Sukali	2107	7612	78	0
 Jamli Sukal	2172	7633	209	0
-Sukānpur	2722	7965	688	0
+Sukānpur	2722	7965	688	0	Ubrīkhera Makrand
 Shukrawāra	2574	7730	335	0
 Sukwī	2179	7666	209	0
 Sukwā	2180	7666	209	0
@@ -244,11 +244,11 @@ Nagla Sukh	2729	7894	464	0
 Āmkhera Sūkha	2435	7765	410	0
 Nagla Sukha	2773	7823	543	0
 Nagla Sukha	2765	7806	670	0
-Nagla Sūkha	2787	7868	616	0
+Nagla Sūkha	2787	7868	616	0	Ināyatpur
 Sūkhampur	2674	7965	715	0
 Sukhlālpur	2672	7958	715	0
 Suksukh Purwa	2665	7962	715	0
-Sūkh	2665	7968	715	0
+Sūkh	2665	7968	715	0	Nabi Mohan
 Sukhampur	2663	7974	671	0
 Purwa Sukhwant	2661	7952	715	0
 Sūkhampur	2661	7960	715	0
@@ -271,7 +271,7 @@ Sukardi	2269	7690	322	0
 Sukrās	2267	7682	322	0
 Sukrūpur	2573	8115	728	0
 Sukhnāpur	2566	8117	728	0
-Sukulpur	2557	8119	728	0
+Sukulpur	2557	8119	728	0	Shāhpur Hardāspur
 Sukulpur	2571	8215	718	0
 Sukul ka Pura	2559	8214	607	0
 Sukhwān	2501	7940	663	0
@@ -397,7 +397,7 @@ Sukhnai	2503	8269	201	0
 Shukulpur	2529	8299	251	0
 Sukulpur	2526	8218	607	0
 Sukbana	2507	8275	201	0
-Shukulpur	2512	8293	201	0
+Shukulpur	2512	8293	201	0	Mānikpur
 Sukkam	2268	7979	368	0
 Sukwa	2258	7976	368	0
 Suktarā	2251	7977	368	0
@@ -560,7 +560,7 @@ Shukulpur	2633	8191	597	0
 Sukhrāmpur	2509	8118	643	0
 Sukha Khera	2701	8076	714	0
 Sukhri	2704	8091	714	0
-Sukhlal Khera	2648	8041	312	0
+Sukhlal Khera	2648	8041	312	0	Balbadar
 Shukalpur	2644	8050	312	0
 Sukli	1998	7717	128	0
 Shukul Purwa	2718	8161	294	0
@@ -689,7 +689,7 @@ Shukulpur	2719	8209	542	0
 Sukraulia Pūrab	2724	8216	542	0
 Sukrautia Pachhim	2724	8216	542	0
 Pura Sukai	2711	8210	542	0
-Rasūlpur Sukhwāra	2541	8148	651	0
+Rasūlpur Sukhwāra	2541	8148	651	0	Rānīpur
 Pandaria Sukhwāra	2540	8148	651	0
 Pura Sukai	2702	8209	542	0
 Purwa Shukul	2704	8215	542	0
@@ -1009,7 +1009,7 @@ Sukāli Jagdīshpur	2560	8176	607	0
 Shukul ka Pura	2570	8200	607	0
 Sukhupura	2526	8183	607	0
 Sukwāha	2486	8105	324	0
-Sukhalgarh	3223	7556	692	0
+Sukhalgarh	3223	7556	692	0	Pacho Chak
 Sukhniāl	3234	7581	650	0
 Sukia Nala	2060	7420	54	0
 Sukvad	2100	7487	190	0
@@ -1195,7 +1195,7 @@ Nanda Shukul	2615	8153	681	0
 Pura Sukha	2616	8157	681	0
 Pura Shiu Dayāl Shukul	2618	8157	681	0
 Bāzār Sukhmangalganj	2618	8159	681	0
-Sukhmangal Singh	2619	8160	681	0
+Sukhmangal Singh	2619	8160	681	0	Pura Madāri
 Pura Shukal	2607	8161	718	0
 Pura Shukul	2601	8161	718	0
 Pura Shukul	2618	8164	662	0
@@ -1229,7 +1229,7 @@ Aima Sukhatpāli	2601	8429	639	0
 Sukunabhata	1986	8318	284	0
 Sukunabhata	2000	8332	284	0
 Sukulubhata	1985	8348	363	0
-Sukunāro	1888	8232	316	0
+Sukunāro	1888	8232	316	0	Kondugūda
 Sukrigūda	1873	8248	316	0
 Sukkalpāra	1865	8246	316	0
 Sukriput	1910	8308	363	0
@@ -1535,7 +1535,7 @@ Sukrikoel	2287	8556	432	0
 Sukrudih	2271	8560	287	0
 Sukudura	2168	8535	293	0
 Sukrawarpet	1100	7696	156	0
-Sukrawarpettai	1100	7696	156	0
+Sukrawarpettai	1100	7696	156	0	Sukrawarpet
 Sukuruli	2192	8587	382	0
 Burhia Sukhrāsi	2577	8640	591	0
 Sukhāsan	2576	8644	661	0

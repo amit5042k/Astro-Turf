@@ -1,21 +1,21 @@
-Kalikātā	2256	8836	123	4631392
-Kalicut	1125	7578	262	550440
+Kalikātā	2256	8836	123	4631392	Kolkata
+Kalicut	1125	7578	262	550440	Kozhikode
 Kāliyāganj	2563	8833	610	51748
-Kaliaganj	2563	8833	610	51748
-Kāliyāgan	2563	8833	610	51748
+Kaliaganj	2563	8833	610	51748	Kāliyāganj
+Kāliyāgan	2563	8833	610	51748	Kāliyāganj
 Khalīlābād	2677	8307	647	45321
 Kālimpong	2703	8863	492	43000
-Kālimpang	2703	8863	492	43000
+Kālimpang	2703	8863	492	43000	Kālimpong
 Kalliyoor	843	7701	219	40816
 Kalliyasshēri	1198	7536	266	31122
-Kalliasseri	1198	7536	266	31122
+Kalliasseri	1198	7536	266	31122	Kalliyasshēri
 Kallidaikurichi	869	7747	191	26398
 Kalinjur	1295	7913	189	19828
 Khali Kachigam	2038	7287	760	18434
 Khallikot	1961	8509	440	13022
-Kallikota	1961	8509	440	13022
-Khallikote	1961	8509	440	13022
-Kalīna Khās	2833	7631	694	12989
+Kallikota	1961	8509	440	13022	Khallikot
+Khallikote	1961	8509	440	13022	Khallikot
+Kalīna Khās	2833	7631	694	12989	Kanīna Khās
 Kālīnagar	2862	8008	683	10728
 Khaliapāli	2136	8362	497	6865
 Terku Kallikulam	835	7766	191	5980
@@ -23,30 +23,30 @@ Kāliapāni	2105	8578	376	5028
 Kaliawadi	2095	7295	221	4591
 Kālikāpur	2262	8629	584	4061
 Samarda Kaliāsot	2312	7750	687	0
-Kalikumarapuram	826	7786	191	0
-Kalikoti	2117	8682	734	0
+Kalikumarapuram	826	7786	191	0	Kundal
+Kalikoti	2117	8682	734	0	Kulikhati
 Khaliākāni	2002	8280	349	0
 Kalliānpur	1339	7474	257	0
 Kallimodu	1049	7982	239	0
 Kallimandayam	1059	7769	187	0
-Kallimanthayam	1059	7769	187	0
+Kallimanthayam	1059	7769	187	0	Kallimandayam
 Kallīgudi	970	7798	274	0
 Kālitagaon	2690	9373	302	0
 Kalich	3288	7454	581	0
-Kalit	3288	7454	581	0
+Kalit	3288	7454	581	0	Kalich
 Kālīpīth	2403	7685	16	0
 Kālipahāri	2343	8688	571	0
 Kalinjra	2335	7430	166	0
-Kālinjara	2335	7430	166	0
+Kālinjara	2335	7430	166	0	Kalinjra
 Kalingapatnam	1834	8412	472	0
-Kalingapatam	1834	8412	472	0
+Kalingapatam	1834	8412	472	0	Kalingapatnam
 Kālingia	2016	8442	387	0
-Kalinga	2016	8442	387	0
+Kalinga	2016	8442	387	0	Kālingia
 Kalimala	1807	8175	349	0
-Kālimela	1807	8175	349	0
+Kālimela	1807	8175	349	0	Kalimala
 Kālimatti	2187	8540	293	0
 Kalikiri	1364	7880	195	0
-Kalikri	1364	7880	195	0
+Kalikri	1364	7880	195	0	Kalikiri
 Kālikāvu	1117	7633	150	0
 Kaligotla	1790	8297	227	0
 Kaligiri	1483	7969	6	0
@@ -54,7 +54,7 @@ Kāliganj	2373	8823	528	0
 Kalicherla	1389	7854	195	0
 Kalichedu	1430	7973	6	0
 Kāliyās	2568	7450	309	0
-Kāliās	2568	7450	309	0
+Kāliās	2568	7450	309	0	Kāliyās
 Kaliānpur	2650	8026	469	0
 Kaliānpur	2287	7464	348	0
 Kaliani	2647	9377	405	0
@@ -65,11 +65,11 @@ Kaliān	3059	7572	775	0
 Kalial	840	7726	453	0
 Kaliāganj	2632	8762	667	0
 Kāliāchak	2486	8802	412	0
-Kalichak	2486	8802	412	0
+Kalichak	2486	8802	412	0	Kāliāchak
 Kāli	1994	7773	67	0
-Kallia	1672	7405	57	0
+Kallia	1672	7405	57	0	Kale
 Kaliāri	2339	7372	142	0
-Kaliyāri	2339	7372	142	0
+Kaliyāri	2339	7372	142	0	Kaliāri
 Khalisani	2252	8808	354	0
 Kalinagar	2244	8811	354	0
 Kalipur	2238	8838	4	0
@@ -93,10 +93,10 @@ Kaliānpur	3036	7782	448	0
 Pahlādpur Khalila	2929	7697	298	0
 Kālihatti	3113	7704	479	0
 Kalivanul	1755	7810	31	0
-Kalivemul	1755	7810	31	0
+Kalivemul	1755	7810	31	0	Kalivanul
 kalidasa Layout	1295	7755	43	0
 Kālīpahāri Dhāni	2829	7536	300	0
-Kālīpahāri ki Dhāni	2829	7536	300	0
+Kālīpahāri ki Dhāni	2829	7536	300	0	Kālīpahāri Dhāni
 Kāli Pahāri	2814	7550	300	0
 Kaliāna	3021	7684	501	0
 Kāli Garhia	2778	7902	616	0
@@ -112,7 +112,7 @@ Kaliānpur	2689	7965	715	0
 Khaliqpur	2655	7998	671	0
 Kalingupatti	971	7822	119	0
 Kalimpong, Крукети	2706	8846	492	0
-Kalimpong, Kruketi	2706	8846	492	0
+Kalimpong, Kruketi	2706	8846	492	0	Kalimpong, Крукети
 Uttar Kalikapur	2438	8800	471	0
 Kalitakuchi	2615	9185	359	0
 Kalijhora	2693	8845	573	0
@@ -130,7 +130,7 @@ Kāliyāsar ka Bās	2837	7524	300	0
 Kālidāb	3327	7428	504	0
 Khaliār	3144	7705	278	0
 Chak-i-kalilan	3455	7419	0	0
-Abdul Khālik	3044	7404	3	0
+Abdul Khālik	3044	7404	3	0	Miāni Basti
 Kāliāwāla	3086	7485	566	0
 Kāliāwāla	3088	7499	499	0
 Kaliyog	3115	7730	479	0
@@ -228,7 +228,7 @@ Kaliānpur	2782	7863	616	0
 Kalīanpur Jāgu	2674	7951	715	0
 Kāli Purwa	2647	7991	671	0
 Khalīlpur	2637	7999	671	0
-Kalīpur	2737	7874	711	0
+Kalīpur	2737	7874	711	0	Kamālpur
 Kālīsarāi	2239	7685	465	0
 Kāliyākheri	2229	7693	465	0
 Kalīmurādpur	2566	8211	718	0
@@ -237,7 +237,7 @@ Kālijākheri	2182	7617	209	0
 Kāli Ki Tapriyān	2467	7939	663	0
 Khalīlpur	2587	8275	32	0
 Khalīlābād	2600	8297	498	0
-Kalīchpur	2572	8306	498	0
+Kalīchpur	2572	8306	498	0	Kishonpur
 Kalīchābād	2572	8302	498	0
 Khalia	2558	8301	32	0
 Khālispur	2534	8304	251	0
@@ -253,7 +253,7 @@ Khalīlpur	2571	8334	26	0
 Kalījpur	2572	8343	26	0
 Kālīpahāri	2522	7818	436	0
 Kālīpahāri	2558	7841	503	0
-Kaliānpur	2526	8335	724	0
+Kaliānpur	2526	8335	724	0	Chhatarpura
 Kālīpahāri	2530	7849	529	0
 Kālīpahāri Dāmron	2519	7825	436	0
 Kaliyānpur	2518	8335	749	0
@@ -297,7 +297,7 @@ Kalīpur	2539	8243	583	0
 Kāli Mawaiya	2520	8225	583	0
 Kaliāpur	2532	8251	583	0
 Bāzār Kālika	2538	8273	251	0
-Kālika Dhām	2538	8273	251	0
+Kālika Dhām	2538	8273	251	0	Bāzār Kālika
 Khālispur	2529	8278	251	0
 Kalīpur	2529	8280	251	0
 Kalīpur	2528	8282	251	0
@@ -324,7 +324,7 @@ Purwa Kāli Pāsi	2619	8090	681	0
 Purwa Kāli Parshād	2615	8098	681	0
 Khalīlpur	2963	7831	575	0
 Asdullāhpur Kaliyān	2942	7842	575	0
-Khalīlpur	2927	7832	575	0
+Khalīlpur	2927	7832	575	0	Nawāzishpur Ahmad
 Kalli	2767	8102	507	0
 Khalīlnagar	2737	8108	507	0
 Kāli Ahīr Purwa	2761	8152	294	0
@@ -367,7 +367,7 @@ Kaliānpur	2659	8138	30	0
 Pura Kālidīn	2671	8139	30	0
 Purwa Kālīdīn	2669	8137	30	0
 Kāliānpur	2923	7852	575	0
-Sherpur Kālia	2923	7852	575	0
+Sherpur Kālia	2923	7852	575	0	Kāliānpur
 Khalīlpur Kādim	2901	7864	511	0
 Kālikon	2966	7888	612	0
 Khālion	2970	7893	612	0
@@ -575,7 +575,7 @@ Kaliānpur	3237	7544	496	0
 Khalilwār	2510	8163	326	0
 Kalia	3263	7563	496	0
 Khāling ka Purwa	2559	8175	607	0
-Kalīpur	2558	8196	607	0
+Kalīpur	2558	8196	607	0	Bīrbhadarpur
 Khālispur	2574	8191	718	0
 Kalīpur	2571	8198	607	0
 Kāli Bari	3240	7551	496	0
@@ -820,7 +820,7 @@ Khāli	2998	7954	722	0
 Kālibeli	2174	7415	186	0
 Kaliānpura	2668	7480	446	0
 Kālīdūngrī	2664	7485	446	0
-Kālīradī	2654	7500	446	0
+Kālīradī	2654	7500	446	0	Kadampura
 Khera Kāli Magri	2524	7424	309	0
 Kaliānpura	2525	7442	309	0
 Narāhia Kaliān	2626	8412	535	0
@@ -864,7 +864,7 @@ Jhīura Kaliānpur	2849	7981	683	0
 Kāli Mathtola	2507	8487	527	0
 Kāli Bigha	2490	8413	409	0
 Khalīlpur	2450	8403	701	0
-Khalīlpur	2451	8404	701	0
+Khalīlpur	2451	8404	701	0	Pipabār
 Kālīrātri	2241	7655	322	0
 Kālībāi	2279	7690	322	0
 Kāli Mitti	2590	8018	645	0

@@ -6,7 +6,7 @@ Daund	1847	7458	52	49450
 Dhaurahra	2800	8109	323	20098
 Daulatpur	3227	7563	692	12988
 Daurāla	2911	7770	700	10915
-Dāūji	2741	7782	177	10536
+Dāūji	2741	7782	177	10536	Baldev
 Daulatābād	1994	7522	113	10000
 Daulatpur	2533	8833	25	7620
 Daundi Lohara	2079	8106	668	6045
@@ -33,7 +33,7 @@ Dauconda	1535	7412	102	0
 Dāūdsar	2819	7469	539	0
 Daulalpur	2230	8818	4	0
 Dāūd Mazro	3070	7609	674	0
-Dāud Mājra	3070	7609	674	0
+Dāud Mājra	3070	7609	674	0	Dāūd Mazro
 Daulatpur	2996	7694	501	0
 Chak Daulat	3255	7498	720	0
 Daulatpura	2589	7567	313	0
@@ -154,13 +154,13 @@ Dhausra	2195	7811	462	0
 Daulatpur	2920	7765	700	0
 Daulatpura	2541	7636	371	0
 Daulatpura	2589	7652	116	0
-Daulatpura	2588	7651	116	0
+Daulatpura	2588	7651	116	0	Mānnagar
 Dhaulpalia	2944	7457	585	0
 Daulewāla	3098	7511	499	0
 Daulatpur Uncha	3088	7502	499	0
 Daulatpur Nīwān	3088	7503	499	0
 Daulatpura	2562	7661	335	0
-Daulatpura	3019	7516	563	0
+Daulatpura	3019	7516	563	0	Gosal
 Shekh Daulat	3088	7543	674	0
 Dāūdi	2511	7458	417	0
 Dhaula	3029	7546	726	0
@@ -197,7 +197,7 @@ Dhaulās	3039	7801	448	0
 Daurwāla	3025	7803	448	0
 Dhaulāgiri	3035	7818	500	0
 Daunku	3040	7823	500	0
-Daulatpur	2940	7872	575	0
+Daulatpur	2940	7872	575	0	Bhangarwāla
 Dhaula Kuān	2948	7861	575	0
 Daunkpurī	2893	7910	552	0
 Dhaunrera	2848	7912	342	0
@@ -231,7 +231,7 @@ Dāudpur	3027	7663	691	0
 Dāūdpur	1817	7654	158	0
 Dautāna	2776	7748	177	0
 Dauroli	2756	7702	482	0
-Daulabās	2769	7720	114	0
+Daulabās	2769	7720	114	0	Nagla Mukārab
 Baroli Dhāu	2758	7721	114	0
 Daulatpur	2781	7761	177	0
 Dhaurera	2755	7767	177	0
@@ -283,10 +283,10 @@ Nagla Dāūd	2754	7794	670	0
 Daulatābād	1787	7780	31	0
 Dhaunāi	2367	7913	352	0
 Nagla Dauli	2767	7852	711	0
-Daulatpur	2764	7869	711	0
+Daulatpur	2764	7869	711	0	Khangarpur
 Dhaulesar	2760	7850	711	0
 Nagla Dauli	2762	7864	711	0
-Daulatpur	2754	7852	711	0
+Daulatpur	2754	7852	711	0	Khangārpur
 Daura	2354	7992	598	0
 Daulatpur Karkha	2700	7864	403	0
 Dhaunai	2700	7866	403	0
@@ -401,7 +401,7 @@ Dhaunkal Khera	2500	8033	525	0
 Dhaurehra	2559	8109	728	0
 Daulatpur	2553	8109	728	0
 Dhaurahra	2565	8220	32	0
-Sarāi Dāūd	2562	8209	607	0
+Sarāi Dāūd	2562	8209	607	0	Dhakpura
 Dhaura	2513	7916	433	0
 Dauria	2510	7940	663	0
 Dhaurra	2505	7942	525	0
@@ -468,7 +468,7 @@ Dhaunsarh	2563	8057	463	0
 Dāudpur	2378	7849	352	0
 Dhaurai	2430	7848	352	0
 Dhaurhi Muāfi	2526	8072	643	0
-Daulatpur	2396	7634	16	0
+Daulatpur	2396	7634	16	0	Nayāgaon
 Daulatpur	2436	7857	384	0
 Dhaura	2429	7861	352	0
 Dhauri	2429	7886	384	0
@@ -526,7 +526,7 @@ Dhaulākuān	2842	7581	431	0
 Dauwādol	2433	8220	631	0
 Dhauhani	2413	8209	631	0
 Dhaur	2866	7661	609	0
-Daunruā	2572	8246	32	0
+Daunruā	2572	8246	32	0	Danwaruā
 Dāūdpur	2570	8243	32	0
 Dāūdpur	2558	8240	32	0
 Dauli Khera	2654	8077	312	0
@@ -879,7 +879,7 @@ Daulatpura	3103	7475	566	0
 Daulat	3186	7508	487	0
 Daulowāl	3195	7513	487	0
 Daud	3161	7524	222	0
-Dhāuri	2929	7637	367	0
+Dhāuri	2929	7637	367	0	Ashrafgarh
 Dhaulra	2948	7750	545	0
 Dhaulri	2947	7751	545	0
 Daulatpur Mājra	2938	7774	545	0
@@ -975,7 +975,7 @@ Dhauni Dogri	3121	7787	479	0
 Dhaurābhāta	2047	8258	594	0
 Dhaulra	3019	7751	449	0
 Daulatpur	3014	7750	449	0
-Dāūdpur	3010	7760	449	0
+Dāūdpur	3010	7760	449	0	Muhammad Amīnpur
 Daurādahtolī	2392	8391	743	0
 Daura	3093	7786	448	0
 Daulagarh	2812	7733	754	0
@@ -1054,7 +1054,7 @@ Dhaunri	2969	7908	612	0
 Daun	2951	7922	551	0
 Dhauliyāni	2952	7924	551	0
 Daulatpur	2560	8468	377	0
-Daulatpura	2538	7315	273	0
+Daulatpura	2538	7315	273	0	Dholpura
 Ūjhāni Daulī	2922	7914	641	0
 Beriā Daulat	2913	7924	641	0
 Daunkhpūri	2905	7923	641	0
@@ -1258,7 +1258,7 @@ Daulatpur	2546	8560	604	0
 Daulatpur Chondi	2547	8570	604	0
 Dāudkhedi	2171	7581	329	0
 Daureddiguda	1768	7899	129	0
-Daulatpur	2618	8756	667	0
+Daulatpur	2618	8756	667	0	Duba
 Qāmat Daulatpur	2617	8755	667	0
 Daulatpur	2617	8755	667	0
 Daulatpur	2620	8767	667	0
@@ -1309,7 +1309,7 @@ Dhaurā-anjan	2248	8489	495	0
 Dauberāburu	2293	8571	653	0
 Dausokoe	2245	8564	287	0
 Daudongoa	2239	8572	287	0
-Dauri	2189	8596	382	0
+Dauri	2189	8596	382	0	Deoli
 Dauriaposh	2173	8585	293	0
 Dauriaposi	2169	8588	293	0
 Daudpur Itwa	2499	8584	690	0
@@ -1324,7 +1324,7 @@ Dhaurāpāli	2096	8446	414	0
 Dhaurākhamān	2093	8429	567	0
 Daulatpur	2088	8437	414	0
 Dhauragoth	2089	8468	414	0
-Daulatpur	2562	8199	607	0
+Daulatpur	2562	8199	607	0	Rāmpur
 Daulatpur	2646	8304	647	0
 Dāūd Chak	2569	8353	26	0
 Dhaurabhāta	2157	8226	379	0

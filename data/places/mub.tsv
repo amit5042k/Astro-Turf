@@ -1,7 +1,7 @@
 Mubarakpur	2609	8329	498	53263
 Mubārakpur Dobās	2871	7704	689	12043
 Mubārikpur	3061	7686	632	5217
-Mubārakpur	3061	7686	632	5217
+Mubārakpur	3061	7686	632	5217	Mubārikpur
 Mubārakpur Net	2571	8370	26	1140
 Mubārakpur	1766	7803	31	0
 Mubāraspur	1796	7861	466	0
@@ -14,7 +14,7 @@ Mubārakpur	3338	7428	504	0
 Nāngal Mubārikpur	2789	7696	544	0
 Mubārikpur	2769	7685	482	0
 Mubārikpur	2752	7693	482	0
-Fīrozpur Mubārak	2942	7815	575	0
+Fīrozpur Mubārak	2942	7815	575	0	Nawāgaon
 Mubārakpur	2933	7814	575	0
 Mubārikābād	2958	7701	457	0
 Mubārakpur	2977	7729	449	0
@@ -36,14 +36,14 @@ Mubārikpur	2785	7767	177	0
 Mubārakpur	2827	7781	637	0
 Mubārakpur	1817	7773	31	0
 Mubārikpur Nidaulī	2735	7827	546	0
-Mubārakpur	2090	7827	143	0
+Mubārakpur	2090	7827	143	0	Muhammadpur
 Mubārakpur	2756	7885	711	0
-Mubārikpur	2704	7798	546	0
+Mubārikpur	2704	7798	546	0	Māragpur
 Mubārikpur	2788	7720	544	0
 Mubārakpurpatti	2723	7952	688	0
 Mubārakpur	2556	7740	436	0
 Mubārakpur	2742	7979	686	0
-Mubārakpur	2517	7769	436	0
+Mubārakpur	2517	7769	436	0	Gilhari
 Mubārakpur	2413	7746	215	0
 Mubārikpur	2418	7778	215	0
 Mubārikpur	2777	7842	670	0
@@ -94,7 +94,7 @@ Mubārakpur	2652	8084	312	0
 Mubārikpur	2840	7654	519	0
 Mubārakpur	2619	8094	681	0
 Mubārikpur Bāngar	2919	7819	575	0
-Mubārakpur	2961	7830	575	0
+Mubārakpur	2961	7830	575	0	Kalheri
 Mubārakpur Sahārn	2946	7834	575	0
 Karīmpur Mubārak	2936	7839	575	0
 Purwa Mubin Khān	2742	8108	507	0
@@ -131,10 +131,10 @@ Mubārakpur Chak	2803	7982	470	0
 Mubārikpur	2858	7871	646	0
 Mubāraknagar	2847	7865	646	0
 Sarāi Mubārak	2625	8115	681	0
-Mubārakpur	2659	8173	629	0
+Mubārakpur	2659	8173	629	0	Chaubepur
 Mubārakganj	2678	8191	629	0
 Mubārikpur	2826	7896	117	0
-Deoria Mubārakpur	2735	8223	280	0
+Deoria Mubārakpur	2735	8223	280	0	Suchit Deoria
 Mubārakhpur	2733	8235	280	0
 Haji Mubārak Alī	2732	8240	280	0
 Mubārakpur	2713	8231	280	0
@@ -158,8 +158,8 @@ Mubārakpur	2622	8268	597	0
 Tarauli Mubārakpur	2655	8283	553	0
 Chak Mubārak	2670	8297	154	0
 Mubārakpur	2588	8330	498	0
-Mubārakpur	2579	8332	26	0
-Mubārakpur	2579	8334	26	0
+Mubārakpur	2579	8332	26	0	Bāro Dīh
+Mubārakpur	2579	8334	26	0	Bāro Dīh
 Mubārakpur	2588	8335	586	0
 Patna Mubārakpur	2647	8280	553	0
 Mubārakpur Khās	2628	8292	498	0
@@ -200,7 +200,7 @@ Mubārakpur	2716	8115	30	0
 Mubārakpur	3121	7617	296	0
 Mubārakpur	3116	7612	295	0
 Mubārakpūr	2845	7812	637	0
-Mūbārikpur	2817	7816	637	0
+Mūbārikpur	2817	7816	637	0	Madanpur
 Alipur Mubārakpur	2816	7808	637	0
 Mubārakpur	2685	8153	30	0
 Koilāra Mubārakpur	2650	8158	662	0
@@ -224,7 +224,7 @@ Mubārakpur	2556	8597	530	0
 Mubārakpur	2548	8612	530	0
 Mubārakpur	2547	8617	530	0
 Mubārak Chak	2537	8649	538	0
-Mubārakpur	2569	8661	661	0
+Mubārakpur	2569	8661	661	0	Mamarkha
 Mubarikpur	2671	7910	290	0
 Mubārakpur	2477	8486	118	0
 Mubārakpur	2483	8484	118	0
@@ -240,5 +240,5 @@ Mubārakpur	2582	8572	138	0
 Mubārakpur	2533	8558	514	0
 Mubārakpur	2543	8566	604	0
 Mubarakpur	2783	8022	323	0
-Mubārakpur	2735	8017	686	0
+Mubārakpur	2735	8017	686	0	Nāyāgāon
 Mubārakpur	2575	8369	26	0

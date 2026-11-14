@@ -1,16 +1,16 @@
-Kūdalūr	1176	7977	178	173636
-Kudanthai	1096	7939	264	167155
+Kūdalūr	1176	7977	178	173636	Cuddalore
+Kudanthai	1096	7939	264	167155	Kumbakonam
 Kudappanakkunnu	855	7696	219	41583
 Kūdligi	1490	7639	366	26680
 Kūdlu	1253	7498	305	26235
 Kudachi	1663	7485	77	23154
-Kudchi	1663	7485	77	23154
-Khud Kāshta	2603	8292	498	17849
+Kudchi	1663	7485	77	23154	Kudachi
+Khud Kāshta	2603	8292	498	17849	Sarāi Mīr
 Kuda	2589	9374	753	16108
 Kudāl	1601	7369	213	16015
 Kudali	1192	7547	266	15236
-Kudavāsal	1086	7948	267	14639
-Kudavāsa	1086	7948	267	14639
+Kudavāsal	1086	7948	267	14639	Kodavasal
+Kudavāsa	1086	7948	267	14639	Kodavasal
 Khudāganj	2815	7971	470	12636
 Kudwā	2148	8019	171	11549
 Kudus	1953	7310	192	7204
@@ -21,7 +21,7 @@ Kulur Kudrū	1292	7482	55	0
 Kudūru	1311	7716	626	0
 Kudurgaon	1924	8150	659	0
 Kudumulagumma	1838	8218	109	0
-Kudumuluguma	1838	8218	109	0
+Kudumuluguma	1838	8218	109	0	Kudumulagumma
 Kudsu	2755	7335	307	0
 Kudpura	2342	7930	521	0
 Kudor	3441	7477	120	0
@@ -32,7 +32,7 @@ Kudayattūr	980	7680	258	0
 Kudatini	1520	7676	44	0
 Kudarsāhi	2248	8628	584	0
 Kudarkot	2681	7939	715	0
-Kudarkut	2681	7939	715	0
+Kudarkut	2681	7939	715	0	Kudarkot
 Kūdangulam	819	7771	191	0
 Kudān	1980	7309	192	0
 Kudālia	2455	7135	134	0
@@ -43,17 +43,17 @@ Kuda	2315	7122	108	0
 Kuda	1828	7307	17	0
 Khudāla	2537	7181	285	0
 Khudīyāla	2652	7269	344	0
-Khudiala	2652	7269	344	0
+Khudiala	2652	7269	344	0	Khudīyāla
 Khudāni	2587	7070	285	0
 Khudäganj	2719	7967	688	0
-Khudaeganj	2719	7967	688	0
+Khudaeganj	2719	7967	688	0	Khudäganj
 Khudāganj	2508	8522	514	0
 Kudra	2505	8379	749	0
 Khudera Chhota	2812	7476	539	0
-Khudero Choto	2812	7476	539	0
+Khudero Choto	2812	7476	539	0	Khudera Chhota
 Khudera Bara	2813	7477	539	0
-Khudero Barp	2813	7477	539	0
-Khudpathri	3435	7480	120	0
+Khudero Barp	2813	7477	539	0	Khudera Bara
+Khudpathri	3435	7480	120	0	Kutpathri
 Kudar	3441	7477	120	0
 Khudmarg	3424	7485	595	0
 Khudriwāla	3434	7406	0	0
@@ -61,7 +61,7 @@ Khudrora	3298	7437	504	0
 Kudāglo	3298	7450	581	0
 Khudda	3287	7492	581	0
 Khudiri	3460	7398	0	0
-Khudi	3460	7398	0	0
+Khudi	3460	7398	0	0	Khudiri
 Khudiān	3461	7400	0	0
 Khūdāna	2973	7744	449	0
 Khudāna	2841	7612	694	0
@@ -71,14 +71,14 @@ Kudlu Gate Hosur Road	1289	7764	43	0
 Pharna Kudi	2465	7552	655	0
 Rāwali Kudi	2460	7551	655	0
 Khudāniya	2833	7555	300	0
-Khudania	2833	7555	300	0
+Khudania	2833	7555	300	0	Khudāniya
 Khudiyān Bās	2828	7555	300	0
 Khudiyān	2828	7556	300	0
 Khudāna	2819	7553	300	0
 Khudot	2815	7566	300	0
 Kudra	2711	7941	570	0
 Khudiāpur	2709	7978	570	0
-Kudaiya	2699	7900	464	0
+Kudaiya	2699	7900	464	0	Kodaiya
 Khudesar	2687	7905	290	0
 Kudra	2649	7903	334	0
 Khudādādpura	2629	7921	741	0
@@ -175,7 +175,7 @@ Kudhari	2701	7952	570	0
 Kudoniya	2533	7741	436	0
 Kudāra	2431	7702	336	0
 Kudāra	2429	7703	336	0
-Kudanyāi	2423	7760	215	0
+Kudanyāi	2423	7760	215	0	Kundankheri
 Kudhār	2792	7857	616	0
 Nagla Khudda	2789	7869	616	0
 Kudikwāpur	2644	7999	671	0
@@ -501,7 +501,7 @@ Kūdūru	1763	8174	268	0
 Kuda	2343	7385	512	0
 Kudariya	2568	8460	377	0
 Khudāganj	2901	7917	552	0
-Mazra Khudā Bakhsh	2918	7918	641	0
+Mazra Khudā Bakhsh	2918	7918	641	0	Namūna
 Khudauil	2955	7949	429	0
 Kudawal	2251	7470	155	0
 Khudalia	2938	7937	551	0
@@ -567,7 +567,7 @@ Kudagalumane	1383	7545	346	0
 Kudamallige	1373	7529	346	0
 Kuduvanti	1367	7534	346	0
 Kuduvalli	1358	7525	98	0
-Kuduvalli	1357	7526	98	0
+Kuduvalli	1357	7526	98	0	Kāginagali
 Kudregundi	1355	7542	98	0
 Khudiyāmāl	2224	7672	209	0
 Kudukoli	1309	7534	55	0
@@ -785,8 +785,8 @@ Kudādīh	2302	8533	432	0
 Kudāpurti	2300	8543	432	0
 Khudiā	2350	8555	562	0
 Bāghā Kudar	2350	8570	391	0
-Kudāpālu	2352	8573	391	0
-Mahādeo Kudar	2355	8575	391	0
+Kudāpālu	2352	8573	391	0	Purabdih
+Mahādeo Kudar	2355	8575	391	0	Dhamnātānr
 Kudāgarā	2328	8551	562	0
 Kudādīh	2325	8575	562	0
 Kudādīh	2321	8567	562	0

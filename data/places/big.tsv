@@ -1,7 +1,7 @@
 Bar Bigha	2522	8573	690	41758
 Bhigvan	1830	7477	52	8753
 Bīghāpur Khurd	2635	8066	312	6409
-Bighāpur	2635	8066	312	6409
+Bighāpur	2635	8066	312	6409	Bīghāpur Khurd
 Pai Bigha	2505	8492	118	0
 Bīgod	2521	7497	309	0
 Bigga	2806	7414	307	0
@@ -21,12 +21,12 @@ Bhiguru	3070	7765	534	0
 Bhiguru	3070	7766	534	0
 Bigharra	2322	7858	338	0
 Bigiāna	2927	7744	545	0
-Bīghāpur	2856	7772	756	0
+Bīghāpur	2856	7772	756	0	Kirpānagar
 Bighepur	2825	7773	637	0
 Bigharwāl	3013	7586	593	0
 Bighān	2907	7705	485	0
 Atthāraha Bīgha	3040	7806	448	0
-Bighās	2874	7785	756	0
+Bighās	2874	7785	756	0	Habashpur
 Bigaur	2751	7870	711	0
 Bighaipur	2776	7803	670	0
 Bighrai	2721	7887	464	0
@@ -1113,7 +1113,7 @@ Koiri Bigha	2493	8483	118	0
 Chaturi Bigha	2490	8478	118	0
 Murār Bigha	2491	8483	118	0
 Sīta Bigha	2488	8479	118	0
-Rāni Bigha	2489	8483	118	0
+Rāni Bigha	2489	8483	118	0	Beli
 Chulhān Bigha	2487	8483	118	0
 Laliya Bigha	2486	8483	118	0
 Panda Bigha	2486	8477	118	0

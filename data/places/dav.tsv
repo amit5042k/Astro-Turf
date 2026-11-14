@@ -1,21 +1,21 @@
 Davangere	1447	7593	275	435128
-Davangeri	1447	7593	275	435128
-Davanagiri	1447	7593	275	435128
+Davangeri	1447	7593	275	435128	Davangere
+Davanagiri	1447	7593	275	435128	Davangere
 Davorlim	1527	7399	102	15350
-Davlameti	2116	7897	141	14545
+Davlameti	2116	7897	141	14545	Deolimet
 Dāvrapāda	1880	7308	17	5389
 Fort Saint David	1174	7979	178	0
 Dhawān	2680	7675	447	0
 Dhawalpur Kalān	2039	8225	297	0
-Dhawalpur	2039	8225	297	0
+Dhawalpur	2039	8225	297	0	Dhawalpur Kalān
 Dhawalpuri	1918	7453	152	0
 Dhāvdi	2163	7533	248	0
 Dhavalagi	1643	7612	80	0
-Dhavalgi	1643	7612	80	0
+Dhavalgi	1643	7612	80	0	Dhavalagi
 Dāwarwāri	1954	7551	113	0
 Dawaniwāra	2151	8006	171	0
-Dawaniwada	2151	8006	171	0
-Dawaniwāi	2151	8006	171	0
+Dawaniwada	2151	8006	171	0	Dawaniwāra
+Dawaniwāi	2151	8006	171	0	Dawaniwāra
 Dawāmi	2587	8357	26	0
 Dhāwa	2682	7394	430	0
 Daw	2643	7044	217	0
@@ -26,7 +26,7 @@ Davīpur	3033	7790	448	0
 Dhāwar ki Jhonpari	2564	7554	353	0
 Dhāvra ka Bāra	2560	7561	353	0
 Dhāvra	2559	7560	353	0
-Davalya	2597	7564	313	0
+Davalya	2597	7564	313	0	Devalya
 Dawāru	3124	7701	479	0
 Davra	2998	7856	612	0
 Dawalāpur	1773	7821	31	0
@@ -39,7 +39,7 @@ Dawālikhera	2402	7899	352	0
 Dhawākhera	2715	7936	464	0
 Dhawākhera	2715	7931	464	0
 Dawāh	2704	7932	464	0
-Dhāwās	2689	7572	121	0
+Dhāwās	2689	7572	121	0	Dhaiwās
 Dhawāri	2551	7908	433	0
 Dhawār	2537	7942	614	0
 Dāwāguri Number One	2646	8990	713	0
@@ -158,7 +158,7 @@ Davlatpur	2596	8073	728	0
 Dhawākhadi	2443	8389	701	0
 Dawārtola	2434	8384	701	0
 Dhavalsar	2037	7794	67	0
-Dawantdāg	2400	8380	743	0
+Dawantdāg	2400	8380	743	0	Daunādāg
 Davani	2797	7628	482	0
 Dāwar	2546	7888	529	0
 Dāwari	2400	7816	215	0
@@ -180,7 +180,7 @@ Dhāwa	2478	8203	516	0
 Dhāwa	2477	8203	516	0
 Dhavaiyātola	2421	8244	631	0
 Dhāwāpur	2667	8085	714	0
-Dhawāsāwāla	2950	7830	575	0
+Dhawāsāwāla	2950	7830	575	0	Aurangzebpur Gulāl
 Dawānna	2619	8090	681	0
 Dawanna	2621	8085	681	0
 Dawindāpur	2733	8120	507	0
@@ -303,7 +303,7 @@ Dhawniyān	2524	8403	409	0
 Dhāwa	2510	8418	409	0
 Dhawai	2528	8425	409	0
 Dhawa	2487	8433	137	0
-Dāwad	2274	7660	322	0
+Dāwad	2274	7660	322	0	Rāmtek
 Dāwad	2274	7662	322	0
 Dāwadpura	2262	7674	322	0
 Davanhalli	1328	7770	389	0
@@ -314,7 +314,7 @@ Dhawokhar	2516	8620	589	0
 Dhawātānr	2488	8600	524	0
 Davem	1555	7418	188	0
 Dawāwan Muhallāh	2561	8522	604	0
-Dawtikri	2509	8768	461	0
+Dawtikri	2509	8768	461	0	Sonda
 Dhawadāngal	2454	8753	658	0
 Dhawādānga	2473	8775	658	0
 Dhawāpahāri	2469	8775	658	0
@@ -332,7 +332,7 @@ Dhāwādāngal	2420	8766	669	0
 Dhawādānga	2469	8775	658	0
 Dhāwādānga	2456	8781	361	0
 Dāwa Bigha	2521	8525	514	0
-Dhawa	2581	8558	716	0
+Dhawa	2581	8558	716	0	Rāghopur Asidha
 Davancheruvu	1774	7884	129	0
 Dāvargaon	2002	7569	53	0
 Davol	2241	7295	157	0

@@ -1,7 +1,7 @@
 Hamīrpur	2596	8015	645	34144
 Hamīrpur	3168	7653	281	19280
 Hamīrgarh	2519	7463	309	11678
-Hamūr	1209	7730	69	11066
+Hamūr	1209	7730	69	11066	Hanūr
 Hampi	1534	7646	366	10000
 Hamren	2585	9257	330	8747
 Seer Hamdan	3379	7524	148	8233
@@ -9,12 +9,12 @@ Hīrāpur Hamesha	2156	7979	404	6069
 Hāmre	3421	7451	301	1772
 Inder Hama	3417	7486	611	294
 Hampāsāgaram	1512	7603	366	0
-Hampasagar	1512	7603	366	0
+Hampasagar	1512	7603	366	0	Hampāsāgaram
 Hampāpura	1212	7647	74	0
 Hampāpatnam	1511	7628	366	0
-Hampaptnam	1511	7628	366	0
+Hampaptnam	1511	7628	366	0	Hampāpatnam
 Hamīr	2700	7107	217	0
-Hamīra	2700	7107	217	0
+Hamīra	2700	7107	217	0	Hamīr
 Hamiling	3366	7663	8	0
 Hāmidnagar	2506	8464	137	0
 Hāmdalau	3441	7499	595	0
@@ -27,7 +27,7 @@ Hamīrpur Colony	3279	7452	581	0
 Hamīrpur Sīdhar	3278	7453	581	0
 Purāna Hamīrpur	3277	7455	581	0
 Hamīrpur	3015	7776	449	0
-Hamīrpur	2976	7715	449	0
+Hamīrpur	2976	7715	449	0	Shāhalīpur
 Hamīdpur	2809	7604	694	0
 Hamidullahnagar	1722	7839	62	0
 Hamīrgarh	2454	7571	580	0
@@ -38,7 +38,7 @@ Hamīrwās	2801	7548	300	0
 Hamīri ki Dhāni	2818	7541	300	0
 Hamīrī Khurd	2818	7538	300	0
 Hamīri	2818	7539	300	0
-Hamīri Kalān	2818	7539	300	0
+Hamīri Kalān	2818	7539	300	0	Hamīri
 Hamīri ka Bās	2818	7541	300	0
 Hamīrwās	2823	7575	300	0
 Hamīrsingh ki Dhāni	2768	7281	307	0
@@ -52,7 +52,7 @@ Hamīrwāli Nādi	2732	7130	217	0
 Hāmusar	2818	7447	539	0
 Hāmla	2303	6931	108	0
 Hamsaladevi	1599	8110	68	0
-Hamsalodevi	1599	8110	68	0
+Hamsalodevi	1599	8110	68	0	Hamsaladevi
 Hamīrpur	2844	7690	630	0
 Hamora	3141	7723	278	0
 Hāmpathar	3470	7434	0	0
@@ -78,10 +78,10 @@ Hamīrgarh	3048	7514	563	0
 Hamīrpura	2508	7451	417	0
 Hambrān	3094	7567	674	0
 Hamidi	3047	7561	726	0
-Hamirgarh	3009	7561	709	0
+Hamirgarh	3009	7561	709	0	Dhaipai
 Hambal Bās	3006	7574	593	0
 Hamīdpur	2883	7715	769	0
-Hamīdābād	2895	7724	477	0
+Hamīdābād	2895	7724	477	0	Nayāgāon
 Hamīdpur	2842	7772	637	0
 Hāmpura	2424	7389	22	0
 Hamzāpur	2963	7556	443	0
@@ -89,8 +89,8 @@ Hamirpur	2471	7250	23	0
 Hamūr	3340	7632	547	0
 Hāmjheri	2992	7605	564	0
 Hamīrgarh	2967	7609	367	0
-Hamzāpur Kather	2943	7850	575	0
-Husainpur Hamīd	2936	7850	575	0
+Hamzāpur Kather	2943	7850	575	0	Kather
+Husainpur Hamīd	2936	7850	575	0	Hāviwāla
 Hamīdpur	2935	7854	575	0
 Hamīrpur	2476	7686	336	0
 Hāmidpur	2808	7756	543	0
@@ -108,7 +108,7 @@ Hamdāpur	2073	7882	143	0
 Hamīrpur	2723	7854	403	0
 Garhia Hamauli	2785	7886	616	0
 Nagla Hamīdganj	2778	7877	616	0
-Hamīra	2235	7912	337	0
+Hamīra	2235	7912	337	0	Khairi
 Hamīrpur	2761	7885	616	0
 Hamīrpur	2760	7894	616	0
 Hamīrpura	2669	7837	478	0
@@ -189,7 +189,7 @@ Hamīrpur	2729	8167	294	0
 Hamidpur	2673	8122	30	0
 Hamīdpur	2696	8140	30	0
 Hamīdnagar	2690	8145	30	0
-Hamīdpur	2902	7847	483	0
+Hamīdpur	2902	7847	483	0	Kauntūpura
 Bālāpui Hamesha	2134	7999	171	0
 Hāma Nagli	2908	7860	575	0
 Hamīrāwāla	2931	7882	641	0
@@ -232,7 +232,7 @@ Hamzāpur	2624	8254	597	0
 Hamzāpur	2607	8259	32	0
 Hamīrpur	2623	8270	498	0
 Hamzahpur	2611	8275	498	0
-Hamīdpur	2577	8342	26	0
+Hamīdpur	2577	8342	26	0	Dhāmūpur
 Hamza Patti	2648	8287	553	0
 Hamīdpur	2622	8292	498	0
 Hamīrpur	2628	8312	498	0
@@ -255,7 +255,7 @@ Hamīrpura	2224	7597	329	0
 Hamnāpur Tolā	2272	8031	480	0
 Hamza	3178	7497	222	0
 Hāmidwāla Hithār	3108	7487	566	0
-Chak Hāmid	3108	7477	566	0
+Chak Hāmid	3108	7477	566	0	Dullewāli
 Hāmidwāla	3100	7480	566	0
 Lendejharī Hamesha	2125	8009	171	0
 Hambowāl	3184	7545	487	0
@@ -347,7 +347,7 @@ Hampapura	1283	7588	193	0
 Hamīdpur	2562	8697	657	0
 Hamīdpura	3163	7477	222	0
 Hamirpur Ruru	2684	7942	715	0
-Hamsadurga	1548	7635	66	0
+Hamsadurga	1548	7635	66	0	Hosūru
 Hampāpatna Obalāpuram	1508	7630	366	0
 Hampādevanahalli	1533	7668	366	0
 Hamanur	1258	7561	55	0

@@ -1,15 +1,15 @@
-Gauhāti	2618	9175	359	962334
+Gauhāti	2618	9175	359	962334	Guwahati
 Gauriganj	2621	8169	662	390395
 Gauribidanur	1361	7752	438	37947
-Gauibidanur	1361	7752	438	37947
+Gauibidanur	1361	7752	438	37947	Gauribidanur
 Gauripur	2608	8996	561	25124
 Gaurela	2275	8190	757	18165
-North Gauhāti	2620	9172	636	17516
+North Gauhāti	2620	9172	636	17516	North Guwāhāti
 Gautampura	2299	7552	660	14584
-Runji-Gautampura	2299	7552	660	14584
+Runji-Gautampura	2299	7552	660	14584	Gautampura
 Ghaura	2451	7908	663	13301
 Gauharpur	2554	8523	604	2685
-Gaur	2529	8278	251	0
+Gaur	2529	8278	251	0	Mirza Murād
 Gauma Kalān	2494	7985	663	0
 Ghauspur	2561	8370	26	0
 Ghausganj	2708	8029	686	0
@@ -27,10 +27,10 @@ Gaupur	2577	8571	138	0
 Gaundre	1832	7536	132	0
 Gaundongrem	1503	7412	102	0
 Gauli Palāsiya	2253	7573	660	0
-Gauli Palāsia	2253	7573	660	0
+Gauli Palāsia	2253	7573	660	0	Gauli Palāsiya
 Gaul	2215	7623	209	0
 Gaudagoth	1962	8430	440	0
-Gauripur	2291	8841	450	0
+Gauripur	2291	8841	450	0	Garifa
 Dodda Gaudanakoppal	1258	7665	94	0
 Gauripur	2259	8807	354	0
 Gaura	3318	7421	504	0
@@ -53,7 +53,7 @@ Gaurāipalli	1795	7890	466	0
 Gaurāram	1777	7865	466	0
 Gauripalli	1767	7895	129	0
 Gaudavalli	1761	7847	311	0
-Gaudelli	1761	7847	311	0
+Gaudelli	1761	7847	311	0	Gaudavalli
 Gaurākhera	2509	7876	529	0
 Gaudana	2417	7814	352	0
 Gaudhu	2416	7843	352	0
@@ -66,7 +66,7 @@ Gauntia Ghāram	2798	7949	470	0
 Gauntia Atu	2798	7949	470	0
 Murāwan Gauntia	2793	7949	470	0
 Gauntara	2787	7933	117	0
-Ghausganj	2787	7941	117	0
+Ghausganj	2787	7941	117	0	Baghaura
 Gaunāra	2772	7965	470	0
 Gauntia	2762	7959	470	0
 Gauntia Patti	2755	7971	470	0
@@ -78,8 +78,8 @@ Gauriāpur	2709	7979	570	0
 Gauriāpur	2706	7975	570	0
 Ghauspur	2698	7918	290	0
 Gaurādiālpur	2692	7908	290	0
-Gaurādayālpur	2692	7908	290	0
-Gaurāpur	2681	7905	290	0
+Gaurādayālpur	2692	7908	290	0	Gaurādiālpur
+Gaurāpur	2681	7905	290	0	Bhikhan ka Nagla
 Purwa Gauri	2698	7975	570	0
 Purwa Gaurwāri	2694	7971	570	0
 Gāupur	2660	7980	671	0
@@ -90,7 +90,7 @@ Gaura Khās	2521	8233	525	0
 Gaudgaon	1806	7597	132	0
 Gaula	1978	7761	67	0
 Gaurgaon	2007	8206	297	0
-Gauragaon	2007	8206	297	0
+Gauragaon	2007	8206	297	0	Gaurgaon
 Gaurella	2285	8191	757	0
 Khadar Gaughat	2656	7876	334	0
 Gaumukh	2433	7728	336	0
@@ -132,7 +132,7 @@ Gaurīpur	2895	7731	477	0
 Ghauspur	2898	7735	477	0
 Gauna	2884	7739	477	0
 Gaunchhr	2834	7729	774	0
-Burj Gaura	3041	7598	593	0
+Burj Gaura	3041	7598	593	0	Seda Singh
 Gaushāla	2918	7577	339	0
 Gaushāla	2881	7616	431	0
 Gaurdārang	3157	7806	83	0
@@ -140,7 +140,7 @@ Gaukh	3055	7954	183	0
 Gaupura	2451	7640	333	0
 Gaumukh	2433	7685	336	0
 Gaudpura	2601	7536	313	0
-Ghaus Mohīuddīnpur	2879	7789	756	0
+Ghaus Mohīuddīnpur	2879	7789	756	0	Chitnaura
 Gaundi	2870	7781	756	0
 Ghausgarh	3095	7624	674	0
 Gaundgaon	1915	7636	153	0
@@ -229,7 +229,7 @@ Ghauspur	2727	7962	688	0
 Gauntia	2743	7964	688	0
 Gauhania	2761	7989	686	0
 Gauntia	2774	7993	470	0
-Gaūghaza	2717	7963	570	0
+Gaūghaza	2717	7963	570	0	Gapchariāpur
 Gauntia	2797	7978	470	0
 Gauntia	2790	7978	470	0
 Gauntia	2797	7985	470	0
@@ -272,7 +272,7 @@ Gauri	2616	7989	671	0
 Gaura	2563	7984	645	0
 Gauhāni Rāth	2553	7963	645	0
 Ghausganj	2508	8029	663	0
-Gauri Fakhrdīn	2509	8035	326	0
+Gauri Fakhrdīn	2509	8035	326	0	Nawa Khera
 Gauhāni	2512	8035	326	0
 Gauri Saiyid Tālib	2503	8031	463	0
 Gauri Badūr	2502	8037	326	0
@@ -423,7 +423,7 @@ Gaura	2548	8235	583	0
 Gauharpur	2538	8228	607	0
 Gauharpur Dubaha	2539	8230	607	0
 Gaurāpatti	2550	8249	32	0
-Gaura	2517	8229	201	0
+Gaura	2517	8229	201	0	Deori
 Gautam Bari	2515	8237	201	0
 Gauria Khurd	2511	8226	607	0
 Gaurāpatti	2550	8251	32	0
@@ -467,7 +467,7 @@ Utra Gauri	2612	8098	681	0
 Purwa Gauri Dichhit	2611	8099	681	0
 Gaura Rupai Pir Alipur	2611	8094	681	0
 Gaura	2601	8093	728	0
-Gaunspur	2944	7835	575	0
+Gaunspur	2944	7835	575	0	Sabdalpur
 Gaurwa	2462	8237	201	0
 Gaukunda	2469	8273	103	0
 Purwa Gauri	2794	8103	323	0
@@ -559,7 +559,7 @@ Gauriya	2517	8117	643	0
 Gaudhan	2707	8076	714	0
 Gauraiyāh	2700	8078	714	0
 Gauria	2634	8040	469	0
-Gaushala	2643	8040	469	0
+Gaushala	2643	8040	469	0	Muzaffarpur
 Gaurdin Purwa	2722	8155	294	0
 Kasmand Gauria	2711	8152	294	0
 Gaus Purwa	2708	8156	542	0
@@ -580,7 +580,7 @@ Nipāni Gaula	1967	7746	640	0
 Milak Gauntia	2824	7978	683	0
 Gaurīpur	2837	7850	646	0
 Gaulawādi	1985	7783	67	0
-Ghauspur	2883	7861	483	0
+Ghauspur	2883	7861	483	0	Chak Painti
 Gauri Khera	2809	7976	470	0
 Gauharpur	2815	7998	683	0
 Milak Rasūlpur Gausar	2867	7872	511	0
@@ -615,7 +615,7 @@ Gaura	2601	8188	718	0
 Gaurbari	2600	8189	718	0
 Pura Gauri	2617	8187	662	0
 Gaura	2858	7890	511	0
-Gausampur	2867	7900	552	0
+Gausampur	2867	7900	552	0	Nānkār
 Pura Gauria	2760	8202	618	0
 Pura Gauri Sāin	2753	8205	280	0
 Nasīrpur Ghausu	2801	7879	117	0
@@ -800,8 +800,8 @@ Gaurāpār	2665	8326	325	0
 Gauri Khurd	2655	8331	325	0
 Gaurjitpur	2651	8330	325	0
 Gaura	2661	8342	325	0
-Gauri Mangalpur	2662	8346	325	0
-Gaur	2663	8346	325	0
+Gauri Mangalpur	2662	8346	325	0	Mohnāpur
+Gaur	2663	8346	325	0	Barsait
 Gauri Buzurg	2654	8331	325	0
 Gaur Khās	2647	8331	325	0
 Gauwāra	2645	8344	325	0
@@ -809,7 +809,7 @@ Gaurpār	2637	8344	325	0
 Gaurpār	2629	8344	325	0
 Gauri Tola	2687	8354	325	0
 Gaura	2680	8356	325	0
-Gauri Jangal	2663	8351	325	0
+Gauri Jangal	2663	8351	325	0	Amahia
 Gaunar	2669	8360	325	0
 Gauri	2661	8366	535	0
 Gauri Khurd	2661	8366	535	0
@@ -1076,7 +1076,7 @@ Gauri Ibrahim	2670	8422	560	0
 Gautaman	2630	8408	535	0
 Gaura	2627	8408	535	0
 Gautama	2634	8417	788	0
-Gaurup	2639	8423	703	0
+Gaurup	2639	8423	703	0	Samāil
 Gaura Pānde	2620	8401	535	0
 Gauri	2612	8413	639	0
 Gauri	2611	8418	639	0
@@ -1163,7 +1163,7 @@ Gauntia Hawāz	2855	7982	683	0
 Gauntia Māta Dīn	2863	7985	683	0
 Gauntia Sundar	2864	7986	683	0
 Gauhar	2873	7989	683	0
-Gauharnagar	2873	7993	783	0
+Gauharnagar	2873	7993	783	0	Bihārīpur
 Gauri	2599	8401	536	0
 Gaurania	2595	8406	536	0
 Gauri Shahpur	2596	8418	536	0
@@ -1230,7 +1230,7 @@ Gauripuram	1483	7616	366	0
 Ghauspur	2505	8568	107	0
 Gaudikatte	1462	7624	275	0
 Gaulorihatti	1454	7601	366	0
-Gaudarakatte	1444	7617	255	0
+Gaudarakatte	1444	7617	255	0	Vaderhalli
 Balbhadarpur Gau	2581	8582	138	0
 Gaupur	2580	8582	138	0
 Ghauspur	2569	8575	138	0

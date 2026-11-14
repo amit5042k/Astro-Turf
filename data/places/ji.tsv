@@ -1,14 +1,14 @@
 Jīnd	2932	7632	367	167592
-Zirakpur	3066	7682	632	95553
+Zirakpur	3066	7682	632	95553	Zerakpur
 Ziauddin Pur	2871	7728	791	68993
 Jintūr	1961	7669	153	44291
 Jīwanpur	2871	7728	326	43054
 Zira	3097	7499	566	37498
 Jilādiguda	1733	7853	62	27461
-Jillalguda	1733	7853	62	27461
+Jillalguda	1733	7853	62	27461	Jilādiguda
 Fīrozpur Jhirka	2779	7694	544	24750
-Fērozpur Jhirka	2779	7694	544	24750
-Ferozepur-Jhirka	2779	7694	544	24750
+Fērozpur Jhirka	2779	7694	544	24750	Fīrozpur Jhirka
+Ferozepur-Jhirka	2779	7694	544	24750	Fīrozpur Jhirka
 Jhīnjhak	2656	7973	671	23499
 Jirapur	2402	7638	16	21724
 Jining	2822	9485	37	20684
@@ -16,8 +16,8 @@ Jhinjhāna	2952	7722	328	19711
 Jigani	1279	7764	43	17036
 Ziro	2759	9384	15	13893
 Jhinkpani	2242	8575	287	13068
-Jiyanpur	2615	8334	498	11674
-Jīanpur	2615	8334	498	11674
+Jiyanpur	2615	8334	498	11674	Jainpur
+Jīanpur	2615	8334	498	11674	Jainpur
 Jīran	2431	7489	655	11518
 Jitwārpur Nizāmat	2585	8580	138	10568
 Jiraūn Kasba	2512	7866	529	9426
@@ -29,11 +29,11 @@ Nangal Jiwan	3116	7549	369	486
 Zirad	1876	7289	17	0
 Zingral	3403	7792	2	0
 Kurra Jirāwan	2702	7909	464	0
-Qizil Jilga	3534	7887	2	0
+Qizil Jilga	3534	7887	2	0	K’o-shih-erh-ts’un
 Jiwdhara	2658	8491	396	0
 Jīwangi	1753	7703	71	0
 Jītpur Bīsa	2914	7951	551	0
-Jītpur	2914	7951	551	0
+Jītpur	2914	7951	551	0	Jītpur Bīsa
 Jitpur	2373	8640	401	0
 Jispa	3263	7718	425	0
 Jīrota	2630	7665	447	0
@@ -42,12 +42,12 @@ Jirigām	2796	9623	475	0
 Jirena	2626	7825	484	0
 Jirang	1896	8422	252	0
 Jirampāl	1847	8156	599	0
-Jirampili	1847	8156	599	0
+Jirampili	1847	8156	599	0	Jirampāl
 Jirām	2803	9416	557	0
 Jinti	1831	7488	132	0
 Jinjirpul	2252	8830	123	0
 Jinjhīniāli	2621	7081	217	0
-Jinjbiniāli	2621	7081	217	0
+Jinjbiniāli	2621	7081	217	0	Jinjhīniāli
 Jinghānu	3288	7517	373	0
 Jindrāh	3281	7509	581	0
 Jīndoli	2773	7656	482	0
@@ -65,7 +65,7 @@ Jibdhārer Khuti	2637	8942	420	0
 Jiāwān	2433	8228	631	0
 Jiālgāra	2370	8642	401	0
 Jiyāgaon	2267	7699	322	0
-Jiāgaon	2267	7699	322	0
+Jiāgaon	2267	7699	322	0	Jiyāgaon
 Jiāganj	2424	8826	471	0
 Jhirpa	2180	7703	209	0
 Jhirna	2945	7889	575	0
@@ -77,26 +77,26 @@ Jhīnjhuvāda	2335	7165	28	0
 Jhilwāra	2523	7367	572	0
 Jhilmili	2340	8285	413	0
 Jhilmili	2205	7915	337	0
-Jhilmill	2205	7915	337	0
+Jhilmill	2205	7915	337	0	Jhilmili
 Jhilla	2385	7833	352	0
 Jhilimunda	2063	8238	349	0
 Jhilimili	2281	8665	571	0
 Jhīla	2456	7750	410	0
 Jhikra	2262	8791	354	0
 Jhikipāli	2142	8333	635	0
-Jiggeronda	1845	8117	599	0
+Jiggeronda	1845	8117	599	0	Jagargonda
 Jīundesar	2841	7454	539	0
 Jhitkāgāchara	2263	8884	450	0
 Jingekhali	2203	8854	4	0
 Jijot Bahraui	3329	7410	504	0
-Jijot Bahādur	3329	7410	504	0
+Jijot Bahādur	3329	7410	504	0	Jijot Bahraui
 Ziārat	3418	7490	611	0
 Zinpur	3402	7491	76	0
 Jhiblān Khori	3383	7425	1	0
 Jijot	3328	7409	504	0
-Jijot Kandao	3328	7409	504	0
+Jijot Kandao	3328	7409	504	0	Jijot
 Zinda Pīr	3326	7410	504	0
-Zindo Pīr	3326	7410	504	0
+Zindo Pīr	3326	7410	504	0	Zinda Pīr
 Kāli Jinjar	3431	7406	0	0
 Nāngi Jinjar	3430	7405	0	0
 Ziārat	3408	7471	76	0
@@ -108,7 +108,7 @@ Jimīana	3312	7433	504	0
 Jigini	3325	7437	504	0
 Jibla	3395	7431	1	0
 Jhil Pail	3297	7441	581	0
-Jhir Pail	3297	7441	581	0
+Jhir Pail	3297	7441	581	0	Jhil Pail
 Jindīāi	3287	7487	581	0
 Jīūni Laihr	3279	7496	581	0
 Jirbiri	2993	7690	501	0
@@ -116,19 +116,19 @@ Jhinwārheri	2992	7695	501	0
 Jhinwar Heri	2959	7696	457	0
 Jīndar Melu	3258	7480	581	0
 Jīndar	3263	7485	581	0
-Jīndar Khurd	3263	7485	581	0
+Jīndar Khurd	3263	7485	581	0	Jīndar
 Palriwāli Jinjar	3429	7400	0	0
-Pairwāli Jinjar	3429	7400	0	0
+Pairwāli Jinjar	3429	7400	0	0	Palriwāli Jinjar
 Jīwangarh Grant	3049	7781	448	0
 Jītgarh	3045	7779	448	0
-Jīgarh	3045	7779	448	0
+Jīgarh	3045	7779	448	0	Jītgarh
 Jhīnwarheri	3030	7795	448	0
 Jhīnwarher	3015	7777	449	0
 Jhīnwarheri	3004	7783	596	0
 Jitgarh	2943	7691	298	0
 Jindrān	2900	7657	719	0
 Jīāūra	3115	7701	628	0
-Jiārtha	3115	7701	628	0
+Jiārtha	3115	7701	628	0	Jīāūra
 Jītugaon	2997	7861	612	0
 Jiyālgaon	2993	7856	612	0
 Jībalkhāl	2982	7870	612	0
@@ -137,9 +137,9 @@ Jīdpalli	1774	7847	400	0
 Jialla	1786	7893	182	0
 Jinapalli	1750	7880	129	0
 Jinnawaram	1763	7833	31	0
-Jinnaram	1763	7833	31	0
+Jinnaram	1763	7833	31	0	Jinnawaram
 Jītpur Kalān	2683	7869	546	0
-Jītpur	2683	7869	546	0
+Jītpur	2683	7869	546	0	Jītpur Kalān
 Zīrad	1875	7289	17	0
 Jeeva Nagar North	1314	8029	204	0
 Jeeva Nagar South	1313	8029	204	0
@@ -154,10 +154,10 @@ Jhīlāli Dhāni	2823	7546	300	0
 Jisukh ka Bās	2819	7539	300	0
 Jivārām ki Dhāni	2819	7547	300	0
 Jīni	2833	7567	300	0
-Jīsukh ki Dhāni	2821	7553	300	0
+Jīsukh ki Dhāni	2821	7553	300	0	Jesu ki Dhāni
 Jīwanniwās	2815	7572	300	0
 Jīta ka Bās	2813	7569	300	0
-Jītāwās	2813	7569	300	0
+Jītāwās	2813	7569	300	0	Jīta ka Bās
 Jhīnwarheri	3005	7675	501	0
 Jignau	2496	7847	384	0
 Jinsi Nagla	2789	7903	117	0
@@ -172,7 +172,7 @@ Jīwan Purwa	2723	7975	686	0
 Jigni	2719	7987	686	0
 Nagla Jind	2687	7920	290	0
 Nagla Jhinduwa	2680	7914	290	0
-Jhinduwa	2680	7914	290	0
+Jhinduwa	2680	7914	290	0	Nagla Jhinduwa
 Jīwan Patel ki Dhāni	2699	7572	121	0
 Jīpura	2623	7933	741	0
 Jidepur	2697	7972	570	0
@@ -328,7 +328,7 @@ Zindāhwāla	2959	7793	545	0
 Zindpur	2879	7716	769	0
 Jīwanpura	3097	7597	674	0
 Jia Sarāi	2855	7719	778	0
-Jhilmila	2869	7732	693	0
+Jhilmila	2869	7732	693	0	Tāharpur
 Jhilānwa	2888	7746	727	0
 Jindalmagar	2870	7758	756	0
 Jīda	3038	7497	563	0
@@ -384,7 +384,7 @@ Jhinjarān	3047	7644	648	0
 Jirauli Dor	2792	7800	543	0
 Jhingrān	3082	7661	632	0
 Jhirān	3100	7666	628	0
-Jhīlpatti	2756	7719	114	0
+Jhīlpatti	2756	7719	114	0	Garhi
 Jīwanbās	2752	7724	114	0
 Nagla Jīwan	2739	7754	177	0
 Jhīnga Nagla	2736	7760	177	0
@@ -492,7 +492,7 @@ Jīgni	2541	7718	436	0
 Jiragaur	2728	7961	688	0
 Jithauli	2739	7969	688	0
 Jīrāhera	2781	7721	114	0
-Zindi Nagla	2782	7995	470	0
+Zindi Nagla	2782	7995	470	0	Zainuddīnnagar
 Jiuri Chandramāpur	2736	7982	686	0
 Jilgawān	2738	7985	686	0
 Jhingura	2544	7767	436	0
@@ -596,7 +596,7 @@ Jigna	2510	8332	724	0
 Jigina	2501	8348	749	0
 Rarua Jīwan	2590	7861	503	0
 Jignia	2586	7852	503	0
-Jīvpur	2549	8355	26	0
+Jīvpur	2549	8355	26	0	Raghunāthpur
 Jīvpur	2549	8357	26	0
 Jītūdhāna	2201	7756	462	0
 Jhirna	2236	7782	590	0
@@ -619,7 +619,7 @@ Jiāndāspur	2566	8390	26	0
 Jiāndāspur	2560	8376	26	0
 Jivopur	2531	8398	620	0
 Jīnārāyanpur	2549	8382	26	0
-Jīgna	2491	8324	724	0
+Jīgna	2491	8324	724	0	Surhurio
 Jhingāpur	2115	7709	172	0
 Jhingāpur	2122	7711	133	0
 Jīwanpura	2125	7752	133	0
@@ -739,7 +739,7 @@ Chak Jiurāni	2543	8249	583	0
 Jhingtepur	2546	8241	583	0
 Jhilwar	2521	8236	201	0
 Jigna	2516	8234	201	0
-Patti Jiārāi	2546	8264	32	0
+Patti Jiārāi	2546	8264	32	0	Bharaut
 Jītāpur	2546	8259	32	0
 Jhingurpur	2534	8256	583	0
 Jhingurpur	2534	8255	583	0
@@ -786,10 +786,10 @@ Purwa Jit	2618	8093	681	0
 Jīwānandpur	2974	7847	575	0
 Jitanpur	2964	7830	575	0
 Jīwan Sarāi	2956	7827	575	0
-Abdul Rahmānpur Jīwan	2951	7838	575	0
+Abdul Rahmānpur Jīwan	2951	7838	575	0	Chāndwāla
 Jhilmila	2949	7838	575	0
 Jītpura Palari	2945	7839	575	0
-Jīwanpur	2943	7829	575	0
+Jīwanpur	2943	7829	575	0	Hakīkatpur
 Zillopur	2932	7843	575	0
 Jītpur	2773	8115	507	0
 Jiwanpur	2746	8108	507	0
@@ -1032,7 +1032,7 @@ Jinārdi	2715	8319	515	0
 Sikandra Jītpur	2710	8318	515	0
 Jītpur	2710	8320	515	0
 Zirpara	3379	7511	148	0
-Zirapōr	3379	7511	148	0
+Zirapōr	3379	7511	148	0	Zirpara
 Jītpur	2719	8322	515	0
 Jītnagar	2724	8331	515	0
 Jinwapur	2723	8348	515	0
@@ -1076,7 +1076,7 @@ Jīwanganj	2553	8155	651	0
 Rāmpur Jian	2668	8373	535	0
 Jīt ka Purwa	2550	8153	651	0
 Jhinga	2554	8169	607	0
-Jurāpur Jhinhar	2558	8174	607	0
+Jurāpur Jhinhar	2558	8174	607	0	Bari Bojh
 Jiāwan	2647	8369	535	0
 Jitan	2647	8371	535	0
 Jitnu	2648	8371	535	0
@@ -1097,7 +1097,7 @@ Jitpur	2609	8385	536	0
 Jirgon	2569	8357	26	0
 Chaukī Jindhar	2560	8356	26	0
 Jinipa	1863	8064	288	0
-Jhitri	2325	8010	598	0
+Jhitri	2325	8010	598	0	Chhatri
 Jhiria	2320	8004	598	0
 Jhinjri	2379	8035	351	0
 Jhirri	2356	8045	351	0
@@ -1134,7 +1134,7 @@ Jītpur Dayāl	2566	8179	607	0
 Jinsi	2553	8193	607	0
 Jindrāi	3235	7568	692	0
 Jijāwandi	1978	8042	135	0
-Zīrāt Matan	2542	8193	607	0
+Zīrāt Matan	2542	8193	607	0	Nārāyandās a Pura
 Simri Jirauhān	2503	8197	607	0
 Jimār	2482	8118	516	0
 Jhiring	3207	7567	296	0
@@ -1245,7 +1245,7 @@ Jiūn	3265	7613	362	0
 Jidera	3264	7618	362	0
 Baraur Jhikli	3259	7617	362	0
 Jiūn	3253	7607	362	0
-Jhikla	3251	7618	362	0
+Jhikla	3251	7618	362	0	Gudda
 Adwār Jhikla	3252	7619	362	0
 Thera Jhikla	3250	7603	362	0
 Dhūni Jhikla	3249	7604	362	0
@@ -1326,7 +1326,7 @@ Jīnanūn	3130	7681	772	0
 Baraunga Zir	3062	7628	648	0
 Jiwanpura	3053	7649	648	0
 Jindalpur	3053	7629	564	0
-Jhīnwar Mazra	3056	7674	632	0
+Jhīnwar Mazra	3056	7674	632	0	Khānpur Khaddar
 Jīpia	2609	7461	446	0
 Jitahāla	2685	7597	121	0
 Jitahāla ki Dhāni	2683	7596	121	0
@@ -1345,7 +1345,7 @@ Jhipābahāl	2067	8254	594	0
 Jitalta	3121	7787	479	0
 Jhirnikhol	2020	8257	594	0
 Jila Dogri	3099	7757	479	0
-Jīwāla	3008	7772	449	0
+Jīwāla	3008	7772	449	0	Murādnagar
 Jirātitolī	2390	8397	701	0
 Jhikriya	2372	7609	347	0
 Jhikriya ka Khera	2371	7609	347	0
@@ -1367,7 +1367,7 @@ Jhilgītār	2173	8347	439	0
 Jīwanpūra	2847	7806	637	0
 Jirājpur	2821	7810	637	0
 Jināwin	2811	7809	637	0
-Jiyājipura	2326	7638	320	0
+Jiyājipura	2326	7638	320	0	Retakheri
 Jīrapāli	2137	8332	635	0
 Jhikjhiki	2146	8340	497	0
 Jibpura	2898	7896	552	0
@@ -1435,12 +1435,12 @@ Jigidi	1980	8346	363	0
 Jhikimiki	1976	8347	363	0
 Jhiripāni	1998	8354	387	0
 Jhitkāguda	1923	8215	600	0
-Jīrāgām	1905	8217	600	0
+Jīrāgām	1905	8217	600	0	Tonguda
 Jigrigūda	1864	8211	109	0
 Jingām	1890	8237	316	0
 Jilgar	1890	8238	316	0
 Jirāgūda	1894	8240	316	0
-Jhīrikhāl	1934	8304	363	0
+Jhīrikhāl	1934	8304	363	0	Dongarkanch
 Jhīrigam	1932	8303	363	0
 Jhīrigumma	1940	8310	363	0
 Jigidigūda	1847	8236	109	0
@@ -1499,7 +1499,7 @@ Chinna Jīrpūdi	1729	8134	24	0
 Jīdugumma	1747	8149	46	0
 Jigna	2580	8464	540	0
 Jhirniākhera	2341	7669	320	0
-Jīwāpur	2306	7652	675	0
+Jīwāpur	2306	7652	675	0	Mahoria
 Jhikrākhera	2276	7621	322	0
 Jitpura	2321	7307	125	0
 Jiwanpura Muwara	2304	7315	167	0
@@ -1690,7 +1690,7 @@ Jittinakatti	1471	7598	366	0
 Jigalgod	1372	7521	346	0
 Jittekoppa	1371	7521	346	0
 Jīrahalli	1378	7537	346	0
-Jittamuttūr	1361	7530	346	0
+Jittamuttūr	1361	7530	346	0	Malana Guddekoppa
 Jigalemane	1358	7541	98	0
 Jītpur Khema	2914	7951	551	0
 Jilbili	1993	7947	111	0
@@ -1807,7 +1807,7 @@ Jiāgāchhi	2571	8758	613	0
 Jirlīkārhāria	2515	8752	461	0
 Jhirikbhita	2511	8753	461	0
 Jitpur	2500	8750	461	0
-Jirikdanga	2504	8769	461	0
+Jirikdanga	2504	8769	461	0	Ilkru
 Jirbābāri	2524	8766	461	0
 Jhikra Harankol	2515	8773	461	0
 Jhingāni	2520	8771	461	0

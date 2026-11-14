@@ -1,9 +1,9 @@
 Hazāribāgh	2399	8536	764	153595
-Hazarybaugh	2399	8536	764	153595
+Hazarybaugh	2399	8536	764	153595	Hazāribāgh
 Hājīpur	2569	8521	716	147688
-Hajipur	2219	8819	4	41802
+Hajipur	2219	8819	4	41802	Diamond Harbour
 Hājo	2625	9153	636	15977
-Nij Hājo	2625	9153	636	15977
+Nij Hājo	2625	9153	636	15977	Hājo
 Niz-Hajo	2625	9152	636	15188
 Hājan	3430	7462	120	13239
 Hajarmachi	1731	7423	64	9317
@@ -25,7 +25,7 @@ Hajūri Bāgh	3274	7482	581	0
 Hājinār	3440	7388	0	0
 Hajītara	3435	7384	0	0
 Trutti Hāji	3442	7382	0	0
-Tarūti Hāji	3442	7382	0	0
+Tarūti Hāji	3442	7382	0	0	Trutti Hāji
 Hazāra Tongia	3008	7793	596	0
 Hazāra	3000	7797	596	0
 Hajāri Bhairu ki Jhonpariyān	2537	7558	353	0
@@ -38,14 +38,14 @@ Hazratpur	2789	7943	117	0
 Hazāra	2725	7928	464	0
 Hazratpur	2709	7980	570	0
 Hājipur Nera	2700	7914	464	0
-Hājīpur	2700	7914	464	0
+Hājīpur	2700	7914	464	0	Hājipur Nera
 Hazratpur	2683	7902	290	0
 Hajju ka Nagla	2690	7917	290	0
 Hājīpur	2639	7939	741	0
 Hazratpura	2609	7947	741	0
 Hazratpur	2699	7952	570	0
 Hājīpur	2687	7969	570	0
-Hazūrpur	2735	8166	294	0
+Hazūrpur	2735	8166	294	0	Huzūrpur
 Hajipur	2035	8604	456	0
 Hazira	2134	7265	139	0
 Hazira	2113	7265	139	0
@@ -68,7 +68,7 @@ Hazārīpura	2651	7693	447	0
 Hājīpur	2935	7725	328	0
 Hazūrābādgarhi	2903	7741	477	0
 Hāji Ratan	3020	7495	563	0
-Hazratpur	2989	7784	596	0
+Hazratpur	2989	7784	596	0	Mādhopur
 Hazarpur	2980	7797	596	0
 Hājīpur Jahāngīrpur	2953	7797	545	0
 Hājīpur	2933	7780	545	0
@@ -82,7 +82,7 @@ Hājipur	2827	7764	588	0
 Hājipur	3166	7578	296	0
 Hazārīkhera	2530	7459	309	0
 Hājampur	2900	7598	339	0
-Hazāra	2890	7917	552	0
+Hazāra	2890	7917	552	0	Hāfiznagar
 Dhakka Hājīnagar	2886	7910	552	0
 Hājīnagar	2883	7908	552	0
 Hazratpur	2882	7901	552	0
@@ -93,11 +93,11 @@ Hazratpur Abhaipur	2853	7787	637	0
 Hājipur	2872	7796	756	0
 Hāji Mājra	3031	7634	564	0
 Barhaula Hāzi	2787	7797	543	0
-Hazāribās	2768	7721	114	0
+Hazāribās	2768	7721	114	0	Nagla Shahzād
 Hajiyāpur	2799	7771	543	0
 Hazratpur	2828	7787	637	0
 Hazratpur	2841	7790	637	0
-Hājīpur	2830	7789	637	0
+Hājīpur	2830	7789	637	0	Bhataula
 Hazratpur Puthri	2820	7790	637	0
 Hājāpur Tānda	1911	7749	140	0
 Hājāpur	1912	7749	140	0
@@ -226,7 +226,7 @@ Hājipur	2632	8030	469	0
 Hājipur	2722	8158	294	0
 Hazūrganj	2873	7825	483	0
 Hājīpur	2865	7832	483	0
-Hāzīpur	2873	7844	646	0
+Hāzīpur	2873	7844	646	0	Haidarpur
 Hājībera	2869	7846	646	0
 Pura Hazūri	2726	8176	542	0
 Hājīpur	2844	7833	483	0
@@ -251,7 +251,7 @@ Muhammadpur Hajjām	2813	7879	117	0
 Hazratganj	2801	7897	117	0
 Purwa Girāo Hajām	2747	8204	618	0
 Pura Sattār Hajām	2745	8206	280	0
-Hajiāpur	2537	8137	651	0
+Hajiāpur	2537	8137	651	0	Hasanpur
 Hāji Dīh	2747	8236	280	0
 Haji Mubārak Alī	2732	8240	280	0
 Hāji Purwa	2725	8246	280	0
@@ -350,7 +350,7 @@ Hazratpūr	2828	7809	637	0
 Hazratpur	2828	7810	637	0
 Hājipur	2811	7823	637	0
 Hazratnagar	2896	7898	552	0
-Mundia Hazūr Khān	2876	7897	511	0
+Mundia Hazūr Khān	2876	7897	511	0	Bajanpur
 Chhāin Hazām	2315	7632	322	0
 Hazāra	2739	8136	507	0
 Hazāria	2747	8143	294	0

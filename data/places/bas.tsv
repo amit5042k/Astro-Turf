@@ -1,30 +1,30 @@
 Basirhat City	2266	8885	450	143007
-Basīrhat	2266	8885	450	143007
+Basīrhat	2266	8885	450	143007	Basirhat City
 Bastī	2679	8272	154	115115
-Băsim	2011	7713	128	78387
+Băsim	2011	7713	128	78387	Wāshīm
 Basoda	2385	7794	215	78289
 Basavakalyan	1787	7695	170	69717
 Basmat	1933	7716	640	68846
 Bāsudebpur	2112	8673	734	33690
 Basavana Bāgevādi	1657	7597	80	33198
-Ādarsh Bās	2831	7429	539	33006
+Ādarsh Bās	2831	7429	539	33006	Bhādāsar
 Basni	2717	7365	430	29187
-Basni Bailima	2717	7365	430	29187
-Basni Belima	2717	7365	430	29187
+Basni Bailima	2717	7365	430	29187	Basni
+Basni Belima	2717	7365	430	29187	Basni
 Bāspalli	1754	7836	31	27563
 Basi	3059	7684	632	26295
-Dera Basi	3059	7684	632	26295
+Dera Basi	3059	7684	632	26295	Basi
 Basi	2683	7605	121	26029
 Baswa	2715	7658	708	22515
 Basi	3069	7640	648	20288
-Bassi Pathana	3069	7640	648	20288
-Teju Bāsha	2791	9613	475	18184
+Bassi Pathana	3069	7640	648	20288	Basi
+Teju Bāsha	2791	9613	475	18184	Tezu
 Basukinath	2439	8709	669	17123
 Bāsugaon	2647	9042	357	13849
 Baspiti	2609	8653	426	10686
 Basna	2128	8283	407	10345
 Bastar	1920	8193	600	10048
-Baster	1920	8193	600	10048
+Baster	1920	8193	600	10048	Bastar
 Golaghatia Basti	2599	9286	706	9809
 Mehatpur Basdehra	3141	7634	327	9218
 Bāshettihalli	1326	7755	389	7943
@@ -32,21 +32,21 @@ Bashohli	3250	7582	496	5433
 Bāsār	2799	9469	729	4284
 Basantpur	2733	8082	507	3235
 Urāo Basti	2688	9343	302	0
-Singlijān Basti	2693	9346	302	0
+Singlijān Basti	2693	9346	302	0	Singlijān
 Simāna Basti	2698	8814	573	0
 Sarkher Basti	2589	9315	706	0
-Bāsēgaon	2016	7375	54	0
+Bāsēgaon	2016	7375	54	0	Rāsegaon
 Pimpalgaon Baswant	2017	7399	54	0
-Pimpalgaon Basvani	2017	7399	54	0
+Pimpalgaon Basvani	2017	7399	54	0	Pimpalgaon Baswant
 Nawāb Bāsoda	2360	7818	215	0
-Basoda	2360	7818	215	0
-Narjon Basti	2658	9325	656	0
-Bas	2921	7426	486	0
-Basantpur	2384	8320	341	0
+Basoda	2360	7818	215	0	Nawāb Bāsoda
+Narjon Basti	2658	9325	656	0	Narjān
+Bas	2921	7426	486	0	Khoda
+Basantpur	2384	8320	341	0	Churki
 Basāna	2889	7637	719	0
 Bhāstāra	2304	8815	279	0
 Bhasma	2196	8404	272	0
-Baseri	2751	7387	430	0
+Baseri	2751	7387	430	0	Besūri
 Basuvanpuram	1166	7728	211	0
 Basudha	2360	8753	642	0
 Bāsudebpur	2182	8763	559	0
@@ -61,31 +61,31 @@ Bassian	3066	7554	674	0
 Bassī	2660	7461	430	0
 Basrūr	1363	7474	257	0
 Bāsopatti	2658	8601	556	0
-Basopati Bazar	2658	8601	556	0
+Basopati Bazar	2658	8601	556	0	Bāsopatti
 Basoli	3250	7581	496	0
 Basoli	3148	7632	327	0
 Bāsnamba	1977	7718	640	0
 Basi Kalān	3145	7600	296	0
-Basi	3145	7600	296	0
+Basi	3145	7600	296	0	Basi Kalān
 Basia	2287	8483	321	0
 Basi	3150	7615	327	0
 Basai	2797	7596	705	0
-Basi	2797	7596	705	0
+Basi	2797	7596	705	0	Basai
 Basi	2572	7295	273	0
 Basi	2502	7477	417	0
 Bāshta	2907	7821	575	0
 Bashist	3227	7719	680	0
-Bast	3227	7719	680	0
+Bast	3227	7719	680	0	Bashist
 Bashīrābād	1722	7743	210	0
 Bashāratganj	2829	7929	342	0
-Bashāratgani	2829	7929	342	0
+Bashāratgani	2829	7929	342	0	Bashāratganj
 Basgo	3423	7727	2	0
 Baseri	2675	7754	326	0
 Basei	2697	7155	217	0
 Bāsbāri	2621	8990	713	0
 Basavapatna	1420	7581	275	0
 Basavapatna	1261	7613	679	0
-Basavapatna Hassan	1261	7613	679	0
+Basavapatna Hassan	1261	7613	679	0	Basavapatna
 Basauni	2523	8638	589	0
 Basāri	2482	7972	663	0
 Basari	2383	8064	351	0
@@ -99,19 +99,19 @@ Bāsanti	2220	8871	4	0
 Basantgarh	3281	7554	373	0
 Basania	2291	8161	225	0
 Baseth	2729	7698	482	0
-Basait	2729	7698	482	0
+Basait	2729	7698	482	0	Baseth
 Basai Nawāb	2690	7778	622	0
 Basai	2515	7841	503	0
-Basia	2515	7841	503	0
+Basia	2515	7841	503	0	Basai
 Basahi	2512	8380	749	0
-Basah	2512	8380	749	0
+Basah	2512	8380	749	0	Basahi
 Bāsaguda	1856	8092	288	0
-Bāsagūde	1856	8092	288	0
+Bāsagūde	1856	8092	288	0	Bāsaguda
 Bās	2911	7620	339	0
 Bassi	2802	7385	307	0
 Bassi	2837	7388	307	0
 Ghantel Bās	2836	7489	539	0
-Basro	2836	7489	539	0
+Basro	2836	7489	539	0	Ghantel Bās
 Basubāti	2279	8820	279	0
 Basantapur	2275	8810	279	0
 Basantapur	2265	8804	354	0
@@ -121,14 +121,14 @@ Basuldānga	2220	8824	4	0
 Syām Bāsa	2211	8825	4	0
 Basudebpur	2208	8815	559	0
 Bāsuli	2205	8802	559	0
-Gatti Basti Masta	3091	7443	566	0
+Gatti Basti Masta	3091	7443	566	0	Masta Gatti
 Basāwa	3299	7464	581	0
 Basāh	3322	7414	504	0
 Basīn	3304	7444	504	0
 Basdhāra	2957	7699	457	0
 Khalki Basi	3263	7489	720	0
-Basi Khurd	3263	7489	720	0
-Basi Kalān	3263	7489	720	0
+Basi Khurd	3263	7489	720	0	Khalki Basi
+Basi Kalān	3263	7489	720	0	Khalki Basi
 Basi Kalān	3264	7490	720	0
 Nal Basti	3264	7480	581	0
 Nai Basti	3272	7488	581	0
@@ -139,11 +139,11 @@ Bās Kheria	2589	7563	313	0
 Bās Khurd	2842	7607	781	0
 Bashīpur	2800	7604	694	0
 Bashelar	3123	7708	479	0
-Basjālri	3123	7708	479	0
+Basjālri	3123	7708	479	0	Bashelar
 Bashīālru	3124	7710	479	0
-Bashālri	3124	7710	479	0
+Bashālri	3124	7710	479	0	Bashīālru
 Bashol	3120	7711	479	0
-Bashaul	3120	7711	479	0
+Bashaul	3120	7711	479	0	Bashol
 Basyūr Gūni	2981	7863	612	0
 Basyūr Bāman	2981	7864	612	0
 Basarampel	1792	7814	400	0
@@ -166,17 +166,17 @@ Nārsingh ka Bās	2849	7523	539	0
 Haripura ka Bās	2833	7525	300	0
 Bhāru ka Bās	2832	7534	300	0
 Kularion ka Bās	2830	7525	300	0
-Kulariyon ka Bās	2830	7525	300	0
+Kulariyon ka Bās	2830	7525	300	0	Kularion ka Bās
 Miyon ka Bās	2829	7533	300	0
-Mīya ka Bās	2829	7533	300	0
+Mīya ka Bās	2829	7533	300	0	Miyon ka Bās
 Ghāsīrām ka Bās	2829	7530	300	0
 Rādon ka Bās	2829	7535	300	0
 Khīcharon ka Bās	2828	7537	300	0
-Khichra ka Bās	2828	7537	300	0
+Khichra ka Bās	2828	7537	300	0	Khīcharon ka Bās
 Naina ka Bās	2826	7526	300	0
 Farāns ka Bās	2825	7537	300	0
-Frāns ka Bās	2825	7537	300	0
-Firāns ka Bās	2825	7537	300	0
+Frāns ka Bās	2825	7537	300	0	Farāns ka Bās
+Firāns ka Bās	2825	7537	300	0	Farāns ka Bās
 Saubha ka Bās	2825	7529	300	0
 Bāsri	2824	7532	300	0
 Pīpal ka Bās	2822	7536	300	0
@@ -192,7 +192,7 @@ Swāmi ka Bās	2805	7534	300	0
 Dhīgāl ka Bās	2805	7531	300	0
 Sundo ka Bās	2802	7532	300	0
 Kulriyon ka Bās	2802	7538	300	0
-Kulriyan ka Bās	2802	7538	300	0
+Kulriyan ka Bās	2802	7538	300	0	Kulriyon ka Bās
 Bās Bādalwās	2807	7539	300	0
 Jākharo ka Bās	2807	7548	300	0
 Deva ka Bās	2803	7543	300	0
@@ -220,18 +220,18 @@ Khudiyān Bās	2828	7555	300	0
 Chainpura Bās	2832	7556	300	0
 Bās	2828	7570	300	0
 Gadhāra ka Bās	2825	7563	300	0
-Godhāra ki Bās	2825	7563	300	0
-Bās	2825	7563	300	0
+Godhāra ki Bās	2825	7563	300	0	Gadhāra ka Bās
+Bās	2825	7563	300	0	Gadhāra ka Bās
 Chīrāsan ka Bās	2816	7568	300	0
 Nāri ka Bās	2818	7560	300	0
 Jīta ka Bās	2813	7569	300	0
-Hemrāj ka Bās	2811	7568	300	0
+Hemrāj ka Bās	2811	7568	300	0	Rājpura
 Devta ka Bās	2807	7572	300	0
 Purāni Basti	2804	7562	300	0
 Tāra ka Bās	2802	7562	300	0
 Māne ka Bās	2800	7559	300	0
 Katewan ka Bās	2800	7555	300	0
-Katewon ka Bās	2800	7555	300	0
+Katewon ka Bās	2800	7555	300	0	Katewan ka Bās
 Basi	3051	7679	632	0
 Basantpur	3017	7676	501	0
 Bāsoda	2421	7812	215	0
@@ -269,7 +269,7 @@ Chāran ka Bās	2696	7552	121	0
 Basi Kalān	2691	7552	121	0
 Lālya ka Bās	2683	7566	121	0
 Kheria ka Bās	2682	7550	121	0
-Keriya ka Bās	2682	7550	121	0
+Keriya ka Bās	2682	7550	121	0	Kheria ka Bās
 Bhāsaun ka Dera	2646	7937	715	0
 Bhāsaun	2646	7938	715	0
 Basantpur	2645	7946	715	0
@@ -295,7 +295,7 @@ Bāseri Talāi	2739	7101	217	0
 Bastawad	1581	7456	77	0
 Basapur	1606	7465	77	0
 Dolāniva Bas	2841	7442	539	0
-Dolāniya Bas	2841	7442	539	0
+Dolāniya Bas	2841	7442	539	0	Dolāniva Bas
 Ganju Basti	2691	9342	302	0
 Lāngra Bāsti	2625	9396	740	0
 Bhasurāri	2709	8452	476	0
@@ -310,7 +310,7 @@ Basantapur	2173	8711	421	0
 Kheroni Maj Basti	2582	9294	330	0
 Basini	2943	7674	367	0
 Basantpur	2897	7664	719	0
-Bās	2811	7651	519	0
+Bās	2811	7651	519	0	Gobindpur
 Mukandpur Basi	2812	7670	519	0
 Basunda	2840	7678	630	0
 Bās Padamka	2829	7680	630	0
@@ -377,7 +377,7 @@ Bashlai	3147	7764	680	0
 Bashāra	3149	7773	479	0
 Basūi	3120	7751	479	0
 Bashnāl	3121	7753	479	0
-Bāsa	3109	7775	479	0
+Bāsa	3109	7775	479	0	Nandpur
 Bashlog	3119	7767	479	0
 Bestāri Bāsa	3125	7775	479	0
 Bashla	3124	7766	479	0
@@ -525,7 +525,7 @@ Baktu Ka Bās	2742	7681	482	0
 Ālābaksh Ka Bās	2742	7683	482	0
 Ahmda Ka Bās	2741	7685	482	0
 Jauhari Ka Bās	2741	7682	482	0
-Bahāliyān Ka Bās	2741	7683	482	0
+Bahāliyān Ka Bās	2741	7683	482	0	Bār Gūjar Khohra
 Syālki Ka Bās	2737	7683	482	0
 Māliyān Ka Bās	2735	7675	482	0
 Dhekede Ka Bās	2735	7678	482	0
@@ -562,7 +562,7 @@ Athūna ka Bās	2810	7520	300	0
 Pīpal ka Bās	2810	7517	300	0
 Kuhāru ka Bās	2809	7513	300	0
 Godu ka Bās	2808	7514	300	0
-Dhāka ka Bās	2806	7519	300	0
+Dhāka ka Bās	2806	7519	300	0	Shyopura
 Brāhman ka Bās	2806	7517	300	0
 Suganji ka Bās	2805	7519	300	0
 Jīwan ka Bās	2804	7519	300	0
@@ -583,7 +583,7 @@ Lūna ka Bās	2818	7524	300	0
 Tiloka Bās	2818	7521	300	0
 Bhīmsarīya Bās	2820	7524	300	0
 Kolīnd ka Bās	2822	7523	300	0
-Lachhūrām ka Bās	2822	7523	300	0
+Lachhūrām ka Bās	2822	7523	300	0	Kolīnd ka Bās
 Bhūtīya Bās	2823	7522	300	0
 Sūra ka Bās	2824	7520	300	0
 Buddha ka Bās	2841	7528	300	0
@@ -610,7 +610,7 @@ Barwa ka Bās	2670	7619	708	0
 Bās	2663	7616	121	0
 Kayāmnagar Bāsri	2648	7609	313	0
 Bāsra	2648	7617	116	0
-Bās Parsa	2648	7617	116	0
+Bās Parsa	2648	7617	116	0	Bāsra
 Bassi	2629	7605	313	0
 Bās	2628	7619	116	0
 Basa	2315	7831	338	0
@@ -659,7 +659,7 @@ Bhasarheri	2957	7787	545	0
 Baseri	2957	7789	545	0
 Kadamsingh ka Bās	2955	7796	545	0
 Basaich	2930	7783	545	0
-Basti Garhi Bāla	2891	7701	485	0
+Basti Garhi Bāla	2891	7701	485	0	Abbāspur
 Basāl Dārāpur	2866	7714	771	0
 Basantgaon	2857	7716	721	0
 Basantpur	2850	7734	326	0
@@ -732,7 +732,7 @@ Baslai	2447	7685	506	0
 Bāsra	2623	7527	313	0
 Basi	2602	7549	313	0
 Bhāsu	2602	7543	313	0
-Basantgarhi	2804	7751	543	0
+Basantgarhi	2804	7751	543	0	Mahārājgarh
 Basera	2809	7769	543	0
 Basapuram	1910	8005	135	0
 Naya Basti	2709	8822	573	0
@@ -760,7 +760,7 @@ Rohti Basta Singhwāli	3036	7620	564	0
 Bāsīhark	3015	7605	593	0
 Basantpur	3013	7606	593	0
 Basi	3088	7636	735	0
-Basantbura	3049	7634	648	0
+Basantbura	3049	7634	648	0	Jālkheri
 Khanjra Ka Bās	2775	7778	177	0
 Basai	2787	7790	543	0
 Basai	2797	7793	543	0
@@ -785,9 +785,9 @@ Mālina ka Bās	2755	7700	114	0
 Saidampur ka Bās	2756	7701	482	0
 Kishori ka Bās	2752	7701	482	0
 Badsambla ka Bās	2751	7701	482	0
-Dina ka Bās	2753	7709	114	0
+Dina ka Bās	2753	7709	114	0	Baldevwās
 Bās Sābat	2751	7712	114	0
-Pūchhla ka Bās	2751	7712	114	0
+Pūchhla ka Bās	2751	7712	114	0	Bās Sābat
 Gulpāra ka Bās	2753	7713	114	0
 Khohra ka Bās	2757	7715	114	0
 Teli ka Bās	2758	7711	114	0
@@ -800,7 +800,7 @@ Burāni ka Bās	2769	7708	114	0
 Sahsan ka Bās	2773	7720	114	0
 Jodhpur ka Bās	2768	7717	114	0
 Karmu ka Bās	2763	7724	114	0
-Jāton ka Bās	2762	7723	114	0
+Jāton ka Bās	2762	7723	114	0	Nagla Gopīnāth
 Basai Shergalh	2779	7759	177	0
 Basonti	2753	7752	177	0
 Basai Khurd	2771	7768	177	0
@@ -831,7 +831,7 @@ Bāsin	2160	8130	710	0
 Basni	2142	8133	286	0
 Bāsin	2129	8135	286	0
 Basāpur	1605	7677	50	0
-Bāsintola	2100	8199	297	0
+Bāsintola	2100	8199	297	0	Khapri
 Bhasera	2101	8200	297	0
 Bāswādi	1850	7739	140	0
 Basāpur	1835	7763	58	0
@@ -955,7 +955,7 @@ Basantpur	2733	7925	688	0
 Baseli	2741	7946	688	0
 Rāmpuri Basant	2138	7940	141	0
 Bāsi	2176	7972	144	0
-Char Baseri	2694	7754	114	0
+Char Baseri	2694	7754	114	0	Sajjanwās
 Basai	2691	7750	326	0
 Bastauli	2630	7767	478	0
 Bastauli ka Pura	2630	7767	478	0
@@ -1065,7 +1065,7 @@ Basantpur	2521	8047	463	0
 Baswa	2567	8113	728	0
 Chak Baswa	2566	8112	728	0
 Basna Khās	2554	8214	607	0
-Basna	2555	8215	607	0
+Basna	2555	8215	607	0	Nawāda
 Basnaihta	2553	8214	607	0
 Nai Basariya	2523	7923	433	0
 Basāri	2520	7905	433	0
@@ -1371,7 +1371,7 @@ Bashīrwās	2848	7584	431	0
 Bāsri	2843	7597	694	0
 Jagrām ka Bās	2841	7582	300	0
 Sukhdevsingh ka Bās	2842	7579	431	0
-Surāna ka Bās	2838	7582	300	0
+Surāna ka Bās	2838	7582	300	0	Āryānagar
 Bhoja ka Bās	2835	7582	300	0
 Bās	2836	7594	694	0
 Chīma ka Bās	2831	7585	300	0
@@ -1420,8 +1420,8 @@ Basīrpur	2959	7833	575	0
 Basehra Masanpur	2951	7827	575	0
 Umarpur Basera	2954	7849	575	0
 Basehra	2936	7845	575	0
-Basehra Narāyan	2936	7845	575	0
-Basehra Desu	2936	7844	575	0
+Basehra Narāyan	2936	7845	575	0	Basehra
+Basehra Desu	2936	7844	575	0	Bīrchand Nagla
 Basāwanpur	2931	7835	575	0
 Basantāpur	2798	8106	323	0
 Basahia	2788	8105	323	0
@@ -1457,7 +1457,7 @@ Pura Basāwan	2733	8169	294	0
 Bastī	2583	8381	536	0
 Basawan	2579	8382	536	0
 Bastaurā	2580	8388	536	0
-Bashnī	2590	8391	536	0
+Bashnī	2590	8391	536	0	Rāmnagār
 Basantpur	2738	8166	294	0
 Pakrī Halākh Basānt	2595	8395	536	0
 Pura Baswāri	2740	8167	294	0
@@ -1538,7 +1538,7 @@ Pura Basain	2630	8197	597	0
 Basantpur	2596	8112	728	0
 Khemkaranpur Basahi	2578	8100	728	0
 Bāsdeopur	2581	8112	728	0
-Ārāmpur Basai	2580	8123	728	0
+Ārāmpur Basai	2580	8123	728	0	Rāmpur
 Bāsar	2118	7422	190	0
 Basela	2526	8105	643	0
 Basingha	2526	8124	643	0
@@ -1579,7 +1579,7 @@ Basāwanpur	2673	8152	30	0
 Badanpur Basai	2866	7852	646	0
 Basle ki Mandaiyān	2856	7850	646	0
 Basla	2855	7851	646	0
-Basantpur	2827	7860	646	0
+Basantpur	2827	7860	646	0	Salempur Bhūr
 Pura Basant Singh	2623	8106	681	0
 Basantpur Kathaiya	2622	8102	681	0
 Pura Basantpur	2621	8103	681	0
@@ -1659,7 +1659,7 @@ Basai Talli	2986	7918	429	0
 Baseri Basnāl	2975	7924	429	0
 Baseri Purāni	2976	7925	429	0
 Basnalgaon	2991	7923	429	0
-Basbhira	2994	7922	429	0
+Basbhira	2994	7922	429	0	Mālbhira
 Basāni	2996	7922	612	0
 Basbhīra	2996	7923	612	0
 Baswannapalli	1824	7830	58	0
@@ -1778,7 +1778,7 @@ Basit	2597	8321	498	0
 Pura Basāin	2617	8232	597	0
 Basila	2589	8310	498	0
 Bāsupur	2583	8310	498	0
-Basdewa	2578	8312	498	0
+Basdewa	2578	8312	498	0	Miānpur
 Basehi	2576	8308	498	0
 Basūhi	2607	8226	597	0
 Basti Sār Dīh	2604	8228	718	0
@@ -1986,7 +1986,7 @@ Bāsh	3303	7580	372	0
 Bāsh	3301	7580	372	0
 Bāsan	3318	7595	34	0
 Basantpur	3251	7530	496	0
-Bashrota	3257	7543	496	0
+Bashrota	3257	7543	496	0	Talin
 Basaun Barwān	3226	7539	692	0
 Basohar Khās	2539	8153	651	0
 Basāhi	2529	8163	607	0
@@ -2321,13 +2321,13 @@ Basnajhar	2194	8316	439	0
 Bāsanpāli	2193	8319	439	0
 Basantpur	2183	8322	439	0
 Basti	1402	7484	346	0
-Bhāsmia	2317	7607	322	0
+Bhāsmia	2317	7607	322	0	Jasmia
 Bāsinbahra	2161	8311	635	0
 Basantpur	3022	7824	448	0
 Basoli	3022	7884	612	0
 Basānīkhāl	2997	7833	612	0
 Bashūr	2991	7888	612	0
-Basiyūr	2991	7888	612	0
+Basiyūr	2991	7888	612	0	Bashūr
 Basaura	2992	7880	612	0
 Bashiūr	2992	7878	612	0
 Basar	2985	7885	612	0
@@ -2468,7 +2468,7 @@ Bachatpur Basai	2935	7908	551	0
 Bāsmanpur	2561	8453	377	0
 Basantpur	2564	8459	377	0
 Basantpur	2562	8468	377	0
-Basant	2541	7311	273	0
+Basant	2541	7311	273	0	Bhānt
 Bashāratnagar	2913	7909	552	0
 Anat Bāsni	2594	7348	273	0
 Bāsni Suraitān	2592	7348	273	0
@@ -2562,7 +2562,7 @@ Basaunāpur	2658	8427	703	0
 Bāsota	2505	7489	417	0
 Basantpur	2697	8455	476	0
 Basara	2681	8461	476	0
-Baswariā	2678	8451	476	0
+Baswariā	2678	8451	476	0	Tola Nura Khāp
 Basantpur	2700	8475	476	0
 Pūdh ka Bās	2720	7592	121	0
 Sundar ka Bās	2723	7591	121	0
@@ -2789,7 +2789,7 @@ Basavāni	1359	7527	346	0
 Basarikatte	1331	7538	98	0
 Basavanagangūr	1398	7556	346	0
 Basavāpur	1389	7566	346	0
-Basavāpur	1382	7573	346	0
+Basavāpur	1382	7573	346	0	Gaudar Naripur
 Basavāpur	1389	7550	346	0
 Basthi	1324	7555	98	0
 Basavanahalli	1371	7571	98	0
@@ -3061,7 +3061,7 @@ Basha	2520	8753	461	0
 Bāsgo Bedo	2513	8752	461	0
 Basko	2511	8760	461	0
 Basnia	2512	8759	461	0
-Bāsgo	2510	8769	461	0
+Bāsgo	2510	8769	461	0	Tebo
 Basbhaiya	2506	8772	461	0
 Bāsaul	2596	8777	613	0
 Bhasia	2588	8779	613	0

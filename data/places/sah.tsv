@@ -1,7 +1,7 @@
 Sahāranpur	2997	7755	449	484873
 Shāhjānpur	2788	7991	470	320434
-Shāhjahānpur	2788	7991	470	320434
-Shahabad	2556	8466	377	261430
+Shāhjahānpur	2788	7991	470	320434	Shāhjānpur
+Shahabad	2556	8466	377	261430	Arrah
 Shahuwadi	1691	7395	57	180322
 Saharsa	2587	8660	661	156540
 Sāhibganj	2524	8763	461	95890
@@ -12,9 +12,9 @@ Sahaswān	2807	7875	117	60953
 Sāhibābād Daulotpur	2875	7711	769	54773
 Shāhpur	1670	7684	72	53366
 Shāhābād	1713	7694	71	52952
-Shahabad Deccan	1713	7694	71	52952
+Shahabad Deccan	1713	7694	71	52952	Shāhābād
 Shāhābād	3017	7687	501	42607
-Shahbad	3017	7687	501	42607
+Shahbad	3017	7687	501	42607	Shāhābād
 Shahbazpur	2631	8729	667	38000
 Shāhābād	2857	7901	552	34962
 Shāhpura	2739	7596	121	33895
@@ -23,19 +23,19 @@ Shāhganj	2605	8268	32	26510
 Pāonta Sāhib	3044	7762	534	25183
 Sahaspur	2912	7862	575	24452
 Sāhibganj	2631	8493	395	23224
-Sahebganj	2631	8493	395	23224
-Sahnewal	3084	7599	674	22484
+Sahebganj	2631	8493	395	23224	Sāhibganj
+Sahnewal	3084	7599	674	22484	Sānehwāl
 Sahāwar	2780	7883	616	22201
 Shāhpur	2124	7623	29	19719
 Shāhpur	2935	7755	545	18874
-Phuta Shahr	2971	7742	449	18738
+Phuta Shahr	2971	7742	449	18738	Nanauta
 Shāhpur	2560	8440	377	17767
 Guru Har Sahāi	3071	7440	566	17192
 Shāhgarh	2431	7912	352	16300
-Anandpur Sāhib	3124	7650	735	16282
+Anandpur Sāhib	3124	7650	735	16282	Anandpur
 Shāhi	2855	7932	342	16064
 Shāhkot	3108	7534	369	14488
-Chamkaur Sahib	3090	7642	735	13920
+Chamkaur Sahib	3090	7642	735	13920	Chāmkor
 Shāhpura	2314	7966	598	13601
 Shāhpur	2403	8405	701	13513
 Shāhpur	2389	7905	352	13066
@@ -45,7 +45,7 @@ Shāhjahānpur	2800	7645	482	9837
 Shāhpur	2302	8100	468	9394
 Sāha	3031	7698	691	8100
 Sāhāpur	2252	8817	354	7883
-Sahaspur-Lohara	2185	8113	537	7017
+Sahaspur-Lohara	2185	8113	537	7017	Lohāra
 Sahnidih	2378	8625	401	6777
 Dumari urf Damodarpur Shahjahan	2610	8536	395	6301
 Shāhpur	2220	7791	462	4302
@@ -77,7 +77,7 @@ Shāhganj	2285	7780	675	0
 Shāhgadh	1936	7571	53	0
 Shāhdara	2868	7729	693	0
 Shāhdaura	2462	7759	410	0
-Shāhdara	2462	7759	410	0
+Shāhdara	2462	7759	410	0	Shāhdaura
 Shāhbāzpur	3135	7482	260	0
 Sahārwa	2892	7574	339	0
 Shāhāpur	1950	7575	53	0
@@ -85,21 +85,21 @@ Shāhāpur	1584	7452	77	0
 Shāhājāpur	1988	7435	152	0
 Shāhāda	2146	7430	186	0
 Shāhbād	2792	7681	482	0
-Shāhābād	2792	7681	482	0
+Shāhābād	2792	7681	482	0	Shāhbād
 Shāhbād	2525	7715	506	0
-Shāhābād	2525	7715	506	0
+Shāhābād	2525	7715	506	0	Shāhbād
 Shāhābād	2183	7312	151	0
 Shāhābād	1716	7813	62	0
 Sahasrām	2590	7759	335	0
-Sāhturi	2353	8686	415	0
+Sāhturi	2353	8686	415	0	Sānturi
 Sahrauli	2633	8350	325	0
 Sāhawa	2887	7485	539	0
 Sāho	3259	7623	362	0
-Sāhni	2439	7693	336	0
+Sāhni	2439	7693	336	0	Sānai
 Sāhna	3043	7538	726	0
 Sāhiya	3061	7788	448	0
 Sāhibganj	2693	8330	325	0
-Sāhabganj	2693	8330	325	0
+Sāhabganj	2693	8330	325	0	Sāhibganj
 Sāhībābād	2867	7737	727	0
 Sahgaon	2073	8109	668	0
 Saheri	2557	8345	26	0
@@ -108,7 +108,7 @@ Sahaspur	3039	7781	448	0
 Sāhāspur	2194	8429	627	0
 Sāhārābedi	2008	8644	456	0
 Sahāra	2519	7424	309	0
-Sahran	2519	7424	309	0
+Sahran	2519	7424	309	0	Sahāra
 Sahār	2763	7748	177	0
 Shahar	2661	7673	447	0
 Sāhar	2654	8586	556	0
@@ -119,15 +119,15 @@ Sāh	2588	8072	728	0
 Sahābsar	2804	7486	491	0
 Kābul Shāh	3029	7405	3	0
 Haidar Sāhibgūda	1737	7839	62	0
-Sahibguga	1737	7839	62	0
+Sahibguga	1737	7839	62	0	Haidar Sāhibgūda
 Fīroz Shāh	3088	7479	566	0
-Pheru Shahr	3088	7479	566	0
+Pheru Shahr	3088	7479	566	0	Fīroz Shāh
 Fatehpur Shāhbāz	2557	8534	716	0
-Fatehgarh Sahib	3053	7572	593	0
-Doru Shahabad	3358	7522	148	0
-Shāhjahānpur	2561	8601	138	0
+Fatehgarh Sahib	3053	7572	593	0	Fatehgarh
+Doru Shahabad	3358	7522	148	0	Doru
+Shāhjahānpur	2561	8601	138	0	Desri
 Kiri Shāh	3142	7517	260	0
-Bub Shahar	2986	7462	585	0
+Bub Shahar	2986	7462	585	0	Bubshahr
 Aurād Shāhjahāni	1806	7693	158	0
 Sahnali Chhoti	2817	7486	539	0
 Sahnāli Bari	2819	7486	539	0
@@ -142,7 +142,7 @@ Chashma Shāhi	3409	7489	611	0
 Bāgh Shukar Shāh	3402	7491	76	0
 Jewan Sāhib	3400	7500	428	0
 Shāhpur	3383	7419	1	0
-Sahāla	3350	7419	1	0
+Sahāla	3350	7419	1	0	Sarula
 Shāhpur	3334	7422	504	0
 Shāhnagri	3433	7421	0	0
 Shahrkot	3447	7410	0	0
@@ -171,21 +171,21 @@ Sahaura	3279	7497	581	0
 Sahāora	3066	7601	674	0
 Shāhjahānpur	2954	7691	457	0
 Mahāl Shāhān da	3251	7494	720	0
-Mahāl Shāhān	3251	7494	720	0
-Dag Shāhzādpur	3253	7495	720	0
-Shāhzādpur	3254	7496	720	0
+Mahāl Shāhān	3251	7494	720	0	Mahāl Shāhān da
+Dag Shāhzādpur	3253	7495	720	0	Dag Shajādpur
+Shāhzādpur	3254	7496	720	0	Shajadpur
 Sahāgpur	3252	7482	581	0
-Dabaj Shāhzāde	3258	7496	720	0
-Shāhpur	3257	7489	581	0
+Dabaj Shāhzāde	3258	7496	720	0	Dabhūj Shājāda
+Shāhpur	3257	7489	581	0	Chhāpur
 Shāhān ke Kothe	3257	7481	581	0
-Chak Miān Sāhib Singh	3260	7493	581	0
+Chak Miān Sāhib Singh	3260	7493	581	0	Mien Chak
 Shahzādpur	3265	7480	581	0
-Shāhzādpur Bhopa	3275	7475	581	0
+Shāhzādpur Bhopa	3275	7475	581	0	Bhopa Shajādpur
 Bāndi Shāhdara	3413	7398	301	0
 Shāhdara	3411	7396	301	0
-Gundi Shāh	3438	7379	0	0
+Gundi Shāh	3438	7379	0	0	Gundi Shāth
 Rām Sahaiwāla	3041	7790	448	0
-Sāhhāwāla	3036	7779	448	0
+Sāhhāwāla	3036	7779	448	0	Sābhāwāla
 Shāhjahānpur	3020	7782	449	0
 Shahīdwāla Grant	3010	7790	596	0
 Budhwa Shahīd	3009	7788	596	0
@@ -196,7 +196,7 @@ Shāhalīpur	2976	7715	449	0
 Gous Ali Sāhib	2938	7698	298	0
 Shāhpur Avval	2801	7612	694	0
 Sahol	3123	7703	479	0
-Shāhli	3121	7708	479	0
+Shāhli	3121	7708	479	0	Shari
 Shahach	3115	7705	479	0
 Shahpur	1722	7834	62	0
 Bade Shāhguda	1750	7870	311	0
@@ -238,7 +238,7 @@ Sahte Purwa	2710	7983	570	0
 Shāh Muhammad	2705	7989	570	0
 Sahalāpur	2703	7987	570	0
 Sahasārpur	2693	7904	290	0
-Sahsārpur	2693	7904	290	0
+Sahsārpur	2693	7904	290	0	Sahasārpur
 Sahwān	2684	7924	290	0
 Nawāda Mahipat Shāh	2647	7930	715	0
 Shāhzādpur	2632	7938	741	0
@@ -258,7 +258,7 @@ Shāhpur Rasūlābād	2662	7978	671	0
 Shāhnīkhera	2654	7999	671	0
 Sāhasnagar	2482	7943	663	0
 Sahajmālpur	2860	7564	431	0
-Sahajotālpur	2860	7564	431	0
+Sahajotālpur	2860	7564	431	0	Sahajmālpur
 Hardik shah (Chintu)	2270	7286	167	0
 Shāhpur	3249	7478	581	0
 Sāhebpāra	2645	8997	713	0
@@ -267,7 +267,7 @@ Sahārghutu	2644	8990	713	0
 Sahryngkham	2555	9196	340	0
 Shāhgarh	2447	7952	663	0
 Sahpau	2744	7814	670	0
-Shāhganj	2663	8204	629	0
+Shāhganj	2663	8204	629	0	Mukīmpur
 Shāhābād	2513	8668	538	0
 Sahkāri	2230	7927	337	0
 Metyal Sahar	2348	8676	415	0
@@ -285,7 +285,7 @@ Sahara	2284	8856	450	0
 Takia Rasūl Shah	3441	7467	120	0
 Takia Ahmad Shāh	3441	7470	120	0
 Shāhgund	3428	7457	120	0
-Kheri Miran Shāhi	2942	7670	367	0
+Kheri Miran Shāhi	2942	7670	367	0	Todi Kheri
 Sahānpur	2943	7670	367	0
 Shāhpur	2969	7690	457	0
 Shāhbāzpur Istmarār	2820	7652	519	0
@@ -390,7 +390,7 @@ Shahzādpur	2966	7820	575	0
 Sahdullāhpur	2962	7816	575	0
 Shahbāzpur	2951	7813	575	0
 Sahdevpur	2986	7802	596	0
-Shahbāzpur	2986	7802	596	0
+Shahbāzpur	2986	7802	596	0	Sahdevpur
 Shāhpur	2981	7814	596	0
 Sahka	2353	7837	338	0
 Sahajpuri	2328	7835	338	0
@@ -457,7 +457,7 @@ Khaki Shāh	3030	7563	726	0
 Sāhuke	3018	7559	593	0
 Shāhzāda Singhwāla	3013	7557	709	0
 Shāhpur Kalān	3014	7568	593	0
-Shahābuddīnpur	2999	7777	596	0
+Shahābuddīnpur	2999	7777	596	0	Chauli
 Sālehpur Shāhpur	2987	7785	596	0
 Shāhdara	2953	7781	545	0
 Shāhjahānpur Randaoli	2966	7788	545	0
@@ -479,10 +479,10 @@ Shahīdnagar	2868	7734	727	0
 Shāhpur	2874	7744	727	0
 Shāhābād	2865	7740	727	0
 Shāhbehri	2862	7744	588	0
-Chak Shāhbehri	2861	7741	588	0
+Chak Shāhbehri	2861	7741	588	0	Yūsufpur
 Shāhdara	2850	7742	588	0
 Shāhpur Bamheta	2865	7748	727	0
-Muhammad Shāhpur	2884	7730	477	0
+Muhammad Shāhpur	2884	7730	477	0	Fakharpur
 Shāhiahānpur	2898	7744	477	0
 Shāhpur Khurd	2828	7730	774	0
 Shāhpur Kalan	2828	7736	774	0
@@ -515,22 +515,22 @@ Mādal Shāhpur	2854	7647	609	0
 Shāhpur Taga	2914	7707	485	0
 Shāhpur Turk	2900	7707	485	0
 Shahanshāhi Āshram	3040	7811	448	0
-Shāhnagar	3029	7806	448	0
+Shāhnagar	3029	7806	448	0	Gorakhpur
 Sahasradhāra	3039	7813	448	0
-Sāhūwāla Goshānwāla	2949	7856	575	0
-Shāh Ālīpur Nechal	2938	7854	575	0
+Sāhūwāla Goshānwāla	2949	7856	575	0	Tānda Ranjit Ka
+Shāh Ālīpur Nechal	2938	7854	575	0	Madhaura
 Chak Shāhjāhani	2933	7850	575	0
-Shāh Ālīpur Uttamchand	2928	7858	575	0
+Shāh Ālīpur Uttamchand	2928	7858	575	0	Hadikpur
 Shāh Kot	2936	7863	575	0
 Shāhzādpur	2938	7859	575	0
-Shāharwāla	2947	7862	575	0
+Shāharwāla	2947	7862	575	0	Chāharwāla
 Shāhnagar Kurāli	2944	7860	575	0
 Shāh Ālīpur	2928	7870	575	0
 Shāhpur Jamāl	2933	7868	575	0
 Shāhpura	2897	7902	552	0
 Shāhdara	2898	7904	552	0
 Shahzādnagar	2894	7913	552	0
-Shāhdara	2884	7913	552	0
+Shāhdara	2884	7913	552	0	Thūnapur
 Milak Ibrāhīm Shāh	2877	7911	552	0
 Sāhū Nagla	2877	7914	552	0
 Shāhbāzpur	2842	7909	342	0
@@ -752,7 +752,7 @@ Sahībganj	2772	7990	470	0
 Ali Sāhibguda	1711	7831	62	0
 Nāngal Shāhpur	2798	7705	544	0
 Sāhalpur	2780	7708	114	0
-Shāhchakha	2788	7715	544	0
+Shāhchakha	2788	7715	544	0	Khari
 Shāhzādpur	2794	7710	544	0
 Banthal Shāhpur	2722	7952	688	0
 Shāhpura	2171	7630	209	0
@@ -836,12 +836,12 @@ Shahīdnagar	2596	7973	741	0
 Shāhjahānpur	2573	8102	728	0
 Sahora	2523	8038	663	0
 Shāhpur	2519	8050	463	0
-Shāhnagar	2562	8122	651	0
+Shāhnagar	2562	8122	651	0	Sultānpur Wāri
 Shāhīpur	2568	8106	728	0
-Sāhabpur	2568	8106	728	0
+Sāhabpur	2568	8106	728	0	Shāhīpur
 Shāhpur Hardāspur	2557	8119	728	0
 Shāhpur Charki	2556	8120	728	0
-Chak Shāhjahanpur	2550	8117	728	0
+Chak Shāhjahanpur	2550	8117	728	0	Dāmpur
 Shāhnagar	2554	8113	728	0
 Shāhpura	2203	7680	209	0
 Pura Rudra Shāh	2572	8202	607	0
@@ -1050,7 +1050,7 @@ Kāzi Shāhpur	2598	8259	32	0
 Shāhpur Sāni	2593	8256	32	0
 Sahnāpur	2589	8259	32	0
 Shahābuddīnpur	2587	8266	32	0
-Chak Bhawāni Shahkor	2588	8266	32	0
+Chak Bhawāni Shahkor	2588	8266	32	0	Tiwārīpur
 Chak Shāh Chayās	2594	8267	32	0
 Shāhpur	2597	8269	32	0
 Sahanpur	2574	8263	32	0
@@ -1144,7 +1144,7 @@ Shahābuddīnpur	2565	8290	32	0
 Shāhpur	2556	8290	251	0
 Sahmalpur	2552	8290	251	0
 Shāhpur	2864	7683	609	0
-Shāhjahānpur Roshan	2950	7833	575	0
+Shāhjahānpur Roshan	2950	7833	575	0	Garīkpur
 Sahemanpur	2601	8085	728	0
 Sahnipur	2606	8084	681	0
 Purwa Lāl Sāhib	2613	8088	681	0
@@ -1162,29 +1162,29 @@ Sāhanpur Nānu	2969	7834	575	0
 Sāhanpur Nānu	2968	7836	575	0
 Girdāwa Sāhanpur	2963	7832	575	0
 Shāhpur	2963	7834	575	0
-Sāhabpur Umrāosingh	2961	7825	575	0
-Islāmpur Shah Āli	2957	7825	575	0
-Shāh Alīpur Naki	2958	7833	575	0
-Shāhjahānpur	2958	7836	575	0
+Sāhabpur Umrāosingh	2961	7825	575	0	Lāhak
+Islāmpur Shah Āli	2957	7825	575	0	Mūsepur
+Shāh Alīpur Naki	2958	7833	575	0	Bājāwāla
+Shāhjahānpur	2958	7836	575	0	Kharampur
 Shāhlīpur Khās	2956	7850	575	0
-Shāh Alīpur Jaman	2956	7843	575	0
+Shāh Alīpur Jaman	2956	7843	575	0	Rāipur Sādat
 Shāhzādpur	2955	7833	575	0
 Shāhpur Mīrān	2956	7827	575	0
-Rasūlpur Shāhbuddīn	2951	7825	575	0
-Shāhabpura	2952	7835	575	0
-Shāh Abdul Satār	2952	7833	575	0
-Sahsun	2948	7843	575	0
-Shāh Muzaffarpur	2948	7846	575	0
+Rasūlpur Shāhbuddīn	2951	7825	575	0	Sherpur
+Shāhabpura	2952	7835	575	0	Hindūpur
+Shāh Abdul Satār	2952	7833	575	0	Madanpur
+Sahsun	2948	7843	575	0	Maiakpur
+Shāh Muzaffarpur	2948	7846	575	0	Chamrāwāla
 Shāh Alīpur	2946	7837	575	0
-Hakīkatpur Sahsun	2945	7839	575	0
+Hakīkatpur Sahsun	2945	7839	575	0	Jītpura Palari
 Mubārakpur Sahārn	2946	7834	575	0
 Shāhbāzpur	2941	7836	575	0
 Ali Shāhpur	2942	7847	575	0
 Shāh Kamāl	2940	7845	575	0
 Shāhpur Saidu	2940	7828	575	0
-Shāhdatnagar	2934	7840	575	0
+Shāhdatnagar	2934	7840	575	0	Dūndakheri
 Shāhnagar	2928	7832	575	0
-Shāhābād	2926	7837	575	0
+Shāhābād	2926	7837	575	0	Dāmnagar Ināyatpur
 Shahbāzpur	2787	8108	323	0
 Sāhibnagar	2787	8110	323	0
 Sāhi Behar	2781	8118	323	0
@@ -1308,7 +1308,7 @@ Shāhpur	2116	7957	404	0
 Sāhuli	2110	7957	404	0
 Shāhpur Dhameri	2903	7834	575	0
 Shāhanpur Nawāda	2925	7842	575	0
-Shāhnazarpur	2922	7842	575	0
+Shāhnazarpur	2922	7842	575	0	Kot
 Sāhanpur	2922	7840	575	0
 Shāhidpur Gulāl	2920	7842	575	0
 Shahbāzpur	2908	7841	575	0
@@ -1432,7 +1432,7 @@ Shāhpur Khurd	2870	7826	483	0
 Hāil Sāhib ka Bangla	2714	8173	542	0
 Rām Sahāi	2706	8174	542	0
 Shāhbāzpur	2852	7839	483	0
-Shāhbāzpur	2852	7850	646	0
+Shāhbāzpur	2852	7850	646	0	Ludhanpur
 Sahra	2856	7850	646	0
 Shāhpur	2703	8168	542	0
 Sahasrānwān	2741	8180	294	0
@@ -1446,7 +1446,7 @@ Shāhjahānābād	2827	7838	646	0
 Sahatua	2840	7842	646	0
 Shāhpur	2834	7844	646	0
 Mazra Shāhpur	2834	7846	646	0
-Shāhpur	2895	7856	511	0
+Shāhpur	2895	7856	511	0	Adhampur
 Nagla Miran Shāh	2892	7855	483	0
 Shāhbāzpur	2887	7853	483	0
 Shāhbāzpur Kalān	2877	7856	646	0
@@ -1524,7 +1524,7 @@ Pura Bībī Sāhiba	2651	8161	662	0
 Shāhābgarh	2652	8163	662	0
 Shāhpur Shamsul Haq	2658	8165	662	0
 Dargah Shāh Samiuddīn	2658	8165	662	0
-Shāhpur	2651	8164	662	0
+Shāhpur	2651	8164	662	0	Purwa Saidan
 Sahri	2662	8155	30	0
 Pura Sat Gur Sahār	2698	8176	542	0
 Takia Daulat Shāh	2678	8177	629	0
@@ -1542,9 +1542,9 @@ Sahjipur	2608	8187	662	0
 Purwa Girdhar Sahāi	2619	8189	662	0
 Sahri	2618	8193	662	0
 Nawāda Shāhpur	2863	7875	511	0
-Sahaspur	2861	7880	511	0
+Sahaspur	2861	7880	511	0	Rustamnagar
 Shāhpur	2857	7881	511	0
-Shāhgarh	2858	7890	511	0
+Shāhgarh	2858	7890	511	0	Gaura
 Shāhpur Deb	2852	7898	552	0
 Shāhdara	3355	7435	504	0
 Sāhabwāla	3351	7448	504	0
@@ -1866,7 +1866,7 @@ Sahnsi	2662	8326	325	0
 Sahridānd	2657	8334	325	0
 Sahwāpār	2652	8328	325	0
 Saharia	2653	8344	325	0
-Sāhūkol	2666	8342	325	0
+Sāhūkol	2666	8342	325	0	Mirzāpur
 Sahjūpār	2670	8328	325	0
 Sahdewāpār	2650	8326	325	0
 Shāhpur Buzurg	2643	8326	325	0
@@ -2080,7 +2080,7 @@ Sahota	3158	7573	296	0
 Shāh Nūr	3172	7568	296	0
 Jia Sahota Khurd	3173	7572	296	0
 Jia Sahota Kalān	3174	7574	296	0
-Sahaspur	2117	8060	474	0
+Sahaspur	2117	8060	474	0	Bānspahār
 Sahaspur	2176	8087	509	0
 Jūnā Shahar	2228	8213	291	0
 Sahaspur Dallī	2132	8099	474	0
@@ -2195,7 +2195,7 @@ Shāhpur	3020	7763	449	0
 Shahābuddīnpur	3019	7763	449	0
 Shahābpur	3011	7767	449	0
 Shāhzādpur	3014	7772	449	0
-Sāhubhāgar	2368	7602	347	0
+Sāhubhāgar	2368	7602	347	0	Pura
 Sāhpur	2351	8382	341	0
 Shāhzādpur	2902	7786	700	0
 Shahpur	2922	7795	700	0
@@ -2300,7 +2300,7 @@ Sahni	2680	8172	629	0
 Shāhpur	2676	8173	629	0
 Sāhāpur	2685	8174	629	0
 Rām Shāh	2695	8166	30	0
-Shāh Ālam	2687	8159	30	0
+Shāh Ālam	2687	8159	30	0	Saraiyān Khati
 Shāhpur	2675	8163	629	0
 Pura Bhīkham Shāh	2638	8152	662	0
 Shāhmau	2632	8151	662	0
@@ -2492,7 +2492,7 @@ Bhādsarā Sahrāī	2884	7977	683	0
 Mohanpur Sahrāī	2882	7977	683	0
 Koelārā Sahrāī	2888	7982	641	0
 Golariā Bithra Sahrāī	2876	7992	641	0
-Pachpera Tāluka Shāhpur	2850	7989	683	0
+Pachpera Tāluka Shāhpur	2850	7989	683	0	Pachpera
 Piparia Nawadia Sahrāi	2855	7991	683	0
 Nagphan Rasoia Sahrāi	2856	7993	683	0
 Lalpuria Sāhib Singh	2864	7985	683	0
@@ -2676,7 +2676,7 @@ Mudena Rūp Shāh	2662	7927	715	0
 Sahābpur Baindi	2660	7931	715	0
 Shāhbāzpur	2657	7929	715	0
 Shāhpur	2654	7933	715	0
-Shāhbāzpur	2654	7944	715	0
+Shāhbāzpur	2654	7944	715	0	Rajohanpur
 Shāhābāda	2650	7945	715	0
 Shāh Ālampur	2657	7948	715	0
 Shāhpur	1534	7631	66	0
@@ -2737,7 +2737,7 @@ Shāhābād	2526	8750	461	0
 Shāhjahānpur	2594	8515	716	0
 Sarai Sāhu	2589	8505	540	0
 Chak Shāhbāz	2590	8507	540	0
-Shāhābād	2587	8513	716	0
+Shāhābād	2587	8513	716	0	Pirāpur
 Arāzi Shāhbāzpur	2577	8520	716	0
 Sahtāh	2586	8524	716	0
 Shāhpur Tewari	2589	8519	716	0
@@ -2832,7 +2832,7 @@ Sisori Shahamat	2790	8009	323	0
 Sahdewa	2794	8018	323	0
 Bijauli Sāhaspur	2787	8021	323	0
 Sahjanān	2779	8006	323	0
-Shahabpur	2779	8006	323	0
+Shahabpur	2779	8006	323	0	Sahjanān
 Sahjana	2791	8013	323	0
 Sahjāpur	2773	8000	470	0
 Saharwa	2768	8008	686	0

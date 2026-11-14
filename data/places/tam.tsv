@@ -1,5 +1,5 @@
-Tamizhagam	1309	8028	204	4681087
-Tamulinadu	1309	8028	204	4681087
+Tamizhagam	1309	8028	204	4681087	Chennai
+Tamulinadu	1309	8028	204	4681087	Chennai
 Tambaram	1292	8013	247	174787
 Tamlūk	2230	8793	559	48646
 Tammampatti	1144	7849	51	21503
@@ -8,10 +8,10 @@ Tāmaraikkulam	1011	7756	194	12372
 Tamarakutamkudiyiruppu	810	7749	453	11872
 Tamgaon	1665	7430	57	5223
 Thammānwāl	3102	7567	369	647
-Tamalwādi	1784	7596	48	0
+Tamalwādi	1784	7596	48	0	Timdūlvādi
 Thamo	3420	7593	8	0
 Tamze	2742	8877	27	0
-Tamza	2742	8877	27	0
+Tamza	2742	8877	27	0	Tamze
 Tāmulpur	2662	9157	555	0
 Tāmsi	1969	7842	282	0
 Tāmsa	1937	7761	140	0
@@ -19,10 +19,10 @@ Tamra	2269	8451	495	0
 Tāmra	2198	8479	272	0
 Tamoria	2625	8636	556	0
 Tamnar	2209	8344	439	0
-Tamnur	2209	8344	439	0
+Tamnur	2209	8344	439	0	Tamnar
 Tammu	2784	9437	557	0
 Tammenapatam	1423	8010	45	0
-Tammenapatnam	1423	8010	45	0
+Tammenapatnam	1423	8010	45	0	Tammenapatam
 Tāmma	2518	9372	558	0
 Tāmlū	2667	9474	84	0
 Tāmlor	2572	7054	285	0
@@ -31,32 +31,32 @@ Tamki	2363	8284	413	0
 Tamkhung	2638	9501	149	0
 Tamid Arung	2891	9457	392	0
 Tamia	2234	7867	337	0
-Tamla	2234	7867	337	0
-Tāmiya	2234	7867	337	0
+Tamla	2234	7867	337	0	Tamia
+Tāmiya	2234	7867	337	0	Tamia
 Tamboxem	1576	7384	188	0
-Tamborcem	1576	7384	188	0
+Tamborcem	1576	7384	188	0	Tamboxem
 Tāmesra	2326	7435	166	0
-Tāmbesra	2326	7435	166	0
+Tāmbesra	2326	7435	166	0	Tāmesra
 Tambe Rājuri	1885	7549	33	0
 Tambarahalli	1515	7615	366	0
 Tamballapalle	1382	7845	195	0
 Tāmba	1700	7599	80	0
 Tāmasvādi	2078	7505	78	0
 Tāmā Hāt	2630	8985	561	0
-Tamarhāt	2630	8985	561	0
+Tamarhāt	2630	8985	561	0	Tāmā Hāt
 Tāmarakulam	915	7661	243	0
 Tāmarakarai	1177	7756	211	0
 Tamār	2305	8565	562	0
 Tamālu	920	9282	79	0
-Tamala	920	9282	79	0
-Tamalco	920	9282	79	0
+Tamala	920	9282	79	0	Tamālu
+Tamalco	920	9282	79	0	Tamālu
 Mārg Tāmhana	1747	7334	234	0
-Tamei	2790	9630	475	0
-Tambrah	3376	7420	1	0
+Tamei	2790	9630	475	0	Demwē
+Tambrah	3376	7420	1	0	Timble
 Tāmi	3378	7429	1	0
 Tamor	3259	7496	720	0
 Thamni	3438	7379	0	0
-Tamkor	2844	7525	300	0
+Tamkor	2844	7525	300	0	Bishangarh
 Tamakloda	3013	7658	564	0
 Sheopuri Tamarwa	2696	7908	290	0
 Tamora	2477	7910	481	0
@@ -72,7 +72,7 @@ Tamsang	2701	8822	573	0
 Tāmba Kheri	2890	7543	539	0
 Thamāri	3148	7702	278	0
 Tham Thāch	3133	7715	278	0
-Tambuwāla	3049	7430	3	0
+Tambuwāla	3049	7430	3	0	Chak Rorānwāla
 Tāmkot	3035	7447	615	0
 Chak Tāmkot	3035	7445	615	0
 Thammanwāla	3081	7498	499	0
@@ -95,7 +95,7 @@ Tāmthuk	2719	8825	617	0
 Tamkoli	2678	7733	447	0
 Tamkodi	3079	7609	674	0
 Tambua	3046	7614	564	0
-Tamānsuwāla	3023	7608	593	0
+Tamānsuwāla	3023	7608	593	0	Nandgarh
 Tamaswādi	1915	7662	153	0
 Tāmkalas	1916	7693	153	0
 Tāmarwādi	1813	7666	158	0
@@ -191,7 +191,7 @@ Imādpur Thamraī	2754	7942	688	0
 Tamarsapur	2577	8266	32	0
 Tamha	2596	8274	32	0
 Bāzār Tamānchābād	2527	8270	251	0
-Tammalganj	2511	8286	201	0
+Tammalganj	2511	8286	201	0	Jagdīspur
 Tammanpatti	2513	8287	201	0
 Tāmsābād	2941	7713	298	0
 Tāmaspura	2862	7654	609	0
@@ -295,7 +295,7 @@ Tamge Khurd	2392	8380	743	0
 Thāmtolī	2389	8397	701	0
 Thamāra	3092	7780	479	0
 Tāmarapalle	1738	8177	268	0
-Tamandih	2161	8315	635	0
+Tamandih	2161	8315	635	0	Nawadih
 Tamtora	2144	8309	635	0
 Tamkoli	2807	7802	543	0
 Tāmbimunda	2121	8341	497	0

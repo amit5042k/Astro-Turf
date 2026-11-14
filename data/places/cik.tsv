@@ -1,53 +1,53 @@
 Chikmagalūr	1332	7577	98	121484
-Chikmugalūr	1332	7577	98	121484
-Chikkamagaluru	1332	7577	98	121484
+Chikmugalūr	1332	7577	98	121484	Chikmagalūr
+Chikkamagaluru	1332	7577	98	121484	Chikmagalūr
 Chik Ballāpur	1344	7773	438	63652
-Chikkaballapura	1344	7773	438	63652
+Chikkaballapura	1344	7773	438	63652	Chik Ballāpur
 Chikhli	2035	7626	49	57889
 Chīka	3005	7634	638	38952
 Chikodi	1643	7459	77	38307
-Cīkāl	1124	7974	203	34927
+Cīkāl	1124	7974	203	34927	Sīrkāzhi
 Chiknāyakanhalli	1342	7662	93	24292
 Chik Bānavar	1308	7750	43	14409
 Chikiti	1920	8461	440	11645
-Chīkati	1920	8461	440	11645
-Chikitigarh	1920	8461	440	11645
+Chīkati	1920	8461	440	11645	Chikiti
+Chikitigarh	1920	8461	440	11645	Chikiti
 Chikkabidarakallu	1305	7749	43	11554
 Chikhli Kalān	2222	7874	337	9840
-Neuton Chikhli Kalan	2222	7874	337	9840
-Chiquilim	1540	7384	102	7787
+Neuton Chikhli Kalan	2222	7874	337	9840	Chikhli Kalān
+Chiquilim	1540	7384	102	7787	Chicalim
 Chikhli	2076	7306	221	7480
 Chikjājūr	1413	7614	255	6236
-Chikkajajur	1413	7614	255	6236
+Chikkajajur	1413	7614	255	6236	Chikjājūr
 Chikhlākasa	2060	8108	668	6160
-Chikhalakasa	2060	8108	668	6160
+Chikhalakasa	2060	8108	668	6160	Chikhlākasa
 Chikhaldara	2140	7732	133	5158
-Chikalda	2140	7732	133	5158
+Chikalda	2140	7732	133	5158	Chikhaldara
 Chikhla	2155	7976	404	4352
 Chikhesrūr	1611	7664	50	0
 Chikupalle	1847	8049	226	0
 Chiklitan	3446	7652	8	0
 Chikli Buzurg	1954	7825	140	0
-Chikli	1954	7825	140	0
+Chikli	1954	7825	140	0	Chikli Buzurg
 Chīklār	2405	7462	633	0
 Chīkla	2407	7537	580	0
 Chikkerūr	1453	7531	92	0
 Chikhli	2343	7396	512	0
 Chikhli Buzurg	2184	7842	462	0
-Chikhli	2184	7842	462	0
+Chikhli	2184	7842	462	0	Chikhli Buzurg
 Chīkhli	2147	7397	254	0
 Chikhī	2100	7615	78	0
-Chikhli	2100	7615	78	0
+Chikhli	2100	7615	78	0	Chikhī
 Chikhli	2057	7800	67	0
 Chikhli	2018	7302	233	0
 Chikhli	2002	7579	53	0
 Chikhali	1645	7432	57	0
-Chikhli	1645	7432	57	0
+Chikhli	1645	7432	57	0	Chikhali
 Chikda	2152	7365	254	0
 Chikāra	2460	7441	417	0
 Chikalthān	2020	7520	113	0
 Chikalthān	1988	7538	113	0
-Chikalthana	1988	7538	113	0
+Chikalthana	1988	7538	113	0	Chikalthān
 Chikaldongri	1948	7279	192	0
 Chikalda	2208	7489	130	0
 Chikal Bhīr	1890	7600	33	0
@@ -232,7 +232,7 @@ Chikhlāpār	2050	7942	111	0
 Chikhli	2098	7961	141	0
 Chikhli	2094	7973	404	0
 Chikna	2087	7987	404	0
-Chikhildhokra	2069	7989	404	0
+Chikhildhokra	2069	7989	404	0	Vihirgaon
 Chikhalgaon	2063	7992	111	0
 Chikhalgaon	2038	7964	111	0
 Chikmāra	2023	7977	111	0
@@ -252,7 +252,7 @@ Chikli	1929	7807	140	0
 Chīkli	2480	7640	333	0
 Chikatguda	1716	7952	101	0
 Chikatguda	1715	7952	101	0
-Chiklaua	2481	7863	384	0
+Chiklaua	2481	7863	384	0	Burogaon
 Chik Hāvalgi	1708	7639	80	0
 Chik Sindgi	1689	7622	80	0
 Chik Bādvādgi	1604	7604	86	0
@@ -334,7 +334,7 @@ Chīkli	2229	7571	329	0
 Chīkli	2255	7597	660	0
 Chikhi	2142	7521	248	0
 Chikhlī	2223	8006	368	0
-Chikni	2401	7265	164	0
+Chikni	2401	7265	164	0	Sardarpur
 Chikhli	2054	8142	652	0
 Chikli	2012	8135	704	0
 Chikhlītolā	2261	8052	480	0
@@ -362,8 +362,8 @@ Chikhli	2124	8262	407	0
 Chikhli	2057	8005	135	0
 Chikhli	2064	8017	135	0
 Chikhaldhokra	2063	8032	135	0
-Chikhalghāta	2068	8048	135	0
-Chiklākasa	2013	8034	135	0
+Chikhalghāta	2068	8048	135	0	Jorātarai
+Chiklākasa	2013	8034	135	0	Boria
 Chikhli	2082	8071	644	0
 Chikhlākasa	2078	8084	474	0
 Chikhātola	2062	8085	644	0
@@ -414,7 +414,7 @@ Chiknagūda	1887	8243	316	0
 Chikma	1872	8248	316	0
 Chikamput	1855	8248	316	0
 Chikkabādi	1926	8355	363	0
-Chikatmāti	1868	8250	316	0
+Chikatmāti	1868	8250	316	0	Pambi
 Chikkāpāru	1874	8282	316	0
 Chikkamariguda	1852	8297	316	0
 Chikroguttavalasa	1851	8297	316	0

@@ -1,13 +1,13 @@
 Guskhara	2349	8773	375	33780
 Gushāl	3255	7697	425	0
-Ghusa	3255	7697	425	0
-Gushai	3255	7697	425	0
+Ghusa	3255	7697	425	0	Gushāl
+Gushai	3255	7697	425	0	Gushāl
 Gush	3452	7423	0	0
-Gushi	3452	7423	0	0
+Gushi	3452	7423	0	0	Gush
 Ghusuri	2262	8835	354	0
-Ghusri	2262	8835	354	0
+Ghusri	2262	8835	354	0	Ghusuri
 Ghusiya	2518	8425	409	0
-Ghusiya Kalān	2518	8425	409	0
+Ghusiya Kalān	2518	8425	409	0	Ghusiya
 Ghusia	2304	8090	468	0
 Behta Gusaīn	2821	7890	117	0
 Gusāīnsar	2807	7469	539	0
@@ -15,7 +15,7 @@ Gusāinsar	2825	7394	307	0
 Gusāin ki Dhāni	2807	7540	300	0
 Gusāīn Ka Pura	2480	7886	481	0
 Gusāīndāspur	2712	7986	570	0
-Ghusūpur	2698	7918	290	0
+Ghusūpur	2698	7918	290	0	Ghauspur
 Gusāīn Purwa	2689	7958	570	0
 Gusāīyāli Dhāni	2887	7441	539	0
 Ghuskānl	2900	7657	719	0
@@ -97,7 +97,7 @@ Purwa Ghusai	2605	8184	662	0
 Milak Gusāīnwāli	2869	7891	511	0
 Gusari	2854	7895	646	0
 Gusaindpur	2731	8206	542	0
-Gusyāna	2976	7911	612	0
+Gusyāna	2976	7911	612	0	Kota
 Ghusiār	2743	8231	280	0
 Budhi Gusiāri	2703	8290	292	0
 Gusiāri	2704	8291	292	0
@@ -123,7 +123,7 @@ Ghusgaon	2181	7526	248	0
 Ghusardi Khurd	2063	7513	78	0
 Ghusardi Budrukh	2058	7517	78	0
 Ghusur	2017	7517	113	0
-Ghussuwāla	3111	7510	566	0
+Ghussuwāla	3111	7510	566	0	Akbarwāla
 Ghusmārā	2151	8047	144	0
 Ghusaria	2298	8202	757	0
 Guser Khera	2702	8067	714	0

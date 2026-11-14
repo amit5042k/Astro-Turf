@@ -1,7 +1,7 @@
 Jāfarābād	2868	7727	693	54601
-Jaffrabad	2868	7727	693	54601
+Jaffrabad	2868	7727	693	54601	Jāfarābād
 Jāfarābād	2087	7137	216	27167
-Jafrabad	2087	7137	216	27167
+Jafrabad	2087	7137	216	27167	Jāfarābād
 Zafarābād	2570	8273	32	9106
 Jaffrabad	1269	7861	184	8121
 Jāfarpur Kalān	2859	7692	763	6573
@@ -17,7 +17,7 @@ Jāfarpura	2689	7924	290	0
 Jāfarābād	2687	7910	290	0
 Jāfarpur	2689	7906	290	0
 Jafarpur	2278	8839	450	0
-Zafarwāl	2955	7548	443	0
+Zafarwāl	2955	7548	443	0	Dhar
 Zafarpur	3032	7714	691	0
 Jāfarpur Jāfari	3044	7727	88	0
 Jāfirpur	2953	7816	575	0
@@ -40,11 +40,11 @@ Zafargarh	2816	7769	588	0
 Madauna Jāfarābād	2861	7795	637	0
 Jāfrābād	2642	7787	478	0
 Jāfrābād ka Pura	2642	7788	478	0
-Jaffarnagar	3043	7647	564	0
+Jaffarnagar	3043	7647	564	0	Shādiwāl
 Jāfarpur	3018	7635	564	0
 Jāfarpur	2788	7762	177	0
 Jāfarnagar	2726	7767	177	0
-Zafargarh	2909	7643	367	0
+Zafargarh	2909	7643	367	0	Khudāli
 Rauza Jafar Khan	2721	7803	546	0
 Jāfarpur	2701	7873	403	0
 Zafarābād	2707	7851	403	0
@@ -72,7 +72,7 @@ Chak Zafarpur	2570	8134	651	0
 Zafrābād	2528	8293	251	0
 Jafra	2513	8220	607	0
 Jāfarpur Kalān	2867	7700	771	0
-Zafarullāpur	2948	7830	575	0
+Zafarullāpur	2948	7830	575	0	Ināmpur
 Jāfrābād	2970	7844	575	0
 Jafīrpur	2955	7830	575	0
 Hardāspur Jāfrābād	2928	7831	575	0
@@ -81,7 +81,7 @@ Jāfarpur Kalān	2744	8112	507	0
 Pura Jhafa	2709	8183	542	0
 Chak Jāfarnagar	2677	8124	30	0
 Zaphar Purwa	2669	8124	30	0
-Jafarpur Kot	2914	7837	575	0
+Jafarpur Kot	2914	7837	575	0	Kot
 Jāfarābād Kurai	2912	7839	575	0
 Milak Jāfar Husainpur	2904	7838	575	0
 Jafarpur	2668	8136	30	0
@@ -136,7 +136,7 @@ Qāzīpur Gulām Jāfar	2575	8157	718	0
 Jāfarābād Kotia	2649	8360	535	0
 Jafarpur	2601	8350	586	0
 Jāfarābād Tong	1871	8023	135	0
-Zafarpur	2569	8364	26	0
+Zafarpur	2569	8364	26	0	Sahibpur
 Jāfarpur	3207	7541	487	0
 Jāfarābād	2246	7560	660	0
 Bhatāna Jāfarābād	2906	7694	485	0
@@ -157,7 +157,7 @@ Zaffarpur	2885	7895	511	0
 Jāfarpur	2761	8125	507	0
 Zafarpur	2713	8132	30	0
 Japhayi	1909	8362	199	0
-Jāfarābād	2308	7677	675	0
+Jāfarābād	2308	7677	675	0	Siākheri
 Jāfarpur	2900	7932	641	0
 Jafarpur	2585	8491	540	0
 Jafra Bhagwānpur	2550	8489	604	0

@@ -1,27 +1,27 @@
 Jasdan	2204	7121	174	48483
 Jaspur	2928	7883	641	42524
 Jashpur Nagar	2289	8414	398	28301
-Jashpur	2289	8414	398	28301
+Jashpur	2289	8414	398	28301	Jashpur Nagar
 Jaswantnagar	2688	7890	290	27777
 Jasidih	2451	8665	502	16338
 Jasrāna	2724	7865	403	9883
 Jasai	1893	7302	17	8234
 Jasrāsar	2771	7381	307	8000
 Jaswantpura	2480	7246	343	5111
-Jashīpur	2196	8608	382	5101
+Jashīpur	2196	8608	382	5101	Joshipur
 Jaswāri	2179	7643	209	0
 Jaswantgarh	2765	7446	430	0
 Jasuntsar	2888	7379	307	0
 Jassowāl	3080	7582	674	0
 Jassākhera	2583	7408	572	0
 Jasrāpura	2803	7572	300	0
-Jasrapur	2803	7572	300	0
+Jasrapur	2803	7572	300	0	Jasrāpura
 Jaspura	2581	8038	463	0
 Jaspur	2172	8305	635	0
 Jasol	2582	7222	285	0
 Jaso	2450	8050	324	0
 Jasmergarh	3246	7527	496	0
-Jasmīrgarh	3246	7527	496	0
+Jasmīrgarh	3246	7527	496	0	Jasmergarh
 Jāshma	2495	7423	417	0
 Jasāna	2927	7481	486	0
 Jāsāsar	2826	7472	539	0
@@ -70,11 +70,11 @@ Jashal	3127	7711	278	0
 Jassiāna	3056	7452	615	0
 Jashlon	3114	7755	479	0
 Jāshla	3117	7759	479	0
-Jaswantpura	2666	7630	708	0
+Jaswantpura	2666	7630	708	0	Neri
 Jaswantpura	2844	7545	539	0
 Jaspur Ranjītpur	2969	7817	596	0
 Jasodharpur	2978	7811	596	0
-Jashodānandanpura	2650	7606	313	0
+Jashodānandanpura	2650	7606	313	0	Thūni
 Jasrāj	2373	7883	352	0
 Jastāna	2638	7637	116	0
 Jasarathi	2349	7852	338	0
@@ -86,7 +86,7 @@ Sultānnagar Jasar	2914	7752	700	0
 Jasratpur	2918	7772	700	0
 Jassi Bāghwāli	3005	7481	563	0
 Jassipauwāli	3015	7497	563	0
-Jassa Khera	2984	7456	585	0
+Jassa Khera	2984	7456	585	0	Tija Khera
 Jaspur	3096	7513	499	0
 Jaswantpura	2550	7418	309	0
 Jassowāl	3079	7560	674	0
@@ -95,7 +95,7 @@ Jassarwāl	3015	7558	593	0
 Jassarwāla	3006	7558	709	0
 Jaswāwāla	2996	7796	596	0
 Kailāpur Jasmor	2934	7799	545	0
-Mājra Kailāpur Jasmor	2934	7798	545	0
+Mājra Kailāpur Jasmor	2934	7798	545	0	Rumālpuri
 Jassiān	3095	7582	674	0
 Jaspāl Bāngal	3084	7591	674	0
 Jassar	3080	7592	674	0
@@ -175,7 +175,7 @@ Jashratkheri	2417	7756	215	0
 Jasankheri	2431	7796	410	0
 Jaslya	2433	7787	410	0
 Jasrāna	2774	7805	670	0
-Jasratpur	2723	7840	403	0
+Jasratpur	2723	7840	403	0	Pāni Ka Gaon
 Jashtāmau	2659	7966	671	0
 Jasa Ka Purwa	2662	7950	715	0
 Jasāpur	2648	7965	671	0
@@ -222,7 +222,7 @@ Jaswant Khera	2642	8086	312	0
 Jasaumau	2628	8099	681	0
 Jasāt	2833	7667	630	0
 Jaswant Khera	2620	8076	312	0
-Jaswantpur	2964	7838	575	0
+Jaswantpur	2964	7838	575	0	Lukādhri
 Jaspur	2963	7825	575	0
 Gujarpur Jaspāl	2937	7826	575	0
 Jasmaura	2929	7842	575	0
@@ -242,7 +242,7 @@ Jasmaur	2920	7864	575	0
 Jaskot	2971	7889	612	0
 Jasu Jot	2943	7880	575	0
 Rāmnagar Jaspur	2932	7884	641	0
-Jaspur	2932	7888	641	0
+Jaspur	2932	7888	641	0	Bhogpur
 Jaspur Khurd	2921	7897	641	0
 Jaspur Khurd	2921	7899	641	0
 Jaspur Khurd	2922	7898	641	0
@@ -304,7 +304,7 @@ Jaswān	3228	7546	692	0
 Jassar	3250	7554	496	0
 Jasra	2528	8178	607	0
 Jaswal Lahri	3225	7556	692	0
-Jaswali	3225	7556	692	0
+Jaswali	3225	7556	692	0	Jaswal Lahri
 Jasalta	3229	7588	38	0
 Jasur	3228	7585	38	0
 Jasāna	2138	7470	190	0
@@ -371,8 +371,8 @@ Jasuni Muwāra	2307	7391	173	0
 Sree Jaswant Sagar Dam	2412	7278	134	0
 Jaswāpur	2410	7281	134	0
 Jaspur	2968	7913	429	0
-Jasa Gānja	2936	7911	551	0
-Jaswantnagar	2528	7301	273	0
+Jasa Gānja	2936	7911	551	0	Jakha Gāja
+Jaswantnagar	2528	7301	273	0	Bitiān
 Jaswantābād	2579	7336	273	0
 Jasia Ijar	2987	7940	429	0
 Jaskhola	2999	7940	183	0

@@ -25,6 +25,89 @@ export function wordKeys(name) {
   return out;
 }
 
+// ---------- Hindi (Devanagari) input ----------
+// A Devanagari query is turned into a pattern over the same phonetic key the Latin names use.
+// Each token is a list of alternatives in key-space; `opt` tokens may be absent. The inherent "a"
+// is required after a word's first consonant and optional elsewhere (Hindi drops it: कानपुर = Kanpur).
+const DEV_CONS = {
+  'क': ['k'], 'ख': ['k'], 'ग': ['g'], 'घ': ['g'], 'ङ': ['n'], 'च': ['c'], 'छ': ['c'], 'ज': ['j'], 'झ': ['j'], 'ञ': ['n'],
+  'ट': ['t'], 'ठ': ['t'], 'ड': ['d'], 'ढ': ['d'], 'ण': ['n'], 'त': ['t'], 'थ': ['t'], 'द': ['d'], 'ध': ['d'], 'न': ['n'],
+  'प': ['p'], 'फ': ['f', 'p'], 'ब': ['b'], 'भ': ['b'], 'म': ['m'], 'य': ['y', 'i'], 'र': ['r'], 'ल': ['l'], 'ळ': ['l'],
+  'व': ['v', 'b'], 'श': ['s'], 'ष': ['s'], 'स': ['s'], 'ह': ['h'],
+  // nukta forms
+  'क़': ['k'], 'ख़': ['k'], 'ग़': ['g'], 'ज़': ['j'], 'ड़': ['r', 'd'], 'ढ़': ['rh', 'r', 'd'], 'फ़': ['f'], 'य़': ['y'],
+};
+const V = {
+  a: ['a'], i: ['i', 'e', 'y'], u: ['u', 'o'], e: ['e', 'i', 'ei', 'ai', 'ay', 'ey'], ai: ['ai', 'ae', 'ay', 'ei', 'e', 'a'],
+  o: ['o', 'u', 'au', 'ou'], au: ['au', 'ou', 'o', 'av'], ri: ['ri', 'ru', 'r'],
+};
+const SCHWA_FIRST = ['a', 'e', 'u'];
+const SCHWA = ['a', 'e', 'u', 'o'];
+const DEV_VOWEL = { 'अ': V.a, 'आ': V.a, 'इ': V.i, 'ई': V.i, 'उ': V.u, 'ऊ': V.u, 'ए': V.e, 'ऐ': V.ai, 'ओ': V.o, 'औ': V.au, 'ऋ': V.ri, 'ऑ': V.o };
+const DEV_MATRA = { 'ा': V.a, 'ि': V.i, 'ी': V.i, 'ु': V.u, 'ू': V.u, 'े': V.e, 'ै': V.ai, 'ो': V.o, 'ौ': V.au, 'ृ': V.ri, 'ॉ': V.o };
+const HALANT = '्';
+export const hasDevanagari = (s) => /[\u0900-\u097f]/.test(s);
+
+export function devanagariTokens(q) {
+  const chars = [...String(q).normalize('NFC').replace(/ज्ञ/g, 'ग्य')];
+  const tokens = [];
+  let wordStart = true;
+  for (let i = 0; i < chars.length; i++) {
+    let c = chars[i];
+    if (chars[i + 1] === '़') { c += '़'; i++; } // decomposed nukta
+    if (DEV_CONS[c]) {
+      const cons = DEV_CONS[c];
+      const prev = tokens.at(-1);
+      // A doubled consonant (पट्टी, उज्जैन) is a single letter in the key
+      const dup = prev && !prev.opt && prev.alts.length === cons.length && prev.alts.every((x, k) => x === cons[k]);
+      if (!dup) tokens.push({ alts: cons, opt: false, cons: true });
+      const next = chars[i + 1];
+      if (next === HALANT) { i++; continue; }
+      if (DEV_MATRA[next]) { tokens.push({ alts: DEV_MATRA[next], opt: false }); i++; }
+      else if (next !== '़') tokens.push({ alts: wordStart ? SCHWA_FIRST : SCHWA, opt: !wordStart });
+      wordStart = false;
+    } else if (DEV_VOWEL[c]) {
+      tokens.push({ alts: DEV_VOWEL[c], opt: false }); wordStart = false;
+    } else if (c === 'ं') tokens.push({ alts: ['n', 'm'], opt: true });
+    else if (c === 'ँ') tokens.push({ alts: ['n'], opt: true });
+    else if (c === 'ः') tokens.push({ alts: ['h'], opt: true });
+    else if (/[\s\-,.]/.test(c)) wordStart = true;
+    else if (/[a-z]/i.test(c)) { tokens.push({ alts: [placeKey(c) || c.toLowerCase()], opt: false }); wordStart = false; }
+  }
+  // Drop a trailing optional schwa: the user may still be typing
+  while (tokens.length && tokens.at(-1).opt) tokens.pop();
+  return tokens;
+}
+
+export function tokensToRegex(tokens) {
+  return new RegExp(`^${tokens.map((t) => `(?:${t.alts.join('|')})${t.opt ? '?' : ''}`).join('')}`);
+}
+
+// Every distinct key prefix (up to 4 letters) the tokens can start with — used to pick index files
+export function tokenPrefixes(tokens, depth = 4, cap = 96) {
+  let states = new Set(['']);
+  for (const t of tokens) {
+    const next = new Set();
+    for (const s of states) {
+      if (s.length >= depth) { next.add(s); continue; }
+      for (const a of t.opt ? ['', ...t.alts] : t.alts) next.add(placeKey(s + a).slice(0, depth));
+    }
+    states = next;
+    if (states.size > cap) break;
+    if ([...states].every((s) => s.length >= depth)) break;
+  }
+  return [...states].filter((s) => s.length >= 2);
+}
+
+// Common names whose usual English spelling isn't a transliteration of the Hindi
+const HINDI_ALIASES = {
+  'दिल्ली': 'Delhi', 'नई दिल्ली': 'New Delhi', 'नयी दिल्ली': 'New Delhi', 'गुड़गांव': 'Gurgaon', 'गुड़गाँव': 'Gurgaon',
+  'मुंबई': 'Mumbai', 'बम्बई': 'Bombay', 'कोलकाता': 'Kolkata', 'कलकत्ता': 'Calcutta', 'चेन्नई': 'Chennai', 'मद्रास': 'Madras',
+  'बेंगलुरु': 'Bengaluru', 'बंगलौर': 'Bangalore', 'बैंगलोर': 'Bangalore', 'त्रिवेंद्रम': 'Thiruvananthapuram', 'तिरुवनंतपुरम': 'Thiruvananthapuram',
+  'प्रयागराज': 'Prayagraj', 'इलाहाबाद': 'Allahabad', 'बनारस': 'Varanasi', 'काशी': 'Varanasi', 'लखनऊ': 'Lucknow', 'ऋषिकेश': 'Rishikesh',
+  'पुदुचेरी': 'Puducherry', 'पांडिचेरी': 'Pondicherry', 'मेरठ': 'Meerut', 'बरेली': 'Bareilly', 'अमृतसर': 'Amritsar', 'उदयपुर': 'Udaipur',
+};
+
 // Places outside India offered alongside (timezone differs from IST)
 export const FOREIGN = [
   { name: 'Kathmandu', label: 'Kathmandu, Nepal', lat: 27.7172, lon: 85.324, tz: 5.75 },
@@ -51,9 +134,9 @@ function loadShard(name, idx, fetchFn) {
   if (!shardCache.has(name)) {
     const p = fetchFn(`${BASE}${name}.tsv`).then((r) => (r.ok ? r.text() : '')).then((txt) => txt.split('\n')
       .filter(Boolean).map((line) => {
-        const [n, lat, lon, d, pop] = line.split('\t');
+        const [n, lat, lon, d, pop, main] = line.split('\t');
         const [district, s] = idx.districts[Number(d)] || ['', -1];
-        return { name: n, lat: Number(lat) / 100, lon: Number(lon) / 100, district, state: idx.states[s] || '', pop: Number(pop), keys: null };
+        return { name: n, main: main || n, lat: Number(lat) / 100, lon: Number(lon) / 100, district, state: idx.states[s] || '', pop: Number(pop), keys: null };
       })).catch((e) => { shardCache.delete(name); throw e; });
     shardCache.set(name, p);
   }
@@ -72,8 +155,9 @@ export function shardFor(key, splitSet) {
 }
 
 export function labelOf(pl) {
-  const parts = [pl.name];
-  if (pl.district && placeKey(pl.district) !== placeKey(pl.name)) parts.push(pl.district);
+  const name = pl.main || pl.name;
+  const parts = [name];
+  if (pl.district && placeKey(pl.district) !== placeKey(name)) parts.push(pl.district);
   if (pl.state) parts.push(pl.state);
   return parts.join(', ');
 }
@@ -83,6 +167,15 @@ export function labelOf(pl) {
  * Ranking: whole-name prefix before later-word match, exact name first, then population.
  */
 export async function searchPlaces(query, { limit = 25, fetchFn = fetch } = {}) {
+  const q = String(query).trim().normalize('NFC');
+  if (hasDevanagari(q)) {
+    const alias = HINDI_ALIASES[q];
+    const viaHindi = await searchHindi(q, { limit, fetchFn });
+    if (!alias) return viaHindi;
+    const viaAlias = await searchPlaces(alias, { limit, fetchFn });
+    const seen = new Set(viaAlias.results.map((r) => r.label));
+    return { ...viaHindi, results: [...viaAlias.results.slice(0, 3), ...viaHindi.results.filter((r) => !seen.has(r.label))].slice(0, limit) };
+  }
   const key = placeKey(query);
   const foreign = key.length >= 2 ? FOREIGN.filter((f) => wordKeys(f.label).some((k) => k.startsWith(key))) : [];
   if (key.length < 2) return { results: [], needMore: true };
@@ -99,8 +192,12 @@ export async function searchPlaces(query, { limit = 25, fetchFn = fetch } = {}) 
     if (rank >= 0) scored.push([rank, r]);
     if (scored.length > 4000) break;
   }
-  // Rows are pre-sorted by population, and Array.sort is stable
-  scored.sort((a, b) => a[0] - b[0] || (b[1].pop > 0) - (a[1].pop > 0));
+  return { results: [...foreign, ...collect(scored, limit)].slice(0, limit), needMore, total: idx.places };
+}
+
+function collect(scored, limit) {
+  // Rows are pre-sorted by population within a file; rank, then population, decides across files
+  scored.sort((a, b) => a[0] - b[0] || (b[1].pop > 0) - (a[1].pop > 0) || b[1].pop - a[1].pop);
   const seen = new Set();
   const results = [];
   for (const [, r] of scored) {
@@ -108,8 +205,40 @@ export async function searchPlaces(query, { limit = 25, fetchFn = fetch } = {}) 
     const lbl = labelOf(r);
     if (seen.has(id) || seen.has(lbl)) continue;
     seen.add(id); seen.add(lbl);
-    results.push({ name: r.name, label: lbl, lat: r.lat, lon: r.lon, tz: 5.5 });
+    results.push({
+      name: r.main, label: lbl, lat: r.lat, lon: r.lon, tz: 5.5,
+      ...(placeKey(r.name) !== placeKey(r.main) ? { alias: r.name } : {}),
+    });
     if (results.length >= limit) break;
   }
-  return { results: [...foreign, ...results].slice(0, limit), needMore, total: idx.places };
+  return results;
+}
+
+async function searchHindi(q, { limit, fetchFn }) {
+  const tokens = devanagariTokens(q);
+  const consonants = tokens.filter((t) => t.cons).length;
+  if (consonants < 2 && tokens.length < 3) return { results: [], needMore: true };
+  const idx = await loadIndex(fetchFn);
+  const re = tokensToRegex(tokens);
+  const files = new Map();
+  let needMore = false;
+  for (const p of tokenPrefixes(tokens)) {
+    const s = shardFor(p, idx.splitSet);
+    needMore ||= s.needMore;
+    files.set(s.file, true);
+    if (files.size >= 10) break;
+  }
+  const scored = [];
+  const shards = await Promise.all([...files.keys()].map((f) => loadShard(f, idx, fetchFn)));
+  for (const rows of shards) {
+    for (const r of rows) {
+      if (!r.keys) r.keys = wordKeys(r.name);
+      let rank = -1;
+      const m = r.keys[0].match(re);
+      if (m) rank = m[0].length === r.keys[0].length ? 0 : 1;
+      else if (r.keys.some((k) => re.test(k))) rank = 2;
+      if (rank >= 0) scored.push([rank, r]);
+    }
+  }
+  return { results: collect(scored, limit), needMore, total: idx.places };
 }

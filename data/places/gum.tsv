@@ -1,24 +1,24 @@
 Gumlā	2304	8454	321	51264
 Gumia	2380	8583	517	48141
 Gummidipundi	1341	8011	228	18891
-Gummudipūndi	1341	8011	228	18891
-Ghumusar Udayagiri	2012	8437	387	11302
+Gummudipūndi	1341	8011	228	18891	Gummidipundi
+Ghumusar Udayagiri	2012	8437	387	11302	Udayagiri
 Ghumārwīn	3144	7672	772	7899
 Gumtāli	3107	7564	369	1285
 San Gumma	1871	8213	109	0
-Sāna Gumma	1871	8213	109	0
+Sāna Gumma	1871	8213	109	0	San Gumma
 Gumthala Gadhu	2994	7655	501	0
 Gumthala	2996	7721	88	0
 Gumtara	2181	7922	337	0
 Gumsar	2037	8337	394	0
-Gumsa	2037	8337	394	0
+Gumsa	2037	8337	394	0	Gumsar
 Gumma	1899	8402	252	0
 Gumma	1855	8188	599	0
 Gumlai	2161	8415	567	0
 Gumba	3286	7679	425	0
 Gumarmal	2056	8321	394	0
 Gumāndev	2170	7312	151	0
-Gumanday	2170	7312	151	0
+Gumanday	2170	7312	151	0	Gumāndev
 Gumāna ka Tala	2530	7085	285	0
 Gumān	2439	7364	22	0
 Gumāgarh	2036	8427	387	0
@@ -27,8 +27,8 @@ Goomree	1997	8029	135	0
 Ghumka	2129	8110	474	0
 Ghum	2701	8826	573	0
 Ghumānda	2809	7472	539	0
-Gumāna	2809	7472	539	0
-Gumāndo	2809	7472	539	0
+Gumāna	2809	7472	539	0	Ghumānda
+Gumāndo	2809	7472	539	0	Ghumānda
 Gumjā	3000	7391	3	0
 Gumbur	3405	7456	76	0
 Gumek	3385	7438	1	0
@@ -160,7 +160,7 @@ Gumshi	2408	8054	324	0
 Gumehi	2408	8054	324	0
 Ghumatahwa	2437	8295	103	0
 Gummanhera	2853	7693	763	0
-Gumān Khera	2625	8092	681	0
+Gumān Khera	2625	8092	681	0	Surjupur
 Ghumna Matauna	2768	8170	618	0
 Kot Gumān Singh	2739	8166	294	0
 Pura Gumti Parshād	2746	8166	294	0
@@ -247,14 +247,14 @@ Raj Ghumal	3114	7569	369	0
 Ghuman	3126	7586	295	0
 Gumman	3277	7606	362	0
 Gumra	3274	7600	362	0
-Ghum	3255	7614	362	0
+Ghum	3255	7614	362	0	Gwār
 Gumri	2008	8029	135	0
 Gumri	2031	8084	704	0
 Gumrīdih	2019	8083	704	0
 Gumrāra	3244	7633	362	0
 Gumehr	3201	7633	38	0
 Gumrehr	3215	7634	38	0
-Guma	2701	8122	30	0
+Guma	2701	8122	30	0	Khizrpur Ināyatpur
 Gumātola	2287	8183	757	0
 Ghumārnu	3206	7658	38	0
 Ghumarra	3197	7636	38	0

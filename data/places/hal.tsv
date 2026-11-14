@@ -7,19 +7,19 @@ Haludbani	2275	8621	584	25360
 Haliyal	1533	7476	59	24238
 Haldaur	2929	7828	575	18686
 Haldībāri	2634	8878	420	14099
-Haldibabi	2634	8878	420	14099
+Haldibabi	2634	8878	420	14099	Haldībāri
 Haludpukhur	2260	8614	584	10485
 Halwāra	3073	7564	674	9761
 Upar Hali	2610	9151	636	7095
 Hale Dharmapuri	1216	7816	110	4902
 Halamimunmeta	1967	8134	619	332
-Haligonda	1738	7902	129	0
-Halimpur	2632	8556	395	0
-Hāloāgāon	2666	9415	451	0
-Jal Halli	1636	7678	50	0
+Haligonda	1738	7902	129	0	Valigonda
+Halimpur	2632	8556	395	0	Nayāgaon
+Hāloāgāon	2666	9415	451	0	Khātoālgāon
+Jal Halli	1636	7678	50	0	Jālihalli
 Hālvi	1589	7712	236	0
 Haltugaon	2649	9029	713	0
-Halsūr	1802	7701	170	0
+Halsūr	1802	7701	170	0	Hulsoor
 Hālsi	2503	8605	589	0
 Halsi	1554	7459	77	0
 Halsangi	1732	7586	80	0
@@ -29,9 +29,9 @@ Halli Mysore	1266	7626	679	0
 Halki	1622	7526	86	0
 Halkarni	1617	7447	57	0
 Hālewāra	1976	8031	135	0
-Haliwara	1976	8031	135	0
+Haliwara	1976	8031	135	0	Hālewāra
 Halikner	1768	7707	170	0
-Halikher	1768	7707	170	0
+Halikher	1768	7707	170	0	Halikner
 Haliāpur	2651	8178	597	0
 Halia	2483	8232	201	0
 Halhahli	2410	9182	695	0
@@ -40,15 +40,15 @@ Halgiri	1672	7723	72	0
 Halgeri	1456	7561	92	0
 Halge	1489	7423	59	0
 Halgar	1810	7689	158	0
-Halgira Bidar	1810	7689	158	0
+Halgira Bidar	1810	7689	158	0	Halgar
 Halenda	2209	7105	174	0
 Halena	2711	7716	114	0
 Hālekallu	1446	7614	275	0
-Halekal	1446	7614	275	0
+Halekal	1446	7614	275	0	Hālekallu
 Halebīd	1322	7599	679	0
-Halebidu	1322	7599	679	0
+Halebidu	1322	7599	679	0	Halebīd
 Haldipur	1434	7443	59	0
-Haledapur	1434	7443	59	0
+Haledapur	1434	7443	59	0	Haldipur
 Haldīkhora	2619	8774	510	0
 Haldia	2194	8634	382	0
 Haldi	1659	7415	57	0
@@ -56,12 +56,12 @@ Halcheri	1735	7725	71	0
 Halbarga	1800	7733	170	0
 Halba	2048	8151	704	0
 Halagali	1633	7548	86	0
-Halagli	1633	7548	86	0
+Halagli	1633	7548	86	0	Halagali
 Haladia	2027	8557	541	0
 Chak Halīm Khān	3431	7494	595	0
 Haladorīn	3433	7500	595	0
 Halka	3278	7475	581	0
-Halka Gura	3306	7422	504	0
+Halka Gura	3306	7422	504	0	Raika Gura
 Haljora	3003	7789	596	0
 Haladi	1357	7486	257	0
 Kaikondra Halli	1291	7768	43	0
@@ -87,7 +87,7 @@ Haldi	2145	8379	497	0
 Haljoi	3167	7702	278	0
 Halan	3151	7708	278	0
 Halīn	3155	7721	278	0
-Halka	2869	7622	431	0
+Halka	2869	7622	431	0	Madhmādhwi
 Halwās	2876	7612	431	0
 Halāi	3147	7702	278	0
 Haliāna	3141	7714	278	0
@@ -148,7 +148,7 @@ Halli	1784	7686	170	0
 Halkunda	1753	7697	71	0
 Haldīpāra	2230	8232	291	0
 Halwāi Khapri	2166	8220	379	0
-Halbapāra	2041	8101	704	0
+Halbapāra	2041	8101	704	0	Jhitkapāra
 Halba Binapāl	2006	8112	704	0
 Halbapāra	2007	8174	659	0
 Hāl Sultānpur	1744	7695	71	0
@@ -194,7 +194,7 @@ Halāl Kalān	2190	7930	337	0
 Halkirām Tapariya	2476	7705	336	0
 Nagla Hallu	2739	7895	464	0
 Halūpura	2735	7887	464	0
-Halpura	2717	7844	403	0
+Halpura	2717	7844	403	0	Akilābād
 Hālāmau	2682	7993	469	0
 Haldalpur	2620	7982	671	0
 Halia	2616	7996	671	0
@@ -232,7 +232,7 @@ Halbai	2477	8276	103	0
 Hāliāki	2835	7666	630	0
 Hāluhera	2829	7653	519	0
 Halūpura	2906	7822	575	0
-Halbatpur Pāzanalīpur Māthān	2947	7846	575	0
+Halbatpur Pāzanalīpur Māthān	2947	7846	575	0	Kāzīwāla
 Halimpur	2749	8119	507	0
 Hala Ahīr	2758	8151	294	0
 Pura Halla Kurmi	2736	8151	294	0
@@ -849,7 +849,7 @@ Halē Sibam	1259	7797	223	0
 Pālaiyam Halevūr	1235	7784	223	0
 Halēpuram	1211	7788	110	0
 Hālbhāvi	1300	7802	47	0
-Haleballahalli	1297	7806	47	0
+Haleballahalli	1297	7806	47	0	Hosballahalli
 Hale Torlakki	1292	7807	47	0
 Halēhāromākalhalli	1288	7805	47	0
 Halēkundāni	1276	7809	223	0

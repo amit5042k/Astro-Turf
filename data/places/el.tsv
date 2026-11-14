@@ -1,6 +1,6 @@
 Eluru	1671	8110	24	218020
-Ellore	1671	8110	24	218020
-Ellichpur	2126	7751	133	112311
+Ellore	1671	8110	24	218020	Eluru
+Ellichpur	2126	7751	133	112311	Achalpur
 Electronic City Phase I	1285	7766	43	76348
 Ellenabad	2945	7466	585	37680
 Elampalloor	896	7667	549	33959
@@ -10,17 +10,17 @@ Elamanchili	1755	8286	227	27265
 Elamkunnapuzha	1003	7622	176	26997
 Ellakkudi	1081	7875	270	16244
 Elandakuttai	1141	7778	231	16160
-Ellandaikuttai	1141	7778	231	16160
+Ellandaikuttai	1141	7778	231	16160	Elandakuttai
 Elumalai	987	7770	274	15746
 Elavalli	1057	7609	241	12819
 Elandacheri	1319	8027	204	12119
 Elivāla	1236	7654	74	9826
-Elwala	1236	7654	74	9826
+Elwala	1236	7654	74	9826	Elivāla
 Elattūr	1139	7731	211	7827
 Elāyirampannai	927	7782	119	6814
 Ellora	2002	7516	113	1000
-Ellora Caves	2002	7516	113	1000
-Eluoluozi	3429	7843	2	0
+Ellora Caves	2002	7516	113	1000	Ellora
+Eluoluozi	3429	7843	2	0	Ororotse
 Elwinpet	1898	8366	199	0
 Elmagonda	1820	8113	599	0
 Ellatūru	1073	8002	277	0
@@ -30,9 +30,9 @@ Elladakere	1379	7657	255	0
 Elgūr	1953	8006	135	0
 Elesvaram	1729	8211	269	0
 Elavanasūr	1172	7918	390	0
-Elavansur	1172	7918	390	0
-Elananasur	1172	7918	390	0
-Elavānācūr	1172	7918	390	0
+Elavansur	1172	7918	390	0	Elavanasūr
+Elananasur	1172	7918	390	0	Elavanasūr
+Elavānācūr	1172	7918	390	0	Elavanasūr
 Elattūr	1134	7574	262	0
 Elāo	2145	7280	151	0
 Elandangudi	1106	7965	203	0
@@ -51,7 +51,7 @@ Ellaināyakkanpatti	873	7792	208	0
 Elkalapalli	1870	7948	748	0
 Elora	2314	8674	571	0
 Elavupalam	878	7702	219	0
-Elās	2806	7664	519	0
+Elās	2806	7664	519	0	Bishanpur
 Chak Eleven M L	2975	7384	374	0
 Elāki	2792	7687	482	0
 Elachpur	2335	7848	338	0
@@ -88,7 +88,7 @@ Ellenpur	2710	8234	280	0
 Ellenpur Grant	2705	8233	542	0
 Elmadānipalli	1851	7886	230	0
 Ellandakunta	1831	7895	230	0
-Ellantakunta	1831	7895	230	0
+Ellantakunta	1831	7895	230	0	Ellandakunta
 Elgāndrara	1904	8057	288	0
 Elbāk	1830	8022	226	0
 Elmāgudem	1860	8032	237	0
@@ -184,7 +184,7 @@ Elampulāvu	1093	7594	150	0
 Elchinagar	2657	7936	715	0
 Ellatrāmiapalli	1834	7966	237	0
 Elogigūli	1525	7627	66	0
-Elāchigudi	1525	7627	66	0
+Elāchigudi	1525	7627	66	0	Elogigūli
 Eluve	1256	7554	55	0
 Elangi	2530	8790	412	0
 Elāshpur	2448	8777	658	0
@@ -410,12 +410,12 @@ Ellaippatti	1066	7781	187	0
 Ellaippatti	1064	7797	187	0
 Ellappatti	1058	7799	187	0
 Ellappanāyakkanpālaiyam	1172	7919	390	0
-Elavanasūr	1165	7920	390	0
-Elavanasūr	1165	7923	390	0
-Elavanasūr	1171	7923	390	0
+Elavanasūr	1165	7920	390	0	Malavarāyanūr
+Elavanasūr	1165	7923	390	0	Sāttanūr
+Elavanasūr	1171	7923	390	0	Kumāramangalam
 Ellaippatti	1055	7780	187	0
 Eluttūr	1144	7901	178	0
-Elumūr	1129	7901	265	0
+Elumūr	1129	7901	265	0	Kudikkādu
 Elumāttūr	1140	7916	178	0
 Ellaikkadambūr	1128	7919	383	0
 Ellaippatti	1043	7784	187	0

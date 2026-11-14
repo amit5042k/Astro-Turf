@@ -1,7 +1,7 @@
 Sādatpur Gujran	2873	7725	791	97641
-Gujarkheda	2244	7566	660	5409
+Gujarkheda	2244	7566	660	5409	Golkhera
 Faqir Gujri	3419	7492	611	1900
-Tola Gujarwalia	2658	8455	396	0
+Tola Gujarwalia	2658	8455	396	0	Gunjrauliyā
 Gujri	2232	7551	130	0
 Gujhandi	2450	8546	473	0
 Gūjarāru	3331	7535	550	0
@@ -9,7 +9,7 @@ Bura Gūjar	3053	7453	615	0
 Gujrāt	2240	8802	354	0
 Gujarpur	2225	8803	354	0
 Gujarkot	3426	7487	595	0
-Gujar Mohra	3317	7417	504	0
+Gujar Mohra	3317	7417	504	0	Galra Mohra
 Gujran	3454	7524	547	0
 Kotli Gujrān	3291	7480	581	0
 Gujaisinghpur	3277	7478	581	0
@@ -19,7 +19,7 @@ Nandpur Gujrān	3271	7480	581	0
 Gujrāl	3273	7482	581	0
 Gundi Gujarān	3438	7380	0	0
 Garhi Gujrāh	2984	7702	457	0
-Gūjar	2971	7730	449	0
+Gūjar	2971	7730	449	0	Muhammadpur
 Dhāni Gujarānwāli	2840	7606	781	0
 Gujja	1715	7897	129	0
 Gujgatiapalli	1795	7854	466	0
@@ -32,7 +32,7 @@ Dūdhan Gujrān	3014	7654	564	0
 Kheri Gujrān	3055	7687	632	0
 Gujrātīkhera	2465	7897	481	0
 Konda Gūjar	2793	7930	117	0
-Sarāi Gūjarmal	2715	7948	570	0
+Sarāi Gūjarmal	2715	7948	570	0	Kakraiya
 Nagla Gūjra	2703	7936	464	0
 Madaiyān Gūjrān	2774	7957	470	0
 Gujarpur Pamārān	2759	7960	688	0
@@ -60,7 +60,7 @@ Tarāla Gujarān	3338	7443	504	0
 Gujrūn	3128	7709	278	0
 Gujardar	3462	7406	0	0
 Gujardori	3458	7439	0	0
-Gujrān	3065	7706	587	0
+Gujrān	3065	7706	587	0	Ser
 Talheri Gujrān	3031	7708	691	0
 Gujaron ki Dhāni	2755	7606	121	0
 Gujjaron ki Dhāni	2753	7604	121	0
@@ -93,12 +93,12 @@ Gūjarkhera	2303	7880	522	0
 Gūjar Semla	2697	7676	708	0
 Gujar Gohandi	2693	7698	708	0
 Gujarpur	2960	7714	328	0
-Gūjar	2980	7728	449	0
-Gūjar	2980	7736	449	0
+Gūjar	2980	7728	449	0	Khānpur
+Gūjar	2980	7736	449	0	Nāgal
 Rūpri Gūjar	2996	7750	449	0
-Gūjar	2993	7745	449	0
-Gūjar	2989	7748	449	0
-Gūjar	2989	7746	449	0
+Gūjar	2993	7745	449	0	Jagehta
+Gūjar	2989	7748	449	0	Nalhera
+Gūjar	2989	7746	449	0	Mohanpur
 Kallarpur Gūjrān	2979	7742	449	0
 Gujarpur	2937	7727	328	0
 Rasūlpur Gujrān	2938	7732	328	0
@@ -162,7 +162,7 @@ Rāmpur Gujrān	3005	7600	593	0
 Gujar Manigān	3459	7428	0	0
 Gujar Thaiyan	3459	7433	0	0
 Gujardori	3465	7426	0	0
-Gūjrān	3088	7636	735	0
+Gūjrān	3088	7636	735	0	Basi
 Kheri Gujrān	3031	7637	564	0
 Khediya Gūjar	2751	7729	114	0
 Sasi Gujrān	3012	7633	564	0
@@ -531,5 +531,5 @@ Gujarigām	2011	8401	387	0
 Gujāpathār	2097	8453	414	0
 Gujorāli	2003	8462	440	0
 Gujarat International Finance Tec-City	2316	7268	276	0
-Patti Gujar	2857	7886	511	0
-Gūjar	2979	7732	449	0
+Patti Gujar	2857	7886	511	0	Rāmpur
+Gūjar	2979	7732	449	0	Kheri

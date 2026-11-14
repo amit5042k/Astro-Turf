@@ -1,11 +1,11 @@
 Dādri	2855	7755	588	70609
 Charkhi Dādri	2859	7627	781	56337
-Dādri	2859	7627	781	56337
-Charki Dadrai	2859	7627	781	56337
-Dadhel	2041	7288	760	52578
+Dādri	2859	7627	781	56337	Charkhi Dādri
+Charki Dadrai	2859	7627	781	56337	Charkhi Dādri
+Dadhel	2041	7288	760	52578	Dabhel
 Dadra	2033	7297	233	13039
-Dadará	2033	7297	233	13039
-Dadar	1880	7308	17	5389
+Dadará	2033	7297	233	13039	Dadra
+Dadar	1880	7308	17	5389	Dāvrapāda
 Dadhapatna	2041	8583	303	5005
 Daduwāl	3121	7567	369	3144
 Dadadakallahalli	1238	7648	74	1695
@@ -14,29 +14,29 @@ Dhadheru	2796	7434	539	0
 Dhadgaon	2182	7422	186	0
 Dadwāna	3114	7687	628	0
 Dadu	2692	7214	344	0
-Dādu	2668	7523	121	0
+Dādu	2668	7523	121	0	Dūdu
 Dadrewa	2867	7524	539	0
 Dādpur	1998	8323	284	0
 Dāda Sība	3193	7609	38	0
-Dādo Sība	3193	7609	38	0
+Dādo Sība	3193	7609	38	0	Dāda Sība
 Dadori	2587	7779	484	0
 Dādon	2795	7847	543	0
 Dadhia	2773	7522	491	0
 Dādhia	2642	7497	446	0
 Dādhdevi	2508	7592	371	0
 Dadhālia	2356	7337	125	0
-Dadhaha	2356	7337	125	0
+Dadhaha	2356	7337	125	0	Dadhālia
 Daddi	1606	7444	90	0
 Dādan Raikala	2188	8510	272	0
 Dadāhu	3060	7744	534	0
-Dhādka	2278	8650	415	0
+Dhādka	2278	8650	415	0	Bandwan
 Dhādrio	2833	7472	539	0
 Dhādrio Chārnān	2834	7475	539	0
-Dhādrio	2834	7475	539	0
+Dhādrio	2834	7475	539	0	Dhādrio Chārnān
 Dhādhan	2809	7486	491	0
-Dhādnān	2809	7486	491	0
+Dhādnān	2809	7486	491	0	Dhādhan
 Dadpur	2289	8851	450	0
-Dadra and Nagar Haveli	3250	7469	581	0
+Dadra and Nagar Haveli	3250	7469	581	0	Nekowāl
 Dādan	3443	7484	120	0
 Dādi Naubug	3418	7483	595	0
 Dadu Mahal	3414	7487	611	0
@@ -50,14 +50,14 @@ Dadareli Chak	3453	7528	547	0
 Dadiāl	3286	7490	581	0
 Patti Dāda	3002	7780	596	0
 Jalālpur Dāda	3000	7781	596	0
-Jalāpur Dāda	3000	7781	596	0
+Jalāpur Dāda	3000	7781	596	0	Jalālpur Dāda
 Dādūbās	3001	7792	596	0
 Dādanpura	2970	7738	449	0
 Lāwa Dādūpur	2964	7727	328	0
 Dadlāna	2949	7690	298	0
 Dadheng	3122	7709	479	0
-Dadheog	3122	7709	479	0
-Dadhog	3120	7703	479	0
+Dadheog	3122	7709	479	0	Dadheng
+Dadhog	3120	7703	479	0	Dāhdog
 Dhādukhāl	2997	7870	612	0
 Dādāmandi	2986	7861	612	0
 Dadiapalli	1791	7801	400	0
@@ -69,7 +69,7 @@ Dādurār	2425	7806	215	0
 Dadkheri	2402	7814	215	0
 Dādīpur	2706	7925	464	0
 Dādia	2680	7561	121	0
-Dādiya	2680	7561	121	0
+Dādiya	2680	7561	121	0	Dādia
 Dādanpur	2628	7929	741	0
 Dadgaon	2495	7931	481	0
 Dadiāl	3249	7496	720	0
@@ -224,7 +224,7 @@ Dadeora	2792	7998	470	0
 Mojra Dadukheri	2489	7767	436	0
 Dādonpur	2760	7808	670	0
 Dadūpur	2703	7846	403	0
-Dādon	2793	7855	543	0
+Dādon	2793	7855	543	0	Jirauli
 Dādanpur	2780	7854	616	0
 Dādūpur	2601	7973	741	0
 Dādanpur	2728	7850	403	0
@@ -657,7 +657,7 @@ Dādireddipalle	1517	7942	200	0
 Dādāpuram	1235	7961	202	0
 Dadadhalli	1190	7672	69	0
 Dadadhalli	1192	7701	69	0
-Dādireddiyūr	1170	7796	51	0
+Dādireddiyūr	1170	7796	51	0	Pāraikkattūr
 Dādāpuram	1162	7788	51	0
 Dadri ICD	2853	7753	588	0
 Vadakku Dādināyakkanpatti	1047	7744	187	0

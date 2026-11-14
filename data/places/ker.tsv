@@ -1,13 +1,13 @@
-The crown of Kerala	1187	7536	266	62836
+The crown of Kerala	1187	7536	266	62836	Kannur
 Keru	2619	7304	344	38429
 Kheri	2790	8080	323	26327
 Kērkandi	1137	7675	115	23229
 Kherālu	2389	7262	164	21843
 Bawāni Khera	2895	7603	431	20289
-Kheragarh	2694	7782	546	20095
+Kheragarh	2694	7782	546	20095	Khairāgarh
 Kerūr	1601	7555	86	19731
 Kheri Nāngal	2935	7698	298	18195
-Nīlū Kheri	2984	7693	457	17938
+Nīlū Kheri	2984	7693	457	17938	Nīlokheri
 Kherli	2727	7699	482	17634
 Nal Khera	2384	7624	347	16690
 Rāni Khera	2871	7703	689	16402
@@ -16,13 +16,13 @@ Kheri Sāmpla	2878	7678	719	10891
 Khera Khurd	2878	7710	769	9777
 Khera Kalān	2877	7712	769	8252
 Kherwāra	2399	7359	22	7581
-Kherwara Chhaoni	2399	7359	22	7581
-Khera	2859	7697	763	7220
+Kherwara Chhaoni	2399	7359	22	7581	Kherwāra
+Khera	2859	7697	763	7220	Khaira
 Kherlīganj	2488	7667	506	7022
 Keran	3465	7395	0	3770
-Khui Khera	3004	7411	3	0
+Khui Khera	3004	7411	3	0	Rukanpura
 Risāliya Khera	2971	7476	585	0
-Kerang	2835	9472	40	0
+Kerang	2835	9472	40	0	Rangku
 Rajni Khera	2655	8063	312	0
 Nīm Ka Khera	2534	7548	353	0
 Nihāl Khera	3023	7413	3	0
@@ -33,21 +33,21 @@ Kherwa	2567	7346	273	0
 Khervādi	2004	7397	54	0
 Kheroda	2458	7407	22	0
 Kherod	2423	7301	212	0
-Kheroj	2423	7301	212	0
+Kheroj	2423	7301	212	0	Kherod
 Kherna	2215	8610	382	0
 Kherli	2193	7833	462	0
 Kheriya Padam	2625	7825	484	0
 Kheriya	2632	7820	478	0
 Kheri	2388	7699	16	0
-Kheri Gidor	2388	7699	16	0
+Kheri Gidor	2388	7699	16	0	Kheri
 Kheria	2543	8725	625	0
 Kheri	2510	7528	309	0
 Kheri	2438	7395	22	0
-Kher	2438	7395	22	0
-Kheri	2323	7649	320	0
+Kher	2438	7395	22	0	Kheri
+Kheri	2323	7649	320	0	Khari
 Kheri	2295	7704	675	0
 Kheri Sānvlīgarh	2185	7780	462	0
-Kheri	2185	7780	462	0
+Kheri	2185	7780	462	0	Kheri Sānvlīgarh
 Khergām	2063	7309	221	0
 Kherdi	2011	7303	233	0
 Kherārbāri	2013	7313	233	0
@@ -59,11 +59,11 @@ Khera	2848	7356	307	0
 Khera	2596	7297	344	0
 Khera	2562	7625	353	0
 Khera	2536	7401	572	0
-Khera	2536	7426	309	0
+Khera	2536	7426	309	0	Nārāyankhera
 Kerwāda	2191	7286	151	0
 Kervād	1525	7464	59	0
 Keru	2726	7155	217	0
-Kertasar	2776	7351	307	0
+Kertasar	2776	7351	307	0	Kirtāsar
 Kerpāni	2307	7916	522	0
 Kerkalmatti	1613	7558	86	0
 Kerimgaon	2793	9565	460	0
@@ -77,21 +77,21 @@ Kerāng	2803	8877	27	0
 Kerāgān	1954	8223	349	0
 Keradih	2282	8399	398	0
 Kera	2308	6960	108	0
-Ker	2795	7558	300	0
+Ker	2795	7558	300	0	Kair
 Ker	1898	7690	153	0
-Kerai	2618	7702	447	0
+Kerai	2618	7702	447	0	karai
 Kaithan Khera	2693	8059	312	0
 Keru	2635	7287	344	0
 Ina Khera	3026	7449	615	0
 Gulāl Khera	2673	8110	714	0
-Dūngar Khera	2355	7586	314	0
+Dūngar Khera	2355	7586	314	0	Dongarkhera
 Dangar Khera	3021	7417	3	0
-Danger Khera	3021	7417	3	0
-Chātu Khera	2387	7670	16	0
+Danger Khera	3021	7417	3	0	Dangar Khera
+Chātu Khera	2387	7670	16	0	Sondiya
 Budha Khera Kalwa	2938	7655	367	0
-Budha Khera	2938	7655	367	0
+Budha Khera	2938	7655	367	0	Budha Khera Kalwa
 Bara Khera	2905	7925	641	0
-Khera Sarāi	2806	7735	754	0
+Khera Sarāi	2806	7735	754	0	Bāmnikhera
 Alī Khera	2732	7916	464	0
 Adamwāla Kera	2904	7299	374	0
 Āsal Kheri	2845	7490	539	0
@@ -102,14 +102,14 @@ Kallar Khera	3005	7395	3	0
 Koil Khera	3013	7398	3	0
 Keri	3333	7423	504	0
 Keri	3327	7402	504	0
-Kherman-i-Nandram	3440	7430	0	0
+Kherman-i-Nandram	3440	7430	0	0	Khirman-i-Nandram
 Keri	3294	7455	581	0
 Keri	3293	7461	581	0
 Keri	3317	7419	504	0
 Keri	3319	7447	504	0
 Gunnu ka Khera	3300	7437	504	0
 Nān Keri	3298	7439	504	0
-Keri	3294	7437	581	0
+Keri	3294	7437	581	0	Keti
 Keran	3279	7484	581	0
 Des Khera	2912	7636	367	0
 Khimāch Khera	2909	7636	367	0
@@ -136,7 +136,7 @@ Kua Khera	2966	7738	449	0
 Khera Bhāu	2958	7728	328	0
 Kherki	2957	7730	328	0
 Pīr Khera	2950	7727	328	0
-Khera	2950	7727	328	0
+Khera	2950	7727	328	0	Pīr Khera
 Māru Kheri	2957	7749	328	0
 Panwār Khera	2955	7742	328	0
 Bīr Kheri	2966	7735	449	0
@@ -191,17 +191,17 @@ Kheria	2706	7927	464	0
 Nagla Kheria	2700	7937	464	0
 Khera	2713	7991	570	0
 Kherna Purwa	2705	7988	570	0
-Khera Bijapur	2683	7900	290	0
+Khera Bijapur	2683	7900	290	0	Naglakhera
 Khera Helu	2686	7915	290	0
 Kheria	2679	7906	290	0
 Kheri	2696	7551	121	0
 Kheri	2693	7550	121	0
 Bari ka Khera	2683	7554	121	0
 Kheria ka Bās	2682	7550	121	0
-Keriya ka Bās	2682	7550	121	0
+Keriya ka Bās	2682	7550	121	0	Kheria ka Bās
 Khera Dānda	2642	7932	715	0
 Khera Mustaqil	2642	7944	741	0
-Khera Kanār	2635	7933	741	0
+Khera Kanār	2635	7933	741	0	Salempur Kanār
 Khera	2558	7923	433	0
 Kheri	2545	7931	433	0
 Khera Kalān	2534	7938	614	0
@@ -209,7 +209,7 @@ Khera	2675	7956	715	0
 Khera Kursi	2669	7996	671	0
 Purwa Kerīsingh	2656	7976	671	0
 Khera	2488	7921	481	0
-Bāba ka Khera	2478	7916	481	0
+Bāba ka Khera	2478	7916	481	0	Majrākāshi
 Jmagarhiyan ka Khera	2482	7912	481	0
 Monemāto ka Khero	2474	7920	481	0
 Pachran ka Khera	2462	7907	663	0
@@ -241,12 +241,12 @@ Kheri Motarwa	2982	7660	638	0
 Kheri Sākra	2981	7668	638	0
 Bihag Khera	2929	7655	367	0
 Rāna Kheri	2927	7661	485	0
-Kheri	2932	7661	367	0
+Kheri	2932	7661	367	0	Harigarh
 Sila Kheri	2939	7662	367	0
-Nakti Khera	2945	7664	367	0
-Dhangtāna Khera	2943	7666	367	0
+Nakti Khera	2945	7664	367	0	Aftābgarh
+Dhangtāna Khera	2943	7666	367	0	Khamāwati
 Todi Kheri	2942	7670	367	0
-Kheri Miran Shāhi	2942	7670	367	0
+Kheri Miran Shāhi	2942	7670	367	0	Todi Kheri
 Ratta Khera	2939	7664	367	0
 Tito Kheri	2939	7671	367	0
 Beri Khera	2939	7654	367	0
@@ -295,10 +295,10 @@ Kheri	2805	7634	694	0
 Kheri Daulatpur	2899	7607	431	0
 Bhangar Khera	3000	7399	3	0
 Keri	3129	7746	479	0
-Keruwāla	3038	7404	3	0
+Keruwāla	3038	7404	3	0	Rāmpura
 Mammun Khera	3028	7417	3	0
 Mammun Khera Jadīd	3028	7418	3	0
-Dewān Khera	3012	7400	3	0
+Dewān Khera	3012	7400	3	0	Banwāla Sādhu
 Kikar Khera	3008	7417	3	0
 Dalmir Khera	3005	7405	3	0
 Waryām Khera	3002	7408	3	0
@@ -306,13 +306,13 @@ Ratta Khera	3048	7432	3	0
 Ratta Khera	3029	7442	615	0
 Ratta Khera	3025	7429	615	0
 Birk Khera	3024	7444	615	0
-Sanwat Khera	3022	7446	615	0
+Sanwat Khera	3022	7446	615	0	Bhāgwānpura
 Chandan Khera	3019	7430	3	0
 Kera Khera	3014	7430	3	0
 Māni Khera	3010	7439	615	0
 Bahādar Khera	3009	7436	3	0
-Bakhshān Khera	3007	7432	3	0
-Farīd Khera	3008	7441	615	0
+Bakhshān Khera	3007	7432	3	0	Sardārpura
+Farīd Khera	3008	7441	615	0	Rasūlpura
 Mahmūd Khera	3008	7442	615	0
 Māhni Khera	3006	7450	615	0
 Phullu Khera	3007	7446	615	0
@@ -538,31 +538,31 @@ Kera	2457	7281	23	0
 Ker	2475	7286	23	0
 Modī Khera	2999	7442	3	0
 Sānwat Khera	2991	7477	585	0
-Diwān Khera	2988	7477	585	0
-Sema Khera	2998	7450	615	0
-Kandu Khera	2995	7450	615	0
+Diwān Khera	2988	7477	585	0	Shāhuwāla
+Sema Khera	2998	7450	615	0	Bhitiwāla
+Kandu Khera	2995	7450	615	0	Khānwāla
 Bhāru Khera	2977	7457	585	0
-Sujan Khera	2977	7457	585	0
+Sujan Khera	2977	7457	585	0	Bhāru Khera
 Āsa Khera	2981	7458	585	0
-Moti Khera	2981	7458	585	0
+Moti Khera	2981	7458	585	0	Āsa Khera
 Sābu Khera	2983	7462	585	0
 Tija Khera	2984	7456	585	0
-Jassa Khera	2984	7456	585	0
+Jassa Khera	2984	7456	585	0	Tija Khera
 Sakta Khera	2990	7464	585	0
-Bhod Khera	2990	7464	585	0
+Bhod Khera	2990	7464	585	0	Sakta Khera
 Fatta Khera	2994	7457	615	0
-Mahmud Khera	2994	7457	615	0
+Mahmud Khera	2994	7457	615	0	Fatta Khera
 Bring Khera	2993	7465	705	0
 Midu Khera	2996	7459	615	0
 Aspāl Khera	2994	7471	585	0
-Khera Masitān	2988	7469	585	0
+Khera Masitān	2988	7469	585	0	Gobindgarh
 Gidar Khera	2982	7467	585	0
-Jhorar Khera	2978	7470	585	0
+Jhorar Khera	2978	7470	585	0	Modi
 Mauja Khera	2948	7474	585	0
 Jhoti Khera	2980	7477	585	0
 Sālam Khera	2977	7488	585	0
 Chormār Khera	2980	7486	585	0
-Fatehpūr Khera	2983	7484	585	0
+Fatehpūr Khera	2983	7484	585	0	Patti
 Kherwāra	2445	7348	22	0
 Kherwara	2437	7349	22	0
 Khera	2433	7348	22	0
@@ -590,7 +590,7 @@ Jāt Khera	2570	7667	335	0
 Kheriya	2511	7690	506	0
 Kherla	2520	7686	506	0
 Khera	2646	7484	446	0
-Khera	2637	7495	446	0
+Khera	2637	7495	446	0	Gopālpura
 Keria	2635	7499	446	0
 Kerīa	2632	7492	446	0
 Khera	2630	7491	446	0
@@ -623,14 +623,14 @@ Nolāgādri ka Khera	2505	7463	417	0
 Jojron ka Khera	2508	7462	417	0
 Jīwānāyak ka Khera	2508	7464	417	0
 Sūratsinghji ka Khera	2509	7463	417	0
-Kālon ka Khera	2509	7464	417	0
+Kālon ka Khera	2509	7464	417	0	Shambhūpura
 Rāwtān ka Khera	2509	7460	417	0
-Rāthor ka Khera	2511	7464	417	0
+Rāthor ka Khera	2511	7464	417	0	Nangpura
 Dola ka Khera	2513	7463	417	0
 Nānga ka Khera	2513	7460	417	0
 Bābān ka Khera	2511	7462	417	0
 Mātāji ka Khera	2511	7462	417	0
-Māl ka Khera	2514	7465	417	0
+Māl ka Khera	2514	7465	417	0	Rūppura
 Kherābād	2523	7460	309	0
 Bhaga ka Khera	2525	7473	309	0
 Solankhiyo ka Khera	2524	7472	309	0
@@ -647,7 +647,7 @@ Mānsingh ka Khera	2508	7468	417	0
 Songrān ki Kheri	2502	7472	417	0
 Keri	3092	7551	674	0
 Kheri Chāhlān	3043	7568	593	0
-Kheri Khurd	3042	7568	593	0
+Kheri Khurd	3042	7568	593	0	Fatehgarh
 Loha Khera	3022	7563	593	0
 Kherli Sakrauda	2998	7784	596	0
 Khera Jāt	2968	7781	596	0
@@ -658,7 +658,7 @@ Kheri Fīrozābād	2941	7787	545	0
 Kheri Manājat	2889	7705	485	0
 Khera Garhi	2877	7712	769	0
 Kheri	3082	7581	674	0
-Khera	2851	7705	630	0
+Khera	2851	7705	630	0	Daulat Nasīrābād
 Keren Lines	2860	7716	721	0
 Khera	2868	7730	693	0
 Khera Chaugānpur	2855	7747	588	0
@@ -723,7 +723,7 @@ Nīm ka Khera	2550	7458	309	0
 Kherlya	2544	7470	309	0
 Bara Khera	2528	7475	309	0
 Batkon ka Khera	2527	7474	309	0
-Chohlon ka Khera	2526	7467	309	0
+Chohlon ka Khera	2526	7467	309	0	Dāntājati
 Keran ka Khera	2466	7401	22	0
 Zurji ka Khera	2464	7402	22	0
 Bori ka Khera	2458	7405	22	0
@@ -923,13 +923,13 @@ Khera	3048	7694	691	0
 Khera	3044	7691	691	0
 Kharu Khera	3032	7693	691	0
 Kerwādi	1900	7689	153	0
-Khera	2785	7725	544	0
+Khera	2785	7725	544	0	Imratpur
 Kherli Gumāni	2776	7725	114	0
 Kerūr	1779	7617	48	0
 Kherla Nawābād	2761	7706	114	0
 Dāniyālpur Khera	2761	7704	114	0
 Kherla Chhajju	2761	7706	114	0
-Kherlīmanna	2765	7714	114	0
+Kherlīmanna	2765	7714	114	0	Tilakpuri
 Kherli Qāzi	2773	7720	114	0
 Kherawa	2772	7719	114	0
 Kherli Jalalu	2771	7720	114	0
@@ -960,7 +960,7 @@ Deod Kheri	2978	7644	638	0
 Sampan Kheri	2979	7649	638	0
 Kheri Sher Khān	2957	7628	638	0
 Jūlāni Khera	2964	7633	638	0
-Sūrta Khera	2964	7633	638	0
+Sūrta Khera	2964	7633	638	0	Jūlāni Khera
 Wazīr Khera	2967	7635	638	0
 Kheri Sheru	2970	7643	638	0
 Kheri Rāowāli	2959	7643	638	0
@@ -977,7 +977,7 @@ Khimān Kheri	2923	7639	367	0
 Budha Khera Lathar	2912	7644	367	0
 Sirsa Kheri	2918	7647	367	0
 Bharun Khera	2922	7648	367	0
-Khera	2828	7777	637	0
+Khera	2828	7777	637	0	Khabra
 Khera	2829	7784	637	0
 Dāsehra Kherli	2817	7790	637	0
 Kerola	2813	7790	637	0
@@ -1159,7 +1159,7 @@ Khain Khēra	2778	7966	470	0
 Hāshim Kherā	2779	7972	470	0
 Ām Khērā	2779	7968	470	0
 Sēnjnā Ām Khērā	2779	7967	470	0
-Khērpur	2797	7968	470	0
+Khērpur	2797	7968	470	0	Akbarābād
 Khera	2638	7760	478	0
 Kherli	2637	7760	478	0
 Khere ka Pura	2639	7760	478	0
@@ -1393,7 +1393,7 @@ Davatiya ka Khera	2143	7604	29	0
 Kherāle Khurd	2127	7606	78	0
 Kherāle Buzurg	2127	7606	78	0
 Kheri	2194	7640	209	0
-Kherābād	2330	7776	338	0
+Kherābād	2330	7776	338	0	Ratanpur
 Manji Kheri	2274	7712	675	0
 Manj Khera	2273	7710	675	0
 Khera Khurd	2272	7706	675	0
@@ -1600,7 +1600,7 @@ Shambhu Khera	2656	8075	312	0
 Sau Singh Khera	2656	8078	312	0
 Rādhānagri Khera	2657	8080	312	0
 Harcharan Khera	2656	8079	312	0
-Kusal Khera	2655	8077	312	0
+Kusal Khera	2655	8077	312	0	Mirri Khurd
 Chhidai Khera	2655	8078	312	0
 Lāla Khera	2655	8079	312	0
 Parwa Khera	2655	8078	312	0
@@ -1687,7 +1687,7 @@ Ummed Khera	2667	8084	714	0
 Dudhi Khera	2670	8085	714	0
 Gulāb Khera	2669	8085	714	0
 Tundi Khera	2669	8085	714	0
-Bādhi Khera	2669	8085	714	0
+Bādhi Khera	2669	8085	714	0	Tundi Khera
 Nuruddin Khera	2671	8086	714	0
 Qāsim Khera	2671	8087	714	0
 Dārogha Khera	2672	8085	714	0
@@ -1998,7 +1998,7 @@ Nūrganj Khera	2649	8092	312	0
 Chitta Khera	2650	8094	312	0
 Sabha Khera	2649	8097	312	0
 Kedārnāth Khera	2649	8096	312	0
-Singhan Khera	2649	8098	312	0
+Singhan Khera	2649	8098	312	0	Lāwa
 Dwārkanāth Khera	2648	8098	312	0
 Jaidiāl Khera	2648	8100	312	0
 Barchanda Khera	2648	8099	681	0
@@ -2225,7 +2225,7 @@ Dundi Khera	2625	8086	681	0
 Nawa Khera	2625	8086	681	0
 Barkhandi Khera	2624	8084	312	0
 Lala Khera	2625	8085	312	0
-Gumān Khera	2625	8092	681	0
+Gumān Khera	2625	8092	681	0	Surjupur
 Thakrāin Khera	2620	8100	681	0
 Sudan Khera	2617	8097	681	0
 Maha Khera	2616	8094	681	0
@@ -2895,7 +2895,7 @@ Paramsukh Khera	2647	8040	312	0
 Pipar Khera	2647	8042	312	0
 Thākur Khera	2646	8041	312	0
 Gahir Khera	2648	8045	312	0
-Sukhlal Khera	2648	8041	312	0
+Sukhlal Khera	2648	8041	312	0	Balbadar
 Ghāzi Khera	2649	8041	312	0
 Ghāram Khera	2650	8037	469	0
 Patte Khera	2650	8039	312	0
@@ -2979,7 +2979,7 @@ Kherwa	2361	8083	350	0
 Kherwa	2360	8085	350	0
 Kheri	3257	7533	496	0
 Kheril	3270	7543	373	0
-Kheriānwāla	3051	7422	3	0
+Kheriānwāla	3051	7422	3	0	Chak Jaimalwāla
 Abul Kher	3207	7542	487	0
 Ker	3259	7568	496	0
 Kerāon Khās	2565	8193	607	0
@@ -3015,7 +3015,7 @@ Rolad Latīfpur Khera	2910	7686	485	0
 Seāh Khera	2913	7693	485	0
 Kheri Gūjar	2916	7697	485	0
 Kherī	2239	8086	480	0
-Baigā Kherā	2240	8093	480	0
+Baigā Kherā	2240	8093	480	0	Saraītolā
 Ratta Khera	3087	7474	566	0
 Khere	3193	7507	487	0
 Khera	3184	7501	487	0
@@ -3445,10 +3445,10 @@ Nāthu Kheri	2375	7622	347	0
 Bījna Kheri	2378	7613	347	0
 Karwa Kheri	2375	7613	347	0
 Tolkiyä Kheri	2379	7617	347	0
-Tolkiyae Kheri	2379	7617	347	0
+Tolkiyae Kheri	2379	7617	347	0	Tolkiyä Kheri
 Singan Khera	2379	7618	347	0
 Sultāniya Kheri	2381	7621	347	0
-Bhīl Kheri	2381	7621	347	0
+Bhīl Kheri	2381	7621	347	0	Sultāniya Kheri
 Nazar Khera	2383	7621	347	0
 Bor Kheri Saloki	2385	7615	347	0
 Lālu Kheri	2386	7615	347	0
@@ -3624,7 +3624,7 @@ Khera	2331	7650	320	0
 Kheri	2321	7628	322	0
 Kermeli	2140	8327	635	0
 Kermeli	2127	8326	497	0
-Khera	2317	7626	322	0
+Khera	2317	7626	322	0	Kamlāpur
 Kheri Rājpura	2314	7636	322	0
 Khera	2302	7636	322	0
 Kheria	2309	7640	322	0
@@ -3756,7 +3756,7 @@ Bannā Khera	2925	7916	641	0
 Bāns Khera	2916	7923	641	0
 Nūr Khera	2917	7919	641	0
 Bannā Khera	2918	7921	641	0
-Bāns Kherī	2914	7922	641	0
+Bāns Kherī	2914	7922	641	0	Badalpurī
 Dhīmar Khera	2914	7923	641	0
 Kela Khera	2909	7918	641	0
 Dhīmar Khera	2909	7922	641	0
@@ -3899,7 +3899,7 @@ Karanji ki Kheri	2515	7420	309	0
 Khera Lagaitān	2597	7431	572	0
 Gāonla ka Khera	2580	7426	309	0
 Jharru ka Khera	2580	7430	309	0
-Khera	2583	7432	309	0
+Khera	2583	7432	309	0	Jingpura
 Ranāoton ka Khera	2577	7429	309	0
 Amdi ka Khera	2576	7431	309	0
 Moti ka Khera	2575	7428	309	0
@@ -3907,13 +3907,13 @@ Kerākhera	2576	7437	309	0
 Modi ka Khera	2577	7441	309	0
 Hatān ka Khera	2578	7438	309	0
 Daula ka Khera	2579	7440	309	0
-Gaidanji ka Khera	2586	7437	309	0
+Gaidanji ka Khera	2586	7437	309	0	Gopālpura
 Hatingji ka Khera	2590	7440	309	0
 Gāiron ka Khera	2592	7438	309	0
 Nāthji ka Khera	2519	7428	309	0
 Gādriyon ka Khera	2548	7430	309	0
 Siroton ka Khera	2547	7429	309	0
-Chatra ka Khera	2545	7433	309	0
+Chatra ka Khera	2545	7433	309	0	Rūppura
 Motrān ka Khera	2543	7428	309	0
 Soji ka Khera	2543	7432	309	0
 Chenna ka Khera	2541	7434	309	0
@@ -3929,10 +3929,10 @@ Chauki ka Khera	2526	7430	309	0
 Mahendragarh ka Khera	2526	7436	309	0
 Balāyon ka Khera	2527	7443	309	0
 Thagān ka Khera	2530	7443	309	0
-Purohitji ka Khera	2532	7440	309	0
+Purohitji ka Khera	2532	7440	309	0	Dhera Devpura
 Bājja ka Khera	2534	7437	309	0
 Bājja ki Kheri	2536	7437	309	0
-Mahārāj ka Khera	2538	7436	309	0
+Mahārāj ka Khera	2538	7436	309	0	Madanpura
 Sārno ka Khera	2537	7445	309	0
 Khepron ka Khera	2542	7443	309	0
 Pīll ka Khera	2543	7438	309	0
@@ -3961,7 +3961,7 @@ Khāro ka Khera	2522	7489	309	0
 Bhārji ka Khera	2524	7496	309	0
 Mehtāji ka Khera	2522	7495	309	0
 Bhawānsinhji ka Khera	2520	7498	309	0
-Mātāji ka Khera	2520	7493	309	0
+Mātāji ka Khera	2520	7493	309	0	Debīpura
 Kheri	2508	7496	417	0
 Khermāliya	2503	7500	417	0
 Kherpura	2417	7409	22	0
@@ -3988,7 +3988,7 @@ Kherākhāl	2271	7646	322	0
 Bāman Kheri	2271	7639	322	0
 Khām Kheri	2267	7639	322	0
 Khera	2263	7629	322	0
-Semli Khera	2263	7630	322	0
+Semli Khera	2263	7630	322	0	Adāliya
 Bāwari Khera	2263	7625	322	0
 Kirtan Kheri	2261	7636	322	0
 Dāngra Khera	2262	7642	322	0
@@ -3996,7 +3996,7 @@ Tumri Khera	2261	7644	322	0
 Nīm Khera	2253	7632	322	0
 Gōra Kheri	2275	7630	322	0
 Lāmba Khera	2898	7930	641	0
-And Kheri	2897	7929	641	0
+And Kheri	2897	7929	641	0	Gaddi Nagri
 Kānkar Khera	2896	7928	552	0
 Khera	2878	7936	552	0
 Bans Khera	2881	7932	552	0
@@ -4026,7 +4026,7 @@ Sīngan Khera	2880	7967	342	0
 Mughla Khera	2877	7969	683	0
 Bāns Khera	2882	7970	683	0
 Gauri Khera	2890	7971	641	0
-Sainta Khera	2900	7966	641	0
+Sainta Khera	2900	7966	641	0	Kusniaut
 Kerwa	2605	8484	540	0
 Lāi Khera	2856	7959	342	0
 Kuiān Khera	2871	7962	342	0
@@ -4043,7 +4043,7 @@ Ganesh Khera	2835	7961	342	0
 Narharpur Gauri Khera	2847	7965	342	0
 Kaua Khera	2833	7971	342	0
 Khera Rath	2803	7955	470	0
-Lāhi Khera	2807	7963	470	0
+Lāhi Khera	2807	7963	470	0	Garhi
 Kūā Khera	2898	7980	641	0
 Kendha Khera	2896	7977	641	0
 Kūā Khera	2897	7993	641	0
@@ -4347,7 +4347,7 @@ Kerugot	2253	8594	653	0
 Kheriāghar	2230	8591	287	0
 Kerāhāri	2235	8587	287	0
 Kheria Tāngar	2240	8588	287	0
-Kheribinj	2234	8595	287	0
+Kheribinj	2234	8595	287	0	Kinjriminjri
 Kerjanga	2142	8523	414	0
 Keri	2168	8572	293	0
 Kerjori	2112	8556	289	0
@@ -4356,7 +4356,7 @@ Kerkera	2181	8594	382	0
 Kerkera	2181	8593	382	0
 Kherapāra	2019	8511	548	0
 Kherbāranā	2018	8518	548	0
-Kherod	2461	8600	452	0
+Kherod	2461	8600	452	0	Khirodh
 Kherdatoli	2465	8579	452	0
 Kherwāni	2439	8599	452	0
 Kheraun	2433	8579	473	0

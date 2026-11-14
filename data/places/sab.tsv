@@ -2,20 +2,20 @@ Sabalgarh	2625	7741	478	40333
 Talwandi Sābo	2998	7508	563	20589
 Sabalpur	2556	8527	604	19183
 Sabaur	2524	8704	411	12575
-Sabour	2524	8704	411	12575
+Sabour	2524	8704	411	12575	Sabaur
 Sabroom	2300	9172	733	7142
 Sabāthu	3097	7699	628	6691
 Sabo	2321	8157	634	4366
 Sabathu Cantonment	3098	7699	628	3685
-Sabrāon	3118	7485	260	0
-Sabrāi	3118	7485	260	0
-Sabhra	3118	7485	260	0
+Sabrāon	3118	7485	260	0	Sobrāon
+Sabrāi	3118	7485	260	0	Sobrāon
+Sabhra	3118	7485	260	0	Sobrāon
 Sabzi Mandi	2867	7721	732	0
-Delhi Sabzimandi	2867	7721	732	0
+Delhi Sabzimandi	2867	7721	732	0	Sabzi Mandi
 Sabual	2344	9259	12	0
-Sabsar	2804	7486	491	0
+Sabsar	2804	7486	491	0	Sahābsar
 Sābarang	2106	8661	734	0
-Sābrang	2106	8661	734	0
+Sābrang	2106	8661	734	0	Sābarang
 Sābora	2733	7725	114	0
 Sābli	2387	7357	512	0
 Sābla	2385	7418	512	0
@@ -23,11 +23,11 @@ Sabhrai	2301	6911	108	0
 Sabedābāri	2366	9184	695	0
 Sabbavaram	1779	8313	227	0
 Sābarmatī	2308	7267	124	0
-Sabarmati Junction	2308	7267	124	0
+Sabarmati Junction	2308	7267	124	0	Sābarmatī
 Sabari	1250	9290	99	0
 Sābang	2218	8760	677	0
 Sabalpur Khurd	2550	8357	26	0
-Sābalpur	2550	8357	26	0
+Sābalpur	2550	8357	26	0	Sabalpur Khurd
 Sabdālpur	2285	8857	450	0
 Sabdan	3404	7473	76	0
 Sābhāwāla	3036	7779	448	0
@@ -45,13 +45,13 @@ Sabhāpur	2706	7933	464	0
 Sabzāpur	2769	7973	686	0
 Sabi ka Nagla	2691	7918	290	0
 Bhadwān Sābra	2683	7916	290	0
-Bhadwān Sābran	2683	7916	290	0
+Bhadwān Sābran	2683	7916	290	0	Bhadwān Sābra
 Sabrāmpura	2696	7563	121	0
 Sabhād	2686	7953	715	0
 Nagla Sabhāsingh	2668	7979	671	0
 Sabūniya	2897	7404	307	0
 Sabān Jot	2705	8239	542	0
-Sabān Lot	2705	8239	542	0
+Sabān Lot	2705	8239	542	0	Sabān Jot
 Sābli	2373	7306	212	0
 Sāban	2808	7655	519	0
 Sabras	2826	7694	544	0
@@ -60,7 +60,7 @@ Kharaj Sab	3455	7434	0	0
 Sab Bār	3461	7437	0	0
 Sābu Ki Mor	2972	7384	374	0
 Sablog	3129	7742	479	0
-Sābuwāna	3033	7400	3	0
+Sābuwāna	3033	7400	3	0	Chetanwāla
 Kotli Sābo	3005	7472	563	0
 Sabhyāl	3117	7730	479	0
 Shabeg	3117	7735	479	0
@@ -81,7 +81,7 @@ Sābarwās	2940	7563	339	0
 Sabalgarh	2972	7823	596	0
 Sabalgarh ki Mariyān	2971	7822	575	0
 Sabbalpur Bītra	2960	7819	575	0
-Sabhāchand	2957	7807	575	0
+Sabhāchand	2957	7807	575	0	Fatehpur
 Sabdalpur	2993	7747	449	0
 Latītpur Sabhākheri	2909	7729	477	0
 Sabīrpur	2973	7756	449	0
@@ -90,7 +90,7 @@ Sabkund	2120	7860	141	0
 Sābu Khera	2983	7462	585	0
 Sabalpura	2465	7369	22	0
 Sabīna	2455	7371	22	0
-Sābatwāli	2983	7778	596	0
+Sābatwāli	2983	7778	596	0	Sultānpur
 Bāzīdpur Sābauli	2889	7709	485	0
 Saboli	2871	7731	693	0
 Garhi Sablu	2877	7730	727	0
@@ -126,7 +126,7 @@ Sabitāpur	2764	7925	688	0
 Nagla Sabi	2742	7924	711	0
 Nagla Sābeh	2749	7913	711	0
 Nagla Sabat	2749	7909	711	0
-Sabziguda	1747	7822	31	0
+Sabziguda	1747	7822	31	0	Chandūguda
 Vidhān Sabha	2115	7908	141	0
 Nagla Sabal	2735	7935	688	0
 Nagla Sabha	2732	7937	688	0
@@ -192,7 +192,7 @@ Sabsukhwa Khera	2619	8086	681	0
 Sabdalpur	2915	7822	575	0
 Sabdalpur Khurd	2907	7819	575	0
 Sabhāchandpur Bhareka	2952	7830	575	0
-Sabhāchandpur Mohan	2951	7835	575	0
+Sabhāchandpur Mohan	2951	7835	575	0	Makhwāra
 Sabdalpur	2944	7835	575	0
 Sablāpur	2761	8119	507	0
 Sabrātīpur	2749	8105	507	0
@@ -296,7 +296,7 @@ Sābli	2300	7428	173	0
 Sabhār	3108	7777	479	0
 Sabāg	2353	8398	341	0
 Sabdaipur	2850	7814	637	0
-Sābitgarh	2819	7800	637	0
+Sābitgarh	2819	7800	637	0	Pilkanhari
 Sabalpur	2822	7823	637	0
 Sablādi	1365	7472	257	0
 Sablāpur	2772	8137	294	0
@@ -344,7 +344,7 @@ Majhola Sabsukhi	2854	7945	342	0
 Sabalpur	2813	7946	342	0
 Sābitganj	2801	7948	117	0
 Sab Nāgar	2876	7956	342	0
-Sabariha	2876	7959	342	0
+Sabariha	2876	7959	342	0	Malpur
 Sābepur	2886	7969	326	0
 Sabaiyā	2656	8481	396	0
 Sabgavhān Budrukh	2111	7497	78	0

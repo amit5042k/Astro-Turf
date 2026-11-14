@@ -3,24 +3,24 @@ Lalitpur	2469	7842	384	126475
 Lālganj	2587	8517	716	37098
 Lālsot	2656	7633	708	34363
 Lālgola	2442	8825	471	28442
-Lalgola Ghat	2442	8825	471	28442
+Lalgola Ghat	2442	8825	471	28442	Lālgola
 Lalgudi	1087	7882	270	23740
 Lālganj	2593	8170	718	23728
 Lalganj	2580	8300	498	23124
-Lālgarh	3019	7568	593	21880
+Lālgarh	3019	7568	593	21880	Laungowāl
 Lālru	3049	7680	632	21394
 Lālpettai	1130	7956	178	16561
-Lalpet	1130	7956	178	16561
+Lalpet	1130	7956	178	16561	Lālpettai
 Lālpur	2219	6996	145	15076
 Lāla	2455	9262	345	11771
 Lālam	972	7670	271	8571
 Lalsingi	1995	8457	440	7078
 Lālpania	2374	8575	517	3659
 Nij Lāluk	2712	9393	355	0
-Laluk	2712	9393	355	0
-Laluri	2569	9484	9	0
-Lālpur	2941	7328	374	0
-Lālpur Bara	2941	7328	374	0
+Laluk	2712	9393	355	0	Nij Lāluk
+Laluri	2569	9484	9	0	Laruri
+Lālpur	2941	7328	374	0	Lāpur Bara
+Lālpur Bara	2941	7328	374	0	Lāpur Bara
 Lalu	3459	7630	8	0
 Lalsong	2502	9290	378	0
 Lālsar	2674	7659	447	0
@@ -28,7 +28,7 @@ Lalpura	2586	8004	645	0
 Lālpur	2326	8149	634	0
 Lālpur	2213	7389	126	0
 Lalpor	3450	7442	0	0
-Lālpur	3450	7442	0	0
+Lālpur	3450	7442	0	0	Lalpor
 Laloi	2222	7024	145	0
 Lallen	2362	9246	12	0
 Lālkua	2907	7951	551	0
@@ -42,7 +42,7 @@ Lālewāl	3133	7563	369	0
 Lāl Dhāng	2985	7832	596	0
 Lālchara	2407	9160	649	0
 Lālburrā	2194	8005	144	0
-Lalburrah	2194	8005	144	0
+Lalburrah	2194	8005	144	0	Lālburrā
 Lālbairo	2488	8653	605	0
 Lālbāgh	2417	8825	471	0
 Lālbāgh	2133	7620	29	0
@@ -50,18 +50,18 @@ Lālbāgh	1794	7743	170	0
 Lalauli	2581	8054	728	0
 Lalanti	2348	8340	341	0
 Lāliyākheri	2292	7688	675	0
-Lālakheri	2292	7688	675	0
+Lālakheri	2292	7688	675	0	Lāliyākheri
 Lālāguda	1744	7854	424	0
 Lālāghāt	2455	9264	345	0
-Lālsānga	3040	7933	183	0
+Lālsānga	3040	7933	183	0	Chamoli
 Lalera	2886	7382	307	0
 Lāl Wāruk Chak	3426	7490	595	0
 Lāl Mandi	3407	7481	611	0
-Lāl Bāzār	3413	7481	611	0
+Lāl Bāzār	3413	7481	611	0	Mundibal
 Lāl Bāzār	3413	7482	611	0
 Lālau Shisgaribāgh	3405	7478	611	0
 Lal Chowk	3407	7481	611	0
-Lāl Chawk	3407	7481	611	0
+Lāl Chawk	3407	7481	611	0	Lal Chowk
 Hanj Lāli	3339	7422	504	0
 Lālpor	3411	7455	301	0
 Lālad	3425	7445	301	0
@@ -69,22 +69,22 @@ Lālbug	3437	7436	0	0
 Chak Laliāl	3281	7471	581	0
 Lāle Parar	3298	7445	581	0
 Manglāl Lālu	3279	7449	581	0
-Mangiāl Lālu	3279	7449	581	0
+Mangiāl Lālu	3279	7449	581	0	Manglāl Lālu
 Laleāna	3259	7487	581	0
-Laliāna	3259	7487	581	0
+Laliāna	3259	7487	581	0	Laleāna
 Dabbar Lālewāla	3260	7485	581	0
 Lāle Chak	3263	7488	581	0
 Laleāl	3267	7477	581	0
-Lalyāl	3267	7477	581	0
+Lalyāl	3267	7477	581	0	Laleāl
 Lāl Dīn da Chak	3273	7475	581	0
-Chak Laldīn	3273	7475	581	0
+Chak Laldīn	3273	7475	581	0	Lāl Dīn da Chak
 Lālung	3459	7630	8	0
 Lāliwāli Pathra	3431	7394	0	0
 Khālsa Lālwāla	3005	7793	596	0
 Lālwāla	3005	7794	596	0
 Lālwāla	3003	7794	596	0
 Lālchhapar	3000	7723	88	0
-Lālchhaper	3000	7723	88	0
+Lālchhaper	3000	7723	88	0	Lālchhapar
 Lālpura	2538	7573	353	0
 Lāl Pahāri	2803	7611	694	0
 Laltāna	3118	7700	628	0
@@ -119,10 +119,10 @@ Lalpur	2684	7907	290	0
 Lālju ka Nagla	2688	7917	290	0
 Lallu ka Pura	2635	7911	334	0
 Lālpur	2646	7920	290	0
-Lālpura	2646	7920	290	0
+Lālpura	2646	7920	290	0	Lālpur
 Lālupura	2646	7916	290	0
 Purwa Lālghāton	2645	7919	290	0
-Lālghāta	2645	7919	290	0
+Lālghāta	2645	7919	290	0	Purwa Lālghāton
 Lālpura	2698	7569	121	0
 Lālpura	2698	7552	121	0
 Lālūpura	2690	7571	121	0
@@ -137,7 +137,7 @@ Purwa Lālman	2690	7969	570	0
 Lalluia	2691	7974	570	0
 Lālpur	2687	7960	715	0
 Lālgaon	2675	7973	671	0
-Lālu	2673	7983	671	0
+Lālu	2673	7983	671	0	Malkhānpur Deogaon
 Lāla Bhagat	2672	7985	671	0
 Lāla Nawāda	2667	7977	671	0
 Lālpur	2654	7989	671	0
@@ -203,9 +203,9 @@ Lālag	3075	7757	534	0
 Lālag	3063	7767	534	0
 Lālpura	2652	7634	708	0
 Lālpur	2948	7813	575	0
-Islāmpur Lāla	2931	7815	575	0
-Lālman	2930	7815	575	0
-Lālwāla	2926	7817	575	0
+Islāmpur Lāla	2931	7815	575	0	Juddi
+Lālman	2930	7815	575	0	Sikandarpur
+Lālwāla	2926	7817	575	0	Shāhpur
 Lālpur	2928	7807	545	0
 Lālchandwāla	2968	7802	596	0
 Lālpur	2968	7804	596	0
@@ -256,7 +256,7 @@ Lalhāiri	2910	7703	485	0
 Garhi Lāla	2912	7703	485	0
 Bāzidpur Lāla	2941	7851	575	0
 Fatehpur Lāl	2934	7853	575	0
-Muhammad Ālīpur Lālman	2934	7859	575	0
+Muhammad Ālīpur Lālman	2934	7859	575	0	Rāmsāhaiwāla
 Lallūwāla	2892	7914	552	0
 Lālpur	2891	7901	552	0
 Lāla Nagla	2882	7922	552	0
@@ -269,7 +269,7 @@ Lālapalli	1855	7924	748	0
 Lalai	2605	7511	446	0
 Lālpur	2804	7753	543	0
 Lālgarhi	2807	7767	543	0
-Lālpur	2822	7774	637	0
+Lālpur	2822	7774	637	0	Mumārizpur
 Lalūpura	2878	7794	756	0
 Laliāna	2892	7799	700	0
 Lālpur	2870	7783	756	0
@@ -289,16 +289,16 @@ Lallīna	3029	7648	564	0
 Lālpur	3005	7628	638	0
 Lālru Mandi	3048	7680	632	0
 Basti Lālpura	3038	7676	691	0
-Lālbājīwādi	1828	7698	158	0
+Lālbājīwādi	1828	7698	158	0	Nāgtīrthwādi
 Lālpur	2783	7736	177	0
 Lālpur	2762	7725	114	0
 Lālpur	2788	7771	177	0
 Lālpur	2741	7757	177	0
 Dhāna Lālchand	2737	7765	177	0
-Lālpur	2827	7788	637	0
+Lālpur	2827	7788	637	0	Chitaula
 Lālpur	2804	7800	543	0
 Lalpuriāpāra	2240	8228	388	0
-Lalātīkāpā	2232	8226	291	0
+Lalātīkāpā	2232	8226	291	0	Sis
 Lālpur	2183	8218	379	0
 Lālpur	2170	8136	710	0
 Lālpur	2194	8157	710	0
@@ -469,7 +469,7 @@ Lālpur	2633	7996	671	0
 Lālpur	2627	7979	671	0
 Lalūpur	2741	7852	403	0
 Lālgarhi	2732	7864	403	0
-Hīra Lālpur	2624	7976	671	0
+Hīra Lālpur	2624	7976	671	0	Dwārika Purwa
 Lallīpur	2620	7995	671	0
 Madra Lālpur	2610	7984	741	0
 Lalki Purwa	2614	8000	469	0
@@ -517,7 +517,7 @@ Lālpur	2499	7996	663	0
 Lālpur	2513	8326	724	0
 Lālpāni	2245	7775	590	0
 Lalaua	2561	7855	503	0
-Lalān	2539	7851	433	0
+Lalān	2539	7851	433	0	Durgāpur
 Lalār	2468	7991	532	0
 Lālkheri	2163	7779	462	0
 Lālāpur	2566	8390	26	0
@@ -623,7 +623,7 @@ Lallāpura	2532	8299	251	0
 Lālpur	2536	8299	251	0
 Lālpur	2538	8298	251	0
 Lallāpur	2545	8289	251	0
-Lālapur	2541	8205	607	0
+Lālapur	2541	8205	607	0	Pattī Ghīna
 Chak Lālman	2543	8223	607	0
 Lālganj	2512	8282	201	0
 Lālpur	2266	7983	368	0
@@ -692,15 +692,15 @@ Lālpur	2917	7809	700	0
 Lālwāla	2966	7848	575	0
 Lālwāla	2965	7849	575	0
 Lālūwāla	2960	7834	575	0
-Tatārpur Lālu	2960	7834	575	0
+Tatārpur Lālu	2960	7834	575	0	Lālūwāla
 Jwāli Lāla	2960	7825	575	0
 Shekhpur Lāla	2955	7830	575	0
 Rāmpur Lālu	2954	7847	575	0
 Lālpur	2945	7831	575	0
 Lālwāla	2942	7843	575	0
-Islāmpur Lālu	2941	7828	575	0
-Lallāwāla Alīpur	2939	7835	575	0
-Muhammadpur Lāl	2930	7846	575	0
+Islāmpur Lālu	2941	7828	575	0	Mālīwāla
+Lallāwāla Alīpur	2939	7835	575	0	Dāmodar
+Muhammadpur Lāl	2930	7846	575	0	Ladāwāla
 Momīnpur Lālkunwar	2938	7837	575	0
 Lali	2474	8261	103	0
 Purwa Lalta	2796	8112	323	0
@@ -1115,7 +1115,7 @@ Purwa Parwati Lāl	2722	8224	542	0
 Pura Akrām Lāl	2723	8224	542	0
 Khairi Lālu	2709	8221	542	0
 Pura Lālji	2709	8223	542	0
-Patti Lāl	2709	8224	542	0
+Patti Lāl	2709	8224	542	0	Nagra
 Biswaria Debi Lāl	2710	8225	542	0
 Lāl Birt	2707	8221	542	0
 Purwa Kanhai Lāl	2704	8224	542	0
@@ -1312,7 +1312,7 @@ Lāla Gaura	2674	8281	154	0
 Katia Lāl	2666	8291	154	0
 Dandwa Lāla	2663	8293	647	0
 Pura Sukh Lāl	2657	8292	647	0
-Lālāpur	2576	8337	26	0
+Lālāpur	2576	8337	26	0	Gaura Nāmzād
 Karaundi Lāla	2645	8296	553	0
 Hathna Lāla	2646	8296	553	0
 Lāla Patti	2628	8298	498	0
@@ -1366,7 +1366,7 @@ Purwa Nagesar Lāl	2683	8348	325	0
 Lālpur	2696	8340	515	0
 Purwa Jank Lāl	2684	8349	325	0
 Lālpur	2655	8338	325	0
-Lālpur Tīkar	2668	8340	325	0
+Lālpur Tīkar	2668	8340	325	0	Nadwa
 Purwa Lāldhar	2668	8346	325	0
 Purwa Lalāin	2668	8346	325	0
 Purwa Hīra Lāl	2666	8348	325	0
@@ -1382,7 +1382,7 @@ Lalia	2653	8371	535	0
 Lālpur	2553	8152	651	0
 Lālu ka Purwa	2552	8159	651	0
 Lālpur Parsia	2649	8353	535	0
-Lālu Dīh	2556	8173	607	0
+Lālu Dīh	2556	8173	607	0	Gopālpur
 Lāla ka Purwa	2565	8165	718	0
 Lāl ka Purwa	2570	8166	718	0
 Lālshāh ka Purwa	2571	8169	718	0
@@ -1458,7 +1458,7 @@ Lalliān Kalān	3126	7549	369	0
 Lālewāl	3175	7558	296	0
 Lāluwāl	3167	7573	296	0
 Lālghāt	2300	8223	513	0
-Lālpur	2300	8223	513	0
+Lālpur	2300	8223	513	0	Lālghāt
 Lālūtolā	2105	8066	474	0
 Lālbandha	2120	8072	474	0
 Lalota	3197	7579	296	0
@@ -1559,7 +1559,7 @@ Lālākheri Gūjar	2346	7622	320	0
 Lālākheri	2344	7618	314	0
 Lālwa	2814	7729	754	0
 Lālpur Qadīm	2816	7738	754	0
-Lālpura	2816	7738	754	0
+Lālpura	2816	7738	754	0	Lālpur Qadīm
 Lālgarh	2807	7744	754	0
 Lālupura	2325	7623	320	0
 Lāladhurwa	2167	8319	635	0

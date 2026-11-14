@@ -1,12 +1,12 @@
 Kabnur	1670	7444	57	38146
 Kabrāi	2540	8000	614	24771
-Kabral	2540	8000	614	24771
+Kabral	2540	8000	614	24771	Kabrāi
 Kabilpor	2095	7296	221	15699
 Kāb	2539	8479	604	10141
 Kabri	2943	7694	298	7049
 Kabatabandha	2088	8602	376	4080
 Khābha	2681	7067	217	0
-Kabudurun	3353	7547	148	0
+Kabudurun	3353	7547	148	0	Karbudurun
 Kābul Shāh	3029	7405	3	0
 Kābuli	2509	7145	285	0
 Kablongpu	2798	9640	475	0
@@ -14,13 +14,13 @@ Kabīrpur Kāsganja	2837	8008	683	0
 Kabīrpur	2081	8625	376	0
 Kabīrganj	2853	8038	683	0
 Kabīrchabutra	2267	8173	755	0
-Kabīrchabatra	2267	8173	755	0
+Kabīrchabatra	2267	8173	755	0	Kabīrchabutra
 Kabbūr	1635	7473	77	0
 Kabbūr	1269	7630	679	0
 Kabalkheri	2367	7496	601	0
-Kabai Konga	1993	8187	518	0
+Kabai Konga	1993	8187	518	0	Kibai Konga
 Chauth ka Barwāra	2605	7616	116	0
-Kābla	3328	7419	504	0
+Kābla	3328	7419	504	0	Kāhla
 Kābo Kot	3316	7446	504	0
 Kha Barora	3469	7642	8	0
 Rāje ka Bāzar	3402	7393	1	0
@@ -41,17 +41,17 @@ Nārsingh ka Bās	2849	7523	539	0
 Haripura ka Bās	2833	7525	300	0
 Bhāru ka Bās	2832	7534	300	0
 Kularion ka Bās	2830	7525	300	0
-Kulariyon ka Bās	2830	7525	300	0
+Kulariyon ka Bās	2830	7525	300	0	Kularion ka Bās
 Miyon ka Bās	2829	7533	300	0
-Mīya ka Bās	2829	7533	300	0
+Mīya ka Bās	2829	7533	300	0	Miyon ka Bās
 Ghāsīrām ka Bās	2829	7530	300	0
 Rādon ka Bās	2829	7535	300	0
 Khīcharon ka Bās	2828	7537	300	0
-Khichra ka Bās	2828	7537	300	0
+Khichra ka Bās	2828	7537	300	0	Khīcharon ka Bās
 Naina ka Bās	2826	7526	300	0
 Farāns ka Bās	2825	7537	300	0
-Frāns ka Bās	2825	7537	300	0
-Firāns ka Bās	2825	7537	300	0
+Frāns ka Bās	2825	7537	300	0	Farāns ka Bās
+Firāns ka Bās	2825	7537	300	0	Farāns ka Bās
 Saubha ka Bās	2825	7529	300	0
 Pīpal ka Bās	2822	7536	300	0
 Kāleran ka Bās	2819	7536	300	0
@@ -67,7 +67,7 @@ Swāmi ka Bās	2805	7534	300	0
 Dhīgāl ka Bās	2805	7531	300	0
 Sundo ka Bās	2802	7532	300	0
 Kulriyon ka Bās	2802	7538	300	0
-Kulriyan ka Bās	2802	7538	300	0
+Kulriyan ka Bās	2802	7538	300	0	Kulriyon ka Bās
 Jākharo ka Bās	2807	7548	300	0
 Deva ka Bās	2803	7543	300	0
 Khājpura ka Bās	2812	7547	300	0
@@ -85,13 +85,13 @@ Gadhāra ka Bās	2825	7563	300	0
 Chīrāsan ka Bās	2816	7568	300	0
 Nāri ka Bās	2818	7560	300	0
 Jīta ka Bās	2813	7569	300	0
-Hemrāj ka Bās	2811	7568	300	0
+Hemrāj ka Bās	2811	7568	300	0	Rājpura
 Devta ka Bās	2807	7572	300	0
 Tāra ka Bās	2802	7562	300	0
 Māne ka Bās	2800	7559	300	0
 Katewan ka Bās	2800	7555	300	0
-Katewon ka Bās	2800	7555	300	0
-Lakhera ka Bāg	2509	7898	481	0
+Katewon ka Bās	2800	7555	300	0	Katewan ka Bās
+Lakhera ka Bāg	2509	7898	481	0	Lakhera Bāg
 Kabrāta	2456	7894	481	0
 Kabīrpur	2704	7948	570	0
 Kabīrākhera	2721	7985	686	0
@@ -105,7 +105,7 @@ Meri ka Bās	2696	7552	121	0
 Chāran ka Bās	2696	7552	121	0
 Lālya ka Bās	2683	7566	121	0
 Kheria ka Bās	2682	7550	121	0
-Keriya ka Bās	2682	7550	121	0
+Keriya ka Bās	2682	7550	121	0	Kheria ka Bās
 Khabrāmau	2698	7969	570	0
 Purwa Kabri	2676	7971	715	0
 Kabīran Purwa	2720	7998	686	0
@@ -114,7 +114,7 @@ Rāmpura ka Bās	2852	7561	539	0
 Kabīrpur	2627	8421	639	0
 Kabūr	1474	7534	92	0
 Kabhalli	1189	7675	69	0
-Kabwabahra	2049	8186	652	0
+Kabwabahra	2049	8186	652	0	Kahwabahra
 Kabula	2728	9569	460	0
 Khab	3180	7864	83	0
 Bhamda ka Bās	2805	7684	482	0
@@ -263,7 +263,7 @@ Baktu Ka Bās	2742	7681	482	0
 Ālābaksh Ka Bās	2742	7683	482	0
 Ahmda Ka Bās	2741	7685	482	0
 Jauhari Ka Bās	2741	7682	482	0
-Bahāliyān Ka Bās	2741	7683	482	0
+Bahāliyān Ka Bās	2741	7683	482	0	Bār Gūjar Khohra
 Syālki Ka Bās	2737	7683	482	0
 Māliyān Ka Bās	2735	7675	482	0
 Dhekede Ka Bās	2735	7678	482	0
@@ -294,7 +294,7 @@ Athūna ka Bās	2810	7520	300	0
 Pīpal ka Bās	2810	7517	300	0
 Kuhāru ka Bās	2809	7513	300	0
 Godu ka Bās	2808	7514	300	0
-Dhāka ka Bās	2806	7519	300	0
+Dhāka ka Bās	2806	7519	300	0	Shyopura
 Brāhman ka Bās	2806	7517	300	0
 Suganji ka Bās	2805	7519	300	0
 Jīwan ka Bās	2804	7519	300	0
@@ -309,7 +309,7 @@ Bālūrām ka Bās	2816	7520	300	0
 Puniyān ka Bās	2817	7521	300	0
 Lūna ka Bās	2818	7524	300	0
 Kolīnd ka Bās	2822	7523	300	0
-Lachhūrām ka Bās	2822	7523	300	0
+Lachhūrām ka Bās	2822	7523	300	0	Kolīnd ka Bās
 Sūra ka Bās	2824	7520	300	0
 Buddha ka Bās	2841	7528	300	0
 Mukha ka Bās	2840	7527	300	0
@@ -407,7 +407,7 @@ Kābarkhoh	2453	7693	506	0
 Kābria	2606	7530	446	0
 Kabūlpur Nagla	2890	7780	700	0
 Fakharpur Kabatta	2880	7778	700	0
-Kabūlpur	2870	7796	637	0
+Kabūlpur	2870	7796	637	0	Pota
 Chhallu ka Bās	2816	7573	300	0
 Palota ka Bās	2823	7579	300	0
 Barsari ka Bās	2822	7577	300	0
@@ -431,8 +431,8 @@ Mālina ka Bās	2755	7700	114	0
 Saidampur ka Bās	2756	7701	482	0
 Kishori ka Bās	2752	7701	482	0
 Badsambla ka Bās	2751	7701	482	0
-Dina ka Bās	2753	7709	114	0
-Pūchhla ka Bās	2751	7712	114	0
+Dina ka Bās	2753	7709	114	0	Baldevwās
+Pūchhla ka Bās	2751	7712	114	0	Bās Sābat
 Gulpāra ka Bās	2753	7713	114	0
 Khohra ka Bās	2757	7715	114	0
 Teli ka Bās	2758	7711	114	0
@@ -445,7 +445,7 @@ Burāni ka Bās	2769	7708	114	0
 Sahsan ka Bās	2773	7720	114	0
 Jodhpur ka Bās	2768	7717	114	0
 Karmu ka Bās	2763	7724	114	0
-Jāton ka Bās	2762	7723	114	0
+Jāton ka Bās	2762	7723	114	0	Nagla Gopīnāth
 Khabra	2828	7777	637	0
 Kābegaon	1896	7706	140	0
 Kabnūr	1856	7737	140	0
@@ -508,7 +508,7 @@ Anjanān Kabīr	2565	8117	728	0
 Kabra	2557	8115	728	0
 Kabīrpur	2560	8224	32	0
 Kabīrpur	2409	7945	521	0
-Kabīrpur	2412	7949	521	0
+Kabīrpur	2412	7949	521	0	Jhāgari
 Kabīruddīnpur	2575	8277	32	0
 Khabrauli	2658	7806	478	0
 Nāna ka Bāgh	2351	7779	215	0
@@ -561,7 +561,7 @@ Khabhwa	2475	8242	201	0
 Mangal ka Bāra	2948	7708	457	0
 Jagrām ka Bās	2841	7582	300	0
 Sukhdevsingh ka Bās	2842	7579	431	0
-Surāna ka Bās	2838	7582	300	0
+Surāna ka Bās	2838	7582	300	0	Āryānagar
 Bhoja ka Bās	2835	7582	300	0
 Chīma ka Bās	2831	7585	300	0
 Gode ka Bās	2826	7580	300	0
@@ -599,7 +599,7 @@ Kabrian Purwa	2715	8153	294	0
 Hāil Sāhib ka Bangla	2714	8173	542	0
 Pura Kabtān	2701	8171	542	0
 Tindwa Kabir	2745	8190	294	0
-Hari Bāba ka Bandha	2842	7832	646	0
+Hari Bāba ka Bandha	2842	7832	646	0	Shri Dhām Bāndli
 Kabīr Chak	2804	7980	470	0
 Kabīrpur	2810	7989	470	0
 Kabīr ki Sarāi	2857	7856	646	0
@@ -761,7 +761,7 @@ Kabirpār	2588	8457	540	0
 Kabrapāra	2377	7364	512	0
 Kabsoli	2959	7916	429	0
 Khābli	2958	7921	429	0
-Khabariā	2916	7917	641	0
+Khabariā	2916	7917	641	0	Khamariā
 Modan Singh ka Bigha	2528	8468	766	0
 Ubanna ka Bera	2546	7373	273	0
 Dānion ka Bās	2532	7354	273	0
@@ -783,7 +783,7 @@ Khabdoli	2988	7975	722	0
 Kābri	2517	7404	572	0
 Gomādurgāji ka Bāria	2598	7430	572	0
 Karma ka Bāria	2593	7435	309	0
-Naikon ka Bāria	2587	7433	309	0
+Naikon ka Bāria	2587	7433	309	0	Sīngpura
 Kāchhion ka Bāria	2585	7431	309	0
 Bārion ka Bāria	2585	7431	309	0
 Rora ka Bāria	2586	7432	309	0
@@ -811,7 +811,7 @@ Qabūlpura	2804	7912	117	0
 Kabra Kishanpur	2865	7933	342	0
 Kabīrpur	2632	8466	703	0
 Kabalpur	2662	8483	396	0
-Kabūlpur	2842	7959	342	0
+Kabūlpur	2842	7959	342	0	Katkāpur
 Kabūlpur	2842	7977	683	0
 Khabhra	2501	8478	118	0
 Kabīsā	2442	8433	118	0
@@ -899,7 +899,7 @@ Kabalāpur	1594	7463	77	0
 Kabinhol	1498	7474	59	0
 Kabarga	1451	7450	59	0
 Kabbinmane	1451	7472	59	0
-Kabgār	1436	7472	59	0
+Kabgār	1436	7472	59	0	Gonatti
 Kabse	1383	7468	257	0
 Kāb Bigha	2499	8493	118	0
 Kabīrpur	2498	8499	118	0

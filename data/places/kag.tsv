@@ -3,20 +3,20 @@ Khagaul	2558	8505	604	51577
 Khagaria	2550	8647	759	49982
 Kāgal	1658	7432	57	34106
 Khāga	2577	8110	728	13338
-Kagaznagar	1935	7948	162	4266
+Kagaznagar	1935	7948	162	4266	Kothāpet
 Kāgupādu	1680	8145	24	1663
 Sone ka Gurja	2649	7756	622	0
-Kagnur	1734	7657	71	0
+Kagnur	1734	7657	71	0	Koganūr
 Khāgasari	2176	6998	742	0
 Kāgvād	1669	7472	90	0
 Kaglipur	1280	7751	43	0
 Kāghzīpur	2574	8365	26	0
 Kāgdar ki Pāl	2405	7365	22	0
-Kagdar	2405	7365	22	0
+Kagdar	2405	7365	22	0	Kāgdar ki Pāl
 Kagdari	2248	7078	174	0
-Kāgba	2293	7557	660	0
+Kāgba	2293	7557	660	0	Kākba
 Kāgāraul	2702	7785	546	0
-Kagarol	2702	7785	546	0
+Kagarol	2702	7785	546	0	Kāgāraul
 Bilia ka Ghara	2419	7404	22	0
 Dhola ka Gaon	2544	7323	273	0
 Būndi ka Gothra	2568	7566	353	0
@@ -28,8 +28,8 @@ Toda ka Gothra	2569	7560	313	0
 Khagoli	2980	7858	612	0
 Kāgazgutta	1713	7869	62	0
 Bhāno ka Gaon	2774	7280	307	0
-Bhāne ka Gaon	2774	7280	307	0
-Bāla ka Gol	2764	7296	307	0
+Bhāne ka Gaon	2774	7280	307	0	Bhāno ka Gaon
+Bāla ka Gol	2764	7296	307	0	Bālāla
 Kāgāwāli	3004	7652	501	0
 Khagia	2763	7959	470	0
 Khagi ka Nagla	2687	7913	290	0
@@ -110,7 +110,7 @@ Khāgal	2458	7819	410	0
 Khaggu	2761	7905	616	0
 Garhi ka Gaon	2642	7711	447	0
 Khagau	2744	7951	688	0
-Nagla Khag	2710	7957	570	0
+Nagla Khag	2710	7957	570	0	Rūppur
 Khaggu Nagla	2708	7957	570	0
 Nagla Khagu	2790	7848	543	0
 Pāni Ka Gaon	2723	7840	403	0
@@ -149,7 +149,7 @@ Khagra	2699	8283	154	0
 Khagri	2698	8283	154	0
 Khāgund	3355	7523	148	0
 Tola Khāgi	2679	8347	325	0
-Khāgalpur	2558	8174	607	0
+Khāgalpur	2558	8174	607	0	Sarāi Ismāil
 Khagmān	2344	8012	598	0
 Garde-kā-Gol	3304	7557	372	0
 Khagriāl	3232	7542	487	0
@@ -162,7 +162,7 @@ Chanda Ji Ka Gara	2437	7274	23	0
 Khagwa	2255	8045	480	0
 Khūni ka Gūrha	2545	7325	273	0
 Gongne ka Gūrha	2547	7335	273	0
-Ganga ka Gūrha	2547	7335	273	0
+Ganga ka Gūrha	2547	7335	273	0	Gongne ka Gūrha
 Bhīmji ka Gūrha	2547	7348	273	0
 Mahārāmji ka Gūrha	2541	7339	273	0
 Rupāji ka Gūrha	2540	7348	273	0

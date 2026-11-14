@@ -2,7 +2,7 @@ Mustafābād	2872	7727	791	127167
 Mushābani	2251	8646	584	32761
 Musiri	1095	7844	270	30209
 Mussoorie	3045	7807	448	25753
-Musoori	3045	7807	448	25753
+Musoori	3045	7807	448	25753	Mussoorie
 Mustafābād	3020	7715	88	9042
 Musāfir-Khāna	2638	8180	662	8081
 Shahajahanpur Chat Must	2900	7809	483	237
@@ -10,24 +10,24 @@ Mustafābād	2731	7858	403	0
 Mustafābād	2591	8129	681	0
 Mustabāda	1655	8073	68	0
 Musra Khurd	2116	8087	474	0
-Musra	2116	8087	474	0
+Musra	2116	8087	474	0	Musra Khurd
 Muskira	2567	7980	645	0
 Muski	3444	7566	8	0
 Mushāri	2600	8557	395	0
-Musahari Block	2600	8557	395	0
-Mushari Farm	2600	8557	395	0
+Musahari Block	2600	8557	395	0	Mushāri
+Mushari Farm	2600	8557	395	0	Mushāri
 Musguppi	1626	7496	77	0
 Mūsīpur	2770	7723	114	0
-Mūsepur	2770	7723	114	0
+Mūsepur	2770	7723	114	0	Mūsīpur
 Mūsāpet	1660	7798	317	0
 Musalvādi	1946	7469	152	0
 Musalimadugu	1597	7844	232	0
 Mūsa	2998	7532	709	0
 Mūs	923	9278	79	0
-Mushing	2718	9222	523	0
+Mushing	2718	9222	523	0	Moshing
 Musramgūda	1984	8031	135	0
-Musrumgond	1984	8031	135	0
-Mustáfabad	2168	7284	151	0
+Musrumgond	1984	8031	135	0	Musramgūda
+Mustáfabad	2168	7284	151	0	Bhārbhut
 Mūsāpur	2988	7715	457	0
 Mustial	1790	7900	466	0
 Musalmāndi	1819	7299	17	0
@@ -39,7 +39,7 @@ Sīpura Mustaqil	2643	7945	741	0
 Baghāwali Mustaqil	2643	7946	741	0
 Abdullāpur Mustaqil	2642	7947	741	0
 Shankarpur Gaon Mustaqil	2642	7948	741	0
-Kota Mustaqil	2638	7935	741	0
+Kota Mustaqil	2638	7935	741	0	Murlīpur
 Pāren Mustaqil	2641	7941	741	0
 Lārpur Mustaqil	2641	7942	741	0
 Romai Mustaqil	2641	7943	741	0
@@ -48,12 +48,12 @@ Harshankarpur Mustaqil	2641	7947	741	0
 Jugrājpur Mustaqil	2635	7947	741	0
 Tikri Mustaqil	2635	7949	741	0
 Lohai Mustaqil	2632	7948	741	0
-Musalmānpāra	2644	8992	713	0
+Musalmānpāra	2644	8992	713	0	Harwāphuta
 Musalmānpāra	2634	8986	561	0
 Mushtipalli	1633	7825	146	0
 Musilimandi	1895	8281	316	0
 Musilipalle	1538	7923	200	0
-Musilapalle	1538	7923	200	0
+Musilapalle	1538	7923	200	0	Musilipalle
 Musakani	2127	8417	567	0
 Mushalpur	2658	9143	608	0
 Mushaidpur	2845	7675	630	0
@@ -69,7 +69,7 @@ Mustafābād	2941	7812	575	0
 Pura Mūsal	2679	7696	447	0
 Mustafābād	2965	7714	328	0
 Mustafābād	2964	7711	457	0
-Musalmān	2975	7734	449	0
+Musalmān	2975	7734	449	0	Bīr Kherī
 Mushkīpur	2964	7755	449	0
 Mūsādei	2205	7879	337	0
 Musākhāpa	2186	7849	462	0
@@ -90,17 +90,17 @@ Mūsa	3173	7579	296	0
 Mustapur	3162	7593	296	0
 Mūsākhera	2973	7571	443	0
 Musrāng	3164	7803	83	0
-Mustafābād Garhi	2942	7872	575	0
+Mustafābād Garhi	2942	7872	575	0	Garhi
 Musēpur	2932	7873	783	0
 Mūsāpur	2896	7913	552	0
-Mustafābād Kalān	2896	7913	552	0
+Mustafābād Kalān	2896	7913	552	0	Mūsāpur
 Mūstafābād	2893	7916	552	0
 Mustafābād	2894	7909	552	0
-Mustafābād	2890	7917	552	0
-Mustafābād Khurd	2897	7913	552	0
+Mustafābād	2890	7917	552	0	Taljābād
+Mustafābād Khurd	2897	7913	552	0	Khanjī ki Mandaiyān
 Musia Nagla	2837	7903	117	0
 Musenmāta	2480	7663	506	0
-Mustafābād	2815	7758	588	0
+Mustafābād	2815	7758	588	0	Sābuta
 Musthūsa	1921	8039	288	0
 Musharatpur Jhandāpur	2864	7782	756	0
 Mūshkābād	3087	7623	674	0
@@ -192,7 +192,7 @@ Mūsepur	2513	8303	201	0
 Musāhibpur	2501	8321	724	0
 Mustafāpur	2520	8317	724	0
 Musāvali	2644	7886	334	0
-Muslimpur	2555	8335	26	0
+Muslimpur	2555	8335	26	0	Rahīmpur
 Mustafābād	2557	8333	26	0
 Mustafābād	2570	8336	26	0
 Musalvādi	2037	7709	128	0
@@ -267,13 +267,13 @@ Mushkābād	2625	8080	312	0
 Musāpur	2608	8089	681	0
 Muswa Khera	2619	8085	681	0
 Mustafāpur	2602	8094	728	0
-Mustafābād	2919	7821	575	0
+Mustafābād	2919	7821	575	0	Gadanpura
 Mussepur	2964	7827	575	0
 Mūsepur	2957	7825	575	0
-Muswi Khānpur	2957	7829	575	0
-Mustafāpur Āsu	2953	7832	575	0
+Muswi Khānpur	2957	7829	575	0	Chaugānwān
+Mustafāpur Āsu	2953	7832	575	0	Paimār
 Musepur	2944	7832	575	0
-Mustafāpur	2939	7842	575	0
+Mustafāpur	2939	7842	575	0	Bhorāpur
 Mūsepur	2928	7842	575	0
 Mustafābād	2926	7835	575	0
 Mūsepur	2789	8111	323	0
@@ -303,10 +303,10 @@ Mūsepur	2681	8148	30	0
 Mustafābād	2905	7833	575	0
 Musepur	2915	7847	575	0
 Musalkund	2093	7922	141	0
-Mustafābād	2917	7857	575	0
+Mustafābād	2917	7857	575	0	Daulatābād
 Mustafābād	2909	7868	511	0
 Gakkharpur Mustahkam	2903	7874	511	0
-Mustahkam	2907	7873	511	0
+Mustahkam	2907	7873	511	0	Rainta Māfi
 Kundesra Mustahkam	2913	7874	511	0
 Mīrpur Mohan Chak Mustahkam	2914	7872	511	0
 Bālāpur Mustahkam	2915	7871	511	0
@@ -316,7 +316,7 @@ Sherpur Patti Mustahkam	2917	7870	511	0
 Musiyākhānd	2975	7896	612	0
 Musāhibpur	2645	8101	681	0
 Musāhib Khera	2649	8120	681	0
-Mustahkam	2906	7887	511	0
+Mustahkam	2906	7887	511	0	Īlar
 Chak Mūsi	2640	8193	597	0
 Mustafāpur	2589	8112	728	0
 Musāpur	2589	8113	728	0
@@ -351,7 +351,7 @@ Mushirnagar	1852	7842	75	0
 Pura Musaddi	2724	8205	542	0
 Mūsāpur	2716	8212	542	0
 Mustafābād	2536	8138	651	0
-Mustafāpur Kirāon	2539	8142	651	0
+Mustafāpur Kirāon	2539	8142	651	0	Lat Purwa
 Purwa Mustafa Bakhsh	2721	8222	542	0
 Pura Mūse	2716	8220	542	0
 Purwa Mūsa	2716	8219	542	0
@@ -499,13 +499,13 @@ Pure Mustafākhān	2591	8193	718	0
 Pure Musalmān	2594	8196	718	0
 Mūsepur	2553	8178	607	0
 Mustafābād	2558	8197	607	0
-Musāhibpur	3204	7556	487	0
+Musāhibpur	3204	7556	487	0	Haler Dalpat
 Musākheri	2269	7589	660	0
 Mūsakhoh	2295	8002	480	0
 Muskera	2056	8142	668	0
 Darya Musa	3197	7485	222	0
 Mūse	3143	7475	260	0
-Mūsewāla	3108	7500	566	0
+Mūsewāla	3108	7500	566	0	Jaggewāla
 Mustafāpur	3194	7518	487	0
 Rām Diwali Musalmānān	3170	7516	222	0
 Ghugāwind Musalmānān	3166	7522	222	0
@@ -545,7 +545,7 @@ Muswādih	2148	8199	379	0
 Mūsāpur	3113	7605	295	0
 Mūsewāl	3104	7669	628	0
 Mustafābād	3074	7639	648	0
-Musalmānān	3057	7642	648	0
+Musalmānān	3057	7642	648	0	Bīwīpur
 Musāpāli	2060	8266	594	0
 Chak Mustafāpur	3016	7752	449	0
 Mūsel	3009	7768	449	0

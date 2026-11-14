@@ -1,19 +1,19 @@
 Pāppinisshēri	1196	7534	266	35134
 Pāppākurichchi	1081	7875	270	24023
-Pappankurichi	1081	7875	270	24023
+Pappankurichi	1081	7875	270	24023	Pāppākurichchi
 Papanasam	1093	7927	264	17548
 Pappinivattom	1029	7616	241	15336
 Pāpampeta	1469	7758	100	13850
 Papparapatti	1222	7806	110	12174
 Pāparhāhāndi	1933	8252	349	9390
-Pāppadāhāndi	1933	8252	349	9390
+Pāppadāhāndi	1933	8252	349	9390	Pāparhāhāndi
 Pāpireddippatti	1192	7837	110	9369
 Paprawat	2859	7698	763	4412
 Hindustan Paper Corporation Ltd. Township	2486	9260	345	2732
-Hindustan Paper Corporation	2486	9260	345	2732
-Hindustan Paper Corporation Ltd.	2486	9260	345	2732
-Hindustan Paper Corporation Township	2486	9260	345	2732
-Paparaugardi	1105	7586	150	0
+Hindustan Paper Corporation	2486	9260	345	2732	Hindustan Paper Corporation Ltd. Township
+Hindustan Paper Corporation Ltd.	2486	9260	345	2732	Hindustan Paper Corporation Ltd. Township
+Hindustan Paper Corporation Township	2486	9260	345	2732	Hindustan Paper Corporation Ltd. Township
+Paparaugardi	1105	7586	150	0	Parappanangādi
 Paprenda	2563	8040	463	0
 Pāppanād	1054	7929	264	0
 Pāppambādi	1165	7794	51	0
@@ -59,7 +59,7 @@ Papgaon	2834	7903	117	0
 Pāpung	2723	8845	85	0
 Papraudi	3081	7617	674	0
 Paprāla	3093	7653	735	0
-Pāpadāchīwādi	1828	7692	158	0
+Pāpadāchīwādi	1828	7692	158	0	Wāgnālwādi
 Pāpri	2734	7759	601	0
 Pāpri Ka Nagla	2746	7774	177	0
 Pāpsar	2997	7640	638	0
@@ -168,7 +168,7 @@ Pāpayyapeta	1822	8347	179	0
 Paplūr	1806	8197	109	0
 Pāpammapeta	1865	8366	199	0
 Pāparājupeta	1832	8375	472	0
-Pāpārāvupeta	1815	8372	472	0
+Pāpārāvupeta	1815	8372	472	0	Reddipeta
 Pāpadigūdem	1725	8118	318	0
 Pāpayyapālem	1776	8303	227	0
 Papāyapālem	1580	8039	220	0
@@ -229,7 +229,7 @@ Pāpasānikottala	1546	7807	232	0
 Pāpāyapalle	1504	7837	229	0
 Pāpampalle	1513	7843	232	0
 Pāpinenipalle	1568	7893	200	0
-Pāpireddipalle	1503	7895	229	0
+Pāpireddipalle	1503	7895	229	0	Rampādu
 Pāpireddipalle	1486	7891	229	0
 Pāpanapalle	1486	7897	229	0
 Pappanapalle	1480	7879	229	0
@@ -423,7 +423,7 @@ Pāppāgudi	982	7877	454	0
 Pāppāgudi	985	7878	454	0
 Pāppānkottai	986	7887	454	0
 Pāppānkottai	972	7884	5	0
-Pāppānkulam	960	7877	454	0
+Pāppānkulam	960	7877	454	0	Pudukkottai
 Pāppānendal	954	7889	5	0
 Pāppānkulam	846	7776	191	0
 Pāppāvalasu	1089	7777	235	0

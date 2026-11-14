@@ -1,16 +1,16 @@
 Baripāda	2193	8673	382	116849
 Bāri	2665	7762	622	62721
 Devgadh Bāriya	2271	7391	173	21030
-Bariya	2271	7391	173	21030
-Devgad Bāria	2271	7391	173	21030
-Bāria	2271	7391	173	21030
+Bariya	2271	7391	173	21030	Devgadh Bāriya
+Devgad Bāria	2271	7391	173	21030	Devgadh Bāriya
+Bāria	2271	7391	173	21030	Devgadh Bāriya
 Bari Sādri	2441	7447	417	15713
 Brāhmanān di Bāri	3264	7491	720	15453
-Bari Brahamana	3264	7491	720	15453
+Bari Brahamana	3264	7491	720	15453	Brāhmanān di Bāri
 Bariārpur	2529	8658	538	14595
 Khaira Bari	2651	9097	358	10210
 Bārīgarh	2523	8003	663	8918
-Bariwala	3054	7465	615	8668
+Bariwala	3054	7465	615	8668	Baruwāli
 Barika Chuburi	2664	9281	356	7911
 Barua Bari Gaon	2612	9197	359	5444
 Bariyār	3206	7544	487	3520
@@ -32,10 +32,10 @@ Bāri	2304	7808	338	0
 Bari	2069	8635	376	0
 Anjangaon Bāri	2082	7778	133	0
 Sahnāli Bari	2819	7486	539	0
-Sonāli Bari	2819	7486	539	0
-Bhāring	2882	7486	539	0
+Sonāli Bari	2819	7486	539	0	Sahnāli Bari
+Bhāring	2882	7486	539	0	Bhārang
 Barīla	3369	7412	1	0
-Lambi Bāri	3342	7420	504	0
+Lambi Bāri	3342	7420	504	0	Neako
 Baria	3323	7433	504	0
 Barihāligala	3313	7444	504	0
 Bari Baihk	3377	7433	1	0
@@ -43,13 +43,13 @@ Bari Bhaini	2900	7631	719	0
 Kāli Bāri	3262	7492	720	0
 Bāri Brāhmor	3264	7492	720	0
 Bari Bekh	3440	7399	0	0
-Bari Baihk	3440	7399	0	0
+Bari Baihk	3440	7399	0	0	Bari Bekh
 Bhāri Dīndārpur	2968	7738	449	0
 Bari Jāvti	2545	7574	353	0
-Bari	3116	7710	479	0
+Bari	3116	7710	479	0	Bar
 Godi Bari	2982	7861	612	0
 Baridpur	1793	7800	400	0
-Dhanauthi Bari	2887	7549	705	0
+Dhanauthi Bari	2887	7549	705	0	Dhanauthi
 Bangotari Bari	2846	7564	300	0
 Thimāu Bari	2834	7550	539	0
 Thirpāli Bari	2840	7554	539	0
@@ -75,7 +75,7 @@ Bari ka Purwa	2638	7935	741	0
 Bāri	2559	7900	433	0
 Bhariāpura	2527	7946	663	0
 Bariāmau	2693	7965	570	0
-Barri	2666	7985	671	0
+Barri	2666	7985	671	0	Keolepur
 Nawāda Baria	2662	7996	671	0
 Bariyākhera	2469	7914	481	0
 Bariyādhonga	2467	7909	481	0
@@ -144,12 +144,12 @@ Barri Khurd	2356	7829	338	0
 Bariāra	2637	7640	116	0
 Bād Bariāra	2635	7640	116	0
 Barīla	2662	7659	116	0
-Bari	2647	7660	116	0
+Bari	2647	7660	116	0	Gūjar Baroda
 Bariyāghāt	2303	7899	522	0
 Bariya	2318	7894	522	0
 Bhari	2967	7715	328	0
 Bhari	2966	7718	328	0
-Bāri Māzra	2996	7748	449	0
+Bāri Māzra	2996	7748	449	0	Nogla Khāri
 Bari Dhamāri	2674	7676	447	0
 Bari Rond	2659	7699	447	0
 Badheri Bari	2968	7760	449	0
@@ -317,7 +317,7 @@ Bari	2651	7970	671	0
 Bariār Purwa	2688	7980	570	0
 Dundi Bari	2638	7976	671	0
 Nagla Bariyārpur	2742	7854	403	0
-Nagla Bari	2740	7869	711	0
+Nagla Bari	2740	7869	711	0	Jīsukhpur Sāni
 Nagla Bari	2726	7866	403	0
 Bari	2554	7989	614	0
 Barībāgh	2569	8123	651	0
@@ -416,7 +416,7 @@ Bāri	2478	8296	103	0
 Bhārīwās	2859	7597	781	0
 Barīmahuli	2418	8212	631	0
 Bārījhariya	2411	8238	631	0
-Bhaini Bāriyāwāli	2899	7625	719	0
+Bhaini Bāriyāwāli	2899	7625	719	0	Bhaini Mahārājpur
 Bārīgaon	2559	8242	32	0
 Bariār Khera	2660	8098	714	0
 Bariār Khera	2647	8093	312	0
@@ -544,7 +544,7 @@ Pipra Bāri	2713	8294	292	0
 Barieona	2702	8292	647	0
 Bari Purwa	2700	8208	542	0
 Bariāra	2696	8203	542	0
-Bari Bua	2678	8217	629	0
+Bari Bua	2678	8217	629	0	Karbala
 Purwa Bhāri	2667	8203	629	0
 Purwa Bāri	2662	8205	629	0
 Purwa Bhāri	2658	8210	629	0
@@ -679,7 +679,7 @@ Bāri	3204	7597	38	0
 Bhariāryān	3205	7599	38	0
 Bharrītola	2053	8135	704	0
 Bharrīgaon	2068	8148	668	0
-Bharripāra	2015	8141	704	0
+Bharripāra	2015	8141	704	0	Pusaghāti
 Bhariātolā	2243	8039	480	0
 Bhariā	2242	8039	480	0
 Bhārī	2207	8061	144	0
@@ -937,7 +937,7 @@ Bāriya Chhota	2536	7424	309	0
 Bara Bāriya	2535	7425	309	0
 Gomādurgāji ka Bāria	2598	7430	572	0
 Karma ka Bāria	2593	7435	309	0
-Naikon ka Bāria	2587	7433	309	0
+Naikon ka Bāria	2587	7433	309	0	Sīngpura
 Kāchhion ka Bāria	2585	7431	309	0
 Bārion ka Bāria	2585	7431	309	0
 Rora ka Bāria	2586	7432	309	0
@@ -960,7 +960,7 @@ Bāri Chhīna	2964	7975	429	0
 Bāri Jagīra	2956	7991	429	0
 Bari	2963	7998	508	0
 Bariārpur Khuntahi	2664	8447	476	0
-Bāritola	2697	8451	476	0
+Bāritola	2697	8451	476	0	Lachhmīpur
 Baripatti	2673	8453	476	0
 Bariariyā	2651	8472	396	0
 Bārikhera	2805	7921	117	0
@@ -1028,7 +1028,7 @@ Bariāhi	2564	8648	759	0
 Bariārpur	2540	8626	530	0
 Bāri Chak	2525	8645	538	0
 Bariārpur	2520	8631	589	0
-Bariārpur	2518	8630	589	0
+Bariārpur	2518	8630	589	0	Korāsi
 Bariāra	2516	8641	538	0
 Bariāhi	2586	8655	661	0
 Bariārpur	2574	8656	661	0

@@ -1,24 +1,24 @@
-Alla Abba Habab	2544	8184	607	1073438
-Abdullapur	3013	7728	88	217071
-Abdullāhpur	3013	7728	88	217071
+Alla Abba Habab	2544	8184	607	1073438	Prayagraj
+Abdullapur	3013	7728	88	217071	Yamuna Nagar
+Abdullāhpur	3013	7728	88	217071	Yamuna Nagar
 Abohar	3014	7420	3	145302
 Ābu Road	2448	7278	23	55599
 Abdu Rahiman Nagar	1107	7594	150	41993
 Ābu	2459	7272	23	24981
-Mount Abu	2459	7272	23	24981
+Mount Abu	2459	7272	23	24981	Ābu
 Abrama	2086	7291	221	21000
 Abhayāpuri	2632	9069	746	15847
 Abhanpur	2105	8174	310	14432
 Abbaspur	3382	7398	1	10208
 Abirāmam	944	7844	5	8144
-Abersa	1473	7430	59	4286
+Abersa	1473	7430	59	4286	Aversa
 Chak Abdul Ghani	2586	8574	138	2586
 Abhaneri	2701	7661	708	1424
-Boyarmari Abad	2246	8883	450	0
+Boyarmari Abad	2246	8883	450	0	Bayārmāri
 Abhimanyupur	2990	7687	501	0
-Ābāra	2173	7858	337	0
-Abomgāon	2673	9412	451	0
-Abaibani	2231	8694	665	0
+Ābāra	2173	7858	337	0	Āmbāra Khās
+Abomgāon	2673	9412	451	0	Ahomgāon
+Abaibani	2231	8694	665	0	Āgaibani
 Abul Kharāna	3014	7454	615	0
 Abring	3369	7658	8	0
 Ablu	3034	7479	563	0
@@ -43,7 +43,7 @@ Mangiāl Abtāra	3278	7450	581	0
 Abtāre Chak	3262	7486	581	0
 Abdullāhpur	3040	7789	448	0
 Abdullāhpur	3017	7777	449	0
-Abdullānpur	3017	7777	449	0
+Abdullānpur	3017	7777	449	0	Abdullāhpur
 Abdālpur	2972	7750	449	0
 Garhi Abdulla Khān	2964	7732	328	0
 Ābādgarh	2958	7739	328	0
@@ -69,7 +69,7 @@ Abdullāpur	2708	7988	570	0
 Ābādi Rājgīr	2703	7996	570	0
 Abnepur Pāthakpur	2683	7905	290	0
 Abhinaipur	2683	7906	290	0
-Abhaipura	2677	7572	121	0
+Abhaipura	2677	7572	121	0	Baipura
 Abdullāpur Mustaqil	2642	7947	741	0
 Abullāhpur Kanār	2633	7934	741	0
 Abhaisinghpura	2802	7411	307	0
@@ -86,7 +86,7 @@ Abdullāhpur	2975	7698	457	0
 Abe-di Gāh	3334	7450	504	0
 Abdulla-ka-Pudhra	3468	7437	0	0
 Ābhun	3041	7411	3	0
-Abdul Khālik	3044	7404	3	0
+Abdul Khālik	3044	7404	3	0	Miāni Basti
 Dhani Abdur Rahmān	3016	7416	3	0
 Dhani Abdur Rahmān	3007	7416	3	0
 Sukhna Ablu	3034	7464	615	0
@@ -95,10 +95,10 @@ Abdullāhpur	3007	7749	449	0
 Abra	3058	7756	534	0
 Abhāneri	2664	7628	708	0
 Bhogpur Patti Abdullāh	2946	7808	575	0
-Abdullāpur Māna	2939	7821	575	0
+Abdullāpur Māna	2939	7821	575	0	Hādarpur
 Abdul Rahīmpur	2971	7800	596	0
-Bhagtanpur Ābidpur	2990	7807	596	0
-Bhagtanpur Ābidpur	2989	7808	596	0
+Bhagtanpur Ābidpur	2990	7807	596	0	Ibrāhīmpur
+Bhagtanpur Ābidpur	2989	7808	596	0	Ikkar Kalān
 Abhenagar	2955	7719	328	0
 Ābha	2976	7739	449	0
 Abābakarpur	2995	7735	449	0
@@ -122,7 +122,7 @@ Abbohwāl	3168	7579	296	0
 Abhipur	2551	7513	309	0
 Abbey	3046	7804	448	0
 Abūbākarpur	2944	7851	575	0
-Abād	2945	7866	575	0
+Abād	2945	7866	575	0	Rasūlpur
 Abhīrājpur	2928	7874	575	0
 Abbāsnagar	2900	7913	552	0
 Milak Abbū Khān	2891	7905	552	0
@@ -156,7 +156,7 @@ Abbenda	1806	7772	31	0
 Abaiah Dargah	1865	7800	75	0
 Ābidgarh	2727	7805	546	0
 Abhairājpur	2745	7845	711	0
-Ābāji	2068	7844	143	0
+Ābāji	2068	7844	143	0	Sonegaon
 Ābchand	2379	7900	352	0
 Abdullāhpur	2770	7854	711	0
 Abhāipura	2767	7873	616	0
@@ -205,20 +205,20 @@ Abukhāna	2130	7624	29	0
 Abhūd	2177	7629	209	0
 Sheoka Abīrpur	2570	8314	498	0
 Abbāspur	2574	8319	498	0
-Abhaychand	2698	7833	546	0
+Abhaychand	2698	7833	546	0	Thok
 Abbāspur	2700	7852	403	0
 Abābakarpur	2698	7858	403	0
 Abhaipura	2682	7855	546	0
 Abanhi	2540	8349	724	0
 Abgaon Kalān	2241	7705	465	0
 Abgaon Khurd	2239	7712	465	0
-Abdulpur	2587	8365	26	0
+Abdulpur	2587	8365	26	0	Pattīgarh
 Abdulpur	2587	8366	26	0
 Abbotganj	2545	7856	433	0
 Abdulhakīm Chak	2545	8358	26	0
 Abhaīpur	2534	8357	26	0
 Abhāi Dīh	2530	8364	749	0
-Abādan	2569	8376	26	0
+Abādan	2569	8376	26	0	Bejran
 Ābāikhed	2023	7750	128	0
 Abāri	2435	8315	103	0
 Abbaipalem	1739	7991	762	0
@@ -253,24 +253,24 @@ Abhusa	2651	8078	312	0
 Abul Fazalpur Khās	2949	7828	575	0
 Abbipur	2604	8085	681	0
 Abulfazal Pāhri	2958	7847	575	0
-Abulfazalpur	2956	7850	575	0
+Abulfazalpur	2956	7850	575	0	Shāhlīpur Khās
 Abul Khairpur	2954	7843	575	0
 Abufazalpur Tamela	2955	7834	575	0
-Shāh Abdul Satār	2952	7833	575	0
-Abdīpur Harbans	2952	7844	575	0
-Abulfazalpur Bani	2952	7842	575	0
+Shāh Abdul Satār	2952	7833	575	0	Madanpur
+Abdīpur Harbans	2952	7844	575	0	Brāhmanwāla
+Abulfazalpur Bani	2952	7842	575	0	Bani Kalān
 Abdīpur Harbans	2951	7842	575	0
 Abdullāhpur Khareshi	2954	7849	575	0
 Abdulpur	2951	7843	575	0
-Abdul Rahmānpur Jīwan	2951	7838	575	0
-Abdhīpur Udichand	2948	7844	575	0
+Abdul Rahmānpur Jīwan	2951	7838	575	0	Chāndwāla
+Abdhīpur Udichand	2948	7844	575	0	Nagli
 Abdullāhpur	2946	7840	575	0
-Malakpur Abdullāh	2946	7840	575	0
-Abdul Azīzpur	2941	7844	575	0
-Abdīpur Koliyān	2940	7842	575	0
-Abunsarpur	2937	7849	575	0
-Abdulkhālikpur Balrām	2935	7841	575	0
-Abūnāsīrpur	2933	7841	575	0
+Malakpur Abdullāh	2946	7840	575	0	Abdullāhpur
+Abdul Azīzpur	2941	7844	575	0	Dilpura
+Abdīpur Koliyān	2940	7842	575	0	Korāwāla
+Abunsarpur	2937	7849	575	0	Bhagwānwāla
+Abdulkhālikpur Balrām	2935	7841	575	0	Sherpur Nannu
+Abūnāsīrpur	2933	7841	575	0	Kashmīri
 Sultānpur Abād	2928	7830	575	0
 Abdullāpur	2728	8112	507	0
 Abdul Razāk	2771	8152	294	0
@@ -305,7 +305,7 @@ Abdīpur	2880	7830	483	0
 Abugarh	2724	8097	30	0
 Ablāpur	2714	8154	294	0
 Abdhutnagar	2707	8164	542	0
-Abdulwāri	2895	7855	511	0
+Abdulwāri	2895	7855	511	0	Shāpur
 Fatehpur Ābu	2877	7852	483	0
 Abbāsnagar Mazra	2881	7858	483	0
 Abbāpuram	1874	7803	75	0
@@ -316,7 +316,7 @@ Sahriya Abdālnagar	2859	7864	646	0
 Abhanpur Narauli	2861	7874	511	0
 Abdul Wāhidganj	2587	8141	718	0
 Abdul Samadpur	2584	8144	718	0
-Abdulwāhidpur	2832	7875	117	0
+Abdulwāhidpur	2832	7875	117	0	Pawsara
 Pura Abran Singh	2667	8167	629	0
 Abal	2689	8184	542	0
 Abhepur Bahlolpur	2800	7854	543	0
@@ -363,7 +363,7 @@ Abbasganj	2602	8255	32	0
 Abūsaidpur	2603	8273	498	0
 Umri Abra	2678	8292	154	0
 Abdul Malik	2595	8328	498	0
-Abdul Chak	2595	8328	498	0
+Abdul Chak	2595	8328	498	0	Abdul Malik
 Abdopur	2592	8333	498	0
 Ablāsand	2592	8326	498	0
 Abdul Azīz Chak	2586	8332	586	0
@@ -395,14 +395,14 @@ Abbāsnagar	2564	8364	26	0
 Abbāspur	2567	8368	26	0
 Abishān	2574	8363	26	0
 Ablunasri	3322	7566	372	0
-Abdulwāhabpur	2544	8171	607	0
+Abdulwāhabpur	2544	8171	607	0	Barwān
 Abhaipur	2519	8156	525	0
 Abhaipur	2519	8154	607	0
 Abul Kher	3207	7542	487	0
 Abanpur	2587	8195	718	0
 Abdālpur	2564	8188	607	0
 Abdālpur	2562	8187	607	0
-Abdālpur	2559	8187	607	0
+Abdālpur	2559	8187	607	0	Tulāpur Tāluka
 Abūbakarpur	2546	8179	607	0
 Abhaichandpur	2541	8186	607	0
 Chak Abhairām	2536	8185	607	0
@@ -415,7 +415,7 @@ Abu Saīd	3190	7484	222	0
 Ābāchīwādi	1750	7618	132	0
 Zein-ul-Abdīn	3178	7524	487	0
 Abdāl	3174	7508	222	0
-Abdulpur	2933	7762	545	0
+Abdulpur	2933	7762	545	0	Alhāyārpur
 Abupura Mājra	2938	7773	545	0
 Abkārītolā	2112	8026	171	0
 Abdullāhpur	3142	7539	565	0
@@ -512,7 +512,7 @@ Abhai Rājpur	2852	7940	342	0
 Abhaipur	2864	7950	342	0
 Abhaipur Keshopur	2847	7944	342	0
 Abdullahpur	2840	7948	342	0
-Abādi	2250	7647	322	0
+Abādi	2250	7647	322	0	Singlādev
 Abhaipur	2807	7946	117	0
 Abdāsan	2386	7312	212	0
 Dāndi Abhai Chand	2884	7951	342	0
@@ -526,7 +526,7 @@ Rasūla Ghulām Abbās	2839	7961	342	0
 Abhaipur Mallānpur	2848	7969	342	0
 Mazra Abhaipur	2831	7974	683	0
 Abhaipur	2810	7972	470	0
-Abhirājpur	2876	7976	683	0
+Abhirājpur	2876	7976	683	0	Nūrpur
 Abhaipur	2592	8401	536	0
 Abdala	2847	7978	683	0
 Abhaipur China Nakti	2831	7975	683	0
@@ -658,7 +658,7 @@ Abbayapālem	1583	7959	200	0
 Abbusāhibpeta	1470	7907	229	0
 Abbanapalli	1429	7927	195	0
 Abbāsāhebupeta	1479	7965	6	0
-Abbāsāhebupeta	1476	7966	6	0
+Abbāsāhebupeta	1476	7966	6	0	Gudipādu
 Abbireddivāripalli	1376	7902	195	0
 Abbaramvāndlapalli	1375	7901	195	0
 Abdullāpuram	1303	7926	189	0
