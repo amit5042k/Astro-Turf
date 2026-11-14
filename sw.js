@@ -1,5 +1,5 @@
 // Offline cache: app shell is cache-first; weekly notes JSON is network-first.
-const CACHE = 'astroturf-v1';
+const CACHE = 'astroturf-v2';
 const SHELL = ['./', 'index.html', 'css/styles.css', 'js/app.js', 'js/astro.js', 'js/predict.js', 'js/i18n.js',
   'manifest.webmanifest', 'icons/icon.svg'];
 

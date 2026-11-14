@@ -23,6 +23,11 @@ const locale = () => (lang === 'hi' ? 'hi-IN' : 'en-IN');
 const fmtDay = (d, opts = { day: 'numeric', month: 'short' }) => d.toLocaleDateString(locale(), { ...opts, timeZone: 'UTC' });
 const fmtTime = (d, tz) => (d ? new Date(d.getTime() + tz * 3600000).toLocaleTimeString(locale(), { hour: '2-digit', minute: '2-digit', timeZone: 'UTC' }) : '—');
 const addDays = (d, n) => new Date(d.getTime() + n * 86400000);
+// "Tue 10, 02:49" in IST
+const moonWhen = (d) => {
+  const ist = new Date(d.getTime() + 5.5 * 3600000);
+  return `${WEEKDAYS_SHORT[lang][ist.getUTCDay()]} ${ist.getUTCDate()}, ${fmtTime(d, 5.5)}`;
+};
 
 function toast(msg) {
   const el = document.createElement('div');
@@ -158,15 +163,27 @@ async function viewWeekly(params) {
       </section>
     </div>
 
+    <section class="card"><h2>${t('dosDonts')}</h2><div class="grid grid-2 dd">
+      <div><h3 class="good">✓ ${t('doLabel')}</h3><ul class="clean">${w.dos.map((x) => `<li>${esc(x)}</li>`).join('')}</ul></div>
+      <div><h3 class="caution">✗ ${t('dontLabel')}</h3><ul class="clean">${w.donts.map((x) => `<li>${esc(x)}</li>`).join('')}</ul></div>
+    </div></section>
+
+    <section class="card"><h2>${t('moonTimeline')}</h2><ol class="timeline">${w.moonTimeline.map((m) => `
+      <li class="${m.kind}"><div class="when">${m.start ? moonWhen(m.start) : t('weekStartLabel')} → ${m.end ? moonWhen(m.end) : t('weekEndLabel')}</div>
+      <div><b>${t('moonHouse')} ${m.house}</b> · ${esc(SIGN_SHORT[lang][m.sign])}</div>
+      <p class="small">${esc(m.note)}</p></li>`).join('')}</ol>
+      <p class="small muted">IST</p></section>
+
     <section class="card"><h2>${t('dayByDay')}</h2><div class="days">${w.days.map((d) => `
       <div class="day ${d.kind}"><b>${WEEKDAYS_SHORT[lang][d.weekday]} ${fmtDay(d.date, { day: 'numeric' })}</b>
       <span class="small muted">${t('moonHouse')} ${d.house} · ${esc(SIGN_SHORT[lang][d.moonSign])}</span><br>
       <span class="badge ${d.kind}">${esc(d.note)}</span></div>`).join('')}</div></section>
 
     <section class="card"><h2>${t('transits')}</h2><div class="table-wrap"><table>
-      <thead><tr><th>${t('planet')}</th><th>${t('sign')}</th><th>${t('house')}</th><th></th></tr></thead>
+      <thead><tr><th>${t('planet')}</th><th>${t('sign')}</th><th>${t('house')}</th><th>${t('rules')}</th><th>${t('aspects')}</th><th></th></tr></thead>
       <tbody>${w.transits.map((tr) => `<tr><td>${P[tr.planet]}${tr.retro ? ` (${t('retro')})` : ''}</td>
         <td>${esc(SIGN_SHORT[lang][tr.sign])}</td><td>${tr.house}</td>
+        <td>${tr.rules.length ? tr.rules.join(', ') : '—'}</td><td>${tr.aspects.length ? tr.aspects.join(', ') : '—'}</td>
         <td class="${tr.good ? 'good' : 'caution'}">${tr.good ? t('good') : t('caution')}</td></tr>`).join('')}</tbody>
     </table></div></section>`;
 }

@@ -155,3 +155,13 @@ ul.clean { margin: 0; padding-left: 1.1rem; }
   .weeknav .range { order: -1; width: 100%; text-align: center; }
   .weeknav .btn { flex: 1; }
 }
+/* Moon timeline and do's & don'ts */
+.timeline { list-style: none; margin: 0 0 6px; padding: 0 0 0 14px; border-left: 2px solid var(--line); }
+.timeline li { position: relative; padding: 4px 0 10px 10px; }
+.timeline li::before { content: ''; position: absolute; left: -21px; top: 9px; width: 12px; height: 12px; border-radius: 50%; background: var(--mid); }
+.timeline li.good::before { background: var(--good); }
+.timeline li.caution::before { background: var(--warn); }
+.timeline .when { font-size: .8rem; font-weight: 600; opacity: .8; }
+.timeline p { margin: 2px 0 0; }
+.dd h3.good { color: var(--good); }
+.dd h3.caution { color: var(--warn); }

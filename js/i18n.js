@@ -313,3 +313,86 @@ export const REMEDIES = {
     Ketu: 'भगवान गणेश की पूजा करें, “ॐ केतवे नमः” का जाप करें और कंबल का दान करें।',
   },
 };
+
+// ---------- Lordship, aspects, Moon timeline, do's & don'ts ----------
+Object.assign(UI.en, {
+  rules: 'Lord of', aspects: 'Aspects', moonTimeline: 'Moon’s journey through your houses', from: 'from', till: 'till',
+  dosDonts: 'Do’s & don’ts this week', doLabel: 'Do', dontLabel: 'Avoid', lordship: 'House lords this week',
+  weekStartLabel: 'week start', weekEndLabel: 'week end',
+});
+Object.assign(UI.hi, {
+  rules: 'स्वामी', aspects: 'दृष्टि', moonTimeline: 'आपके भावों में चंद्रमा का गोचर', from: 'से', till: 'तक',
+  dosDonts: 'इस सप्ताह क्या करें, क्या न करें', doLabel: 'करें', dontLabel: 'न करें', lordship: 'इस सप्ताह भावेशों की स्थिति',
+  weekStartLabel: 'सप्ताह आरंभ', weekEndLabel: 'सप्ताह अंत',
+});
+
+const SANSKRIT_ORD = ['प्रथम', 'द्वितीय', 'तृतीय', 'चतुर्थ', 'पंचम', 'षष्ठ', 'सप्तम', 'अष्टम', 'नवम', 'दशम', 'एकादश', 'द्वादश'];
+const listHouses = {
+  en: (hs) => hs.map((h) => ORDINAL.en(h)).join(' & '),
+  hi: (hs) => hs.map((h) => SANSKRIT_ORD[h - 1]).join(' व '),
+};
+
+// "Venus, your 2nd & 7th lord, is in your 8th house"
+export const LORDSHIP_LINE = {
+  en: (p, rules, h) => `${p}, lord of your ${listHouses.en(rules)} house${rules.length > 1 ? 's' : ''}, sits in your ${ORDINAL.en(h)} house`,
+  hi: (p, rules, h) => `${listHouses.hi(rules)} भाव के स्वामी ${p} आपके ${ORDINAL.hi(h)} भाव में हैं`,
+};
+
+// Area-specific lord placement: "Your 10th lord (career) Saturn is in the 12th house — …"
+export const AREA_LORD_LINE = {
+  en: (n, p, h, good) => `Your ${ORDINAL.en(n)} lord ${p} is placed in the ${ORDINAL.en(h)} house (${HOUSE_DOMAIN.en[h - 1]}), `
+    + (good ? 'which supports this area.' : 'so results here come with some delay or effort.'),
+  hi: (n, p, h, good) => `आपके ${SANSKRIT_ORD[n - 1]} भाव के स्वामी ${p} ${ORDINAL.hi(h)} भाव (${HOUSE_DOMAIN.hi[h - 1]}) में हैं, `
+    + (good ? 'जो इस क्षेत्र में सहयोग देगा।' : 'इसलिए यहाँ परिणाम कुछ देरी या मेहनत से मिलेंगे।'),
+};
+
+export const ASPECT_LINE = {
+  en: {
+    Jupiter: (h) => `Jupiter’s blessing aspect falls on your ${ORDINAL.en(h)} house, protecting ${HOUSE_DOMAIN.en[h - 1]}.`,
+    Saturn: (h) => `Saturn aspects your ${ORDINAL.en(h)} house: ${HOUSE_DOMAIN.en[h - 1]} need discipline and patience.`,
+    Mars: (h) => `Mars aspects your ${ORDINAL.en(h)} house: keep your temper in check around ${HOUSE_DOMAIN.en[h - 1]}.`,
+  },
+  hi: {
+    Jupiter: (h) => `गुरु की शुभ दृष्टि आपके ${ORDINAL.hi(h)} भाव पर है, जिससे ${HOUSE_DOMAIN.hi[h - 1]} सुरक्षित रहेंगे।`,
+    Saturn: (h) => `शनि की दृष्टि ${ORDINAL.hi(h)} भाव पर है: ${HOUSE_DOMAIN.hi[h - 1]} में अनुशासन व धैर्य रखें।`,
+    Mars: (h) => `मंगल की दृष्टि ${ORDINAL.hi(h)} भाव पर है: ${HOUSE_DOMAIN.hi[h - 1]} के मामलों में क्रोध पर नियंत्रण रखें।`,
+  },
+};
+
+// What the Moon in each house from Lagna favours (Chandra gochar), used in the timeline
+export const MOON_HOUSE_NOTE = {
+  en: ['Energy and confidence are high; start new things.', 'Focus on family and money; speak sweetly.',
+    'Good for effort, short trips and communication.', 'Mood may dip; stay home, rest, look after mother.',
+    'Creative and romantic; avoid speculation.', 'Win over rivals; clear pending tasks and debts.',
+    'Good for partnerships, meetings and the spouse.', 'Sensitive phase: avoid risks, arguments and big decisions.',
+    'Luck supports; seek guidance, plan, pray.', 'Strong for career moves and meetings with seniors.',
+    'Gains and good news; network and follow up.', 'Expenses and fatigue; rest, meditate, avoid lending.'],
+  hi: ['ऊर्जा व आत्मविश्वास अधिक; नए काम शुरू करें।', 'परिवार व धन पर ध्यान; वाणी मधुर रखें।',
+    'मेहनत, छोटी यात्रा व संवाद के लिए अच्छा।', 'मन बेचैन रह सकता है; घर पर विश्राम, माता का ध्यान रखें।',
+    'रचनात्मक व प्रेमपूर्ण समय; सट्टे से बचें।', 'शत्रुओं पर विजय; रुके काम व ऋण निपटाएँ।',
+    'साझेदारी, बैठकों व जीवनसाथी के लिए शुभ।', 'संवेदनशील समय: जोखिम, विवाद व बड़े निर्णय टालें।',
+    'भाग्य साथ देगा; मार्गदर्शन लें, योजना बनाएँ, पूजा करें।', 'करियर के कदमों व वरिष्ठों से मिलने हेतु उत्तम।',
+    'लाभ व शुभ समाचार; संपर्क बढ़ाएँ।', 'खर्च व थकान; विश्राम, ध्यान करें, उधार न दें।'],
+};
+
+// Advice keyed by house: do (when a planet there is supportive) / avoid (when challenging)
+export const HOUSE_DO = {
+  en: ['Take initiative and put yourself forward.', 'Save money and invest in family bonds.', 'Make calls, pitch ideas, take short trips.',
+    'Spend time at home; plan property or vehicle matters.', 'Study, create, and spend time with children.', 'Tackle competition and clear debts.',
+    'Strengthen partnerships and close deals.', 'Research and handle insurance or joint finances quietly.', 'Seek a mentor’s advice; pilgrimage or prayer.',
+    'Push career goals and meet seniors.', 'Network and follow up on pending payments.', 'Plan foreign work; rest and meditate.'],
+  hi: ['पहल करें और स्वयं को आगे रखें।', 'बचत करें, परिवार से संबंध मज़बूत करें।', 'संपर्क करें, विचार रखें, छोटी यात्रा करें।',
+    'घर पर समय दें; भूमि-वाहन की योजना बनाएँ।', 'पढ़ाई, सृजन करें, संतान को समय दें।', 'प्रतियोगिता का सामना करें, ऋण चुकाएँ।',
+    'साझेदारी मज़बूत करें, सौदे पूरे करें।', 'शोध करें, बीमा/संयुक्त धन चुपचाप संभालें।', 'गुरु की सलाह लें; तीर्थ या पूजा करें।',
+    'करियर लक्ष्यों पर ज़ोर दें, वरिष्ठों से मिलें।', 'संपर्क बढ़ाएँ, रुके भुगतान वसूलें।', 'विदेश कार्य की योजना; विश्राम व ध्यान करें।'],
+};
+export const HOUSE_AVOID = {
+  en: ['Ego clashes and neglecting your health.', 'Harsh words and impulsive spending.', 'Overconfidence and quarrels with siblings.',
+    'Domestic arguments and property disputes.', 'Speculation and rushing into romance.', 'Lending money and ignoring small health issues.',
+    'Arguments with your partner and signing deals in haste.', 'Risky ventures, secrets and night driving.', 'Disrespecting elders and long, unplanned trips.',
+    'Clashing with your boss or switching jobs on impulse.', 'Trusting new friends with money.', 'Overspending and losing sleep.'],
+  hi: ['अहंकार के टकराव व स्वास्थ्य की अनदेखी।', 'कटु वचन व आवेश में खर्च।', 'अति-आत्मविश्वास व भाई-बहनों से विवाद।',
+    'घरेलू कलह व संपत्ति विवाद।', 'सट्टा व प्रेम में जल्दबाज़ी।', 'उधार देना व छोटी बीमारियों की अनदेखी।',
+    'जीवनसाथी से बहस व जल्दबाज़ी में अनुबंध।', 'जोखिम भरे काम, गोपनीयता व रात की यात्रा।', 'बड़ों का अनादर व बिना योजना लंबी यात्रा।',
+    'बॉस से टकराव या आवेश में नौकरी बदलना।', 'नए मित्रों पर धन का भरोसा।', 'फिज़ूलखर्च व नींद की कमी।'],
+};
