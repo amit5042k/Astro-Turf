@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Astro Turf — Lagna-wise Weekly Rashifal</title>
+  <meta name="description" content="Vedic astrology app: lagna-wise weekly rashifal, free kundli, and daily panchang.">
+  <meta name="theme-color" content="#7a1f1f">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icons/icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="icons/icon.svg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;600;700&family=Noto+Sans+Devanagari:wght@400;600;700&family=Noto+Serif:wght@600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <a href="#/" class="brand" aria-label="Home">
+      <img src="icons/icon.svg" alt="" width="32" height="32">
+      <span><strong data-i18n="appName">Astro Turf</strong><small data-i18n="tagline"></small></span>
+    </a>
+    <nav class="topnav" aria-label="Main">
+      <a href="#/" data-route="home" data-i18n="navHome">Home</a>
+      <a href="#/weekly" data-route="weekly" data-i18n="navWeekly">Weekly</a>
+      <a href="#/kundli" data-route="kundli" data-i18n="navKundli">Kundli</a>
+      <a href="#/panchang" data-route="panchang" data-i18n="navPanchang">Panchang</a>
+      <a href="#/editor" data-route="editor" data-i18n="navEditor">Editor</a>
+    </nav>
+    <button id="lang-toggle" class="chip" type="button">हिन्दी</button>
+  </header>
+
+  <main id="view" tabindex="-1"></main>
+
+  <footer class="footer"><p data-i18n="disclaimer"></p></footer>
+
+  <nav class="bottomnav" aria-label="Main">
+    <a href="#/" data-route="home"><span aria-hidden="true">⌂</span><span data-i18n="navHome">Home</span></a>
+    <a href="#/weekly" data-route="weekly"><span aria-hidden="true">☉</span><span data-i18n="navWeekly">Weekly</span></a>
+    <a href="#/kundli" data-route="kundli"><span aria-hidden="true">✦</span><span data-i18n="navKundli">Kundli</span></a>
+    <a href="#/panchang" data-route="panchang"><span aria-hidden="true">☾</span><span data-i18n="navPanchang">Panchang</span></a>
+    <a href="#/editor" data-route="editor"><span aria-hidden="true">✎</span><span data-i18n="navEditor">Editor</span></a>
+  </nav>
+
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>

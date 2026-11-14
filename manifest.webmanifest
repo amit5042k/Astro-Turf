@@ -1,0 +1,10 @@
+{
+  "name": "Astro Turf — Lagna-wise Weekly Rashifal",
+  "short_name": "Astro Turf",
+  "start_url": "./#/",
+  "display": "standalone",
+  "background_color": "#fbf6ee",
+  "theme_color": "#7a1f1f",
+  "lang": "en",
+  "icons": [{ "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
