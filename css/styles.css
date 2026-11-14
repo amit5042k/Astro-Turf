@@ -165,3 +165,19 @@ ul.clean { margin: 0; padding-left: 1.1rem; }
 .timeline p { margin: 2px 0 0; }
 .dd h3.good { color: var(--good); }
 .dd h3.caution { color: var(--warn); }
+/* Place search combobox */
+.place-wrap { display: flex; flex-direction: column; gap: 6px; }
+.place-wrap > label:first-child { font-size: .85rem; color: var(--muted); }
+.place-wrap .check { flex-direction: row; align-items: center; gap: 8px; }
+.place-wrap .check input { width: auto; }
+.place-wrap p { margin: 0; }
+.combo { position: relative; }
+.combo input { width: 100%; box-sizing: border-box; }
+.combo-list { position: absolute; z-index: 20; left: 0; right: 0; top: calc(100% + 4px); margin: 0; padding: 4px;
+  list-style: none; max-height: 320px; overflow-y: auto; background: var(--surface); border: 1px solid var(--line);
+  border-radius: 10px; box-shadow: var(--shadow); }
+.combo-list li { padding: 8px 10px; border-radius: 8px; display: flex; flex-direction: column; gap: 1px; }
+.combo-list li[role=option] { cursor: pointer; }
+.combo-list li[role=option] span { font-size: .8rem; color: var(--muted); }
+.combo-list li[aria-selected=true], .combo-list li[role=option]:hover { background: var(--surface-2); }
+.combo-list li.hint { font-size: .8rem; color: var(--muted); }
