@@ -1,0 +1,59 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import { readFile } from 'node:fs/promises';
+import { placeKey, wordKeys, shardFor, searchPlaces } from '../js/places.js';
+
+const root = new URL('../', import.meta.url);
+const fetchFn = async (u) => {
+  try {
+    const txt = await readFile(new URL(u, root), 'utf8');
+    return { ok: true, text: async () => txt, json: async () => JSON.parse(txt) };
+  } catch { return { ok: false, status: 404 }; }
+};
+const top = async (q) => (await searchPlaces(q, { fetchFn, limit: 5 })).results;
+
+test('phonetic key absorbs common spelling differences', () => {
+  assert.equal(placeKey('Darjeeling'), placeKey('Dārjiling'));
+  assert.equal(placeKey('Kedarnath'), placeKey('Kedaarnath'));
+  assert.equal(placeKey('Naini Tāl'), placeKey('Nainital'));
+  assert.equal(placeKey('Bhatinda'), placeKey('Batinda'));
+  assert.deepEqual(wordKeys('Bodh Gaya'), ['bodgaya', 'gaya']);
+});
+
+test('shard lookup follows split prefixes', () => {
+  const split = new Set(['pu', 'pur']);
+  assert.deepEqual(shardFor('ludiana', split), { file: 'lu', needMore: false });
+  assert.deepEqual(shardFor('pun', split), { file: 'pun', needMore: false });
+  assert.deepEqual(shardFor('pu', split), { file: 'pu_', needMore: true });
+  assert.deepEqual(shardFor('purnia', split), { file: 'purn', needMore: false });
+});
+
+test('index covers every state and over 500,000 places', async () => {
+  const idx = JSON.parse(await readFile(new URL('data/places/index.json', root), 'utf8'));
+  assert.ok(idx.places > 500000, `${idx.places}`);
+  assert.equal(idx.states.length, 36);
+  for (const p of idx.split) assert.ok(p.length < 4);
+});
+
+test('finds cities, towns, pilgrim towns and villages, by modern, old or variant names', async () => {
+  const cases = {
+    'New Delhi': ['Delhi', 28.6, 77.2], Bombay: ['Maharashtra', 19.1, 72.9], Bengaluru: ['Karnataka', 13.0, 77.6],
+    Nainital: ['Uttarakhand', 29.4, 79.5], Darjeeling: ['West Bengal', 27.0, 88.3], 'Mount Abu': ['Rajasthan', 24.6, 72.7],
+    Kedarnath: ['Uttarakhand', 30.7, 79.1], Gurgaon: ['Haryana', 28.5, 77.0], Prayagraj: ['Uttar Pradesh', 25.4, 81.8],
+    Kohima: ['Nagaland', 25.7, 94.1], 'Port Blair': ['Andaman', 11.7, 92.7], Gaya: ['Bihar', 24.8, 85.0],
+  };
+  for (const [q, [state, lat, lon]] of Object.entries(cases)) {
+    const [first] = await top(q);
+    assert.ok(first, q);
+    assert.ok(first.label.includes(state), `${q} → ${first.label}`);
+    assert.ok(Math.abs(first.lat - lat) < 0.15 && Math.abs(first.lon - lon) < 0.15, `${q} → ${first.lat},${first.lon}`);
+    assert.equal(first.tz, 5.5);
+  }
+});
+
+test('short or split prefixes ask for more letters; foreign cities keep their timezone', async () => {
+  assert.equal((await searchPlaces('p', { fetchFn })).needMore, true);
+  assert.equal((await searchPlaces('pu', { fetchFn })).needMore, true);
+  const [dubai] = await top('Dubai');
+  assert.equal(dubai.tz, 4);
+});

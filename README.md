@@ -15,6 +15,10 @@ English and Hindi. No build step, no backend, works offline.
 - **Astrologer's weekly note**: enter a reference astrologer's lagna-wise weekly prediction in the **Editor**
   (or publish it as `data/weekly/<monday>.json`) and it appears alongside the calculated reading. See
   `data/weekly/README.md`.
+- **Every Indian city, town and village** (549,000+ places from GeoNames) in a searchable birth-place field that
+  tolerates spelling variants (Darjeeling/Darjiling, Nainital/Naini Tal) and old names (Bombay, Allahabad, Gurgaon).
+  The list is split into ~1,100 small files by the first letters typed, so a search downloads only 20–200 KB.
+  Rebuild with `tools/build_places.py` (instructions at the top of the script), then bump `PLACES` in `sw.js`.
 - **Free Kundli**: Lagna, Moon sign, birth nakshatra, North-Indian lagna chart, planetary positions table.
   "Save as my Lagna" personalises the home screen.
 - **Panchang**: tithi, nakshatra, yoga, karana, vara, sunrise/sunset and Rahu Kaal for Indian cities.
@@ -36,9 +40,11 @@ python3 -m http.server 8000   # then open http://localhost:8000
 
 ## Test
 ```bash
-node --test tests/astro.test.mjs
+node --test tests/*.mjs
 ```
 Checks ayanamsa, equinox, Makar Sankranti, the 12 Aug 2026 eclipse, 2026 slow-planet signs, ascendant = Sun at
 sunrise, Delhi sunrise time, Purnima tithi, and that every lagna's weekly reading is complete in both languages.
+
+Place data © GeoNames (geonames.org), CC BY 4.0.
 
 Astrology content is for guidance/entertainment, not professional advice.
