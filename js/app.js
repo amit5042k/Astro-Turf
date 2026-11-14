@@ -100,14 +100,13 @@ function bindPlaceField(root, initial, onPick) {
     const q = input.value.trim();
     const my = ++seq;
     if (q.length < 2) { close(); return; }
-    if (/[^\u0000-\u024f]/.test(q) && !/[a-z]{2}/i.test(q)) { results = []; show(`<li class="hint">${t('latinOnly')}</li>`); return; }
     show(`<li class="hint">${t('searching')}</li>`);
     try {
       const r = await searchPlaces(q);
       if (my !== seq) return;
       results = r.results;
       const opts = results.map((pl, i) => `<li role="option" id="${list.id}-${i}" data-i="${i}" aria-selected="false">
-        <b>${esc(placeName(pl))}</b><span>${esc(pl.label.split(', ').slice(1).join(', '))}</span></li>`).join('');
+        <b>${esc(placeName(pl))}</b><span>${esc([pl.alias, ...pl.label.split(', ').slice(1)].filter(Boolean).join(' · '))}</span></li>`).join('');
       show(opts + (r.needMore ? `<li class="hint">${t('keepTyping')}</li>` : '')
         + (!results.length && !r.needMore ? `<li class="hint">${t('noPlace')}</li>` : ''));
       active = -1;

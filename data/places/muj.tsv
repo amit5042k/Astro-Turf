@@ -1,22 +1,22 @@
 Muzaffarpur	2612	8539	395	354462
 Muzaffarnagar	2947	7770	545	349706
-Muziris	1023	7620	241	60190
-Muzhappilangad	1180	7545	266	23709
+Muziris	1023	7620	241	60190	Kodungallūr
+Muzhappilangad	1180	7545	266	23709	Muluppilagadu
 Muzhucode	836	7723	453	8000
 Muzaffarābād	3012	7771	449	0
 Mujāsar	2713	7263	344	0
 Mujra	2716	8435	476	0
 Mujjāgodo	2002	8452	440	0
-Mujjāgad	2002	8452	440	0
-Mujjāgarh	2002	8452	440	0
+Mujjāgad	2002	8452	440	0	Mujjāgodo
+Mujjāgarh	2002	8452	440	0	Mujjāgodo
 Mujhpathār	3389	7462	76	0
 Mujbar	3468	7626	8	0
-Mujber	3468	7626	8	0
+Mujber	3468	7626	8	0	Mujbar
 Mujhūr	3300	7456	504	0
-Muzaffarpur	3254	7490	581	0
+Muzaffarpur	3254	7490	581	0	Mathāphar
 Mujūa	3256	7491	581	0
 Muzaffarpur	3012	7776	449	0
-Muzafforpur	3012	7776	449	0
+Muzafforpur	3012	7776	449	0	Muzaffarpur
 Mujāhedpur	3003	7791	596	0
 Mujhāi	2775	7947	470	0
 Mujha	2754	7962	688	0
@@ -26,14 +26,14 @@ Muzāfat Bhagsingh	3036	7735	88	0
 Mujāfat Khurd	3032	7747	88	0
 Mujāfat Kalān	3030	7747	88	0
 Mujāhidwāla	3023	7748	88	0
-Muzaffarpur Kesho	2944	7809	575	0
+Muzaffarpur Kesho	2944	7809	575	0	Mundāpura
 Tekāpār Mujapta	2351	7860	338	0
 Muzaffarpur Pois	2905	7735	477	0
 Muzaffarpur Kanwār	2918	7743	477	0
 Muzaffarpur Kamāla	2904	7740	477	0
 Mujāwar	2202	7871	337	0
 Mujāwardhāna	2204	7872	337	0
-Mujāwar	2205	7868	337	0
+Mujāwar	2205	7868	337	0	Raiyatwāri
 Jat Mujhera	2947	7781	545	0
 Mujhera	2930	7793	545	0
 Mujāhidpur	2856	7722	419	0
@@ -82,12 +82,12 @@ Mujāhidpur	2516	8293	201	0
 Muzaffra	2834	7672	630	0
 Chak Muzanī	2573	8299	498	0
 Muzaffarpur	2912	7813	575	0
-Muzaffarpur	2955	7830	575	0
-Shāh Muzaffarpur	2948	7846	575	0
+Muzaffarpur	2955	7830	575	0	Jafīrpur
+Shāh Muzaffarpur	2948	7846	575	0	Chamrāwāla
 Muzaffarnagar	2950	7850	575	0
-Rusūlpur Muzaffar	2950	7850	575	0
+Rusūlpur Muzaffar	2950	7850	575	0	Muzaffarnagar
 Muzaffarpur Devīdās	2938	7836	575	0
-Muzaffrābād	2939	7826	575	0
+Muzaffrābād	2939	7826	575	0	Ugrāwāla
 Mujhgāwan	2473	8247	201	0
 Muzaffarpur	2727	8106	507	0
 Mujhainān	2771	8174	618	0
@@ -157,7 +157,7 @@ Mujgahan	2071	8132	668	0
 Mujālgondi	2055	8137	668	0
 Mujālgondi	2018	8133	704	0
 Mujabtā	2255	8053	480	0
-Mujallam	3124	7485	260	0
+Mujallam	3124	7485	260	0	Sant Berāgi
 Muzaffarpur	3154	7539	565	0
 Mujāhidpur	3136	7532	565	0
 Muzaffarpur	2741	8081	507	0

@@ -1,28 +1,28 @@
 Ahmedabad	2303	7259	124	6357693
-Ahmadābād	2303	7259	124	6357693
+Ahmadābād	2303	7259	124	6357693	Ahmedabad
 Ahilyanagar	1909	7474	152	367140
-Ahmednagar	1909	7474	152	367140
-Ahmednagar	2360	7297	212	81137
-Ahmadnagar	2360	7297	212	81137
+Ahmednagar	1909	7474	152	367140	Ahilyanagar
+Ahmednagar	2360	7297	212	81137	Himatnagar
+Ahmadnagar	2360	7297	212	81137	Himatnagar
 Ahmadpur	1871	7694	158	43936
-Ahmedpur	1871	7694	158	43936
+Ahmedpur	1871	7694	158	43936	Ahmadpur
 Ahmedgarh	3068	7583	775	31302
 Ahraura	2502	8303	201	25075
 Ahīwāra	2136	8142	286	20384
 Ahor	2537	7278	343	16867
-Ahore	2537	7278	343	16867
+Ahore	2537	7278	343	16867	Ahor
 Ahwa	2076	7369	169	15004
 Ahiri	1941	8000	135	14609
-Aheri	1941	8000	135	14609
+Aheri	1941	8000	135	14609	Ahiri
 Ahīrkheri	2268	7580	660	10165
 Ahmadpur	2383	8769	361	8855
 Ahmadabad Cantonment	2305	7261	124	7588
 Ahmadpurjat	2727	8084	507	2292
 Pedda Ahobilam	1512	7874	232	0
-Ahobilam	1512	7874	232	0
+Ahobilam	1512	7874	232	0	Pedda Ahobilam
 Hera Āhlan	3349	7540	148	0
 Fatehābād Ahīr	2793	7668	482	0
-Ahi	3143	7742	680	0
+Ahi	3143	7742	680	0	Ani
 Ahupe	1918	7357	52	0
 Āhu	2267	7522	130	0
 Ahraula	2618	8290	498	0
@@ -38,7 +38,7 @@ Aharwān	2961	7555	443	0
 Aharan	2736	7824	546	0
 Ahār	2847	7825	637	0
 Ahār	2459	7372	22	0
-Ahad	2459	7372	22	0
+Ahad	2459	7372	22	0	Ahār
 Āhagām	3440	7419	0	0
 Ahadio	3433	7411	0	0
 Gom Ahmadpur	3410	7458	301	0
@@ -46,7 +46,7 @@ Ahmadpur	3411	7458	301	0
 Āhan	3423	7467	595	0
 Ahweiba	3456	7504	120	0
 Ahmadpur	2963	7741	328	0
-Sarāi Ahmad	2894	7659	719	0
+Sarāi Ahmad	2894	7659	719	0	Sarāimand
 Ahmadguda	1750	7862	311	0
 Ahmadipur	1793	7872	466	0
 Ahmadpur	3012	7685	501	0
@@ -62,9 +62,9 @@ Nagla Ahīrān	2721	7942	570	0
 Ahirwa Rājārāmpur	2712	7948	570	0
 Ahmalpur	2711	7933	464	0
 Ahinkārīpur	2714	7928	464	0
-Ahilyāhār	2707	7932	464	0
+Ahilyāhār	2707	7932	464	0	Nagla Chhadāmi
 Nagla Ahīra	2707	7934	464	0
-Nagla Ahīran	2707	7934	464	0
+Nagla Ahīran	2707	7934	464	0	Nagla Ahīra
 Nagla Ahīr	2705	7938	464	0
 Āhmadganj	2771	7965	470	0
 Nagaria Ahīrān	2771	7966	470	0
@@ -131,8 +131,8 @@ Ahmadbās Fīrozpur	2782	7698	544	0
 Ahīrpur	3045	7762	534	0
 Ahmda Ka Bās	2741	7685	482	0
 Barābās Ahīrān	2741	7676	482	0
-Ahatmāl	2942	7802	545	0
-Ahmadpur Chandru	2938	7822	575	0
+Ahatmāl	2942	7802	545	0	Dhārīwāla
+Ahmadpur Chandru	2938	7822	575	0	Gadāna
 Ahmadwāla	2934	7803	545	0
 Ahmadpur Grant	2988	7803	596	0
 Ahmadpur	2311	7830	338	0
@@ -160,12 +160,12 @@ Ahmadnagar	2877	7774	756	0
 Ahmadpur	2869	7770	756	0
 Aherān	2624	7494	446	0
 Ahnon	3050	7584	775	0
-Āhmadpur Gūrwa	2934	7853	575	0
-Ahmadābād	2899	7920	552	0
+Āhmadpur Gūrwa	2934	7853	575	0	Mānka
+Ahmadābād	2899	7920	552	0	Chakiā Tāl
 Ahmadnagar	2892	7917	552	0
-Ahmadnagar	2889	7900	552	0
+Ahmadnagar	2889	7900	552	0	Madārī-kī-mandaiyān
 Ahraula	2887	7903	552	0
-Ahmadnagar	2887	7911	552	0
+Ahmadnagar	2887	7911	552	0	Mandaiyān Dūlī
 Ahmadnagar	2887	7907	552	0
 Ahmadnagar	2889	7904	552	0
 Ahmadnagar	2882	7923	552	0
@@ -184,7 +184,7 @@ Ahmadi	2499	7670	506	0
 Ahmada	2498	7671	506	0
 Ahmadpura	2459	7698	506	0
 Ahmadpur Charauli	2812	7762	588	0
-Ali Ahmadpur	2816	7768	588	0
+Ali Ahmadpur	2816	7768	588	0	Garhi
 Ahmad Ali	1884	8013	135	0
 Ahmadpuri	2894	7797	700	0
 Tānda Ahmadpur	2851	7786	637	0
@@ -203,7 +203,7 @@ Ahmadpur	2793	7771	177	0
 Ahūri	2768	7762	177	0
 Ahilyāganj	2754	7767	177	0
 Ahmal Kalān	2741	7750	177	0
-Ahmadpur	2817	7782	637	0
+Ahmadpur	2817	7782	637	0	Rāmpur
 Ahrauli	2815	7777	637	0
 Chimanpur Ahmadpur	2807	7788	543	0
 Aheri	1698	7630	80	0
@@ -236,7 +236,7 @@ Nagla Ahīrān	2713	7891	464	0
 Nagla Ahīrān	2705	7892	464	0
 Ahmadpur	2702	7882	464	0
 Nagla Ahīrān	2764	7879	616	0
-Āhnagar	2761	7888	616	0
+Āhnagar	2761	7888	616	0	Hīrāpur
 Nagla Ahirān	2760	7895	616	0
 Chilauli Ahmadpur	2755	7899	711	0
 Rāipura Ahīr	2722	7782	546	0
@@ -288,7 +288,7 @@ Tighra Ahmad	2440	7765	336	0
 Ahmadābād Khilli	2422	7771	215	0
 Ahbarānpur	2764	7804	670	0
 Nagla Aheria	2791	7830	543	0
-Ahmadābād	2781	7850	543	0
+Ahmadābād	2781	7850	543	0	Govindgarh
 Nagla Ahīria	2771	7849	670	0
 Nagla Ahīr	2753	7826	670	0
 Nagla Ahir	2753	7836	711	0
@@ -335,12 +335,12 @@ Ahīrābīr	2544	8305	251	0
 Pura Ahīrān	2695	7856	546	0
 Ahroli Kāli	2672	7860	334	0
 Ahroli Ghāt	2667	7860	334	0
-Pura Ahīrān	2635	7890	334	0
+Pura Ahīrān	2635	7890	334	0	Kāshīpura
 Ahārkhera	2282	7788	590	0
 Ahmadgaon	2093	7602	78	0
 Ahiyāīn	2571	8329	26	0
 Ahīrpura	2564	8345	26	0
-Ahīrpura	2560	8349	26	0
+Ahīrpura	2560	8349	26	0	Naralnāpur
 Ahīrpura	2553	8342	26	0
 Ahar	2507	7806	436	0
 Ahikaura	2542	8339	724	0
@@ -385,7 +385,7 @@ Ahirgaon	2458	8164	516	0
 Ahirgaon	2443	8112	324	0
 Ahari	2437	8118	324	0
 Aharīpur	2449	8160	516	0
-Ahmadpur	2595	8088	728	0
+Ahmadpur	2595	8088	728	0	Achakāpur
 Ahewā	2594	8098	728	0
 Ahīr Purwā	2533	8081	643	0
 Ahīr Pura	2528	8088	643	0
@@ -437,7 +437,7 @@ Ahūpur	2516	8220	607	0
 Ahmadpur	2568	8239	32	0
 Ahmadpur	2559	8228	32	0
 Ahmad Khera	2669	8081	714	0
-Ahmadpur	2673	8091	714	0
+Ahmadpur	2673	8091	714	0	Kamlāpur
 Ahmad Khera	2665	8093	714	0
 Ahmadābād	2641	8077	312	0
 Āhesa	2640	8094	312	0
@@ -451,7 +451,7 @@ Purwa Khote Ahir	2605	8083	681	0
 Purwa Malannga Ahjr	2613	8092	681	0
 Purwa Lāla Ahir	2619	8091	681	0
 Ahraula	2904	7822	575	0
-Ahmadpur Majīd	2966	7828	575	0
+Ahmadpur Majīd	2966	7828	575	0	Jaithāwāla
 Harra Ahmadpur Jalāl	2932	7847	575	0
 Nawāzishpur Ahmad	2927	7832	575	0
 Purwa Ahīran	2800	8103	323	0
@@ -716,7 +716,7 @@ Purwa Ahīr	2673	8146	30	0
 Purwa Ahlād Singh	2670	8148	30	0
 Purwa Ahbaran	2657	8149	30	0
 Ahīrgāon	2659	8149	30	0
-Khwāja Ahmadpur	2913	7852	575	0
+Khwāja Ahmadpur	2913	7852	575	0	Paitia
 Ahmadpur Nigaun	2902	7863	511	0
 Pīpli Ahīr Mustahkam	2921	7872	511	0
 Ahari	2480	8096	324	0
@@ -751,7 +751,7 @@ Ahorwa	2649	8145	662	0
 Pura Bhawāni Ahīr	2646	8146	662	0
 Pura Jori Ahīr	2648	8149	662	0
 Ahmadābād	2649	8150	662	0
-Ahmadābād	2913	7899	552	0
+Ahmadābād	2913	7899	552	0	Telīpura
 Mazra Aharpura	2914	7896	511	0
 Sonai Ahir Purwa	2627	8142	662	0
 Ahīran Purwa	2646	8182	597	0
@@ -951,7 +951,7 @@ Pura Bhojang Ahīr	2754	8204	618	0
 Purwa Ahīran	2760	8220	280	0
 Ahmadnagar	2811	7886	117	0
 Ahmadganj	2823	7894	117	0
-Tappa Ahmadnagar	2803	7894	117	0
+Tappa Ahmadnagar	2803	7894	117	0	Mustafābād
 Budhi Ahīr	2748	8200	618	0
 Ahlāwa	2748	8206	280	0
 Purwa Sukai Ahīr	2747	8201	618	0
@@ -991,7 +991,7 @@ Ahiraula Nagwa	2729	8234	280	0
 Pura Zamīr Ahmad	2734	8245	280	0
 Ahrauli	2738	8248	280	0
 Ahraula	2730	8245	280	0
-Ahsānpur	2728	8249	292	0
+Ahsānpur	2728	8249	292	0	Pura Pānde Jot
 Ahīran Purwa	2720	8230	280	0
 Pura Chinku Ahīr	2717	8225	280	0
 Pura Bhujangi Ahīr	2717	8226	280	0
@@ -1357,12 +1357,12 @@ Ahirauli	2708	8319	325	0
 Ahirauli	2724	8327	515	0
 Ahranighāt	2722	8330	515	0
 Ahladia Mahdewa	2710	8331	515	0
-Ahmadpur	2717	8351	515	0
+Ahmadpur	2717	8351	515	0	Harahwa
 Ahirauli	2700	8364	515	0
 Ahirauli	2710	8368	515	0
 Ahirauli	2706	8375	515	0
 Takia Ahmad Shāh	3362	7523	148	0
-Ahirān	2599	8174	718	0
+Ahirān	2599	8174	718	0	Kusāhat
 Belwa Ahīrān	2697	8303	647	0
 Purwa Ahīran	2688	8302	647	0
 Ahirauti	2681	8308	647	0
@@ -1531,7 +1531,7 @@ Ahirān	2520	8193	607	0
 Ahergaon	2018	7402	54	0
 Ahilyāpura	2231	7573	329	0
 Aharwāra	2284	8018	480	0
-Utrān Ahirhad	2075	7538	78	0
+Utrān Ahirhad	2075	7538	78	0	Utrān Gujarhad
 Āhmadābād	2029	7542	113	0
 Ahmadpur	2222	8024	144	0
 Ahmadpur	2409	7258	134	0
@@ -1559,7 +1559,7 @@ Ahluwāl	3120	7511	565	0
 Ahmadābād	3183	7538	487	0
 Mand Ahmadwal	3160	7542	565	0
 Ahmadpur	3133	7544	565	0
-Ahmadpur	3120	7530	565	0
+Ahmadpur	3120	7530	565	0	Nawān Pind
 Ahia	3124	7537	565	0
 Āhira Budrukh	2109	7534	78	0
 Ahilda	2167	8233	379	0
@@ -1743,7 +1743,7 @@ Ahīr Bigha	2510	8446	137	0
 Juit Ahīrtola	2572	8459	377	0
 Sansar Ahirtola	2575	8460	536	0
 Daljit Ahīrtola	2574	8462	536	0
-Ahmadnagar	2902	7916	552	0
+Ahmadnagar	2902	7916	552	0	Mohadi-kī-mandaiyān
 Ahmadnagar	2905	7916	552	0
 Mazra Ahmad Alī	2910	7923	641	0
 Ahila	2537	8465	377	0
@@ -1792,8 +1792,8 @@ Ahrūia	2817	7918	117	0
 Ahorāmai	2803	7922	117	0
 Āharāmai	2801	7922	117	0
 Ahmadnagar Ratanpur	2811	7924	117	0
-Ahmadnagar	2895	7941	641	0
-Ahmadnagar	2882	7946	342	0
+Ahmadnagar	2895	7941	641	0	Hājīpura
+Ahmadnagar	2882	7946	342	0	Ākilpur
 Gauntia Ahmadnagar	2876	7947	342	0
 Ahro	2876	7933	552	0
 Ahmadābād	2887	7931	552	0
@@ -1820,7 +1820,7 @@ Ahraula	2859	7954	342	0
 Ahmadābād	2853	7952	342	0
 Ahmadnagar	2872	7965	342	0
 Milak Ahmadnagar	2870	7974	683	0
-Ahmadpur	2844	7960	342	0
+Ahmadpur	2844	7960	342	0	Sanekpur
 Bālipur Ahmadpur	2836	7951	342	0
 Ahraula	2832	7966	342	0
 Ahīr Sukutia	2808	7954	342	0
@@ -1957,7 +1957,7 @@ Purwa Āhīr	2708	8007	686	0
 Purwa Āhīran	2700	8005	686	0
 Ahiri	2784	8036	323	0
 Ahiran	2452	8803	471	0
-Ahiron	2452	8803	471	0
+Ahiron	2452	8803	471	0	Ahiran
 Ahumanakkali	1257	7764	223	0
 Ahobilāpuram	1466	7824	229	0
 Chak Ahsan	2572	8559	716	0

@@ -2,28 +2,28 @@ Sultan Pur Majra	2869	7708	689	181554
 Majalgaon	1916	7621	33	49453
 Kamal Pur Majra Burari	2875	7719	732	43086
 Jaynagar Majilpur	2218	8842	4	25922
-Joynagar Majilpur	2218	8842	4	25922
-Majilpur	2218	8842	4	25922
-Majilpur Jaynagar	2218	8842	4	25922
-Majilpur Joynagar	2218	8842	4	25922
+Joynagar Majilpur	2218	8842	4	25922	Jaynagar Majilpur
+Majilpur	2218	8842	4	25922	Jaynagar Majilpur
+Majilpur Jaynagar	2218	8842	4	25922	Jaynagar Majilpur
+Majilpur Joynagar	2218	8842	4	25922	Jaynagar Majilpur
 Jharoda Mazra Burāri	2873	7721	732	22878
 Majhiāon Kalān	2432	8382	743	18349
-Majhiāon	2432	8382	743	18349
+Majhiāon	2432	8382	743	18349	Majhiāon Kalān
 Auhammadpur Mājri	2873	7704	689	17462
-Mohammad Pur Majri	2873	7704	689	17462
+Mohammad Pur Majri	2873	7704	689	17462	Auhammadpur Mājri
 Mani Mājra	3071	7684	705	15489
 Majītha	3176	7496	222	14503
-Majhgawān	2539	8114	643	13962
+Majhgawān	2539	8114	643	13962	Rājāpur
 Majholi	2350	7992	598	13210
 Majhauli	2412	8163	672	11892
-Majholi	2412	8163	672	11892
+Majholi	2412	8163	672	11892	Majhauli
 Bārhi Mājra	3011	7731	88	9188
 Majhgawān	2492	8081	324	8290
 Majgaon	2665	9279	356	8154
 Majhauli Khetal	2611	8537	395	6820
 Majhihara	2018	8600	541	5598
 Majhiāri	3360	7423	1	5033
-Naka Majiari	3360	7423	1	5033
+Naka Majiari	3360	7423	1	5033	Majhiāri
 Mājra	3045	7704	691	4884
 Majirgaon	2613	9157	359	4774
 Majarāgollappatti	1167	7807	51	4727
@@ -32,22 +32,22 @@ Kakar Mājra	3048	7703	691	3246
 Nānu Mazāra	3117	7586	369	327
 Rājo Māzra	3037	7580	593	0
 Mazagaon	1897	7284	106	0
-Bombay Mazagaon	1897	7284	106	0
-Mazagon	1897	7284	106	0
-Mazgaon	1897	7284	106	0
+Bombay Mazagaon	1897	7284	106	0	Mazagaon
+Mazagon	1897	7284	106	0	Mazagaon
+Mazgaon	1897	7284	106	0	Mazagaon
 Mazgaon	1837	7293	17	0
-Majhitar	2712	8833	85	0
+Majhitar	2712	8833	85	0	Mānjhītār
 Mājuli	2695	9417	777	0
-Majuli-Bongaon	2695	9417	777	0
+Majuli-Bongaon	2695	9417	777	0	Mājuli
 Mājri	2013	7904	111	0
 Mājra	3049	7753	534	0
 Mājra	3029	7800	448	0
 Majra	2571	8736	613	0
-Majpuri	1980	7608	53	0
+Majpuri	1980	7608	53	0	Maujpuri
 Majnūnpur	2827	7934	342	0
 Majna	2483	7899	481	0
 Majiyara	2372	8700	642	0
-Majiara	2372	8700	642	0
+Majiara	2372	8700	642	0	Majiyara
 Maji Mendri	1929	8069	90	0
 Majhwaliā	2680	8462	476	0
 Majhidih	2366	8601	517	0
@@ -64,7 +64,7 @@ Majgaon	2394	8205	672	0
 Mājgaon	1755	7407	64	0
 Mājbāt	2679	9228	381	0
 Mājar Chuk	2673	9292	356	0
-Major Chuk	2673	9292	356	0
+Major Chuk	2673	9292	356	0	Mājar Chuk
 Mājāli	1490	7411	59	0
 Majal	2581	7271	285	0
 Majal	2324	6941	108	0
@@ -84,10 +84,10 @@ Māj	3322	7431	504	0
 Majūr	3315	7434	504	0
 Majhin	3275	7490	581	0
 Rāin Mājra	3073	7606	674	0
-Rāi Mājra	3073	7606	674	0
+Rāi Mājra	3073	7606	674	0	Rāin Mājra
 Mājri	3073	7609	674	0
 Dāūd Mazro	3070	7609	674	0
-Dāud Mājra	3070	7609	674	0
+Dāud Mājra	3070	7609	674	0	Dāūd Mazro
 Karār Mājra	2995	7689	501	0
 Dheru Mājra	2995	7692	501	0
 Sarwan Mājra	2992	7697	457	0
@@ -95,7 +95,7 @@ Dhīngar Mājra	2952	7700	457	0
 Nizāmpur Mājra	2898	7681	485	0
 Salemsar Mājra	2900	7687	485	0
 Chak Mājra	3254	7484	581	0
-Majua	3256	7491	581	0
+Majua	3256	7491	581	0	Mujūa
 Majdās	3461	7605	8	0
 Mājri	3039	7777	448	0
 Majhaun	3038	7799	448	0
@@ -114,18 +114,18 @@ Nāi Mājra	2984	7721	449	0
 Mākhu Mājra	2978	7706	457	0
 Bīr Mājra	2983	7711	457	0
 Meghan Mājra	2982	7724	449	0
-Bala Mājra	2980	7718	449	0
+Bala Mājra	2980	7718	449	0	Rasūlpur
 Koli Mājra	2979	7722	449	0
 Mānak Mājra	2988	7701	457	0
 Chamon Māzra	2972	7746	449	0
 Māzra Mānakpur	2963	7737	328	0
 Māzra Bhanera	2963	7738	328	0
 Giāna Māzra	2959	7750	545	0
-Giāna Māzpa	2959	7750	545	0
+Giāna Māzpa	2959	7750	545	0	Giāna Māzra
 Māzra Pathānpur	2957	7733	328	0
 Māzra Haripur	2955	7733	328	0
 Gīāna Māzra Kalān	2958	7748	328	0
-Mar Māzra	2955	7743	328	0
+Mar Māzra	2955	7743	328	0	Abdullāpur
 Lādu Māzra	2952	7743	328	0
 Majora ka Jhorpara	2546	7554	353	0
 Majhli Jāīn	3124	7703	479	0
@@ -145,11 +145,11 @@ Dheru Mazra	3055	7608	775	0
 Jabo Mazra	3056	7606	775	0
 Gajan Mazra	3057	7602	775	0
 Dhelo Mājra	3023	7656	564	0
-Dundi Mājra	3022	7655	564	0
+Dundi Mājra	3022	7655	564	0	Rasūlpur
 Kolu Mājra	3020	7651	564	0
 Burah Mājra	3019	7651	564	0
 Māli Mājra	3014	7651	564	0
-Murād Mājra	3020	7656	564	0
+Murād Mājra	3020	7656	564	0	Akbarpur
 Khāna Mājra	3024	7664	691	0
 Alāuddīn Mājra	3023	7666	691	0
 Miān Mājra	3024	7666	691	0
@@ -161,7 +161,7 @@ Mājri	3015	7669	501	0
 Kumhār Mājra	3014	7664	501	0
 Pathān Mājra	3012	7650	564	0
 Mārkanda Mājra	3006	7661	501	0
-Bhatt Mājra	3000	7660	501	0
+Bhatt Mājra	3000	7660	501	0	Sarusti Khera
 Pipli Mājra	3006	7672	501	0
 Duniya Mājra	3010	7673	501	0
 Megha Mājra	3009	7671	501	0
@@ -171,7 +171,7 @@ Mājri	3070	7687	587	0
 Karo Mājra	3067	7676	632	0
 Bair Mazra	3053	7680	632	0
 Rājo Mazra	3055	7676	632	0
-Rāja Mazra	3055	7676	632	0
+Rāja Mazra	3055	7676	632	0	Rājo Mazra
 Gholu Mazra	3053	7682	632	0
 Chāhil Mājra	3022	7700	691	0
 Bhūr Mājra	3022	7682	691	0
@@ -209,10 +209,10 @@ Majharia	2764	7950	470	0
 Mazra Islāmganj	2755	7969	470	0
 Rāmpur Majhiāra	2717	7993	686	0
 Majpura	2648	7905	334	0
-Mazra	2639	7909	326	0
+Mazra	2639	7909	326	0	Mucha
 Majīth	2633	7929	741	0
 Majhle	2691	7969	570	0
-Majhie	2691	7969	570	0
+Majhie	2691	7969	570	0	Majhle
 Majh Purwa	2688	7958	570	0
 Majhgawān	2670	7998	671	0
 Makrandpur Mazra	2668	7989	671	0
@@ -235,7 +235,7 @@ Majhach	3229	7717	779	0
 Majhgawān	2705	8209	542	0
 Majhaulia	2596	8557	395	0
 Mājgaon	1821	7309	17	0
-Majharia	2561	8405	620	0
+Majharia	2561	8405	620	0	Magharia
 Majhartola	2339	8259	621	0
 Mazdia	2630	9123	358	0
 Majhikhanda	2013	8605	303	0
@@ -247,7 +247,7 @@ Bhainse Mājra	2993	7670	501	0
 Mājra Rorān	2979	7672	457	0
 Lūhār Mājra	2995	7673	501	0
 Lohār Mājra	2949	7654	457	0
-Lohār Mājra	2936	7657	367	0
+Lohār Mājra	2936	7657	367	0	Hoshiārpura
 Mājra	2922	7668	485	0
 Sikandarpur Mājra	2910	7674	485	0
 Majura	2969	7684	457	0
@@ -429,10 +429,10 @@ Dūd Mājra	3027	7757	449	0
 Matak Mājri	3043	7766	448	0
 Mājri	3051	7782	783	0
 Majāhadpur	2926	7808	545	0
-Mazra Jalālpur Nila	2927	7803	545	0
+Mazra Jalālpur Nila	2927	7803	545	0	Nayāgaon
 Dhāni Mājra	2949	7554	443	0
 Mājri	2970	7801	596	0
-Majra Sīmla	2953	7804	575	0
+Majra Sīmla	2953	7804	575	0	Gambhīrpur
 Rāni Mājra	2982	7815	596	0
 Majhewla	2641	7616	116	0
 Majhagawān	2350	7842	338	0
@@ -445,7 +445,7 @@ Moghal Māzra	2975	7710	457	0
 Balla Māzra	2964	7719	328	0
 Bhogi Māzra	2960	7721	328	0
 Bīna Māzra	2960	7718	328	0
-Bādhi Māzra	2955	7724	328	0
+Bādhi Māzra	2955	7724	328	0	Sikandarpur
 Mughal Māzra	2996	7726	449	0
 Sāhba Māzra	2995	7729	449	0
 Malāh Māzra	2994	7729	449	0
@@ -459,14 +459,14 @@ Bādhi Māzra	2981	7725	449	0
 Shekhān Māzra	2976	7731	449	0
 Pīr Māzra Moāfi	2977	7734	449	0
 Māzra Tofīr	2977	7733	449	0
-Māzri	2981	7740	449	0
+Māzri	2981	7740	449	0	Nāi Nagli
 Māzra	2986	7736	449	0
 Pīr Māzra	2991	7736	449	0
 Bākar Māzra	2993	7738	449	0
 Mājri Kalān	3000	7738	449	0
-Brāhman Māzra	2999	7747	449	0
+Brāhman Māzra	2999	7747	449	0	Ahmadpur Brāhman
 Kishanpūr Māzra	2999	7742	449	0
-Bāri Māzra	2996	7748	449	0
+Bāri Māzra	2996	7748	449	0	Nogla Khāri
 Shāhpur Mazbata	2993	7746	449	0
 Lālu Māzra	2991	7746	449	0
 Kabīrpur Māzra	2989	7747	449	0
@@ -475,8 +475,8 @@ Majara Jhonpariyān	2505	7614	371	0
 Grahi Mājra Mīmla	2937	7731	328	0
 Redi Mājra Kāndhla	2934	7729	328	0
 Bhika Mājra	2940	7740	328	0
-Talba Mazra	2946	7739	328	0
-Mazra Budhāna	2931	7748	545	0
+Talba Mazra	2946	7739	328	0	Khānpur
+Mazra Budhāna	2931	7748	545	0	Shafīpur
 Ibrāhīmpur Mājra	2920	7732	477	0
 Māl Mājra	2909	7737	477	0
 Chandpur Mazbata	2972	7754	449	0
@@ -485,7 +485,7 @@ Bālu Mazra	2968	7751	449	0
 Jalālpur Mājri	2973	7764	449	0
 Chūra Mājra	2957	7766	545	0
 Mājri	2974	7773	449	0
-Pīr Mazra	2975	7771	449	0
+Pīr Mazra	2975	7771	449	0	Salauni
 Mājra Khwājampur	2904	7756	700	0
 Majāhirpur	2925	7763	545	0
 Majauri	2477	7351	22	0
@@ -506,10 +506,10 @@ Nāru Mājra	2969	7792	545	0
 Mājra Sikri	2955	7795	545	0
 Tofīr Majlispur	2956	7798	783	0
 Sitābpuri Mājra Majlispur	2958	7799	596	0
-Majra Bhandūra	2945	7783	545	0
+Majra Bhandūra	2945	7783	545	0	Asadnagar
 Mahmūdpur Mājra	2950	7788	545	0
-Mājra Kailāpur Jasmor	2934	7798	545	0
-Mājra Nizāmpūr	2939	7798	545	0
+Mājra Kailāpur Jasmor	2934	7798	545	0	Rumālpuri
+Mājra Nizāmpūr	2939	7798	545	0	Gangdāspur
 Malha Mājra	2890	7703	485	0
 Akbarpur Mājra	2884	7718	769	0
 Majāre Khuro	3099	7579	674	0
@@ -536,7 +536,7 @@ Mājri	2998	7624	638	0
 Megha Mazra	2993	7625	638	0
 Mājra	2867	7645	609	0
 Bhobwāl Mājri	2920	7702	298	0
-Bhodwal Majri	2920	7702	298	0
+Bhodwal Majri	2920	7702	298	0	Bhobwāl Mājri
 Mājri	3027	7806	448	0
 Majkhet	3043	7813	448	0
 Majaipur	3050	7818	500	0
@@ -575,10 +575,10 @@ Ujan Mājri	3001	7622	638	0
 Sehūn Mājra	3004	7625	638	0
 Belu Mājra	3007	7617	564	0
 Rāin Mājra	3007	7620	564	0
-Sonda Mājro	3009	7621	564	0
+Sonda Mājro	3009	7621	564	0	Rājgarh
 Jora Mājra	3008	7619	564	0
 Mājri	3015	7620	564	0
-Rāin Mājra	3018	7625	564	0
+Rāin Mājra	3018	7625	564	0	Jamālpur
 Tarkhān Mājra	3021	7623	564	0
 Mājri	3021	7618	564	0
 Majalāpur	1912	7687	153	0
@@ -620,7 +620,7 @@ Kulla Mājra	3028	7643	564	0
 Rāl Mājra	3032	7642	564	0
 Mājri Kaliān	3041	7642	564	0
 Majūpur	2789	7790	543	0
-Mājra Hīrpur	2787	7793	543	0
+Mājra Hīrpur	2787	7793	543	0	Marhi
 Mazra Chak Karmān	3099	7650	295	0
 Khatak Mājri	3096	7653	735	0
 Maddo Mājra	3021	7631	564	0
@@ -715,7 +715,7 @@ Māzra Chhiti	2829	7788	637	0
 Majūpur	2814	7781	543	0
 Majhgaon	2248	8240	388	0
 Majhitha	2144	8201	310	0
-Majiāl	2042	8101	704	0
+Majiāl	2042	8101	704	0	Tamora
 Mājhicherra	2006	8164	659	0
 Majhgaon	2190	8116	537	0
 Majhgaon	2175	8124	537	0
@@ -786,10 +786,10 @@ Sofīsahāb Ki Mazār	2712	7837	403	0
 Mazīdpur	2779	7871	616	0
 Majh Purwa	2674	7951	715	0
 Majra Dari	2637	7961	671	0
-Mazbūtnagar	2693	7996	469	0
+Mazbūtnagar	2693	7996	469	0	Pihāni
 Majh Purwa	2687	7988	570	0
 Darhian Majra Madnāpur	2689	7978	570	0
-Majra Tirmukha	2691	7976	570	0
+Majra Tirmukha	2691	7976	570	0	Mahsona Purwa
 Rāmpur Mazra Berīsāl	2676	7981	671	0
 Majhgawān	2639	7982	671	0
 Mazra Bijaipur	2625	7997	671	0
@@ -806,7 +806,7 @@ Majhgawān Khurd	2517	7966	614	0
 Majhgawān	2507	7975	663	0
 Mājhol	2539	7978	614	0
 Majhalwārā	2527	7978	614	0
-Majrādevrān	2469	7932	663	0
+Majrādevrān	2469	7932	663	0	Nayākhera
 Majhgawān	2471	7940	663	0
 Majhāra	2697	7819	546	0
 Majūs Khurd	2310	7797	338	0
@@ -873,7 +873,7 @@ Majhgānwān	2491	8343	749	0
 Majhul	2475	8332	103	0
 Majhgawān	2466	8326	103	0
 Majhui	2461	8342	103	0
-Majhami	2461	8342	103	0
+Majhami	2461	8342	103	0	Majhui
 Majhgānwān	2449	8336	103	0
 Majhgānwān	2440	8348	743	0
 Majhwārītola	2413	8338	743	0
@@ -1045,7 +1045,7 @@ Majhili	2469	8277	103	0
 Majgawān	2456	8277	631	0
 Majhili	2469	8288	103	0
 Majhgaon	2470	8300	103	0
-Majra Khairpura	2863	7598	431	0
+Majra Khairpura	2863	7598	431	0	Khairpura
 Majauna	2429	8231	631	0
 Majhigawān	2428	8249	631	0
 Majhigawān	2428	8246	631	0
@@ -1069,7 +1069,7 @@ Majhwā	2553	8290	251	0
 Mājri	2859	7684	609	0
 Mahmūdpur Majra	2857	7680	609	0
 Mardipur Majhgāwān	2612	8081	681	0
-Ahmadpur Majīd	2966	7828	575	0
+Ahmadpur Majīd	2966	7828	575	0	Jaithāwāla
 Majhāri	2964	7828	575	0
 Garhi Mājra Tānda	2962	7847	575	0
 Suja Mājra Tānda	2962	7847	575	0
@@ -1140,7 +1140,7 @@ Majhwāwān	2649	8128	681	0
 Mazra	2922	7881	511	0
 Mazra	2918	7877	511	0
 Mazra	2918	7878	511	0
-Mazra	2917	7880	511	0
+Mazra	2917	7880	511	0	Mohanpuri
 Mazra	2916	7879	511	0
 Jogīpura Mazra	2910	7881	511	0
 Dodrājpur Mazra	2900	7878	511	0
@@ -1148,7 +1148,7 @@ Majhgaon	2647	8133	681	0
 Mazra	2913	7883	511	0
 Majihta	2629	8139	662	0
 Mazraganj	2914	7895	511	0
-Mazra Kuri	2909	7892	511	0
+Mazra Kuri	2909	7892	511	0	Bahoranpur
 Barhpura Mazra Kuri	2908	7893	511	0
 Mazra Nat	2905	7892	511	0
 Mazra	2904	7893	552	0
@@ -1184,7 +1184,7 @@ Mājra Sārangpur	2854	7847	646	0
 Majhawān Bankat	2744	8196	294	0
 Majhawān	2730	8196	542	0
 Mazra Chāopur	2836	7831	646	0
-Mazra Kahrola	2834	7835	646	0
+Mazra Kahrola	2834	7835	646	0	Bazīrganj
 Mazra Pānīwāra	2837	7841	646	0
 Majholra Fatehpur	2831	7847	646	0
 Mazra Shāhpur	2834	7846	646	0
@@ -1213,15 +1213,15 @@ Mustafāpur Mazra Khandsāl	2899	7870	511	0
 Mustafāpur Mazra Shekhūwala	2899	7870	511	0
 Mazra	2881	7873	511	0
 Majhla	2813	7976	470	0
-Mazra Bataua	2873	7864	646	0
+Mazra Bataua	2873	7864	646	0	Tātārpur
 Mazra Baga	2869	7868	511	0
 Barkhera Mazra	2867	7868	511	0
 Rāmnagar Mazra	2854	7874	511	0
 Majhauli	2871	7875	511	0
 Nagaria Mazra Kuhera	2826	7851	646	0
-Mazra Pusāwali	2826	7853	646	0
+Mazra Pusāwali	2826	7853	646	0	Chingaria
 Majhaula	2841	7869	646	0
-Mazra Chandoi	2836	7875	117	0
+Mazra Chandoi	2836	7875	117	0	Rāmnagar Mandaiyān
 Mazra	2844	7874	646	0
 Chamāron ka Mazra	2846	7874	646	0
 Majhauli	2845	7870	646	0
@@ -1235,9 +1235,9 @@ Rāmnagar Majra Nādha	2823	7871	117	0
 Mazra Shāhbari	2604	8176	718	0
 Majhgawān	2602	8187	718	0
 Purwa Majhār	2601	8196	718	0
-Mazra Manku!la	2859	7882	511	0
+Mazra Manku!la	2859	7882	511	0	Guiaria
 Bāmanpuri Mazra	2851	7882	646	0
-Mazra Seondāra	2857	7888	511	0
+Mazra Seondāra	2857	7888	511	0	Sundarpur
 Mazra Bāhpur	2873	7882	511	0
 Mazra Dalpura	2869	7894	552	0
 Majhra	2867	7891	552	0
@@ -1250,7 +1250,7 @@ Karaithi ka Mazra	2853	7895	552	0
 Mazra Mandaiyān Tulsi	2860	7899	552	0
 Natthuwāia Mazra	2862	7897	552	0
 Mazra Kishanpur	2864	7898	552	0
-Mazra Bīsra	2870	7898	552	0
+Mazra Bīsra	2870	7898	552	0	Dalpura
 Mazra Mandhauli	2873	7898	552	0
 Mazra Goharpur	2874	7898	552	0
 Mazra Naua Nagla	2874	7897	511	0
@@ -1264,14 +1264,14 @@ Mazra Chitaura	2845	7885	646	0
 Mazra Khushālpur	2847	7882	646	0
 Majhgawān	2769	8217	280	0
 Majhgawān	2754	8220	280	0
-Mazra Khandak	2806	7880	117	0
+Mazra Khandak	2806	7880	117	0	Pītamnagar
 Bībīganj Mazra	2810	7886	117	0
 Ghausnagar Mazra	2813	7886	117	0
 Majhāra	2814	7897	117	0
 Majra Kuhd	3339	7467	504	0
 Dīh Majhwa	2740	8222	280	0
 Majhwa	2741	8222	280	0
-Chak Alīroshan Majhiāri	2538	8141	651	0
+Chak Alīroshan Majhiāri	2538	8141	651	0	Dulhaniyāpur
 Majarthi	2724	8223	542	0
 Majhreti	2705	8219	542	0
 Pura Majhli	2715	8214	542	0
@@ -1528,7 +1528,7 @@ Majhkātolā	2258	8097	468	0
 Salārpur Mājra	2906	7685	485	0
 Muhammadpur Mājra	2914	7691	485	0
 Mājri	2913	7689	485	0
-Mājra	2903	7693	485	0
+Mājra	2903	7693	485	0	Khizarpur Jāt
 Mānak Mazra	2920	7696	485	0
 Purbaya Mājra	2949	7679	457	0
 Majhgaon	2244	8099	480	0
@@ -1536,9 +1536,9 @@ Mor Mājra	2948	7679	457	0
 Ahmadpur Mājra	2942	7676	298	0
 Khālila Mājra Nayan	2930	7677	298	0
 Brāhman Mājra	2932	7687	298	0
-Mājra	2939	7751	545	0
+Mājra	2939	7751	545	0	Sadruddīnnagar
 Tānda Majra	2927	7753	545	0
-Mājra	2945	7761	545	0
+Mājra	2945	7761	545	0	Narotampur
 Jarauda Mājra	2939	7769	545	0
 Abupura Mājra	2938	7773	545	0
 Daulatpur Mājra	2938	7774	545	0
@@ -1713,7 +1713,7 @@ Menda Mazra	3059	7667	632	0
 Chāu Mazra	3063	7671	632	0
 Mota Mazra	3059	7670	632	0
 Shekhān Mazra	3059	7674	632	0
-Jhīnwar Mazra	3056	7674	632	0
+Jhīnwar Mazra	3056	7674	632	0	Khānpur Khaddar
 Gado Mazra	3053	7662	564	0
 Rāin Mazra	3055	7659	564	0
 Chandu Mazra	3056	7651	564	0
@@ -1754,7 +1754,7 @@ Mīrān Mazra	3008	7762	449	0
 Māli Mazra	3024	7761	449	0
 Murtazāpur Mazra	3016	7763	449	0
 Mughal Mazra	3002	7763	449	0
-Sada Mazra	3002	7765	449	0
+Sada Mazra	3002	7765	449	0	Muhammadpur
 Mājra Rāmkheri	3006	7769	449	0
 Majāhidpur	3014	7773	449	0
 Majhgāwān	2400	8375	743	0
@@ -1786,7 +1786,7 @@ Mazra Prair	2894	7876	511	0
 Mazra Jātwāla	2895	7877	511	0
 Mazra Chamraodha	2895	7879	511	0
 Mazra Jālpur	2894	7894	552	0
-Mazra Azam	2894	7894	552	0
+Mazra Azam	2894	7894	552	0	Mazra Jālpur
 Mazra Dhīrajnagar	2894	7894	552	0
 Mazra Sikandarābād	2894	7896	552	0
 Mazra Dhaka Nagalia	2894	7897	552	0
@@ -1807,12 +1807,12 @@ Mazra Barwāra Khās	2881	7897	511	0
 Mazra Bhūkāpur	2882	7897	511	0
 Mazra Ghātampur	2881	7899	552	0
 Mazra Āgapur	2878	7899	552	0
-Mazra Jangliwāli	2877	7899	511	0
+Mazra Jangliwāli	2877	7899	511	0	Milk Dathūra
 Mazra Chamār	2876	7895	511	0
 Mazra Ganeshghāt	2877	7898	511	0
 Mājhipāli	2113	8334	497	0
 Mājhipāti	2119	8343	497	0
-Majra	2382	7653	16	0
+Majra	2382	7653	16	0	Malkāna
 Majhimunda	2104	8351	308	0
 Majjigudem	1882	8078	288	0
 Mazra Bhagwānpur	2754	8140	294	0
@@ -1829,7 +1829,7 @@ Majigūda	1834	8295	268	0
 Majigūdem	1819	8290	268	0
 Majivalasa	1819	8291	268	0
 Majahida	2624	8429	639	0
-Majahidpur	2624	8429	639	0
+Majahidpur	2624	8429	639	0	Majahida
 Majhaulia	2621	8430	639	0
 Majhaulia	2622	8443	639	0
 Mājipāra	1991	8321	284	0
@@ -1877,7 +1877,7 @@ Majhaulia	2599	8465	540	0
 Majhaulia	2594	8470	540	0
 Majhwalia	2585	8468	540	0
 Majlispur	2585	8468	540	0
-Majra	2244	7620	322	0
+Majra	2244	7620	322	0	Parao
 Majolan	2389	7368	512	0
 Mājiām	2347	7419	166	0
 Majera	2970	7909	612	0
@@ -1921,11 +1921,11 @@ Mazra Nijābat	2912	7916	641	0
 Mazra Nanhe	2911	7912	552	0
 Mazra Gulāb	2913	7914	641	0
 Mazra Babrū	2917	7909	641	0
-Mazra Bhajū	2920	7912	641	0
+Mazra Bhajū	2920	7912	641	0	Rāngrhonwāla
 Mazra Khushhālpur	2924	7915	641	0
 Mazra Alī Muhammad	2920	7919	641	0
 Mazra Azīmullah	2920	7919	641	0
-Mazra Khudā Bakhsh	2918	7918	641	0
+Mazra Khudā Bakhsh	2918	7918	641	0	Namūna
 Mazra Kesrī	2918	7919	641	0
 Mazra Khawāni	2917	7917	641	0
 Mazra Parbhū	2916	7916	641	0
@@ -2001,7 +2001,7 @@ Tola Majhariyā	2699	8429	476	0
 Majhariyā	2696	8439	476	0
 Majera	2951	7995	429	0
 Auhar Majhariyā	2675	8458	476	0
-Majhwaliā	2685	8470	476	0
+Majhwaliā	2685	8470	476	0	Rāmpurwā
 Majhariyā	2699	8472	476	0
 Majhariyā Kishan	2669	8456	476	0
 Wāke Rakba Majhariyā	2660	8455	396	0
@@ -2019,7 +2019,7 @@ Mazra Dharam Dās	2880	7931	552	0
 Mazra Chamārān	2878	7931	552	0
 Mazra	2856	7932	342	0
 Mazra Bhitauli	2851	7929	342	0
-Sālehpur Majāhidpur	2865	7935	342	0
+Sālehpur Majāhidpur	2865	7935	342	0	Salpura
 Majhola Sabsukhi	2854	7945	342	0
 Majhgawān	2831	7928	342	0
 Milk Majhgawān	2831	7928	342	0
@@ -2114,7 +2114,7 @@ Majhgānwān	2432	8460	393	0
 Majara	2443	8465	118	0
 Majuri Kalān	2450	8469	118	0
 Matlī Majhdihā	2401	8457	393	0
-Majhdihā Matlī	2401	8457	393	0
+Majhdihā Matlī	2401	8457	393	0	Matlī Majhdihā
 Majhla Bigha	2543	8577	604	0
 Majhgāwān	2423	8506	393	0
 Majhgawān	2502	8068	324	0
@@ -2358,7 +2358,7 @@ Majgaon	2320	8410	321	0
 Mājhtoli	2312	8446	321	0
 Majhtoli	2367	8471	707	0
 Mājhtoli	2315	8471	321	0
-Mājhtoli	2314	8474	321	0
+Mājhtoli	2314	8474	321	0	Parariyā
 Mājhtoli	2313	8471	321	0
 Majhiātoli	2311	8474	321	0
 Mājhatoli	2280	8438	321	0

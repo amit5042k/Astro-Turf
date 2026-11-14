@@ -17,6 +17,8 @@ English and Hindi. No build step, no backend, works offline.
   `data/weekly/README.md`.
 - **Every Indian city, town and village** (549,000+ places from GeoNames) in a searchable birth-place field that
   tolerates spelling variants (Darjeeling/Darjiling, Nainital/Naini Tal) and old names (Bombay, Allahabad, Gurgaon).
+  Names can be typed **in Hindi** too (वाराणसी, कानपुर, नई दिल्ली): Devanagari is transliterated into the same
+  phonetic key, with Hindi's silent inherent "a" treated as optional, so every place is searchable either way.
   The list is split into ~1,100 small files by the first letters typed, so a search downloads only 20–200 KB.
   Rebuild with `tools/build_places.py` (instructions at the top of the script), then bump `PLACES` in `sw.js`.
 - **Free Kundli**: Lagna, Moon sign, birth nakshatra, North-Indian lagna chart, planetary positions table.

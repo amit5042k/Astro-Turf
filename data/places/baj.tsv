@@ -1,47 +1,47 @@
-English Bazar	2500	8815	412	170039
-Kishanganj Bazar	2610	8796	510	105782
+English Bazar	2500	8815	412	170039	Malda
+Kishanganj Bazar	2610	8796	510	105782	Kishanganj
 Mahnar Bazar	2561	8548	716	48293
-Bakhri Bazar	2560	8626	530	40043
-Bhajoi	2840	7863	646	33752
-Nautanwa Bazar	2743	8342	515	32587
-Jaridih Bazar	2377	8594	517	31882
+Bakhri Bazar	2560	8626	530	40043	Bakhri
+Bhajoi	2840	7863	646	33752	Bahjoi
+Nautanwa Bazar	2743	8342	515	32587	Nautanwa
+Jaridih Bazar	2377	8594	517	31882	Jāridih
 Banmankhi Bazar	2589	8719	613	30336
-Panagar Bazar	2329	8000	598	27932
+Panagar Bazar	2329	8000	598	27932	Panāgar
 Baloda Bāzār	2166	8216	379	26632
 Bāzpur	2915	7911	641	23900
 Siswā Bāzār	2715	8376	515	19939
 Chāndūr Bāzār	2124	7775	133	18780
-Bajāpur	1879	8082	288	16129
-Thongkhong Laxmi Bazar	2467	9390	505	14878
+Bajāpur	1879	8082	288	16129	Bījāpur
+Thongkhong Laxmi Bazar	2467	9390	505	14878	Wangoi
 Rajopatti urf Kota Bazar	2658	8551	582	14631
 Rānīr Bāzār	2383	9137	744	13104
 Gola Bāzār	2634	8335	325	10936
 Betūl Bazār	2186	7793	462	10630
-Berhait Bazar	2489	8761	461	9753
+Berhait Bazar	2489	8761	461	9753	Berhait
 Bajpe	1298	7488	55	9701
 Bajwa	2237	7314	159	9611
 Bara Bazar	2257	8835	123	7985
-Calcutta Bara Bazar	2257	8835	123	7985
+Calcutta Bara Bazar	2257	8835	123	7985	Bara Bazar
 Bājna	2790	7768	177	7673
-Singtam Bazar	2723	8850	422	6133
-Sekmai Bazar	2495	9388	416	5065
-Mangan Bazar	2751	8852	27	4644
+Singtam Bazar	2723	8850	422	6133	Singtam
+Sekmai Bazar	2495	9388	416	5065	Sengmai
+Mangan Bazar	2751	8852	27	4644	Mangan
 Jonai Bazar	2783	9522	299	4459
 Bajuha Khurd	3120	7558	369	2096
 Bajuha Kalān	3120	7559	369	1480
 Naya Bāzār	2713	8824	617	1035
 Bajopur	2587	8574	138	989
-Oska Bazar	2719	8313	292	0
+Oska Bazar	2719	8313	292	0	Uska
 Sonaili Bāzār	2561	8772	625	0
 Sobhāpur Bāzyāft	2304	7757	338	0
-Shelu Bazar	2037	7725	128	0
+Shelu Bazar	2037	7725	128	0	Shelu Buzurg
 Rehra Bāzār	2718	8228	280	0
 Rāja Bāzār	2489	9307	378	0
 Nutan Bāzār	2343	9175	385	0
-Nager Bazaar	2262	8842	450	0
+Nager Bazaar	2262	8842	450	0	Nagarbazar
 Muhammad Bāzār	2399	8757	361	0
 Melli Bāzār	2709	8846	85	0
-Bazar	2709	8846	85	0
+Bazar	2709	8846	85	0	Melli Bāzār
 Matera Bāzār	2778	8155	294	0
 Masāldaha Bāzār	2533	8793	412	0
 Manu Bāzār	2307	9166	733	0
@@ -52,20 +52,20 @@ Kumār Bāzidpur	2583	8555	716	0
 Ksehkma Bāzār	2589	9212	331	0
 Itwāri Bāzār	2116	7912	141	0
 Ilām Bāzār	2363	8754	361	0
-Bazar Dubaulia	2670	8251	154	0
-Chilwaria Bāzār	2750	8168	294	0
+Bazar Dubaulia	2670	8251	154	0	Dubaulia
+Chilwaria Bāzār	2750	8168	294	0	Chilwaria
 Buri Bāzār	2471	9384	505	0
 Bridgmanganj Bāzār	2720	8320	515	0
 Bijanbāri Bāzār	2707	8820	573	0
 Bāzārdhāna	2192	7755	462	0
 Bāzidpur	2559	8578	138	0
 Bāzidka Khurd	3047	7558	726	0
-Bāzidka	3047	7558	726	0
+Bāzidka	3047	7558	726	0	Bāzidka Khurd
 Bāzārgaon	2114	7877	141	0
 Baut Bāzār	2574	9269	330	0
-Basopati Bazar	2658	8601	556	0
+Basopati Bazar	2658	8601	556	0	Bāsopatti
 Bankatwa Bāzār	2773	8225	280	0
-Bandha Bazar	2084	8075	644	0
+Bandha Bazar	2084	8075	644	0	Bāndha
 Bajupinda	1979	8424	440	0
 Bajranggarh	2458	7729	336	0
 Bajrakot	2121	8504	414	0
@@ -79,21 +79,21 @@ Bājna	2358	7608	347	0
 Bājna	2330	7450	166	0
 Bajia	2391	8311	103	0
 Bājengdoba	2589	9050	786	0
-Bajendoba	2589	9050	786	0
-Bājegaon	1894	7763	140	0
+Bajendoba	2589	9050	786	0	Bājengdoba
+Bājegaon	1894	7763	140	0	Bijegaon
 Bajaura	3185	7715	680	0
 Bajāna	2312	7178	28	0
 Bājajāg	1172	9267	105	0
 Bajāg	2268	8135	468	0
 Bagh Bazar	2260	8837	123	0
-Calcutta Bagh Bazar	2260	8837	123	0
+Calcutta Bagh Bazar	2260	8837	123	0	Bagh Bazar
 Ampi Bāzār	2362	9161	385	0
 Amguri Bāzār	2664	9056	357	0
 Akola Bāzār	2017	7815	67	0
 Bhajrūnsar	2839	7468	539	0
 Bajitpur	2289	8813	279	0
 Bajbajia	2243	8889	450	0
-Lāl Bāzār	3413	7481	611	0
+Lāl Bāzār	3413	7481	611	0	Mundibal
 Lāl Bāzār	3413	7482	611	0
 Nawab Bazar	3408	7480	611	0
 Uparla Bhajnoa	3314	7419	504	0
@@ -103,13 +103,13 @@ Bajūān	3281	7483	581	0
 Bajālta	3276	7494	581	0
 Bāzīdpur	2999	7691	501	0
 Bajīrā Chak	3258	7486	581	0
-Banj Bāzār	3403	7392	1	0
+Banj Bāzār	3403	7392	1	0	Banj
 Rāje ka Bāzar	3402	7393	1	0
 Bajāri	2512	7562	353	0
 Bajāri	2511	7563	353	0
 Bājoli	2577	7574	313	0
 Bajhār	3119	7703	479	0
-Bhajyār	3119	7703	479	0
+Bhajyār	3119	7703	479	0	Bajhār
 Bajhol	3120	7711	479	0
 Bājāgaon	2994	7866	612	0
 Bājla	2826	7538	300	0
@@ -117,8 +117,8 @@ Bajwāra	3073	7676	787	0
 Bāzīdpur	3054	7700	587	0
 Bāzīdpur	3022	7692	691	0
 Bajrota	2504	7897	481	0
-Bājna	2484	7838	384	0
-Bājno	2484	7838	384	0
+Bājna	2484	7838	384	0	Dharampura
+Bājno	2484	7838	384	0	Dharampura
 Bajarra	2460	7861	384	0
 Bajrangkhera	2476	7888	481	0
 Bajhera	2781	7914	616	0
@@ -133,16 +133,16 @@ Nagla Bhaju	2702	7946	570	0
 Bhajji Purwa	2721	7994	686	0
 Bajar Talaiya	2700	7912	464	0
 Nagla Bhajansingh	2677	7923	290	0
-Chakwa Bazurg	2686	7906	290	0
+Chakwa Bazurg	2686	7906	290	0	Chakwa Buzurg
 Gangora Bajhera	2679	7915	290	0
 Bhājupura	2643	7920	290	0
-Bhajanpura	2643	7920	290	0
-Bhajāwās	2688	7569	121	0
+Bhajanpura	2643	7920	290	0	Bhājupura
+Bhajāwās	2688	7569	121	0	Bhojawās
 Bajīda	2601	7941	741	0
 Bhajuria	2695	7967	570	0
 Bajīt Bharthu	2655	7983	671	0
 Bajīt Jasu	2655	7984	671	0
-Bajīt Purwa	2656	7984	671	0
+Bajīt Purwa	2656	7984	671	0	Dalāgaon
 Bajra	3246	7495	720	0
 Bajakhana	3046	7498	730	0
 Bajugaon	2649	8989	713	0
@@ -150,7 +150,7 @@ Bara Bāzāri	2444	9232	624	0
 Bāgha Bāzār	2454	9284	378	0
 Baziran	3404	7564	547	0
 Bāzār Jāri	2519	8177	607	0
-Teji Bāzār	2582	8244	32	0
+Teji Bāzār	2582	8244	32	0	Dilshādpur
 Bhajna	2459	7187	134	0
 Bājron	2395	7645	16	0
 Bhajanpura	2870	7726	791	0
@@ -182,7 +182,7 @@ Bāj	3135	7726	278	0
 Bājwa	3127	7738	479	0
 Baja	3128	7749	479	0
 Bāzidpur	3025	7417	3	0
-Chak Bāje Madāhar	3057	7463	615	0
+Chak Bāje Madāhar	3057	7463	615	0	Chak Sherewāla
 Bāje Madāhar	3056	7465	615	0
 Bāja Kotwāl	3093	7481	566	0
 Bajhyog	3112	7734	479	0
@@ -283,7 +283,7 @@ Bāzidpur Lāla	2941	7851	575	0
 Nagla Bhajja	2929	7855	575	0
 Bhājjāwāla	2937	7865	575	0
 Bāzīdpur	2938	7859	575	0
-Mandaiyān Bhajan	2897	7909	552	0
+Mandaiyān Bhajan	2897	7909	552	0	Pachtaur
 Bhajanpur	2888	7904	552	0
 Bāzīdpur	2884	7910	552	0
 Bhajnāi	2839	7919	342	0
@@ -398,7 +398,7 @@ Bhājpur	2470	7730	336	0
 Bājna	2434	7736	215	0
 Nagla Bhaja	2744	7886	711	0
 Nagla Bhajan	2729	7885	464	0
-Bazīrābād	2406	7798	215	0
+Bazīrābād	2406	7798	215	0	Bhainsara
 Bājgarhi	2772	7801	543	0
 Bajrangpur	2775	7824	543	0
 Bajaria	2769	7801	670	0
@@ -747,7 +747,7 @@ Pura Sarūp Bāzār	2712	8209	542	0
 Shahzora Bāzār	2711	8215	542	0
 Rājgarh Bāzār	2712	8215	542	0
 Chhajua Bāzār	2716	8215	542	0
-Bajha Khurrampur	2541	8145	651	0
+Bajha Khurrampur	2541	8145	651	0	Paruwa
 Srīganj Bāzār	2703	8212	542	0
 Sīr Bankat Bāzār	2724	8219	542	0
 Mūseganj Bāzār	2703	8221	542	0
@@ -924,7 +924,7 @@ Aghar Bāzār	2664	8344	325	0
 Suilahia Bāzār	2664	8350	325	0
 Suba Bāzār	2672	8344	325	0
 Dāngipār Bāzār	2669	8340	325	0
-Urf Gola Bāzār	2635	8335	325	0
+Urf Gola Bāzār	2635	8335	325	0	Madaria
 Bāzār Sarjunagar	2684	8354	325	0
 Gola Bāzār	2644	8361	535	0
 Bajpei	2646	8368	535	0
@@ -951,7 +951,7 @@ Bājākund	2340	8075	350	0
 Bajpur	3257	7503	720	0
 Bajetar	3253	7538	496	0
 Bajaha	2532	8152	651	0
-Bāzidpur	2546	8169	607	0
+Bāzidpur	2546	8169	607	0	Lallāpur
 Begam Bāzār	2545	8172	607	0
 Sagra Bāzār	2593	8177	718	0
 Bhajha	2575	8187	718	0
@@ -1063,7 +1063,7 @@ Bājtiya ka Khera	2365	7601	347	0
 Bājna ka Khera	2357	7607	347	0
 Bajabaj Chhani	3077	7787	448	0
 Bajān	3091	7792	448	0
-Bāzārtolī	2374	8379	743	0
+Bāzārtolī	2374	8379	743	0	Bhuiāntolī
 Bhajnā	2371	8398	743	0
 Bajāda Pahāri	2805	7729	754	0
 Bajrāgra	3021	7823	448	0
@@ -1147,7 +1147,7 @@ Bāzidpur	2572	8451	536	0
 Bajitpur Bhakura	2562	8470	377	0
 Bājāwāla	2923	7907	641	0
 Bājāwāla	2907	7916	641	0
-Mazra Bhajū	2920	7912	641	0
+Mazra Bhajū	2920	7912	641	0	Rāngrhonwāla
 Bhajwā Nagla	2913	7921	641	0
 Bājen	2536	8454	377	0
 Bajreān	2530	8464	377	0
@@ -1237,8 +1237,8 @@ Bājpur	2872	7951	342	0
 Bajhera	2857	7974	683	0
 Mahmūdpur Bhaja	2826	7969	342	0
 Bajhera	2803	7955	470	0
-Bajhera Bhagwantpur	2803	7955	470	0
-Bāzpur	2804	7972	470	0
+Bajhera Bhagwantpur	2803	7955	470	0	Bajhera
+Bāzpur	2804	7972	470	0	Kumharka
 Piparia Bhaja	2851	7992	683	0
 Bajaha	2578	8408	536	0
 Bajaha	2580	8417	536	0
@@ -1351,7 +1351,7 @@ Bāzidpur	2498	8611	589	0
 Bhajaur	2495	8621	524	0
 Bajpedih	2485	8620	524	0
 Bhajupur	2748	8057	507	0
-Bajān Grant	2740	8055	507	0
+Bajān Grant	2740	8055	507	0	Girdharpur
 Bhājīpāni	2243	7932	337	0
 Bajhāi	2654	7901	334	0
 Nagla Baju	2674	7914	290	0
@@ -1470,7 +1470,7 @@ Bajhera	2746	8003	686	0
 Bajauni Purwa	2733	8012	686	0
 Bhajan Khera	2700	8022	686	0
 Bajhua	2797	8042	323	0
-Kunauli Bazaar	2644	8677	426	0
+Kunauli Bazaar	2644	8677	426	0	Kunauli
 Bajiattitanda	1265	7758	626	0
 Bajjavāndlapalli	1381	7800	438	0
 Bajni	2730	8447	476	0

@@ -2,12 +2,12 @@ Pānihāti	2269	8837	450	378705
 Panipat	2939	7697	298	295970
 Panchkula	3069	7685	587	211355
 Panvel	1899	7311	17	195373
-Navi Mumbai Panvel Raigarh	1899	7311	17	195373
+Navi Mumbai Panvel Raigarh	1899	7311	17	195373	Panvel
 Pandit Deen Dayal Upadhyaya Nagar	2528	8312	724	109650
 Pandharpur	1768	7533	132	98923
 Panjim	1550	7383	188	70991
-Pangim	1550	7383	188	70991
-Panaji	1550	7383	188	70991
+Pangim	1550	7383	188	70991	Panjim
+Panaji	1550	7383	188	70991	Panjim
 Panipat Taraf Makhdum Zadgan	2942	7699	298	67998
 Panruti	1178	7955	178	60323
 Panna	2472	8019	532	59091
@@ -15,46 +15,46 @@ Pāndhurnā	2160	7853	337	45479
 Panachikkad	953	7654	271	43595
 Panipat Taraf Ansar	2941	7695	298	42877
 Pāndharkawada	2002	7855	67	31094
-Pandharkaoda	2002	7855	67	31094
+Pandharkaoda	2002	7855	67	31094	Pāndharkawada
 Pānakkudi	832	7758	191	29895
-Panaikkudi	832	7758	191	29895
-Panagudi	832	7758	191	29895
-Panmana	901	7652	549	29139
+Panaikkudi	832	7758	191	29895	Pānakkudi
+Panagudi	832	7758	191	29895	Pānakkudi
+Panmana	901	7652	549	29139	Ponmana
 Panipat Taraf Rajputan	2936	7694	298	28803
 Pandua	2307	8829	279	28205
 Panāgar	2329	8000	598	27932
-Panagara	2329	8000	598	27932
-Panagar Bazar	2329	8000	598	27932
+Panagara	2329	8000	598	27932	Panāgar
+Panagar Bazar	2329	8000	598	27932	Panāgar
 Panayāttur Vadakkumbhāgam	895	7662	549	25607
-Panayam	895	7662	549	25607
+Panayam	895	7662	549	25607	Panayāttur Vadakkumbhāgam
 Pantheeramkavu	1123	7585	262	24537
 Pānchla	2254	8814	354	23526
 Panniyannūr	1175	7558	266	22308
-Pāndavapura	1250	7667	94	20399
+Pāndavapura	1250	7667	94	20399	French Rocks
 Panoor	1176	7558	266	17438
 Pandaria	2222	8141	537	16165
-Pandariya	2222	8141	537	16165
+Pandariya	2222	8141	537	16165	Pandaria
 Panangad	1027	7617	241	15630
 Panth Pīplia	2420	7501	580	15070
 Pandavarmangalam	915	7788	208	14954
 Pānchgani	1792	7380	64	14894
-Panchagani	1792	7380	64	14894
+Panchagani	1792	7380	64	14894	Pānchgani
 Panisagar	2425	9215	256	14758
-Talode Panchnad	1909	7310	17	14318
-Nagrota Panjgirain	3280	7491	581	13836
+Talode Panchnad	1909	7310	17	14318	Taloje
+Nagrota Panjgirain	3280	7491	581	13836	Nagrota
 Pandhāna	2170	7622	209	13694
-Gandai-Pandaria	2167	8110	509	13278
+Gandai-Pandaria	2167	8110	509	13278	Gandai
 Pānsemāl	2166	7470	248	12166
 Pankhedi	2335	7684	320	11723
 Panamaram	1174	7607	242	11651
 Panapākkam	1292	7957	160	11536
-Panapakkam-Arkonam	1292	7957	160	11536
+Panapakkam-Arkonam	1292	7957	160	11536	Panapākkam
 Pāndātarai	2219	8133	537	11000
-Panposh	2225	8481	272	10430
-Panposh	2222	8466	272	9923
+Panposh	2225	8481	272	10430	Bānposh
+Panposh	2222	8466	272	9923	Kansbahal
 Panrra	2380	8672	401	9563
 Panamarattuppatti	1156	7816	51	9368
-Panaimarathupatti	1156	7816	51	9368
+Panaimarathupatti	1156	7816	51	9368	Panamarattuppatti
 Pannaipuram	987	7728	194	9323
 Panpuli	902	7725	245	9313
 Pannaikadu	1028	7763	187	8731
@@ -62,9 +62,9 @@ Panchet	2369	8676	401	7296
 Pāndamangalam	1110	7797	231	7259
 Panaikulam	938	7895	5	6980
 Borlai Panchaitan	1817	7300	17	6952
-Borlai-Panchatan	1817	7300	17	6952
-Borlai Panchaitar	1817	7300	17	6952
-Panchmahali	2374	8678	664	4832
+Borlai-Panchatan	1817	7300	17	6952	Borlai Panchaitan
+Borlai Panchaitar	1817	7300	17	6952	Borlai Panchaitan
+Panchmahali	2374	8678	664	4832	Kumardubhi
 Pāndoh	3167	7705	278	4351
 Panara	2221	7855	337	4096
 Panhāla	1681	7411	57	3634
@@ -74,8 +74,8 @@ Nagla Panchi	2711	7912	464	1000
 Panoli	2153	7296	151	836
 Pandori Jāgīr	3109	7554	369	711
 Panigaon	1965	8141	619	229
-Vadgaon-Pan	1959	7427	152	0
-Pānthāwāda	2449	7230	134	0
+Vadgaon-Pan	1959	7427	152	0	Wadgaon
+Pānthāwāda	2449	7230	134	0	Pathāvāda
 Pānzul	3428	7429	301	0
 Panzgām	3448	7408	0	0
 Panwāri	2543	7947	614	0
@@ -96,7 +96,7 @@ Panso	2612	9493	488	0
 Pānskura	2240	8772	559	0
 Pānsina	2255	7197	28	0
 Panmār	2610	7803	484	0
-Panniār	2610	7803	484	0
+Panniār	2610	7803	484	0	Panmār
 Panki	2647	8024	469	0
 Pānkī	2403	8448	701	0
 Pankhabari	2683	8826	573	0
@@ -104,17 +104,17 @@ Pānjwāra	2485	8710	605	0
 Panjīpāra	2614	8802	610	0
 Panjgraon	3153	7645	281	0
 Panjgirāin Kalān	3061	7491	730	0
-Panjgrain Kalan	3061	7491	730	0
-Panjgirāin	3061	7491	730	0
+Panjgrain Kalan	3061	7491	730	0	Panjgirāin Kalān
+Panjgirāin	3061	7491	730	0	Panjgirāin Kalān
 Panjgirāin	3177	7528	487	0
-Panjagarian	3177	7528	487	0
-Panjgarāin	3177	7528	487	0
+Panjagarian	3177	7528	487	0	Panjgirāin
+Panjgarāin	3177	7528	487	0	Panjgirāin
 Panjeke	3071	7431	566	0
 Panjappatti	1083	7831	445	0
 Panjān	3332	7548	372	0
 Panja	1268	7548	55	0
-Pānāje	1268	7548	55	0
-Panje	1268	7548	55	0
+Pānāje	1268	7548	55	0	Panja
+Panje	1268	7548	55	0	Panja
 Pānitola	2749	9525	460	0
 Pāniputa	2684	9278	356	0
 Panikunda	2521	9102	745	0
@@ -136,15 +136,15 @@ Pāngaon	1814	7574	132	0
 Pānetha	2188	7327	151	0
 Paneri	2673	9192	381	0
 Panera	2700	8347	515	0
-Panīyara	2700	8347	515	0
+Panīyara	2700	8347	515	0	Panera
 Pānemangalūru	1287	7504	55	0
-Pānemanglūru	1287	7504	55	0
+Pānemanglūru	1287	7504	55	0	Pānemangalūru
 Paniem	1552	7835	232	0
-Panema	1552	7835	232	0
-Pānem	1552	7835	232	0
+Panema	1552	7835	232	0	Paniem
+Pānem	1552	7835	232	0	Paniem
 Paneli	2187	7016	174	0
 Pānchgrām	2420	8801	471	0
-Panehgram	2420	8801	471	0
+Panehgram	2420	8801	471	0	Pānchgrām
 Pāndwāpur	1909	7880	360	0
 Pāndwa	2307	7340	142	0
 Pandusar	2887	7466	486	0
@@ -155,80 +155,80 @@ Pandri Shivgarh	2508	8275	201	0
 Pāndripada	1979	8496	440	0
 Pandrīdānd	2292	8285	725	0
 Pāndrethan	3405	7487	611	0
-Pāndrenthan	3405	7487	611	0
+Pāndrenthan	3405	7487	611	0	Pāndrethan
 Pāndrapāt	2309	8368	398	0
 Pāndola	2555	7664	335	0
 Pāndikkād	1110	7622	150	0
 Pandiam	1774	8021	762	0
 Pāndia	1951	8483	440	0
 Pandhurli	1983	7385	54	0
-Pandhuri	1983	7385	54	0
+Pandhuri	1983	7385	54	0	Pandhurli
 Pāndharwāra	1980	7860	282	0
 Pande	1838	7523	132	0
 Pāndaveswar	2373	8727	642	0
 Pandaul	2625	8607	556	0
 Pandāre	1814	7446	52	0
-Pandara	1814	7446	52	0
+Pandara	1814	7446	52	0	Pandāre
 Pandarbhāta	2196	8173	755	0
-Pandarbhāla	2196	8173	755	0
+Pandarbhāla	2196	8173	755	0	Pandarbhāta
 Pandāpātā	2215	8694	665	0
 Pandalur	1149	7634	115	0
 Pandalkudi	939	7811	119	0
-Panthalgudi	939	7811	119	0
+Panthalgudi	939	7811	119	0	Pandalkudi
 Pāndādāh	2140	8090	509	0
 Pānchwa	2721	7493	430	0
 Panchun	2750	7321	307	0
 Pānchra	2227	8437	272	0
 Panchori	2711	7323	430	0
-Panchora	2711	7323	430	0
+Panchora	2711	7323	430	0	Panchori
 Pānchmura	2297	8716	571	0
-Pāncamurā	2297	8716	571	0
+Pāncamurā	2297	8716	571	0	Pānchmura
 Pānchli Khurd	2896	7761	700	0
-Panchli	2896	7761	700	0
+Panchli	2896	7761	700	0	Pānchli Khurd
 Pānchla Sidda	2699	7327	430	0
-Pānchla	2699	7327	430	0
+Pānchla	2699	7327	430	0	Pānchla Sidda
 Pānchla	2598	7017	285	0
-Pānchela	2598	7017	285	0
+Pānchela	2598	7017	285	0	Pānchla
 Pānchgaon	2102	7917	141	0
 Panchgaon	1969	7950	111	0
 Pānchāvāda	2169	7189	168	0
 Panchatia	2286	6918	108	0
-Pānchati	2286	6918	108	0
+Pānchati	2286	6918	108	0	Panchatia
 Panchat	3134	7588	565	0
 Panchāsar	2342	7181	240	0
 Panchāsar	2280	7076	147	0
 Panchapalli	1246	7794	110	0
-Panjapalle	1246	7794	110	0
+Panjapalle	1246	7794	110	0	Panchapalli
 Panchanpur	2489	8486	118	0
 Panchānandapur	2485	8798	412	0
 Panchanai	2673	8840	573	0
-Panchanai Junction	2673	8840	573	0
+Panchanai Junction	2673	8840	573	0	Panchanai
 Panchamnagar	2495	8009	663	0
 Panchalingal	1641	7757	283	0
 Pānchāl	2323	8729	571	0
 Pānchagān	2018	8580	541	0
-Pānchādumar	2449	8354	326	0
+Pānchādumar	2449	8354	326	0	Pāchādumār
 Panchabhūti	1997	8487	440	0
-Panchabruti	1997	8487	440	0
+Panchabruti	1997	8487	440	0	Panchabhūti
 Pānbihār	2332	7576	314	0
 Panasapada	1971	8552	603	0
-Panaspada	1971	8552	603	0
+Panaspada	1971	8552	603	0	Panasapada
 Panāsa	2527	8205	607	0
 Panar	2082	7289	221	0
 Pānāpur	2522	8364	749	0
 Pānāmik	3478	7754	2	0
 Panapākkam	1350	7921	45	0
-Panapakam-chandragiri	1350	7921	45	0
-Panaipākkam	1350	7921	45	0
+Panapakam-chandragiri	1350	7921	45	0	Panapākkam
+Panaipākkam	1350	7921	45	0	Panapākkam
 Pānāgarh	2346	8745	642	0
-Panagur	2346	8745	642	0
+Panagur	2346	8745	642	0	Pānāgarh
 Pānadra	2368	6875	108	0
 Naushehra Pannuan	3134	7495	260	0
-Naushahra Panwān	3134	7495	260	0
+Naushahra Panwān	3134	7495	260	0	Naushehra Pannuan
 Mundha Pānde	2881	7894	511	0
 Garh Pānchkot	2360	8677	415	0
 Fatehgarh Panjtur	3105	7511	499	0
-Fatehgarh Panjtor	3105	7511	499	0
+Fatehgarh Panjtor	3105	7511	499	0	Fatehgarh Panjtur
 Bhawāni Pāngri	1998	7588	53	0
 Agar Panchaitan	1818	7299	17	0
 Pāndūsar	2855	7399	307	0
@@ -237,14 +237,14 @@ Pānchuria	2255	8849	4	0
 Pānākua	2239	8836	4	0
 Panchagram	2223	8824	4	0
 Panjan	3349	7419	1	0
-Panjani	3349	7419	1	0
+Panjani	3349	7419	1	0	Panjan
 Pannīwāla	3017	7396	731	0
 Panjāwa	3009	7396	3	0
 Pandpathri	3444	7481	120	0
 Pāndāchh	3419	7481	595	0
 Pānthachhok	3404	7489	611	0
-Pānthochhok	3404	7489	611	0
-Panjgirān	3343	7423	504	0
+Pānthochhok	3404	7489	611	0	Pānthachhok
+Panjgirān	3343	7423	504	0	Paingirān
 Pandār	3328	7406	504	0
 Panjua	3448	7417	0	0
 Pangāndpur	3418	7457	301	0
@@ -260,7 +260,7 @@ Paneahwāli Bāīn	3300	7452	581	0
 Pangiāri	3292	7468	581	0
 Panjor	3282	7472	581	0
 Panden	3318	7413	504	0
-Pāndwān	3318	7413	504	0
+Pāndwān	3318	7413	504	0	Panden
 Panduri	3304	7427	504	0
 Pandori	3308	7434	504	0
 Panhār	3316	7437	504	0
@@ -283,7 +283,7 @@ Dhāni Pāncherān	2856	7460	539	0
 Panjtāran	3436	7381	0	0
 Thanda Pāni	3431	7396	0	0
 Pandltwāri	3033	7799	448	0
-Pandltwāli	3033	7799	448	0
+Pandltwāli	3033	7799	448	0	Pandltwāri
 Panjokhra	2990	7702	457	0
 Panāhpur	2978	7720	449	0
 Pāndu Kheri	2970	7743	449	0
@@ -291,23 +291,23 @@ Pandaura	2960	7729	328	0
 Panwār Khera	2955	7742	328	0
 Pānīdhāl	2558	7554	353	0
 Panīāli	3124	7704	479	0
-Panyāli	3124	7704	479	0
+Panyāli	3124	7704	479	0	Panīāli
 Panoi	3123	7703	479	0
 Panjohi	3121	7702	479	0
-Panjail	3121	7702	479	0
-Panjaili	3121	7702	479	0
+Panjail	3121	7702	479	0	Panjohi
+Panjaili	3121	7702	479	0	Panjohi
 Panīhāna	3121	7705	479	0
-Panhyāna	3121	7705	479	0
+Panhyāna	3121	7705	479	0	Panīhāna
 Panjail Volīrān	3121	7705	479	0
 Panog	3118	7704	479	0
 Pangloha	3116	7703	479	0
-Pangloh	3116	7703	479	0
+Pangloh	3116	7703	479	0	Pangloha
 Panjeli	3115	7702	628	0
-Panjail	3115	7702	628	0
+Panjail	3115	7702	628	0	Panjeli
 Panjauti	3113	7706	479	0
-Panhech	3114	7708	479	0
+Panhech	3114	7708	479	0	Parhech
 Panti	3114	7711	479	0
-Panci	3114	7711	479	0
+Panci	3114	7711	479	0	Panti
 Panchāli	2999	7869	612	0
 Paniya	2992	7875	612	0
 Pantang	1725	7896	129	0
@@ -326,7 +326,7 @@ Rākh Panchampur	2483	7838	384	0
 Paniyārākhera	2488	7891	481	0
 Pānder	2465	7878	481	0
 Pandākhera	2451	7891	384	0
-Panda Pīpar	2451	7891	384	0
+Panda Pīpar	2451	7891	384	0	Pandākhera
 Panāri	2402	7891	352	0
 Pansotia	2782	7910	616	0
 Pankhi	2785	7907	117	0
@@ -375,14 +375,14 @@ Pangot	2943	7942	551	0
 Pānwāri	2649	8996	713	0
 Panthaghati	3107	7718	479	0
 Panpālīya	2840	7411	539	0
-Panūsar	2847	7428	539	0
+Panūsar	2847	7428	539	0	Punūsar
 Pānāri	2655	9184	747	0
 Pānigāon	2638	9279	656	0
 Pangkibot	2488	9347	558	0
 Pangara	2521	8046	525	0
 Panwāri	2504	8196	607	0
 Panjreh	2420	8267	631	0
-Panjrehe	2420	8267	631	0
+Panjrehe	2420	8267	631	0	Panjreh
 Panchāsara Nāna	2223	7012	145	0
 Pāngal	1625	7799	146	0
 Panmori	2414	7482	633	0
@@ -393,11 +393,11 @@ Panaiyapuram	1201	7954	202	0
 Pantavāripālem	1525	7999	200	0
 Pāndurangapālem	1583	8046	220	0
 Pannāngombunattam	1053	7839	270	0
-Pannāngomounattam	1053	7839	270	0
+Pannāngomounattam	1053	7839	270	0	Pannāngombunattam
 Pāngra	1953	7723	640	0
 Panambukad	1000	7627	176	0
 Vāyal Pāngri Buzurg	1972	7643	53	0
-Pāngri Buzurg	1972	7643	53	0
+Pāngri Buzurg	1972	7643	53	0	Vāyal Pāngri Buzurg
 Panjal	1072	7630	241	0
 Pāndūsar ki Dhāni	2858	7407	307	0
 Beniagram Panchayat	2477	8792	471	0
@@ -488,7 +488,7 @@ Pānikrāl	3130	7758	479	0
 Panoli	3128	7753	479	0
 Panori	3142	7767	479	0
 Panel	3135	7757	479	0
-Panog	3112	7753	479	0
+Panog	3112	7753	479	0	Pendrog
 Pāndli	3111	7754	479	0
 Pandrot	3104	7755	479	0
 Panūh	3098	7701	628	0
@@ -577,7 +577,7 @@ Khedi Pāndewār	2161	7846	337	0
 Pāndhari	2159	7833	462	0
 Pāndhari	2155	7838	133	0
 Pāndhardhākni	2128	7846	141	0
-Pānwādl	2133	7845	141	0
+Pānwādl	2133	7845	141	0	Rānwādi
 Pāndhri	2149	7846	141	0
 Pānjra	2108	7829	143	0
 Pānjra	2103	7839	143	0
@@ -603,7 +603,7 @@ Panwārwāla	2996	7424	3	0
 Panniwāli	2998	7481	585	0
 Panniwāli Ruldu	2988	7483	585	0
 Pāniyāna	2987	7486	585	0
-Pāna	2987	7486	585	0
+Pāna	2987	7486	585	0	Pāniyāna
 Pānarwa	2424	7329	22	0
 Panidli	2442	7334	22	0
 Samlai Panwa	2415	7340	22	0
@@ -674,7 +674,7 @@ Pancha ka Pura	2646	7787	478	0
 Panchhi ka Pura	2633	7775	478	0
 Pannu ka Pura	2632	7785	478	0
 Panchampura	2639	7793	478	0
-Panihār	2594	7829	484	0
+Panihār	2594	7829	484	0	Patha
 Pānchor	2578	7827	503	0
 Pāngarkhed	1991	7615	49	0
 Panjeta	3090	7608	674	0
@@ -708,7 +708,7 @@ Pāndarwādi	1883	7684	153	0
 Pāngri	1885	7684	153	0
 Pāndharwādi	1834	7688	158	0
 Pāndeka	2768	7706	114	0
-Panga Ka Nagla	2758	7764	177	0
+Panga Ka Nagla	2758	7764	177	0	Nagla Chamārān
 Pānīgaon	2756	7772	177	0
 Pandupur	2748	7759	177	0
 Panhīāri	2935	7605	339	0
@@ -825,7 +825,7 @@ Pānāthānwri	2180	7906	337	0
 Pānjra	2185	7916	337	0
 Panchgaon	2193	7920	337	0
 Pānjra	2197	7917	337	0
-Panjāb Rāo	2142	7901	141	0
+Panjāb Rāo	2142	7901	141	0	Khairi
 Panchshīlnagar	2117	7911	141	0
 Pāndrābāji	2114	7906	141	0
 Pāndūlna	2110	7918	141	0
@@ -939,7 +939,7 @@ Pāndāgaon	2264	7719	675	0
 Pānchor	2277	7728	675	0
 Panara	2486	7971	663	0
 Pāndepur Chak	2567	8302	32	0
-Pānde Ka Pura	2569	8314	498	0
+Pānde Ka Pura	2569	8314	498	0	Pura Agandh
 Pānde Atarkosa	2573	8317	498	0
 Pānkhīpur	2562	8318	26	0
 Pāndepur	2561	8321	26	0
@@ -975,7 +975,7 @@ Panhera	2090	7626	49	0
 Panuha	2554	7829	503	0
 Pāndepur Milki	2541	8331	724	0
 Pandukpur	2537	8327	724	0
-Pāndepur	2542	8346	724	0
+Pāndepur	2542	8346	724	0	Janamjepur
 Panditpura	2532	8349	724	0
 Panihāri	2528	7827	436	0
 Pānchpimpal	2074	7703	172	0
@@ -1019,7 +1019,7 @@ Panchāla	2016	7762	128	0
 Pandakheda	2125	7717	133	0
 Panaj	2114	7714	172	0
 Pāndra Khark	2125	7717	133	0
-Pāndhari	2116	7724	133	0
+Pāndhari	2116	7724	133	0	Māsmāpur
 Pāndri	2140	7730	133	0
 Pāndhari	2119	7735	133	0
 Pāndhari	2130	7766	133	0
@@ -1104,7 +1104,7 @@ Pandit ka Purwa	2549	8037	463	0
 Pandui	2538	8035	463	0
 Pānti	2446	8392	701	0
 Pāndedīh	2442	8384	743	0
-Pandichātoli	2442	8384	743	0
+Pandichātoli	2442	8384	743	0	Pāndedīh
 Panahpheri	2422	8379	743	0
 Pāndu	2433	8396	701	0
 Pāndhurna	2031	7789	67	0
@@ -1301,7 +1301,7 @@ Purwa Panchi	2613	8087	681	0
 Purwa Pāndan	2614	8091	681	0
 Purwa Pancham Singh	2616	8098	681	0
 Pāndepur	2614	8092	681	0
-Pansari	2905	7813	483	0
+Pansari	2905	7813	483	0	Paunsari
 Pānāpur	2958	7838	575	0
 Pandaria	2464	8240	201	0
 Pandri	2473	8247	201	0
@@ -1499,7 +1499,7 @@ Pande Purwa	2645	8139	662	0
 Pura Pandit	2633	8137	681	0
 Pandrāwān	2649	8143	662	0
 Panhona	2649	8146	662	0
-Panjābpura	2907	7892	511	0
+Panjābpura	2907	7892	511	0	Charanpura
 Pura Pandi	2640	8149	662	0
 Pānde Purwa	2631	8144	662	0
 Barkhera Pānde	2915	7897	511	0
@@ -1636,7 +1636,7 @@ Mazra Pānīwāra	2837	7841	646	0
 Pānīwāra	2836	7840	646	0
 Panwāri	2830	7843	646	0
 Panad	1985	7795	140	0
-Gola Pānde	2897	7868	511	0
+Gola Pānde	2897	7868	511	0	Sandalīpur
 Pandri Taluka Khamaria	2813	7994	683	0
 Panwāri	2801	7996	470	0
 Panchaguda	1896	7809	360	0
@@ -2030,7 +2030,7 @@ Panwār Kalān	2505	8134	516	0
 Panwār Khurd	2506	8135	516	0
 Pānde Purwa	2502	8142	516	0
 Pandit ka Purwa	2515	8140	643	0
-Panihal	2512	8150	516	0
+Panihal	2512	8150	516	0	Ghatia
 Panihāi	2514	8150	525	0
 Pandit Purwa	2696	8233	542	0
 Munnu Pānde	2690	8234	154	0
@@ -2368,7 +2368,7 @@ Rāwatpār Pānde	2622	8392	535	0
 Pāndepur	2625	8395	535	0
 Bamhnauli Pānde	2618	8396	535	0
 Pandipampula	1842	8015	237	0
-Pāndepur	2571	8371	26	0
+Pāndepur	2571	8371	26	0	Baryārpur Muāfī
 Pāntsāl	3332	7552	372	0
 Pāndaobārē	3326	7569	34	0
 Panganpalli	1874	8073	288	0
@@ -2433,14 +2433,14 @@ Purwa Pandit	2592	8178	718	0
 Purwa Pānde	2590	8178	718	0
 Pānti	2590	8183	718	0
 Pandwāsi	2588	8188	718	0
-Pandit ka Pura	2592	8184	718	0
+Pandit ka Pura	2592	8184	718	0	Pura Girjādatt
 Paniāri	2579	8190	718	0
 Panwārpur	2577	8196	718	0
 Pāncho Dīh	2590	8191	718	0
 Pānde ka Pura	2597	8192	718	0
 Panchkhara	2594	8196	718	0
 Pure Pangal	2578	8184	718	0
-Pandit ka Pura	2568	8180	607	0
+Pandit ka Pura	2568	8180	607	0	Bīrsinghpur
 Pandit ka Pura	2564	8180	607	0
 Pandīya	2560	8188	607	0
 Pandila Mahādeo	2555	8189	607	0
@@ -2454,7 +2454,7 @@ Pansāra	2533	8179	651	0
 Pāndar	2528	8175	607	0
 Panwar	2527	8182	607	0
 Panwar	2528	8181	607	0
-Panwaria	2529	8190	607	0
+Panwaria	2529	8190	607	0	Pura Ganesh
 Panchdevra	2528	8196	607	0
 Pura Pānde	2536	8190	607	0
 Pāndepura	2538	8197	607	0
@@ -2853,7 +2853,7 @@ Pandrāpānītola	2383	8371	743	0
 Pānd	3098	7771	479	0
 Panjah	3075	7757	534	0
 Panchāwal	2359	8369	341	0
-Panchārundi	2379	7604	347	0
+Panchārundi	2379	7604	347	0	Bhīmlod
 Pān Kheri	2376	7624	347	0
 Pānsa	3009	7762	449	0
 Pānchoparwā	2387	8398	701	0
@@ -3487,7 +3487,7 @@ Pandra	2859	7959	342	0
 Pandri Muttasil Baraur	2860	7959	342	0
 Pandri Naumahla	2844	7959	342	0
 Pandauli	2832	7963	342	0
-Pandri	2845	7960	342	0
+Pandri	2845	7960	342	0	Ināyetpur
 Katayya Pandrī	2885	7981	783	0
 Pansauri	2865	7976	683	0
 Jangrauli Pāndī	2856	7981	683	0
@@ -3534,7 +3534,7 @@ Pānrepur	2546	8417	620	0
 Pandwā	2417	8406	701	0
 Paneribāndh	2403	8404	701	0
 Pāndepura	2412	8420	701	0
-Pānde Dabrā	2406	8421	701	0
+Pānde Dabrā	2406	8421	701	0	Sotam Dabrā
 Pānrepur	2517	8405	409	0
 Panaila	2513	8400	409	0
 Panrwa Sonādih	2513	8404	409	0
@@ -3657,7 +3657,7 @@ Pandeya	2467	8542	107	0
 Pāndedih	2462	8539	107	0
 Panwān Kalān	2457	8548	107	0
 Pandariā	2441	8531	764	0
-Pandni	2428	8527	393	0
+Pandni	2428	8527	393	0	Chandni
 Pandarhalli	1416	7632	255	0
 Pansālatola	2500	8552	107	0
 Pānde Bigha	2485	8554	107	0
@@ -3787,7 +3787,7 @@ Pānsarwa	2559	8767	625	0
 Pānki Milik	2600	8780	613	0
 Pandria	2505	8759	461	0
 Pandeni Bedo	2500	8765	461	0
-Panek	2501	8767	461	0
+Panek	2501	8767	461	0	Tulme
 Pangdo	2520	8769	461	0
 Pānisadra	2587	8776	613	0
 Pānchpīr	2580	8793	610	0
@@ -3858,7 +3858,7 @@ Pandarwa	2766	8024	686	0
 Pandit Purwa	2728	8005	686	0
 Pandit Purwa	2734	8014	686	0
 Pandit Purwa	2733	8016	686	0
-Pandit Purwa	2745	8016	686	0
+Pandit Purwa	2745	8016	686	0	Parbatpur
 Panna Purwa	2750	8011	686	0
 Pandit Purwa	2746	8024	686	0
 Panuān Bār	2726	8022	686	0
@@ -3893,7 +3893,7 @@ Panasamākulapalle	1357	7845	195	0
 Pandivārapalli	1344	7834	47	0
 Pandivāripalle	1348	7846	195	0
 Panasamanukunta	1346	7842	195	0
-Panchalingālakottūr	1342	7864	214	0
+Panchalingālakottūr	1342	7864	214	0	Kottapalle
 Pandillapalle	1343	7872	214	0
 Panjānipalle	1341	7868	214	0
 Panditan Agrahār	1288	7783	43	0
@@ -4388,9 +4388,9 @@ Panakkarai	984	7873	454	0
 Panangudi	974	7858	454	0
 Pandimagarandai	971	7869	454	0
 Pānanodai	968	7858	454	0
-Panada	968	7858	454	0
+Panada	968	7858	454	0	Pānanodai
 Panchati	966	7874	454	0
-Panchavayal	966	7874	454	0
+Panchavayal	966	7874	454	0	Panchati
 Pandivalasai	946	7864	5	0
 Pandiyūr	948	7873	5	0
 Panaiyadiyendal	937	7854	5	0
@@ -4438,7 +4438,7 @@ Panaiyampālaiyam	1084	7798	445	0
 Pannappatti	1071	7796	445	0
 Panangāttupudūr	1066	7778	187	0
 Panayangal	1171	7907	390	0
-Pāndayarpattu	1160	7910	178	0
+Pāndayarpattu	1160	7910	178	0	Kottanūr
 Panjampatti	1049	7792	187	0
 Pannabpatti	1047	7794	187	0
 Pannappatti	1041	7781	187	0

@@ -2,26 +2,26 @@ Makrāna	2704	7472	430	94487
 Panipat Taraf Makhdum Zadgan	2942	7699	298	67998
 Makhdumpur	2507	8497	527	31994
 Makronia	2385	7880	352	23861
-Makronia Buzurg	2385	7880	352	23861
+Makronia Buzurg	2385	7880	352	23861	Makronia
 Maksi	2326	7615	320	20094
-Mākundgarh	2795	7522	300	18469
-Makranifali	2155	7402	186	17840
+Mākundgarh	2795	7522	300	18469	Mukandgarh
+Makranifali	2155	7402	186	17840	Akalkuva
 Mākum	2749	9544	460	16923
-Makum-Junction	2749	9544	460	16923
+Makum-Junction	2749	9544	460	16923	Mākum
 Makhu	3110	7500	566	14658
 Makron	2351	7607	314	11678
-Makrone	2351	7607	314	11678
-Makdon	2351	7607	314	11678
+Makrone	2351	7607	314	11678	Makron
+Makdon	2351	7607	314	11678	Makron
 Maktampur	2171	7301	151	10704
 Mākhjan	1727	7350	234	10000
 Mākkināyakkinpatti	1064	7703	156	8134
-Makkinampatti	1064	7703	156	8134
+Makkinampatti	1064	7703	156	8134	Mākkināyakkinpatti
 Aish Maqām	3387	7528	148	6519
 Makundapur	1961	8468	440	4983
-Makgardba	2286	7662	675	0
+Makgardba	2286	7662	675	0	Siddīkganj
 Kasba Maker	2596	8503	540	0
-Maker	2596	8503	540	0
-Makandpur	3060	7663	564	0
+Maker	2596	8503	540	0	Kasba Maker
+Makandpur	3060	7663	564	0	Mānakpur
 Maksudangarh	2406	7725	336	0
 Makrohar	2390	8265	631	0
 Mākri	1978	8191	659	0
@@ -38,15 +38,15 @@ Mākhi	2666	8047	312	0
 Makhera	2482	7500	655	0
 Makhdūmnagar	2645	8277	553	0
 Makhdūmnagar	2403	8763	361	0
-Makhar	2816	7554	300	0
+Makhar	2816	7554	300	0	Ratanshahr
 Makeng	2511	9403	489	0
 Mākariāgāon	2611	9233	751	0
 Makardhokrā	2087	7922	141	0
 Makarachal	1020	7671	176	0
 Makanpur	2690	7998	469	0
 Chhaigaon Mākhan	2183	7622	209	0
-Chhegaon Mākhan	2183	7622	209	0
-Makuol	2492	9335	558	0
+Chhegaon Mākhan	2183	7622	209	0	Chhaigaon Mākhan
+Makuol	2492	9335	558	0	Atengba
 Mākhālpur	2293	8816	279	0
 Makahom	3407	7459	76	0
 Makhiāl	3278	7472	581	0
@@ -62,7 +62,7 @@ Makhāla	2994	7715	457	0
 Mākhu Mājra	2978	7706	457	0
 Makhsuspur	2808	7605	694	0
 Mākari	3120	7702	479	0
-Mākri	3120	7702	479	0
+Mākri	3120	7702	479	0	Mākari
 Makri	3119	7702	479	0
 Makarājpet	1795	7852	400	0
 Makhdūmpur	1781	7841	400	0
@@ -78,7 +78,7 @@ Makka Purwa	2704	7982	570	0
 Makrandnagar	2704	7991	570	0
 Makku Purwa	2706	8000	686	0
 Nagla Makund	2698	7901	464	0
-Makundpura	2697	7917	290	0
+Makundpura	2697	7917	290	0	Mukandpur
 Makhanpur	2688	7911	290	0
 Maktaura	2636	7930	741	0
 Makrandpura	2609	7942	741	0
@@ -99,7 +99,7 @@ Purwa Makka	2654	7991	671	0
 Makhanpura	2452	7918	663	0
 Maqbara	2500	7948	663	0
 Maklibāri	2407	9140	744	0
-Mākliban	2407	9140	744	0
+Mākliban	2407	9140	744	0	Maklibāri
 Makrandpur	2609	8008	525	0
 Mākhanpur	2605	8593	591	0
 Makdala	2427	7175	134	0
@@ -125,16 +125,16 @@ Makhaur	3029	7726	88	0
 Makrāna	3063	7760	534	0
 Makreta	2733	7690	482	0
 Mākhri	3063	7792	448	0
-Alipur Mākhan	2946	7813	575	0
+Alipur Mākhan	2946	7813	575	0	Lāiqpur
 Makarandpur	2931	7823	575	0
 Makandpur	2955	7821	575	0
 Makhūwāla	2975	7821	596	0
 Makalpur	2367	7886	352	0
-Maqsūdanpura	2626	7653	116	0
+Maqsūdanpura	2626	7653	116	0	Gehunwāpura
 Makhtot	2688	7679	447	0
 Makatpura	2606	7688	525	0
 Makhmulpur	2934	7732	328	0
-Makarmatpur	2906	7732	477	0
+Makarmatpur	2906	7732	477	0	Nagla
 Makbara	2972	7769	449	0
 Makrandhāna	2243	7869	337	0
 Makarkund	2256	7878	337	0
@@ -240,7 +240,7 @@ Makrāra	2526	7748	436	0
 Kari Makwāpur	2782	7989	470	0
 Nigauna Makrandpur	2784	7997	470	0
 Makrauda	2475	7728	336	0
-Makbūlpur	2736	7898	464	0
+Makbūlpur	2736	7898	464	0	Gangūpura
 Maktam Tānda	1771	7948	182	0
 Makhdūmnagar	2786	7846	543	0
 Maqsūdpur	2756	7835	711	0
@@ -271,7 +271,7 @@ Makhdūmpur	2559	8206	607	0
 Makhdūmpur	2592	8280	498	0
 Maqbūlpur	2591	8292	498	0
 Makarsand	2564	8307	26	0
-Maqbūlpur	2570	8308	498	0
+Maqbūlpur	2570	8308	498	0	Rāmnagar
 Makhdūmpur	2564	8322	26	0
 Maqsūdpur	2560	8320	26	0
 Makhdūm Chak	2554	8323	26	0
@@ -376,11 +376,11 @@ Makrīpur	2561	8299	32	0
 Makrā	2556	8278	32	0
 Makhdumpur	2600	8099	728	0
 Maqbūlpur	2916	7803	700	0
-Porbatpur Makhdūmpur	2961	7838	575	0
+Porbatpur Makhdūmpur	2961	7838	575	0	Mahābatpur Baloch
 Makhdūmpur	2957	7844	575	0
 Hāmidpur Mākhan	2952	7828	575	0
 Makhwāra	2951	7835	575	0
-Hīmpur Makhdūra Jahān	2950	7841	575	0
+Hīmpur Makhdūra Jahān	2950	7841	575	0	Satārwāla
 Purwa Makkā Singh	2777	8114	507	0
 Purwa Makka	2779	8121	323	0
 Mākhu Behar	2774	8108	507	0
@@ -473,16 +473,16 @@ Makhanpur	2602	8180	718	0
 Makrandpur	2865	7883	511	0
 Makunahwān	2758	8213	280	0
 Maknahwa	2769	8214	280	0
-Makula	2811	7890	117	0
+Makula	2811	7890	117	0	Mishrīpur
 Makrandpur	2821	7899	117	0
 Mākhīdhār	3331	7471	666	0
 Pura Makhdūm Bakhsh	2732	8211	542	0
 Makhna	2742	8221	280	0
-Mākhūpur	2547	8136	651	0
+Mākhūpur	2547	8136	651	0	Sharīfpur
 Makhdūmpur	2546	8136	651	0
 Makhdūmpur Doksāha	2535	8143	651	0
 Bhaila Makhdümpur	2550	8144	651	0
-Bhaila Makhduempur	2550	8144	651	0
+Bhaila Makhduempur	2550	8144	651	0	Bhaila Makhdümpur
 Maksūdpur	2728	8235	280	0
 Makul Dīh	2719	8238	280	0
 Makhan Jot	2712	8248	542	0
@@ -522,7 +522,7 @@ Chamrauti Makoha	2625	8259	597	0
 Makuia Khardeora	2695	8252	542	0
 Mākpur	2690	8264	154	0
 Purwa Makrandpur	2678	8264	154	0
-Goan Makrand	2658	8252	553	0
+Goan Makrand	2658	8252	553	0	Bhagwānpur
 Makhdūmnagar	2658	8260	553	0
 Makundpur	2656	8260	553	0
 Sarāi Makhdūm	2652	8259	553	0
@@ -720,7 +720,7 @@ Makuri	3105	7790	89	0
 Mākarbilli	2034	8257	594	0
 Mākarbilli	2033	8256	594	0
 Makhāpadar	2012	8275	594	0
-Makhātu	2390	8363	743	0
+Makhātu	2390	8363	743	0	Kudwuriā
 Makhrāndi	3089	7767	479	0
 Makkigadde	1434	7477	59	0
 Chik Mākoppa	1443	7498	346	0
@@ -757,7 +757,7 @@ Makhdūmpur	2640	8163	662	0
 Makhdūmpur	2643	8168	662	0
 Makhdūmpur	2601	8157	718	0
 Makhdūmpur	2617	8161	681	0
-Makhdūmpur	2614	8160	718	0
+Makhdūmpur	2614	8160	718	0	Karimanpur
 Makhdūmgarh	2610	8162	718	0
 Makānpur	2610	8169	662	0
 Mākāram	1762	8203	268	0
@@ -778,7 +778,7 @@ Makdogūda	1881	8228	316	0
 Makdogūda	1880	8232	316	0
 Makkiput	1852	8244	316	0
 Makāpadar	1916	8305	363	0
-Makarjolla	1910	8306	363	0
+Makarjolla	1910	8306	363	0	Mankadajolla
 Makaligūda	1839	8225	109	0
 Makarapata	1959	8398	252	0
 Makkidi	1879	8311	316	0

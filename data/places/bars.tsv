@@ -1,14 +1,14 @@
 Barshi	1823	7569	132	118722
 Barsāna	2765	7738	177	9815
 Barsur	1914	8138	406	6636
-Barsalpur	2819	7224	307	0
+Barsalpur	2819	7224	307	0	Birsilpur
 Bharsūla	2445	7718	336	0
-Bharsal	2445	7718	336	0
-Bharsul	2445	7718	336	0
+Bharsal	2445	7718	336	0	Bharsūla
+Bharsul	2445	7718	336	0	Bharsūla
 Bārsoi	2562	8792	625	0
 Bārsi Tākli	2058	7707	172	0
 Barsinghsar	2782	7320	307	0
-Barsisar	2782	7320	307	0
+Barsisar	2782	7320	307	0	Barsinghsar
 Barsinghpur	2632	8233	597	0
 Bar Sālāiya	2264	7916	337	0
 Bārsu	3424	7472	595	0
@@ -23,7 +23,7 @@ Barsera	2695	7921	290	0
 Barsesi	2601	7930	741	0
 Barsan	2521	7163	285	0
 Barsat	2427	7715	336	0
-Barsaj	2427	7715	336	0
+Barsaj	2427	7715	336	0	Barsat
 Barshaini	3200	7744	680	0
 Barsāna	2972	7660	638	0
 Barsāna	2859	7612	781	0
@@ -44,7 +44,7 @@ Bhārsingi	2136	7845	141	0
 Barsoliya	2525	7474	309	0
 Barsering	3141	7830	83	0
 Barser Sikandarpur	2844	7907	342	0
-Barsāt	2480	7700	336	0
+Barsāt	2480	7700	336	0	Kānsal
 Bārsewāda	1965	8018	135	0
 Barsaro ki Dhani	2805	7560	300	0
 Barsari ka Bās	2822	7577	300	0
@@ -97,9 +97,9 @@ Barsarā	2583	8089	728	0
 Barsara	2596	8256	32	0
 Barsathi	2558	8251	32	0
 Bharsat	2551	8263	32	0
-Bharsara	2572	8269	32	0
+Bharsara	2572	8269	32	0	Rāmnagar
 Barsobha	2447	8015	532	0
-Bharsahta	2529	8259	583	0
+Bharsahta	2529	8259	583	0	Misrān
 Barsaita	2502	8256	201	0
 Barsaita	2490	8248	201	0
 Barsota	2472	8285	103	0

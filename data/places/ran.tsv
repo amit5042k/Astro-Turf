@@ -1,38 +1,38 @@
 Ranchi	2334	8531	562	1120374
 Rānipet	1292	7933	160	264330
-Rānippettai	1292	7933	160	264330
+Rānippettai	1292	7933	160	264330	Rānipet
 Rāniganj	1743	7849	424	217910
 Rānīganj	2362	8713	642	131261
 Ranebennur	1462	7563	92	106406
-Rānībennur	1462	7563	92	106406
-Ranebennuru	1462	7563	92	106406
+Rānībennur	1462	7563	92	106406	Ranebennur
+Ranebennuru	1462	7563	92	106406	Ranebennur
 Rānāghāt	2318	8857	528	70984
 Rānāvāv	2169	6974	742	46018
-Rānāwāo	2169	6974	742	46018
+Rānāwāo	2169	6974	742	46018	Rānāvāv
 Ranjangaon S	1984	7521	113	42877
 Rangat	1251	9292	99	38824
 Shafi Pur Ranhola	2866	7704	771	31944
 Rangia	2645	9161	636	27889
-Rangiya	2645	9161	636	27889
-Rangā Nadī	2645	9161	636	27889
+Rangiya	2645	9161	636	27889	Rangia
+Rangā Nadī	2645	9161	636	27889	Rangia
 Rānia	2952	7484	585	25123
-Raniya	2952	7484	585	25123
+Raniya	2952	7484	585	25123	Rānia
 Malakpur Kohi Rangpur	2854	7712	721	23726
 Rānikhet	2964	7943	429	19873
 Rānīpur	2525	7906	433	18820
 Rangāpāra	2684	9267	356	18739
 Rānpur	2235	7171	370	16944
-Ranpur Kathiawar	2235	7171	370	16944
+Ranpur Kathiawar	2235	7171	370	16944	Rānpur
 Rāni Khera	2871	7703	689	16402
-Ranpur	2107	8434	567	15379
+Ranpur	2107	8434	567	15379	Rāmpur
 Rāni	2535	7331	273	13880
 Rānīr Bāzār	2383	9137	744	13104
 Rānāpur	2265	7452	348	12371
 Ranoli	2240	7314	159	11726
 Rangpo	2718	8853	739	10450
 Rāja Ranapur	2006	8534	548	10001
-Ranpur	2006	8534	548	10001
-Ranapurgada	2006	8534	548	10001
+Ranpur	2006	8534	548	10001	Rāja Ranapur
+Ranapurgada	2006	8534	548	10001	Rāja Ranapur
 Rāipur Rāni	3059	7702	587	9028
 Ran	2218	6933	131	8648
 Rangapahār	2586	9371	42	6673
@@ -42,7 +42,7 @@ Rāniwāra	2475	7221	343	2324
 Talwandi Rāna	2922	7576	339	0
 Sarāi Rāni	2600	8310	498	0
 Ranyad	1889	7291	17	0
-Rānvād	1889	7291	17	0
+Rānvād	1889	7291	17	0	Ranyad
 Rānveri	2102	7327	127	0
 Ranuj	2376	7222	240	0
 Ransigaon	2636	7375	344	0
@@ -54,23 +54,23 @@ Rānpur	2184	6968	131	0
 Rānpur	2157	7067	185	0
 Ranod	2507	7788	436	0
 Rankā Kalān	2399	8379	743	0
-Ranka	2399	8379	743	0
+Ranka	2399	8379	743	0	Rankā Kalān
 Ranjitpura	2802	7212	307	0
 Ranjankhar	1881	7293	17	0
 Rānjani	1965	7612	53	0
-Ranjni	1965	7612	53	0
+Ranjni	1965	7612	53	0	Rānjani
 Ranjangudi	1135	7894	265	0
 Ranjangaon Ganpati	1875	7424	52	0
-Ranjangaon Ganpat	1875	7424	52	0
+Ranjangaon Ganpat	1875	7424	52	0	Ranjangaon Ganpati
 Ranjangaon	1889	7459	152	0
-Ranjngaon	1889	7459	152	0
+Ranjngaon	1889	7459	152	0	Ranjangaon
 Ranjāmba	2100	7351	127	0
-Rāniāniba	2100	7351	127	0
+Rāniāniba	2100	7351	127	0	Ranjāmba
 Rāni Unchegaon	1964	7596	53	0
 Ranītāli	2432	8308	103	0
-Rāni Tāl	2432	8308	103	0
+Rāni Tāl	2432	8308	103	0	Ranītāli
 Rāni Sāwargaon	1885	7687	153	0
-Ranisavergaon	1885	7687	153	0
+Ranisavergaon	1885	7687	153	0	Rāni Sāwargaon
 Rānisar	2895	7461	486	0
 Rāni Sāgar	2561	8436	377	0
 Rānipura	2563	7573	353	0
@@ -80,7 +80,7 @@ Rānīpathār	2057	8437	387	0
 Rānikhata	2663	9038	357	0
 Rāni Jot	2701	8236	542	0
 Rāniguda	1895	8267	316	0
-Rānīgurha	1895	8267	316	0
+Rānīgurha	1895	8267	316	0	Rāniguda
 Rānīgohān	2132	7679	133	0
 Rānigodām	2604	9158	636	0
 Rānigaon	2709	7443	430	0
@@ -102,17 +102,17 @@ Rangpur	2292	7090	147	0
 Rangli	2720	8870	739	0
 Rangku	2835	9472	40	0
 Rangjoli	2597	9094	458	0
-Rangjuli	2597	9094	458	0
+Rangjuli	2597	9094	458	0	Rangjoli
 Rangini	2072	8693	702	0
 Ranghola	2176	7168	168	0
 Rangazūmi	2596	9402	42	0
 Rangawān	2469	7987	663	0
 Rangārwāsni	2109	7748	133	0
-Rangāswāsni	2109	7748	133	0
+Rangāswāsni	2109	7748	133	0	Rangārwāsni
 Rangāpuram	1541	7807	232	0
 Rangapāni	2632	9078	746	0
 Rangampettai	1300	7874	189	0
-Rangampett	1795	7812	400	0
+Rangampett	1795	7812	400	0	Bangampet
 Rangamāti	2681	8946	602	0
 Rāngāmāti	2638	9197	747	0
 Rangāgora	2757	9530	460	0
@@ -126,13 +126,13 @@ Randisar	2812	7289	307	0
 Randhikpur	2297	7396	173	0
 Rāndhia	2171	7115	216	0
 Randha Nana	2030	7315	233	0
-Nana Randha	2030	7315	233	0
-Randá Pequeno	2030	7315	233	0
-Randhu Nāni	2030	7315	233	0
+Nana Randha	2030	7315	233	0	Randha Nana
+Randá Pequeno	2030	7315	233	0	Randha Nana
+Randhu Nāni	2030	7315	233	0	Randha Nana
 Randha Moti	2031	7314	233	0
-Mota Randha	2031	7314	233	0
-Randá	2031	7314	233	0
-Rāndhu Moti	2031	7314	233	0
+Mota Randha	2031	7314	233	0	Randha Moti
+Randá	2031	7314	233	0	Randha Moti
+Rāndhu Moti	2031	7314	233	0	Randha Moti
 Rānder	2122	7280	139	0
 Rānchra	2230	8438	272	0
 Ranbīrsinghpura	3261	7473	581	0
@@ -143,26 +143,26 @@ Ranāwāla	2859	7290	307	0
 Rānāsar	2585	7072	285	0
 Ranāsan	2346	7311	212	0
 Rānāpur	2193	7325	151	0
-Ranjapur	2193	7325	151	0
+Ranjapur	2193	7325	151	0	Rānāpur
 Rana Pratap Sāgar	2495	7563	417	0
 Ranāu	2765	7046	217	0
-Ranāo	2765	7046	217	0
+Ranāo	2765	7046	217	0	Ranāu
 Ranāla	2134	7440	186	0
 Ranagadh	2277	7199	28	0
 Ranaba	1987	8443	387	0
 Mau Rānīpur	2524	7913	433	0
 Rane Chak	3282	7472	581	0
 Rānāsar Bīkān	2833	7455	539	0
-Rānāsar	2833	7455	539	0
+Rānāsar	2833	7455	539	0	Rānāsar Bīkān
 Rāngheri	2890	7498	539	0
-Rangarri	2890	7498	539	0
+Rangarri	2890	7498	539	0	Rāngheri
 Ranimpur	2275	8801	279	0
 Ranāghāta	2214	8843	4	0
 Rāngāfala	2201	8822	4	0
 Khairpur Rānoka	3009	7384	374	0
 Rangwār	3428	7498	595	0
 Randori	3439	7480	120	0
-Rangdori	3439	7480	120	0
+Rangdori	3439	7480	120	0	Randori
 Rangyil	3421	7481	595	0
 Rangrath	3401	7480	76	0
 Rangawār	3430	7413	0	0
@@ -171,22 +171,22 @@ Chak Ranbergad Partāpgad	3413	7466	301	0
 Rangwār	3450	7445	0	0
 Rangpur	3278	7460	581	0
 Ranjāl	3325	7415	504	0
-Ranjāli	3325	7415	504	0
+Ranjāli	3325	7415	504	0	Ranjāl
 Rāni	3322	7425	504	0
 Ranthal	3315	7449	504	0
 Ranwāla Andarwāla	3376	7431	1	0
 Ranjhān	3294	7442	581	0
-Raninān	3294	7442	581	0
+Raninān	3294	7442	581	0	Ranjhān
 Rangāni	3297	7478	581	0
 Rānjan	3288	7479	581	0
 Thāt Rānjan	3289	7476	581	0
 Rānwān	3071	7601	674	0
 Rangpur Trewa	3250	7477	581	0
 Ranjīpura	3252	7488	581	0
-Ranjītpur	3252	7488	581	0
+Ranjītpur	3252	7488	581	0	Ranjīpura
 Rānjri	3260	7498	720	0
 Ranjītpur	3273	7481	581	0
-Rangura	3274	7490	581	0
+Rangura	3274	7490	581	0	Ragūra
 Rangwar	3451	7394	0	0
 Rangwār	3445	7398	0	0
 Rānīgarh	3043	7795	448	0
@@ -209,7 +209,7 @@ Rangarajapuram	1301	8023	204	0
 Ranakpur	2511	7347	273	0
 Ranjītkakar ki Dhāni	2896	7565	339	0
 Ranjītgarh	3051	7611	564	0
-Randhāwa	3057	7608	674	0
+Randhāwa	3057	7608	674	0	Bharthala
 Kheri Rānma	3023	7652	564	0
 Rānteya	2510	7888	481	0
 Rānīganj	2508	7881	529	0
@@ -248,7 +248,7 @@ Rānītāl	2455	7942	663	0
 Ranila	2871	7636	781	0
 Rangampet	1653	7677	72	0
 Rāntalodhi	2023	7945	111	0
-Ranfaradi	2023	7945	111	0
+Ranfaradi	2023	7945	111	0	Rāntalodhi
 Ranaikāpa	2294	8137	225	0
 Ranthambhor	2331	7637	320	0
 Ranjangaon	2042	7505	78	0
@@ -275,7 +275,7 @@ Ranichak	2262	8781	677	0
 Rani Talab	2525	8704	411	0
 Langha Range	3035	7775	448	0
 Rāna Kheri	2927	7661	485	0
-Rāngharān	2955	7681	457	0
+Rāngharān	2955	7681	457	0	Bāl
 Ranekpura	2891	7658	719	0
 Maraudhi Rāngharān	2883	7652	719	0
 Ransi Mājri	2801	7655	519	0
@@ -334,7 +334,7 @@ Rānīkhera	2763	7673	482	0
 Rānīpur	3042	7733	88	0
 Ranjītpur	3043	7735	88	0
 Ranpatwāla	3049	7748	534	0
-Rāngharan	3015	7725	88	0
+Rāngharan	3015	7725	88	0	Kheri
 Randār	3061	7765	534	0
 Rāna	3070	7762	534	0
 Rangwa	3062	7773	534	0
@@ -825,11 +825,11 @@ Rāna Khera	2613	8077	681	0
 Purwa Ranjit Singh	2615	8091	681	0
 Rānipur	2621	8095	681	0
 Purwa Rānāsāhib	2615	8098	681	0
-Ranjitpur	2967	7827	575	0
-Rānīpur	2964	7834	575	0
+Ranjitpur	2967	7827	575	0	Tānda
+Rānīpur	2964	7834	575	0	Shaupuri
 Rānīpur	2957	7832	575	0
 Rāni Kota	2956	7841	575	0
-Mirzāpur Rangela	2953	7832	575	0
+Mirzāpur Rangela	2953	7832	575	0	Paimār
 Randāwāla	2940	7835	575	0
 Purwa Ranjit Singh	2793	8106	323	0
 Ranjītganj	2793	8114	323	0
@@ -993,7 +993,7 @@ Rāni Katra	2617	8176	662	0
 Rānipur	2611	8189	662	0
 Purwa Ranjīt	2606	8178	662	0
 Purwa Rāni	2603	8192	718	0
-Milak Raniāther	2874	7894	511	0
+Milak Raniāther	2874	7894	511	0	Hīrāpur
 Raniāther	2873	7894	511	0
 Ranjāti	3366	7436	1	0
 Purwa Rāni	2774	8202	618	0
@@ -1059,7 +1059,7 @@ Purwa Ranjīt Singh	2671	8208	629	0
 Rānitāra	2634	8200	597	0
 Rangadab	3358	7489	35	0
 Ranipur Käshpur	3369	7491	678	0
-Ranipur Kaeshpur	3369	7491	678	0
+Ranipur Kaeshpur	3369	7491	678	0	Ranipur Käshpur
 Chak Ranbērpōr	3359	7491	35	0
 Rānīganj	2624	8205	597	0
 Rānīganj	2601	8204	718	0
@@ -1161,7 +1161,7 @@ Tola Rāni	2698	8339	515	0
 Rānipur	2653	8340	325	0
 Rānidīha	2672	8344	325	0
 Rāni Beg	2672	8337	325	0
-Bāgh Rāni	2672	8337	325	0
+Bāgh Rāni	2672	8337	325	0	Rāni Beg
 Rānipur	2648	8325	325	0
 Rānipur	2629	8328	498	0
 Rānipur Suthni	2636	8335	325	0
@@ -1362,8 +1362,8 @@ Rangiān	3070	7660	632	0
 Rangiān	3054	7657	564	0
 Ranjītpura	2587	7481	309	0
 Rāniāwās	2694	7598	121	0
-Ranjītkatel	2118	8281	407	0
-Rānisāgar	2120	8286	407	0
+Ranjītkatel	2118	8281	407	0	Dūmardhāb
+Rānisāgar	2120	8286	407	0	Nānaksāgar
 Rānipartiya	2089	8215	297	0
 Ranhog	3101	7703	628	0
 Raniār Gūjarwāli	2304	7417	173	0
@@ -1380,8 +1380,8 @@ Ranyāt	3078	7765	534	0
 Ranwa	3077	7755	534	0
 Rānīpura	2409	7978	532	0
 Rānīpura	2420	7994	532	0
-Rānghar	3003	7752	449	0
-Rānghar	3004	7756	449	0
+Rānghar	3003	7752	449	0	Sultānpur Datauli
+Rānghar	3004	7756	449	0	Kolki
 Randaul	3010	7758	449	0
 Rankā Khurd	2400	8377	743	0
 Ranāira ka Khera	2358	7603	347	0
@@ -1496,7 +1496,7 @@ Rangsingipādu	1809	8278	268	0
 Rangsingi	1802	8279	268	0
 Rangāpuram	1695	8107	24	0
 Rangampeta	1680	8103	24	0
-Rangamdorapālem	1745	8206	268	0
+Rangamdorapālem	1745	8206	268	0	Venkatanagaram
 Rangampeta	1717	8204	269	0
 Rangāpuram	1700	8204	87	0
 Rangasingi	1787	8239	268	0
@@ -1643,7 +1643,7 @@ Rānīpur Nizāmat	2657	8408	703	0
 Sumāhi Rāni	2670	8424	560	0
 Rānighāt	2638	8400	535	0
 Rānīpur	2645	8408	703	0
-Bhatpar Rani	2631	8403	535	0
+Bhatpar Rani	2631	8403	535	0	Bhatpār
 Rāni Sariswa	2638	8421	703	0
 Rānigari	2624	8402	639	0
 Rankot	2986	7986	722	0
@@ -1848,7 +1848,7 @@ Rangikatti	1400	7454	59	0
 Rangībighā	2461	8438	137	0
 Ranubighā	2473	8443	137	0
 Rangābighā	2466	8448	137	0
-Rāni Bigha	2489	8483	118	0
+Rāni Bigha	2489	8483	118	0	Beli
 Rānāpur	2476	8480	118	0
 Rāni Bigha	2482	8490	118	0
 Rāni Bigha	2490	8485	118	0
@@ -2223,7 +2223,7 @@ Rānisāl	2189	8530	272	0
 Rangalbedha	2182	8549	293	0
 Rangalbedha	2183	8550	293	0
 Rāngādih	2153	8540	293	0
-Ranabijuli	2139	8537	293	0
+Ranabijuli	2139	8537	293	0	Chandrashekharpur
 Rānki	2131	8546	293	0
 Rangathali	2102	8529	289	0
 Rānibedā	2117	8547	293	0
@@ -2253,7 +2253,7 @@ Rānigadar	2474	8593	107	0
 Rāngāmāti	2470	8599	452	0
 Rānga Māti	2450	8595	452	0
 Rāngamāti	2450	8596	452	0
-Ranginiātānr	2440	8578	473	0
+Ranginiātānr	2440	8578	473	0	Bishunpur
 Rānādih	2459	8608	452	0
 Rānigādar	2452	8607	452	0
 Rānipinda	2409	8612	452	0

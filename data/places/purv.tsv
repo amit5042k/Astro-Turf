@@ -15,7 +15,7 @@ Chhanga Purwa	2721	7980	686	0
 Lānsāi Purwa	2720	7981	686	0
 Khuramsingh Purwa	2720	7981	686	0
 Khajūria Purwa	2720	7981	686	0
-Khajāria Purwa	2720	7981	686	0
+Khajāria Purwa	2720	7981	686	0	Khajūria Purwa
 Āsa Purwa	2720	7982	686	0
 Kālika Purwa	2718	7983	686	0
 Tiwārin Purwa	2720	7980	686	0
@@ -113,7 +113,7 @@ Maiku Purwa	2708	7980	570	0
 Hardeo Purwa	2710	7978	570	0
 Masīd Purwa	2710	7977	570	0
 Uman Purwa	2707	7978	570	0
-Umon Purwa	2707	7978	570	0
+Umon Purwa	2707	7978	570	0	Uman Purwa
 Khuram Purwa	2707	7978	570	0
 Lalai Purwa	2707	7978	570	0
 Ghāsi Purwa	2708	7979	570	0
@@ -142,7 +142,7 @@ Badle Purwa	2707	7984	570	0
 Niwāzi Purwa	2706	7987	570	0
 Misran Purwa	2705	7984	570	0
 Kherna Purwa	2705	7988	570	0
-Khema Purwa	2705	7988	570	0
+Khema Purwa	2705	7988	570	0	Kherna Purwa
 Moti Purwa	2703	7985	570	0
 Durga Purwa	2703	7987	570	0
 Mahipāl Purwa	2701	7987	570	0
@@ -243,7 +243,7 @@ Purwa Ratanpur	2692	7972	570	0
 Purwa Guna	2692	7970	570	0
 Jhāu Purwa	2691	7954	570	0
 Jamunia Purwa	2690	7958	570	0
-Jamunid Purwa	2690	7958	570	0
+Jamunid Purwa	2690	7958	570	0	Jamunia Purwa
 Mute Purwa	2690	7958	570	0
 Gusāīn Purwa	2689	7958	570	0
 Purwa Garhe	2689	7958	570	0
@@ -266,7 +266,7 @@ Purwa Dhanna	2683	7953	715	0
 Purwa Umed	2685	7955	715	0
 Purwa Jarihāpur	2685	7956	715	0
 Purwa Kusal	2684	7957	715	0
-Purwa Kusai	2684	7957	715	0
+Purwa Kusai	2684	7957	715	0	Purwa Kusal
 Purwa Jaisi	2683	7956	715	0
 Ajit Purwa	2686	7957	715	0
 Singh Purwa	2684	7958	715	0
@@ -281,7 +281,7 @@ Purwa Nikāri	2689	7972	570	0
 Purwa Chhangi	2688	7974	570	0
 Tāra Purwa	2687	7974	570	0
 Purwa Kanhal	2688	7974	570	0
-Purwa Kanhai	2688	7974	570	0
+Purwa Kanhai	2688	7974	570	0	Purwa Kanhal
 Purwa Tula	2687	7973	570	0
 Purwa Hirola	2688	7969	570	0
 Purwa Jhabra	2686	7967	715	0
@@ -292,7 +292,7 @@ Pasik Purwa	2683	7955	715	0
 Purwa Tāl	2681	7956	715	0
 Kisania Purwa	2681	7955	715	0
 Purwa Chauhānan	2680	7957	715	0
-Purwa Chauhdnan	2680	7957	715	0
+Purwa Chauhdnan	2680	7957	715	0	Purwa Chauhānan
 Purwa Gularia	2679	7953	715	0
 Blani Purwa	2679	7954	715	0
 Purwa Dichhat	2678	7953	715	0
@@ -410,8 +410,8 @@ Purwa Simar	2655	7981	671	0
 Purwa Chiuri	2656	7981	671	0
 Purwa Hetsingh	2657	7981	671	0
 Purwa Jasu	2655	7984	671	0
-Purwa Chamāran	2655	7984	671	0
-Bajīt Purwa	2656	7984	671	0
+Purwa Chamāran	2655	7984	671	0	Purwa Jasu
+Bajīt Purwa	2656	7984	671	0	Dalāgaon
 Purwa Kāchhiyān	2656	7984	671	0
 Purwa Narāyan	2656	7984	671	0
 Purwa Chhota	2658	7986	671	0
@@ -424,7 +424,7 @@ Purwa Baiju	2655	7996	671	0
 Purwa Kashirān	2658	8000	671	0
 Purwa Jaraila	2652	7999	671	0
 Bhagwāndīn Purwa	2672	8000	469	0
-Bhagwānīdin Purwa	2672	8000	469	0
+Bhagwānīdin Purwa	2672	8000	469	0	Bhagwāndīn Purwa
 Purwa Makka	2654	7991	671	0
 Purwa Kurin	2652	7991	671	0
 Purwa Bhadia	2652	7990	671	0
@@ -525,7 +525,7 @@ Baria Purwa	2702	7972	570	0
 Baghelan Purwa	2703	7971	570	0
 Kaithan Purwa	2703	7971	570	0
 Chanda Purwa	2700	7970	570	0
-Banjāron Purwa	2700	7970	570	0
+Banjāron Purwa	2700	7970	570	0	Chanda Purwa
 Kodri Purwa	2708	7973	570	0
 Purwa	2749	7978	686	0
 Purwa Gadariān	2749	7977	686	0
@@ -615,7 +615,7 @@ Lalau Purwa	2673	7961	715	0
 Kara Purwa	2673	7961	715	0
 Kale Purwa	2672	7963	715	0
 Bhagga Purwa	2673	7968	715	0
-Pūran Purwa	2673	7972	671	0
+Pūran Purwa	2673	7972	671	0	Sehu
 Naya Purwa	2675	7972	671	0
 Rachha Purwa	2673	7975	671	0
 Purwa Sithau Matāno	2673	7973	671	0
@@ -761,7 +761,7 @@ Purwa Banjāra	2638	7962	671	0
 Purwa Bandi	2636	7965	671	0
 Banjāran Ka Purwa	2638	7967	671	0
 Hari Purwa	2629	7973	671	0
-Purwa	2623	7960	741	0
+Purwa	2623	7960	741	0	Marhiyān
 Mahārāj Purwa	2623	7974	671	0
 Purwa Bihāri	2621	7969	671	0
 Nawa Purwa	2618	7970	741	0
@@ -949,7 +949,7 @@ Kāli Purwa	2647	7991	671	0
 Kāchhin Purwa	2646	7992	671	0
 Mallāhan Purwa	2647	7991	671	0
 Gulāb ka Purwa	2647	7989	671	0
-Banjāran Purwa	2647	7989	671	0
+Banjāran Purwa	2647	7989	671	0	Gulāb ka Purwa
 Goholia ka Purwa	2646	7989	671	0
 Girwar ka Purwa	2646	7990	671	0
 Dhaukal Purwa	2646	7990	671	0
@@ -989,7 +989,7 @@ Prahlād Purwa	2627	7982	671	0
 Purwa Banjāra	2629	7987	671	0
 Anantrām Purwa	2627	7998	671	0
 Purwa Dikshtān	2627	7988	671	0
-Gadarian Purwa	2646	7995	671	0
+Gadarian Purwa	2646	7995	671	0	Galokhar
 Pancham Purwa	2639	7992	671	0
 Dwārika Purwa	2624	7976	671	0
 Eangre ka Purwa	2622	7977	671	0
@@ -1063,12 +1063,12 @@ Gheran Ka Purwa	2503	7973	663	0
 Rāja Purwa	2501	7957	663	0
 Patel ka Purwa	2510	7979	663	0
 Purwākannapur	2467	7925	481	0
-Kayān ki Purwa	2463	7930	663	0
+Kayān ki Purwa	2463	7930	663	0	Purāmohanlāl
 Jasguwān ka Purwa	2468	7949	663	0
 Jamanwān ka Purwa	2468	7949	663	0
 Panāgar ka Purwa	2470	7949	663	0
 Nayāgaon ka Purwa	2473	7949	663	0
-Lodhan Ka Purwa	2467	7932	663	0
+Lodhan Ka Purwa	2467	7932	663	0	Tapriyānmajra
 Purwa	2596	8293	498	0
 Pāthak Purwa	2581	8277	32	0
 Bagauta Ka Purwa	2488	7957	663	0
@@ -1104,7 +1104,7 @@ Mughal Purwa	2507	8321	724	0
 Bhopat Purwa	2507	8317	724	0
 Lohar Purwa	2509	8317	724	0
 Lohar Purwa	2509	8323	724	0
-Bīn Purwa	2556	8325	26	0
+Bīn Purwa	2556	8325	26	0	Jīhan Chak
 Nādi ka Purwa	2551	8325	724	0
 Pāsi Purwa	2558	8337	26	0
 Bind Purwa	2553	8348	26	0
@@ -1137,7 +1137,7 @@ Ratan Purwa	2502	8333	749	0
 Bhar Purwa	2504	8326	724	0
 Rajdija Purwa	2512	8334	724	0
 Purwa	2475	7980	663	0
-Purwa	2473	7998	663	0
+Purwa	2473	7998	663	0	Tapariyān
 Babhan Purwa	2520	8351	749	0
 Lur Purwa	2520	8357	749	0
 Sukh Purwa	2517	8369	749	0
@@ -1267,7 +1267,7 @@ Mathura Purwa	2540	8038	463	0
 Nandu ka Purwa	2541	8039	463	0
 Jamni Purwa	2543	8039	463	0
 Bharosa Purwa	2538	8034	463	0
-Ganga Purwa	2538	8034	463	0
+Ganga Purwa	2538	8034	463	0	Bharosa Purwa
 Chhanha Purwa	2530	8028	663	0
 Ahīran Purwa	2527	8034	663	0
 Maraiyān Purwa	2527	8034	663	0
@@ -1424,11 +1424,11 @@ Ban Purwa	2542	8226	607	0
 Ban Purwa	2542	8231	607	0
 Bairi Purwa	2537	8239	583	0
 Ban Purwa	2536	8243	583	0
-Purvi Gogaon	2521	8228	201	0
+Purvi Gogaon	2521	8228	201	0	Kohrākar
 Purwa	2523	8234	583	0
 Khappar Purwa	2515	8226	607	0
 Musai Purwa	2546	8257	32	0
-Purwa Rasulha	2545	8268	32	0
+Purwa Rasulha	2545	8268	32	0	Neorhia
 Son Purwa	2545	8275	251	0
 Purwa	2519	8257	201	0
 Balli Purwa	2519	8257	201	0
@@ -1448,7 +1448,7 @@ Lashkar Purwa	2534	8297	251	0
 Chamrauti Purwa	2537	8298	251	0
 Kunbiān Purwa	2534	8295	251	0
 Dhanhi Purwa	2510	8276	201	0
-Sībedār ka Purwa	2518	8289	201	0
+Sībedār ka Purwa	2518	8289	201	0	Ārāzi Line
 Pakri Purwa	2515	8290	201	0
 Munai Purwa	2498	8206	607	0
 Bhagesar Purwa	2497	8200	607	0
@@ -2695,7 +2695,7 @@ Kori Purwa	2758	8174	618	0
 Darzi Purwa	2761	8172	618	0
 Dhobi Purwa	2757	8174	618	0
 Duniāpat Purwa	2756	8174	294	0
-Kalwāran Purwa	2756	8173	294	0
+Kalwāran Purwa	2756	8173	294	0	Ratahia
 Gidra Purwa	2756	8172	618	0
 Teli Purwa	2753	8175	294	0
 Gurdin Purwa	2751	8175	294	0
@@ -6220,7 +6220,7 @@ Jalpa ka Purwa	2587	8150	718	0
 Shukul ka Purwa	2599	8132	681	0
 Halua ka Purwa	2599	8132	681	0
 Khīli ka Purwa	2597	8137	681	0
-Purwāra	2591	8133	681	0
+Purwāra	2591	8133	681	0	Bikai Sarāi Parsu
 Tulsi ka Purwa	2584	8137	718	0
 Rāja ka Purwa	2587	8139	718	0
 Faiz ka Purwa	2576	8128	651	0
@@ -6500,7 +6500,7 @@ Pandit Purwa	2698	8196	542	0
 Rakhai Purwa	2697	8196	542	0
 Kori Purwa	2697	8195	542	0
 Todhakia Purwa	2697	8195	542	0
-Pokhra Purwa	2697	8195	542	0
+Pokhra Purwa	2697	8195	542	0	Hāthi
 Gadaria Purwa	2697	8195	542	0
 Guptār Purwa	2697	8196	542	0
 Reharwa Purwa	2698	8196	542	0
@@ -7302,7 +7302,7 @@ Purwa Karwāpāra	2721	8206	542	0
 Purwa Baldan	2721	8207	542	0
 Purwa Bnagwān	2723	8207	542	0
 Purwa Anand	2724	8206	542	0
-Purwa Parāg	2725	8207	542	0
+Purwa Parāg	2725	8207	542	0	Terhia
 Purwa Ghasiāwan	2725	8207	542	0
 Purwa Balgobind	2716	8201	542	0
 Purwa Goshāin	2717	8202	542	0
@@ -7533,7 +7533,7 @@ Purwa Dāndi	2531	8147	651	0
 Purwa Himānchal	2531	8149	651	0
 Purwa Bagadi	2530	8147	651	0
 Behan Purwa	2536	8140	651	0
-Kaith Purwa	2536	8141	651	0
+Kaith Purwa	2536	8141	651	0	Jagannāthpur
 Purwa Jolāha	2711	8215	542	0
 Purwa Muhammad Ali	2712	8216	542	0
 Purwa Dariāon	2714	8216	542	0
@@ -9799,7 +9799,7 @@ Purwa Goshāia	2638	8220	597	0
 Purwa Sahāl	2637	8216	597	0
 Purwa Goshāin	2638	8212	597	0
 Purwa Jairām	2637	8211	597	0
-Purwa Jodhan	2636	8214	597	0
+Purwa Jodhan	2636	8214	597	0	Misrāne
 Purwa Sukāli	2636	8215	597	0
 Purwa Chhanga	2636	8217	597	0
 Purwa Pānde	2641	8211	597	0
@@ -12761,7 +12761,7 @@ Kharsen ka Purwa	2538	8153	651	0
 Kanhaiyālāl ka Purwa	2537	8155	651	0
 Pahlu ka Purwa	2535	8153	651	0
 Gohar Ali ka Purwa	2537	8162	651	0
-Kewat ka Purwa	2529	8153	651	0
+Kewat ka Purwa	2529	8153	651	0	Muhammadābād
 Sītārām ka Purwa	2527	8173	607	0
 Ban Purwa	2531	8173	607	0
 Pītu ka Purwa	2529	8168	607	0
@@ -12773,7 +12773,7 @@ Ojha Purwa	2501	8169	516	0
 Gopāl Purwa	2503	8166	516	0
 Chandai Purwa	2502	8172	516	0
 Bhattu Purwa	2511	8163	607	0
-Rūp ka Purwa	2569	8178	607	0
+Rūp ka Purwa	2569	8178	607	0	Hasanpur
 Purwāl	3264	7555	496	0
 Purwa	3256	7567	496	0
 Purwa Chorāi Mishra	2599	8177	718	0
@@ -14400,7 +14400,7 @@ Ahīran ka Purwa	2520	8070	643	0
 Pānde ka Purwa	2520	8071	643	0
 Bhāgīrathi ka Purwa	2520	8070	643	0
 Benīmādho Purwa	2519	8070	643	0
-Kol Purwa	2521	8073	643	0
+Kol Purwa	2521	8073	643	0	Dabhal
 Kharaiya Purwa	2518	8074	643	0
 Bāgicha Purwa	2523	8066	463	0
 Dhanpat ka Purwa	2524	8063	463	0
@@ -14771,7 +14771,7 @@ Roda Purwa	2741	8012	686	0
 Purwa Pāsion	2743	8013	686	0
 Muhammad Purwa	2742	8013	686	0
 Beni Purwa	2742	8013	686	0
-Pandit Purwa	2745	8016	686	0
+Pandit Purwa	2745	8016	686	0	Parbatpur
 Lokhai Purwa	2745	8018	686	0
 Ratta Purwa	2744	8018	686	0
 Mohan Purwa	2744	8017	686	0

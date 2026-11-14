@@ -1,15 +1,15 @@
-Jarnshedpur	2280	8619	584	1339438
+Jarnshedpur	2280	8619	584	1339438	Jamshedpur
 Jharsuguda	2186	8401	627	97730
-Jharsguda	2186	8401	627	97730
-Jharsogra	2186	8401	627	97730
-Jharsugude	2186	8401	627	97730
-Jhārsugra	2186	8401	627	97730
-Jharsaguda	2186	8401	627	97730
+Jharsguda	2186	8401	627	97730	Jharsuguda
+Jharsogra	2186	8401	627	97730	Jharsuguda
+Jharsugude	2186	8401	627	97730	Jharsuguda
+Jhārsugra	2186	8401	627	97730	Jharsuguda
+Jharsaguda	2186	8401	627	97730	Jharsuguda
 Jharia	2374	8641	401	86938
 Jhārgrām	2245	8699	665	57796
-Jhāragrām	2245	8699	665	57796
+Jhāragrām	2245	8699	665	57796	Jhārgrām
 Jāridih	2377	8594	517	31882
-Jaridih Bazar	2377	8594	517	31882
+Jaridih Bazar	2377	8594	517	31882	Jāridih
 Jharoda Mazra Burāri	2873	7721	732	22878
 Jharoda Kalān	2865	7695	763	19578
 Jarwal	2716	8154	294	17576
@@ -18,10 +18,10 @@ Jarod	2244	7333	159	7200
 Jarjapupeta	1818	8344	179	5761
 Jar	2774	8060	507	3088
 Jhāroli	2482	7303	23	0
-Jar ka Nayāgaon	2550	7553	353	0
+Jar ka Nayāgaon	2550	7553	353	0	Bara Nayāgaon
 Jarāmohgaon	2173	7991	144	0
-Kurra Jarāwan	2702	7909	464	0
-Jaram	2803	9416	557	0
+Kurra Jarāwan	2702	7909	464	0	Kurra Jirāwan
+Jaram	2803	9416	557	0	Jirām
 Jhārwāsa	2620	7472	446	0
 Jhārpokhariā	2217	8665	382	0
 Jharol	2437	7353	22	0
@@ -46,16 +46,16 @@ Jaruwākhera	2397	7848	352	0
 Jarwa	3075	7760	534	0
 Jarwa	2765	8252	280	0
 Jārvar Budrukh	1984	7351	54	0
-Jārvar	1984	7351	54	0
+Jārvar	1984	7351	54	0	Jārvar Budrukh
 Jarpara	2088	8488	414	0
 Jharol	2527	7409	309	0
 Jarod	2392	7789	215	0
 Jarmundi	2439	8706	669	0
 Jhārmahu	2393	7638	16	0
-Jārmau	2393	7638	16	0
+Jārmau	2393	7638	16	0	Jhārmahu
 Jarion	2351	8391	341	0
 Jaridih	2363	8606	517	0
-Jaria	2460	7203	134	0
+Jaria	2460	7203	134	0	Jadīya
 Jari	3200	7724	680	0
 Jarha	2337	8082	350	0
 Jareru	2605	7768	478	0
@@ -64,10 +64,10 @@ Jarau	1954	8437	252	0
 Jarātoli	2288	8472	321	0
 Jararua	2625	7822	484	0
 Jararha	1908	8450	408	0
-Jaradagodo	1908	8450	408	0
-Jarada	1908	8450	408	0
-Jaradakota	1908	8450	408	0
-Jaraparha	2088	8488	414	0
+Jaradagodo	1908	8450	408	0	Jararha
+Jarada	1908	8450	408	0	Jararha
+Jaradakota	1908	8450	408	0	Jararha
+Jaraparha	2088	8488	414	0	Jarpara
 Jarain	2532	9213	165	0
 Jaraikela	2232	8513	287	0
 Jaraikela	2210	8460	272	0
@@ -79,11 +79,11 @@ Jargari	3064	7605	674	0
 Jharauti	2893	7694	485	0
 Jharaut	2892	7694	485	0
 Jarālān da Chak	3264	7488	581	0
-Jarāle Chak	3264	7488	581	0
+Jarāle Chak	3264	7488	581	0	Jarālān da Chak
 Doba Sar Jārān	3404	7392	301	0
 Jarāra	3438	7376	0	0
 Zaria na Danna	3440	7394	0	0
-Zarlana Danna	3440	7394	0	0
+Zarlana Danna	3440	7394	0	0	Zaria na Danna
 Jhārwan	2972	7728	449	0
 Jhar	2548	7574	353	0
 Jharbālapura	2547	7575	353	0
@@ -240,7 +240,7 @@ Jhārkhand	2481	7660	506	0
 Jharkheri	2463	7690	506	0
 Jhārera	2439	7698	336	0
 Jhārli	2620	7519	313	0
-Jarella	2801	7764	543	0
+Jarella	2801	7764	543	0	Husainpur
 Jārāgudam	1916	8038	288	0
 Jarauthi	2874	7781	756	0
 Jhārūtola	2175	8121	537	0
@@ -482,7 +482,7 @@ Jhāra	2408	8333	341	0
 Jarātītola	2406	8339	341	0
 Jhariya Mahāl	2496	8355	749	0
 Jariya	2576	7899	433	0
-Jarha Khurd	2576	7899	433	0
+Jarha Khurd	2576	7899	433	0	Jariya
 Jarakabarātoli	2439	8365	743	0
 Jarde	2415	8362	743	0
 Jarab	2414	8371	743	0
@@ -661,7 +661,7 @@ Jarānwāli	3374	7440	1	0
 Jarwal	2784	8209	618	0
 Jarpaniān	2779	8201	618	0
 Jarmauli	2779	8213	618	0
-Jamīma Jārai	2848	7879	646	0
+Jamīma Jārai	2848	7879	646	0	Akbarpur
 Asālatpur Jārai	2847	7880	646	0
 Jarenda	2835	7878	117	0
 Jhariag Dīh	2761	8214	280	0
@@ -848,7 +848,7 @@ Jarauta	3234	7654	362	0
 Jareli	2296	8187	225	0
 Jarāhātola	2293	8197	757	0
 Jharkua	2445	7976	663	0
-Jarāhatola	2270	8200	757	0
+Jarāhatola	2270	8200	757	0	Nawāpāra
 Jareli	2212	8191	291	0
 Jarondha	2215	8195	291	0
 Jarhāgaon	2211	8182	755	0

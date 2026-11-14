@@ -1,17 +1,17 @@
 Lādnūn	2765	7440	430	65575
-Ladnu	2765	7440	430	65575
+Ladnu	2765	7440	430	65575	Lādnūn
 Lādwa	2999	7705	501	28887
 Ladhaura	2507	7887	481	12974
 Ladrāwan	2879	7694	609	6905
 Lādpur	2874	7700	689	5529
 Lād	2284	8249	388	1440
 Ladhar Khurd	3115	7590	369	559
-Ladi	2087	8393	308	0
-Ladrani	2391	7062	108	0
+Ladi	2087	8393	308	0	Mundaghāt
+Ladrani	2391	7062	108	0	Lodrāni
 Lādwa	2907	7580	339	0
 Ladua	2333	8343	341	0
 Lādsāwangi	1997	7562	113	0
-Lad Sangvi	1997	7562	113	0
+Lad Sangvi	1997	7562	113	0	Lādsāwangi
 Lādpura	2515	7512	309	0
 Lādol	2362	7273	164	0
 Lādkhed	2035	7792	67	0
@@ -22,7 +22,7 @@ Lādapuram	1124	7875	265	0
 Ladania	2661	8632	556	0
 Ladhāsar	2815	7463	539	0
 Ladu	3427	7424	301	0
-Ladu Lodur	3427	7424	301	0
+Ladu Lodur	3427	7424	301	0	Ladu
 Ladwana	3422	7475	595	0
 Lador	3278	7476	581	0
 Ladwāl	3252	7477	581	0
@@ -40,7 +40,7 @@ Lādalāpur	1698	7704	71	0
 Ladnapur	1863	7957	748	0
 Ladvel	2292	7312	167	0
 Ladhaud	2894	7667	719	0
-Lādpur	2803	7657	519	0
+Lādpur	2803	7657	519	0	Shāhpur
 Lādhūwās Ahīr	2821	7656	519	0
 Lādhūwās Gujar	2816	7669	519	0
 Lādpur	2801	7675	482	0
@@ -82,7 +82,7 @@ Agwār Ladhāi	3078	7547	674	0
 Lādpura	2492	7607	371	0
 Lādpur Khurd	2981	7798	596	0
 Lādpur Kalān	2982	7798	596	0
-Lādpur Khurd	2970	7785	596	0
+Lādpur Khurd	2970	7785	596	0	Gurūkul
 Lādpur	2929	7776	545	0
 Lādpur	2891	7704	485	0
 Ladiān Khurd	3095	7579	674	0
@@ -103,7 +103,7 @@ Ladūawāla Khatta	2949	7871	575	0
 Ladpur	2825	7907	117	0
 Ladānya	2465	7631	333	0
 Ladera	2461	7628	333	0
-Laduki	2825	7771	637	0
+Laduki	2825	7771	637	0	Hasanpur
 Ladpura	2897	7781	700	0
 Lādlābās	2851	7776	637	0
 Ladām	2715	8866	492	0
@@ -189,7 +189,7 @@ Lādpur	2856	7678	609	0
 Lada Khera	2618	8083	681	0
 Ladhūpura	2920	7821	575	0
 Lādanpur	2903	7819	483	0
-Nagla Ladha	2951	7847	575	0
+Nagla Ladha	2951	7847	575	0	Lābdīpur
 Lādpur Chāndlo	2952	7839	575	0
 Ladāwāla	2930	7846	575	0
 Lādanpur	2926	7832	575	0
@@ -203,7 +203,7 @@ Purwa Ladai	2665	8146	30	0
 Lādlābād	2904	7860	511	0
 Ladwāsain	2968	7891	612	0
 Lakhanpur Lādpur	2904	7891	511	0
-Lādpur Bībi	2904	7893	552	0
+Lādpur Bībi	2904	7893	552	0	Mazra
 Lādpur Bībi	2904	7894	552	0
 Chak Lādpur	2903	7894	552	0
 Pura Ladai	2635	8190	597	0
@@ -333,7 +333,7 @@ Pura Lādi Shukul	2647	8168	662	0
 Ladanggi	1976	8331	284	0
 Ladākhaman	1948	8308	363	0
 Ladiguda	1922	8304	363	0
-Prasaka Ladda	1921	8328	363	0
+Prasaka Ladda	1921	8328	363	0	Panasaguda
 Mandya Ladda	1921	8329	363	0
 Ladda	1910	8342	363	0
 Kurupām Ladda	1909	8348	363	0
@@ -396,7 +396,7 @@ Lādugarh	2583	8710	613	0
 Ladua	2580	8764	613	0
 Ladonri	2522	8763	461	0
 Ladaura	2593	8539	395	0
-Ladwaria	2593	8539	395	0
+Ladwaria	2593	8539	395	0	Ladaura
 Ladgaon	2181	7523	248	0
 Lade ka Pār	2558	7070	285	0
 Ladhaula	2797	8008	470	0

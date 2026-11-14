@@ -1,13 +1,13 @@
 Kokrajhar	2640	9027	713	34136
 Kokōtamangalam South	968	7636	243	17047
-Kokkothamangalam	968	7636	243	17047
+Kokkothamangalam	968	7636	243	17047	Kokōtamangalam South
 Kokernag	3358	7532	148	6553
-Kokarnag	3358	7532	148	6553
-Koke	1946	7675	153	0
-Kokli Maurān	3004	7529	709	0
+Kokarnag	3358	7532	148	6553	Kokernag
+Koke	1946	7675	153	0	Kak
+Kokli Maurān	3004	7529	709	0	Kotli Maurān
 Koksara	1968	8272	284	0
 Khokri Kalān	3085	7533	499	0
-Kokri	3085	7533	499	0
+Kokri	3085	7533	499	0	Khokri Kalān
 Kokpāra Narsinghgarh	2252	8654	584	0
 Kokpāra	2245	8659	584	0
 Kokori	2089	8054	171	0
@@ -15,11 +15,11 @@ Kokkanti	1394	7828	444	0
 Kokkānisshēri	1211	7521	266	0
 Kokilāmukh	2683	9409	777	0
 Kokesra	1648	7373	213	0
-Kokisra	1648	7373	213	0
+Kokisra	1648	7373	213	0	Kokesra
 Kokcho	2247	8591	287	0
 Kokavāda	1866	8187	599	0
 Kokatnūr	1669	7522	77	0
-Kokarjaola	1919	7650	153	0
+Kokarjaola	1919	7650	153	0	Kekarjavla
 Kokanār	1864	8173	599	0
 Khoksar	3241	7725	425	0
 Khokra	2197	8256	696	0
@@ -28,7 +28,7 @@ Khokha Ki Dhāni	2535	7202	343	0
 Khokhāha	2617	8653	426	0
 Khokarmoho	1900	7556	33	0
 Khokara Kalān	2343	7695	320	0
-Khokara	2343	7695	320	0
+Khokara	2343	7695	320	0	Khokara Kalān
 Kokariya	2939	7688	298	0
 Kokunda	1772	7854	466	0
 Nagla Khokar	2724	7930	464	0
@@ -50,7 +50,7 @@ Khokharāna	3083	7498	499	0
 Kokli	3123	7738	479	0
 Koku	3111	7752	479	0
 Khokhta	3063	7797	448	0
-Jamālpur Khoku	2944	7823	575	0
+Jamālpur Khoku	2944	7823	575	0	Tānkli
 Kokalpur	2366	7833	338	0
 Kokra	2656	7616	708	0
 Kokat	2212	7866	337	0
@@ -82,7 +82,7 @@ Kokāte Hadgaon	1937	7614	53	0
 Khokh	3045	7617	564	0
 Khokhar	3094	7635	735	0
 Kokola	2794	7793	543	0
-Nagla Kokila	2754	7733	326	0
+Nagla Kokila	2754	7733	326	0	Mālpur
 Kokalgaon	1804	7666	158	0
 Kokri	2176	8223	291	0
 Kokri	2164	8214	379	0

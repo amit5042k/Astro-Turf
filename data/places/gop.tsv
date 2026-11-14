@@ -1,18 +1,18 @@
 Gopālganj	2647	8444	703	67339
-Gopichettipālaiyam	1145	7744	211	59523
+Gopichettipālaiyam	1145	7744	211	59523	Gobichettipalayam
 Gopavaram	1478	7857	229	22936
 Gopāmau	2753	8029	686	13581
 Gopālasamudram	867	7764	191	10694
 Gopālpur	1926	8491	440	7221
-Gopālpur-on-Sea	1926	8491	440	7221
+Gopālpur-on-Sea	1926	8491	440	7221	Gopālpur
 Gopālpur	2262	8875	450	6890
 Gopināthpur	2266	8608	653	5255
 Dera Gopipur	3188	7622	38	4816
 Gopālur	1661	7781	317	3324
-Gopalour	1661	7781	317	3324
+Gopalour	1661	7781	317	3324	Gopālur
 Gopinādhapatnam	1684	8139	24	1783
 Sāmar Gopālpur Khurd	2895	7653	719	0
-Sāmar Gopālpur	2895	7653	719	0
+Sāmar Gopālpur	2895	7653	719	0	Sāmar Gopālpur Khurd
 Sākhi Gopāl	1996	8582	603	0
 Goppili	1882	8435	472	0
 Goplakabang	1177	9272	105	0
@@ -26,13 +26,13 @@ Gopālsar	2906	7365	374	0
 Gopālsar	2649	7259	344	0
 Gopālpura	2776	7439	539	0
 Gopālpur	2483	8780	461	0
-Gopapur	2483	8780	461	0
+Gopapur	2483	8780	461	0	Gopālpur
 Gopālpur	2265	7709	675	0
 Gopālpur	2205	8370	349	0
-Gopalpali	2205	8370	349	0
+Gopalpali	2205	8370	349	0	Gopālpur
 Gopālpur	2185	8773	559	0
 Gopālapur	1674	7731	72	0
-Gopālpur	1674	7731	72	0
+Gopālpur	1674	7731	72	0	Gopālapur
 Gopālgarh	2765	7706	114	0
 Gopālgarh	2705	7606	121	0
 Gopālganj	2198	7953	368	0
@@ -40,7 +40,7 @@ Gopāla Singavaram	1588	7794	317	0
 Gopālapuram	1710	8152	87	0
 Gop	2203	6993	145	0
 Gop	1999	8603	603	0
-Gope	1999	8603	603	0
+Gope	1999	8603	603	0	Gop
 Goplān	2861	7393	307	0
 Gopālpura	2811	7451	539	0
 Gopdānga	2286	8804	279	0
@@ -73,7 +73,7 @@ Gopālpura	2818	7539	300	0
 Gopālpura ka Bās	2818	7539	300	0
 Gopālwās ki Dhāni	2893	7557	431	0
 Gopāliyān ki Dhāni	2837	7554	300	0
-Gopāliyāin ki Dhāni	2837	7554	300	0
+Gopāliyāin ki Dhāni	2837	7554	300	0	Gopāliyān ki Dhāni
 Gopālpura	2522	7885	529	0
 Gopālpur	2481	7886	481	0
 Sarāi Gopāl	2719	7942	570	0
@@ -82,7 +82,7 @@ Gopālpur	2708	7940	464	0
 Gopālpur	2708	7943	464	0
 Gopālpur	2764	7954	470	0
 Gopiyāpur	2683	7925	290	0
-Gopiyāpura	2683	7925	290	0
+Gopiyāpura	2683	7925	290	0	Gopiyāpur
 Gopiāganj	2678	7922	290	0
 Agupur Gopālpur	2692	7915	290	0
 Agupura Gopālpur	2684	7914	290	0
@@ -116,8 +116,8 @@ Gopalpur	2145	8355	497	0
 Gopinath Pur	2197	8719	205	0
 Gopālpur	2885	7692	485	0
 Gopālwāli Dhāni	2952	7577	443	0
-Gopālpura	2823	7649	519	0
-Gopālpura	2899	7602	431	0
+Gopālpura	2823	7649	519	0	Prānpura
+Gopālpura	2899	7602	431	0	Dhāni Sanjanpur
 Gopālpur	3149	7774	479	0
 Gopāli ki Dhāni	2755	7607	121	0
 Gopīpura	2766	7624	121	0
@@ -156,7 +156,7 @@ Gopālpura	2409	7392	22	0
 Gopālpura	2545	7472	309	0
 Gopālpura	2454	7417	22	0
 Gopālpura	2570	7515	309	0
-Nawāda Hakīmpur Gopāl	2933	7864	575	0
+Nawāda Hakīmpur Gopāl	2933	7864	575	0	Mānnagar
 Pipaliā Gopāl	2886	7924	552	0
 Gopinagar	2840	7923	342	0
 Gopālpura	2436	7629	333	0
@@ -290,8 +290,8 @@ Gopālapuram	1692	7985	250	0
 Gopār	2525	8032	663	0
 Gopālpur	2238	7684	465	0
 Gopālpura	2203	7689	465	0
-Gopālpur	2568	8201	607	0
-Pure Gopāli	2565	8212	607	0
+Gopālpur	2568	8201	607	0	Muhammadābād
+Pure Gopāli	2565	8212	607	0	Chak Ali
 Sarāi Gopi	2552	8203	607	0
 Purwa Gopālpur	2504	7940	525	0
 Gopālpura	2539	7985	614	0
@@ -445,7 +445,7 @@ Gopāli Khera	2609	8085	681	0
 Gopālpur	2618	8094	681	0
 Gopālpur	2605	8096	728	0
 Goplāpur Goplāpur	2603	8092	728	0
-Bans Gopālpur	2959	7830	575	0
+Bans Gopālpur	2959	7830	575	0	Chaukpuri
 Gopālpur	2946	7830	575	0
 Arāzi Gopāl Jat	2929	7843	575	0
 Gopālpur	2779	8120	323	0
@@ -508,7 +508,7 @@ Hatwa Gopāl	2743	8179	294	0
 Gopālpur	2883	7873	511	0
 Mazra Gopālpur	2883	7872	511	0
 Gopālsingh	2886	7873	511	0
-Gopālpur	2891	7869	511	0
+Gopālpur	2891	7869	511	0	Konkarpur
 Gopālpur	2816	7988	470	0
 Gopālpur	2816	7996	683	0
 Gopenpalli	1869	7813	75	0
@@ -650,7 +650,7 @@ Pura Gopi	2688	8296	647	0
 Gopālpur	2673	8280	154	0
 Pura Gopi	2674	8289	154	0
 Gopālpur	2592	8339	586	0
-Gopālrāe	2581	8346	26	0
+Gopālrāe	2581	8346	26	0	Dhurehra
 Gopālpur	2595	8343	586	0
 Amtha Gopālpur	2589	8326	498	0
 Gopālpur	2635	8288	553	0
@@ -770,7 +770,7 @@ Gopālpur	2788	8076	323	0
 Gopālpur	2788	8083	323	0
 Gopālpur	2767	8091	507	0
 Gopālpur	2767	8080	507	0
-Gopālpur	2765	8080	507	0
+Gopālpur	2765	8080	507	0	Mohkamganj
 Gopālpur	2743	8083	507	0
 Gopālpur	2736	8081	507	0
 Gopālpur	2730	8083	507	0
@@ -812,7 +812,7 @@ Gopālpur	2190	8343	439	0
 Gopālpur	2152	8331	635	0
 Gopālpur	2802	7817	543	0
 Pīplia Gopāl	2338	7633	320	0
-Gopālganj	2894	7896	552	0
+Gopālganj	2894	7896	552	0	Mazra Sikandarābād
 Gopālpura	2379	7664	16	0
 Gopaipāli	2121	8357	497	0
 Gopipāli	2164	8395	627	0
@@ -827,7 +827,7 @@ Gopīpur	2701	8143	30	0
 Tāla Gopālpur	2612	8134	681	0
 Gopālpur	2619	8148	681	0
 Pura Gopal	2616	8148	681	0
-Gopālpur	2608	8147	681	0
+Gopālpur	2608	8147	681	0	Shiuhanj
 Gopālpur	2636	8157	662	0
 Pura Gopi Tiwāri	2639	8162	662	0
 Gopālpur	2640	8161	662	0
@@ -925,7 +925,7 @@ Gopālpur	2576	8491	540	0
 Gopālpur	2590	8494	540	0
 Gopālpur	2573	8486	540	0
 Gopālpur	2573	8484	540	0
-Gopālpur	2561	8494	604	0
+Gopālpur	2561	8494	604	0	Rasulpur
 Chora Gopālpur	2559	8496	604	0
 Gopālpur	2704	8456	476	0
 Gopālpur	2164	7424	186	0
@@ -967,7 +967,7 @@ Gopālpur	2636	8472	703	0
 Gopālpur	2622	8457	639	0
 Gopālpur	2621	8457	639	0
 Gopālpur	2608	8464	639	0
-Gopi	2611	8472	639	0
+Gopi	2611	8472	639	0	Barahimpur
 Bhauri Gopāl	2607	8473	540	0
 Gopīpura	2890	7959	641	0
 Gopālpur	2876	7952	342	0
@@ -977,7 +977,7 @@ Gopālpur	2665	8490	396	0
 Gopī Chāpra	2645	8482	396	0
 Gopālpur Khāp	2638	8481	396	0
 Gopālpur Khāp	2638	8482	396	0
-Gopiganj	2628	8490	395	0
+Gopiganj	2628	8490	395	0	Sarāe
 Rāmpur Gopāl	2637	8500	396	0
 Gopālpur	2620	8476	639	0
 Khamaria Gopa Dāndi	2865	7955	342	0
@@ -1360,7 +1360,7 @@ Gopālapuram	955	7809	119	0
 Gopālapuram	939	7826	5	0
 Gopālapattanam	959	7871	5	0
 Gopālasamudram	1130	7972	203	0
-Gopālanāyakkanpatti	983	7743	194	0
+Gopālanāyakkanpatti	983	7743	194	0	Mūrtināyakkanpatti
 Gopālapuram	989	7770	274	0
 Gopālāpuram	1157	7846	51	0
 Gopālpur	2276	8560	287	0

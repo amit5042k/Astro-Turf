@@ -1,14 +1,14 @@
-Pachhar	2458	7773	410	81828
+Pachhar	2458	7773	410	81828	Ashoknagar
 Pāchora	2067	7535	78	59609
 Pachor	2371	7673	16	27396
-Pachore	2371	7673	16	27396
+Pachore	2371	7673	16	27396	Pachor
 Pacode	834	7721	453	24050
 Pachgaon	1666	7423	57	22353
 Pāchchal	1251	7856	184	16789
 Pachperwa	2751	8264	280	15056
 Pachmarhi	2247	7843	590	12062
 Pachhim Sarīra	2542	8131	651	0
-Pachur	1259	7846	184	0
+Pachur	1259	7846	184	0	Patchūr
 Pāchādumār	2449	8354	326	0
 Pāchūd Khurd	1957	7565	113	0
 Pāchūd Buzurg	1957	7563	113	0
@@ -16,11 +16,11 @@ Pāchūd	1955	7563	113	0
 Pachranga	3151	7563	369	0
 Pachpahār	2440	7581	525	0
 Pachpadra	2592	7225	285	0
-Pachbhadra	2592	7225	285	0
-Pachbhadra City	2592	7225	285	0
+Pachbhadra	2592	7225	285	0	Pachpadra
+Pachbhadra City	2592	7225	285	0	Pachpadra
 Pachnān	2515	8591	690	0
 Pachkhura Buzurg	2586	8027	645	0
-Pachkhura	2586	8027	645	0
+Pachkhura	2586	8027	645	0	Pachkhura Buzurg
 Pachkheri	2095	7951	141	0
 Pāchipenta	1848	8311	199	0
 Pāchingri	1871	7558	33	0
@@ -28,11 +28,11 @@ Pachi	2723	8847	85	0
 Pachhewar	2647	7532	313	0
 Pachhegām	2192	7185	168	0
 Pāchhāpur	1610	7469	77	0
-Pachharpur	1610	7469	77	0
+Pachharpur	1610	7469	77	0	Pāchhāpur
 Pachham	2240	7218	124	0
 Pachgachhia	2597	8656	661	0
 Dhāni Pacheri	2815	7593	300	0
-Pacheri	2815	7593	300	0
+Pacheri	2815	7593	300	0	Dhāni Pacheri
 Pāchegaon	2095	7827	143	0
 Pāchchalūr	1037	7767	187	0
 Pāchchal	1227	7894	197	0
@@ -40,7 +40,7 @@ Pachari	3441	7665	2	0
 Pachār	2697	7554	121	0
 Pachamba	2421	8627	452	0
 Pachamba	1727	7364	234	0
-Pachālia	2508	7298	23	0
+Pachālia	2508	7298	23	0	Pasāliya
 Pachālā	2595	7622	313	0
 Naulipatti Pachhim	2544	8340	724	0
 Pachār	2859	7399	307	0
@@ -60,10 +60,10 @@ Pachaur	2702	7977	570	0
 Kandhesi Pachār	2675	7919	290	0
 Nagla Pachhāin	2691	7922	290	0
 Santokhpur Pachār	2689	7919	290	0
-Santoshpur Pachār	2689	7919	290	0
+Santoshpur Pachār	2689	7919	290	0	Santokhpur Pachār
 Shekhpur Pachār	2688	7920	290	0
 Pachauli	2681	7903	290	0
-Pachāwali	2681	7903	290	0
+Pachāwali	2681	7903	290	0	Pachauli
 Pachokhara	2634	7903	334	0
 Pachaukhra	2633	7921	741	0
 Pachāra	2528	7950	614	0
@@ -71,7 +71,7 @@ Pachhāon	2685	7971	570	0
 Pachran ka Khera	2462	7907	663	0
 Pacher	2491	7933	481	0
 Pāchalpurwa	2487	7944	663	0
-Pachāra	2860	7406	307	0
+Pachāra	2860	7406	307	0	Amarpura
 Pachakanam	946	7715	258	0
 Bhadoi Pachali	2730	9534	380	0
 Pachori	2196	8274	696	0
@@ -121,12 +121,12 @@ Pacheri Khurd	2812	7594	300	0
 Pachokhara	2581	7840	503	0
 Pachahra	2790	7775	177	0
 Pachāwari	2781	7784	543	0
-Pachhol Kalān	2763	7733	114	0
-Pāchhol	2763	7732	326	0
+Pachhol Kalān	2763	7733	114	0	Nagla Harnārāyan
+Pāchhol	2763	7732	326	0	Nagla Harsukh
 Pachhlāri	2754	7714	114	0
 Pāchauta	2838	7777	637	0
 Rūpbās Pachgāhin	2831	7780	637	0
-Pachgaon	2825	7796	637	0
+Pachgaon	2825	7796	637	0	Bādshāhpur
 Nagla Pacchāndra	2700	7754	114	0
 Pachperi	2147	8271	407	0
 Pachera	2056	8116	668	0
@@ -162,7 +162,7 @@ Pachnada	2749	7919	711	0
 Pāchpor	1999	7867	67	0
 Pachdhār	2173	7945	368	0
 Pachokhara	2637	7759	478	0
-Pachpent ka Pura	2639	7758	478	0
+Pachpent ka Pura	2639	7758	478	0	Gulābpura
 Pachpukhra	2738	7956	688	0
 Pachdeora	2766	7976	686	0
 Pachraiya	2756	7980	686	0
@@ -364,7 +364,7 @@ Saraunī Pachhim Pattī	2563	8288	32	0
 Rāmpur Pachbhita	2604	8078	728	0
 Ambāra Pachhim	2613	8095	681	0
 Kāzīpur Pachdu	2947	7842	575	0
-Pachdu	2942	7837	575	0
+Pachdu	2942	7837	575	0	Karaunda
 Purwa Pachghara	2798	8103	323	0
 Pachchhim Purwa	2769	8101	507	0
 Pachdeora	2755	8104	507	0
@@ -729,7 +729,7 @@ Lālhar Pachhmi	2904	7968	641	0
 Pachwa Khera	2910	7970	551	0
 Talla Pachhoniā	2912	7971	551	0
 Malla Pachhonia	2912	7970	551	0
-Pachīsi	2984	7958	429	0
+Pachīsi	2984	7958	429	0	Kapāri
 Pachrūkha	2714	8434	476	0
 Pachrukhiyā	2717	8447	476	0
 Pachmata	2626	7462	446	0
@@ -814,7 +814,7 @@ Pachpera	2884	7991	641	0
 Pachpera	2850	7984	683	0
 Khajūria Pachpera	2851	7985	683	0
 Pachpera	2850	7989	683	0
-Pachpera Tāluka Shāhpur	2850	7989	683	0
+Pachpera Tāluka Shāhpur	2850	7989	683	0	Pachpera
 Pachpera Garha	2852	7999	683	0
 Pachkhora	2590	8408	536	0
 Pachkhora Khurd	2590	8407	536	0

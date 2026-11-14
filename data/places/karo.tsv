@@ -3,13 +3,13 @@ Kāro	2379	8598	517	39305
 Kharod	2174	8258	696	10193
 Kharora	2140	8193	310	9236
 Kharola	1851	7666	158	0
-Khāro	2820	7339	307	0
+Khāro	2820	7339	307	0	Khāra
 Karora	2821	7799	637	0
-Karoni	2626	7282	344	0
+Karoni	2626	7282	344	0	Karāni
 Karong	2530	9404	112	0
 Karonda	2434	7827	352	0
 Karon	2413	8674	502	0
-Karonjali	2039	7373	54	0
+Karonjali	2039	7373	54	0	Karanjali
 Chakpi Karong	2421	9390	685	0
 Khārro	2830	7379	307	0
 Kharota	3289	7485	581	0
@@ -73,8 +73,8 @@ Kharolyākhera	2526	7454	309	0
 Kharrodo	2464	7415	22	0
 Kāroli	2839	7634	519	0
 Kharori	3052	7960	183	0
-Karoli	2819	7755	588	0
-Karol	2817	7755	588	0
+Karoli	2819	7755	588	0	Nagla Chāndan
+Karol	2817	7755	588	0	Ballabnagar
 Karora	2588	7814	484	0
 Karor	3091	7604	674	0
 Kharodi	3001	7630	638	0
@@ -216,7 +216,7 @@ Kharontu Adwār	3248	7642	362	0
 Karondātola	2277	8158	225	0
 Karondīh	2289	8168	225	0
 Karondi	2272	8156	468	0
-Karota	3221	7638	38	0
+Karota	3221	7638	38	0	Lunt
 Kharot	3207	7645	38	0
 Karot	3211	7663	38	0
 Karo	3195	7621	38	0
@@ -258,7 +258,7 @@ Kharoda	2294	7431	173	0
 Kharola	2932	7957	551	0
 Bāra Khāron	2638	7455	446	0
 Kārol	2537	7405	309	0
-Khārolyākhera	2545	7432	309	0
+Khārolyākhera	2545	7432	309	0	Uddalpura
 Khārolo ka Khera	2540	7437	309	0
 Karom	2618	8415	639	0
 Kharoli Tok	2973	7985	722	0

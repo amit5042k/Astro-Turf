@@ -1,49 +1,49 @@
 Quthbullapur	1750	7846	311	225816
-Qutubullapur	1750	7846	311	225816
-Koottilangadi	1103	7610	150	36602
+Qutubullapur	1750	7846	311	225816	Quthbullapur
+Koottilangadi	1103	7610	150	36602	Peringottupulam
 Kuttuparamba	1183	7557	266	29619
 Kuttikkāttūr	1126	7588	262	25929
 Kuttippuram	1084	7603	150	25750
 Kuttampuzha	1015	7674	176	25436
 Koothanallur	1072	7952	267	25423
 Kutiatodu	980	7633	243	23669
-Kuthiathode	980	7633	243	23669
+Kuthiathode	980	7633	243	23669	Kutiatodu
 Kutiyāna	2162	6998	742	16877
 Kuthalam	1107	7956	203	16125
 Koothappar	1080	7879	270	15943
 Khūtār	2820	8027	470	15618
 Kuttyattur	1197	7549	266	13244
-Kuttiattoor	1197	7549	266	13244
+Kuttiattoor	1197	7549	266	13244	Kuttyattur
 Kuttūr	1056	7620	241	12179
 Kūttāli	1159	7577	262	11389
-Kutpur	2106	7179	168	8677
-Qutab Garh	2880	7696	689	7639
+Kutpur	2106	7179	168	8677	Katpur
+Qutab Garh	2880	7696	689	7639	Outabgarh
 Kūttankuli	822	7778	191	5118
-Kuthankuzhi	822	7778	191	5118
-Sool Koot	3454	7426	0	3973
+Kuthankuzhi	822	7778	191	5118	Kūttankuli
+Sool Koot	3454	7426	0	3973	Solakut
 Kuttālam	893	7727	245	2440
 Kuthehra	3198	7654	38	163
 Qutbnagar	2749	8045	507	0
-Qutubnagar	2749	8045	507	0
+Qutubnagar	2749	8045	507	0	Qutbnagar
 Qutba	3058	7563	726	0
 Kuttyādi	1165	7575	262	0
-Kuttiadi	1165	7575	262	0
+Kuttiadi	1165	7575	262	0	Kuttyādi
 Kutti Paracheri	1307	8023	204	0
 Kuttāttukulam	987	7660	176	0
-Kuttathulam	987	7660	176	0
+Kuttathulam	987	7660	176	0	Kuttāttukulam
 Kūttapuli	815	7760	191	0
-Kuttankuli	815	7760	191	0
-Kuttaputi	815	7760	191	0
+Kuttankuli	815	7760	191	0	Kūttapuli
+Kuttaputi	815	7760	191	0	Kūttapuli
 Kutsomli	2077	8317	394	0
 Kutru	1909	8079	288	0
 Kutri	2055	8482	548	0
 Kutravāda	1767	8171	268	0
 Kutragada	1961	8355	363	0
 Kutra	2223	8447	272	0
-Kutpali	2097	8320	497	0
+Kutpali	2097	8320	497	0	Khuntpāli
 Kutnaur	3087	7830	89	0
 Kutku	2370	8399	743	0
-Kutka	2370	8399	743	0
+Kutka	2370	8399	743	0	Kutku
 Kutipi	2264	8538	287	0
 Kutingi	1906	8317	316	0
 Kuthpathri	3453	7477	120	0
@@ -55,11 +55,11 @@ Kutāna	2910	7716	477	0
 Kutāl	3323	7576	34	0
 Kuta	3301	7604	372	0
 Kuta	3251	7525	496	0
-Kutrah	2114	7196	168	0
+Kutrah	2114	7196	168	0	Kotada
 Khutpāli	2095	8322	497	0
 Khutia	2551	8655	759	0
 Khutgān	2233	8497	272	0
-Khutgaon	2233	8497	272	0
+Khutgaon	2233	8497	272	0	Khutgān
 Khutauna	2650	8640	556	0
 Khutabāri	2607	9108	636	0
 Jibdhārer Khuti	2637	8942	420	0
@@ -85,7 +85,7 @@ Kutabpura	2829	7554	300	0
 Kūti	3058	7607	674	0
 Kuthia	2797	7922	117	0
 Kutrai	2796	7918	117	0
-Kutral	2796	7918	117	0
+Kutral	2796	7918	117	0	Kutrai
 Khūtiān	2798	7929	117	0
 Kuthlu	2782	7942	470	0
 Kuthla	2703	7945	570	0
@@ -155,7 +155,7 @@ Khūtāmba	2122	7859	141	0
 Khutāmba	2175	7883	337	0
 Qutbpur	2923	7752	545	0
 Kutulpur	2600	7668	116	0
-Kuti	3003	7478	563	0
+Kuti	3003	7478	563	0	Kishanpura
 Kuttiwāl Kalān	3013	7525	563	0
 Kutkya	2467	7602	371	0
 Shekh Kutb	3095	7553	674	0
@@ -167,7 +167,7 @@ Kutbewāl Gujrān	3096	7577	674	0
 Kutbewāl Raiān	3097	7583	674	0
 Kuti Sergarhi	2896	7773	700	0
 Kutwāya	2827	7769	637	0
-Kuttābad	2946	7482	585	0
+Kuttābad	2946	7482	585	0	Sārbadh
 Kutyana	2932	7500	585	0
 Kutbiwal	3168	7579	296	0
 Kutbpur	3165	7580	296	0
@@ -200,7 +200,7 @@ Khuteri	2122	8184	310	0
 Khutmāpur	1833	7746	140	0
 Kutubshāhpurwādi	1849	7755	140	0
 Kutakpur Sāhib	2711	7821	403	0
-Khūtīpura	2745	7845	711	0
+Khūtīpura	2745	7845	711	0	Abhairājpur
 Qutbpur	2738	7835	403	0
 Khutāla	2049	7836	67	0
 Bāpu Kuti	2073	7866	143	0
@@ -224,7 +224,7 @@ Kutiyādhāna	2232	7907	337	0
 Nagla Khutīya	2747	7775	177	0
 Kutri	2296	7947	522	0
 Qutbpur	2760	7879	711	0
-Kutera	2761	7882	616	0
+Kutera	2761	7882	616	0	Jalīlpur
 Qutbpur	2752	7883	711	0
 Kutabpur Sarāi	2763	7903	616	0
 Kutubshāhpet	1757	7805	31	0
@@ -663,7 +663,7 @@ Kuti Jankiran Dās	2686	8202	542	0
 Purwa Kuti Gopāl Dās	2684	8200	542	0
 Kuti Bhagwat Dās	2677	8202	629	0
 Kutia	2685	8208	542	0
-Kutia	2686	8215	542	0
+Kutia	2686	8215	542	0	Kunharwa
 Kuti Rām Dās	2696	8211	542	0
 Kuti Surat Singh	2698	8211	542	0
 Kuthār	2696	8218	542	0
@@ -689,7 +689,7 @@ Khutahna	2637	8211	597	0
 Khutahnān	2647	8224	629	0
 Kutupur	3372	7489	678	0
 Kutibrär	3370	7498	35	0
-Kutibraer	3370	7498	35	0
+Kutibraer	3370	7498	35	0	Kutibrär
 Kut Mandu	3352	7496	35	0
 Kutbpur	2619	8203	597	0
 Kuti Sādhu	2696	8232	154	0
@@ -724,7 +724,7 @@ Kuti Adhīn Dās	2663	8253	553	0
 Kuti Mahābīr Dās	2661	8256	553	0
 Pura Kuti	2655	8267	553	0
 Kutwāpur	2656	8260	553	0
-Kutbpur	2656	8260	553	0
+Kutbpur	2656	8260	553	0	Kutwāpur
 Khutahan	2674	8269	154	0
 Kutwa Muhammadpur	2647	8254	553	0
 Pura Kutīwa	2630	8250	553	0
@@ -807,7 +807,7 @@ Kuthār	2592	8177	718	0
 Khutahana	2581	8195	718	0
 Hanumānganj Kutilia	2594	8195	718	0
 Kutiya	2566	8183	607	0
-Khutahna	2561	8181	607	0
+Khutahna	2561	8181	607	0	Bhagwatīpur
 Kutlār	3240	7567	496	0
 Kutorbāin	3242	7574	692	0
 Kutora	3250	7566	496	0
@@ -1098,7 +1098,7 @@ Bhala Khutak	2966	7907	612	0
 Khutiāri	2541	8474	377	0
 Kuti	2526	8467	766	0
 Khutkhera	2285	7438	173	0
-Kutia Khet	2935	7943	551	0
+Kutia Khet	2935	7943	551	0	Nitrālbot
 Khutahān	2503	8455	137	0
 Kutitola	2521	8462	766	0
 Kutubpur Tera	2518	8470	766	0
@@ -1480,7 +1480,7 @@ Khutgaritolā	2367	8441	707	0
 Kutwā	2315	8442	321	0
 Kutmu	2345	8469	773	0
 Kutāsi	2301	8473	321	0
-Kutse	2387	8485	707	0
+Kutse	2387	8485	707	0	Piprādih
 Kuthniātoli	2393	8489	707	0
 Khutītoli	2358	8488	707	0
 Khuthan	2359	8488	707	0

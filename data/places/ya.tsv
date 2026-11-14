@@ -2,30 +2,30 @@ Yamuna Nagar	3013	7728	88	217071
 Yavatmāl	2039	7813	67	128175
 Yadgir	1677	7714	72	74294
 Yanam	1673	8221	87	55626
-Yanaon	1673	8221	87	55626
+Yanaon	1673	8221	87	55626	Yanam
 Yāval	2117	7570	78	36706
 Yanamalakuduru	1649	8067	68	34177
 Yamjāl	1727	7858	62	15689
 Yadagirigutta	1759	7894	129	15232
 Yāripur	3372	7502	35	12123
-Yari Pora	3372	7502	35	12123
+Yari Pora	3372	7502	35	12123	Yāripur
 Yamuna Vihar	2870	7727	791	10000
 Yairipok	2468	9405	95	9569
 Yārāda	1766	8327	81	3406
 Yadahalli	1684	7715	72	0
-Yadpalli	1868	7795	75	0
+Yadpalli	1868	7795	75	0	Yedapalli
 Yaytah	3333	7722	8	0
 Yavluj	1673	7413	57	0
 Yavat	1848	7427	52	0
 Yat-kirāna	823	9323	79	0
 Yarnāl	1662	7586	80	0
 Yaragol	1690	7707	72	0
-Yargol	1690	7707	72	0
+Yargol	1690	7707	72	0	Yaragol
 Yargatti	1597	7503	77	0
 Yapuik	2848	9442	82	0
 Yanmān	2706	9572	73	0
-Yaman	2706	9572	73	0
-Yankanchi	1687	7635	80	0
+Yaman	2706	9572	73	0	Yanmān
+Yankanchi	1687	7635	80	0	Yenkanchi
 Yāngpa	3161	7803	83	0
 Yangching	2645	9488	84	0
 Yangang	2728	8841	85	0
@@ -46,19 +46,19 @@ Yadita	1247	9272	99	0
 Yādiki	1505	7787	100	0
 Yādgud	1632	7460	77	0
 Yadgarpalli	1683	7958	101	0
-Yadala	1902	7285	106	0
-Yangling	3247	7713	425	0
-Yashvantnagar	2053	7839	143	0
-Ni-ya-ko-tsu	3401	7891	2	0
-Yaksanba	1653	7460	77	0
+Yadala	1902	7285	106	0	Wadala
+Yangling	3247	7713	425	0	Sissu
+Yashvantnagar	2053	7839	143	0	Sirpur
+Ni-ya-ko-tsu	3401	7891	2	0	Nyagzu
+Yaksanba	1653	7460	77	0	Eksambe
 Yadlāpur	1637	7733	50	0
 Dui Yambi	2783	9348	36	0
-Yanihāma	3425	7476	595	0
+Yanihāma	3425	7476	595	0	Tāiyānhom
 Yārmugam	3430	7480	595	0
 Yāripathri	3443	7480	120	0
 Yayil	3401	7479	76	0
 Yadal Behk	3437	7405	0	0
-Yadal Baihk	3437	7405	0	0
+Yadal Baihk	3437	7405	0	0	Yadal Behk
 Yamrad	3438	7420	0	0
 Yamrad Badiyān	3437	7420	0	0
 Yarīgund	3411	7465	76	0
@@ -87,7 +87,7 @@ Yāri	3014	7693	501	0
 Yakona	2780	7937	470	0
 Yāqūbpur	2771	7965	470	0
 Yākūtpur	2762	7953	470	0
-Yamuna Tarhati Etāwah	2676	7901	290	0
+Yamuna Tarhati Etāwah	2676	7901	290	0	Tharati Etawah
 Yasinnagar	2688	7904	290	0
 Yāqubpur	2687	7958	570	0
 Yāqūbpur	2676	7972	715	0
@@ -175,7 +175,7 @@ Yāgāpur	1692	7711	71	0
 Yalisati	1668	7736	72	0
 Yānāgundi	1690	7745	71	0
 Yadalāpur	1688	7731	72	0
-Yampahād	1685	7728	72	0
+Yampahād	1685	7728	72	0	Bewanahalli
 Yadepalli	1677	7742	72	0
 Yāqūtganj	2783	7880	616	0
 Yādgārpur	2777	7875	616	0
@@ -262,11 +262,11 @@ Yākesar	2104	7971	404	0
 Yākūbpur Baloch	2909	7846	575	0
 Patti Yākūb	2670	8127	30	0
 Purwa Yādgār Husain	2667	8136	30	0
-Yākūbpur	2901	7853	483	0
+Yākūbpur	2901	7853	483	0	Rāmnagar
 Yākub Khān Purwa	2640	8104	681	0
 Yākūbganj	2634	8127	681	0
 Purwa Yārali	2643	8189	597	0
-Yāqūbpur	2877	7829	483	0
+Yāqūbpur	2877	7829	483	0	Āgāpur Kalān
 Yahli	1977	7723	640	0
 Yarod	1964	7717	640	0
 Yākūbpur	2710	8159	542	0
@@ -391,7 +391,7 @@ Yahiāpur	2825	7947	342	0
 Yāqūb Chak	2605	8491	540	0
 Yākūbganj	2873	7964	342	0
 Yākūbpur	2853	7964	342	0
-Yākūbganj	2863	7968	683	0
+Yākūbganj	2863	7968	683	0	Gauntia Kishanpura
 Yakghara	2859	7984	683	0
 Barkhera Yāsīn	2836	7984	683	0
 Yahiāpur	2546	8485	604	0
@@ -601,7 +601,7 @@ Yagāchhia	2602	8768	613	0
 Yakghara	2784	8005	323	0
 Yakghara	2783	8016	323	0
 Raks Mahāl Bāz Yaft	2794	8009	470	0
-Yagnamedu	1255	7942	197	0
+Yagnamedu	1255	7942	197	0	Injimedu
 Yadamari	1316	7904	214	0
 Yakarpalli	1919	7826	408	0
 Yalareddipet	1915	7839	408	0

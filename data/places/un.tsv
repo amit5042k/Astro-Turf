@@ -1,9 +1,9 @@
 Unnāo	2655	8049	312	161671
 Una	2082	7104	136	58528
 Unjha	2380	7239	164	57108
-Ungul	2084	8510	414	44386
+Ungul	2084	8510	414	44386	Angul
 Unchagao	1670	7427	57	31238
-Unchagoa	1670	7427	57	31238
+Unchagoa	1670	7427	57	31238	Unchagao
 Un	2389	7177	134	30671
 Unamaucheri	1286	8011	247	29122
 Unnamalaikadai	830	7724	453	23656
@@ -15,11 +15,11 @@ Unhel	2334	7556	314	15837
 Ungutūru	1682	8142	24	14280
 Uniāra	2592	7603	313	12551
 Uniāra	2615	7522	313	11441
-Uniyāra Khurd	2615	7522	313	11441
+Uniyāra Khurd	2615	7522	313	11441	Uniāra
 Ūncha Sawāna	2962	7700	457	8922
 Osmania University	1741	7853	424	6762
 Santokhpur Unwan	2695	7911	290	3900
-Santoshpur Unwa	2695	7911	290	3900
+Santoshpur Unwa	2695	7911	290	3900	Santokhpur Unwan
 Unjalūr	1113	7787	211	2482
 Unwa Birit	2679	8482	396	754
 Unurāla	2203	7031	145	0
@@ -34,7 +34,7 @@ Undīrgaon	1968	7471	152	0
 Undiāl	1643	7776	317	0
 Undi	1659	8146	318	0
 Undavalli	1650	8059	319	0
-Undavalle	1650	8059	319	0
+Undavalle	1650	8059	319	0	Undavalli
 Undangaon	2046	7566	113	0
 Unchod	2334	7666	320	0
 Unchibali	2188	8544	293	0
@@ -42,18 +42,18 @@ Unchdih	2281	8486	321	0
 Unchāwad	2273	7643	322	0
 Unchaulia	2781	8007	323	0
 Unaul	2663	8329	325	0
-Unanl	2663	8329	325	0
-Unawal	2663	8329	325	0
+Unanl	2663	8329	325	0	Unaul
+Unawal	2663	8329	325	0	Unaul
 Unārsi	2431	7735	215	0
 Unārsītāl	2403	7783	215	0
-Unārsi	2403	7783	215	0
+Unārsi	2403	7783	215	0	Unārsītāl
 Unāo	2558	7860	326	0
 Una	3158	7625	327	0
 Un	2182	7546	329	0
 Rāni Unchegaon	1964	7596	53	0
-Unchegaon	1964	7596	53	0
+Unchegaon	1964	7596	53	0	Rāni Unchegaon
 Nagar Untāri	2428	8349	743	0
-Ūnchāhār	2591	8129	681	0
+Ūnchāhār	2591	8129	681	0	Mustafābād
 Unchpadra	2667	7196	217	0
 Untheri	3000	7696	501	0
 Unaspur	2988	7695	457	0
@@ -62,11 +62,11 @@ Bāina Ūncha	3058	7622	648	0
 Untsāl	3003	7692	501	0
 Uncha Islāmābād	2706	7939	464	0
 Unwan	2694	7912	290	0
-Unwa	2694	7912	290	0
+Unwa	2694	7912	290	0	Unwan
 Uncho	2632	7914	741	0
-Ūncha	2632	7914	741	0
+Ūncha	2632	7914	741	0	Uncho
 Ūncha Mangra	2681	7552	121	0
-Ūnchāmagra	2681	7552	121	0
+Ūnchāmagra	2681	7552	121	0	Ūncha Mangra
 Ūnti	2677	7552	121	0
 Uniwalia	2675	7220	344	0
 Unchairia	2717	7468	430	0
@@ -87,7 +87,7 @@ Unar	3070	7719	534	0
 Ūncha Chandna	3018	7713	88	0
 Ūnchi Dibbar	3098	7736	534	0
 Ungar Patti	3070	7726	534	0
-Uniāri	3071	7746	534	0
+Uniāri	3071	7746	534	0	Andheri
 Ungar	3064	7746	534	0
 Ūntwāl	2761	7672	482	0
 Ūnheri	3003	7727	88	0
@@ -133,8 +133,8 @@ Underagaor	1800	7625	48	0
 Ūntāsāni	2795	7755	543	0
 Undi	2771	7756	177	0
 Ūnchāgaon	2744	7759	177	0
-Undhera	2843	7780	637	0
-Ūnchāgaon	2816	7793	637	0
+Undhera	2843	7780	637	0	Nawada
+Ūnchāgaon	2816	7793	637	0	Nāiphal
 Nagla Ūncha	2715	7758	114	0
 Ūndra	2720	7763	114	0
 Undera	2707	7770	546	0
@@ -253,7 +253,7 @@ Unai	2633	8130	681	0
 Undih	2633	8140	662	0
 Undwa	2630	8145	662	0
 Ūnchgāon	2634	8185	597	0
-Unha	2589	8100	728	0
+Unha	2589	8100	728	0	Jaitpur
 Unchi Shevri Pāda	2117	7401	186	0
 Unaibarna	2530	8108	643	0
 Unchi	2511	8103	643	0
@@ -265,7 +265,7 @@ Unai	2706	8097	714	0
 Ūnchegaon	1955	7762	140	0
 Ūn Kalān	2817	7983	470	0
 Ūn Khurd	2816	7984	470	0
-Unchahar-Dalman Section	2602	8109	681	0
+Unchahar-Dalman Section	2602	8109	681	0	Rasulpur Dharawan
 Pura Ūncha	2668	8152	30	0
 Unchgāon	2655	8155	662	0
 Bāgh Unūn	2602	8184	718	0
@@ -296,7 +296,7 @@ Untāpār	2717	8314	292	0
 Unsara	2681	8301	647	0
 Unrahi	2682	8305	647	0
 Un	2680	8306	647	0
-Un Jangal	2681	8309	647	0
+Un Jangal	2681	8309	647	0	Thangīcha
 Unchāgāon	2651	8303	647	0
 Unbelai	2666	8306	647	0
 Unaula	2661	8323	325	0
@@ -371,7 +371,7 @@ Unalkha	3007	7896	612	0
 Ūncha Kot	2995	7881	612	0
 Uneri	2982	7885	612	0
 Unchagāon	2849	7815	637	0
-Ūnchagāon	2809	7844	637	0
+Ūnchagāon	2809	7844	637	0	Abutālibpūr
 Uncha Kāni	2878	7878	511	0
 Unyānātewar	3058	7921	365	0
 Undadi	1375	7471	257	0

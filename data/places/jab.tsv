@@ -1,5 +1,5 @@
 Jabalpur	2317	7995	598	1081677
-Jabalipura	2535	7262	343	54081
+Jabalipura	2535	7262	343	54081	Jalor
 Jhābua	2277	7459	348	35753
 Vehicle Factory Area Jabalpur	2323	7998	598	8087
 Jabera	2356	7968	521	6806
@@ -7,23 +7,23 @@ Jhāb	2502	7183	343	4349
 Jhabugām	2229	7377	126	0
 Jabrā	2402	8485	393	0
 Jhabrera	2981	7778	596	0
-Jabarhera	2981	7778	596	0
+Jabarhera	2981	7778	596	0	Jhabrera
 Jabāgarh	1846	8258	316	0
 Jabrasar	2894	7469	486	0
 Jabwāl Kalān	3249	7475	581	0
 Jabwāl Khur	3249	7475	581	0
-Jabwāl Khurd	3249	7475	581	0
+Jabwāl Khurd	3249	7475	581	0	Jabwāl Khur
 Jabriān	3316	7413	504	0
 Jaban	3441	7476	120	0
 Jablawāla Danna	3383	7423	1	0
 Zab Baihk	3425	7421	301	0
 Sīla nā Jabbai	3320	7411	504	0
-Sila na Jabbar	3320	7411	504	0
+Sila na Jabbar	3320	7411	504	0	Sīla nā Jabbai
 Jabbar	3319	7415	504	0
 Jabbar	3317	7412	504	0
 Jābah	3307	7434	504	0
 Jabbeān	3442	7386	0	0
-Jabbeā	3442	7386	0	0
+Jabbeā	3442	7386	0	0	Jabbeān
 Jabra	3429	7396	0	0
 Jabri	3438	7388	0	0
 Jabri	3434	7387	0	0
@@ -35,9 +35,9 @@ Jabra	2709	7939	464	0
 Jhābar	2707	7948	570	0
 Shafīpur Jabti	2711	7977	570	0
 Nagla Jabalpur	2683	7919	290	0
-Jabarpura	2683	7919	290	0
+Jabarpura	2683	7919	290	0	Nagla Jabalpur
 Nagla Jhābar	2698	7952	570	0
-Nagla Jhāber	2698	7952	570	0
+Nagla Jhāber	2698	7952	570	0	Nagla Jhābar
 Jabarpur	2690	7958	570	0
 Purwa Jhabra	2686	7967	715	0
 Jabla	2251	8398	398	0
@@ -89,9 +89,9 @@ Jhabreri Kalān	2982	7780	596	0
 Jhabīran	2978	7784	596	0
 Zabardastpur	2982	7794	596	0
 Jhabarpur	2964	7791	545	0
-Jabbewāl	3089	7596	674	0
+Jabbewāl	3089	7596	674	0	Bholāpur
 Khānpur Zabti	2877	7725	727	0
-Jhabluti	3032	7494	563	0
+Jhabluti	3032	7494	563	0	Amargarh
 Jabtra	2452	7424	22	0
 Zābtewāla	2966	7570	443	0
 Jabbarkhet	3045	7813	448	0
@@ -166,13 +166,13 @@ Jabla	3408	7403	301	0
 Jabri	3407	7402	301	0
 Jabri	3406	7418	301	0
 Kumriya Jabla	2903	7869	511	0
-Kumriya Jabla	2904	7870	511	0
-Karnāwāla Jabdi	2918	7877	511	0
+Kumriya Jabla	2904	7870	511	0	Mahdūd Kalmi
+Karnāwāla Jabdi	2918	7877	511	0	Mazra
 Karnāwāla Jabdi	2917	7877	511	0
 Purwa Jabar Singh	2646	8179	662	0
 Jābarpur	2626	8186	662	0
 Jabarganj	2646	8194	597	0
-Jhabbārpur	2579	8112	728	0
+Jhabbārpur	2579	8112	728	0	Naya Purwa
 Jabdi	2895	7837	483	0
 Jhabar Khera	2700	8080	714	0
 Jhabra	2718	8098	30	0
@@ -223,7 +223,7 @@ Mathia Zabti Māfi	2629	8296	498	0
 Zabilpur	3378	7510	148	0
 Jabdaur	2725	8368	515	0
 Dariwan Zabti	2676	8303	647	0
-Darīwān Zabit Adālaat	2672	8308	647	0
+Darīwān Zabit Adālaat	2672	8308	647	0	Darwa
 Arāzi Zabti	2673	8308	647	0
 Jabraila Biskhor	2670	8315	325	0
 Bānsi Zabti Māfi	2625	8304	498	0

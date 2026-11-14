@@ -2,7 +2,7 @@ Bikaner	2802	7331	307	644406
 Bikramganj	2521	8426	409	48465
 Bikram	2545	8486	604	22486
 Bhikkiwind Uttār	3135	7470	260	20526
-Bhikkiwind	3135	7470	260	20526
+Bhikkiwind	3135	7470	260	20526	Bhikkiwind Uttār
 Bhīkhi	3006	7554	709	17825
 Bhikshāndārkovil	1088	7870	270	17257
 Bhikangaon	2187	7596	329	16217
@@ -26,7 +26,7 @@ Bikhon	3291	7500	373	0
 Bhiklāsi	2987	7874	612	0
 Bhikaji Cama Place	2857	7719	721	0
 Bikrampura	2496	7897	481	0
-Biklampura	2496	7897	481	0
+Biklampura	2496	7897	481	0	Bikrampura
 Mānpur Biku	2725	7929	464	0
 Bhīkhampur Amjad	2718	7947	570	0
 Bhīkpur	2707	7931	464	0
@@ -36,11 +36,11 @@ Bikrampur	2699	7920	464	0
 Bikaydās ka Nagla	2689	7924	290	0
 Nagla Bhikkhi	2684	7925	290	0
 Nagla Bhikampura	2687	7922	290	0
-Bhīkhampura	2687	7922	290	0
+Bhīkhampura	2687	7922	290	0	Nagla Bhikampura
 Ruppur Sarai Bhikan	2689	7908	290	0
 Bhikhan ka Nagla	2681	7905	290	0
 Mānakpur Bhikan	2679	7909	290	0
-Mānikpur Bhikan	2679	7909	290	0
+Mānikpur Bhikan	2679	7909	290	0	Mānakpur Bhikan
 Bikrampura	2641	7907	334	0
 Bhīkampura	2634	7918	741	0
 Bikrampur	2695	7974	570	0
@@ -52,13 +52,13 @@ Purwa Bhīkhdeo	2660	7990	671	0
 Murera Bikramsingh	2653	7981	671	0
 Purwa Bhikka	2655	7980	671	0
 Bhikampur	2407	7908	352	0
-Bikān	2839	7430	539	0
+Bikān	2839	7430	539	0	Rājāsar
 Bikamsara	2845	7442	539	0
 Bīkān ki Dhani	2816	7483	539	0
 Bikrampur	2492	9266	378	0
 Bikrampur	2491	7981	663	0
 Bhīkampur	2795	8045	525	0
-Bhikamper	2795	8045	525	0
+Bhikamper	2795	8045	525	0	Bhīkampur
 Bikamsara	2793	7490	491	0
 Bikrampur	2132	8647	421	0
 Bikna	2326	8709	571	0
@@ -201,7 +201,7 @@ Bīka Chak	2557	8326	26	0
 Bhikhepur	2562	8344	26	0
 Bikrampur	2213	7706	465	0
 Bikaura	2498	7981	663	0
-Bikramganj	2484	7985	663	0
+Bikramganj	2484	7985	663	0	Lakhairi
 Bīkar	2570	7860	503	0
 Bhikhāri Chak	2598	8367	586	0
 Bhikhampura	2588	8374	536	0
@@ -250,7 +250,7 @@ Bikrampur	2327	7933	521	0
 Sarāi Bikram	2556	8255	32	0
 Bhīkampur	2558	8258	32	0
 Bikrāmpur	2315	7936	522	0
-Bhīkampur	2559	8139	651	0
+Bhīkampur	2559	8139	651	0	Tegain
 Bikrampur	2543	8226	607	0
 Bhīkhīpur	2529	8232	583	0
 Bhikhārīrāmpur	2543	8245	583	0
@@ -320,7 +320,7 @@ Bhikhra	2658	8141	30	0
 Purwa Bhīkhu	2667	8144	30	0
 Bhīkarpur	2675	8149	30	0
 Bhikāwāla	2948	7877	575	0
-Bikrampur	2929	7879	641	0
+Bikrampur	2929	7879	641	0	Rājpur
 Bikāripur	2634	8106	681	0
 Bikrampur	2631	8107	681	0
 Purwā Bhik	2626	8107	681	0
@@ -542,8 +542,8 @@ Bhīk ka Pura	2568	8151	718	0
 Bikrampur	2653	8372	535	0
 Bhīkhampur	2554	8156	651	0
 Bhīkhpur	2556	8168	607	0
-Bhikhārīpur	2556	8168	607	0
-Bhikhnāpur	2553	8174	607	0
+Bhikhārīpur	2556	8168	607	0	Bhīkhpur
+Bhikhnāpur	2553	8174	607	0	Tājpur
 Bhikaisakar ka Purwa	2565	8166	718	0
 Bhikanpura	2634	8369	535	0
 Jamālpur Bhikampur	2615	8353	586	0
@@ -575,7 +575,7 @@ Bikrampatti	2588	8191	718	0
 Til Bikrampur	2598	8196	718	0
 Bhikhari	2597	8191	718	0
 Phūlpur Bikram	2572	8184	607	0
-Pure Bhīkhu	2572	8184	607	0
+Pure Bhīkhu	2572	8184	607	0	Phūlpur Bikram
 Bhikhnāpur	2571	8188	607	0
 Bīkar	2532	8180	607	0
 Bhīkārkheri	2230	7586	329	0
@@ -669,7 +669,7 @@ Bikata	2431	8265	631	0
 Bhikha Muwara	2302	7338	142	0
 Bhikha Muwara	2302	7336	142	0
 Bikrampur	2919	7913	641	0
-Bhīkampūri	2923	7917	641	0
+Bhīkampūri	2923	7917	641	0	Kaliā-kā-Gaon
 Bhikhampur	2530	8455	377	0
 Bikawās	2531	7387	572	0
 Bikani	2470	7379	22	0

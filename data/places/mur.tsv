@@ -1,24 +1,24 @@
-Murādābād	2884	7878	511	721139
+Murādābād	2884	7878	511	721139	Morādābād
 Murwāra	2384	8039	351	221883
 Murādnagar	2878	7750	727	89482
-Muravnagar	2878	7750	727	89482
+Muravnagar	2878	7750	727	89482	Murādnagar
 Murtajāpur	2073	7737	172	40295
 Murshidābād	2418	8827	471	39557
 Murlīganj	2590	8700	657	28691
 Murugampālaiyam	1108	7732	235	26349
-Mūrinda	3079	7650	735	24022
+Mūrinda	3079	7650	735	24022	Morinda
 Murbād	1925	7339	246	18725
-Murum	1779	7647	48	18371
+Murum	1779	7647	48	18371	Moram
 Murudeshwara	1409	7448	569	17938
-Murhi	2093	8554	289	16810
+Murhi	2093	8554	289	16810	Kāmākhyānagar
 Muri	2337	8586	664	12744
 Murud	1833	7296	17	12665
-Murad	1833	7296	17	12665
+Murad	1833	7296	17	12665	Murud
 Mursān	2758	7794	670	12310
 Murgūd	1640	7419	57	11194
 Muragācha	2354	8839	528	10324
 Ganj Murādābād	2696	8018	312	9970
-Murādābad Patti	2696	8018	312	9970
+Murādābad Patti	2696	8018	312	9970	Ganj Murādābād
 Murmāri	2107	7983	404	7576
 Murda	1548	7385	188	7517
 Murakambattu	1325	7912	214	6812
@@ -26,7 +26,7 @@ Muraidih	2381	8624	401	6360
 Muriāro	2582	8590	138	5457
 Muringur Vadakummuri	1029	7634	241	4981
 Murhāri	2418	9182	695	4827
-Murbari	2418	9182	695	4827
+Murbari	2418	9182	695	4827	Murhāri
 Simli Murārpur	2558	8524	604	3739
 Murwal	2552	8056	463	0
 Murum	1807	7431	64	0
@@ -39,7 +39,7 @@ Murpār	2118	8042	171	0
 Mūrlen	2366	9328	253	0
 Murkunda	2299	8469	321	0
 Murkong Selek	2783	9523	299	0
-Murkong Selok	2783	9523	299	0
+Murkong Selok	2783	9523	299	0	Murkong Selek
 Murkal	1213	7616	193	0
 Murjha	2032	7992	111	0
 Murhu	2297	8528	432	0
@@ -56,7 +56,7 @@ Murāpāra	2037	8258	594	0
 Muramgaon	2033	8047	135	0
 Murākta	2204	7470	248	0
 Muragamale	1344	7813	438	0
-Muragamalo	1344	7813	438	0
+Muragamalo	1344	7813	438	0	Muragamale
 Mūrara	2398	7849	352	0
 Mirza Murād	2529	8278	251	0
 Murwās	2407	7751	215	0
@@ -78,7 +78,7 @@ Murera	2665	8359	325	0
 Sathiya Moorthy Nagar	1312	8027	204	0
 Murugeshpalya	1296	7766	43	0
 Murot	2813	7553	300	0
-Murād Mājra	3020	7656	564	0
+Murād Mājra	3020	7656	564	0	Akbarpur
 Murari	2424	7813	352	0
 Muriya	2420	7817	352	0
 Murari	2404	7815	352	0
@@ -137,7 +137,7 @@ Murlipura	2727	7663	482	0
 Muria	2736	7669	482	0
 Murād Ka Bās	2785	7693	705	0
 Murādbās	2793	7691	482	0
-Murtazāpur Bulāki	2941	7816	575	0
+Murtazāpur Bulāki	2941	7816	575	0	Peda
 Mūrla Chāwal	2356	7827	338	0
 Mūrla Ber	2356	7827	338	0
 Murpār	2349	7829	338	0
@@ -219,7 +219,7 @@ Muriazābād	2798	7751	754	0
 Murwāka	2791	7761	177	0
 Murhesi	2741	7764	177	0
 Murshidpur	1798	7650	48	0
-Murtazābād	2829	7791	637	0
+Murtazābād	2829	7791	637	0	Bhatwāra
 Mursāna	2841	7797	637	0
 Murhālī	2240	8227	388	0
 Murlī	2226	8244	388	0
@@ -275,7 +275,7 @@ Murhārpur	2089	7897	141	0
 Murādpur	2062	7897	143	0
 Muradgaon	2042	7891	111	0
 Murpād	2046	7891	143	0
-Murpād	2047	7894	143	0
+Murpād	2047	7894	143	0	Selu
 Murdhoni	2006	7890	67	0
 Murphori	2760	7783	177	0
 Nagla Murja	2761	7780	177	0
@@ -309,7 +309,7 @@ Murādpur	2800	7824	543	0
 Muriya	2276	7913	337	0
 Murgītola	2251	7922	337	0
 Piproth Murshidpur	2726	7780	177	0
-Murshidābād	2729	7790	177	0
+Murshidābād	2729	7790	177	0	Bīpur
 Murlīponri	2290	7929	522	0
 Murādnagar	2774	7878	616	0
 Nagla Murli	2770	7890	616	0
@@ -319,7 +319,7 @@ Murkhiya	2705	7793	546	0
 Murenda	2722	7784	546	0
 Muriyākhera	2202	7960	368	0
 Mūrāpār	2203	7972	368	0
-Murkundi	2217	7968	368	0
+Murkundi	2217	7968	368	0	Sālīwārātola
 Murārmau	2692	7895	290	0
 Murong	2677	7880	290	0
 Purwa Murong	2678	7879	290	0
@@ -347,7 +347,7 @@ Murkhera	2583	7773	436	0
 Murkhera	2568	7773	436	0
 Murchha	2796	7995	470	0
 Murchhi	2796	7995	470	0
-Murādgaon	2793	7996	470	0
+Murādgaon	2793	7996	470	0	Dāwatpur
 Murhaiyān	2734	7975	686	0
 Murheni	2533	7762	436	0
 Murāri	2581	7797	484	0
@@ -572,11 +572,11 @@ Murārā	2570	8287	32	0
 Murkhā	2567	8299	32	0
 Murlīpur	2565	8291	32	0
 Murārmau	2617	8079	681	0
-Murshadpur	2958	7838	575	0
-Murtāzpur	2958	7844	575	0
-Murtāzpur	2957	7844	575	0
-Rāmpur Murār	2951	7832	575	0
-Keshodāspur Murādpur	2930	7826	575	0
+Murshadpur	2958	7838	575	0	Pānāpur
+Murtāzpur	2958	7844	575	0	Pūranpur
+Murtāzpur	2957	7844	575	0	Chandanwāla
+Rāmpur Murār	2951	7832	575	0	Sūra Nagli
+Keshodāspur Murādpur	2930	7826	575	0	Baldia
 Dilli Murshadpur	2926	7837	575	0
 Murshadpur	2926	7838	575	0
 Murpali	2468	8231	201	0
@@ -715,8 +715,8 @@ Pura Murāo	2744	8192	294	0
 Bakhsh Murāo Pura	2737	8196	542	0
 Pura Murso	2735	8199	542	0
 Murli	1989	7796	140	0
-Murādnagar	2887	7852	483	0
-Murādnagar	2887	7851	483	0
+Murādnagar	2887	7852	483	0	Chak Dhanaura
+Murādnagar	2887	7851	483	0	Dhanaura
 Murārmau	2593	8136	681	0
 Murāssāpur	2582	8136	718	0
 Muraithi	2590	8142	718	0
@@ -765,7 +765,7 @@ Pura Murāwan	2700	8208	542	0
 Pura Murāwan	2702	8207	542	0
 Murat Bankat	2725	8214	542	0
 Purwa Mūrat	2711	8213	542	0
-Muriyādoli	2533	8142	651	0
+Muriyādoli	2533	8142	651	0	Gointha
 Pura Murāwan	2707	8209	542	0
 Pura Murāon	2706	8209	542	0
 Purwa Murāo	2705	8215	542	0
@@ -1151,7 +1151,7 @@ Murālipāli	2195	8331	439	0
 Murlipāli	2170	8348	627	0
 Murādpur	2888	7817	483	0
 Muhammad Murādpur	2886	7802	756	0
-Murādpur	2882	7805	756	0
+Murādpur	2882	7805	756	0	Janupura
 Murli Nagla	2833	7802	637	0
 Murādnagar	2830	7818	637	0
 Murādpur	2822	7817	637	0
@@ -1181,7 +1181,7 @@ Baldi Murāo Purwa	2618	8134	681	0
 Pura Murāin	2618	8134	681	0
 Murāo Purwa	2611	8144	681	0
 Murāi Purwa	2609	8145	681	0
-Murtazānagar	2606	8142	681	0
+Murtazānagar	2606	8142	681	0	Mandwalia
 Murārpur	2681	8156	30	0
 Murādābād	2684	8170	629	0
 Murtiha	2696	8166	30	0
@@ -1342,7 +1342,7 @@ Murchawā	2423	8417	701	0
 Murmusī	2406	8420	701	0
 Murubār	2404	8424	701	0
 Murārpatti	2572	8448	536	0
-Murdhoi	2424	8446	393	0
+Murdhoi	2424	8446	393	0	Bānāsam
 Murainiya	2458	8472	118	0
 Murgiātānr	2421	8452	393	0
 Murārpur	2538	8597	604	0
@@ -1440,7 +1440,7 @@ Murli Chandua	2565	8697	657	0
 Muraut	2549	8688	657	0
 Murda	1817	7923	466	0
 Murmūr	1883	7938	748	0
-Patti Murmūr	1878	7948	748	0
+Patti Murmūr	1878	7948	748	0	Medapalli
 Murāverak	2324	7365	142	0
 Mur’iyādu	1182	7559	266	0
 Muringōdi	1191	7573	266	0
@@ -1574,7 +1574,7 @@ Murkani	1258	7734	626	0
 Murrigowdachattra	1258	7743	626	0
 Murlethimmandoddi	1242	7730	626	0
 Murhalli	1260	7751	626	0
-Mūrti	1530	7842	232	0
+Mūrti	1530	7842	232	0	Krishnāpuram
 Muragampalle	1490	7813	229	0
 Murārichintala	1445	7807	229	0
 Mūrtipalle	1412	7814	444	0
@@ -1743,7 +1743,7 @@ Murumkelā	2304	8437	321	0
 Murup	2382	8460	707	0
 Murtiātoli	2377	8472	707	0
 Murhukarchātoli	2356	8450	773	0
-Murukarchā	2356	8450	773	0
+Murukarchā	2356	8450	773	0	Murhukarchātoli
 Murtiātoli	2369	8469	707	0
 Murki	2340	8462	773	0
 Murpā	2334	8467	773	0

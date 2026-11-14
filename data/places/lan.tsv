@@ -2,21 +2,21 @@ Lanka	2593	9295	706	36805
 Lānja	1686	7355	234	14377
 Lānjī	2150	8054	144	13558
 Lansdowne	2984	7868	612	8198
-Landa	1547	7452	77	6131
-Langjing	2479	9388	416	5451
+Landa	1547	7452	77	6131	Londa
+Langjing	2479	9388	416	5451	Patsoi
 Langriān	3109	7574	369	337
-Lang-chiu	2863	9355	557	0
+Lang-chiu	2863	9355	557	0	Longju
 Lankavanidibba	1579	8084	220	0
 Lankapatti	2592	9294	706	0
 Lankāpāra Hāt	2679	8923	752	0
-Lankapara	2679	8923	752	0
+Lankapara	2679	8923	752	0	Lankāpāra Hāt
 Lankāgarh	2005	8363	387	0
 Lanka	1924	8076	288	0
 Lanjora	1972	8165	659	0
 Lanjigarh	1971	8336	284	0
 Lāngyen	2554	9297	494	0
 Langting	2550	9311	494	0
-Lanting	2550	9311	494	0
+Lanting	2550	9311	494	0	Langting
 Lang Thanga	3180	7817	83	0
 Langrātoli	2295	8493	321	0
 Lāngo	2250	8630	584	0
@@ -30,16 +30,16 @@ Langera	3287	7586	362	0
 Langarpeth	1708	7495	65	0
 Langadia Āmba	2137	7564	525	0
 Lāndrān	3069	7667	632	0
-Lāndra	3069	7667	632	0
+Lāndra	3069	7667	632	0	Lāndrān
 Landegawādi	1886	7704	140	0
-Lāndgāwāri	1886	7704	140	0
+Lāndgāwāri	1886	7704	140	0	Landegawādi
 Lānbakhera	2345	7762	338	0
 Baitha Lāngso	2597	9259	330	0
 Langar	3316	7418	504	0
 Lanjhā	3324	7449	504	0
 Lanji Bhurji	3387	7436	1	0
 Langotīan	3262	7482	581	0
-Langutiān	3262	7482	581	0
+Langutiān	3262	7482	581	0	Langotīan
 Langar	3267	7488	581	0
 Lāngtut	3459	7639	8	0
 Lāngha	3047	7790	448	0
@@ -56,7 +56,7 @@ Langdiangngan	2528	9099	745	0
 Langklam	2545	9274	494	0
 Lāngra Bāsti	2625	9396	740	0
 Lanukuvada	1683	8214	269	0
-Lanbehela	1997	7793	67	0
+Lanbehela	1997	7793	67	0	Lonbehela
 Lanchor	2278	7727	675	0
 Langolpota	2262	8851	450	0
 Langha Range	3035	7775	448	0
@@ -68,7 +68,7 @@ Langhui	3146	7733	680	0
 Langhānwāli	3009	7444	615	0
 Lānda Roda	3059	7452	615	0
 Dera Lang	3021	7472	563	0
-Landa	3090	7477	566	0
+Landa	3090	7477	566	0	Bhamewāla
 Lanu	3117	7734	479	0
 Bari Lānj	3146	7753	680	0
 Lakhi Lānj	3146	7753	680	0
@@ -111,7 +111,7 @@ Landhaura	2980	7793	596	0
 Landhowāl	3097	7579	674	0
 Landha	3077	7599	674	0
 Lānpiya	2546	7468	309	0
-Landha	3049	7579	593	0
+Landha	3049	7579	593	0	Isāpur
 Lāngariān	3047	7599	775	0
 Langan	3322	7600	34	0
 Lankh	3342	7635	547	0
@@ -231,7 +231,7 @@ Lankalagadda	1867	8013	237	0
 Langrapur	2688	8389	560	0
 Langri	2680	8397	560	0
 Lankāpalli	1861	8066	288	0
-Lankapalle	1861	8066	288	0
+Lankapalle	1861	8066	288	0	Lankāpalli
 Lānohān	3303	7575	372	0
 Langwāl	3338	7581	34	0
 Lānchai	3319	7595	34	0
@@ -339,10 +339,10 @@ Landūlu	1820	8240	268	0
 Langiputtu	1852	8263	316	0
 Lanjiputtu	1854	8270	316	0
 Langapusi	1825	8254	268	0
-Lanjallanka	1648	8074	68	0
+Lanjallanka	1648	8074	68	0	Gangūru
 Lanjiguda	1854	8284	316	0
 Lanjisunku	1875	8285	316	0
-Lanjiputtu	1875	8285	316	0
+Lanjiputtu	1875	8285	316	0	Lanjisunku
 Lanjiguda	1862	8293	316	0
 Lanjiguda	1856	8295	316	0
 Lankapalle	1649	8090	68	0
@@ -449,7 +449,7 @@ Langbāhāl	2171	8418	567	0
 Langbāhāl	2157	8418	567	0
 Landakkattai	1081	7816	187	0
 Lanjamettuppatti	1052	7849	198	0
-Lankāidih	2291	8560	653	0
+Lankāidih	2291	8560	653	0	Tarāpdih
 Lanji	2281	8557	287	0
 Lāndusāi	2219	8578	287	0
 Landijhar	2150	8502	712	0

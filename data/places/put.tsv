@@ -2,25 +2,25 @@ Pūth Kalān	2871	7708	689	96002
 Puttūr	1344	7955	45	54092
 Puttūr	1276	7520	55	53331
 Puthenvelikara	1019	7625	176	33372
-Puttanvelikara	1019	7625	176	33372
+Puttanvelikara	1019	7625	176	33372	Puthenvelikara
 Puthuppariyāram	1081	7663	263	30895
 Puthuppally	956	7657	271	29635
 Puttankulam	881	7672	549	29447
-Poothakkulam	881	7672	549	29447
-Puttambi	1080	7618	263	28632
-Puthuvype	997	7625	176	23717
+Poothakkulam	881	7672	549	29447	Puttankulam
+Puttambi	1080	7618	263	28632	Pattāmbi
+Puthuvype	997	7625	176	23717	Vypīn
 Puthencruz	998	7641	176	22378
-Puttan kuriśŭ	998	7641	176	22378
-Puthunagaram	1068	7668	263	17892
+Puttan kuriśŭ	998	7641	176	22378	Puthencruz
+Puthunagaram	1068	7668	263	17892	Pudunagaram
 Puthūr	1049	7628	241	17430
 Puttalam	810	7746	453	13073
 Puthukkad	1042	7627	241	12615
-Puthur Agraharam	1163	7811	51	11173
+Puthur Agraharam	1163	7811	51	11173	Pudūr
 Pūth Khurd	2877	7705	769	10654
-Puthagaram	1311	8023	204	10263
+Puthagaram	1311	8023	204	10263	Agaram
 Puthukkadai	828	7718	453	9909
 Puttaparthi	1417	7781	444	9000
-Putheri	822	7743	453	5576
+Putheri	822	7743	453	5576	Puderiyūr
 Puttantura	810	7742	453	5386
 Putukipali	2055	8361	308	0
 Puttan Taruvai	834	7793	208	0
@@ -31,13 +31,13 @@ Puthuppādi	1150	7597	262	0
 Puthupalli	950	7653	271	0
 Pūth Khās	2903	7759	700	0
 Puthimāri	2669	9222	381	0
-Puthiman	2669	9222	381	0
+Puthiman	2669	9222	381	0	Puthimāri
 Pūtalapattu	1335	7909	214	0
 Puturia	2234	8808	354	0
 Puthwālenda	3294	7462	581	0
-Puthwālendo	3294	7462	581	0
+Puthwālendo	3294	7462	581	0	Puthwālenda
 Puthi Semān	2908	7626	339	0
-Puththi	2908	7626	339	0
+Puththi	2908	7626	339	0	Puthi Semān
 Puttapāka	1711	7893	129	0
 Putlūr	1311	7994	228	0
 Puttennahalli	1290	7758	43	0
@@ -65,7 +65,7 @@ Pūthi Brahman	2898	7728	477	0
 Puthar	2897	7739	477	0
 Pūthri	2893	7757	700	0
 Puthri	2887	7751	727	0
-Pūtha	2895	7766	700	0
+Pūtha	2895	7766	700	0	Sundra
 Dīnānāthpur Pūthi	2866	7756	727	0
 Pūtha Husainpur	2870	7774	756	0
 Puthi Mangal Khān	2903	7594	339	0
@@ -222,7 +222,7 @@ Puttatogu	1758	8091	60	0
 Puttadigaurammapeta	1772	8256	227	0
 Putiagūda	1853	8211	109	0
 Pūtgaon	1839	8211	109	0
-Putilimāli	1950	8313	363	0
+Putilimāli	1950	8313	363	0	Māhpadar
 Putliputtu	1848	8250	268	0
 Puttakota	1821	8240	268	0
 Putrāguda	1896	8251	316	0
@@ -597,7 +597,7 @@ Puttūr	1129	7870	270	0
 Putgāon	2179	8577	293	0
 Putria	2164	8587	293	0
 Putotoli	2410	8562	764	0
-Puto	2411	8561	764	0
+Puto	2411	8561	764	0	Simrādhāh
 Putar	2438	8648	502	0
 Puturia	2414	8650	452	0
 Putibānd	2145	8401	567	0

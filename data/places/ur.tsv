@@ -2,12 +2,12 @@ Urun-Islāmpur	1705	7427	65	67391
 Uravakonda	1494	7725	100	35565
 Uran	1888	7294	17	30439
 Urakam	1105	7599	150	29157
-Urapakkam	1286	8011	247	29122
+Urapakkam	1286	8011	247	29122	Unamaucheri
 Urmar	3168	7564	296	23419
-Urmar Tanda	3168	7564	296	23419
+Urmar Tanda	3168	7564	296	23419	Urmar
 Rajopatti urf Kota Bazar	2658	8551	582	14631
 Urakam	1043	7622	241	13149
-Urakom	1043	7622	241	13149
+Urakom	1043	7622	241	13149	Urakam
 Balari urf Jagdishpur Deal	2581	8581	138	9957
 Uri	3409	7403	301	9366
 Bishunpur Urf Mahārājganj	2626	8312	498	7499
@@ -17,11 +17,11 @@ Urjanagar	1999	7930	111	4748
 Urun	1705	7426	65	0
 Urumunda	2166	8546	293	0
 Uruli Kānchān	1849	7413	52	0
-Uruli	1849	7413	52	0
+Uruli	1849	7413	52	0	Uruli Kānchān
 Ursewa	2655	7523	121	0
 Urra	2805	8127	294	0
 Urpāar	3105	7596	295	0
-Urāpar	3105	7596	295	0
+Urāpar	3105	7596	295	0	Urpāar
 Urmāl	1990	8252	297	0
 Urlāna Khurd	2936	7670	298	0
 Urlāna Kalān	2934	7669	298	0
@@ -29,7 +29,7 @@ Urlāna	2935	7668	298	0
 Uriyāmguri	2751	9433	299	0
 Urika	2835	7591	300	0
 Urigam	1231	7762	223	0
-Oorgaum	1231	7762	223	0
+Oorgaum	1231	7762	223	0	Urigam
 Urdigere	1334	7723	93	0
 Urdas	3464	7638	8	0
 Urāsar	2533	7152	285	0
@@ -37,12 +37,12 @@ Urāo Basti	2688	9343	302	0
 Ūralpatti	1028	7763	187	0
 Urāli	2043	8590	303	0
 Uraiyūr	1082	7868	270	0
-Ooru	2323	7169	28	0
+Ooru	2323	7169	28	0	Oru
 Ursar	2846	7457	539	0
 Urel Chanopur	2222	8840	4	0
 Uriapara	2239	8880	450	0
 Mohra Ural	3338	7419	504	0
-Mohra Urna	3338	7419	504	0
+Mohra Urna	3338	7419	504	0	Mohra Ural
 Urūsa	3411	7393	301	0
 Ūralla	1736	7813	62	0
 Urnāi	3000	7663	501	0
@@ -138,7 +138,7 @@ Urāwar Mandra	2690	7864	403	0
 Urīna	2570	7824	503	0
 Urha	2079	7605	49	0
 Urwa	2538	8326	724	0
-Urua	2526	8344	724	0
+Urua	2526	8344	724	0	Chirai
 Ūra	2235	7712	465	0
 Urdana	2514	7833	503	0
 Urgaon	2520	8332	724	0
@@ -247,7 +247,7 @@ Rajūpur Urf Mahmūdpur	2640	8325	325	0
 Urdīha	2635	8325	498	0
 Pemgarh Urf Itauwa	2642	8332	325	0
 Mīrupur Urf Bijai	2641	8333	325	0
-Urf Gola Bāzār	2635	8335	325	0
+Urf Gola Bāzār	2635	8335	325	0	Madaria
 Parsa Urf Aglahwa	2640	8336	325	0
 Damarpur Urf Masaha	2641	8334	325	0
 Dhausahar Urf Belwābhāri	2642	8335	325	0
@@ -400,7 +400,7 @@ Urukunda	1581	7718	236	0
 Urrāha	2593	8660	661	0
 Urugutti	1277	7588	679	0
 Urlātola	2561	8697	657	0
-Ūrūmatla	1823	7909	466	0
+Ūrūmatla	1823	7909	466	0	Rāmachandrāpur
 Urdaha	2727	8060	507	0
 Ūrālankal	1163	7557	262	0
 Ūratt	1165	7574	262	0

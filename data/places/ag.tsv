@@ -1,13 +1,13 @@
 Agra	2718	7802	546	1430055
 Agartala	2384	9128	744	400004
-Pudupalayam Agraharam	1137	7776	231	40140
-Pallipalayam Agraharam	1137	7776	231	40140
+Pudupalayam Agraharam	1137	7776	231	40140	Pallipalayam
+Pallipalayam Agraharam	1137	7776	231	40140	Pallipalayam
 Agar	2371	7602	347	37917
 Brāhmana Periya Agrahāram	1137	7771	211	24798
 koppana Agrahara	1286	7767	43	20622
 Agaram	1044	7795	187	15610
 Talaināyar Agrahāram	1056	7977	239	12798
-Puthur Agraharam	1163	7811	51	11173
+Puthur Agraharam	1163	7811	51	11173	Pudūr
 Annāl Agrahāram	1095	7937	264	11129
 Agrahāra Sāmakkulam	1115	7701	156	10289
 Agaram	1311	8023	204	10263
@@ -15,23 +15,23 @@ Agastīswaram	810	7752	453	9717
 Agatti	1084	7218	780	7700
 Agastinuagan	1937	8503	440	6411
 Pugalūr Agrahāram	1109	7801	445	5556
-A.Gokavaram	1684	8135	24	4673
+A.Gokavaram	1684	8135	24	4673	Akkupalle Gokavaram
 Agonda	1505	7398	102	23
 Sarāi Aghat	2735	7927	711	0
-Priya Agraharam	1842	8414	472	0
+Priya Agraharam	1842	8414	472	0	Priya
 Nengkhra Āgalgiri	2552	9069	490	0
 Kotta Agrahāram	1833	8412	472	0
-Agraharam	1833	8412	472	0
+Agraharam	1833	8412	472	0	Kotta Agrahāram
 Konen Agrahār	1296	7766	43	0
-Agra Belanganj	2719	7802	546	0
-Aghatapur	2459	7372	22	0
+Agra Belanganj	2719	7802	546	0	Belanganj
+Aghatapur	2459	7372	22	0	Ahār
 Agva	1739	7352	234	0
 Agucha	2582	7473	309	0
-Aguncha	2582	7473	309	0
+Aguncha	2582	7473	309	0	Agucha
 Aguada	1550	7377	188	0
-Agwad	1550	7377	188	0
-Agoada	1550	7377	188	0
-Aguada Fort	1550	7377	188	0
+Agwad	1550	7377	188	0	Aguada
+Agoada	1550	7377	188	0	Aguada
+Aguada Fort	1550	7377	188	0	Aguada
 Agsūr	1468	7438	59	0
 Āgrong	2660	9073	357	0
 Agroha	2933	7563	339	0
@@ -41,7 +41,7 @@ Agral	2293	7458	348	0
 Āgra	2499	7743	436	0
 Agra Jagir	2393	7754	215	0
 Agori Khās	2455	8296	103	0
-Agori	2455	8296	103	0
+Agori	2455	8296	103	0	Agori Khās
 Agolai	2629	7264	344	0
 Āgol	2314	7227	164	0
 Agni	1656	7647	72	0
@@ -53,11 +53,11 @@ Aghar	3160	7658	281	0
 Aghāpur	2714	7752	114	0
 Agaundh	2999	7625	638	0
 Āgatrāi	2137	7025	185	0
-Agatral	2137	7025	185	0
+Agatral	2137	7025	185	0	Āgatrāi
 Agastyāmpalli	1035	7985	239	0
-Agastiampalli	1035	7985	239	0
+Agastiampalli	1035	7985	239	0	Agastyāmpalli
 Agāsode	2427	7816	352	0
-Agasod	2427	7816	352	0
+Agasod	2427	7816	352	0	Agāsode
 Agasnal	1705	7578	80	0
 Agāshi	1946	7278	192	0
 Agashi	1915	7347	246	0
@@ -90,9 +90,9 @@ Agora	2458	7880	384	0
 Agesi	2794	7933	117	0
 Agwāsa	2707	7983	570	0
 Agupur Gopālpur	2692	7915	290	0
-Agūpura	2692	7915	290	0
+Agūpura	2692	7915	290	0	Agupur Gopālpur
 Agupura Gopālpur	2684	7914	290	0
-Agupura	2684	7914	290	0
+Agupura	2684	7914	290	0	Agupura Gopālpur
 Agaus	2694	7971	570	0
 Agnihotri	2667	7999	671	0
 Agrophathal	2576	9090	42	0
@@ -102,7 +102,7 @@ Agumbe	1352	7503	257	0
 Sakhri Agar	1737	7322	234	0
 Agara Ālambādi	1144	7947	178	0
 Āgarjnari	2011	7933	111	0
-Agarihari	2011	7933	111	0
+Agarihari	2011	7933	111	0	Āgarjnari
 Āgaon	2191	7555	329	0
 Agarwa	2664	8491	396	0
 Agrod	2312	7599	322	0
@@ -131,7 +131,7 @@ Aghwānhera	2998	7739	449	0
 Āgra	2143	7872	141	0
 Āgargaon	2112	7854	143	0
 Āgargaon	2106	7879	141	0
-Āgargaon	2105	7878	141	0
+Āgargaon	2105	7878	141	0	Tānda
 Agwār Pona	3079	7550	674	0
 Agwār Ladhāi	3078	7547	674	0
 Agwār Rāhilān	3076	7547	674	0
@@ -231,7 +231,7 @@ Agara	2465	7960	663	0
 Agarsand	2515	8301	201	0
 Aganpur	2520	8320	724	0
 Āgra	2269	7736	675	0
-Āghāpur	2555	8331	26	0
+Āghāpur	2555	8331	26	0	Rājāpur
 Āghāpur	2569	8347	26	0
 Agasta	2559	8348	26	0
 Āgra	2518	7808	436	0
@@ -354,7 +354,7 @@ Agauna	2691	8254	154	0
 Agauna	2664	8266	154	0
 Agia	2686	8295	647	0
 Agionān	2699	8298	647	0
-Aghāpur	2651	8298	647	0
+Aghāpur	2651	8298	647	0	Gularia
 Āghāpur	2576	8341	26	0
 Āghārganj	2633	8288	553	0
 Agthara Rarāyanpur	2639	8295	553	0
@@ -370,7 +370,7 @@ Agya	2720	8370	515	0
 Agur	3365	7510	35	0
 Aganu	3356	7524	148	0
 Āgai	2600	8159	718	0
-Agand	2694	8320	647	0
+Agand	2694	8320	647	0	Chhapia
 Aghora	2668	8310	647	0
 Āghāpur	2610	8320	498	0
 Gosri Patti Agandarāi	2614	8321	498	0
@@ -688,7 +688,7 @@ Ageyan	2618	8458	639	0
 Kathangri Agli	2887	7964	641	0
 Agauthar Sundar	2601	8485	540	0
 Agauthar Nanda	2602	8485	540	0
-Agra	2825	7965	342	0
+Agra	2825	7965	342	0	Bhartāpur
 Agrauli	2804	7954	470	0
 Agraula	2804	7954	470	0
 Piparia Agru	2868	7985	683	0
@@ -942,7 +942,7 @@ Agrahāram	1212	7789	110	0
 Agasarahalli	1213	7793	110	0
 Bīliyanūr Agrahāram	1213	7797	110	0
 Vobanhatti Agrahār	1291	7806	47	0
-Agrahāra	1299	7811	47	0
+Agrahāra	1299	7811	47	0	Timmanāikanhalli
 Agrahāram	1269	7808	223	0
 Agaram	1252	7812	223	0
 Agarathankottai	1232	7819	110	0
@@ -1011,7 +1011,7 @@ Agrahārapālaiyam	1271	7925	197	0
 Agaram	1240	7904	197	0
 Agaramsibbandi	1240	7910	197	0
 Agaram	1208	7921	197	0
-Agrahāram	1297	7931	160	0
+Agrahāram	1297	7931	160	0	Mukundarāyapuram
 Agaram	1277	7941	160	0
 Agrahāram	1288	7949	160	0
 Agilāndapuram	1257	7926	197	0
@@ -1043,7 +1043,7 @@ Agastiyakod	894	7692	549	0
 Agrahāra	1197	7704	69	0
 Agasattikombai	1162	7727	211	0
 Agrahārpudūr	1110	7725	156	0
-Agrahāra Talaiyūr	1154	7795	51	0
+Agrahāra Talaiyūr	1154	7795	51	0	Nallirasampalāiayam
 Agrahāram	1093	7730	235	0
 Agaram	1162	7927	178	0
 Agaram	1154	7940	178	0

@@ -1,10 +1,10 @@
 Raipur	2123	8163	310	1027264
 Rāichūr	1621	7736	50	234073
-Navi Mumbai Panvel Raigarh	1899	7311	17	195373
+Navi Mumbai Panvel Raigarh	1899	7311	17	195373	Panvel
 Rāiganj	2561	8812	610	170252
-Hoshiārpur Railroad Station	3154	7591	296	168653
+Hoshiārpur Railroad Station	3154	7591	296	168653	Hoshiārpur
 Raigarh	2190	8340	439	150019
-Bina Railway Colony	2417	7819	352	64529
+Bina Railway Colony	2417	7819	352	64529	Bīna
 Raisen	2333	7778	338	44162
 Rairangpur	2227	8617	382	34929
 Lumding Railway Colony	2575	9317	706	31347
@@ -12,26 +12,26 @@ Rāisinghnagar	2954	7345	374	29626
 Rāikot	3065	7560	674	28734
 Rāipur	3031	7809	448	27702
 Raipur Domana	3280	7478	581	20238
-Chandur Railway	2081	7798	133	19776
+Chandur Railway	2081	7798	133	19776	Chāndūr
 Raipur	2604	7402	273	17537
-Rairākhol	2107	8434	567	15379
+Rairākhol	2107	8434	567	15379	Rāmpur
 New Bongaigaon Railway Colony	2648	9054	746	14896
 Raia	1530	7397	102	10706
 Rāipur Rāni	3059	7702	587	9028
-Rāipur	3059	7702	587	9028
+Rāipur	3059	7702	587	9028	Rāipur Rāni
 Badarpur Railway Town	2487	9257	624	8882
 Rail	3100	7647	295	7589
 Raighar	1989	8207	349	5936
 Rāīwāla Bara	3002	7823	448	5198
-Rāiwāla	3002	7823	448	5198
+Rāiwāla	3002	7823	448	5198	Rāīwāla Bara
 Raipur Rasulpur	3140	7559	369	3916
 Bhandal Sahīb Rai	3107	7559	369	80
 Rāimalwāra	2689	7301	344	0
-Raipura	2620	7742	478	0
-Rāirguruāon	2678	9417	451	0
+Raipura	2620	7742	478	0	Rājpura
+Rāirguruāon	2678	9417	451	0	Rājgurugāon
 Raiyan	3251	7513	720	0
 Rāivāda	2345	7358	125	0
-Raitoda	2574	7599	353	0
+Raitoda	2574	7599	353	0	Rethoda
 Raitam	2127	8231	407	0
 Raitalai	2143	7670	29	0
 Rāit	2796	7795	543	0
@@ -66,12 +66,12 @@ Raipatnam	1889	7914	63	0
 Raipanga	1940	8398	363	0
 Raipalomei	2535	9432	112	0
 Rāinagar	2307	8790	375	0
-Rāinaga	2307	8790	375	0
+Rāinaga	2307	8790	375	0	Rāinagar
 Raimoh	1899	7550	33	0
 Raimāna	2663	8997	713	0
 Raila	2563	7461	309	0
 Rāikod	1784	7775	31	0
-Raikode	1784	7775	31	0
+Raikode	1784	7775	31	0	Rāikod
 Raikia	2006	8424	387	0
 Rāikera	2277	8402	398	0
 Raikela	2189	8520	272	0
@@ -79,20 +79,20 @@ Raikaon ki Dhāni	2595	7310	273	0
 Rāikal	1890	7881	63	0
 Raijharan	2096	8497	414	0
 Raigora	2062	8505	414	0
-Rāigorha	2062	8505	414	0
+Rāigorha	2062	8505	414	0	Raigora
 Raigīr	1754	7894	129	0
 Raigaon	1985	7659	49	0
 Raigaon	1741	7431	65	0
 Raidihi	2198	8388	272	0
-Raidih	2198	8388	272	0
+Raidih	2198	8388	272	0	Raidihi
 Rāidih	2293	8442	321	0
-Raidi	2293	8442	321	0
+Raidi	2293	8442	321	0	Rāidih
 Rāiboga	2240	8462	272	0
 Rai	2894	7710	485	0
 Nibua Raiganj	2707	8389	560	0
 Dādan Raikala	2188	8510	272	0
 Raiyātunda	2879	7481	539	0
-Raiatunda	2879	7481	539	0
+Raiatunda	2879	7481	539	0	Raiyātunda
 Rāihāt	2294	8834	279	0
 Rāipur	2241	8815	4	0
 Rair Baihk	3426	7485	595	0
@@ -103,12 +103,12 @@ Railiān	3321	7436	504	0
 Rāipur	3281	7483	581	0
 Rāipur	3074	7608	674	0
 Rāin Mājra	3073	7606	674	0
-Rāi Mājra	3073	7606	674	0
+Rāi Mājra	3073	7606	674	0	Rāin Mājra
 Rāipur	2955	7691	457	0
 Kōtlī Raīyān di	3255	7476	581	0
 Raikka Labhāne	3256	7493	720	0
 Raikka Jogīān	3255	7494	720	0
-Rāipur	3258	7480	581	0
+Rāipur	3258	7480	581	0	Rāpur
 Raika	3273	7490	581	0
 Rāi Tikhāna	2994	7701	457	0
 Bīr Rāi Tikhāna	2994	7701	457	0
@@ -126,11 +126,11 @@ Rairu	2631	7813	484	0
 Kundapura Railway Station	1361	7473	257	0
 Rāipur	2814	7572	300	0
 Rāipur	3063	7619	648	0
-Rāiān	3063	7619	648	0
-Rāiān	3062	7623	648	0
+Rāiān	3063	7619	648	0	Rāipur
+Rāiān	3062	7623	648	0	Mājri
 Rāiawāl	3055	7616	648	0
 Raisal	3051	7618	564	0
-Rāiān	3055	7600	775	0
+Rāiān	3055	7600	775	0	Chandu
 Raipur Chobderān	3055	7612	648	0
 Rāipur Kalān	3068	7683	705	0
 Rāipur Khurd	3068	7681	731	0
@@ -153,10 +153,10 @@ Rāipura	2718	7993	686	0
 Raigaon	2703	7984	570	0
 Daryāpur Rāibhān	2706	7992	570	0
 Rainchada	2700	7920	464	0
-Raichandpur	2700	7920	464	0
+Raichandpur	2700	7920	464	0	Rainchada
 Rāipura	2696	7922	290	0
 Rāipur	2690	7914	290	0
-Raimpura	2649	7904	334	0
+Raimpura	2649	7904	334	0	Rāmpura
 Rāipura	2638	7908	334	0
 Rāikot	2638	7902	334	0
 Raipura	2624	7935	741	0
@@ -199,7 +199,7 @@ Raich	3137	7749	680	0
 Rāipura	3011	7429	3	0
 Raiyānwāla Kalān	3073	7470	730	0
 Rāike Kalān	3013	7467	563	0
-Rāika Khurd	3014	7470	563	0
+Rāika Khurd	3014	7470	563	0	Chak Dāna
 Raīghāt	3112	7735	479	0
 Rail	3104	7738	479	0
 Raina	3110	7744	479	0
@@ -230,7 +230,7 @@ Mattews Railway Colony	1309	8027	204	0
 Rāmpur Rāighāti	2972	7818	596	0
 Rāighāti Khurd	2971	7819	596	0
 Kānewāli Rāisingh	2969	7804	596	0
-Rāipur Khās	2969	7823	575	0
+Rāipur Khās	2969	7823	575	0	Kot Sarāi
 Rāipur Pyāgi	2959	7812	575	0
 Rāipur Darera	2986	7800	596	0
 Rāipur	2976	7805	596	0
@@ -243,7 +243,7 @@ Rāikhera	2334	7897	352	0
 Raipura	2324	7860	338	0
 Rāīnpura	2955	7702	457	0
 Rāipur	2660	7693	116	0
-Raisingh	2935	7746	545	0
+Raisingh	2935	7746	545	0	Muhammadpur
 Rāipur Aterna	2932	7742	545	0
 Rail Mandi	2932	7729	328	0
 Raitna	2913	7739	477	0
@@ -277,8 +277,8 @@ Raisar	3048	7550	726	0
 Raipur Raiyān	3099	7551	369	0
 Bhaini Raiyān	3093	7552	674	0
 Bopa Rāi	3080	7563	674	0
-Rāmnagar Raipuriān	3046	7573	593	0
-Rāipur Hakimān	3032	7573	593	0
+Rāmnagar Raipuriān	3046	7573	593	0	Chhanna
+Rāipur Hakimān	3032	7573	593	0	Kila
 Rāipur	2995	7779	596	0
 Kutbewāl Raiān	3097	7583	674	0
 Northern Railway Colony	2860	7717	721	0
@@ -295,12 +295,12 @@ Raila	2454	7408	22	0
 Raipuria	2475	7422	417	0
 Raipura	2550	7515	309	0
 Rai Singhwāla	3028	7599	593	0
-Raipur	3028	7599	593	0
+Raipur	3028	7599	593	0	Rai Singhwāla
 Raiya	2981	7512	563	0
 Rāinpura	2987	7509	585	0
 Raibaring Dogri	3142	7830	83	0
 Rainīwāla	3035	7812	448	0
-Rāipur Garhi	2948	7854	575	0
+Rāipur Garhi	2948	7854	575	0	Garhi Chamāran
 Rāipur Patti Harji	2929	7875	575	0
 Rāipur Patti Lokhman	2931	7875	641	0
 Raipur Patti Lekhraj	2930	7874	575	0
@@ -312,7 +312,7 @@ Rāipeta	1882	7980	91	0
 Rāipeta	1891	7997	135	0
 Raipura	2622	7545	313	0
 Rāipur	2808	7753	543	0
-Raiyyatpur	2804	7753	543	0
+Raiyyatpur	2804	7753	543	0	Lālpur
 Raidhara	2894	7792	700	0
 Raidhāna	2891	7794	700	0
 Rāipur Katauri	2854	7785	637	0
@@ -329,7 +329,7 @@ Rāipur	1956	7624	53	0
 Rāipur	3049	7605	775	0
 Rāigavhān	1936	7625	53	0
 Rāin Mājra	3007	7620	564	0
-Rāin Mājra	3018	7625	564	0
+Rāin Mājra	3018	7625	564	0	Jamālpur
 Raipur	3095	7627	674	0
 Rāipur	3087	7633	648	0
 Rāipur	3090	7640	735	0
@@ -343,7 +343,7 @@ Rāipur	2751	7714	114	0
 Rāibka	2763	7712	114	0
 Rāipur	2791	7755	177	0
 Rāikangarhi	2784	7771	177	0
-Rāipurmai	2749	7773	177	0
+Rāipurmai	2749	7773	177	0	Gopālpur
 Rāipurtālāb	2834	7783	637	0
 Rāipur	2807	7775	543	0
 Rāipur	2803	7795	543	0
@@ -437,7 +437,7 @@ Rāipur	2791	7717	544	0
 Rāipur	2723	7953	688	0
 Rāipur	2715	7958	570	0
 Tānda Rāipur	2701	7955	570	0
-Rāipur	2701	7953	570	0
+Rāipur	2701	7953	570	0	Banjāra
 Fatehpur Rāi Sāhib	2724	7961	688	0
 Rāipur	2717	7970	570	0
 Raiyyan	2575	7741	436	0
@@ -544,7 +544,7 @@ Rāipur	2569	8382	26	0
 Rāipur Math	2568	8387	26	0
 Rāisenpur	2544	8381	26	0
 Rāimalbāndh	2544	8384	788	0
-Mardan Rāi	2511	8398	409	0
+Mardan Rāi	2511	8398	409	0	Pīpra
 Rāipur	2125	7732	133	0
 Raiyatwādi	2143	7763	462	0
 Wāki Rāipur	2104	7754	133	0
@@ -662,7 +662,7 @@ Rāipur	2624	8097	681	0
 Khor Rāi Dayālpur	2910	7800	700	0
 Rāipur	2957	7829	575	0
 Rāipur Sādat	2956	7843	575	0
-Rāipur Maliyābād	2933	7842	575	0
+Rāipur Maliyābād	2933	7842	575	0	Badhiowāla
 Rāipur Lakra	2925	7837	575	0
 Raini	2792	8104	323	0
 Rāipur	2779	8118	323	0
@@ -915,7 +915,7 @@ Rāi Askaranpur	2581	8161	718	0
 Rāigarh	2576	8164	718	0
 Rāipur Katra	2575	8172	718	0
 Rāipur	2581	8171	718	0
-Sarāi Rāījeo	2590	8168	718	0
+Sarāi Rāījeo	2590	8168	718	0	Mahirna ka Purwa
 Rāmgarh Raila	2590	8169	718	0
 Raithe	2589	8170	718	0
 Tendua Rāi	2676	8304	647	0
@@ -1109,7 +1109,7 @@ Rainsoli	2992	7883	612	0
 Raitarai	2183	8329	439	0
 Raibār	2177	8332	439	0
 Raipāli	2170	8333	439	0
-Raiāndāzpur	2885	7814	483	0
+Raiāndāzpur	2885	7814	483	0	Jalālnagar
 Rāipūr	2834	7811	637	0
 Rāipur	2808	7810	543	0
 Rāipur Munzabta	2809	7822	543	0
@@ -1204,7 +1204,7 @@ Sewak Raitola	2575	8452	536	0
 Audan Rai Inglis	2566	8466	377	0
 Imirtā Rāi	2901	7910	552	0
 Rāipur	2903	7913	552	0
-Raintā	2922	7916	641	0
+Raintā	2922	7916	641	0	Kalla-kā-Tāndā
 Raipura	2543	8475	377	0
 Raili Bayālj	2967	7932	429	0
 Rai	2481	7325	22	0
@@ -1507,7 +1507,7 @@ Raiba	2294	8491	321	0
 Rāikera	2293	8494	321	0
 Rāibera	2264	8476	495	0
 Raitoli	2261	8476	495	0
-South Indian Railway	1193	7981	196	0
+South Indian Railway	1193	7981	196	0	Nellittoppu
 Rāibera	2248	8530	287	0
 Rāibera	2246	8530	287	0
 Rāiruān	2238	8538	287	0
@@ -1536,7 +1536,7 @@ Rāidihā	2149	8551	293	0
 Rāidihā	2148	8555	293	0
 Rāisuām	2116	8550	293	0
 Raikola	2175	8581	293	0
-Raikonra	2175	8581	293	0
+Raikonra	2175	8581	293	0	Raikola
 Raidiha	2188	8583	382	0
 Raikudur	2157	8582	293	0
 Rāipur	2171	8584	293	0
@@ -1568,7 +1568,7 @@ Raigochha	2013	8460	440	0
 Raināli	2086	8479	414	0
 Raibania	2191	8720	421	0
 Bashant Rai	2500	8720	592	0
-Raiyatwāri	2178	7913	337	0
+Raiyatwāri	2178	7913	337	0	Silota
 Rāipur	2762	7929	688	0
 Raipur	2713	8100	714	0
 Rāipur	2697	8154	30	0

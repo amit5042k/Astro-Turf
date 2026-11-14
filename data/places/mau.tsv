@@ -1,21 +1,21 @@
 Mau	2594	8356	586	246050
-Mau Nath Bhanjan	2594	8356	586	246050
+Mau Nath Bhanjan	2594	8356	586	246050	Mau
 Maudaha	2568	8011	645	37844
 Maur	3008	7525	563	31849
 Mauganj	2467	8187	516	26420
 Mau	2627	7867	334	20147
 Mau Aimma	2570	8192	607	20123
 Maurānwān	2643	8088	312	14916
-Maurāwān	2643	8088	312	14916
+Maurāwān	2643	8088	312	14916	Maurānwān
 Mauda	2115	7940	141	14606
-Maunda	2115	7940	141	14606
+Maunda	2115	7940	141	14606	Mauda
 Mauli Jagran	3069	7683	787	10786
-Mauli	2478	7398	22	9199
-Maulinguem	1526	7421	569	0
+Mauli	2478	7398	22	9199	Maoli
+Maulinguem	1526	7421	569	0	Mavlinguem
 Maus	1555	7411	188	0
 Maur Khurd	3006	7523	563	0
 Maur Kalān	3007	7524	563	0
-Mauria	2321	7700	675	0
+Mauria	2321	7700	675	0	Mahoriya
 Mau Rānīpur	2524	7913	433	0
 Maulinguem	1561	7396	188	0
 Maulāsar	2731	7473	430	0
@@ -34,10 +34,10 @@ Mau	2500	8481	118	0
 Mau	2457	7634	333	0
 Mau	2408	8137	634	0
 Mau	2395	7713	16	0
-Maunur	885	7766	191	0
+Maunur	885	7766	191	0	Mānūr
 Maujpuri	1980	7608	53	0
 Kotli Maurān	3004	7529	709	0
-Kokli Maurān	3004	7529	709	0
+Kokli Maurān	3004	7529	709	0	Kotli Maurān
 Maujgarh	3006	7399	3	0
 Mauāni	3294	7463	581	0
 Ukkhal Mauliān	3283	7496	581	0
@@ -51,7 +51,7 @@ Mau ka Khirk	2500	7883	481	0
 Mau Buzurg	2497	7889	481	0
 Maugaon	2481	7876	384	0
 Mau	2479	7879	481	0
-Mauzzamnagar	2789	7925	117	0
+Mauzzamnagar	2789	7925	117	0	Mohan Nagla
 Mauzampur	2791	7944	117	0
 Mauzampur	2768	7959	470	0
 Maukalpur	2755	7964	688	0
@@ -66,7 +66,7 @@ Mau	2667	7988	671	0
 Maura	3013	7593	593	0
 Mauchar	2432	9290	42	0
 Mauhar	2613	8060	525	0
-Mau	2363	7657	16	0
+Mau	2363	7657	16	0	Mahu
 Maujpur	2869	7727	693	0
 Mausen	2302	9274	14	0
 Qutabpur Maula	2820	7660	519	0
@@ -95,7 +95,7 @@ Mauran	2641	7618	116	0
 Garhi Mausamābād	2678	7696	447	0
 Mau	2278	7882	522	0
 Mau	2189	7884	337	0
-Mau	2529	7643	506	0
+Mau	2529	7643	506	0	Mahuwa
 Maujgarh	2986	7473	585	0
 Mauja Khera	2948	7474	585	0
 Mauli	2434	7334	22	0
@@ -136,7 +136,7 @@ Nagla Mauji	2765	7763	177	0
 Mauji Ka Nagla	2775	7772	177	0
 Maukhera	2843	7784	637	0
 Maina Maujpur	2820	7782	637	0
-Maujpur	2822	7782	637	0
+Maujpur	2822	7782	637	0	Ibrāhīmpur
 Raipur Mauzzampur	2823	7797	637	0
 Maulāli Tānda	1724	7694	71	0
 Mau	2177	8174	710	0
@@ -149,7 +149,7 @@ Maudīnpur	2749	7824	711	0
 Maujipur	2773	7789	543	0
 Chachar Mau	2756	7875	711	0
 Mausīpura	2375	7963	521	0
-Mauwākhera	2354	7999	598	0
+Mauwākhera	2354	7999	598	0	Dhangawān
 Nagla Maulāpur	2706	7870	403	0
 Nagla Maulia	2799	7888	117	0
 Rāj Mau	2799	7803	543	0
@@ -276,10 +276,10 @@ Bīban Mau	2562	8275	32	0
 Mauhari	2612	8079	681	0
 Purwa Mauhāri	2618	8096	681	0
 Mauzamābād	2605	8094	728	0
-Mauzampur Tulsi	2962	7835	575	0
-Mauzampur Harbans	2943	7833	575	0
+Mauzampur Tulsi	2962	7835	575	0	Garhi
+Mauzampur Harbans	2943	7833	575	0	Rahmānpur
 Mausanpur Sulemān Sakhopur	2941	7841	575	0
-Mauzampur Diyāl	2940	7838	575	0
+Mauzampur Diyāl	2940	7838	575	0	Hempur
 Mauzampur	2726	8108	507	0
 Maulvipur	2728	8114	507	0
 Mauaria	2402	8278	103	0
@@ -310,7 +310,7 @@ Maudaha	2408	8096	324	0
 Mauhās	2422	8099	324	0
 Khās Mau	2583	8105	728	0
 Maupāra	2584	8111	728	0
-Sohad Mau	2578	8124	728	0
+Sohad Mau	2578	8124	728	0	Mawai
 Gaide Mau	2586	8118	728	0
 Mau	2504	8123	643	0
 Mauganj	2508	8110	643	0
@@ -364,7 +364,7 @@ Purwa Mauna	2654	8228	629	0
 Maurāpāra	2655	8247	553	0
 Mauki Dīh	2634	8229	597	0
 Mauli	2587	8319	498	0
-Maulānīpur	2576	8318	498	0
+Maulānīpur	2576	8318	498	0	Parimānpur
 Mauhlāni	2678	8256	154	0
 Maukha	2648	8263	553	0
 Mauna	2622	8254	597	0
@@ -397,9 +397,9 @@ Maunas ka Purwa	2568	8156	718	0
 Maula	2647	8368	535	0
 Māaur Bojh	2610	8358	586	0
 Uperli Mautaliān	3262	7508	720	0
-Mautaliān Kalān	3262	7508	720	0
+Mautaliān Kalān	3262	7508	720	0	Uperli Mautaliān
 Chigli Mautaliān	3261	7507	720	0
-Mautaliān Khurd	3261	7507	720	0
+Mautaliān Khurd	3261	7507	720	0	Chigli Mautaliān
 Maujewāla	3057	7415	3	0
 Mau Dostpur	2570	8192	607	0
 Mauwālār	3240	7553	496	0

@@ -2,15 +2,15 @@ Abdu Rahiman Nagar	1107	7594	150	41993
 Rāhuri	1939	7465	152	38813
 Rāhatgarh	2379	7839	352	31537
 Rahata	1972	7448	152	22335
-Rahta Pimplas	1972	7448	152	22335
+Rahta Pimplas	1972	7448	152	22335	Rahata
 Rahimatpur	1759	7420	64	17633
-Rahunatpur	1759	7420	64	17633
+Rahunatpur	1759	7420	64	17633	Rahimatpur
 Rāhon	3105	7612	295	15676
 Rahā	2623	9252	656	11030
 Rahanal	1927	7303	246	10928
-Rahdakisorpur	2354	9149	385	9052
+Rahdakisorpur	2354	9149	385	9052	Rādhākishorepur
 Rāhud	2181	8251	696	6160
-Rahaud	2181	8251	696	6160
+Rahaud	2181	8251	696	6160	Rāhud
 Borivali Tarf Rahur	1938	7318	246	5780
 Rahra	2853	7832	483	0
 Rahung	2731	9237	523	0
@@ -20,10 +20,10 @@ Rahla	3234	7721	680	0
 Rahīmgarh	2407	7550	580	0
 Rahimanpuram	1540	7805	232	0
 Rāheri Buzruk	1999	7628	49	0
-Rāheri	1999	7628	49	0
+Rāheri	1999	7628	49	0	Rāheri Buzruk
 Rāher	1890	7767	140	0
 Rāhūwās	2670	7633	708	0
-Rāhawās	2670	7633	708	0
+Rāhawās	2670	7633	708	0	Rāhūwās
 Rāhāwan	2380	8561	517	0
 Rahatia	2186	7514	248	0
 Rahatgaon	2225	7723	465	0
@@ -33,7 +33,7 @@ Rahipur	2057	7500	78	0
 Dona Rahmatwāla	3090	7441	566	0
 Gund Rahmān	3418	7477	595	0
 Rāhwāla Behk	3438	7405	0	0
-Rāhwāla Baihk	3438	7405	0	0
+Rāhwāla Baihk	3438	7405	0	0	Rāhwāla Behk
 Rāh na Parāt	3319	7408	504	0
 Rāh	3312	7448	504	0
 Rahīmpur	3016	7776	449	0
@@ -47,13 +47,13 @@ Rahūpura	2714	7931	464	0
 Jira Rahīmpur	2751	7967	470	0
 Mawai Rahāyak	2705	7980	570	0
 Sultānpur Rāhan	2690	7910	290	0
-Sultānpur Rāhin	2690	7910	290	0
+Sultānpur Rāhin	2690	7910	290	0	Sultānpur Rāhan
 Keshopur Rāhan	2689	7910	290	0
-Keshapur Rāhin	2689	7910	290	0
+Keshapur Rāhin	2689	7910	290	0	Keshopur Rāhan
 Mohanpur Rāhan	2692	7911	290	0
-Mohanpur Rāhin	2692	7911	290	0
+Mohanpur Rāhin	2692	7911	290	0	Mohanpur Rāhan
 Kaliānpur Rāhan	2691	7910	290	0
-Kalyānpur Rāhan	2691	7910	290	0
+Kalyānpur Rāhan	2691	7910	290	0	Kaliānpur Rāhan
 Rāhan	2691	7908	290	0
 Rāhatpur	2680	7900	290	0
 Rahmatpura	2675	7558	121	0
@@ -153,7 +153,7 @@ Rahtūra	2751	7980	686	0
 Rāhi	2761	7987	686	0
 Rahpwa	2791	7711	544	0
 Rahmānnagar Muāfi	2785	7976	470	0
-Rahmānnagar	2789	7986	470	0
+Rahmānnagar	2789	7986	470	0	Rāikhera
 Rahīmpur	2423	7750	215	0
 Rahamatāpuram	1665	7875	101	0
 Rahna	2765	7804	670	0
@@ -239,7 +239,7 @@ Rāhīpur	2965	7835	575	0
 Rahmāpur	2966	7831	575	0
 Rāhatpur Khurd	2964	7829	575	0
 Rāhi	2964	7830	575	0
-Abdul Rahmānpur Jīwan	2951	7838	575	0
+Abdul Rahmānpur Jīwan	2951	7838	575	0	Chāndwāla
 Rahmānpur	2943	7833	575	0
 Raharia Khurd	2787	8100	323	0
 Rahmatnagar	2733	8105	507	0
@@ -328,7 +328,7 @@ Rahdāwa	2608	8286	498	0
 Rahmatnagar	2720	8322	515	0
 Rāhgund	3380	7511	148	0
 Gund-i-Rahīm Garai	3360	7521	148	0
-Rahimābād	2675	8320	325	0
+Rahimābād	2675	8320	325	0	Saraiya
 Rahdauli	2644	8321	325	0
 Rahūār	2612	8313	498	0
 Rahāyakpur	2624	8313	498	0

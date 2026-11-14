@@ -1,37 +1,37 @@
-Wadhwan Camp	2273	7165	28	179628
-Cambay	2232	7262	157	99164
+Wadhwan Camp	2273	7165	28	179628	Surendranagar
+Cambay	2232	7262	157	99164	Khambhāt
 Chamrajnagar	1192	7694	69	69875
-Chamarajanagar	1192	7694	69	69875
+Chamarajanagar	1192	7694	69	69875	Chamrajnagar
 Chāmpa	2204	8264	696	45256
-Champhai	2354	9337	253	32734
+Champhai	2354	9337	253	32734	Ngūr
 Cooper's Camp	2317	8859	528	23119
 Chamba	3256	7613	362	21502
-Dapoli Camp	1776	7319	234	15713
+Dapoli Camp	1776	7319	234	15713	Dāpoli
 Chammanād	1248	7501	305	14323
 Chāmkor	3090	7642	735	13920
-Chamkaur Sahib	3090	7642	735	13920
+Chamkaur Sahib	3090	7642	735	13920	Chāmkor
 Mana-Camp	2119	8172	310	11953
 Uttar Champamura	2383	9134	744	11359
 Chāmpua	2207	8566	293	10394
 Campbell Bay	701	9389	79	5736
 Champawat	2934	8008	554	4668
 Upper Sileru Project Site Camp	1806	8203	268	4632
-Kannādi Camp Shed	995	7682	258	0
-Champur	3196	7595	38	0
-Darranga Camp	2679	9151	555	0
-Camprol	1525	7413	102	0
+Kannādi Camp Shed	995	7682	258	0	Kannādi
+Champur	3196	7595	38	0	Ghamrur
+Darranga Camp	2679	9151	555	0	Darranga
+Camprol	1525	7413	102	0	Comprol
 Chhāmunda	2132	8418	567	0
 Chhām	3051	7837	500	0
 Chāmursi	1994	7989	135	0
 Chāmundi Puram	1227	7668	74	0
-Chamundy Puram	1227	7668	74	0
+Chamundy Puram	1227	7668	74	0	Chāmundi Puram
 Chāmundi	1227	7668	74	0
-Chamundi Extension	1227	7668	74	0
+Chamundi Extension	1227	7668	74	0	Chāmundi
 Chamu	2665	7258	344	0
 Chamrūpur	2730	8234	280	0
 Chamrua	2513	7936	525	0
 Chāmreri	2494	7311	273	0
-Chāmanderi	2494	7311	273	0
+Chāmanderi	2494	7311	273	0	Chāmreri
 Chamrat	3279	7672	425	0
 Champatimunda	2078	8502	414	0
 Champasar	2726	7307	344	0
@@ -50,7 +50,7 @@ Chamāri	2602	7956	741	0
 Chamārdi	2184	7191	168	0
 Chamakpur	2202	8548	293	0
 Camorlim	1563	7380	188	0
-Camocllu	1563	7380	188	0
+Camocllu	1563	7380	188	0	Camorlim
 Chāmpsi	2811	7453	539	0
 Champdani	2280	8837	450	0
 Chāmārpāra	2258	8813	354	0
@@ -69,7 +69,7 @@ Chamārkhera	3039	7797	448	0
 Chamanpura	2978	7724	449	0
 Chamon Māzra	2972	7746	449	0
 Chamāron ke Jhonpare	2596	7562	313	0
-Chamāran ka Jhonpare	2596	7562	313	0
+Chamāran ka Jhonpare	2596	7562	313	0	Chamāron ke Jhonpare
 Chamāri	2897	7660	719	0
 Neri Chamārān	3121	7700	628	0
 Chāmi	2997	7875	612	0
@@ -103,12 +103,12 @@ Chamarpura	2678	7913	290	0
 Champāpura	2698	7563	121	0
 Chamanpura	2682	7553	121	0
 Maraiyān Chamārān	2647	7925	290	0
-Marhaiyān Chamāran	2647	7925	290	0
+Marhaiyān Chamāran	2647	7925	290	0	Maraiyān Chamārān
 Chamarra	2534	7937	614	0
 Chamrahlya	2671	7998	469	0
 Purwa Chamāran	2663	7978	671	0
 Purwa Chamāran	2663	7981	671	0
-Purwa Chamāran	2655	7984	671	0
+Purwa Chamāran	2655	7984	671	0	Purwa Jasu
 Chamariya	2417	7910	663	0
 Chamliāl	3247	7489	720	0
 Campbellpur	2639	8987	713	0
@@ -231,7 +231,7 @@ Camel’s Back	3046	7808	448	0
 Chāmāsāri	3042	7812	448	0
 Chhamroli	3039	7818	448	0
 Garhi Chamāran	2948	7854	575	0
-Nūrūllahpur Chaman	2927	7853	575	0
+Nūrūllahpur Chaman	2927	7853	575	0	Haijri
 Asafābād Chaman	2935	7867	575	0
 Chamraūā	2878	7911	552	0
 Chamarpura	2878	7908	552	0
@@ -408,8 +408,8 @@ Chamārpura Khūrd	2783	7960	470	0
 Chamār Dūhi	2779	7960	470	0
 Chamārpura	2636	7758	478	0
 Chamargawān	2631	7768	478	0
-Chamārpura	2626	7751	478	0
-Chamārpura	2627	7759	478	0
+Chamārpura	2626	7751	478	0	Mahewa ka Pura
+Chamārpura	2627	7759	478	0	Bābūpura
 Chamārpura	2625	7754	478	0
 Chaman ka Pura	2618	7751	478	0
 Chamarpura	2683	7789	622	0
@@ -483,7 +483,7 @@ Chamra Thākurpur	2599	7910	741	0
 Chamāri	2588	7914	741	0
 Chamrahiya	2525	8031	663	0
 Chamrūpur	2569	8200	607	0
-Chameli	2184	7602	329	0
+Chameli	2184	7602	329	0	Govindpura
 Chamroin	2464	7930	663	0
 Chamarpura	2697	7810	546	0
 Chamrauli	2699	7820	546	0
@@ -505,7 +505,7 @@ Pura Chamārān	2686	7854	546	0
 Chamrauda	2683	7855	546	0
 Chamārpura	2681	7861	546	0
 Chamrahi Rāmpur	2511	8317	724	0
-Chamarpura	2626	7877	503	0
+Chamarpura	2626	7877	503	0	Dharampura
 Chameti	2262	7728	675	0
 Chamraua	2506	7820	436	0
 Chamraua	2538	7847	433	0
@@ -534,7 +534,7 @@ Chamrauti	2519	8024	663	0
 Chamma ka Dera	2555	8029	463	0
 Champatpur	2598	8072	728	0
 Chamrähi	2424	8384	743	0
-Chamraehi	2424	8384	743	0
+Chamraehi	2424	8384	743	0	Chamrähi
 Sindhi Camp	2303	7809	338	0
 Chamarya	2495	7822	436	0
 Chamrauwa	2479	7824	384	0
@@ -589,7 +589,7 @@ Purwa Chamāran	2615	8084	681	0
 Purwa Chamārān	2616	8098	681	0
 Chāmrod	2922	7805	700	0
 Chāmrodkhera	2923	7807	700	0
-Chamanpura	2904	7820	575	0
+Chamanpura	2904	7820	575	0	Bāhpur
 Chamariya	2970	7826	575	0
 Chamru Nawāda	2956	7843	575	0
 Chamraula	2958	7836	575	0
@@ -772,7 +772,7 @@ Chamrāhi	2647	8118	681	0
 Pura Chamāran	2645	8122	681	0
 Chamar Bhāri Purwa	2638	8123	681	0
 Chamārpura	2912	7886	511	0
-Chamrāwāla	2916	7888	511	0
+Chamrāwāla	2916	7888	511	0	Faizullāhnagar
 Chammāpur	2630	8187	597	0
 Champatpur	2593	8105	728	0
 Chamrahwān Kalān	2502	8120	643	0
@@ -1097,7 +1097,7 @@ Chamārpāra	1878	8054	288	0
 Champān	3312	7571	372	0
 Chāmpilī	3314	7590	34	0
 Chāmpat	3307	7597	372	0
-Chamrohi	3265	7545	496	0
+Chamrohi	3265	7545	496	0	Uchapind
 Chāmu	2521	8175	607	0
 Chāmu	2522	8174	607	0
 Kuliān Chamārān	3209	7546	487	0
@@ -1209,7 +1209,7 @@ Chamrāpāra	2198	8131	537	0
 Chamār Lāhri	3195	7620	38	0
 Chamba	3183	7624	38	0
 Chamnāl	3181	7617	38	0
-Chamārpāra	2169	8168	710	0
+Chamārpāra	2169	8168	710	0	Boria
 Chamrāpāra	2184	8194	755	0
 Chamār Pattiān Da Khu	3103	7610	295	0
 Chamār Kuāli	3191	7640	38	0
@@ -1265,7 +1265,7 @@ Milk Chamārān	2893	7883	511	0
 Milk Chamārān	2888	7892	511	0
 Chamārpura Dān	2882	7886	511	0
 Chamarūa	2882	7888	511	0
-Chamārān	2880	7896	511	0
+Chamārān	2880	7896	511	0	Milk Sihora
 Mazra Chamār	2876	7895	511	0
 Champaduli	2104	8349	308	0
 Chamāri	2389	7660	16	0
@@ -1323,14 +1323,14 @@ Chamalavāripālem	1600	8024	220	0
 Chamallamūdi	1621	8043	319	0
 Champājod	1929	8312	363	0
 Champikota	1908	8325	363	0
-Chamurujodi	1908	8325	363	0
+Chamurujodi	1908	8325	363	0	Champikota
 Champikota	1903	8336	363	0
 Champe	1920	8349	363	0
 Champi	1926	8359	363	0
 Champādu	1811	8241	268	0
 Chamārgūdem	1627	8087	68	0
 Champi	1903	8353	363	0
-Upar Champi	1900	8305	316	0
+Upar Champi	1900	8305	316	0	Upporochompi
 Chāmalāpalle	1803	8309	179	0
 Chāmalāpalle	1810	8321	179	0
 Kotta Chamalāpalle	1811	8320	179	0
@@ -1415,7 +1415,7 @@ Chamraua	2855	7938	342	0
 Chamaran	2808	7927	117	0
 Chamraulia	2808	7926	117	0
 Champatpur	2823	7934	342	0
-Chāmu Nava	2394	7308	212	0
+Chāmu Nava	2394	7308	212	0	Bhātva
 Chāmu	2392	7310	212	0
 Chamanpura	2624	8469	703	0
 Gangāpur Chamārān	2894	7957	641	0

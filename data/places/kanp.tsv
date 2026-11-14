@@ -1,13 +1,13 @@
 Kanpur	2647	8035	469	2823249
-Kānpwr	2647	8035	469	2823249
+Kānpwr	2647	8035	469	2823249	Kanpur
 Kanpur Cantonment	2646	8038	469	108534
-Kanpur Cantt	2646	8038	469	108534
+Kanpur Cantt	2646	8038	469	108534	Kanpur Cantonment
 Khānpur	2473	7640	333	14854
 Khānpur	2853	7807	637	14688
-Kanpur Nawabganj	2650	8031	469	10758
+Kanpur Nawabganj	2650	8031	469	10758	Nawābganj
 Khan Pur Dhani	2871	7728	791	6994
-Old Kanpur	2650	8032	469	0
-Kanpāra	2225	8340	439	0
+Old Kanpur	2650	8032	469	0	Old Cawnpore
+Kanpāra	2225	8340	439	0	Konpāra
 Khānpa	2452	7304	22	0
 Kānpura	2639	7485	446	0
 Kānpur	3242	7536	496	0
@@ -20,7 +20,7 @@ Khānpur	3444	7427	0	0
 Khānpur	3279	7489	581	0
 Khoās Khān Pīr	3264	7484	581	0
 Khānpur Tawi	3272	7478	581	0
-Khānpur	3272	7478	581	0
+Khānpur	3272	7478	581	0	Khānpur Tawi
 Khānpur	2993	7706	457	0
 Khānpur	2961	7740	328	0
 Khānpur	2969	7731	449	0
@@ -35,10 +35,10 @@ Khānpur Kurmi	2718	7946	570	0
 Khānpur	2704	7947	570	0
 Kanpatiāpur	2704	7989	570	0
 Khānpur	2679	7916	290	0
-Kanpura	2630	7925	741	0
+Kanpura	2630	7925	741	0	Kishanpur
 Qasba Khānpur	2644	7950	715	0
 Khānpur	2683	7972	570	0
-Kanpatiāpur	2671	7991	671	0
+Kanpatiāpur	2671	7991	671	0	Bhagwantpur
 Khānpur Chain	2653	7979	671	0
 Kannpur	2468	7925	481	0
 Khanpur	2851	7723	778	0
@@ -196,7 +196,7 @@ Khānpur	2387	7865	352	0
 Khānpur	2752	7944	688	0
 Khānpura	2768	7940	470	0
 Khanpura	2322	7906	352	0
-Khānpur	2594	8237	32	0
+Khānpur	2594	8237	32	0	Lālganj
 Khānpur	2582	8243	32	0
 Khānpur	2592	8255	32	0
 Khānpatti	2577	8266	32	0
@@ -214,14 +214,14 @@ Khānpur Khapra	2620	8092	681	0
 Khānpur	2616	8095	681	0
 Khānpur	2917	7822	575	0
 Khānpur Khādar	2914	7816	575	0
-Muhammad Amīn Khānpur	2970	7840	575	0
-Muhammad Amīn Khānpur	2969	7840	575	0
-Muhammad Amīn Khānpur	2969	7839	575	0
-Muswi Khānpur	2957	7829	575	0
+Muhammad Amīn Khānpur	2970	7840	575	0	Jattīwāla
+Muhammad Amīn Khānpur	2969	7840	575	0	Jattīwāla
+Muhammad Amīn Khānpur	2969	7839	575	0	Jattīwāla
+Muswi Khānpur	2957	7829	575	0	Chaugānwān
 Khānpur	2954	7831	575	0
 Khānpur	2948	7840	575	0
 Khānpur	2944	7836	575	0
-Khānpur Manak	2939	7848	575	0
+Khānpur Manak	2939	7848	575	0	Mankāwāla
 Sādullāh Khānpur	2929	7847	575	0
 Kanpuria	2780	8118	323	0
 Khānpur	2765	8116	507	0
@@ -323,7 +323,7 @@ Khānpur Belmaha	2613	8286	498	0
 Khānpur	2609	8289	498	0
 Khānpur	2602	8285	498	0
 Khānpur	2601	8294	498	0
-Khānpur	2599	8152	681	0
+Khānpur	2599	8152	681	0	Bīrbhānpur
 Khānpur	2701	8371	515	0
 Khanpatti	2594	8171	718	0
 Kanpurwa	2681	8315	325	0
@@ -434,7 +434,7 @@ Khapura Khānpur	2607	8458	639	0
 Kānpuri	2165	7495	248	0
 Khānpura	2818	7963	342	0
 Kanpur	2874	7992	783	0
-Khānpur	2836	7976	683	0
+Khānpur	2836	7976	683	0	Bīrampur
 Kanpara	2828	7992	683	0
 Kanpari	2829	7990	683	0
 Babhan Kanpa	2543	8480	604	0

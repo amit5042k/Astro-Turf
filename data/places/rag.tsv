@@ -1,16 +1,16 @@
 Rāghogarh	2444	7720	336	63873
-Rāghugarh	2444	7720	336	63873
+Rāghugarh	2444	7720	336	63873	Rāghogarh
 Raghunathpur	2354	8667	415	22802
 Raghudebbati	2253	8820	354	12833
 Raghunandanpur	2465	8797	471	8335
 Raghunāthpur	2564	8792	625	6355
 Raghunāthpuram	1768	7896	129	4008
-Raghunathpur	1768	7896	129	4008
+Raghunathpur	1768	7896	129	4008	Raghunāthpuram
 Ragupodor	2088	8333	497	0
 Ragto	2270	8540	287	0
 Raghunāthpura	2921	7360	374	0
 Raghunāthpura	2564	7426	309	0
-Ragonathpura	2564	7426	309	0
+Ragonathpura	2564	7426	309	0	Raghunāthpura
 Raghunāthpur	2605	7696	335	0
 Raghunāthpur	2600	8428	639	0
 Raghunāthpur	2556	8430	620	0
@@ -18,14 +18,14 @@ Raghunāthpalli	1775	7926	182	0
 Raghunāthpāli	2223	8480	272	0
 Raghunāthgarh	2766	7534	491	0
 Raghunāthganj	2468	8165	516	0
-Ragoonathgunj	2468	8165	516	0
+Ragoonathgunj	2468	8165	516	0	Raghunāthganj
 Raghunāthbāri	2236	8778	559	0
 Raghunāthapur	2037	8615	303	0
-Raghunāthpur	2037	8615	303	0
+Raghunāthpur	2037	8615	303	0	Raghunāthapur
 Ragauli	2474	7952	663	0
 Ragada	1985	8447	440	0
 Pura Raghunāthpur	2546	8285	251	0
-Pura Raghunāth	2546	8285	251	0
+Pura Raghunāth	2546	8285	251	0	Pura Raghunāthpur
 Lohāri Rāgho	2926	7606	339	0
 Raghunāthpura	2807	7467	539	0
 Raghabpur	2242	8834	4	0
@@ -33,14 +33,14 @@ Raginābad	2228	8834	4	0
 Raghunāthpur	2214	8811	559	0
 Raghunāthpur	2212	8835	4	0
 Ragalot	3324	7436	504	0
-Rāgtan	3294	7441	581	0
+Rāgtan	3294	7441	581	0	Bāgtan
 Ragūra	3274	7490	581	0
 Raghunāthpura	2549	7561	353	0
 Raghunāthpura	2546	7573	353	0
 Raghuvīrpura	2542	7561	353	0
 Raghunāthpura	2530	7573	353	0
 Raghunāthpura	2552	7555	353	0
-Raghunāihpura	2552	7555	353	0
+Raghunāihpura	2552	7555	353	0	Raghunāthpura
 Raghunāthpura	2566	7553	353	0
 Raghunāthpura	2807	7607	694	0
 Rāgipādu	1745	7888	129	0
@@ -50,7 +50,7 @@ Raghabīr Nagla	2782	7909	616	0
 Raghunāthpur	2750	7971	470	0
 Tera Rāgi	2710	7981	570	0
 Raghupur	2687	7902	290	0
-Rāghavpur	2687	7902	290	0
+Rāghavpur	2687	7902	290	0	Raghupur
 Raghubarpur	2648	7938	715	0
 Ragaida	2602	7949	741	0
 Ragauli	2528	7947	663	0
@@ -84,7 +84,7 @@ Raghunāthpura	2650	7626	708	0
 Rāghān Chhoti	2862	7550	539	0
 Raghuvīrpura	2832	7539	300	0
 Raghunāthpura	2656	7613	121	0
-Raghunāthpura	2663	7617	121	0
+Raghunāthpura	2663	7617	121	0	Gaur ka Bās
 Raghubati	2627	7612	116	0
 Bād Rāghopura	2661	7655	116	0
 Rāghopura	2660	7654	116	0
@@ -151,7 +151,7 @@ Raghujīnagar	2113	7912	141	0
 Marhaiya Raghu Singh	2737	7940	688	0
 Ragunāthpur	2777	7959	470	0
 Raghunāthpura	2640	7774	478	0
-Raghunāthpura	2577	7741	436	0
+Raghunāthpura	2577	7741	436	0	Thākurpura
 Rāgha	2745	7963	688	0
 Raghan Singh	2731	7972	688	0
 Raghol Nagla	2721	7955	688	0
@@ -162,7 +162,7 @@ Raghunathpur	2427	7714	336	0
 Rāghopura	2427	7719	336	0
 Rāghapur	2419	7719	336	0
 Rāghogarh	2430	7733	215	0
-Raghunāthpur	2732	7899	464	0
+Raghunāthpur	2732	7899	464	0	Havelia
 Rāghupura	2408	7726	336	0
 Raghunāthpur	2414	7747	215	0
 Rāghavāpuram	1782	7933	182	0
@@ -170,7 +170,7 @@ Raghunāthpalli	1787	7948	182	0
 Raghaniān	2766	7805	670	0
 Heta Raghunāthpur	2759	7822	670	0
 Raghūpura	2795	7827	543	0
-Raghaul	2714	7848	403	0
+Raghaul	2714	7848	403	0	Baltigarh
 Rāghavpur	1714	7977	250	0
 Raghunathpur	2659	7954	715	0
 Ragauli	2604	7952	741	0
@@ -224,7 +224,7 @@ Ragda	2427	8387	701	0
 Rāghavapuram	1692	7811	317	0
 Raghupathipeta	1651	7848	467	0
 Ragauli	2556	8057	463	0
-Raghunāthpura	2478	7648	506	0
+Raghunāthpura	2478	7648	506	0	Nayāgaon
 Rāghavāpuram	1772	7905	182	0
 Rāgibhāvi	1742	7921	129	0
 Rāgāpur	1741	7918	129	0
@@ -267,7 +267,7 @@ Pura Raghunāthpur	2545	8284	251	0
 Raghurāmpur	2549	8297	251	0
 Rāghūpur	2536	8213	607	0
 Raghunāthpur	2467	8299	103	0
-Raghubirpura	2826	7580	300	0
+Raghubirpura	2826	7580	300	0	Gode ka Bās
 Raghunath Khera	2670	8080	714	0
 Raghunāthpur	2638	8079	312	0
 Raghunāthganj	2630	8092	681	0
@@ -362,7 +362,7 @@ Pura Raghubir Bakhsh	2632	8122	681	0
 Raghunāthpur Bankat	2632	8105	681	0
 Purwa Raghunāth	2647	8126	681	0
 Pura Raghubir Singh	2630	8129	681	0
-Raghunāthpur	2912	7886	511	0
+Raghunāthpur	2912	7886	511	0	Chamārpura
 Rāghūwāla	2923	7885	511	0
 Pura Raghunāth	2649	8148	662	0
 Purwa Raghubar	2645	8179	662	0
@@ -374,7 +374,7 @@ Pura Raghu	2637	8184	662	0
 Purwa Raghubar	2638	8198	597	0
 Raghunāthpur	2589	8117	728	0
 Raghauli	2537	8119	643	0
-Raghauli	2535	8119	643	0
+Raghauli	2535	8119	643	0	Purwa Ghog
 Raghunthpur	2718	8084	507	0
 Raghogarhi	2713	8085	507	0
 Raghunāthpur	2704	8081	714	0
@@ -604,7 +604,7 @@ Raghunāthpur	2691	8372	560	0
 Raghupatti	2658	8356	325	0
 Raghopur	2664	8358	325	0
 Raghubar Tola	2667	8364	535	0
-Sarāi Rāghu	2553	8173	607	0
+Sarāi Rāghu	2553	8173	607	0	Sarāi Jairām
 Raghubanspur	2558	8170	607	0
 Raghauli	2610	8359	586	0
 Pura Raghunand	2619	8369	586	0
@@ -782,7 +782,7 @@ Raghunāthpura	2511	7482	417	0
 Bishunpur Raghunāth	2690	8454	476	0
 Raghunāthpur	2683	8467	476	0
 Raghunāthpur	2669	8462	396	0
-Raghu Nāthpur	2867	7930	342	0
+Raghu Nāthpur	2867	7930	342	0	Jagdīshpur
 Raghopur	2842	7932	342	0
 Dauli Raghubar Dayāl	2836	7935	342	0
 Raghunāthpur	2680	8481	396	0
@@ -920,7 +920,7 @@ Raghunīkita	2501	8713	605	0
 Raghāria	2523	8731	411	0
 Raghunāthpur	2527	8744	411	0
 Rāghupur	2593	8515	716	0
-Husainpur Rāgho	2593	8515	716	0
+Husainpur Rāgho	2593	8515	716	0	Rāghupur
 Raghupur	2582	8501	540	0
 Husaina Rāgho	2591	8516	716	0
 Raghunāthpur	2566	8501	604	0
@@ -970,7 +970,7 @@ Ragunāthpur	2720	8024	686	0
 Raghunāthpur	2796	8028	323	0
 Raghunāthpur	2794	8039	323	0
 Raghunāthpur	2799	8039	323	0
-Raghunathpur	2630	8567	395	0
+Raghunathpur	2630	8567	395	0	Jajuar
 Ragibammanhalli	1236	7704	94	0
 Rāgihalli	1274	7757	43	0
 Ragavarājupuram	1525	7814	232	0
@@ -1092,7 +1092,7 @@ Ragudih	2165	8528	293	0
 Ragudih	2153	8529	414	0
 Ragdā	2132	8532	293	0
 Raghunāthpur	2101	8528	289	0
-Ragudia	2187	8562	293	0
+Ragudia	2187	8562	293	0	Lākhimposi
 Ragudih	2159	8555	293	0
 Raghunāthpur	2160	8571	293	0
 Ragadā	2106	8574	376	0

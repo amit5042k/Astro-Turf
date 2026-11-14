@@ -1,23 +1,23 @@
 Bhavnagar	2176	7215	168	605882
 Bawāna	2880	7703	769	73680
-Bawana Delhi	2880	7703	769	73680
+Bawana Delhi	2880	7703	769	73680	Bawāna
 Bhawānipatna	1991	8317	284	69045
-Bavla	2283	7236	124	42458
+Bavla	2283	7236	124	42458	Bāola
 Bhawāni Mandi	2442	7584	580	42283
 Bhavāni	1145	7768	211	39744
 Thāna Bhawan	2959	7742	328	33498
 Bhawanipur	2645	8703	426	27000
 Bhawānīgarh	3027	7604	593	22320
-Bhavanagiri	1144	7965	178	21956
+Bhavanagiri	1144	7965	178	21956	Kīl Bhuvanagiri
 Bawāni Khera	2895	7603	431	20289
-Bawāni	2895	7603	431	20289
+Bawāni	2895	7603	431	20289	Bawāni Khera
 Bāwal	2807	7658	519	16776
-Bhavri	2466	7291	23	15312
-Bhavra	2253	7433	155	10968
+Bhavri	2466	7291	23	15312	Bhauri
+Bhavra	2253	7433	155	10968	Bhābhra
 Bhavanisagar	1148	7713	211	7710
-Khandala Bavda	1806	7402	64	0
-Danta-Bhavangadh	2419	7277	134	0
-Bhāwra	2228	7787	462	0
+Khandala Bavda	1806	7402	64	0	Khandāla
+Danta-Bhavangadh	2419	7277	134	0	Dānta
+Bhāwra	2228	7787	462	0	Bhaunra
 Bhāwi	2622	7361	344	0
 Bhawari	2569	7307	273	0
 Bhawānīpur Rājdhām	2565	8714	613	0
@@ -33,30 +33,30 @@ Bhāwanda	2691	7349	430	0
 Bhāvla	2698	7410	430	0
 Bāwri	2649	7781	478	0
 Bhawarna Khās	3204	7649	38	0
-Bawarna	3204	7649	38	0
+Bawarna	3204	7649	38	0	Bhawarna Khās
 Bāwarla	2507	7136	285	0
 Bawanbīr	2109	7671	49	0
 Bawāna	2837	7619	694	0
 Bawan	3376	7521	148	0
 Bāv River	1715	7350	234	0
-Bāv	1715	7350	234	0
+Bāv	1715	7350	234	0	Bāv River
 Bavliari	2207	7212	124	0
-Bávliáli	2207	7212	124	0
+Bávliáli	2207	7212	124	0	Bavliari
 Bāvda	1654	7383	57	0
 Bāvanapādu	1857	8435	472	0
-Bāvda	1797	7500	52	0
+Bāvda	1797	7500	52	0	Bāura
 Bāvri	2646	7555	313	0
 Bāvri	2612	7553	313	0
 Bawari	2535	7094	285	0
 Bāwari	2662	7318	344	0
-Bāvalwāra	2409	7347	22	0
+Bāvalwāra	2409	7347	22	0	Babalwāra
 Bhāvandesar	2802	7452	539	0
 Bhawaldesar	2884	7460	486	0
 Bāwāli	2243	8819	4	0
-Bāwuli	3377	7414	1	0
+Bāwuli	3377	7414	1	0	Goah
 Khīr Bhawāni	3422	7473	595	0
 Swānkha Thān Bāwa	3254	7493	720	0
-Bāwali	3268	7498	720	0
+Bāwali	3268	7498	720	0	Bābli
 Bawangaon	3050	7789	448	0
 Bhawānīpura	2525	7567	353	0
 Bhawānīpura	2511	7556	353	0
@@ -64,7 +64,7 @@ Bhawānīpura	2539	7557	353	0
 Bāvdīkhera	2533	7561	353	0
 Bhawānīpura	2532	7566	353	0
 Bhavriyākuvān	2528	7566	353	0
-Bāvrikhera	2565	7552	353	0
+Bāvrikhera	2565	7552	353	0	Munshipura
 Bhawānīpura	2561	7564	353	0
 Bhāweghar	1848	7292	17	0
 Bhāvda	2226	6907	131	0
@@ -80,7 +80,7 @@ Rāj Bhavan Punjab	3074	7681	787	0
 Bāwaj	2401	7822	215	0
 Bāwri	2491	7846	384	0
 Bāwari	2483	7884	481	0
-Bāweri	2483	7884	481	0
+Bāweri	2483	7884	481	0	Bāwari
 Bhawāni Nagla	2780	7927	117	0
 Bhāwalpur	2720	7930	464	0
 Bhawānīgarh	2708	7943	464	0
@@ -98,7 +98,7 @@ Purwa Bhawa	2660	7999	671	0
 Purwa Bhawan	2656	7975	671	0
 Bavanipet	1833	7835	58	0
 Bhawānīpur	2628	8720	667	0
-Bhawān	2628	8720	667	0
+Bhawān	2628	8720	667	0	Bhawānīpur
 Bhawānīnagar	2601	8734	667	0
 Bhawāninagar	1712	7427	65	0
 Dambra Bawa	2632	9113	358	0
@@ -107,7 +107,7 @@ Bawān	2960	7579	443	0
 Bhawāni Khera	2999	7683	501	0
 Sakatpur Bāwad	2802	7650	482	0
 Bawān Gujar	2817	7647	519	0
-Bhawānīpur	2822	7649	519	0
+Bhawānīpur	2822	7649	519	0	Kadhu
 Bhawāra	3129	7738	479	0
 Bhawāna	3118	7741	479	0
 Bhawāna	3113	7751	479	0
@@ -152,7 +152,7 @@ Bawah	2839	7632	519	0
 Tel Bhawan	3034	7804	448	0
 Bhawān	3048	7822	500	0
 Āsafābād Bhāwan	2932	7861	575	0
-Bhawānipur	2939	7871	575	0
+Bhawānipur	2939	7871	575	0	Zikriwāla
 Bhawānīpur	2881	7909	552	0
 Bhawānipur	2831	7902	117	0
 Bāvrikhera	2422	7630	16	0
@@ -171,7 +171,7 @@ Bhawāni ka Pura	2648	7776	478	0
 Bhawanpura	2644	7790	478	0
 Bāwra Chhota	3035	7609	564	0
 Bāwra Bara	3034	7612	564	0
-Bāwra	3035	7612	564	0
+Bāwra	3035	7612	564	0	Bowra
 Bāvchi	1861	7614	33	0
 Bhawia Nagla	2780	7793	543	0
 Bhāvthāna	1879	7629	33	0
@@ -262,10 +262,10 @@ Bhawānīpur	2685	7998	469	0
 Bhawānīpur	2688	7993	570	0
 Jagat Bhawan	2696	7978	570	0
 Bhawānīpur	2681	7993	469	0
-Bhawan Nawāda	2676	7997	469	0
+Bhawan Nawāda	2676	7997	469	0	Ghusuāpur
 Bhawānīpur	2631	7995	671	0
 Nagla Bhawan	2745	7869	711	0
-Nagla Bhawāni	2746	7852	711	0
+Nagla Bhawāni	2746	7852	711	0	Rāmnagar
 Bāwanwāli	2738	7859	403	0
 Bhawan Khamni	2730	7865	403	0
 Nagla Bhawān	2726	7857	403	0
@@ -297,9 +297,9 @@ Bhawānīpur	2524	8305	724	0
 Baweri	2649	7880	334	0
 Bāwariya	2298	7751	338	0
 Bhāwar	2137	7680	133	0
-Bhawānīpur	2551	8333	26	0
+Bhawānīpur	2551	8333	26	0	Horilpur
 Bhawānīpur	2552	8331	26	0
-Bhawānīpur	2551	8345	26	0
+Bhawānīpur	2551	8345	26	0	Tiwārīpar
 Bāvriya	2214	7709	465	0
 Bhavarwāni	2204	7707	465	0
 Bāwariya	2241	7737	590	0
@@ -359,7 +359,7 @@ Sarāi Bhawāni	2587	8214	718	0
 Sarāi Bhawāni	2592	8215	718	0
 Bhāwāpur	2590	8227	718	0
 Bhawānīpur	2577	8271	32	0
-Chak Bhawāni Shahkor	2588	8266	32	0
+Chak Bhawāni Shahkor	2588	8266	32	0	Tiwārīpur
 Chak Bhawan	2570	8253	32	0
 Bhawānipur	2566	8253	32	0
 Bhawānīpur	2552	8251	32	0
@@ -406,8 +406,8 @@ Bhawānipur	2612	8082	681	0
 Bhawānipur	2618	8092	681	0
 Bhawānīpur Gagren	2918	7822	575	0
 Bhāwanwāla	2950	7843	575	0
-Hakīkatpur Bhāwān	2950	7843	575	0
-Bhawanpur Kalān	2942	7839	575	0
+Hakīkatpur Bhāwān	2950	7843	575	0	Bhāwanwāla
+Bhawanpur Kalān	2942	7839	575	0	Bhīmpura
 Purwa Bhawāni	2796	8109	323	0
 Bhawāni Sarāi	2776	8116	507	0
 Bhawānipur	2774	8109	507	0
@@ -470,7 +470,7 @@ Pura Bhawāni	2694	8144	30	0
 Bhawānipur	2697	8139	30	0
 Bhawānīpur Gaddu	2908	7831	575	0
 Bhawānīpur Kalia	2924	7834	575	0
-Bhawānīpur	2922	7845	575	0
+Bhawānīpur	2922	7845	575	0	Tarkaula
 Purwa Bhawāni Bakhsh	2674	8131	30	0
 Purwa Bhawāni Kakhsh	2651	8135	681	0
 Bhawāni Bakhsh	2651	8136	681	0

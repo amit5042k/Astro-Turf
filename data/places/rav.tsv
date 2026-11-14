@@ -1,9 +1,9 @@
 Rāwatbhāta	2493	7559	417	37699
-Rawatbhaia	2493	7559	417	37699
+Rawatbhaia	2493	7559	417	37699	Rāwatbhāta
 Rāvu	2264	7581	660	36055
 Rāwatsār	2927	7440	486	35102
 Rāver	2125	7604	78	27039
-Rāwikhet	2964	7943	429	19873
+Rāwikhet	2964	7943	429	19873	Rānikhet
 Raval	2192	6948	131	19777
 Ravapara	2280	7083	147	12206
 Rawān	2168	8209	379	5100
@@ -12,14 +12,14 @@ Rawālsar	3163	7683	278	1821
 Rāwar	2620	7349	344	0
 Rawāpur	2352	6904	108	0
 Rāvalkol	1844	7727	140	0
-Rāwankol	1844	7727	140	0
+Rāwankol	1844	7727	140	0	Rāvalkol
 Rawālia	2240	7352	180	0
 Rawāl	2235	7335	159	0
 Ravutulapūdi	1738	8237	269	0
-Ravutalapudi	1738	8237	269	0
+Ravutalapudi	1738	8237	269	0	Ravutulapūdi
 Ravel	2416	7172	134	0
 Rāvangaon	1836	7463	52	0
-Gangā Rāvapalli	1695	7746	71	0
+Gangā Rāvapalli	1695	7746	71	0	Gangārāvalapalli
 Rāwasar	2835	7395	307	0
 Rāwalpur	3402	7480	611	0
 Rāwatpur	3449	7408	0	0
@@ -31,7 +31,7 @@ Rāwulapalli	1735	7820	62	0
 Rāwiyyāl	1705	7801	62	0
 Rāwalpalli Kalān	1741	7884	129	0
 Rāwirāl	1722	7851	62	0
-Rāwirāl Kongara	1722	7851	62	0
+Rāwirāl Kongara	1722	7851	62	0	Rāwirāl
 Rāwalkol	1766	7853	311	0
 Rāwali Kudi	2460	7551	655	0
 Rāwatsar Kūjla	2837	7535	539	0
@@ -139,7 +139,7 @@ Rāwatpura	2691	7790	546	0
 Rāwatpura	2677	7794	622	0
 Rawa	2780	7701	544	0
 Rāwalka	2778	7710	114	0
-Rāwalki	2788	7720	544	0
+Rāwalki	2788	7720	544	0	Mubārikpur
 Rāviched	1698	7842	62	0
 Rāwatpur	2780	7979	470	0
 Rāvsar	2492	7756	410	0
@@ -173,10 +173,10 @@ Ravnur	1699	7671	71	0
 Rawānātoli	2412	8390	743	0
 Ravipākla	1634	7829	146	0
 Rāviched	1647	7871	467	0
-Rāwato	2444	7804	410	0
+Rāwato	2444	7804	410	0	Barkhera
 Rāvūr	1773	7971	249	0
 Rāvulapenta	1702	7958	101	0
-Ravindragrām	2449	8114	324	0
+Ravindragrām	2449	8114	324	0	Bahelia Bhāt
 Rāwa	2170	7802	462	0
 Rāweri	2039	7852	67	0
 Rawaniān	2599	8249	597	0
@@ -196,7 +196,7 @@ Rāwanwāri	2105	7971	404	0
 Rāwanwāri Tola	2106	7971	404	0
 Rawāna Haibat	2916	7829	575	0
 Rawāna Shikārpur	2914	7849	575	0
-Ravidāsnagar	2927	7889	641	0
+Ravidāsnagar	2927	7889	641	0	Sheorājpur
 Purwa Rawāi Singh	2648	8177	597	0
 Rāwatpur	2648	8028	469	0
 Rawān Khurd	2864	7849	646	0
@@ -279,7 +279,7 @@ Rāwa	3250	7624	362	0
 Rāwān ka Khera	2510	7400	572	0
 Rawa	3227	7630	38	0
 Raweli	2210	8135	537	0
-Rawan	2240	8150	537	0
+Rawan	2240	8150	537	0	Manjholi
 Kulen Rāwan	3230	7657	362	0
 Rawāl ka Bāria	2603	7437	446	0
 Raweli	2222	8180	755	0
@@ -421,7 +421,7 @@ Rāvatvādi	1557	7444	77	0
 Rawāich	2546	8552	604	0
 Ravipahād	1671	7973	250	0
 Ravulāpuram	1626	7958	10	0
-Rāwalpalli Khurd	1742	7882	129	0
+Rāwalpalli Khurd	1742	7882	129	0	Chilkaguda
 Ravla	2059	7588	113	0
 Basbharwa Rāwat	2772	8009	686	0
 Rāwatpur	2773	8014	686	0

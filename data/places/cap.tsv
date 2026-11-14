@@ -1,23 +1,23 @@
 Chāpra	2578	8475	540	202352
-Cape Comorin	809	7754	453	22453
+Cape Comorin	809	7754	453	22453	Kanniyākumāri
 Chāpar	2627	9045	561	20322
 Chhāpar	2782	7444	539	19744
 Chhaprauli	2921	7717	477	19224
 Seoni Chhapāra	2239	7954	368	15371
-Dungaria Chhapāra	2239	7954	368	15371
+Dungaria Chhapāra	2239	7954	368	15371	Seoni Chhapāra
 Captainganj	2693	8371	560	12299
 Chapra	2487	9256	624	11220
 Gerimari Chapori	2643	9203	747	11004
 Chapakhowa Town	2792	9577	460	10305
 Chhapra	2093	7293	221	10147
 Chhapera	2389	7645	16	8501
-Chhapiheda	2389	7645	16	8501
+Chhapiheda	2389	7645	16	8501	Chhapera
 Chhāpi	2403	7240	134	8379
 Chapora	1560	7374	188	1000
-Chapora Fort	1560	7374	188	1000
-Chaptuk	2532	9282	163	0
-Chhāpur	2116	7616	29	0
-Hastings Chapel	2255	8833	123	0
+Chapora Fort	1560	7374	188	1000	Chapora
+Chaptuk	2532	9282	163	0	Waitang
+Chhāpur	2116	7616	29	0	Ichhāpur
+Hastings Chapel	2255	8833	123	0	Hastings
 Dālan Chapra	2573	8452	536	0
 Chhaprāwat	2854	7779	637	0
 Chhāpra	2732	7403	430	0
@@ -35,7 +35,7 @@ Chāpara	1877	8419	472	0
 Chapar	3289	7542	373	0
 Chāpāner	2018	7506	113	0
 Chāpānālla	2634	9288	656	0
-Chapenalla	2634	9288	656	0
+Chapenalla	2634	9288	656	0	Chāpānālla
 Chāpamānik	1975	8567	603	0
 Chāpājhār	2103	8190	310	0
 Chapadgaon	1935	7537	152	0
@@ -95,7 +95,7 @@ Chhāpeyānwāli	2991	7530	709	0
 Chhapar Dhara	3342	7426	504	0
 Chāpra	3331	7441	504	0
 Chhapohi	3138	7744	680	0
-Chak Chhapriwāla	3048	7419	3	0
+Chak Chhapriwāla	3048	7419	3	0	Kundiānwāla
 Chhāpānwāli	3016	7450	615	0
 Chaprāni	3121	7726	479	0
 Chapronch	3115	7772	479	0
@@ -113,7 +113,7 @@ Chaparāra	2755	7673	482	0
 Chaparāra Ka Bās	2756	7672	482	0
 Chhāpar	3005	7740	449	0
 Chāpnu	3057	7786	448	0
-Gokalpur Chhappar	2935	7804	545	0
+Gokalpur Chhappar	2935	7804	545	0	Rāmāwāla
 Chhāpriyon ki Dhāni	2644	7615	313	0
 Chhāparka	2600	7660	116	0
 Chhapra	2968	7705	457	0
@@ -217,7 +217,7 @@ Chapri	2441	8358	743	0
 Chhapardaga	2422	8354	743	0
 Chhapiyāhītanr	2408	8365	743	0
 Chapla	2405	8371	743	0
-Chapkali	2403	8356	743	0
+Chapkali	2403	8356	743	0	Chamkali
 Chhapār	2574	7890	433	0
 Chaprāl	2070	7991	404	0
 Khairi Chaprāl	2071	7988	404	0
@@ -349,7 +349,7 @@ Chhapia	2673	8330	325	0
 Mahābīr Chhapra	2665	8337	325	0
 Purwa Chāpwān	2666	8346	325	0
 Chhapra	2662	8346	325	0
-Chaparhat	2667	8331	325	0
+Chaparhat	2667	8331	325	0	Koha
 Chhapra	2638	8328	325	0
 Chhapra	2628	8326	498	0
 Chhaprāpur	2625	8333	498	0
@@ -485,7 +485,7 @@ Chappar	3246	7620	362	0
 Chāpātola	2078	8071	644	0
 Chhāparkheri	2513	7388	572	0
 Chāpātola	2056	8084	644	0
-Chāpātola	2059	8092	644	0
+Chāpātola	2059	8092	644	0	Tekāmtola
 Chapwār	2262	8116	468	0
 Chhapri	2211	8116	537	0
 Chhāpartola	2276	8144	468	0
@@ -525,7 +525,7 @@ Chaproli	3002	7892	612	0
 Chaproli	3008	7895	612	0
 Chāpri	2989	7889	612	0
 Chhapora	2177	8345	439	0
-Chapka	2885	7803	756	0
+Chapka	2885	7803	756	0	Lodhipur
 Chhāpihera	2348	7627	320	0
 Yāqūtpur Chhapara	2883	7887	511	0
 Chhāpria	2320	7642	320	0
@@ -556,7 +556,7 @@ Chhapia	2600	8460	540	0
 Bansi Chhapra	2600	8451	540	0
 Pānre Chhapra	2599	8452	540	0
 Chāin Chhapra	2581	8450	536	0
-Lachman Chhapra	2576	8456	536	0
+Lachman Chhapra	2576	8456	536	0	Kondarha
 Karan Chhapra	2577	8453	536	0
 Pritam Chhapra	2576	8452	536	0
 Dhani Chhapra	2582	8460	540	0
@@ -710,7 +710,7 @@ Saheb Chhāpra Kalan	2645	8424	703	0
 Saheb Chhāpra	2645	8423	703	0
 Jiut Chhāpra	2649	8418	703	0
 Kharag Rām Chhāpra	2647	8415	703	0
-Chhāpra	2624	8405	535	0
+Chhāpra	2624	8405	535	0	Chaudhar
 Dharni Chhāpra	2624	8412	639	0
 Ugarsen Chhāpra	2622	8414	639	0
 Moti Chhāpra	2624	8415	639	0
@@ -796,7 +796,7 @@ Chhāpia	2602	8477	540	0
 Chhāpia	2608	8484	540	0
 Hemu Chhāpra	2622	8486	703	0
 Halimpur Purkhi Chhāpra	2625	8495	395	0
-Rūp Chhāpra	2621	8494	395	0
+Rūp Chhāpra	2621	8494	395	0	Sārangpur
 Daria Chhāpra	2624	8496	395	0
 Dāha Chhāpra	2622	8498	395	0
 Sulemān Chhāpra	2624	8499	395	0

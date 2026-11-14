@@ -1,11 +1,11 @@
 Kangayam	1101	7756	235	32147
 Kangeyanallur	1295	7915	189	15177
 Kangarāli-budrukh	1591	7451	77	10496
-Kangrali (BK)	1591	7451	77	10496
+Kangrali (BK)	1591	7451	77	10496	Kangarāli-budrukh
 Kangra	3209	7626	38	9528
-Kāngar	3209	7626	38	9528
+Kāngar	3209	7626	38	9528	Kangra
 Kangarāli-khurd	1590	7450	77	8204
-Kangrali (KH)	1590	7450	77	8204
+Kangrali (KH)	1590	7450	77	8204	Kangarāli-khurd
 Kāngpokpi	2515	9397	489	7476
 Kang Sahbu	3122	7551	369	2694
 Kang Jāgīr	3109	7583	369	1260
@@ -15,7 +15,7 @@ Kangundi	1277	7843	214	0
 Kangti	1823	7762	31	0
 Kāngpat	2468	9449	723	0
 Kanglatongbi	2498	9389	416	0
-kanglatombi	2498	9389	416	0
+kanglatombi	2498	9389	416	0	Kanglatongbi
 Kangkar	2753	9190	531	0
 Kangi	3423	7660	8	0
 Kānghmun	2355	9258	12	0
@@ -23,7 +23,7 @@ Kangchup Khul	2487	9377	489	0
 Kangazha	952	7670	271	0
 Kāngaon	2001	7414	54	0
 Kangan	3427	7490	595	0
-Kangra	3211	7628	38	0
+Kangra	3211	7628	38	0	Bhawan
 Kāngar	2822	7464	539	0
 Kānga	3346	7421	1	0
 Kangar	3289	7463	581	0
@@ -34,7 +34,7 @@ Kāngri	3306	7439	504	0
 Khan Gāla	3325	7438	504	0
 Kangar	3284	7485	581	0
 Kāngri	3123	7711	479	0
-Kāngar	3123	7711	479	0
+Kāngar	3123	7711	479	0	Kāngri
 Kāngar	3122	7712	479	0
 Kāngti	3120	7708	479	0
 Nichla Kāngti	3119	7708	479	0
@@ -105,7 +105,7 @@ Khangarpur	2764	7869	711	0
 Khangārpur	2754	7852	711	0
 Khangoriya	2354	7925	352	0
 Khangaurīya	2343	7955	521	0
-Khangori	2343	7955	521	0
+Khangori	2343	7955	521	0	Khangaurīya
 Nagla Khangār	2798	7882	117	0
 Khangārnagar	2785	7880	616	0
 Khāngarhi	2786	7816	543	0

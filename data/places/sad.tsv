@@ -1,39 +1,39 @@
-Sadulgarh	2958	7433	486	155687
+Sadulgarh	2958	7433	486	155687	Hanumāngarh
 Ambala Sadar	3034	7686	691	104974
 Sādatpur Gujran	2873	7725	791	97641
-Sadulpur	2864	7539	539	59193
+Sadulpur	2864	7539	539	59193	Rājgarh
 Sadasivpet	1762	7795	31	47920
-Sadāseopet	1762	7795	31	47920
+Sadāseopet	1762	7795	31	47920	Sadasivpet
 Sadābād	2744	7804	670	36093
 Sādpalli	1721	8084	46	31857
 Sādri	2519	7345	273	27390
 Sadulshahar	2991	7418	374	24980
 Sadalgi	1656	7453	77	23790
-Sadalga	1656	7453	77	23790
+Sadalga	1656	7453	77	23790	Sadalgi
 Shādīpur Julāna	2912	7641	367	18755
-Julāna Shādipur	2912	7641	367	18755
+Julāna Shādipur	2912	7641	367	18755	Shādīpur Julāna
 Chhoti Sādri	2438	7470	633	18360
 Bari Sādri	2441	7447	417	15713
 Sādhaura	3039	7722	88	14818
 Sādāt	2567	8330	26	11211
-Manglaya Sadak	2281	7593	660	10393
+Manglaya Sadak	2281	7593	660	10393	Mānglya
 Sad	2561	7825	436	3340
 Chak Sadat	2267	8807	354	2940
 Sadipara	2268	8813	354	644
-Sādewála	2964	7472	585	0
+Sādewála	2964	7472	585	0	Shaikpura
 Shādīpur	3418	7467	120	0
 Shādipur	1166	9274	105	0
 Shādiābād	2568	8338	26	0
 Shadi	3340	7724	8	0
-Sadoba	1996	7811	67	0
+Sadoba	1996	7811	67	0	Sāwali
 Sādullahnagar	2710	8238	280	0
 Sādullāhganj	2818	7942	342	0
-Sadulleganj	2818	7942	342	0
+Sadulleganj	2818	7942	342	0	Sādullāhganj
 Sadipur	2744	8113	507	0
-Sadrpur	2744	8113	507	0
+Sadrpur	2744	8113	507	0	Sadipur
 Sādri	2501	7407	572	0
 Sadras	1252	8016	247	0
-Sadurangapattinam	1252	8016	247	0
+Sadurangapattinam	1252	8016	247	0	Sadras
 Sādra	2334	7273	276	0
 Sadolai	2862	7327	307	0
 Sadiya	2783	9567	460	0
@@ -46,29 +46,29 @@ Sādhan	2748	7069	217	0
 Sadgavhān	2154	7429	127	0
 Sadepur	1742	7573	132	0
 Sade	1828	7528	132	0
-Sada	1828	7528	132	0
+Sada	1828	7528	132	0	Sade
 Sadavan Budrukh	2098	7509	78	0
-Sadāvan	2098	7509	78	0
+Sadāvan	2098	7509	78	0	Sadavan Budrukh
 Sadāshivgarh	1486	7413	59	0
 Sadasar	2780	7378	307	0
 Sādarval	2076	7315	221	0
 Sadalpur	2932	7545	339	0
 Sadali	1362	7787	438	0
 Naugaon Sādāt	2900	7841	483	0
-Faridpur Sadat	2948	7705	457	0
-Sādusir	2838	7497	539	0
+Faridpur Sadat	2948	7705	457	0	Farīdpur
+Sādusir	2838	7497	539	0	Sahjusar
 Saddārāt	2272	8842	450	0
 Sadpur	3400	7487	76	0
 Sadapur	3427	7438	301	0
 Sadganga	3444	7435	0	0
 Sadlun	3324	7408	504	0
 Sadrai	3321	7423	504	0
-Sadrot	3321	7423	504	0
+Sadrot	3321	7423	504	0	Sadrai
 Shādīpur	2995	7692	501	0
 Kotli Shādaula	3262	7476	581	0
 Sadeāl	3267	7499	720	0
 Sadwāniān	3410	7398	301	0
-Sadīnagor Tongia	3018	7789	783	0
+Sadīnagor Tongia	3018	7789	783	0	Sodīnagar Tongia
 Zainpur Sādān	2992	7707	457	0
 Garhi Sādān	2991	7703	457	0
 Shadnagar	1706	7821	62	0
@@ -102,7 +102,7 @@ Sada	2718	7195	217	0
 Sadbran ka Khu	2754	7171	217	0
 Sādāsar	2871	7436	539	0
 Saādatnagar	2760	8003	686	0
-Sadhritolā	2406	8339	341	0
+Sadhritolā	2406	8339	341	0	Suharītola
 Saduna	2734	7332	307	0
 Sadak Chichārī	2108	8059	474	0
 Sadhanpur	2285	8852	450	0
@@ -161,7 +161,7 @@ Sadhīnsar	2805	7509	491	0
 Sādulpur Jn	2863	7539	539	0
 Sādpura	2846	7539	539	0
 Mirzāpur Sādātpur	2970	7802	596	0
-Sādiqpur	2956	7810	575	0
+Sādiqpur	2956	7810	575	0	Bilāspur
 Shādīpur	2954	7818	575	0
 Hādīpur Sadaruddin	2952	7824	575	0
 Sadrai	2309	7877	338	0
@@ -209,7 +209,7 @@ Chora Sādatpur	2859	7735	588	0
 Sādullāhpur	2859	7749	588	0
 Sādiqpur	2867	7749	727	0
 Sadarpur	2870	7749	727	0
-Sadābād	2878	7728	727	0
+Sadābād	2878	7728	727	0	Dugrawali
 Pābhi Sādiqpur	2878	7728	727	0
 Sadpura	2837	7739	774	0
 Sadr Bāzār	2899	7770	700	0
@@ -226,7 +226,7 @@ Sadhāranpur	2997	7617	564	0
 Sa-ādat Nagar	2840	7644	519	0
 Sadikpur Sanauli	2915	7721	477	0
 Saadatpur Jaun Māna	2909	7723	477	0
-Sādhu Bher	2926	7858	575	0
+Sādhu Bher	2926	7858	575	0	Bherka
 Saādatābād Siria	2933	7861	575	0
 Sadīkpur	2934	7871	575	0
 Shādīnagar	2895	7907	552	0
@@ -236,7 +236,7 @@ Sadra Khera	2888	7921	552	0
 Chak Shādīnagar	2878	7903	552	0
 Shādīnagar	2877	7915	552	0
 Milak Shādīnagar	2876	7903	552	0
-Shādīnagar	2896	7916	552	0
+Shādīnagar	2896	7916	552	0	Mandaiyān Hajīra
 Shādinagar	2832	7920	342	0
 Sādla	2436	7675	333	0
 Sadāpur	2619	7509	446	0
@@ -347,7 +347,7 @@ Sadrīpur	2551	8222	607	0
 Sadar Bazār	2506	7944	663	0
 Sadāfal	2513	7992	663	0
 Sādpur	2439	7914	352	0
-Saddopatti	2590	8297	498	0
+Saddopatti	2590	8297	498	0	Barbaspur
 Sādīpur	2589	8294	498	0
 Nagla Sādi	2698	7817	546	0
 Sadūpura	2695	7807	546	0
@@ -412,7 +412,7 @@ Sādāt Benduli	2571	8261	32	0
 Sadarpur	2564	8263	32	0
 Sadullāhpur	2557	8272	32	0
 Sādīpur	2566	8272	32	0
-Sādāt Masonda	2568	8270	32	0
+Sādāt Masonda	2568	8270	32	0	Tirhwān
 Sādho	2566	8128	651	0
 Malāk Saddi	2560	8135	651	0
 Shādīpur	2568	8135	651	0
@@ -447,16 +447,16 @@ Shadnīpur	2921	7823	575	0
 Shādīpur	2905	7819	575	0
 Sādatpur Garhi	2955	7849	575	0
 Rāipur Sādat	2956	7843	575	0
-Sādatpur	2955	7833	575	0
+Sādatpur	2955	7833	575	0	Shāhzādpur
 Dhāki Sādhu Bulchand	2956	7829	575	0
 Islāmpur Sādāt	2955	7829	575	0
 Samaspur Sādhu	2954	7841	575	0
 Shādīpur	2954	7843	575	0
 Sadīkpur	2954	7845	575	0
-Nāzimpur Sādāt	2950	7827	575	0
+Nāzimpur Sādāt	2950	7827	575	0	Jauna
 Rājopur Sādāt	2945	7832	575	0
 Sādīpur	2943	7827	575	0
-Ibrāhīmpur Sādo	2939	7835	575	0
+Ibrāhīmpur Sādo	2939	7835	575	0	Alīnagar
 Sādikābād	2933	7838	575	0
 Sādullāh Khānpur	2929	7847	575	0
 Sadruddīnnagar	2928	7837	575	0
@@ -502,7 +502,7 @@ Saādatganj	2685	8147	30	0
 Sādullāhpur	2681	8147	30	0
 Purwa Sadni	2679	8149	30	0
 Sadar	2680	8126	30	0
-Shādipur	2912	7834	575	0
+Shādipur	2912	7834	575	0	Milak
 Sadanpur	2918	7835	575	0
 Sādhpuri	2914	7844	575	0
 Sādulāhpur	2675	8131	30	0
@@ -512,7 +512,7 @@ Saādatgarh	2651	8148	662	0
 Sadeshwar	2075	7912	141	0
 Sadāphal	2922	7855	575	0
 Shādīpur	2901	7855	483	0
-Sādikpur Malūkpur	2903	7859	511	0
+Sādikpur Malūkpur	2903	7859	511	0	Khichri
 Sadhāranpur	2908	7861	575	0
 Sādikpur	2922	7861	575	0
 Sādikpur ki Mandaiyān	2919	7875	511	0
@@ -693,7 +693,7 @@ Sadarpur Barauli	2609	8288	498	0
 Sadarpur	2610	8288	498	0
 Sadarpur	2606	8291	498	0
 Sādhu Jot	2716	8322	515	0
-Sadho Chak	2724	8354	515	0
+Sadho Chak	2724	8354	515	0	Muhammadpur
 Sadīwor	3355	7522	148	0
 Pure Sādhūrām	2592	8161	718	0
 Sādāmai	2585	8159	718	0
@@ -761,7 +761,7 @@ Sadullāhpur	3124	7511	565	0
 Sādhūwāla	3111	7506	566	0
 Sadhopur	3115	7521	369	0
 Sherpur Sadda	3120	7513	565	0
-Sadduwāla	3121	7519	565	0
+Sadduwāla	3121	7519	565	0	Tarf Bhābal Bahādur
 Sādhrā	2145	8047	144	0
 Sada Rang	3171	7529	487	0
 Sādiqpur	3108	7540	369	0
@@ -815,7 +815,7 @@ Sādariān	2310	7433	166	0
 Sādalpur	2397	7609	347	0
 Sādhāuli Qadīm	3020	7757	449	0
 Sādhauli Bhūd	3022	7757	449	0
-Sada Mazra	3002	7765	449	0
+Sada Mazra	3002	7765	449	0	Muhammadpur
 Sadullahpur	3007	7772	449	0
 Naglī Sadhāran	2920	7777	700	0
 Sadhāranpur	2903	7784	700	0
@@ -828,8 +828,8 @@ Sadarpur	2821	7739	754	0
 Sadhīāwāla	3008	7819	448	0
 Shādīpura	2356	7643	320	0
 Sādankheri	2358	7643	320	0
-Sadūl Malla	2995	7889	612	0
-Sadūl Talla	2995	7889	612	0
+Sadūl Malla	2995	7889	612	0	Saundal
+Sadūl Talla	2995	7889	612	0	Saundal
 Saddāmāl	2188	8327	439	0
 Mīrpur Sādhu Nāngal	2898	7807	700	0
 Sādullapur	2881	7823	483	0
@@ -897,13 +897,13 @@ Sādhpur Chhatar	2589	8461	540	0
 Sādhpur Bali	2590	8463	540	0
 Sadāvan Khurd	2098	7509	78	0
 Sadāshivganj	2362	7652	16	0
-Sadāshivpura	2285	7616	322	0
+Sadāshivpura	2285	7616	322	0	Sātārkheri
 Sādhakpur	2313	7342	142	0
 Sādaria	2354	7371	512	0
-Sādiknagar	2902	7912	552	0
+Sādiknagar	2902	7912	552	0	Gadarionwāla Mazra
 Sādāwās	2574	7340	273	0
 Sādalwa	2522	7335	273	0
-Sādra	2514	7335	273	0
+Sādra	2514	7335	273	0	Mādra
 Limi-Sadaria	2319	7491	568	0
 Sādalwa	2485	7309	23	0
 Sadra	2259	7401	173	0
@@ -957,7 +957,7 @@ Shādpur	2414	8413	701	0
 Sadhwa	2524	8401	409	0
 Sada Bigha	2486	8430	137	0
 Sadeātola	2479	8433	137	0
-Sadipur	2487	8436	137	0
+Sadipur	2487	8436	137	0	Ziāuddinpur
 Sadipur	2494	8443	137	0
 Sādikpur	2492	8438	137	0
 Sādhudih	2419	8436	701	0
@@ -1090,7 +1090,7 @@ Sādiqpur	2546	8573	604	0
 Sadarpur	2527	8569	514	0
 Sādhupalli	1766	7897	129	0
 Sadīq ka Tala	2517	7099	285	0
-Sado	2064	7584	78	0
+Sado	2064	7584	78	0	Vadgaon
 Sadiānpur	2790	8024	323	0
 Behta Sadhi	2742	8009	686	0
 Sadha Purwa	2741	8005	686	0

@@ -1,14 +1,14 @@
 Rāmgundam	1880	7945	748	452261
 Rāmgarh	2363	8552	391	88781
-Ramgarh Cantonment	2363	8552	391	88781
+Ramgarh Cantonment	2363	8552	391	88781	Rāmgarh
 Rāmganj Mandi	2465	7594	371	41328
 Rāmgarh	2817	7498	491	33024
 Rāmgarh	2725	7518	491	29834
-Rāmgarh	2988	7706	457	17487
+Rāmgarh	2988	7706	457	17487	Indri
 Rāmgarh	2529	8365	749	8690
 Rāmgarh	2589	7833	484	8423
 Jamwa Rāmgarh	2702	7601	121	7665
-Rāmgarh Jamwa	2702	7601	121	7665
+Rāmgarh Jamwa	2702	7601	121	7665	Jamwa Rāmgarh
 Rāmgarh	3251	7496	720	5612
 Rāmgarh	3340	7422	504	4945
 Rāmgarh	3065	7689	587	4934
@@ -29,14 +29,14 @@ Rāmgarh	2532	7660	506	0
 Rāmgarh	2491	7899	481	0
 Rāmgarh	2456	8725	669	0
 Rāmghar	2393	7396	512	0
-Rāmgarh	2393	7396	512	0
+Rāmgarh	2393	7396	512	0	Rāmghar
 Ramgarh	2280	8096	468	0
 Rāmgarh	2269	8706	665	0
 Rāmgarh	1624	7361	213	0
 Rāmgaon	2040	7760	67	0
-Ramgoan-Rameshwar	2040	7760	67	0
+Ramgoan-Rameshwar	2040	7760	67	0	Rāmgaon
 Rāmganj	2632	8829	610	0
-Rāmgad	1513	7646	44	0
+Rāmgad	1513	7646	44	0	Rāmandrug
 Rāmgarh	2230	8821	4	0
 Rāmgarh	3291	7479	581	0
 Rāmgarh	3033	7788	448	0
@@ -69,19 +69,19 @@ Rāmgarh	3042	7771	448	0
 Ballupura Rāmgarh	2733	7697	482	0
 Rāmgopal ki Dhāni	2819	7501	491	0
 Rāmgarh	2324	7828	338	0
-Rāmgarh	2638	7658	116	0
-Rāmgarh	2637	7659	116	0
+Rāmgarh	2638	7658	116	0	Marwāro
+Rāmgarh	2637	7659	116	0	Marwāro
 Rāmgarha	2338	7875	352	0
 Rāmgarh	2914	7734	477	0
 Rāmgaon	2080	7811	133	0
 Rāmgarh	2945	7463	585	0
-Rāmgarh	3092	7503	566	0
+Rāmgarh	3092	7503	566	0	Bāra Chain Singh
 Rāmgāonri	2560	7662	335	0
 Rāmgarh Bhundar	3008	7510	563	0
 Rāmgarh	3013	7516	563	0
 Rāmgarh	3086	7548	674	0
 Rāmgarh	2457	7610	333	0
-Rāmgarh Ubbah	3012	7555	709	0
+Rāmgarh Ubbah	3012	7555	709	0	Gurthuri
 Rāmgarh	3087	7597	674	0
 Rāmgarn	2873	7716	769	0
 Rāmgarhi	2897	7774	700	0
@@ -89,11 +89,11 @@ Rāmgarh	2849	7758	588	0
 Rāmgarh	3042	7486	730	0
 Rāmgarh	2557	7521	309	0
 Ramgarh	3041	7590	593	0
-Rāmgarh	3045	7592	593	0
-Rāmgarh Channanwāla	2982	7514	563	0
+Rāmgarh	3045	7592	593	0	Banbhauri
+Rāmgarh Channanwāla	2982	7514	563	0	Nawānpind Kalālwāla
 Rāmgarh Jaurkiān	2985	7521	709	0
 Rāmgarh Jawindah	3008	7585	593	0
-Rāmgarh	2935	7856	575	0
+Rāmgarh	2935	7856	575	0	Nawāgāon
 Rāmganj	2411	7635	16	0
 Rāmgarh	2416	7640	16	0
 Rāmganj	2412	7647	16	0
@@ -147,7 +147,7 @@ Rāmgarh	2749	7870	711	0
 Rāmgarh	2520	8050	463	0
 Rāmgarha	2572	8224	32	0
 Rāmgarh	2560	8203	607	0
-Ramgarha	2692	7810	622	0
+Ramgarha	2692	7810	622	0	Birār
 Rāmgarh	2681	7818	478	0
 Rāmgarh	2349	7794	215	0
 Rāmgarh	2484	7961	663	0
@@ -167,7 +167,7 @@ Rāmgarh	2500	8336	749	0
 Rāmgarh	2574	7872	503	0
 Rāmgarh	2586	8368	26	0
 Rāmgaon	2055	7766	67	0
-Rāmgarh	2547	8372	26	0
+Rāmgarh	2547	8372	26	0	Rāmpur
 Rāmghāti	2157	7768	462	0
 Rāmgarh	2561	8394	536	0
 Rāmgaon	2019	7773	67	0
@@ -212,7 +212,7 @@ Rāmgarh	2635	8079	312	0
 Rāmgarh	2561	8285	32	0
 Rāmgarh	2557	8299	32	0
 Rāmgāon	2610	8086	681	0
-Rāmgarhi	2623	8094	681	0
+Rāmgarhi	2623	8094	681	0	Jagatpur
 Rāmgāon	2763	8151	294	0
 Rāmgarhi	2770	8180	618	0
 Rāmgarhi	2763	8188	618	0
@@ -299,7 +299,7 @@ Ramgadh	2569	8360	26	0
 Rāmgarh	3240	7530	496	0
 Rāmgarh	2516	8171	607	0
 Rāmgarhi	2594	8198	718	0
-Rāmgarh	2568	8180	607	0
+Rāmgarh	2568	8180	607	0	Bīrsinghpur
 Rāmgarhwa	2522	8190	607	0
 Rāmgarh	2238	7571	660	0
 Rāmgad	2272	7600	660	0
@@ -354,7 +354,7 @@ Rāmgarha	2580	8496	540	0
 Rāmgarh	2550	7442	309	0
 Rāmgarh	2631	8421	639	0
 Rāmgarhwa	2651	8432	703	0
-Rāmgarh	2287	7648	322	0
+Rāmgarh	2287	7648	322	0	Raiyānpura
 Rāmgarha	2610	8457	639	0
 Rām Golām Rāi	2658	8480	396	0
 Rāmgarh	2652	8495	396	0

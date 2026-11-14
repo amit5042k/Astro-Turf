@@ -1,30 +1,30 @@
-Islamabad	3373	7515	148	150592
+Islamabad	3373	7515	148	150592	Anantnag
 Urun-Islāmpur	1705	7427	65	67391
 Islāmpur	2627	8819	610	55691
 Islāmpur	2514	8521	514	35641
 Islāmnagar	2833	7873	117	29144
 Ismāilābād	3012	7667	501	13726
 Kot Īsa Khān	3095	7514	499	12800
-Kot-Ise-Khan	3095	7514	499	12800
+Kot-Ise-Khan	3095	7514	499	12800	Kot Īsa Khān
 Isāgarh	2484	7788	410	12583
-Cherar-i-Sharif	3386	7477	76	11533
-Charar-i-Sharif	3386	7477	76	11533
-Charar-i-Sharief	3386	7477	76	11533
+Cherar-i-Sharif	3386	7477	76	11533	Tsrār Sharīf
+Charar-i-Sharif	3386	7477	76	11533	Tsrār Sharīf
+Charar-i-Sharief	3386	7477	76	11533	Tsrār Sharīf
 Islāmpur	2815	7554	300	10247
 Isri	2399	8603	452	9749
 Īsāpur	1988	7933	111	9398
 Isnapuram	1754	7820	31	8276
-Isnapur	1754	7820	31	8276
+Isnapur	1754	7820	31	8276	Isnapuram
 Islāmpur	2257	8806	354	7813
 Isasani	2110	7900	141	4366
 Ishanpur	3064	7612	674	938
 Bāra Islām	3109	7547	369	412
 North Sentinel Island	1156	9225	105	39
-Isab Wargaon	1863	7611	33	0
+Isab Wargaon	1863	7611	33	0	Yusūfwadgaon
 Sarsi Istamrār	2585	8729	613	0
 Iswerpur	2135	8673	421	0
 Īsūr	1421	7534	346	0
-Isuru	1421	7534	346	0
+Isuru	1421	7534	346	0	Īsūr
 Islūr	1468	7488	59	0
 Islāmpur	2415	8847	471	0
 Islāmpur	1705	7427	65	0
@@ -32,8 +32,8 @@ Islāmnagar	2984	7740	449	0
 Islāmnagar	2336	7742	687	0
 Islāhpur	1941	7801	140	0
 Iskapalli	1474	8010	6	0
-Iskapally	1474	8010	6	0
-Iskapalle	1474	8010	6	0
+Iskapally	1474	8010	6	0	Iskapalli
+Iskapalle	1474	8010	6	0	Iskapalli
 Iskagundam	1560	7881	200	0
 Ïshwarpur	2137	8670	421	0
 Ishwaria	2198	7101	174	0
@@ -44,16 +44,16 @@ Isarda	2616	7603	116	0
 Īsanattam	1071	7800	445	0
 Īsānagar	2790	8120	323	0
 Isānagar	2486	7939	663	0
-Ishapore	2280	8837	450	0
+Ishapore	2280	8837	450	0	Ichāpur
 Isru Kalan	3067	7611	674	0
-Isaru Kalān	3067	7611	674	0
+Isaru Kalān	3067	7611	674	0	Isru Kalan
 Iswaripur	2273	8841	450	0
 Iswaripur	2230	8813	4	0
 Iswaripur	2220	8840	4	0
 Islāmpur	2299	8871	450	0
 Ishrantār	3443	7481	120	0
 Isherbari	3413	7488	611	0
-Islāmābād	3381	7418	1	0
+Islāmābād	3381	7418	1	0	Salāmābād
 Isgandarpur	3403	7457	76	0
 Isawāli	3380	7438	1	0
 Ismāilpur	3276	7475	581	0
@@ -62,7 +62,7 @@ Islām Chak	3259	7478	581	0
 Ismāīlpur	3264	7486	581	0
 Ismāīlpur	3263	7496	720	0
 Ishman	3465	7602	8	0
-Ishmām	3465	7602	8	0
+Ishmām	3465	7602	8	0	Ishman
 Isa Baihk	3404	7397	301	0
 Īsham	3410	7396	301	0
 Ismāla	3448	7393	0	0
@@ -90,7 +90,7 @@ Isarwāra	2408	7822	352	0
 Ismāilpur	2796	7908	117	0
 Ishwari Nagla	2785	7919	117	0
 Islāmganj	2797	7919	117	0
-Īsāpur	2796	7928	117	0
+Īsāpur	2796	7928	117	0	Phulecha
 Sanaura Ishari	2723	7939	688	0
 Isepur	2724	7943	688	0
 Ishāpur Dikhatmai	2712	7927	464	0
@@ -98,11 +98,11 @@ Uncha Islāmābād	2706	7939	464	0
 Ismāilpur	2765	7955	470	0
 Mazra Islāmganj	2755	7969	470	0
 Islāmganj	2755	7970	470	0
-Ismāilpur Digan	2717	7977	570	0
+Ismāilpur Digan	2717	7977	570	0	Sadarpur
 Isharpur	2694	7913	290	0
-Ishurpur	2694	7913	290	0
+Ishurpur	2694	7913	290	0	Isharpur
 Ishri	2649	7902	334	0
-Iswari	2649	7902	334	0
+Iswari	2649	7902	334	0	Ishri
 Iskil	2574	7912	433	0
 Isampur	2700	7953	570	0
 Pātkhera Istmurāi	2467	7787	326	0
@@ -144,8 +144,8 @@ Islāmpur Sāhu	2946	7821	575	0
 Islāmpur Dās	2940	7810	575	0
 Islāmpur Dīpa	2939	7812	575	0
 Ishāqwāla	2936	7802	545	0
-Islāmpur Nimdās	2936	7817	575	0
-Islāmpur Lāla	2931	7815	575	0
+Islāmpur Nimdās	2936	7817	575	0	Jalālpur
+Islāmpur Lāla	2931	7815	575	0	Juddi
 Ismāilpur	2973	7809	596	0
 Nagla Islām	2954	7825	575	0
 Īsra ki Dhāni	2632	7602	313	0
@@ -185,17 +185,17 @@ Ishwaria ka Bāria	2580	7415	572	0
 Ishwarsinghpura	2705	7574	121	0
 Isāpur	3049	7579	593	0
 Isri	3042	7594	593	0
-Isi	3042	7594	593	0
+Isi	3042	7594	593	0	Isri
 Isra	3044	7594	775	0
 Ismallpur	2961	7608	367	0
 Isrāna	2828	7630	694	0
 Khera Islāmpur	2904	7719	477	0
-Ismailpur Dami	2949	7853	575	0
-Islāmpur	2940	7856	575	0
-Islāmnagar	2947	7874	575	0
+Ismailpur Dami	2949	7853	575	0	Nikirpur Dami
+Islāmpur	2940	7856	575	0	Kūtewāla
+Islāmnagar	2947	7874	575	0	Jamunwala
 Ismāīlnagar	2892	7917	552	0
 Īsharpur	2891	7901	552	0
-Islamnagar	2837	7909	342	0
+Islamnagar	2837	7909	342	0	Dalipur
 Ismāīlpur	2832	7923	342	0
 Islāmnagar	2452	7696	506	0
 Isnai	1894	7982	91	0
@@ -385,14 +385,14 @@ Isāpur	2857	7687	763	0
 Ismāilpur	2851	7682	609	0
 Isepur	2961	7839	575	0
 Ismāilpur	2961	7829	575	0
-Islāmpur Shah Āli	2957	7825	575	0
+Islāmpur Shah Āli	2957	7825	575	0	Mūsepur
 Niāmatpur Ishkīpura	2954	7840	575	0
 Islāmpur Sādāt	2955	7829	575	0
-Islāmpur Hathu	2952	7830	575	0
+Islāmpur Hathu	2952	7830	575	0	Asrafpur Dūdhli
 Islāmābād	2948	7849	575	0
 Īsāpur	2947	7829	575	0
 Islāmpur Bishnoi	2942	7831	575	0
-Islāmpur Lālu	2941	7828	575	0
+Islāmpur Lālu	2941	7828	575	0	Mālīwāla
 Islāmpur Thambuchāu	2939	7827	575	0
 Ishākpur	2932	7836	575	0
 Kukra Islāmpur	2931	7830	575	0
@@ -452,7 +452,7 @@ Islāmpur	2907	7893	511	0
 Pura Isri Singh	2629	8145	662	0
 Ishripur	2630	8188	597	0
 Ismāilpur	2641	8192	597	0
-Ishāqpur	2595	8108	728	0
+Ishāqpur	2595	8108	728	0	Nizāmuddīnpur
 Ishāqpur	2586	8109	728	0
 Nandpur Iskuri	2580	8106	728	0
 Iskuri	2580	8106	728	0
@@ -482,7 +482,7 @@ Arelī Ismāilpur	2803	7988	470	0
 Isāpur	2816	7989	470	0
 Īsāpur	2824	7998	683	0
 Isapalli	1880	7824	75	0
-Isāgarh	2870	7869	511	0
+Isāgarh	2870	7869	511	0	Bāngar
 Īsāpur	2859	7869	646	0
 Chak Ismāilpur	2578	8129	728	0
 Ishardāspur	2596	8125	681	0
@@ -517,7 +517,7 @@ Yar-i-Sutur	3395	7468	76	0
 Chak-i-sher Khān	3397	7469	76	0
 Ismāilpur	2803	7878	117	0
 Ismāllpur Memri	2803	7884	117	0
-Isāpur	2803	7895	117	0
+Isāpur	2803	7895	117	0	Tigora
 Pura Īshri Singh	2737	8205	542	0
 Pura Īsri Ahīr	2748	8220	280	0
 Ishardīn Dīh	2730	8219	542	0
@@ -645,7 +645,7 @@ Isīpur Khās	2593	8193	718	0
 Pure Īshwarnāth	2593	8197	718	0
 Ismāilpur	2566	8183	607	0
 Ismāilpur	2562	8188	607	0
-Ismāilguni	2556	8189	607	0
+Ismāilguni	2556	8189	607	0	Tikri
 Islāmpur	3229	7560	692	0
 Īshwarsharannagar	2548	8187	607	0
 Isauta	2516	8196	607	0
@@ -715,7 +715,7 @@ Ismāilpur	2605	8166	718	0
 Ismāilpur	2614	8168	662	0
 Iskalgūda	1825	8282	268	0
 Iskagaru	1812	8283	268	0
-Iswarapalletsavuduvāda	1763	8282	227	0
+Iswarapalletsavuduvāda	1763	8282	227	0	Kannūrupālem
 Isarbāru	1987	8340	284	0
 Isārigūda	1871	8221	316	0
 Iskabanda	1808	8229	109	0
@@ -899,7 +899,7 @@ Isharpur Sāi	2706	8013	686	0
 Islāmpur Jogai	2706	8010	686	0
 Munroe Island	899	7661	549	0
 Isnav	2253	7275	157	0
-Island Pola-varam	1666	8219	304	0
+Island Pola-varam	1666	8219	304	0	I.Polavaram
 Isakapalle	1537	7858	232	0
 Isukurki	1328	7802	47	0
 Isakapallevāndlapalle	1391	7825	444	0
@@ -953,7 +953,7 @@ Ishwarpāli	2140	8466	712	0
 Islamnagar Aliganj	2494	8593	524	0
 Ismāilpur	2712	7971	570	0
 Ismāilpur	2500	8338	749	0
-Tāharpur Ishāk	2958	7828	575	0
+Tāharpur Ishāk	2958	7828	575	0	Gāzīpur
 Ismāilpur	2942	7847	575	0
 Pura Isri	2624	8146	662	0
 Īsunūru	1750	8135	268	0

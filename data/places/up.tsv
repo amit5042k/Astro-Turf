@@ -1,14 +1,14 @@
 Uppal Kalan	1741	7856	311	118259
-Pedda Uppal	1741	7856	311	118259
-Uppal	1741	7856	311	118259
+Pedda Uppal	1741	7856	311	118259	Uppal Kalan
+Uppal	1741	7856	311	118259	Uppal Kalan
 Pandit Deen Dayal Upadhyaya Nagar	2528	8312	724	109650
 Upleta	2174	7028	174	58775
-Upper Tirupati	1368	7935	45	18013
+Upper Tirupati	1368	7935	45	18013	Tirumala
 Uppala	1268	7490	305	11542
 Uppidamangalam	1090	7816	445	11292
 Uppinangadi	1284	7525	55	7813
 Uppiliyapuram	1126	7851	270	7705
-Uppiliapuram	1126	7851	270	7705
+Uppiliapuram	1126	7851	270	7705	Uppiliyapuram
 Uppalavādi	1177	7978	178	7281
 Upar Hali	2610	9151	636	7095
 Upper Sileru Project Site Camp	1806	8203	268	4632
@@ -22,41 +22,41 @@ Uppalaguptam	1655	8210	304	0
 Uppālāda	1883	8417	252	0
 Uppāl	1818	7948	61	0
 Uppal	1597	7768	306	0
-Uppai	1597	7768	306	0
+Uppai	1597	7768	306	0	Uppal
 Uppāda	1708	8233	269	0
 Upni	2795	7397	307	0
 Uplai Buzurg	1797	7549	132	0
 Upla	1825	7606	48	0
-Uple	1825	7606	48	0
+Uple	1825	7606	48	0	Upla
 Uperro	2560	7475	309	0
 Uparwāra	2112	8177	310	0
 Uparla Barmāna	3295	7452	581	0
-Uparla Barmāno	3295	7452	581	0
+Uparla Barmāno	3295	7452	581	0	Uparla Barmāna
 Uparla Brādhāl	3297	7466	581	0
 Uparla Bhārda	3294	7472	581	0
 Uparla Mānda	3291	7474	581	0
 Uparla Badgal	3291	7466	581	0
 Uparli Karali	3320	7409	504	0
-Uparli Karhāli	3320	7409	504	0
+Uparli Karhāli	3320	7409	504	0	Uparli Karali
 Upanta Thala	3322	7415	504	0
-Uparlal Niāla	3322	7415	504	0
+Uparlal Niāla	3322	7415	504	0	Upanta Thala
 Uparla Bhajnoa	3314	7419	504	0
 Uparta Dandasar	3315	7431	504	0
 Uparli Badhān	3314	7444	504	0
 Uparla Bān	3379	7432	1	0
 Uparla Kalāb	3291	7449	581	0
-Uparla Kalāh	3291	7449	581	0
+Uparla Kalāh	3291	7449	581	0	Uparla Kalāb
 Duwal Upla	3295	7482	581	0
 Upailānāla	3288	7489	581	0
 Ūpli	2956	7696	457	0
 Ganāl Uparla	3263	7488	581	0
 Kandholl Uparli	3039	7797	448	0
-Kandhall Uparli	3039	7797	448	0
+Kandhall Uparli	3039	7797	448	0	Kandholl Uparli
 Sūdhonwāla Uparla	3037	7794	448	0
 Upparguda	1719	7862	62	0
 Uparpalli	1757	7859	311	0
 Uplingapalli	1793	7836	400	0
-Kengeri Upanagara	1292	7748	43	0
+Kengeri Upanagara	1292	7748	43	0	Kengeri Satellite Town
 Upparpet	1298	7758	43	0
 Uprera	2796	7916	117	0
 Bhojūsar Upādhiyān	2830	7436	539	0
@@ -215,7 +215,7 @@ Pura Upāsi	2728	8209	542	0
 Dīh Upadhia	2748	8225	280	0
 Tiliāni Upadhia	2721	8201	542	0
 Birja Upadhia	2718	8216	542	0
-Uparhār	2534	8137	651	0
+Uparhār	2534	8137	651	0	Kosam Inām
 Dia Uparhār	2528	8146	651	0
 Bhakhanda Uparhār	2528	8148	651	0
 Pura Upadhia	2704	8208	542	0
@@ -301,7 +301,7 @@ Naudiha Uparhār	2508	8162	607	0
 Basahra Uparhār	2514	8166	607	0
 Uparli Band	3255	7571	496	0
 Upādhyāpur	2599	8195	718	0
-Upraudh	2557	8195	607	0
+Upraudh	2557	8195	607	0	Ādampur
 Uprār	3250	7572	496	0
 Surajpur Upparla	3222	7568	38	0
 Haral Upparli	3236	7585	38	0
@@ -326,7 +326,7 @@ Upkā	2197	8070	144	0
 Nīmbri Uparli	2572	7387	273	0
 Upkā	2249	8200	291	0
 Upri	2267	7552	130	0
-Uprorā	2264	8271	388	0
+Uprorā	2264	8271	388	0	Garh
 Upka	2291	8298	725	0
 Upla	2030	7506	113	0
 Uprāni	2159	8253	379	0
@@ -337,7 +337,7 @@ Upal Khālsa	3109	7557	369	0
 Upal Bhupa	3105	7563	369	0
 Mulwās Uparli	3292	7612	362	0
 Mailoh Uparia	3259	7619	362	0
-Uparla	3251	7618	362	0
+Uparla	3251	7618	362	0	Gudda
 Drammah Uparla	3251	7624	362	0
 Thera Uparla	3250	7604	362	0
 Dhūni Uparla	3249	7604	362	0
@@ -486,7 +486,7 @@ Uppulūru	1648	8078	68	0
 Upar Mundaguda	1983	8378	387	0
 Upparapāra	1875	8127	406	0
 Upporochompi	1900	8305	316	0
-Upar Champi	1900	8305	316	0
+Upar Champi	1900	8305	316	0	Upporochompi
 Upparanāyuduvalasa	1852	8375	179	0
 Uppalavalasa	1817	8370	472	0
 Upparapuram	1874	8391	472	0
@@ -659,7 +659,7 @@ Uppiligeri	1217	7710	69	0
 Upparahalli	1264	7774	223	0
 Uppalapādu	1564	7811	236	0
 Uppalūru	1530	7836	232	0
-Uppunīlla	1526	7840	232	0
+Uppunīlla	1526	7840	232	0	Govindinne
 Uppalūru	1497	7850	229	0
 Uppalapādu	1494	7861	229	0
 Uppalūru	1507	7894	229	0
@@ -824,7 +824,7 @@ Uppilipālaiyam	1078	7751	235	0
 Uppaturaipālaiyam	1074	7754	235	0
 Uppiliyavalasu	1059	7761	187	0
 Uppukāchchipatti	1075	7851	445	0
-Uppār	1097	7874	270	0
+Uppār	1097	7874	270	0	Devimangalam
 Uppiliyapatti	1041	7861	198	0
 Uppiliyakkudi	1053	7880	198	0
 Mel Uppilikkundu	975	7806	274	0

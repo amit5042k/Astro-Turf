@@ -1,45 +1,45 @@
 Faridabad	2841	7731	774	1414050
 Farrukhābād	2739	7958	688	241152
 Fatehpur	2593	8081	728	166480
-Fatehpur City	2593	8081	728	166480
-Faizābād	2678	8215	629	153047
+Fatehpur City	2593	8081	728	166480	Fatehpur
+Faizābād	2678	8215	629	153047	Fyzābād
 Phagwāra	3122	7577	565	100146
 Fatehpur	2799	7496	491	92595
 Farīdkot	3067	7476	730	87695
 Fazilka	3040	7403	3	76492
-Fazika	3040	7403	3	76492
+Fazika	3040	7403	3	76492	Fazilka
 Electronic City Phase I	1285	7766	43	76348
 Farīdpur	2821	7954	342	71783
 Fatehābād	2952	7546	443	70777
-Fatahabad	2952	7546	443	70777
+Fatahabad	2952	7546	443	70777	Fatehābād
 Phaltan	1799	7443	64	53202
 Fatwa	2551	8531	604	50961
-Fatwah	2551	8531	604	50961
+Fatwah	2551	8531	604	50961	Fatwa
 Phalodi	2713	7237	344	49914
 Farrukhnagar	1708	7820	62	45675
 Fatehpur	2717	8121	30	34010
 Fatehpur Sīkri	2709	7766	546	30026
 Faizpur	2117	7586	78	26602
-Phalera	2687	7524	121	26091
+Phalera	2687	7524	121	26091	Phulera
 Fālna	2527	7324	273	24839
 Fatehganj West	2847	7931	342	23810
 Fatehnagar	2481	7410	22	22812
 Fatehābād	2703	7830	546	21957
 Farakka	2482	8790	471	21834
-Fatheabad	1882	7611	33	20417
-Fatehabād	1882	7611	33	20417
+Fatheabad	1882	7611	33	20417	Dhārūr
+Fatehabād	1882	7611	33	20417	Dhārūr
 Fālākāta	2652	8920	752	20119
 Phalauda	2919	7783	700	18545
 Fatehgarh Chūriān	3186	7496	487	18051
-Chaurian Fatehgarh	3186	7496	487	18051
+Chaurian Fatehgarh	3186	7496	487	18051	Fatehgarh Chūriān
 Phaphūnd	2660	7946	715	16675
 Fatehgarh	2736	7963	688	14847
 Farrukhnagar	2845	7682	630	13513
 Fatehpur	2551	8519	604	11982
 Farīdnagar	2877	7763	727	11371
-Pharenda	2710	8327	515	11220
+Pharenda	2710	8327	515	11220	Anandnagar
 Tori-Fatehpur	2546	7911	433	10210
-Ordnance Factory Khamaria	2321	8003	598	9839
+Ordnance Factory Khamaria	2321	8003	598	9839	Khamaria
 Farakhpur	3013	7724	88	9569
 Farah	2732	7776	177	9236
 Fateh Pur Beri	2846	7718	778	8861
@@ -49,22 +49,22 @@ Gokak Falls	1619	7478	77	8080
 Ordnance Factory Itarsi	2257	7787	590	7878
 Fateh Nangal	3195	7532	487	7721
 Kot Fatah	3011	7509	563	7412
-Kot Fateh	3011	7509	563	7412
-Kot Fatta	3011	7509	563	7412
+Kot Fateh	3011	7509	563	7412	Kot Fatah
+Kot Fatta	3011	7509	563	7412	Kot Fatah
 Pharihā	2732	7847	403	6380
-Farasgaon	1986	8164	659	6306
+Farasgaon	1986	8164	659	6306	Parasgaon
 Fatehpur Chaurāsi	2679	8027	312	5931
-Fatehpur	2679	8027	312	5931
+Fatehpur	2679	8027	312	5931	Fatehpur Chaurāsi
 Fārward Kahūta	3388	7411	1	5555
 Fatikrāi	2418	9202	782	5371
-Fatikroy	2418	9202	782	5371
+Fatikroy	2418	9202	782	5371	Fatikrāi
 Fāzilpur	2899	7705	485	3692
-Fazalpur	2899	7705	485	3692
+Fazalpur	2899	7705	485	3692	Fāzilpur
 Faqir Gujri	3419	7492	611	1900
 Phalpota	3110	7583	369	1736
-Faizābād	2857	7678	609	1309
+Faizābād	2857	7678	609	1309	Pāsaur
 Pharkian	3458	7408	0	500
-Fambong	2714	8815	617	0
+Fambong	2714	8815	617	0	Sombāri
 Phatepur	2166	7446	186	0
 Phātag	2168	7362	254	0
 Pharsiya	2034	8202	652	0
@@ -78,13 +78,13 @@ Pharar	2325	7690	320	0
 Pharal	2984	7659	638	0
 Phāphāmau	2552	8186	607	0
 Phansidewa Hat	2659	8837	573	0
-Phansidewa	2659	8837	573	0
+Phansidewa	2659	8837	573	0	Phansidewa Hat
 Phanjila	3420	7687	2	0
 Phangchogaon	2651	9343	405	0
 Phanda	2323	7721	687	0
 Phāncha	3160	7773	479	0
 Phampini	1888	8247	316	0
-Phāmpuni	1888	8247	316	0
+Phāmpuni	1888	8247	316	0	Phampini
 Phalsund	2640	7192	217	0
 Phalodi	2672	7392	430	0
 Phalghāt	2215	7545	329	0
@@ -102,10 +102,10 @@ Phaggu	2978	7512	585	0
 Phadkī	2300	8096	468	0
 Phācharia	2098	7126	216	0
 Farhatābād	1718	7679	71	0
-Mushari Farm	2600	8557	395	0
-Mohammadpur Fall	2978	7799	596	0
+Mushari Farm	2600	8557	395	0	Mushāri
+Mohammadpur Fall	2978	7799	596	0	Muhammadpur Buzurg
 Lakha Pharma	2776	8876	27	0
-Lakha Pham	2776	8876	27	0
+Lakha Pham	2776	8876	27	0	Lakha Pharma
 Kot Fatuhi	3128	7597	296	0
 Fazlwādi	1764	7812	31	0
 Fattehgarh	2951	7424	486	0
@@ -126,25 +126,25 @@ Fatehpur	2270	7851	590	0
 Fatehpur	2229	8824	4	0
 Fatehpur	2065	7588	78	0
 Fatehgarh Panjtur	3105	7511	499	0
-Fatehgarh Panjtor	3105	7511	499	0
+Fatehgarh Panjtor	3105	7511	499	0	Fatehgarh Panjtur
 Fatehgarh	3053	7572	593	0
-Fatehgarh Sahib	3053	7572	593	0
+Fatehgarh Sahib	3053	7572	593	0	Fatehgarh
 Fatehgarh	2613	7503	446	0
 Fatehgarh	2480	7696	336	0
 Fatehgarh	2030	8533	548	0
 Fatehganj Sharki	2808	7964	342	0
 Fatehgadh	2370	7085	108	0
-Fatehgndh	2370	7085	108	0
+Fatehgndh	2370	7085	108	0	Fatehgadh
 Fatehābād Chandrāwatiganj	2300	7566	660	0
 Fatehābād Ahīr	2793	7668	482	0
-Fatehābād	2793	7668	482	0
+Fatehābād	2793	7668	482	0	Fatehābād Ahīr
 Fatehābād	2648	8830	610	0
 Farrūkhnagar	2873	7738	727	0
 Farmāna	2898	7681	485	0
-Farmānah	2898	7681	485	0
+Farmānah	2898	7681	485	0	Farmāna
 Fārkawn	2308	9330	253	0
 Farīdpur	2948	7705	457	0
-Faridpur Sadat	2948	7705	457	0
+Faridpur Sadat	2948	7705	457	0	Farīdpur
 Farahābād	1627	7869	467	0
 Farādi	2294	6951	108	0
 Phalta	2230	8811	4	0
@@ -153,29 +153,29 @@ Fakīrgūdem	1650	8065	68	0
 Fakīrganj	2597	9006	561	0
 Fakīragrām	2636	9018	713	0
 Fakhrpur	2742	8152	294	0
-Fakharpur	2742	8152	294	0
+Fakharpur	2742	8152	294	0	Fakhrpur
 Fakhrābād	2510	8350	749	0
 Fakarsar	3020	7457	615	0
 Faithfulganj	2645	8033	469	0
-Phagān	2854	7466	539	0
+Phagān	2854	7466	539	0	Phogān
 Phadanpura	2807	7493	491	0
 Fatehpur	2294	8858	528	0
 Faipur	2271	8869	450	0
 Fakirtaki	2237	8878	4	0
-Failan	3408	7391	301	0
+Failan	3408	7391	301	0	Felān
 Phāruwāla	3084	7435	566	0
 Fatuhi Labāna	3004	7387	374	0
 Chak Fatehpura	3421	7478	595	0
 Fatehpura	3420	7477	595	0
 Fateh Kadal	3409	7481	611	0
 Fakīr Dorax	3376	7403	1	0
-Fakīr Dāra	3376	7403	1	0
+Fakīr Dāra	3376	7403	1	0	Fakīr Dorax
 Fatehpur	3376	7423	1	0
 Fanniot	3359	7407	1	0
-Pharra	3340	7422	504	0
+Pharra	3340	7422	504	0	Pherra
 Phalmarg	3446	7407	0	0
-Phalmargi	3446	7407	0	0
-Phalmagi	3446	7407	0	0
+Phalmargi	3446	7407	0	0	Phalmarg
+Phalmagi	3446	7407	0	0	Phalmarg
 Fajapur	3401	7454	76	0
 Farāshgund	3407	7468	76	0
 Fagipur	3430	7429	301	0
@@ -198,9 +198,9 @@ Fatehpur	3064	7609	674	0
 Farmāna Khās	2905	7635	719	0
 Fatehpur	2892	7698	485	0
 Chak Fateh Khān	3253	7484	581	0
-Fatehgarh	3253	7484	581	0
+Fatehgarh	3253	7484	581	0	Chak Fateh Khān
 Phatwāl	3260	7488	581	0
-Kotli Miyān Fatta	3263	7483	581	0
+Kotli Miyān Fatta	3263	7483	581	0	Mīān di Kotle
 Phagāh	3263	7494	720	0
 Fateh ka Dera	3402	7395	301	0
 Gundi Faqirān	3413	7398	301	0
@@ -208,7 +208,7 @@ Phagwan	3442	7383	0	0
 Fatehpur	3047	7777	448	0
 Fatehpur	3044	7775	448	0
 Fatehpur Peliyon	3019	7783	449	0
-Phākarpur	3013	7775	449	0
+Phākarpur	3013	7775	449	0	Sabrīpur
 Farakhpur	3001	7780	596	0
 Fatehgarh	3000	7717	88	0
 Fatehpur	2992	7724	449	0
@@ -225,7 +225,7 @@ Farīdpur	2943	7695	298	0
 Faizābād	2812	7612	694	0
 Dhāni Faizābād	2811	7611	694	0
 Phanrewat	3123	7712	479	0
-Pharniwat	3123	7712	479	0
+Pharniwat	3123	7712	479	0	Phanrewat
 Faroti	3115	7705	479	0
 Pharsūli	2998	7859	612	0
 Fatehpur	2982	7862	612	0
@@ -247,12 +247,12 @@ Faizgarh	3069	7613	674	0
 Fatehpur	3052	7615	564	0
 Faridpur	3055	7623	564	0
 Farīdpur	3020	7658	564	0
-Bahādurpur Fakīrān	3017	7652	564	0
+Bahādurpur Fakīrān	3017	7652	564	0	Chhanna
 Fatehgarh	3014	7667	501	0
 Gyāni Farm	3003	7654	501	0
 Hamīri Farm	3001	7656	501	0
 Fatehgarh	3072	7677	787	0
-Phaldān	3069	7677	787	0
+Phaldān	3069	7677	787	0	Burail
 Fatehpur	3067	7686	731	0
 Fatehpur	3058	7681	632	0
 Fatehpur	3055	7690	632	0
@@ -286,11 +286,11 @@ Fatehpur	2702	7992	570	0
 Pharenji	2700	7923	464	0
 Fāram	2684	7921	290	0
 Fadpur	2688	7916	290	0
-Fardpura	2688	7916	290	0
+Fardpura	2688	7916	290	0	Fadpur
 Fatehpura	2635	7923	741	0
 Fatehpura	2688	7557	121	0
 Fagoriāwāla	2686	7563	121	0
-Phāgoriya	2686	7563	121	0
+Phāgoriya	2686	7563	121	0	Fagoriāwāla
 Phariha	2645	7929	715	0
 Fatehpur Karam	2650	7941	715	0
 Farīda	2568	7914	433	0
@@ -305,7 +305,7 @@ Fatehpur Rasūlābād	2660	7983	671	0
 Pharka	2479	7921	481	0
 Chhani Fatwāl	3247	7490	720	0
 Faqırān Ka Tibba	2734	7123	217	0
-Faqiran Ka Tibba	2734	7123	217	0
+Faqiran Ka Tibba	2734	7123	217	0	Faqırān Ka Tibba
 Phall Thai	2728	7136	217	0
 Fateh Singhwāli	2765	7161	217	0
 Phātaāwāla Mohra	2759	7168	217	0
@@ -313,16 +313,16 @@ Falimāri	2640	8982	420	0
 Failaguri	2640	8987	713	0
 Fadepur	2636	8990	713	0
 Fatehwāl	3155	7521	222	0
-Naranjanpur Fattuwal	3155	7521	222	0
-Niranjanpur Fattuwal	3155	7521	222	0
-Fattuwal	3155	7521	222	0
+Naranjanpur Fattuwal	3155	7521	222	0	Fatehwāl
+Niranjanpur Fattuwal	3155	7521	222	0	Fatehwāl
+Fattuwal	3155	7521	222	0	Fatehwāl
 Fattowāl	3197	7563	296	0
-Fattuwal	3197	7563	296	0
+Fattuwal	3197	7563	296	0	Fattowāl
 Phatika	2674	9320	302	0
 Phaibak	2456	9315	441	0
 Phāngchagāon	2643	9382	740	0
 Phaiyeng	2485	9382	416	0
-Phayeng	2485	9382	416	0
+Phayeng	2485	9382	416	0	Phaiyeng
 Pharkia	2598	8739	667	0
 Phālka	2639	7393	273	0
 Fatepur	1955	8525	603	0
@@ -391,11 +391,11 @@ Pharnāl	3127	7745	479	0
 Phadehl	3142	7745	680	0
 Pharesh	3139	7731	278	0
 Pharāl	3130	7743	479	0
-Pharwānwāla	3039	7409	3	0
+Pharwānwāla	3039	7409	3	0	Chuhārānwāli
 Fatehgarh	3050	7413	3	0
-Farwānwāla	3045	7410	3	0
+Farwānwāla	3045	7410	3	0	Shāman Khānqāh
 Panniwāla Fatta	3031	7433	615	0
-Farīd Khera	3008	7441	615	0
+Farīd Khera	3008	7441	615	0	Rasūlpura
 Farīdsar	3011	7456	615	0
 Fatuhi Khera	3003	7450	615	0
 Fatuhiwāla	3002	7470	615	0
@@ -467,11 +467,11 @@ Fatehpur Khurd	2748	7693	114	0
 Pharsila	3052	7789	448	0
 Phateu	3062	7791	448	0
 Phatiyo	3062	7791	448	0
-Farīdpur Bhūru	2944	7820	575	0
+Farīdpur Bhūru	2944	7820	575	0	Bhūrūwāla
 Farīdpur Bhogi	2939	7817	575	0
-Fatehipur Nawābād	2937	7815	575	0
+Fatehipur Nawābād	2937	7815	575	0	Bakshīwāla
 Farīdpur Qāzi	2938	7811	575	0
-Farīdpur Sansāron	2939	7823	575	0
+Farīdpur Sansāron	2939	7823	575	0	Dhaunkalpur
 Farīdpur	2931	7806	545	0
 Fatehpur Kalān	2928	7819	575	0
 Farīdpur Bhogan	2929	7814	575	0
@@ -502,7 +502,7 @@ Fatehpur	2954	7712	328	0
 Jāt Farm	2955	7718	328	0
 Fāzal Māzra	2990	7732	449	0
 Phāndpuri	2993	7742	449	0
-Fazītpura	2617	7697	447	0
+Fazītpura	2617	7697	447	0	Ghaskhera
 Fatehpur	2936	7727	328	0
 Fatehpurkheri	2930	7740	545	0
 Fatehpur Puthi	2906	7734	477	0
@@ -515,20 +515,20 @@ Phānsībhāna	2231	7851	337	0
 Phansidhāna	2238	7866	337	0
 Fatehpur	2115	7812	133	0
 Fatehpur	2142	7830	133	0
-Farkod	2089	7809	133	0
+Farkod	2089	7809	133	0	Gavha
 Fatehpur	2065	7807	67	0
 Phālegaon	2063	7813	67	0
 Fatehpur	2908	7756	700	0
-Farīdpur	2925	7757	700	0
+Farīdpur	2925	7757	700	0	Ālamgīrpur
 Sea Face	1896	7281	106	0
 Pharrān	3000	7483	563	0
 Fatehpur Jutawāli	2992	7453	585	0
 Fatta Khera	2994	7457	615	0
-Fatehpūr Khera	2983	7484	585	0
+Fatehpūr Khera	2983	7484	585	0	Patti
 Phalāsia	2424	7338	22	0
 Fatehpur	2490	7361	572	0
 Fatehgarh Korotāna	3088	7521	499	0
-Chhota Fatehgarh	3086	7522	499	0
+Chhota Fatehgarh	3086	7522	499	0	Tatāriwāla
 Phānda	2453	7374	22	0
 Chak Fatehpur	2559	7673	335	0
 Fatehpur	2558	7674	335	0
@@ -545,14 +545,14 @@ Phāngniya	2511	7475	417	0
 Burj Fatehgarh	3040	7538	726	0
 Phāgla	3093	7571	674	0
 Pharwāi	3034	7558	726	0
-Fatehgarh	3028	7551	726	0
+Fatehgarh	3028	7551	726	0	Chhanna
 Fatehgarh	3042	7568	593	0
 Pharwāin	3002	7551	709	0
 Fāzilpur	2985	7782	596	0
 Fatehpur	2999	7791	596	0
 Phalauda	2963	7782	545	0
 Farakhpur	2967	7796	545	0
-Faizābād	2929	7785	545	0
+Faizābād	2929	7785	545	0	Nayāgaon
 Fatehgarh Gujrān	3098	7581	674	0
 Phaguwāl	3097	7580	674	0
 Fatehpur	3090	7578	674	0
@@ -580,12 +580,12 @@ Fatehullāhpur	2894	7771	700	0
 Gāland Fazailmagar	2868	7759	756	0
 Fatehpur Ladābās	2852	7773	637	0
 Shāhpur Phagauta	2866	7771	756	0
-Farīdpur Coyna	2874	7774	756	0
+Farīdpur Coyna	2874	7774	756	0	Abdullāpur Basant
 Fatehpur Atta	2832	7751	588	0
 Fatehpur	2844	7759	588	0
 Fazāilpur	2845	7763	588	0
 Farīdpur	2844	7767	637	0
-Fatehpur	2838	7767	637	0
+Fatehpur	2838	7767	637	0	Makrandpur
 Fatehpur Jādon	2832	7773	637	0
 Phairuangkai	2282	9264	14	0
 Fatehgarh	3041	7494	730	0
@@ -605,7 +605,7 @@ Farīdpur Kalān	3049	7582	775	0
 Farīdpur Khurd	3048	7583	775	0
 Pharwāi	3047	7579	593	0
 Faizgarh	3045	7586	593	0
-Fatehgarh Nauābād	2997	7513	563	0
+Fatehgarh Nauābād	2997	7513	563	0	Nawānpind
 Fatta Bālo	2979	7515	563	0
 Faizgarh Hakimwāla	3015	7583	593	0
 Khānpur Fakīrān	3015	7599	593	0
@@ -621,9 +621,9 @@ Phalār	3040	7822	500	0
 Fatehpur Lāl	2934	7853	575	0
 Fateh Alipur Paha	2943	7867	575	0
 Fazalpur Hari	2944	7864	575	0
-Fazalābād Parmānandpur	2938	7874	575	0
+Fazalābād Parmānandpur	2938	7874	575	0	Maniānwāla
 Fazilpur	2931	7872	575	0
-Fatehpur Jamāl	2932	7865	575	0
+Fatehpur Jamāl	2932	7865	575	0	Manoharwāli
 Fatehūllahpur Jalāi	2935	7855	575	0
 Phaiya	3062	7956	183	0
 Pharkiyāgaon	3073	7983	183	0
@@ -652,7 +652,7 @@ Fakharpur Kabatta	2880	7778	700	0
 Farīdpur Gosāīn	2879	7796	756	0
 Fatehpur	2881	7799	756	0
 Fatehpur Nārāyan	2887	7799	700	0
-Fāzilpur	2865	7778	756	0
+Fāzilpur	2865	7778	756	0	Morpur
 Faizābad Rirhāwali	2860	7781	637	0
 Fatehpur	2859	7790	637	0
 Phālīdānda	2717	8839	85	0
@@ -810,7 +810,7 @@ Farīdā Barauli	2718	7852	403	0
 Fazalnagar	2716	7863	403	0
 Fatehpur Mazrā Barāgaon	2714	7865	403	0
 Fatehpur Kaīkhā	2700	7859	403	0
-Nagla Fateh	2706	7850	403	0
+Nagla Fateh	2706	7850	403	0	Pīru
 Nagla Fauji	2705	7867	403	0
 Faqīrābād	2799	7890	117	0
 Farīdpur	2785	7882	616	0
@@ -838,7 +838,7 @@ Nagla Fazīta	2702	7895	464	0
 Fakharpur	2702	7878	403	0
 Fatehpur	2737	7789	177	0
 Nagla Fatta	2745	7793	670	0
-Fatehpura	2764	7894	616	0
+Fatehpura	2764	7894	616	0	Nagla Lochhiya
 Fatehpur	2765	7891	616	0
 Phagnaul	2757	7895	711	0
 Fazīhatpur	2711	7788	546	0
@@ -900,7 +900,7 @@ Fakarpur	2714	7966	570	0
 Fatehpur Rāi Sāhib	2724	7961	688	0
 Pharedua Taleti	2525	7728	506	0
 Pharāra	2588	7757	335	0
-Faizullāh	2788	7975	470	0
+Faizullāh	2788	7975	470	0	Bharatpur
 Farrūkhpur Narāyanpur	2785	7978	470	0
 Farīdāpur	2776	7992	470	0
 Fatehpur	2749	7978	686	0
@@ -917,7 +917,7 @@ Fazalpur	2421	7748	215	0
 Amrit Farm	2420	7735	215	0
 Fatehgarh	2405	7727	215	0
 Fardāi	2466	7761	410	0
-Fatehpur	2451	7757	410	0
+Fatehpur	2451	7757	410	0	Barkhera
 Fazalpur	2405	7761	215	0
 Fatehpur	2435	7775	410	0
 Farīdpur	2429	7785	215	0
@@ -945,7 +945,7 @@ Fatehpur Kalān	2791	7871	616	0
 Farīdnagar	2787	7874	616	0
 Fatehpur	2781	7868	616	0
 Farīdpur	2784	7864	616	0
-Farzand Ali Khān	2782	7853	616	0
+Farzand Ali Khān	2782	7853	616	0	Fīrozpur Suhela
 Farīdpur	2650	7950	715	0
 Ekghara Phaphūnd	2670	7957	715	0
 Barru Phaphūnd	2668	7957	715	0
@@ -975,7 +975,7 @@ Farida Gokal	2739	7868	403	0
 Pilakhtar Fateh	2735	7855	403	0
 Farida Pendhat	2735	7862	403	0
 Fatehpur	2737	7873	711	0
-Nagla Fateh	2732	7852	403	0
+Nagla Fateh	2732	7852	403	0	Machhariha
 Nagla Fateh	2731	7853	403	0
 Fatehpur Khās	2730	7859	403	0
 Farīdpur	2729	7871	403	0
@@ -986,7 +986,7 @@ Fatehpur	2617	7998	671	0
 Farāhampur	2602	7985	741	0
 Fatehpur	2582	7906	433	0
 Fatehpur	2522	8037	663	0
-Gauri Fakhrdīn	2509	8035	326	0
+Gauri Fakhrdīn	2509	8035	326	0	Nawa Khera
 Fākhar Pāti	2504	8033	463	0
 Fatehpur Patrauli Pachchim	2501	8035	532	0
 Fatehganj	2502	8041	532	0
@@ -1091,13 +1091,13 @@ Fatehpur	2569	8010	645	0
 Fateh Purwa	2556	8019	645	0
 Fanoli	2088	7974	404	0
 Fatehpur	2564	7892	433	0
-Phail	2025	7901	111	0
+Phail	2025	7901	111	0	Khānji
 Phattāpur	2043	7782	67	0
 Fateh Purwa	2553	8048	463	0
 Fatehpur	2527	8034	663	0
 Faridpur	2592	8063	728	0
 Fatepur	1664	7651	72	0
-Phāta	2035	7790	67	0
+Phāta	2035	7790	67	0	Vithalnagar
 Fatehpur	2390	7800	215	0
 Pharātia	2417	8386	743	0
 Fatehnagar	1746	7845	424	0
@@ -1134,7 +1134,7 @@ Fārsī	2597	8093	728	0
 Faizpur	2596	8095	728	0
 Farīdpur	2596	8094	728	0
 Fazleganj	2751	7937	688	0
-Faizbāg	2750	7943	688	0
+Faizbāg	2750	7943	688	0	Kuiānkhera
 Farīdpur	2753	7949	688	0
 Fatehpur	2757	7945	688	0
 Phanahān	2596	8203	718	0
@@ -1160,7 +1160,7 @@ Fāzilpur Gopālpur	2559	8125	651	0
 Fatehpur Bela	2556	8132	651	0
 Farīdpur	2552	8139	651	0
 Faizīpur	2557	8138	651	0
-Farīdpur	2568	8136	651	0
+Farīdpur	2568	8136	651	0	Nasīrpur
 Fateh Shāhpur	2567	8136	651	0
 Farāhampur Kaleshar Mau	2571	8136	651	0
 Farīdpur Parsakhi	2564	8143	651	0
@@ -1209,20 +1209,20 @@ Fateh Sarāi	2622	8094	681	0
 Fatehābād	2604	8100	728	0
 Fāzilpur	2924	7804	700	0
 Fatehpur Prem	2923	7809	700	0
-Rafātpur Fatehābād	2923	7818	575	0
+Rafātpur Fatehābād	2923	7818	575	0	Mānakpuri
 Faizupur Salempur	2920	7814	575	0
 Fatehullāhpur	2903	7817	483	0
 Farzpur	2968	7826	575	0
-Fazalpur Mānūn	2965	7827	575	0
+Fazalpur Mānūn	2965	7827	575	0	Gadāika
 Fazalpur	2964	7827	575	0
-Rājārāmpur Fazal	2960	7828	575	0
+Rājārāmpur Fazal	2960	7828	575	0	Ālūpur
 Fazalpur	2959	7828	575	0
-Fazalpur Habīb	2959	7827	575	0
-Aurangpur Fateh Khān	2957	7825	575	0
-Fatehullāhpur Dūrgu	2957	7832	575	0
+Fazalpur Habīb	2959	7827	575	0	Jwāli Kalān
+Aurangpur Fateh Khān	2957	7825	575	0	Mūsepur
+Fatehullāhpur Dūrgu	2957	7832	575	0	Rānīpur
 Fazalpur Ropa	2955	7844	575	0
 Faizullāhpur Ramun	2954	7848	575	0
-Fatehpur Rājārām	2950	7830	575	0
+Fatehpur Rājārām	2950	7830	575	0	Haibatpur
 Fatehpur	2942	7847	575	0
 Fatehpur	2938	7827	575	0
 Farīdpur Nizām	2937	7828	575	0
@@ -1234,7 +1234,7 @@ Fatanpur	2937	7828	575	0
 Farīdpur Malhu	2933	7830	575	0
 Farodābād	2934	7834	575	0
 Farīdnagar	2931	7835	575	0
-Phariyāpur	2931	7827	575	0
+Phariyāpur	2931	7827	575	0	Isāpur
 Faizpur Rāmānand	2929	7835	575	0
 Phalauda	2930	7838	575	0
 Phalaudi	2928	7838	575	0
@@ -1311,12 +1311,12 @@ Pura Pharma	2688	8150	30	0
 Fatehganj	2678	8149	30	0
 Purwa Phachai	2675	8148	30	0
 Fatehullāhpur	2682	8133	30	0
-Fazalpur Pauta	2923	7830	575	0
-Pauta Fatehullāpur	2923	7830	575	0
+Fazalpur Pauta	2923	7830	575	0	Mubārikpur Pauta Gaonri
+Pauta Fatehullāpur	2923	7830	575	0	Pauta Dharmūn
 Faizīpur Kasba	2913	7829	575	0
 Phanderi	2903	7828	483	0
 Fākharābād	2901	7831	483	0
-Fazalpur	2919	7832	575	0
+Fazalpur	2919	7832	575	0	Dhāki
 Fatehābād	2913	7842	575	0
 Farīdpur Aima	2902	7842	483	0
 Faizpur	2913	7845	575	0
@@ -1357,8 +1357,8 @@ Farāshiāpur	2910	7894	511	0
 Fatehganj	2644	8145	662	0
 Phanda	2642	8146	662	0
 Fatehpur	2647	8150	662	0
-Milak Phātak	2903	7894	552	0
-Fatehullāhpur	2912	7896	511	0
+Milak Phātak	2903	7894	552	0	Chak Lādpur
+Fatehullāhpur	2912	7896	511	0	Bīrpur
 Pura Fateh Singh	2628	8143	662	0
 Faridpur Parwar	2628	8147	662	0
 Pura Phātak	2632	8176	662	0
@@ -1447,7 +1447,7 @@ Faiz ka Purwa	2576	8128	651	0
 Pure Farjūlāl	2595	8148	681	0
 Farīdpur Khushāl	2839	7855	646	0
 Fatehpur Sharīfnagar	2840	7860	646	0
-Tappa Farīdnagar	2825	7865	117	0
+Tappa Farīdnagar	2825	7865	117	0	Sultānpur
 Fatehpur Shamshoi	2838	7872	646	0
 Pura Fateh Bahādur	2624	8102	681	0
 Pura Fateh Bahādur Singh	2623	8108	681	0
@@ -1646,7 +1646,7 @@ Faridunpur	2599	8311	498	0
 Faijpur	2591	8318	498	0
 Fatehpur Bhatauli	2582	8317	498	0
 Fatehpur	2584	8320	498	0
-Fakharpur	2591	8308	498	0
+Fakharpur	2591	8308	498	0	Pakhanpur
 Fakhruddīnpur	2576	8305	498	0
 Pura Fakīr	2600	8229	718	0
 Farmānpur	2601	8236	597	0
@@ -1866,7 +1866,7 @@ Fazlābād	2544	8152	651	0
 Farīdpur	2544	8160	651	0
 Faqīrābād	2537	8152	651	0
 Farīdpur	2536	8160	651	0
-Fatehpur	2542	8165	651	0
+Fatehpur	2542	8165	651	0	Shāhpur
 Farahadi	2501	8175	516	0
 Pharwāl	3224	7539	692	0
 Dona Fattūwāla	3062	7414	3	0
@@ -1882,7 +1882,7 @@ Farīdpur	2555	8178	607	0
 Fatūhpur	2552	8179	607	0
 Fatehpur Bundauna	2552	8178	607	0
 Chak Fātma	2568	8195	607	0
-Chak Faizullāh	2567	8196	607	0
+Chak Faizullāh	2567	8196	607	0	Bhaunka
 Phāphal	3247	7553	496	0
 Phaloura	3231	7556	692	0
 Phalanpur	3231	7562	692	0
@@ -1920,7 +1920,7 @@ Phategadh	2400	7242	134	0
 Phācharia	2490	7265	23	0
 Phālaudi	2486	7263	23	0
 Farandipur	3136	7472	260	0
-Fatehpura	3127	7463	260	0
+Fatehpura	3127	7463	260	0	Nawānpind
 Phadki	2297	8050	480	0
 Phāgunda	2072	8148	668	0
 Phakrītolā	2249	8047	480	0
@@ -1995,7 +1995,7 @@ Phapora Budrukh	2099	7506	78	0
 Phapora Khurd	2099	7506	78	0
 Farhad	2107	8100	474	0
 Pharaswānī	2210	8267	388	0
-Fatehpur	2283	8277	725	0
+Fatehpur	2283	8277	725	0	Hardīpāra
 Phakphakmāra	2248	8283	388	0
 Pharphod	2115	8234	407	0
 Phatguna	2121	8247	407	0
@@ -2183,7 +2183,7 @@ Phātiun Khera	3085	7791	448	0
 Fahīmpur Khūrd	2924	7777	545	0
 Fatehpur Hansapur	2920	7796	700	0
 Phānia	2332	7616	314	0
-Fazullābād	1727	8182	87	0
+Fazullābād	1727	8182	87	0	Pedda Bhīmanapalle
 Fazalpur	2816	7735	754	0
 Pharaswāni	2183	8305	402	0
 Phaguram	2195	8310	402	0
@@ -2304,7 +2304,7 @@ Fateh Raitola	2581	8454	536	0
 Fakru Raitola	2578	8457	536	0
 Faradpura	2589	8474	540	0
 Phākuli	2582	8471	540	0
-Fatehpur	2303	7674	675	0
+Fatehpur	2303	7674	675	0	Kolārāma
 Phatar Gurāria	2288	7622	322	0
 Fatepura	2309	7316	167	0
 Fatepura	2321	7311	125	0
@@ -2433,7 +2433,7 @@ Fatehpur	2896	7943	641	0
 Faiza	2892	7945	641	0
 Fakīrpura	2892	7944	641	0
 Fāzilpur	2884	7947	342	0
-Faiznagar	2879	7930	552	0
+Faiznagar	2879	7930	552	0	Raura
 Fāzilpur	2886	7926	552	0
 Faizganj	2883	7926	552	0
 Farīdāpur Jāgīr	2851	7942	342	0
@@ -2457,8 +2457,8 @@ Phartāla	2195	7457	248	0
 Phātlāmoho	2191	7471	248	0
 Phalpura	2605	8453	639	0
 Faizābād	2878	7953	342	0
-Faizganj	2884	7955	342	0
-Fāzilpur	2883	7964	342	0
+Faizganj	2884	7955	342	0	Kamthaina
+Fāzilpur	2883	7964	342	0	Bhūriān
 Fardia	2885	7967	342	0
 Falīdpur Hasan Sahrāi	2885	7974	683	0
 Fatuha	2677	8497	396	0
@@ -2494,10 +2494,10 @@ Fardiā	2879	7979	683	0
 Farīdpur Bara	2872	7977	683	0
 Fatenganj	2853	7992	683	0
 Faridpur	2590	8407	536	0
-Faizullāhganj	2837	7978	683	0
+Faizullāhganj	2837	7978	683	0	Karela
 Nagaria Fatehpur	2831	7977	683	0
 Farsahā	2826	7993	683	0
-Fāsilpur	2833	7994	683	0
+Fāsilpur	2833	7994	683	0	Rāipur
 Phagunhāi	2830	7999	470	0
 Fatehpur	2534	8479	604	0
 Fatehpur	2532	8483	604	0
@@ -2550,7 +2550,7 @@ Farīdpur	2517	8578	690	0
 Fatehganj	2509	8067	463	0
 Phāta Purwa	2519	8065	643	0
 Fardāhitol	2658	8614	556	0
-Farīdābād	2575	8075	728	0
+Farīdābād	2575	8075	728	0	Tikri
 Phaluwa Ahīr Purwa	2550	8076	463	0
 Mathiha Fatehpur	2572	8096	728	0
 Phalimār	1312	7480	257	0
@@ -2819,9 +2819,9 @@ Fatehpur	2781	8042	323	0
 Fatehpur	2947	7738	328	0
 Fatehpur	2757	8002	686	0
 Fadanpura	2785	7510	491	0
-Phandanpura	2785	7510	491	0
+Phandanpura	2785	7510	491	0	Fadanpura
 Kumbhar Falia	2091	7312	221	0
-Kumbhar Faliya	2091	7312	221	0
+Kumbhar Faliya	2091	7312	221	0	Kumbhar Falia
 Phakiranhoshalli	1326	7787	438	0
 Faqirpeta	1483	7818	229	0
 Phakkiripalle	1316	7873	214	0

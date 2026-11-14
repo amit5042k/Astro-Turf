@@ -1,14 +1,14 @@
 Tāki	2259	8893	450	40113
 Thakurdwara	2919	7886	511	39860
-Takkalakote	1553	7688	44	26224
+Takkalakote	1553	7688	44	26224	Tekkalakote
 Takhatpur	2213	8187	291	19968
 Thākurganj	2643	8813	510	18348
 Takhatgarh	2532	7300	273	17285
 Takkolam	1302	7973	160	13983
-Takenpur	2599	7828	484	13681
+Takenpur	2599	7828	484	13681	Tekanpur
 Tākalghāt	2092	7895	141	11363
 Tākli	2047	7502	78	10630
-Takali Pr. Chalisgaon	2047	7502	78	10630
+Takali Pr. Chalisgaon	2047	7502	78	10630	Tākli
 Takhlibilar Pathar	2650	9094	358	6611
 Takan Wari Pora	3416	7471	611	1880
 Takhar	3116	7577	369	757
@@ -19,12 +19,12 @@ Thākurmunda	2152	8615	382	0
 Thākurgarh	2081	8463	414	0
 Thakarda	2371	7395	512	0
 Takwa Budrukh	1881	7361	52	0
-Takwa	1881	7361	52	0
+Takwa	1881	7361	52	0	Takwa Budrukh
 Takum	2779	9361	39	0
 Taku	2740	9307	56	0
 Taknera	2488	7746	336	0
 Tākli Dhokeshwar	1916	7438	152	0
-Takali Dhokeshwar	1916	7438	152	0
+Takali Dhokeshwar	1916	7438	152	0	Tākli Dhokeshwar
 Tāklibhān	1961	7480	152	0
 Tākli	2007	7524	113	0
 Tākli	1945	7467	152	0
@@ -42,7 +42,7 @@ Tākārjala	2371	9142	574	0
 Rāja Tākli	1934	7602	53	0
 Pārdi Takmor	2019	7724	128	0
 Ginjo Thākurgaon	2352	8517	562	0
-Chinna Taki	1822	7754	170	0
+Chinna Taki	1822	7754	170	0	Chintāki
 Bārsi Tākli	2058	7707	172	0
 Bālam Tākli	1930	7547	152	0
 Thākurdwari	2257	8846	450	0
@@ -62,22 +62,22 @@ Takia Lash Shāh	3437	7431	0	0
 Takibal	3441	7433	0	0
 Takia Arzān Sāhib	3437	7448	301	0
 Takla	3318	7414	504	0
-Takia	3318	7414	504	0
+Takia	3318	7414	504	0	Takla
 Takia	3317	7423	504	0
 Takia	3310	7440	504	0
 Thākurpur	2991	7700	457	0
-Kotli Takāliyān	3251	7490	720	0
+Kotli Takāliyān	3251	7490	720	0	Kotli
 Takār	3259	7490	581	0
 Takār	3267	7497	720	0
 Thākurpur	3033	7794	448	0
 Thākurpur Tarla	3033	7793	448	0
-Thākarpur Tarla	3033	7793	448	0
+Thākarpur Tarla	3033	7793	448	0	Thākurpur Tarla
 Taqīpur	3010	7779	449	0
 Tākla	2568	7573	353	0
 Tākla	2567	7574	353	0
 Thākron ki Jhonpariyān	2561	7571	353	0
 Dhago Thākurdwāra	3118	7704	479	0
-Sundri Thak	2980	7852	612	0
+Sundri Thak	2980	7852	612	0	Sundri Thok
 Takāpuram	1748	7893	129	0
 Takha	2479	7883	481	0
 Taksena	2791	7936	117	0
@@ -88,7 +88,7 @@ Takia	2717	7975	570	0
 Rajaīmau Thakurāin	2700	7987	570	0
 Takia	2701	7994	570	0
 Takhipur	2690	7918	290	0
-Takīpura	2690	7918	290	0
+Takīpura	2690	7918	290	0	Takhipur
 Takpura	2690	7919	290	0
 Takia	2678	7908	290	0
 Thākurpura	2677	7921	290	0
@@ -127,7 +127,7 @@ Takrota	3082	7700	628	0
 Takrāna	3091	7720	628	0
 Thākurdwāra	3066	7708	587	0
 Thākur	3068	7722	534	0
-Thākurpura	3033	7706	691	0
+Thākurpura	3033	7706	691	0	Kalālhatti
 Takāhān	3067	7725	534	0
 Thakraich	3068	7750	534	0
 Thakrāra	3064	7744	534	0
@@ -279,7 +279,7 @@ Nagla Thākurpur	2725	7886	464	0
 Takneri	2455	7774	410	0
 Tākur Nagla	2768	7814	670	0
 Nagla Takia	2766	7832	670	0
-Takwāpur	2755	7841	711	0
+Takwāpur	2755	7841	711	0	Hādīdādpur
 Takkallapahād	1728	7932	101	0
 Tākhru	2794	7865	616	0
 Nagla Taqdīr	2784	7852	616	0
@@ -497,7 +497,7 @@ Thākurpur	2695	8147	30	0
 Purwa Thākur	2686	8148	30	0
 Tākri	2119	7969	404	0
 Takhanpuri	2909	7829	575	0
-Muhammad Takīpur Ghāsi	2917	7844	575	0
+Muhammad Takīpur Ghāsi	2917	7844	575	0	Maulāwāla
 Purwa Thākur Kurmi	2662	8126	30	0
 Thākurpur	2662	8129	30	0
 Purwa Thakurāin	2663	8132	30	0
@@ -698,7 +698,7 @@ Pura Thākur Kurmi	2693	8224	154	0
 Takpura	2677	8220	629	0
 Takia Ārif Shāh	3399	7479	76	0
 Takia Shaikhpür	3378	7489	678	0
-Takia Shaikhpuer	3378	7489	678	0
+Takia Shaikhpuer	3378	7489	678	0	Takia Shaikhpür
 Takia Gudur	3389	7490	428	0
 Chaubepur Takia	2649	8209	629	0
 Purwa Thākur Parshād	2672	8201	629	0
@@ -913,7 +913,7 @@ Tākarwāra	2411	7233	134	0
 Thākurtolā	2227	8013	144	0
 Thākur Tolā	2225	8037	144	0
 Thakar Kaura	3127	7483	260	0
-Thakarpura	3127	7483	260	0
+Thakarpura	3127	7483	260	0	Thakar Kaura
 Thākur	2195	8014	144	0
 Takhtu Chak	3150	7509	260	0
 Thakar Kaura	3123	7510	565	0
@@ -966,7 +966,7 @@ Takrehr	3253	7609	362	0
 Thākur Bāndha	2089	8073	474	0
 Thākurdwāra	3205	7620	38	0
 Thākurbāndha	2072	8060	644	0
-Thākurtola	2053	8086	644	0
+Thākurtola	2053	8086	644	0	Dokla
 Taktoīa	2238	8146	537	0
 Thāke	3248	7628	362	0
 Thakula	3244	7641	362	0
@@ -1032,7 +1032,7 @@ Thakurdīn Purwa	2609	8131	681	0
 Pura Thākurdīn	2604	8126	681	0
 Thakrāin Purwa	2605	8131	681	0
 Pura Takha	2603	8130	681	0
-Thakhāi	2604	8132	681	0
+Thakhāi	2604	8132	681	0	Parasrāmpur
 Pura Rām Dīn Thākur	2623	8140	681	0
 Thākur Bhagat Purwa	2614	8134	681	0
 Thakrain Purwa	2611	8135	681	0

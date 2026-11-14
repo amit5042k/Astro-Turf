@@ -2,12 +2,12 @@ Keshod	2130	7025	185	76193
 Keshorai Pātan	2529	7594	353	24627
 Kesinga	2019	8322	284	19239
 Kesariyā	2635	8487	396	18984
-Kesaria	2635	8487	396	18984
-Kesigi	1586	7724	236	15455
+Kesaria	2635	8487	396	18984	Kesariyā
+Kesigi	1586	7724	236	15455	Kosigi
 Kesrisinghpur	2995	7362	374	14010
 Keskāl	2008	8159	659	11115
 Kesabpur	2297	8826	279	10921
-Keshannagar	2042	8609	303	0
+Keshannagar	2042	8609	303	0	Kishoranagar
 Kesur	2277	7541	130	0
 Kestūru	1269	7706	94	0
 Kesla	2247	7784	590	0
@@ -18,12 +18,12 @@ Kesli	2342	7881	352	0
 Kesardesar	2788	7348	307	0
 Kesāram	1776	7788	31	0
 Kesānupalle	1658	7974	10	0
-Kesanapalli	1658	7974	10	0
+Kesanapalli	1658	7974	10	0	Kesānupalle
 Kesaibāhāl	2191	8439	567	0
-Kesaibahai	2191	8439	567	0
+Kesaibahai	2191	8439	567	0	Kesaibāhāl
 Kesaralli	1867	7767	140	0
 Keso Chak	3256	7492	581	0
-Chak Keshab	3256	7492	581	0
+Chak Keshab	3256	7492	581	0	Keso Chak
 Keshowāla	3031	7792	448	0
 Keshopura	2551	7575	353	0
 Keshādhūra	2984	7862	612	0
@@ -36,7 +36,7 @@ Kesopur	2408	7807	215	0
 Keshopur	2783	7922	117	0
 Keshopur	2799	7939	117	0
 Keshopur	2788	7927	117	0
-Keshopur Khurd	2786	7944	117	0
+Keshopur Khurd	2786	7944	117	0	Rasūlpur
 Nagla Kesri	2709	7939	464	0
 Keshopur	2709	7937	464	0
 Keseri Khurd	2769	7963	470	0
@@ -47,13 +47,13 @@ Purwa Kesari	2700	7992	570	0
 Keshopur Jādaunpur	2676	7907	290	0
 Keshopur	2690	7921	290	0
 Keshopur Rāhan	2689	7910	290	0
-Keshapur Rāhin	2689	7910	290	0
+Keshapur Rāhin	2689	7910	290	0	Keshopur Rāhan
 Keshopur Beni	2695	7908	290	0
 Keshopur Kalān	2679	7910	290	0
 Keslāhāla	2691	7556	121	0
-Kesāla	2691	7556	121	0
+Kesāla	2691	7556	121	0	Keslāhāla
 Kesupura	2688	7571	121	0
-Kesiyāwāla	2679	7575	121	0
+Kesiyāwāla	2679	7575	121	0	Kāsiāwāla
 Keshīpur	2649	7934	715	0
 Kesrīpur	2667	7995	671	0
 Keshīpur	2660	7986	671	0
@@ -74,7 +74,7 @@ Keshal	3146	7763	680	0
 Kheshkandi	3126	7774	479	0
 Kesroli	2755	7671	482	0
 Kesroli Ka Bās	2755	7672	482	0
-Muzaffarpur Kesho	2944	7809	575	0
+Muzaffarpur Kesho	2944	7809	575	0	Mundāpura
 Mithari Kesarsingh	2854	7534	539	0
 Keshupura	2659	7614	121	0
 Keslon	2357	7851	352	0
@@ -97,7 +97,7 @@ Kesarpura	2616	7485	446	0
 Kesarpura	2555	7506	309	0
 Garhi Kesri	2913	7703	485	0
 Kesarwāla	3033	7811	448	0
-Keshipur	2941	7872	575	0
+Keshipur	2941	7872	575	0	Būdhnagar
 Keshonagrī	2885	7913	552	0
 Kesarpur	2885	7907	552	0
 Kesarpur	2844	7910	342	0
@@ -198,7 +198,7 @@ Nagla Kesharia	2764	7832	670	0
 Kesāwaram	1734	7948	250	0
 Kesrājpalli	1704	7932	101	0
 Nagla Keshav	2712	7826	403	0
-Nagla Kesaria	2795	7859	616	0
+Nagla Kesaria	2795	7859	616	0	Mundalia
 Keshavpur	1737	7959	250	0
 Keshavpatnam	1743	7973	762	0
 Kesamudram	1769	7989	762	0
@@ -212,7 +212,7 @@ Nagla Keshav	2735	7856	403	0
 Keshpura	2731	7851	403	0
 Keshorāipur Khewatmai	2564	8119	728	0
 Garhi Kesari	2696	7814	546	0
-Garhi Kesar	2697	7829	546	0
+Garhi Kesar	2697	7829	546	0	Garhi Udairāj
 Keshopur	2532	8322	724	0
 Keshopur	2520	8305	201	0
 Keshopur	2514	8314	201	0
@@ -291,8 +291,8 @@ Silāni Pāna Kesho	2856	7667	609	0
 Kesri Khera	2642	8095	312	0
 Keshopur	2567	8279	32	0
 Kesauli	2623	8089	681	0
-Hakūmatpur Kesho	2966	7827	575	0
-Keshodāspur Murādpur	2930	7826	575	0
+Hakūmatpur Kesho	2966	7827	575	0	Gāonri
+Keshodāspur Murādpur	2930	7826	575	0	Baldia
 Kotra Tappa Kesho	2926	7847	575	0
 Keshwāpur Khurd	2795	8107	323	0
 Keshwāpur Kalān	2795	8108	323	0
@@ -327,7 +327,7 @@ Keslābodī	2053	7921	111	0
 Nawāda Kesho	2924	7862	575	0
 Mahmūdpur Kesha	2920	7872	511	0
 Kesarīpur	2926	7891	641	0
-Kesurli	2012	7909	111	0
+Kesurli	2012	7909	111	0	Mātholi
 Rājpur Kesariāwāla	2907	7882	511	0
 Kesiria Salempur	2628	8144	662	0
 Purwa Kesri Singh	2629	8148	662	0
@@ -405,7 +405,7 @@ Keshopur	2693	8292	154	0
 Kesarua	2576	8345	26	0
 Keshopur	2630	8299	498	0
 Keshopur	2640	8299	553	0
-Kesarpur	2640	8299	553	0
+Kesarpur	2640	8299	553	0	Keshopur
 Keshopur	2614	8297	498	0
 Keshopur	2592	8168	718	0
 Kesri	2685	8302	647	0
@@ -433,7 +433,7 @@ Pure Keshavrāi	2594	8196	718	0
 Sarāi Kesho	2553	8176	607	0
 Sarāi Kesho	2567	8191	607	0
 Keshavpur	2530	8190	607	0
-Chak Kesho	2544	8192	607	0
+Chak Kesho	2544	8192	607	0	Leptua
 Kesrid Ka Phata	2249	7439	155	0
 Kesripura	2297	7582	660	0
 Keshaopura	2178	7550	329	0
@@ -753,7 +753,7 @@ Kesarpur	2576	8505	540	0
 Kesho Chak	2535	8501	604	0
 Kesho Chak	2534	8521	514	0
 Kesripahār	2471	8752	658	0
-Keskeso	2469	8759	658	0
+Keskeso	2469	8759	658	0	Ranbahiār
 Keshopur	2523	8517	514	0
 Kestāra	2442	8786	361	0
 Kesedānga	2409	8795	471	0
@@ -776,7 +776,7 @@ Kesavapuram	1507	7896	229	0
 Kesavulunāyunikottāla	1500	7892	229	0
 Kesavapuram	1493	7893	229	0
 Kesavapuram	1478	7881	229	0
-Kesarhalli	1300	7818	47	0
+Kesarhalli	1300	7818	47	0	Kārahalli
 Keshonārāyanpur	2569	8560	138	0
 Khesrāha	2564	8572	138	0
 Kesargeri	1285	7798	47	0
@@ -823,7 +823,7 @@ Kesartoli	2259	8447	495	0
 Kesidih	2284	8462	321	0
 Kesarbud	2184	8423	627	0
 Kesavapuram	834	7727	453	0
-Kesavanpudūr	831	7744	453	0
+Kesavanpudūr	831	7744	453	0	Pottipudūr
 Kesavanericheri	829	7745	453	0
 Kesavanpudūr	812	7742	453	0
 Kesavaneri	854	7757	191	0

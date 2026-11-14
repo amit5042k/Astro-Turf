@@ -1,12 +1,12 @@
 Bārh	2548	8571	604	61470
 Barhiya	2529	8602	589	43045
-Barhalganj	2628	8351	325	20518
+Barhalganj	2628	8351	325	20518	Chillupār
 Barhi	2390	8082	351	13946
 Barharwā	2486	8778	461	12617
 Barhi	2430	8541	764	11867
 Bārhi Mājra	3011	7731	88	9188
 Barhagarh	1965	8441	440	6982
-Barhamba	2042	8534	303	6284
+Barhamba	2042	8534	303	6284	Badamba
 Baikunthpur Barhanda	2568	8577	138	3976
 Bharhut	2351	8096	350	0
 Barhni	2748	8278	292	0
@@ -20,7 +20,7 @@ Barhanpur	2488	7719	336	0
 Barhānpur	1985	7293	192	0
 Barhan	2733	7819	546	0
 Barhampur	2630	8575	591	0
-Barhampura	2630	8575	591	0
+Barhampura	2630	8575	591	0	Barhampur
 Barhampur	2560	8430	620	0
 Barhalla	2645	9415	451	0
 Barhaj	2627	8372	535	0
@@ -31,18 +31,18 @@ Bārh	2540	7706	335	0
 Barhoī	3316	7444	504	0
 Barhmīni	3272	7495	581	0
 Barhai ka Kuān	2454	7872	384	0
-Barhal ka Kuān	2454	7872	384	0
+Barhal ka Kuān	2454	7872	384	0	Barhai ka Kuān
 Barhanpur	2723	7940	688	0
 Nagla Barhaiyān	2710	7943	570	0
 Nagla Barhu	2703	7935	464	0
-Nagla Barhai	2678	7909	290	0
+Nagla Barhai	2678	7909	290	0	Marian Bahrion
 Bārh	2688	7556	121	0
 Barha Jālaun	2601	7932	741	0
 Barhrān	2693	7964	570	0
 Barha Devi	2678	7966	715	0
 Purwa Barhain	2658	7988	671	0
 Barhi	2646	8628	556	0
-Barhampūri	1908	7663	153	0
+Barhampūri	1908	7663	153	0	Brahmapuri
 Barhāna	2876	7667	609	0
 Bharhu ki Dhāni	2813	7672	601	0
 Barhāi	3146	7735	680	0
@@ -197,7 +197,7 @@ Barhaiyākhera	2308	7938	522	0
 Bārha	2213	7914	337	0
 Barha	2447	8051	324	0
 Barhauah	2452	8098	324	0
-Barhmanpura	2551	8128	651	0
+Barhmanpura	2551	8128	651	0	Unon
 Rāmpur Barhnāwān	2566	8139	651	0
 Barhaiākhera	2287	7994	598	0
 Barhiāni	2542	8247	583	0
@@ -229,7 +229,7 @@ Mithāpur Barhaia	2608	8092	681	0
 Barhātāli	2617	8090	681	0
 Barhāpura	2946	7826	575	0
 Barhāpura	2942	7836	575	0
-Barhānnagar	2936	7848	575	0
+Barhānnagar	2936	7848	575	0	Banāwali
 Barhat	2452	8242	631	0
 Bharhari	2454	8275	103	0
 Barhana	2770	8101	507	0
@@ -377,7 +377,7 @@ Purwa Dhori Barha	2690	8224	542	0
 Pura Barhai	2675	8220	629	0
 Purwa Barhai	2656	8212	629	0
 Bharhsara	2644	8201	597	0
-Barhupur	2650	8214	629	0
+Barhupur	2650	8214	629	0	Partabpur
 Barhiāni	2613	8202	662	0
 Barhamjītpur	2622	8206	597	0
 Barha	2605	8216	718	0
@@ -398,7 +398,7 @@ Barhauli	2627	8248	597	0
 Barhauna Dīh	2621	8233	597	0
 Purwa Barharī	2624	8232	597	0
 Barhiapār	2579	8315	498	0
-Barheti	2576	8300	498	0
+Barheti	2576	8300	498	0	Ismāilpur
 Pura Barhai	2653	8251	553	0
 Pura Barhai	2670	8274	154	0
 Barhaipur	2636	8260	553	0
@@ -425,7 +425,7 @@ Parānpur Barhara	2719	8317	515	0
 Lohārgarh Barhara	2719	8318	515	0
 Barh Purwa	2703	8330	325	0
 Barhya	2718	8331	515	0
-Barhaipurwa	2714	8372	515	0
+Barhaipurwa	2714	8372	515	0	Gauri
 Barhaīpur	2581	8172	718	0
 Barhia Lāla	2688	8300	647	0
 Barhya	2693	8323	325	0
@@ -741,7 +741,7 @@ Gobindpur Barhog	2527	8567	514	0
 Barhog	2528	8567	514	0
 Barhat	2625	8757	667	0
 Barhaītola	2605	8764	613	0
-Bārha	2056	7598	113	0
+Bārha	2056	7598	113	0	Sāvald
 Barhua	2780	8008	323	0
 Barhaiya	2786	8013	323	0
 Barhela	2798	8007	470	0
@@ -806,6 +806,6 @@ Barhampur	2087	8473	414	0
 Barhālia	2027	8456	548	0
 Bar Hinsar	2084	8493	414	0
 Babu Barhi	2646	8627	556	0
-Barhai Nagla	2700	7954	570	0
+Barhai Nagla	2700	7954	570	0	Kharagpur
 Barhia	2688	8304	647	0
 Barhai	2669	8300	647	0

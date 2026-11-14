@@ -1,14 +1,14 @@
 Ghāziābād	2867	7744	727	1199191
-Ghazibad	2867	7744	727	1199191
+Ghazibad	2867	7744	727	1199191	Ghāziābād
 Gajuwaka	1770	8322	81	258944
 Ghazīpur	2558	8359	26	103095
 Gajraula	2885	7824	483	50380
 Gajendragarh	1574	7597	606	32359
-Gajendragad	1574	7597	606	32359
+Gajendragad	1574	7597	606	32359	Gajendragarh
 Gajwel	1785	7868	466	24961
 Ghāzīpur	2510	8666	538	11299
 Gajsinghpur	2966	7344	374	9995
-Gajesinghpura	2966	7344	374	9995
+Gajesinghpura	2966	7344	374	9995	Gajsinghpur
 Gajapatinagaram	1828	8334	179	5687
 Thāna Ghāzi	2740	7632	482	0
 Gājarakot	1690	7729	72	0
@@ -30,7 +30,7 @@ Gajpura	2810	7387	307	0
 Gajūsar	2852	7453	539	0
 Gājsar	2832	7494	539	0
 Gājuwās	2868	7489	539	0
-Gajawās	2868	7489	539	0
+Gajawās	2868	7489	539	0	Gājuwās
 Gajā	2287	8815	279	0
 Ghāzipur	2255	8800	354	0
 Gāzipur	2239	8809	354	0
@@ -56,8 +56,8 @@ Gajiānpur	2712	7930	464	0
 Ghāzīpur Chakatla	2770	7957	470	0
 Gāzi Purwa	2701	7994	570	0
 Sri Gajādharpura	2700	7563	121	0
-Gajādharpura	2700	7563	121	0
-Gajesinghpura	2688	7572	121	0
+Gajādharpura	2700	7563	121	0	Sri Gajādharpura
+Gajesinghpura	2688	7572	121	0	Gadhsinghpura
 Purwa Gaja	2677	7973	715	0
 Mānpur Gajain	2659	7984	671	0
 Sundarpur Gajain	2658	7984	671	0
@@ -79,7 +79,7 @@ Gājta	3111	7759	479	0
 Gajlāna	3011	7708	501	0
 Gajyo	3095	7728	534	0
 Gājīka	2762	7665	482	0
-Gajrān	3011	7727	88	0
+Gajrān	3011	7727	88	0	Garhi
 Gajwa	3072	7758	534	0
 Gajon	3060	7758	534	0
 Gajīpur	3032	7765	449	0
@@ -126,7 +126,7 @@ Gaju Mazra	3026	7620	564	0
 Gājebās	3020	7611	564	0
 Ghāzipur	3021	7615	564	0
 Gāzīpur	2767	7738	177	0
-Gajiabās	3020	7629	564	0
+Gajiabās	3020	7629	564	0	Chataihra
 Gāji Salār	3016	7626	564	0
 Ghāzīpur	3044	7656	564	0
 Ghāzīpur	3048	7693	691	0
@@ -290,10 +290,10 @@ Purwa Gajrāj	2618	8088	681	0
 Gajrauli	2920	7803	700	0
 Gajūpura	2913	7802	700	0
 Gajūpura	2913	7801	700	0
-Azampur Gāzi	2960	7843	575	0
+Azampur Gāzi	2960	7843	575	0	Gurha
 Gajraula	2954	7832	575	0
 Gāzīpur Bhagwān	2953	7837	575	0
-Gāzi Subhāchand	2952	7842	575	0
+Gāzi Subhāchand	2952	7842	575	0	Bairopur
 Gāzīpur	2946	7826	575	0
 Gajupura	2932	7848	575	0
 Gajodarpur	2740	8103	507	0
@@ -334,7 +334,7 @@ Ghazafarpur	2646	8116	681	0
 Purwa Gaja	2638	8129	681	0
 Gajraula Jaisingh	2907	7885	511	0
 Ghazanipur	2639	8138	681	0
-Gajraula	2905	7892	511	0
+Gajraula	2905	7892	511	0	Bhānpur
 Gajraula	2901	7897	552	0
 Chak Gajraula	2901	7897	552	0
 Kehra Gajraula	2902	7896	552	0
@@ -364,7 +364,7 @@ Gajādhar Purwa	2714	8168	542	0
 Gajan Singh	2701	8169	542	0
 Dulhāpur Gajādhar	2726	8199	542	0
 Gajegaon	1953	7785	67	0
-Gajgola	2880	7873	511	0
+Gajgola	2880	7873	511	0	Nānakbāri
 Barkhera Gaja	2842	7853	646	0
 Pura Gajrāj Singh	2617	8103	681	0
 Pura Gajādhar Pānde	2657	8173	629	0
@@ -549,7 +549,7 @@ Gajegaon	2057	8056	135	0
 Gajāmendhi	2034	8058	135	0
 Gajālam	3260	7626	362	0
 Gajrājtola	2058	8088	644	0
-Gajītola	2050	8096	644	0
+Gajītola	2050	8096	644	0	Pusewāra
 Ghajlot	3239	7638	362	0
 Nau Gaza	3208	7634	38	0
 Ghaznīpur	2721	8115	30	0
@@ -591,7 +591,7 @@ Pura Gajādhar	2605	8153	718	0
 Ghāzipur	2605	8153	718	0
 Pura Gaja Bais	2603	8157	718	0
 Pura Gajhi Singh	2617	8165	662	0
-Pura Gajrāj Singh	2603	8171	718	0
+Pura Gajrāj Singh	2603	8171	718	0	Nagai
 Pura Gajju Bāri	2609	8171	662	0
 Gājulapādu	1654	8110	68	0
 Gajepālem	1799	8283	268	0
@@ -627,7 +627,7 @@ Gajpur Baruā	2934	7915	551	0
 Gajpur	2934	7914	551	0
 Gaja	2947	7925	551	0
 Gajrājganj	2558	8453	377	0
-Gajraulā	2924	7914	641	0
+Gajraulā	2924	7914	641	0	Sheo Rāmpūri
 Gajār	2990	7931	429	0
 Gajār	2995	7947	429	0
 Gajār	2993	7945	429	0

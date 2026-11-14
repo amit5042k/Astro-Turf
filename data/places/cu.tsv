@@ -1,60 +1,60 @@
 Cuttack	2046	8588	303	610189
-Cuddapah	1448	7882	229	344893
-Mirzapur-cum-Vindhyachal	2514	8257	201	220029
-Chupra	2578	8475	540	202352
+Cuddapah	1448	7882	229	344893	Kadapa
+Mirzapur-cum-Vindhyachal	2514	8257	201	220029	Mirzāpur
+Chupra	2578	8475	540	202352	Chāpra
 Cuddalore	1176	7977	178	173636
 Chūru	2830	7497	539	120157
-Cooch Behar	2633	8945	420	78737
+Cooch Behar	2633	8945	420	78737	Koch Bihār
 Cumbum	974	7728	194	68090
-Cutch-Mandvi	2283	6935	108	51376
-Cutch Mandi	2283	6935	108	51376
+Cutch-Mandvi	2283	6935	108	51376	Māndvi
+Cutch Mandi	2283	6935	108	51376	Māndvi
 Churāchāndpur	2433	9367	437	47774
 Coonoor	1135	7679	115	45494
-St. Thomas Mount-cum-Pallavaram	1300	8020	247	43795
+St. Thomas Mount-cum-Pallavaram	1300	8020	247	43795	Saint Thomas Mount
 Choornikkara	1009	7634	176	43207
-Coompta	1443	7442	59	36719
+Coompta	1443	7442	59	36719	Kumta
 Chunār	2513	8288	201	36459
-Coondapoor	1363	7469	257	30444
+Coondapoor	1363	7469	257	30444	Kundapura
 Chumukedima	2582	9378	753	25885
 Churi	2365	8501	562	24876
 Cooper's Camp	2317	8859	528	23119
 Curchorem	1526	7411	102	22730
-Curchurem	1526	7411	102	22730
+Curchurem	1526	7411	102	22730	Curchorem
 Cumbum	1558	7911	200	22653
-Tenu Dam-Cum-Kathhara	2376	8588	517	22080
+Tenu Dam-Cum-Kathhara	2376	8588	517	22080	Kathhāra
 Chunchupally	1752	8060	60	19944
 Fatehgarh Chūriān	3186	7496	487	18051
 Cuncolim	1518	7399	102	16623
 Curti	1542	7402	188	16385
 Churhat	2443	8167	672	14962
-Chūharpur	3047	7777	448	13055
+Chūharpur	3047	7777	448	13055	Vikāsnagar
 Curtorim	1528	7402	102	12886
 Chūndal	1062	7609	241	12502
 Chhutmalpur	3003	7775	449	11127
 Chhurikala	2248	8261	388	8239
 Barika Chuburi	2664	9281	356	7911
-Coonimode	1209	7989	202	7528
+Coonimode	1209	7989	202	7528	Koonimedu
 Chuhal	3159	7597	296	7304
-Cuvaimalai	1096	7933	264	7289
+Cuvaimalai	1096	7933	264	7289	Swāmimalai
 Chhuīkhadān	2152	8100	509	7093
 Choozhal	831	7713	453	6807
 Chhura	2081	8221	297	6095
 Chulisshēri	1059	7619	241	5441
-Choolissery	1059	7619	241	5441
+Choolissery	1059	7619	241	5441	Chulisshēri
 Chugānwān	3171	7466	222	5416
 Cumbarjua	1552	7395	188	4917
 Chhuria Kalān	2101	8063	474	4509
-Chhuriya	2101	8063	474	4509
+Chhuriya	2101	8063	474	4509	Chhuria Kalān
 Shām Churāsi	3150	7575	296	4426
 Chuāri Khās	3243	7601	362	3770
 Chuheki	3112	7560	369	2062
 Sir Bhum Chun	3292	7758	650	0
-Pavur Chutram	891	7738	245	0
+Pavur Chutram	891	7738	245	0	Pāvūrchattram
 Mājar Chuk	2673	9292	356	0
-Major Chuk	2673	9292	356	0
-Cooria	1907	7288	207	0
-Cundacudvu	985	7627	176	0
-Chutku	2218	8209	291	0
+Major Chuk	2673	9292	356	0	Mājar Chuk
+Cooria	1907	7288	207	0	Kurla
+Cundacudvu	985	7627	176	0	Kandakkadava
+Chutku	2218	8209	291	0	Ghutkū
 Curpem	1513	7417	102	0
 Curdi	1515	7418	102	0
 Curchirem	1561	7400	188	0
@@ -64,7 +64,7 @@ Cundaim	1546	7398	188	0
 Cunchelim	1561	7382	188	0
 Cumbari	1517	7427	102	0
 Cumballa Hill	1897	7280	90	0
-Bombay Cumballa Hill	1897	7280	90	0
+Bombay Cumballa Hill	1897	7280	90	0	Cumballa Hill
 Cuelim	1536	7389	102	0
 Cudnem	1554	7400	188	0
 Chutwāpīpal	3027	7917	183	0
@@ -73,37 +73,37 @@ Chutiyā Mīrigaon	2756	9474	299	0
 Chutia	2673	9305	302	0
 Chutak	3327	7802	2	0
 Chushul	3360	7865	2	0
-Chushule	3360	7865	2	0
+Chushule	3360	7865	2	0	Chushul
 Churulia	2378	8707	642	0
-Churu	2659	7544	121	0
+Churu	2659	7544	121	0	Choru
 Chur Mālda	2195	8535	293	0
 Churki	2384	8320	341	0
 Churk	2464	8310	103	0
 Chūri Ajītgarh	2797	7519	300	0
-Churi Jodhān	2797	7519	300	0
+Churi Jodhān	2797	7519	300	0	Chūri Ajītgarh
 Churelkhera	2573	7774	436	0
 Chureliya	2432	7667	333	0
-Churelia	2432	7667	333	0
+Churelia	2432	7667	333	0	Chureliya
 Churāpāli	2072	8330	394	0
 Churāni	2981	7890	612	0
 Churaman	2543	8811	610	0
-Chooramun	2543	8811	610	0
+Chooramun	2543	8811	610	0	Churaman
 Chura	2160	7082	185	0
-Chunda	2160	7082	185	0
+Chunda	2160	7082	185	0	Chura
 Chuntang	2761	8864	27	0
-Chungtong	2761	8864	27	0
+Chungtong	2761	8864	27	0	Chuntang
 Chunpura	2783	9588	475	0
 Chūngtia	2638	9444	315	0
 Chunel	2276	7303	167	0
 Chundi	1517	7968	6	0
-Chunda	1517	7968	6	0
+Chunda	1517	7968	6	0	Chundi
 Chunchura	2289	8840	279	0
 Chunchankatte	1250	7629	74	0
-Chunchanakatte	1250	7629	74	0
+Chunchanakatte	1250	7629	74	0	Chunchankatte
 Chūnāwadh	2983	7373	374	0
 Chunāri	2612	9035	458	0
 Chūnāmpet	1226	7990	247	0
-Chūnāmpettai	1226	7990	247	0
+Chūnāmpettai	1226	7990	247	0	Chūnāmpet
 Chuna	3118	7776	479	0
 Chuna	2773	9223	531	0
 Chuna	2342	8661	415	0
@@ -111,17 +111,17 @@ Chuna	2121	7176	168	0
 Chumikteng	2737	8871	422	0
 Chumba	2767	9230	531	0
 Chumātang	3336	7836	2	0
-Chumatan	3336	7836	2	0
+Chumatan	3336	7836	2	0	Chumātang
 Chūmar	3266	7858	2	0
 Chulichang	3467	7631	8	0
 Chulati	3449	7621	8	0
 Chuknitapilli	1960	8032	135	0
-Chukmpalli	1960	8032	135	0
+Chukmpalli	1960	8032	135	0	Chuknitapilli
 Chug	2745	9222	523	0
 Chudeswar	2234	6954	131	0
-Churesar	2234	6954	131	0
+Churesar	2234	6954	131	0	Chudeswar
 Chudamani	2114	8678	734	0
-Churaman	2114	8678	734	0
+Churaman	2114	8678	734	0	Chudamani
 Chuda	2248	7169	28	0
 Chūchakwind	3098	7487	566	0
 Chuchakwās	2860	7651	609	0
@@ -146,7 +146,7 @@ Churpāl	3384	7450	76	0
 Churuān	3296	7446	581	0
 Chulwāl	3300	7492	666	0
 Chumbīān	3254	7498	720	0
-Chumbīyān	3254	7498	720	0
+Chumbīyān	3254	7498	720	0	Chumbīān
 Chumbīān Jattān	3260	7487	581	0
 Chumbīān Panditān	3260	7488	581	0
 Chūhe Chak	3264	7489	581	0
@@ -165,7 +165,7 @@ Chubkiyāgarh	2887	7538	539	0
 Chuna ki Dhāni	2830	7536	300	0
 Churela	2817	7526	300	0
 Chugiān	3022	7654	564	0
-Rāmnagar Chunīwāla	3019	7652	564	0
+Rāmnagar Chunīwāla	3019	7652	564	0	Devīgarh
 Chuhat	3019	7656	564	0
 Chugnān	3023	7666	691	0
 Churia Nagla	2795	7901	117	0
@@ -187,7 +187,7 @@ Chuchu Yimbang	2634	9456	315	0
 Churela	2472	7706	601	0
 Chumbli	1847	7556	48	0
 Churiya	2205	7766	462	0
-Churia	2205	7766	462	0
+Churia	2205	7766	462	0	Churiya
 Chuchrungpur	2156	8204	379	0
 Chunaha	2436	8192	672	0
 Latum Chuk	2706	9446	777	0
@@ -253,7 +253,7 @@ Chunaut	3072	7799	448	0
 Chunhau	3053	7795	448	0
 Chūrāwās	2675	7637	708	0
 Chūriyāwās	2672	7636	708	0
-Chūhāpur	2931	7806	545	0
+Chūhāpur	2931	7806	545	0	Farīdpur
 Churāda	2644	7614	313	0
 Chunaitia	2321	7848	338	0
 Chhuchhār	2304	7830	338	0
@@ -279,7 +279,7 @@ Chugāh Khurd	3091	7519	499	0
 Chūhar Chak	3090	7504	499	0
 Chūhar Singhwāla	3091	7517	499	0
 Chugāh Kalān	3090	7520	499	0
-Chupkiti	3076	7518	499	0
+Chupkiti	3076	7518	499	0	Sundhwānwāla
 Chuganwān	3083	7527	499	0
 Chuhr Chak	3078	7536	499	0
 Churiyāla	2930	7790	545	0
@@ -328,8 +328,8 @@ Chudiāla	3026	7690	691	0
 Chulehra	2756	7725	114	0
 Chukra	2796	7765	177	0
 Chungi	1766	7623	132	0
-Chuharpur	2830	7786	637	0
-Chuharpur	2832	7785	637	0
+Chuharpur	2830	7786	637	0	Dharpa
+Chuharpur	2832	7785	637	0	Khalsi
 Chūharpur	2801	7798	543	0
 Churyāri	2713	7765	546	0
 Chhuiāpāra	2236	8241	388	0
@@ -514,8 +514,8 @@ Churka	2261	7973	368	0
 Bela Chuhan	2515	8228	607	0
 Chungunpur	2547	8263	32	0
 Chuppīpur	2547	8282	251	0
-Chūrāmanpur	2530	8296	251	0
-Chūrāmanpur	2530	8293	251	0
+Chūrāmanpur	2530	8296	251	0	Kabīranpur
+Chūrāmanpur	2530	8293	251	0	Kabīranpur
 Chhota Chuppepur	2535	8297	251	0
 Chunāgir	2535	8299	251	0
 Chuppepur	2538	8295	251	0
@@ -530,7 +530,7 @@ Chūrādol	2409	8201	631	0
 Chhulhiya	2410	8215	631	0
 Churwāhītola	2421	8219	631	0
 Chunaha	2427	8233	631	0
-Chundāna	2409	8230	631	0
+Chundāna	2409	8230	631	0	Bakhul
 Chūrīshani	2404	8250	631	0
 Churchuriya	2405	8271	631	0
 Churki	2425	8271	631	0
@@ -543,7 +543,7 @@ Chhutki Khera	2640	8092	312	0
 Chhudāni	2866	7675	609	0
 Purwa Chuhān	2622	8098	681	0
 Churiāra	2601	8092	728	0
-Chuhār	2910	7817	575	0
+Chuhār	2910	7817	575	0	Shekhpuri
 Chuharpur Nānon	2958	7845	575	0
 Chundeli	2956	7844	575	0
 Purwa Churha	2787	8121	323	0
@@ -693,7 +693,7 @@ Churera	2686	8314	325	0
 Churia Masān	2647	8315	325	0
 Chumkuni	2623	8300	498	0
 Chunahta	2605	8312	498	0
-Pipra Churāman	2688	8345	325	0
+Pipra Churāman	2688	8345	325	0	Parahi
 Chhurahiya	2672	8349	325	0
 Chulahiya	2670	8350	325	0
 Tola Chugam	2670	8346	325	0
@@ -728,8 +728,8 @@ Chuāri	3267	7559	496	0
 Churoga	3269	7567	496	0
 Chūr	3270	7574	496	0
 Chutra Lār	3247	7566	496	0
-Chuppepur	2530	8198	607	0
-Chak Churāman	2540	8195	607	0
+Chuppepur	2530	8198	607	0	Dīha
+Chak Churāman	2540	8195	607	0	Kamāldīpur
 Chak Churāman	2544	8198	607	0
 Churīhār Purwa	2511	8190	607	0
 Churha	2518	8199	607	0
@@ -758,7 +758,7 @@ Chutipondī	2248	8049	480	0
 Chubhāwal	2284	8055	480	0
 Chūhriānwāla	3192	7499	487	0
 Chūslewar	3127	7479	260	0
-Churiā	2297	8096	468	0
+Churiā	2297	8096	468	0	Nayāgaon
 Chūhiwāla	3113	7494	566	0
 Chūriān	3113	7497	566	0
 Churiā	2272	8081	480	0
@@ -795,7 +795,7 @@ Chumkuān	2222	8213	291	0
 Chhuiāpāra	2224	8211	291	0
 Chuchuhiāpāra	2205	8218	291	0
 Chuhrāpāra	2259	8267	388	0
-Chuchrangpur	2165	8098	509	0
+Chuchrangpur	2165	8098	509	0	Jirotolā
 Chhuīkhadān	2101	8099	474	0
 Chhuiāpāra	2223	8255	388	0
 Chhuiā	2210	8274	388	0
@@ -1002,7 +1002,7 @@ Chūri Jākhni	2964	7919	429	0
 Chunpuri	2926	7905	641	0
 Chūna-kā-Mazra	2903	7913	552	0
 Chunāwāla	2919	7913	641	0
-Churiāwāla	2921	7919	641	0
+Churiāwāla	2921	7919	641	0	Nakadpurī
 Chundelai	2599	7334	273	0
 Chulera Sīm	2994	7941	429	0
 Chundi	2542	7389	572	0

@@ -1,23 +1,23 @@
 Naya Gaon	3078	7679	632	50869
 Nāyudupet	1391	7989	45	45769
-Nāyudupeta	1391	7989	45	45769
+Nāyudupeta	1391	7989	45	45769	Nāyudupet
 Nāyanakulam	996	7814	274	23284
 Nayāgarh	2013	8510	548	17030
 Naya Baradwar	2201	8282	402	8793
 Nayabazar	2715	8828	617	1235
 Naya Bāzār	2713	8824	617	1035
-Naya Sānwāra	2486	7295	23	0
-Nayāgaon	2895	7653	719	0
-Rāmpuriya Naya	2546	7424	309	0
-Nayarok	2811	9469	37	0
+Naya Sānwāra	2486	7295	23	0	Sonwāra
+Nayāgaon	2895	7653	719	0	Sāmar Gopālpur Khurd
+Rāmpuriya Naya	2546	7424	309	0	Rāmpuriya
+Nayarok	2811	9469	37	0	Nyorāk
 Nayira	1930	8377	363	0
 Nāyinārkovil	954	7869	5	0
-Nayegaon	1885	7753	140	0
+Nayegaon	1885	7753	140	0	Nāigaon
 Naydongri	2035	7483	54	0
 Nayālkal	1785	7766	31	0
 Nāyakkaneri	1294	7860	214	0
 Naya Kohdār	2514	8199	607	0
-Naya Khondār	2514	8199	607	0
+Naya Khondār	2514	8199	607	0	Naya Kohdār
 Nāyakanhatti	1446	7655	255	0
 Nayāgrām	2203	8717	665	0
 Nayāgarh	2184	8544	293	0
@@ -26,13 +26,13 @@ Nayāgaon	2632	8556	395	0
 Nayāgaon	2589	7715	335	0
 Nayāgaon	2576	8509	540	0
 Bara Nayāgaon	2550	7553	353	0
-Nayāgaon	2550	7553	353	0
-Jar ka Nayāgaon	2550	7553	353	0
+Nayāgaon	2550	7553	353	0	Bara Nayāgaon
+Jar ka Nayāgaon	2550	7553	353	0	Bara Nayāgaon
 Nayāgaon	2456	7478	601	0
 Nayāgaon	2304	7928	522	0
-Nayapurwa	2802	8138	294	0
+Nayapurwa	2802	8138	294	0	Nawa Purwa
 Nayāgaon	2557	7674	335	0
-Nāyla	2692	7598	121	0
+Nāyla	2692	7598	121	0	Naila
 Kotda Nāyāni	2250	7080	147	0
 Nāyadgām	3407	7466	76	0
 Nāyābās	2880	7679	719	0
@@ -66,8 +66,8 @@ Nayāgaon	2753	7963	688	0
 Nagla Nayān	2683	7922	290	0
 Nagla Nayān	2675	7913	290	0
 Nagla Nayān	2677	7910	290	0
-Nayāgaon ki Garhia	2644	7903	334	0
-Nayāgaon	2643	7902	334	0
+Nayāgaon ki Garhia	2644	7903	334	0	Naiagaon Garhia
+Nayāgaon	2643	7902	334	0	Naiāgāon
 Nayāwās	2687	7555	121	0
 Nayāgaon	2526	7925	433	0
 Naya Purwa	2695	7961	570	0
@@ -78,7 +78,7 @@ Nayākhera	2460	7924	663	0
 Nayākhera	2451	7911	663	0
 Nayākhera	2412	7902	352	0
 Nayapāra	2645	8990	713	0
-Shaikhsar Naya Vās	2864	7406	307	0
+Shaikhsar Naya Vās	2864	7406	307	0	Khodāla
 Nayātoli	2568	8768	625	0
 Nāyadimangalam	1240	7910	197	0
 NayanSukh High School	2476	8792	471	0
@@ -90,11 +90,11 @@ Nayabad	2249	8842	4	0
 Nayapukur	2220	8731	677	0
 Nayabadi	2317	8699	571	0
 Nayāgaon	2825	7662	519	0
-Nayāgaon	2822	7663	519	0
-Nayāgaon	2829	7678	630	0
+Nayāgaon	2822	7663	519	0	Daulatāwās
+Nayāgaon	2829	7678	630	0	Mumtāzpur
 Nayogi	3171	7708	278	0
 Nāyak ki Dhāni	2848	7488	539	0
-Nayāgaon	2812	7638	482	0
+Nayāgaon	2812	7638	482	0	Mangalpur
 Nayāgaon	2805	7642	482	0
 Nayāgaon	2802	7641	482	0
 Naya Jubbar	3106	7729	479	0
@@ -105,7 +105,7 @@ Nayagrām	3083	7701	628	0
 Nayābās	2753	7610	121	0
 Nayābās	2759	7622	482	0
 Nayāgaon	2791	7673	482	0
-Nayāgaon	2732	7655	482	0
+Nayāgaon	2732	7655	482	0	Pratāppura
 Nayāgaon	2726	7656	482	0
 Nayāgaon	2726	7668	482	0
 Nayāgaon	3012	7735	88	0
@@ -120,7 +120,7 @@ Naya Ospur	2972	7809	596	0
 Nayāgaon	2965	7824	575	0
 Nayākhera	2374	7841	352	0
 Nayānagar	2362	7850	338	0
-Nayāgaon	2643	7609	313	0
+Nayāgaon	2643	7609	313	0	Srīrāmpura
 Naya Kuwān	2638	7600	313	0
 Nayāgaon	2316	7849	338	0
 Nayāgaon Khurd	2306	7834	338	0
@@ -136,9 +136,9 @@ Nayāgaon	2684	7698	447	0
 Nayāgaon	2964	7723	328	0
 Nayābāns	2955	7719	328	0
 Nayābās	2989	7729	449	0
-Nayāgaon	2989	7729	449	0
+Nayāgaon	2989	7729	449	0	Nayābās
 Nayāgaon	2988	7744	449	0
-Nayābās	2988	7744	449	0
+Nayābās	2988	7744	449	0	Nayāgaon
 Nayāgaon	2665	7688	116	0
 Nayāgaon	2523	7603	371	0
 Naya Amalsīra	2510	7623	506	0
@@ -180,17 +180,17 @@ Nayātalāo	2514	7469	417	0
 Nayāgaon	2928	7779	545	0
 Nayāgaon	2926	7778	545	0
 Nayāgaon	2929	7785	545	0
-Nayāgaon	2945	7786	545	0
+Nayāgaon	2945	7786	545	0	Nagla Buzurg
 Nayāgaon	2930	7789	545	0
 Nayāgaon	2926	7792	545	0
 Nayāgaon	2939	7797	545	0
-Nayābās	2879	7709	769	0
+Nayābās	2879	7709	769	0	Irādatnagar
 Nayāgāon	2895	7724	477	0
 Naya Usmānpur	2869	7726	791	0
 Nayābās	2858	7731	588	0
 Nayābās Ahmadnagar	2877	7739	727	0
 Nayāgaon	2884	7771	700	0
-Nayāgaon	2869	7770	756	0
+Nayāgaon	2869	7770	756	0	Ahmadpur
 Nayāgaon	2846	7773	637	0
 Nayākhera	2614	7484	446	0
 Nayākhera	2589	7415	446	0
@@ -231,7 +231,7 @@ Naya Nagla	2685	7730	114	0
 Nayāpura	2632	7776	478	0
 Nayāgaon	2582	7810	484	0
 Nāyha	1992	7604	53	0
-Naya Pind	3049	7603	775	0
+Naya Pind	3049	7603	775	0	Muhammadpura
 Lālu Nāyak Tānda	1910	7666	153	0
 Nāygaon	1859	7618	33	0
 Naya Moti Bāgh	3032	7639	564	0
@@ -270,7 +270,7 @@ Nayābās	2763	7789	543	0
 Nāya	2761	7793	543	0
 Naya Bans	2766	7861	711	0
 Nagla Nayā Bās	2765	7851	711	0
-Nayapur	2762	7866	711	0
+Nayapur	2762	7866	711	0	Banipura
 Nayākhera	2350	7936	521	0
 Nayāgaon	2371	7948	521	0
 Nayāgaon	2386	7950	521	0
@@ -310,7 +310,7 @@ Nayāgaon	2192	7970	368	0
 Nayāgaon	2190	7958	368	0
 Nayāgaon	2182	7963	368	0
 Nayāgaon	2683	7752	546	0
-Nayāgaon	2790	7963	470	0
+Nayāgaon	2790	7963	470	0	Muhammadpur
 Nayāgāon	2789	7954	470	0
 Nayāgaon	2782	7960	470	0
 Nayāgaon	2633	7767	478	0
@@ -325,7 +325,7 @@ Nayāgaon	2676	7795	622	0
 Nayāgaon	2617	7789	484	0
 Nayāgaon	2604	7780	484	0
 Nayāpura	2607	7794	484	0
-Nayākhera	2508	7718	336	0
+Nayākhera	2508	7718	336	0	Paruwa
 Nayāgaon	2591	7748	335	0
 Nayāgaon	2760	7978	686	0
 Nayāgaon	2771	7989	470	0
@@ -359,7 +359,7 @@ Nāyanakunta Tānda	1670	7922	101	0
 Nāyanakunta	1671	7922	101	0
 Naya Purwa	2690	7978	570	0
 Naya Purwa	2695	7985	570	0
-Naya Nawāda	2678	7996	469	0
+Naya Nawāda	2678	7996	469	0	Chamarahia
 Naya Purwa	2679	7979	570	0
 Naya Purwa	2617	7994	671	0
 Bhīl Nāyakuni Tānda	1680	7980	250	0
@@ -432,8 +432,8 @@ Nayāgaon	2171	7985	144	0
 Tiyara Nāyak	2467	8309	103	0
 Nayākhera	2520	7850	433	0
 Nayākhār	2430	8351	743	0
-Nayāgaon	2567	7877	503	0
-Nayāgaon	2041	7928	111	0
+Nayāgaon	2567	7877	503	0	Dalpatpur
+Nayāgaon	2041	7928	111	0	Rāmdegi
 Naya Purwa	2505	8015	663	0
 Naya Purwa	2586	8074	728	0
 Nayādīh	2444	8391	701	0
@@ -448,14 +448,14 @@ Nayāgaon	2304	7814	338	0
 Nayāgaon Khānde	2308	7820	338	0
 Nayāgaon	2498	7811	436	0
 Nayāgaon	2492	7820	436	0
-Nayākhera	2487	7812	436	0
+Nayākhera	2487	7812	436	0	Jāmundhāna
 Nayāgaon	2477	7642	333	0
 Nayāpura	2494	7637	371	0
 Nayāgaon	2499	7640	371	0
 Nayāgaon	2478	7648	506	0
 Nayāpura	2378	7839	352	0
 Nayāgaon	2396	7634	16	0
-Nayāpura	2385	7636	16	0
+Nayāpura	2385	7636	16	0	Tolīghāta
 Nayākhera	2499	7864	525	0
 Nayāgaon	2445	7855	384	0
 Nayākhera	2405	7860	352	0
@@ -499,7 +499,7 @@ Nayā Pura	2555	8239	32	0
 Naya Tahna	2830	7661	519	0
 Nayāpurwa	2604	8095	728	0
 Nayāgaon	2955	7842	575	0
-Nayāgaon	2938	7827	575	0
+Nayāgaon	2938	7827	575	0	Rāghūrāmpur
 Nayāgaon	2936	7849	575	0
 Naya Purwa	2744	8108	507	0
 Muhammadpur Nayābād	2750	8154	294	0
@@ -508,7 +508,7 @@ Naya	2490	8384	409	0
 Nāyakpur	2486	8378	409	0
 Nayāhārwāni	2117	7954	141	0
 Naya Purwa	2669	8132	30	0
-Nayāgaon	2916	7872	511	0
+Nayāgaon	2916	7872	511	0	Bahādurnagar
 Nayāgaon	2477	8080	324	0
 Nayāgaon	2480	8090	324	0
 Nayāgāon	2631	8120	681	0
@@ -522,7 +522,7 @@ Naya Purwa	2704	8175	542	0
 Naya Purwa Ganga	2701	8174	542	0
 Pura Naya	2726	8180	542	0
 Nayalkal	1863	7810	75	0
-Nayāgaon	2855	7856	646	0
+Nayāgaon	2855	7856	646	0	Shāhpur
 Nayāgaon	2874	7857	646	0
 Naya Purwa	2583	8139	718	0
 Naya Purwa	2675	8161	629	0
@@ -588,15 +588,15 @@ Nayātola	2386	8300	341	0
 Nayākhera	2411	7979	532	0
 Nayāgaon	2404	7977	521	0
 Nayakherāsāmgi	2366	7621	347	0
-Nayāgaon	2816	7735	754	0
+Nayāgaon	2816	7735	754	0	Fazalpur
 Nayāgaon	2984	7832	596	0
 Ināyatpur Nāyagaon	2884	7809	756	0
 Nayāgaon	2862	7804	637	0
 Nayābās	2861	7804	637	0
 Nayābās	2855	7804	637	0
-Nayābās	2823	7822	637	0
+Nayābās	2823	7822	637	0	Kutbpur
 Nayāgaon	2890	7884	511	0
-Nayāgaon	2885	7898	552	0
+Nayāgaon	2885	7898	552	0	Sūratpur Singhpur
 Nāyipāra	1880	8083	288	0
 Naya Purwa	2723	8142	30	0
 Nāyudugūdem	1663	8104	24	0
@@ -650,7 +650,7 @@ Nayāpāon	2919	7958	551	0
 Nayāgāon Sammal	2920	7958	551	0
 Katān Nayāgaon	2912	7970	551	0
 Nayāgaon	2714	8435	476	0
-Nayāgaon	2628	7461	446	0
+Nayāgaon	2628	7461	446	0	Kānsia
 Nayāgaon	2658	7490	446	0
 Nayāgaon	2671	7493	446	0
 Naya Khera	2540	7423	309	0

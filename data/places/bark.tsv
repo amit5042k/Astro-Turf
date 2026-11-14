@@ -1,18 +1,18 @@
 Barki Saria	2418	8589	452	24134
 Barkā Kānā	2362	8547	391	18475
 Barkhera Kalān	2845	7981	683	11209
-Barkhera Kala	2845	7981	683	11209
-Barkhera	2845	7981	683	11209
+Barkhera Kala	2845	7981	683	11209	Barkhera Kalān
+Barkhera	2845	7981	683	11209	Barkhera Kalān
 Barkuhi	2219	7870	337	9895
 Barkot	3081	7821	89	7725
 Bharkot	3062	7855	89	0
 Bharkol	2712	7771	546	0
-Barkol Negala	2712	7771	546	0
+Barkol Negala	2712	7771	546	0	Bharkol
 Bharko	2500	8685	605	0
 Bhārka	2601	7137	285	0
 Barkute	2388	8496	393	0
 Bārkūr	1347	7475	257	0
-Bārkūru	1347	7475	257	0
+Bārkūru	1347	7475	257	0	Bārkūr
 Barkola	2016	8485	548	0
 Barkhera	2388	7542	568	0
 Barkhera	2292	7765	338	0
@@ -22,14 +22,14 @@ Barka Gaon	2641	8426	703	0
 Barkāgaon	2544	8411	620	0
 Barkāgaon	2522	8443	377	0
 Barkāgaon	2385	8522	764	0
-Bārkut	2154	8501	712	0
-Barkot	2154	8501	712	0
+Bārkut	2154	8501	712	0	Bārākot
+Barkot	2154	8501	712	0	Bārākot
 Barkuli	3299	7497	666	0
-Barkatpur	3251	7493	720	0
+Barkatpur	3251	7493	720	0	Bargadpur
 Barkot	3048	7789	448	0
 Barkala	3002	7777	783	0
 Barkhera	2537	7566	353	0
-Bīr Barkatābād	2867	7691	609	0
+Bīr Barkatābād	2867	7691	609	0	Nayāgaon
 Barkhanpalli	1703	7835	62	0
 Barkhera	2472	7563	417	0
 Bharka	2467	7567	580	0
@@ -121,7 +121,7 @@ Barka	2788	7747	177	0
 Barkhera	2768	7707	114	0
 Barka	2751	7715	114	0
 Barkali	2771	7725	114	0
-Bharkātola	2089	8107	668	0
+Bharkātola	2089	8107	668	0	Rīwāgahan
 Barkona	2051	8174	652	0
 Barkai	2029	8171	704	0
 Barkola	2707	7817	546	0
@@ -451,7 +451,7 @@ Barkot	2054	8255	594	0
 Barkhera	2418	7989	532	0
 Barkā Maharī	2358	8360	341	0
 Bar Khera	2385	7605	347	0
-Barkādih	2389	8385	743	0
+Barkādih	2389	8385	743	0	Gāsedāg
 Bharka	2369	7614	347	0
 Barkol Khurd	2363	8382	743	0
 Barkhera	2341	7612	314	0
@@ -460,7 +460,7 @@ Barkot	3017	7824	448	0
 Barkot Muāfī	3019	7823	448	0
 Barkot	3024	7881	500	0
 Barkātal	2994	7839	612	0
-Bharkunda	2896	7820	483	0
+Bharkunda	2896	7820	483	0	Hakimpur
 Bharkaun	2856	7812	637	0
 Barkātpur	2814	7816	637	0
 Barkhera	2813	7818	637	0
@@ -546,7 +546,7 @@ Barkī Pārhī	2462	8419	137	0
 Barkālāth	2528	8408	409	0
 Bharkundiya	2538	8419	620	0
 Barkābantolī	2417	8402	701	0
-Barkāgaon	2407	8413	701	0
+Barkāgaon	2407	8413	701	0	Kumar
 Barkurwā	2412	8412	701	0
 Barkā Banuā	2409	8420	701	0
 Bharkhar	2558	8430	620	0

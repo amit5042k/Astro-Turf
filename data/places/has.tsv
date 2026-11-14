@@ -10,8 +10,8 @@ Haste Pimpalgaon	1973	7615	53	0
 Haswā	2587	8092	728	0
 Hastmatābād	1160	9263	105	0
 Hastings	2255	8833	123	0
-Calcutta Hastings	2255	8833	123	0
-Hastings Chapel	2255	8833	123	0
+Calcutta Hastings	2255	8833	123	0	Hastings
+Hastings Chapel	2255	8833	123	0	Hastings
 Hassu	2990	7494	585	0
 Hāsnābād	2257	8892	450	0
 Hāsnābād	2013	7570	53	0
@@ -25,8 +25,8 @@ Hasanganj	2687	8094	714	0
 Hasanganj	2677	8064	312	0
 Hasanābād	1813	7921	466	0
 Hasāri	2541	7857	433	0
-Basavapatna Hassan	1261	7613	679	0
-Hastera	2723	7553	121	0
+Basavapatna Hassan	1261	7613	679	0	Basavapatna
+Hastera	2723	7553	121	0	Astera
 Hāsnācha	2244	8815	4	0
 Gund-i-Hasibat	3411	7469	611	0
 Hasangām	3453	7513	547	0
@@ -34,7 +34,7 @@ Hasanpur	2958	7696	457	0
 Hasangarh	2884	7685	719	0
 Hasanyārpur Tihāra Kalān	2898	7692	485	0
 Hāsle Chak	3257	7487	581	0
-Chak Hāsil	3257	7487	581	0
+Chak Hāsil	3257	7487	581	0	Hāsle Chak
 Hasanpur	3034	7784	448	0
 Hasnāwāla	3008	7782	596	0
 Hasanpur	3001	7779	596	0
@@ -43,7 +43,7 @@ Hasanpur Lotni	2967	7750	449	0
 Hasanpur Manti	2960	7739	328	0
 Hasanpur Lohāri	2960	7748	328	0
 Hasanpur	2956	7729	328	0
-Hasenpur	2956	7729	328	0
+Hasenpur	2956	7729	328	0	Hasanpur
 Hasanpur	2803	7602	694	0
 Hastalpur	1789	7841	400	0
 Hasanpur	3021	7653	564	0
@@ -53,7 +53,7 @@ Hasanpur	3020	7690	691	0
 Hasanpur	3003	7676	501	0
 Hāsalkheri	2423	7808	352	0
 Hasgara	2485	7880	481	0
-Hasgora	2485	7880	481	0
+Hasgora	2485	7880	481	0	Hasgara
 Hasanpur	2792	7921	117	0
 Hāshampur	2799	7939	117	0
 Hasaura	2794	7937	117	0
@@ -71,7 +71,7 @@ Hasanpur	2806	7683	482	0
 Hasangarh	2945	7597	339	0
 Hasanpur	2814	7629	694	0
 Hasta	3049	7403	3	0
-Bahak Hasta Utār	3050	7408	3	0
+Bahak Hasta Utār	3050	7408	3	0	Chak Husmand
 Hasanpur	3037	7713	691	0
 Hasangarh	3043	7725	88	0
 Hasanpur	3015	7720	88	0
@@ -112,7 +112,7 @@ Hasanpur Bakhshua	2834	7765	637	0
 Hasanpur	2833	7768	637	0
 Hasanpur	3034	7576	593	0
 Hāsanga	2960	7562	443	0
-Hassan Alīpur Dharmān	2944	7851	575	0
+Hassan Alīpur Dharmān	2944	7851	575	0	Khatriwāla
 Hasanpur Pālki Mākhu	2925	7857	575	0
 Hasanpur	2933	7870	575	0
 Hasanpur	2897	7900	552	0
@@ -136,7 +136,7 @@ Hasanpur	3038	7604	564	0
 Hasnāpur	1931	7667	153	0
 Hasanpur	3091	7629	674	0
 Hasanpur	3039	7640	564	0
-Hasanpur	3050	7647	648	0
+Hasanpur	3050	7647	648	0	Chalheri Khurd
 Hasanpur	2784	7775	177	0
 Hastpur	2778	7799	543	0
 Hāsampur	3010	7634	638	0
@@ -313,7 +313,7 @@ Hasanpur	2968	7826	575	0
 Sherpur Hasan	2966	7828	575	0
 Hasan Alīpur	2958	7846	575	0
 Āmka Hasan	2954	7841	575	0
-Hasanpur Galra	2949	7848	575	0
+Hasanpur Galra	2949	7848	575	0	Mohiuddīnpur
 Hasan Alīpur Bhogan	2942	7843	575	0
 Hasan Alīpur Khandu Baghāla	2938	7840	575	0
 Hasanpur Jat	2936	7826	575	0
@@ -341,7 +341,7 @@ Haswāpur	2662	8123	30	0
 Jalālpur Hasna	2924	7826	575	0
 Hāshimpur	2919	7830	575	0
 Hassūpura	2914	7844	575	0
-Kamāluddīn Hasanpur	2908	7841	575	0
+Kamāluddīn Hasanpur	2908	7841	575	0	Panheri
 Hasanpur Baloch	2909	7849	575	0
 Hasanpur	2661	8125	30	0
 Hasan Garhi	2904	7871	511	0
@@ -478,7 +478,7 @@ Hasan Chak	2555	8373	26	0
 Hasti	3328	7577	34	0
 Hāshimpur Kinār	2536	8157	651	0
 Hāshimpur Kinār	2534	8153	651	0
-Hāshimpur	2546	8169	607	0
+Hāshimpur	2546	8169	607	0	Chhabīlepur
 Dona Hasta	3051	7401	3	0
 Hasanpur	3217	7532	487	0
 Hasanpur	3206	7529	487	0
@@ -487,7 +487,7 @@ Hasanpur	2584	8184	718	0
 Pura Hasan Ali	2554	8178	607	0
 Hasanpur Kurāri	2554	8197	607	0
 Hasanpur	2561	8199	607	0
-Hāshimpur	2567	8197	607	0
+Hāshimpur	2567	8197	607	0	Benipur
 Hāshimpur	2526	8197	607	0
 Tindui Hāshāpur	2543	8198	607	0
 Tindui Hāshāpur	2544	8198	607	0
@@ -542,10 +542,10 @@ Māndu Hasangarhi	2854	7820	637	0
 Hasanpūr Ujera	2847	7809	637	0
 Hasangarh	2827	7814	637	0
 Hasanpūr	2828	7822	637	0
-Hasangarhi	2813	7818	637	0
+Hasangarhi	2813	7818	637	0	Barkhera
 Hasanganj	2883	7894	511	0
 Mazra Hasanganj	2883	7894	511	0
-Mundia Hasan	2881	7899	552	0
+Mundia Hasan	2881	7899	552	0	Mazra Ghātampur
 Hasānpur	2702	8135	30	0
 Pura Hasan Gujar	2622	8148	681	0
 Hasab Ali	2675	8160	629	0

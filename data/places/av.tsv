@@ -1,28 +1,28 @@
 Avadi	1311	8011	228	345996
 Avaniyāpuram	988	7811	274	89635
 Avinashi	1119	7727	235	28868
-Avanāshi	1119	7727	235	28868
+Avanāshi	1119	7727	235	28868	Avinashi
 Avanigadda	1602	8092	68	25761
 Avilala	1361	7942	45	24839
 Avalēpalli	1277	7786	223	17859
 Avinissery	1047	7623	241	13983
 Awantipur	3392	7502	428	12647
-Awantīpura	3392	7502	428	12647
+Awantīpura	3392	7502	428	12647	Awantipur
 Avalpūndurai	1123	7772	211	11789
 Āvadattūr	1170	7786	51	9869
-A. Vellalapatti	1006	7829	274	8325
-Dondi-Awari	2049	8109	668	8042
+A. Vellalapatti	1006	7829	274	8325	Vallālappatti
+Dondi-Awari	2049	8109	668	8042	Dondi
 Āvānūr	1060	7618	241	7879
 Āvārpuri	1979	7913	111	4882
-Awalpur	1979	7913	111	4882
-Awadhan	2085	7477	190	4732
+Awalpur	1979	7913	111	4882	Āvārpuri
+Awadhan	2085	7477	190	4732	Audhan
 Aversa	1473	7430	59	4286
 Awān Chahārmi	3122	7549	369	491
-Avuku	1521	7812	232	0
-Awadhān	2976	7490	585	0
+Avuku	1521	7812	232	0	Owk
+Awadhān	2976	7490	585	0	Odhan
 Awar	2414	7588	333	0
 Āwän	2493	7610	371	0
-Awaen	2493	7610	371	0
+Awaen	2493	7610	371	0	Āwän
 Āwan	2441	7714	336	0
 Awadā	2552	7678	335	0
 Awa	2870	7302	307	0
@@ -30,7 +30,7 @@ Awa	2744	7848	711	0
 Āvupalli	1858	8077	288	0
 Āvulamanda	1595	7950	200	0
 Āvinhalli	1408	7501	346	0
-Avinahalli	1408	7501	346	0
+Avinahalli	1408	7501	346	0	Āvinhalli
 Avidha	2177	7318	151	0
 Avati	1330	7772	389	0
 Avas	1877	7287	17	0
@@ -40,10 +40,10 @@ Avalūrpet	1234	7924	202	0
 Avalhalli	1303	7775	43	0
 Avalegaon	1611	7376	213	0
 Āvalakonda	1320	7926	214	0
-Avaleonda	1320	7926	214	0
+Avaleonda	1320	7926	214	0	Āvalakonda
 Avagūdem	1836	8354	179	0
 Avadaiyarkovil	1008	7904	198	0
-Avadiyarkoil	1008	7904	198	0
+Avadiyarkoil	1008	7904	198	0	Avadaiyarkovil
 Āwatkul	3445	7429	0	0
 Awain	3309	7436	504	0
 Nūni Avval	2807	7611	694	0
@@ -70,7 +70,7 @@ Awān	3098	7504	566	0
 Avual Chak	2949	7492	585	0
 Āwli	3049	7825	500	0
 Awand	2448	7645	333	0
-Awadam	1895	7961	91	0
+Awadam	1895	7961	91	0	Audam
 Aweli	2137	8108	509	0
 Awardha	2131	8112	474	0
 Awalgaon Budruk	1960	7603	53	0
@@ -102,7 +102,7 @@ Awhadpur	2569	8304	32	0
 Dehreta Awwal	2557	7821	436	0
 Āwhayunaspur	2079	7609	49	0
 Āwandha Khurd	2086	7650	49	0
-Āwandha Buzurg	2086	7650	49	0
+Āwandha Buzurg	2086	7650	49	0	Aundha Buzurg
 Awāzāpur	2540	8332	724	0
 Awās	2548	7834	436	0
 Purwa Awās	2548	7834	436	0
@@ -272,7 +272,7 @@ Avaredalu	1275	7590	193	0
 Avala	1159	7570	262	0
 Āvadakka	1160	7580	262	0
 Avitanallur	1149	7582	262	0
-Avidanallūr	1149	7582	262	0
+Avidanallūr	1149	7582	262	0	Avitanallur
 Avilōra	1138	7591	262	0
 Avāde	1574	7403	213	0
 Tājpura Awwal	2623	7915	741	0
@@ -395,7 +395,7 @@ Chinna Āvadaiyārkovil	1033	7933	264	0
 Āvikkarai	1086	7911	264	0
 Avarikādu	1050	7978	239	0
 Awātoli	2303	8515	432	0
-Awar	2312	8552	432	0
+Awar	2312	8552	432	0	Orr
 Awrejhariātoli	2250	8416	495	0
 Awrapāni	2278	8425	398	0
 Awralongra	2282	8439	321	0
@@ -448,7 +448,7 @@ Avattanikottai	1000	7899	198	0
 Āvudaiyāpuram	820	7777	191	0
 Āvarankādu	861	7809	208	0
 Aviriyūr	1187	7904	390	0
-Āviyūr	1193	7923	390	0
+Āviyūr	1193	7923	390	0	Kulappākkam
 Aviyūr	1195	7923	390	0
 Āvinangudi	1139	7917	178	0
 Avarampatti	1042	7793	187	0

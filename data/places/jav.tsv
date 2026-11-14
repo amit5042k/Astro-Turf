@@ -1,34 +1,34 @@
 Jawaharnagar	1751	7857	311	44562
 Jāwad	2460	7486	655	17129
 Jawhār	1991	7323	192	12082
-Sawari Jawharnagar	2111	7955	404	8770
-Jāwar	2301	7650	675	8206
+Sawari Jawharnagar	2111	7955	404	8770	Sāori
+Jāwar	2301	7650	675	8206	Iāwar
 Jawāla Mukhi	3187	7632	38	5361
-Jawalanukhi	3187	7632	38	5361
+Jawalanukhi	3187	7632	38	5361	Jawāla Mukhi
 Zawlnuam	2413	9233	12	3733
 Jawaharnagar	2236	7313	159	3417
 Zawngling	2225	9304	20	0
 Zawngin	2390	9302	21	0
 Zāwār	2435	7369	22	0
 Zāwal	2499	7275	23	0
-Jāwangi	1753	7703	71	0
+Jāwangi	1753	7703	71	0	Jīwangi
 Jāwi	2452	7497	655	0
 Jawāsa	2663	7874	334	0
 Jawās	2405	7356	22	0
 Jāwar	2433	7675	333	0
 Jawār	2193	7645	209	0
-Jāwalkhedā	2184	7822	462	0
+Jāwalkhedā	2184	7822	462	0	Jaulkhera
 Jawāli	3214	7601	38	0
 Javalgi	1691	7666	71	0
 Jawalgera	1587	7682	50	0
-Jawālāpur	2992	7811	596	0
+Jawālāpur	2992	7811	596	0	Jwālāpur
 Javal	2015	7796	67	0
 Jawāja	2594	7421	446	0
 Jawāi Bāndh	2514	7306	23	0
 Jawāharnāgar	2868	7721	732	0
 Javanagondanahalli	1384	7675	255	0
 Jāvagallu	1330	7606	679	0
-Javagal	1330	7606	679	0
+Javagal	1330	7606	679	0	Jāvagallu
 Jawla Buzurg	1850	7639	158	0
 Jawāharnagar	3406	7481	611	0
 Zāwara	3405	7493	611	0
@@ -40,7 +40,7 @@ Jawār	2989	7859	612	0
 Jhawānu Sāri	2977	7860	612	0
 Jhawānu	2978	7860	612	0
 Jawaharnagar	1311	8023	204	0
-Jawāharpura	2842	7525	300	0
+Jawāharpura	2842	7525	300	0	Juwārpura
 Jawāharpura	2806	7528	300	0
 Jawārpura	2831	7550	300	0
 Jawāharpur	3055	7684	632	0
@@ -72,7 +72,7 @@ Jawāharsingh ki Dhāni	2762	7612	121	0
 Jāwāli	2738	7692	482	0
 Jawāgi	3071	7800	448	0
 Jawānīpura	2827	7538	300	0
-Jawāhar Khān	2974	7811	596	0
+Jawāhar Khān	2974	7811	596	0	Jhinwārheri
 Jawāsa Kheri	2978	7733	449	0
 Jawāra	2294	7870	522	0
 Jāwra	2179	7802	462	0
@@ -143,7 +143,7 @@ Jawāhirpur Arthra	2757	7860	711	0
 Sarāi Jawāhirpur	2750	7865	711	0
 Jawāhirpur Kamsān	2752	7858	711	0
 Jawāharnagar	2340	7955	521	0
-Jawāhirpur	2701	7854	403	0
+Jawāhirpur	2701	7854	403	0	Nagla Mahājīt
 Nagla Jawāhir	2708	7856	403	0
 Muhammadpur Sarāi Javai	2709	7862	403	0
 Nagla Jawāhir	2712	7871	403	0
@@ -166,7 +166,7 @@ Jhāwar	2704	7951	570	0
 Jawāhar Purwa	2724	7974	686	0
 Jawāhar Purwa	2723	7975	686	0
 Nagla Jawāhir	2732	7877	464	0
-Jawāharnagar	2406	7757	215	0
+Jawāharnagar	2406	7757	215	0	Jamālpur
 Jawāhargarh	2765	7829	670	0
 Nagla Jhawaria	2791	7852	543	0
 Jawāharpur	2666	7958	715	0
@@ -268,7 +268,7 @@ Jawāhir	2611	8242	597	0
 Purwa Jawāhir	2602	8277	498	0
 Jhāwakot	2709	8341	515	0
 Jawār	2700	8316	647	0
-Jawhni	2646	8364	535	0
+Jawhni	2646	8364	535	0	Mednapur
 Jawāhirpur	2610	8374	586	0
 Tola Jawāhir	2624	8373	586	0
 Pipra Jawāhir	2699	8389	560	0
@@ -352,7 +352,7 @@ Jāwlyākhera	2517	7477	417	0
 Jawkatiā	2676	8463	476	0
 Jawkatiā	2673	8463	476	0
 Dūli Jawāhir Lāl	2856	7936	342	0
-Jawāhirpur	2869	7939	342	0
+Jawāhirpur	2869	7939	342	0	Jua
 Javāngadh	2380	7312	212	0
 Jawāharpur	2882	7954	342	0
 Javkheda	2161	7455	186	0
@@ -376,7 +376,7 @@ Jawādigudem	1932	7951	162	0
 Jawāhirpur	2571	8582	138	0
 Jawanpur	2436	8522	764	0
 Javregaudana Koppal	1250	7626	74	0
-Jawār	2432	8557	764	0
+Jawār	2432	8557	764	0	Kolhuā Khurd
 Khurd Jawār	2427	8560	764	0
 Javanahalli	1330	7621	679	0
 Javanahalli	1292	7606	679	0
@@ -413,7 +413,7 @@ Jawār	2386	8461	707	0
 Jawākhārtoli	2354	8457	773	0
 Jawāl	2345	8451	773	0
 Jawritoli	2292	8463	321	0
-Javandināthapuram	1086	7879	270	0
+Javandināthapuram	1086	7879	270	0	Mayilrangam
 Javvāduppatti	1058	7781	187	0
 Javvādupatti Pudur	1057	7781	187	0
 Javlikuppam	1186	7887	390	0

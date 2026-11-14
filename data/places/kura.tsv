@@ -5,17 +5,17 @@ Kurāra	2598	7999	645	12730
 Kurattissery	932	7653	243	11849
 Koora	2143	8167	310	8857
 Khurampur	3105	7547	369	2776
-Kurralam	893	7727	245	2440
+Kurralam	893	7727	245	2440	Kuttālam
 Kuraj	2507	7410	572	0
 Kurra Jirāwan	2702	7909	464	0
-Kurra	2702	7909	464	0
-Kurra Jarāwan	2702	7909	464	0
-Kuraki	2644	7425	273	0
+Kurra	2702	7909	464	0	Kurra Jirāwan
+Kurra Jarāwan	2702	7909	464	0	Kurra Jirāwan
+Kuraki	2644	7425	273	0	Kurki
 Kurāwar	2351	7702	16	0
-Kurārwar	2351	7702	16	0
+Kurārwar	2351	7702	16	0	Kurāwar
 Kuravalangād	975	7657	271	0
 Kurāwali	2740	7897	464	0
-Kurauli	2740	7897	464	0
+Kurauli	2740	7897	464	0	Kurāwali
 Kuraon	2500	8207	607	0
 Kurān Sarai	2547	8419	620	0
 Kurankhed	2071	7725	172	0
@@ -111,7 +111,7 @@ Kurāna	2803	7762	543	0
 Kurāna	2862	7778	756	0
 Khurrampur Saidpur	2854	7784	637	0
 Kurand	2803	7584	300	0
-Kurand	2804	7583	300	0
+Kurand	2804	7583	300	0	Dharamdara
 Kurāwal	2784	7778	177	0
 Kuranwādi	1878	7634	33	0
 Kurāwali	2788	7761	177	0
@@ -203,7 +203,7 @@ Kurail	2449	8308	103	0
 Khuraila	2456	8346	103	0
 Khurra ka Purwa	2502	8001	663	0
 Kurauli	2543	8044	463	0
-Kurrākanak	2579	8058	728	0
+Kurrākanak	2579	8058	728	0	Semrai
 Kuranhalli	1697	7651	71	0
 Kurabatonahalli	1653	7660	72	0
 Khura	2434	8397	701	0
@@ -286,7 +286,7 @@ Kurāri Girdharshāh	2613	8178	662	0
 Khurrampur	2822	7897	117	0
 Kuratpalli	1866	7833	75	0
 Kurāwan Soni	2714	8201	542	0
-Bajha Khurrampur	2541	8145	651	0
+Bajha Khurrampur	2541	8145	651	0	Paruwa
 Khurrampur	3376	7489	678	0
 Purwa Kurauli	2662	8207	629	0
 Kuraun	2644	8206	597	0

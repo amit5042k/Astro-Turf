@@ -1,12 +1,12 @@
-Kodarma	2443	8553	473	87867
+Kodarma	2443	8553	473	87867	Jhumri Telaiya
 Kodār	1700	7997	250	64234
-Kodad	1700	7997	250	64234
+Kodad	1700	7997	250	64234	Kodār
 Kodungallūr	1023	7620	241	60190
 Kodur	1102	7607	150	45459
 Kodīnar	2079	7070	136	41492
-Kodina	2079	7070	136	41492
+Kodina	2079	7070	136	41492	Kodīnar
 Kodaikānāl	1024	7749	187	36501
-Kodaikān	1024	7749	187	36501
+Kodaikān	1024	7749	187	36501	Kodaikānāl
 Kodoli	1767	7403	64	26106
 Kodarma	2447	8559	473	24633
 Kodamthuruth	980	7630	243	21295
@@ -16,54 +16,54 @@ Kodavasal	1086	7948	267	14639
 Kodala	1962	8494	440	13965
 Kodumudi	1108	7788	211	13225
 Kodikkulam	965	7759	119	12713
-South Kodikulam	965	7759	119	12713
+South Kodikulam	965	7759	119	12713	Kodikkulam
 Kodivalasa	1325	7942	228	9024
 Kodannur	1047	7618	241	7655
 Kodiyal	1452	7579	92	7061
 Kodigenahalli	1372	7739	93	5727
-Kodiganballi	1372	7739	93	5727
+Kodiganballi	1372	7739	93	5727	Kodigenahalli
 Kodlipet	1280	7589	193	2686
-Kodagad	1984	8373	387	0
-Kodangal	1710	7763	210	0
+Kodagad	1984	8373	387	0	Kotagad
+Kodangal	1710	7763	210	0	Korangal
 Kodwa	2178	8149	710	0
 Kodwa	2163	8137	710	0
 Kodūru	1828	8355	179	0
 Kodūru	1792	8303	227	0
 Kodūru	1487	7811	229	0
-Kodur	1487	7811	229	0
+Kodur	1487	7811	229	0	Kodūru
 Kodūru	1441	8015	6	0
-Kodur	1441	8015	6	0
+Kodur	1441	8015	6	0	Kodūru
 Kodūr	1668	7792	317	0
 Kodūr	1396	7935	195	0
-Kodūru	1396	7935	195	0
+Kodūru	1396	7935	195	0	Kodūr
 Kodunigud	1988	8145	659	0
 Kodumur	1568	7777	236	0
-Kodumūru	1568	7777	236	0
+Kodumūru	1568	7777	236	0	Kodumur
 Kodram	2396	7258	134	0
 Kodolibād	2217	8523	287	0
 Kodmiāl	1863	7890	63	0
-Kodimial	1863	7890	63	0
+Kodimial	1863	7890	63	0	Kodmiāl
 Kodiyakkārai	1029	7982	239	0
-Kodigeri	1029	7982	239	0
+Kodigeri	1029	7982	239	0	Kodiyakkārai
 Kodinga	1930	8234	349	0
 Kodikulam	999	7920	198	0
 Kodikonda	1383	7777	444	0
 Kōdihalli	1243	7750	626	0
-Kodihalili	1243	7750	626	0
+Kodihalili	1243	7750	626	0	Kōdihalli
 Kodh	2289	7131	28	0
 Koder	1627	7829	467	0
-Kodair	1627	7829	467	0
+Kodair	1627	7829	467	0	Koder
 Kodekal	1635	7640	72	0
-Kodigal	1635	7640	72	0
+Kodigal	1635	7640	72	0	Kodekal
 Kodavalūru	1457	8000	6	0
-Kodavalur	1457	8000	6	0
+Kodavalur	1457	8000	6	0	Kodavalūru
 Kodāriya	2357	7385	512	0
-Kodaria	2357	7385	512	0
+Kodaria	2357	7385	512	0	Kodāriya
 Kodāpākha	2014	8093	704	0
 Kodandarāmaswāmi	923	7935	5	0
 Kodanādu	1152	7691	115	0
-Kodanād	1152	7691	115	0
-Kodamdesar	2805	7308	307	0
+Kodanād	1152	7691	115	0	Kodanādu
+Kodamdesar	2805	7308	307	0	Koramdesar
 Kodak	2830	9408	557	0
 Kodaganūr	1434	7604	275	0
 Kodāe	2290	6939	108	0
@@ -75,8 +75,8 @@ Khodāla	1979	7340	192	0
 Khoda	2921	7426	486	0
 Khod	2553	7334	273	0
 Karuppur Kodāli	1113	7942	383	0
-Karupput Kodali	1113	7942	383	0
-Kododih	2190	8524	272	0
+Karupput Kodali	1113	7942	383	0	Karuppur Kodāli
+Kododih	2190	8524	272	0	Kādodih
 Kodekal	1780	7801	31	0
 Kodūr	1771	7802	31	0
 Kodūr	1246	8010	247	0
@@ -299,7 +299,7 @@ Kodeli	2023	7584	53	0
 Khodla	2418	7233	134	0
 Kodrāli	2402	7242	134	0
 Kodagaon	2033	8137	704	0
-Kodājhar	2276	8055	480	0
+Kodājhar	2276	8055	480	0	Baniātārā
 Khode	3199	7499	487	0
 Khode	3192	7503	487	0
 Khodseonī	2115	8013	171	0
@@ -329,7 +329,7 @@ Kodwa	2232	8167	755	0
 Kodwa	2214	8172	755	0
 Kodonkāpa	2203	8170	755	0
 Kodwāhi	2286	8199	757	0
-Khodri	2267	8191	757	0
+Khodri	2267	8191	757	0	Badhāwandānd
 Kodāsar	2220	8184	291	0
 Kodwa	2190	8145	710	0
 Kodwa	2144	8177	310	0
@@ -707,7 +707,7 @@ Kodanchēri	1169	7562	262	0
 Kodassheri	1141	7577	262	0
 Koduvalli	1135	7590	262	0
 Kodayattūr	1128	7599	262	0
-Kodiyathur	1128	7599	262	0
+Kodiyathur	1128	7599	262	0	Kodayattūr
 Kodancheri Palli	1073	7597	150	0
 Kodchi Khurd	1980	7900	111	0
 Kodāpūr	1962	7901	111	0
@@ -791,7 +791,7 @@ Kodahalli	1327	7856	47	0
 Kodagallu	1303	7852	214	0
 Kodihalli	1293	7790	47	0
 Kodaginbele	1300	7800	47	0
-Kodaginbele Korandhalli	1300	7800	47	0
+Kodaginbele Korandhalli	1300	7800	47	0	Kodaginbele
 Kodiyālam	1285	7784	223	0
 Kodūru	1294	7789	47	0
 Kodagūr	1230	7781	223	0
@@ -923,7 +923,7 @@ Kodwe	2370	8532	764	0
 Kodadīh	2313	8578	562	0
 Kodangkel	2286	8530	287	0
 Kodlaiya	2437	8476	393	0
-Kodwārī	2404	8490	393	0
+Kodwārī	2404	8490	393	0	Bakhtaur Khāp
 Kodā	2304	8413	321	0
 Kodā	2303	8414	321	0
 Kodariyātānr	2382	8445	707	0

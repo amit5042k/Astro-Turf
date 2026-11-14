@@ -3,7 +3,7 @@ Hākawās	3354	7486	35	0
 Hakō	3336	7623	34	0
 Hakīmpet	1755	7854	311	0
 Hākala	2240	8787	559	0
-Hākhasar	2476	7112	285	0
+Hākhasar	2476	7112	285	0	Bākhāsar
 Hakīmgund	3419	7475	595	0
 Hakimbāgh	3403	7480	76	0
 Hākarmul	3406	7473	76	0
@@ -20,12 +20,12 @@ Hakīmpura	2953	7759	545	0
 Hakmabād	2994	7407	374	0
 Hākūwāla	2996	7455	615	0
 Hākim Singhwāla	3057	7515	563	0
-Rāipur Hakimān	3032	7573	593	0
+Rāipur Hakimān	3032	7573	593	0	Kila
 Hakīmpur Turra	2993	7786	596	0
 Hakikatnagar	2870	7721	769	0
 Faizgarh Hakimwāla	3015	7583	593	0
-Hakīmpur Narāyan	2928	7854	575	0
-Nawāda Hakīmpur Gopāl	2933	7864	575	0
+Hakīmpur Narāyan	2928	7854	575	0	Nagla
+Nawāda Hakīmpur Gopāl	2933	7864	575	0	Mānnagar
 Hakīmganj	2889	7905	552	0
 Hakīmganj	2882	7909	552	0
 Hākla	2495	7689	336	0
@@ -53,17 +53,17 @@ Hakīmpur Marka	2565	8139	651	0
 Hakīmpattī	2538	8210	607	0
 Hakīmpur	2544	8219	607	0
 Hakdārpur	2833	7669	630	0
-Hakūmatpur Kesho	2966	7827	575	0
+Hakūmatpur Kesho	2966	7827	575	0	Gāonri
 Hakīmpur Mukhtārpur	2962	7831	575	0
-Hakīmpur Kāzi	2956	7830	575	0
-Hakīkatpur Bhāwān	2950	7843	575	0
-Hakīkatpur Sahsun	2945	7839	575	0
+Hakīmpur Kāzi	2956	7830	575	0	Kabārīwāla
+Hakīkatpur Bhāwān	2950	7843	575	0	Bhāwanwāla
+Hakīkatpur Sahsun	2945	7839	575	0	Jītpura Palari
 Hakīkatpur	2946	7829	575	0
 Hakīkatpur	2943	7829	575	0
 Hakīkatpur Gobind	2939	7844	575	0
-Hakīmpur Dulla	2939	7832	575	0
-Hakīmpur Megha	2937	7848	575	0
-Hakīmpur Sakarganj	2935	7849	575	0
+Hakīmpur Dulla	2939	7832	575	0	Gaonri
+Hakīmpur Megha	2937	7848	575	0	Meghāwāla
+Hakīmpur Sakarganj	2935	7849	575	0	Mandhāra
 Hakīkatpur Gangwāli	2936	7842	575	0
 Hakīmpur	2775	8122	507	0
 Pura Hakdār Khān	2745	8167	294	0
@@ -175,4 +175,4 @@ Hākājāng	2349	8436	321	0
 Haktoli	2363	8478	707	0
 Hākīyuyu	2256	8493	495	0
 Hākāhāta	2232	8540	287	0
-Hakīmpur Nārāyan	2925	7846	575	0
+Hakīmpur Nārāyan	2925	7846	575	0	Nagla

@@ -1,8 +1,8 @@
 Barwāni	2203	7490	248	55504
 Barwāla	2937	7591	339	43384
 Barwāh	2225	7604	329	26459
-Barwāha	2225	7604	329	26459
-Barwaha Kasba	2225	7604	329	26459
+Barwāha	2225	7604	329	26459	Barwāh
+Barwaha Kasba	2225	7604	329	26459	Barwāh
 Barwala	2222	7207	124	17951
 Bharwāri	2556	8149	651	16411
 Bharwelī	2184	8023	144	10357
@@ -10,8 +10,8 @@ Barwāla	2876	7706	769	8948
 Barwādih	2385	8411	707	7888
 Chauth ka Barwāra	2605	7616	116	0
 Bārwās	2502	7570	371	0
-Bharwa Sumerpur	2583	8016	645	0
-Bharwāni	2557	7266	343	0
+Bharwa Sumerpur	2583	8016	645	0	Bharuwa Sumerpur
+Bharwāni	2557	7266	343	0	Bhavrāni
 Bharwalia	2707	8369	515	0
 Bharwāīn	3180	7613	327	0
 Barwa Sāgar	2537	7873	433	0
@@ -20,9 +20,9 @@ Barwāni	2219	7727	465	0
 Barwān	2393	8794	471	0
 Barwala	3123	7481	260	0
 Barwāi	2416	7796	215	0
-Barwāhi	2416	7796	215	0
+Barwāhi	2416	7796	215	0	Barwāi
 Barwādīh	2474	8322	724	0
-Barwadili	2474	8322	724	0
+Barwadili	2474	8322	724	0	Barwādīh
 Barwā	2783	7955	470	0
 Bārwi	2173	7799	462	0
 Barvāla	2215	7189	370	0
@@ -44,7 +44,7 @@ Barwa	2525	7927	525	0
 Barwa	2679	7950	715	0
 Barwādīh	2401	8372	743	0
 Barwa Khurd	2709	8363	515	0
-Barwa	2709	8363	515	0
+Barwa	2709	8363	515	0	Barwa Khurd
 Bārwād	1745	7780	210	0
 Barwāh	2234	7510	130	0
 Barwapatti	2685	8421	560	0
@@ -92,7 +92,7 @@ Barwāri	2776	7966	470	0
 Barwan	2632	7754	478	0
 Chak Dāng Barwe	2563	7736	436	0
 Dāng Barwe	2563	7736	436	0
-Barwe	2562	7739	436	0
+Barwe	2562	7739	436	0	Ūsarpur
 Māl Barwe	2562	7740	436	0
 Pūth Barwe	2562	7740	436	0
 Barwa Khurd	2781	7983	470	0
@@ -113,7 +113,7 @@ Barwa	2567	7951	645	0
 Barwa Sarsana	2520	8034	663	0
 Barwāikhera	2263	7685	322	0
 Barwai	2260	7685	322	0
-Barwān	2560	8112	728	0
+Barwān	2560	8112	728	0	Solon
 Bharwāra	2537	7956	614	0
 Bharwāni	2450	7936	663	0
 Barwāi	2678	7823	478	0
@@ -477,7 +477,7 @@ Barwādīh	2455	8405	701	0
 Barwādīh	2453	8416	701	0
 Barwān	2466	8415	137	0
 Barwā Khār	2412	8413	701	0
-Barwādīh	2413	8415	701	0
+Barwādīh	2413	8415	701	0	Hisrā
 Barwādīh	2422	8412	701	0
 Bharwalia	2598	8438	639	0
 Barwādih	2482	8429	137	0
@@ -561,7 +561,7 @@ Barwātoli	2357	8590	517	0
 Barwādih	2412	8483	393	0
 Barwādih	2413	8490	393	0
 Barwāmārni	2409	8696	502	0
-Barwakhār	2393	8409	701	0
+Barwakhār	2393	8409	701	0	Parsakhār
 Barwenagar	2318	8420	321	0
 Barwādih	2307	8418	321	0
 Barwaiyā Khurd	2393	8438	707	0

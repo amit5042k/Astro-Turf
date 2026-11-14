@@ -1,15 +1,15 @@
-Bangalore City	1297	7759	43	8495492
-Bangalore	1297	7759	43	8495492
-Banares	2532	8301	251	1164404
-Banāras	2532	8301	251	1164404
-Kuchi Bandar	994	7626	176	633553
-Mau Nath Bhanjan	2594	8356	586	246050
-Bandar	1619	8114	68	192827
+Bangalore City	1297	7759	43	8495492	Bengaluru
+Bangalore	1297	7759	43	8495492	Bengaluru
+Banares	2532	8301	251	1164404	Varanasi
+Banāras	2532	8301	251	1164404	Varanasi
+Kuchi Bandar	994	7626	176	633553	Kochi
+Mau Nath Bhanjan	2594	8356	586	246050	Mau
+Bandar	1619	8114	68	192827	Machilīpatnam
 Bānda	2548	8033	463	152218
 Bānkura	2323	8707	571	133966
 Bangaon	2305	8883	450	111693
 Bānsbāria	2295	8840	279	108474
-Bansberia	2295	8840	279	108474
+Bansberia	2295	8840	279	108474	Bānsbāria
 Bānswāra	2354	7444	166	101017
 Bhandāra	2117	7965	404	91845
 Chilla Soroda Bāngar	2860	7730	794	83217
@@ -21,32 +21,32 @@ Bānka	2488	8692	605	45977
 Bangarapet	1299	7818	47	44849
 Bāndīkūi	2705	7657	708	44664
 Bantvāl	1289	7503	55	40155
-Bantyal	1289	7503	55	40155
+Bantyal	1289	7503	55	40155	Bantvāl
 Bānsi	2718	8293	292	39926
 Gharonda Neemka Bangar	2862	7729	794	37876
 Bāngarmau	2689	8021	312	37425
 Bandipura	3442	7464	120	37081
-Bandipur	3442	7464	120	37081
-Bandapur	3442	7464	120	37081
-Bandipore	3442	7464	120	37081
-Banmore	2634	7810	478	32838
+Bandipur	3442	7464	120	37081	Bandipura
+Bandapur	3442	7464	120	37081	Bandipura
+Bandipore	3442	7464	120	37081	Bandipura
+Banmore	2634	7810	478	32838	Bāmaur
 Banda	2404	7896	352	30923
 Banmankhi Bazar	2589	8719	613	30336
 Bānswāda	1838	7788	58	28384
 Banmankhi	2589	8719	613	26806
 Bannūr	1233	7686	74	25455
 Banganapalle	1532	7823	232	25325
-Banganapilly	1532	7823	232	25325
-Banaganapalli	1532	7823	232	25325
+Banganapilly	1532	7823	232	25325	Banganapalle
+Banaganapalli	1532	7823	232	25325	Banganapalle
 Bhānder	2574	7875	503	25204
 Pehlādpur Bāngar	2875	7708	769	22968
 Bankāpur	1492	7526	92	22529
-Bankapura	1492	7526	92	22529
+Bankapura	1492	7526	92	22529	Bankāpur
 Bhānvad	2193	6978	131	22142
-Bhanwar	2193	6978	131	22142
+Bhanwar	2193	6978	131	22142	Bhānvad
 Banat	2946	7735	328	21580
 Bānsdīh	2588	8422	536	21457
-Bedi Bandar	2250	7004	145	21327
+Bedi Bandar	2250	7004	145	21327	Bedi
 Bhānpura	2451	7575	580	21013
 Banga	3119	7599	295	20906
 Bangawan	2319	8213	225	20873
@@ -54,19 +54,19 @@ Bhanjanagar	1993	8458	440	20647
 Banūr	3055	7672	632	18775
 Bānk	2270	7580	660	18534
 Bānki	2038	8553	303	17521
-Bānkīgarh	2038	8553	303	17521
+Bānkīgarh	2038	8553	303	17521	Bānki
 Bānapur	1978	8517	541	17499
-Bānpur	1978	8517	541	17499
+Bānpur	1978	8517	541	17499	Bānapur
 Bhānpurī	2109	8093	474	17270
 Jodiya Bandar	2272	7028	145	15788
 Bāngarda	2276	7580	660	15761
-Bangarda Bada	2276	7580	660	15761
+Bangarda Bada	2276	7580	660	15761	Bāngarda
 Bāntva	2149	7008	185	15291
 Bānkner	2885	7708	769	14788
 Chik Bānavar	1308	7750	43	14409
 Bhānumukkala	1531	7823	232	14307
 Bānsgāon	2655	8335	325	14282
-Bānsda	2076	7336	221	14072
+Bānsda	2076	7336	221	14072	Vānsada
 Bandh Dih	2366	8602	517	13192
 Banasthali	2640	7587	313	12835
 Bandora	1541	7398	188	12819
@@ -74,28 +74,28 @@ Bandlaguda	1735	7839	62	12734
 Bankimnagar	2382	9143	744	11949
 Bandarulanka	1658	8196	304	11470
 Bānskhoh	2683	7615	121	11150
-Bānskho	2683	7615	121	11150
+Bānskho	2683	7615	121	11150	Bānskhoh
 Bhankarpur	3061	7684	632	10768
 Bānposh	2225	8481	272	10430
-Bānposi	2225	8481	272	10430
+Bānposi	2225	8481	272	10430	Bānposh
 Bandbahāl	2175	8388	627	9735
 Bhānūr	1749	7818	31	9203
 Bhānupratāppur	2031	8107	704	8125
 Bandhgora	2362	8615	517	7859
 Bānāvar	1341	7616	679	7827
-Banavara	1341	7616	679	7827
+Banavara	1341	7616	679	7827	Bānāvar
 Banbasa	2899	8008	326	7138
-Banei	2182	8495	272	7080
-Banaigarh	2182	8495	272	7080
+Banei	2182	8495	272	7080	Bonaigarh
+Banaigarh	2182	8495	272	7080	Bonaigarh
 Bankul	2267	8812	354	6779
 Banda	1581	7386	213	6611
 Bangaon	2642	9133	758	5873
 Bangramanjēshvara	1271	7489	305	5791
-Bangra Manjeshwar	1271	7489	305	5791
+Bangra Manjeshwar	1271	7489	305	5791	Bangramanjēshvara
 Bangomunda	2034	8291	394	5759
 Bānsātārkheda	2379	7934	521	5458
 Bānkoli	2881	7714	769	5339
-Bankauli	2881	7714	769	5339
+Bankauli	2881	7714	769	5339	Bānkoli
 Bhandārdaha	2261	8819	354	5079
 Bhandra	2388	8610	517	4606
 Bānsdih	2598	8592	591	4464
@@ -103,7 +103,7 @@ Banihāl	3344	7520	550	3900
 Bānsdih	2588	8487	540	2473
 Manu Bans Grunt	2999	7794	596	1962
 Pipāvāv Bandar	2097	7156	216	1858
-Kathiwadar Bandar	2097	7156	216	1858
+Kathiwadar Bandar	2097	7156	216	1858	Pipāvāv Bandar
 Banjār	3164	7734	680	1414
 Bhandal Himmat	3112	7558	369	942
 Bhandal Būta	3112	7558	369	709
@@ -112,26 +112,26 @@ Bhanapur	2008	7650	49	382
 Bhandal Sahīb Rai	3107	7559	369	80
 Bangaram	1094	7229	780	45
 Vavāniā Bandar	2302	7055	108	0
-Savta Bandor	1997	7277	192	0
+Savta Bandor	1997	7277	192	0	Sarāvali
 Revas Bandar	1882	7295	17	0
 Bangampet	1795	7812	400	0
-Rajul Banda	1596	7718	50	0
+Rajul Banda	1596	7718	50	0	Rājulabanda
 Mundra Bandar	2280	6973	108	0
 Mehegām Bangāl	2167	7276	151	0
-Bhanwarchua	2149	8289	407	0
-Banfang	2696	9523	717	0
-Bansāl	3327	7405	504	0
+Bhanwarchua	2149	8289	407	0	Madhuban
+Banfang	2696	9523	717	0	Lu
+Bansāl	3327	7405	504	0	Jhangar Dharmsāl
 Jawāi Bāndh	2514	7306	23	0
-Honganur-Banganur	1260	7722	626	0
+Honganur-Banganur	1260	7722	626	0	Honganur
 Hāt Banjāri	2089	8058	474	0
 Gosānimāri Bandar	2614	8936	420	0
 Dharamtar Bandar	1870	7302	17	0
 Bhāndu Chārnān	2633	7245	344	0
-Chārnon ki Bhandu	2633	7245	344	0
+Chārnon ki Bhandu	2633	7245	344	0	Bhāndu Chārnān
 Chand Bhān	3038	7490	730	0
 Bangra	2633	8410	535	0
 Bandra	2614	7059	285	0
-Bhānwata	2637	7450	446	0
+Bhānwata	2637	7450	446	0	Bhaonta
 Bhanwarpur	2137	8290	407	0
 Bhanwargarh	2508	7680	506	0
 Bhanwad	2041	7368	54	0
@@ -158,36 +158,36 @@ Bhandrā	2336	8480	773	0
 Bhandher	3016	7552	726	0
 Bhandārpur	2129	8087	509	0
 Bhandāripokhari	2096	8637	734	0
-Bhāndārpokhari	2096	8637	734	0
+Bhāndārpokhari	2096	8637	734	0	Bhandāripokhari
 Bhandaria	2718	8256	292	0
 Bhandariā	2374	8383	743	0
 Bhandāria	2159	7213	168	0
-Bhandariya	2159	7213	168	0
+Bhandariya	2159	7213	168	0	Bhandāria
 Bhandāri	2627	9414	42	0
 Bhandarej	2688	7643	708	0
 Bhandāra	2140	8209	310	0
 Bhāndak	2010	7911	111	0
 Bhanas Hivre	1949	7497	152	0
-Bhans-Hivra	1949	7497	152	0
-Bhanashivara	1949	7497	152	0
+Bhans-Hivra	1949	7497	152	0	Bhanas Hivre
+Bhanashivara	1949	7497	152	0	Bhanas Hivre
 Bhanaothala	2837	7300	307	0
 Bhanadra	2186	7363	254	0
 Bhān	3369	7508	35	0
-Bhān	3137	7594	296	0
-Bhāngu	3003	7423	3	0
-Bandar	2306	8236	513	0
+Bhān	3137	7594	296	0	Bham
+Bhāngu	3003	7423	3	0	Bhāgu
+Bandar	2306	8236	513	0	Bardar
 Bāra Bankī	2692	8118	30	0
 Bara Bāngurda	2296	8641	584	0
 Bara Bangāhal	3233	7682	38	0
 Bara Bāna	2264	8592	653	0
 Banwāra	2638	7569	313	0
-Banvara	2375	8057	351	0
-Banvāra Kalān	2375	8057	351	0
+Banvara	2375	8057	351	0	Barwāra Kalān
+Banvāra Kalān	2375	8057	351	0	Barwāra Kalān
 Bantumilli	1637	8127	68	0
-Bantoli	2742	7681	482	0
+Bantoli	2742	7681	482	0	Būntoli
 Banthra Sikandarpur	2669	8083	714	0
-Banthra	2669	8083	714	0
-Banthara	2669	8083	714	0
+Banthra	2669	8083	714	0	Banthra Sikandarpur
+Banthara	2669	8083	714	0	Banthra Sikandarpur
 Banthra	2792	7982	470	0
 Bantala	2074	8507	414	0
 Bantā Hajām	2330	8581	664	0
@@ -207,28 +207,28 @@ Bansihāri	2539	8842	25	0
 Bānsi	2486	7848	384	0
 Bānsi	2433	7439	417	0
 Bānsāhera Khurd	2449	7686	336	0
-Bānsera Khurd	2449	7686	336	0
-Bānsera	2449	7686	336	0
+Bānsera Khurd	2449	7686	336	0	Bānsāhera Khurd
+Bānsera	2449	7686	336	0	Bānsāhera Khurd
 Bānsbera	2676	9259	356	0
-Banrol	2516	7395	572	0
+Banrol	2516	7395	572	0	Bīnol
 Banpuri	1735	7486	65	0
 Bānpur	2471	7874	384	0
 Bānpur	2345	8876	528	0
 Banoti	2051	7534	113	0
-Banati	2051	7534	113	0
+Banati	2051	7534	113	0	Banoti
 Banon	3303	7663	362	0
 Banola	1885	7803	75	0
 Bano	2265	8491	495	0
 Bannikoppa	1539	7594	66	0
 Bannikop	1510	7572	606	0
 Bannigeri	1276	7744	626	0
-Bannigere	1276	7744	626	0
+Bannigere	1276	7744	626	0	Bannigeri
 Bānmurigaon	2635	9223	751	0
 Bānkot	1798	7305	234	0
 Bankora	2382	7399	512	0
 Bānkli	2523	7303	273	0
 Bankipore	2562	8516	604	0
-Bankipur	2562	8516	604	0
+Bankipur	2562	8516	604	0	Bankipore
 Bānki	2235	8546	287	0
 Bānki	2210	8489	272	0
 Bankheri	2277	7853	590	0
@@ -248,7 +248,7 @@ Baniagaon	1998	8150	659	0
 Bania	2278	8245	388	0
 Bani	2665	8080	714	0
 Banhatti	1648	7513	86	0
-Bannatti	1648	7513	86	0
+Bannatti	1648	7513	86	0	Banhatti
 Bāngursinga	2078	8542	289	0
 Bānguk	2803	9554	42	0
 Bangsi	2586	9074	786	0
@@ -258,46 +258,46 @@ Bangrā	2620	7917	741	0
 Bangoli	2140	8184	310	0
 Bangīna	3053	7946	183	0
 Bangi Kalān	3001	7497	563	0
-Bangi	3001	7497	563	0
+Bangi	3001	7497	563	0	Bangi Kalān
 Bānghāt	2995	7869	612	0
 Bangārupet	1397	7960	45	0
-Bangarpett	1397	7960	45	0
-Bangārupeta	1397	7960	45	0
+Bangarpett	1397	7960	45	0	Bangārupet
+Bangārupeta	1397	7960	45	0	Bangārupet
 Bangaon	2401	7951	521	0
 Bangāli Gārigaon	2679	9457	520	0
-Bangali	2679	9457	520	0
+Bangali	2679	9457	520	0	Bangāli Gārigaon
 Baneti	2780	7610	121	0
 Banethi	3063	7727	534	0
 Baneriya	2495	7402	572	0
-Baneria	2495	7402	572	0
+Baneria	2495	7402	572	0	Baneriya
 Baner	1953	8281	284	0
 Bandwan	2278	8650	415	0
 Banduya	2265	8619	584	0
 Bāndakpur	2383	7957	521	0
-Bāndukpur	2383	7957	521	0
+Bāndukpur	2383	7957	521	0	Bāndakpur
 Bānduān	2288	8650	415	0
 Bāndri	2404	7864	352	0
 Bandri	1499	7645	44	0
 Bāndra	1908	7286	207	0
-Bombay Bandra	1908	7286	207	0
+Bombay Bandra	1908	7286	207	0	Bāndra
 Bandor	2267	8778	279	0
 Bandoli	1531	7412	102	0
 Bandhanāu	2835	7438	539	0
-Bandnau	2835	7438	539	0
+Bandnau	2835	7438	539	0	Bandhanāu
 Bandipūr	1166	7663	69	0
 Bandi Ātmakūru	1558	7852	232	0
 Bāndia	2340	6901	108	0
 Bandhogarh Fort	2368	8104	350	0
-Bandhogarh	2368	8104	350	0
+Bandhogarh	2368	8104	350	0	Bandhogarh Fort
 Bāndheri	2261	7512	130	0
 Bandhagarh	2028	8415	387	0
 Bandugām	1893	8326	316	0
-Bandhagān	1893	8326	316	0
+Bandhagān	1893	8326	316	0	Bandugām
 Bandha Chhada	2037	8588	303	0
 Bandha	2488	7730	336	0
 Bandha	2465	7931	663	0
 Bāndha	2084	8075	644	0
-Bandha Bazar	2084	8075	644	0
+Bandha Bazar	2084	8075	644	0	Bāndha
 Bandgāon	2286	8533	287	0
 Bandebamli	1648	7717	72	0
 Bandavado	1508	7423	102	0
@@ -307,17 +307,17 @@ Bandar Fort	1617	8117	68	0
 Bandarchua	2269	8386	398	0
 Bandar	2272	7028	145	0
 Bandar	2105	7178	168	0
-Mahuva Bandar	2105	7178	168	0
+Mahuva Bandar	2105	7178	168	0	Bandar
 Bandapal	1983	8138	704	0
 Bāndanwāra	2613	7471	446	0
 Bandarwād	1718	7658	71	0
-Bandanwāda	1718	7658	71	0
+Bandanwāda	1718	7658	71	0	Bandarwād
 Bandamūrlanka	1645	8197	304	0
 Bandal	3163	7743	680	0
 Bandalli	1216	7735	69	0
-Bandahalli	1216	7735	69	0
+Bandahalli	1216	7735	69	0	Bandalli
 Bandaguda	1947	8399	252	0
-Bandagurha	1947	8399	252	0
+Bandagurha	1947	8399	252	0	Bandaguda
 Banda	2824	8010	470	0
 Banchhor	2322	7778	338	0
 Banbīrpur	2840	8097	323	0
@@ -327,18 +327,18 @@ Banavāsi	1454	7502	59	0
 Banastarim	1549	7396	188	0
 Banāso	2399	8579	764	0
 Bānasandra	1326	7666	93	0
-Banasandara	1326	7666	93	0
+Banasandara	1326	7666	93	0	Bānasandra
 Banāri	2343	8434	321	0
 Banār	2633	7315	344	0
 Bananga	695	9390	79	0
 Bānāli	2368	8708	642	0
 Bāna	2270	8606	653	0
 Ban	2168	7432	186	0
-Banmāla	2182	7587	329	0
+Banmāla	2182	7587	329	0	Bamnāla
 Banisar	2808	7390	307	0
 Bhanipura	2833	7389	307	0
 Bhangūli	2897	7486	486	0
-Bhangoly	2897	7486	486	0
+Bhangoly	2897	7486	486	0	Bhangūli
 Bandra	1907	7283	207	0
 Bānkīpur	2176	8786	559	0
 Bhāndārhāti	2293	8810	279	0
@@ -363,13 +363,13 @@ Bānda Mohalla	3417	7481	595	0
 Bānigām	3415	7487	611	0
 Bandi	3381	7405	1	0
 Bandi Koma Kilā	3378	7421	1	0
-Bāndi Kamakhan	3378	7421	1	0
-Bāndi	3378	7421	1	0
+Bāndi Kamakhan	3378	7421	1	0	Bandi Koma Kilā
+Bāndi	3378	7421	1	0	Bandi Koma Kilā
 Banwat	3379	7411	1	0
 Chechiān Bāndi	3379	7414	1	0
-Bāndi Chechiyān	3379	7414	1	0
+Bāndi Chechiyān	3379	7414	1	0	Chechiān Bāndi
 Nuna Bandi	3378	7417	1	0
-Nuno Bāndi	3378	7417	1	0
+Nuno Bāndi	3378	7417	1	0	Nuna Bandi
 Banola	3365	7415	1	0
 Banni	3342	7419	504	0
 Chitti Banri	3337	7422	504	0
@@ -389,7 +389,7 @@ Bane di Patiār	3295	7457	581	0
 Kayāi di Bān	3300	7469	581	0
 Bandwāl	3282	7460	581	0
 Bangla	3319	7414	504	0
-Bangiāla Mohra	3312	7416	504	0
+Bangiāla Mohra	3312	7416	504	0	Sangiala Mohra
 Līrīwāli Ban	3320	7428	504	0
 Dhok Baniyār	3302	7441	504	0
 Bāndien	3314	7439	504	0
@@ -408,13 +408,13 @@ Ban	3283	7492	581	0
 Bantalāo	3283	7494	581	0
 Chander Bhānpur	2993	7688	501	0
 Bandrhāl	3252	7498	720	0
-Bandrāl	3252	7498	720	0
+Bandrāl	3252	7498	720	0	Bandrhāl
 Bāne Chak	3253	7499	720	0
 Chak Bhāna Jattān	3256	7493	581	0
 Bandrāli	3258	7494	581	0
 Bāne Chak	3260	7488	581	0
 Ban Sultān	3265	7480	581	0
-Chak Bhanotre	3269	7476	581	0
+Chak Bhanotre	3269	7476	581	0	Punotre Chak
 Rāja Bhair ki Bani	3270	7478	581	0
 Chak Paune Band	3273	7478	581	0
 Bāndi	3273	7490	581	0
@@ -423,13 +423,13 @@ Ban	3405	7393	301	0
 Bāndi Shāhdara	3413	7398	301	0
 Bani	3407	7396	301	0
 Banj	3403	7392	1	0
-Banj Bāzār	3403	7392	1	0
+Banj Bāzār	3403	7392	1	0	Banj
 Bāndarkūt	3446	7396	0	0
 Bāndi	3428	7399	0	0
 Bani	3432	7397	0	0
 Bankhor Baihk	3430	7394	0	0
 Bankhorān	3439	7388	0	0
-Bankhotān	3439	7388	0	0
+Bankhotān	3439	7388	0	0	Bankhorān
 Banwāli Baihk	3435	7389	0	0
 Bhandārs	3434	7383	0	0
 Lassi Banna	3441	7397	0	0
@@ -441,13 +441,13 @@ Banjārewāla	3012	7788	596	0
 Banwāla	3011	7786	596	0
 Bandarjūd	3005	7794	596	0
 Banhera Khemchand	2968	7745	449	0
-Banhera Khomchan	2968	7745	449	0
+Banhera Khomchan	2968	7745	449	0	Banhera Khemchand
 Māzra Bhanera	2963	7738	328	0
 Bhanera Ūda	2962	7737	328	0
 Bhandaura	2951	7746	328	0
 Banjāron ka Jhonpara	2525	7572	353	0
-Banjāri Dānti	2521	7568	353	0
-Bānga Māta	2539	7557	353	0
+Banjāri Dānti	2521	7568	353	0	Devri
+Bānga Māta	2539	7557	353	0	Bhawānīpura
 Bhanvarda	2537	7568	353	0
 Bānki	2532	7553	353	0
 Banjāron ki Jhonpariyān	2561	7571	353	0
@@ -484,7 +484,7 @@ Bānyāwāli Dhāni	2820	7550	300	0
 Bangotari Bari	2846	7564	300	0
 Bangotari Chhoti	2846	7564	300	0
 Bhāno ka Gaon	2774	7280	307	0
-Bhāne ka Gaon	2774	7280	307	0
+Bhāne ka Gaon	2774	7280	307	0	Bhāno ka Gaon
 Bhanbriān	3058	7620	648	0
 Banārsīdās ka Plot	3004	7653	501	0
 Bānsgati	3073	7696	587	0
@@ -503,7 +503,7 @@ Bāngchi	2401	7836	352	0
 Bānoni	2468	7863	384	0
 Bandhiya	2485	7882	481	0
 Banyāni	2481	7895	481	0
-Banyān	2481	7895	481	0
+Banyān	2481	7895	481	0	Banyāni
 Banjaria	2467	7899	481	0
 Bangarua	2459	7887	384	0
 Bansīkhera	2457	7898	481	0
@@ -517,7 +517,7 @@ Bangash Nagla	2775	7928	117	0
 Banbasāri	2782	7938	117	0
 Bankia	2724	7925	464	0
 Banjaria	2720	7932	464	0
-Bankia	2721	7938	688	0
+Bankia	2721	7938	688	0	Sanaura Pirthi
 Bhānpur	2719	7950	570	0
 Nagla Banjāran	2719	7945	570	0
 Kunwarpur Banwāri	2714	7948	570	0
@@ -542,7 +542,7 @@ Kandrauli Bāngar	2706	7991	570	0
 Nagla Bane	2699	7912	290	0
 Banjāran ka Dera	2695	7921	290	0
 Banihardo	2691	7921	290	0
-Banīhardu	2691	7921	290	0
+Banīhardu	2691	7921	290	0	Banihardo
 Dera Banjārin	2677	7919	290	0
 Nagla Bhānwar	2690	7920	290	0
 Bane ka Nagla	2692	7919	290	0
@@ -552,7 +552,7 @@ Nagla Bandha	2678	7909	290	0
 Banjhera	2679	7913	290	0
 Nagla Bandha	2676	7916	290	0
 Banuānpura	2631	7902	334	0
-Banuāpura	2631	7902	334	0
+Banuāpura	2631	7902	334	0	Banuānpura
 Bangala	2647	7907	334	0
 Bandola	2694	7564	121	0
 Bando ki Dhāni	2688	7570	121	0
@@ -726,8 +726,8 @@ Banāsi	3164	7724	278	0
 Bhanwās	3166	7721	278	0
 Bāndhi	3173	7713	278	0
 Baniyāl ki Dhāni	2847	7385	307	0
-Bāndrān	2969	7531	709	0
-Banāhwāli	2960	7540	443	0
+Bāndrān	2969	7531	709	0	Ranjitgarh
+Banāhwāli	2960	7540	443	0	Wanānwāli
 Banmadauri	2940	7529	443	0
 Bangrām	2945	7543	443	0
 Banāwāli	2940	7544	443	0
@@ -788,13 +788,13 @@ Banehal	3130	7749	479	0
 Banhālag	3130	7745	479	0
 Bankoti	3131	7750	479	0
 Banola	3132	7746	479	0
-Chak Banwāla	3043	7413	3	0
+Chak Banwāla	3043	7413	3	0	Jogiān
 Banwala	3041	7414	3	0
 Banwāla	3039	7413	3	0
-Banwāla Hanwanta	3037	7406	3	0
+Banwāla Hanwanta	3037	7406	3	0	Dorāha
 Banwāla Sādhu	3012	7400	3	0
 Bhang Chari	3038	7447	615	0
-Bannānwāla	3038	7430	3	0
+Bannānwāla	3038	7430	3	0	Jamhurewāla
 Bhangālān	3022	7431	3	0
 Banwāla Annu	3001	7461	615	0
 Tumbar Bhan	3082	7489	566	0
@@ -910,8 +910,8 @@ Dhāni Bānswāli	2761	7614	121	0
 Bhāngroli	2738	7629	482	0
 Bānkāwāla	2726	7627	482	0
 Bhānot	2793	7656	482	0
-Baneti	2783	7654	482	0
-Baneti	2784	7654	482	0
+Baneti	2783	7654	482	0	Sabalgarh
+Baneti	2784	7654	482	0	Sabalgarh
 Bhandwāra	2768	7660	482	0
 Banjīrka	2754	7674	482	0
 Banjīr Ka Bās	2754	7675	482	0
@@ -926,7 +926,7 @@ Bankābāra	3046	7741	534	0
 Baniāwāla	3034	7747	88	0
 Bhangera	3032	7747	88	0
 Bhangeri	3031	7748	88	0
-Banjārān	3018	7734	88	0
+Banjārān	3018	7734	88	0	Garhi
 Pāj Bāngar	3009	7749	449	0
 Banwāni	3072	7757	534	0
 Bāndal	3061	7752	534	0
@@ -969,7 +969,7 @@ Banda Khera	3062	7800	448	0
 Bānsu	3054	7796	448	0
 Bānjīpād	2671	7648	116	0
 Bhānwara	2665	7647	116	0
-Jhakra Bangar	2940	7809	575	0
+Jhakra Bangar	2940	7809	575	0	Jhakri
 Bānkpur	2942	7824	575	0
 Sirdhani Bāngar	2934	7815	575	0
 Bāntpura	2929	7823	575	0
@@ -1066,7 +1066,7 @@ Banjādi	2126	7847	141	0
 Bānor	2133	7833	141	0
 Bandhān	2176	7854	337	0
 Bānor	2145	7858	141	0
-Bhāndwalkar	2138	7858	141	0
+Bhāndwalkar	2138	7858	141	0	Dorli
 Bhānjīpāni	2130	7863	141	0
 Bāngdāpur	2106	7852	143	0
 Banjāri Devi	2179	7883	337	0
@@ -1087,7 +1087,7 @@ Bāndi	3005	7476	563	0
 Bangi Nihāl Singh	3001	7496	563	0
 Bangi Rugghu	3001	7492	563	0
 Bangi Dipa Singh	3002	7493	563	0
-Banwāla	2991	7477	585	0
+Banwāla	2991	7477	585	0	Sānwat Khera
 Banādia	2441	7332	22	0
 Bhankra	2411	7345	22	0
 Bandūkra	2493	7355	572	0
@@ -1126,7 +1126,7 @@ Banhera	2978	7790	596	0
 Bandarjuda	2973	7777	783	0
 Bhandūra	2946	7781	545	0
 Bhandūr	2943	7781	545	0
-Majra Bhandūra	2945	7783	545	0
+Majra Bhandūra	2945	7783	545	0	Asadnagar
 Jamālpur Bāngar	2932	7796	545	0
 Shukartār Bāngar	2948	7799	545	0
 Bandepur	2897	7704	485	0
@@ -1162,7 +1162,7 @@ Banjari	2470	7405	22	0
 Bhānāji ka Bāgar	2451	7414	22	0
 Bānsro	2456	7415	22	0
 Ban ki Dhāni	2704	7574	121	0
-Banda	2553	7520	309	0
+Banda	2553	7520	309	0	Lachhmīpura
 Bangānwāli	3029	7582	593	0
 Banbhaura	3047	7595	775	0
 Banbhauri	3045	7592	593	0
@@ -1185,7 +1185,7 @@ Bāndāwāli	3038	7813	448	0
 Bhandārībāgh	3031	7802	448	0
 Bāngākhāla	3030	7809	448	0
 Banjārewāla	3028	7802	448	0
-Banjarewāla	3027	7802	448	0
+Banjarewāla	3027	7802	448	0	Chanchak
 Bangaon	3032	7814	448	0
 Bāngkhāla	3038	7814	448	0
 Bhāngla Sera	3039	7819	448	0
@@ -1275,9 +1275,9 @@ Banb	3079	7615	674	0
 Bhangal	3081	7621	674	0
 Banāchīwādi	1934	7616	53	0
 Banera Kalān	3030	7622	564	0
-Banera Bara	3030	7622	564	0
+Banera Bara	3030	7622	564	0	Banera Kalān
 Banera Khurd	3031	7621	564	0
-Banera Chhoto	3031	7621	564	0
+Banera Chhoto	3031	7621	564	0	Banera Khurd
 Bāndarwāda	1928	7641	153	0
 Bānegaon	1926	7626	153	0
 Bhāngāpur	1944	7664	153	0
@@ -1293,7 +1293,7 @@ Bhānra	3026	7630	564	0
 Bānknai	2799	7781	543	0
 Bhānera	2790	7783	543	0
 Bhandera	2779	7784	543	0
-Baniākhera	2783	7784	543	0
+Baniākhera	2783	7784	543	0	Brishbhānpur
 Bānmati	2799	7786	543	0
 Bhānauli	2795	7794	543	0
 Nagla Bancharia	2774	7727	114	0
@@ -1571,7 +1571,7 @@ Banjartola	2276	7960	368	0
 Bandha	2283	7965	368	0
 Banjar	2286	7966	368	0
 Banjārtola	2248	7961	368	0
-Banjar	2241	7958	368	0
+Banjar	2241	7958	368	0	Jūnāpāni
 Banjar	2226	7966	368	0
 Bāndra	2229	7969	368	0
 Banjar	2238	7966	368	0
@@ -1644,7 +1644,7 @@ Bhandārbodi	2141	7945	141	0
 Bhāndewādi	2132	7945	141	0
 Banpuri	2132	7929	141	0
 Bansigudam	1710	7825	62	0
-Bansiguda	1710	7825	62	0
+Bansiguda	1710	7825	62	0	Bansigudam
 Bānor	2125	7940	141	0
 Bandapura	2646	7754	622	0
 Banjārimāi	2185	7952	368	0
@@ -1702,7 +1702,7 @@ Banjāra	2701	7953	570	0
 Bhanwargāra	2718	7975	570	0
 Baniyāni	2708	7974	570	0
 Baniāni	2707	7968	570	0
-Banjāron Purwa	2700	7970	570	0
+Banjāron Purwa	2700	7970	570	0	Chanda Purwa
 Bānsariya	2553	7725	335	0
 Bhāngarh	2550	7739	436	0
 Bandarbāwri	2544	7732	436	0
@@ -1741,7 +1741,7 @@ Banbirkheri	2443	7736	336	0
 Bānskheri	2436	7737	336	0
 Nagla Banjāran	2747	7895	711	0
 Nagla Bān	2748	7895	711	0
-Banera	2746	7894	711	0
+Banera	2746	7894	711	0	Nizāmābād
 Nagla Banjāra	2737	7888	464	0
 Bhānpur	2734	7898	464	0
 Nagla Bansi	2731	7876	464	0
@@ -1789,7 +1789,7 @@ Nagla Banjāra	2800	7846	543	0
 Nagla Banjāra	2798	7847	543	0
 Nagla Banjāra	2791	7847	543	0
 Nagla Banjāra	2782	7834	543	0
-Nagla Bhānchand	2781	7844	670	0
+Nagla Bhānchand	2781	7844	670	0	Dariyāpur
 Nagla Banjāra	2784	7848	543	0
 Nagla Banjāra	2763	7827	670	0
 Banwāripur	2755	7830	711	0
@@ -1862,7 +1862,7 @@ Bansāra	2678	7982	570	0
 Purwa Bandha	2679	7977	570	0
 Paithāndāwāla Dera Banjāra	2694	7987	570	0
 Banwāri Purwa	2648	7991	671	0
-Banjāran Purwa	2647	7989	671	0
+Banjāran Purwa	2647	7989	671	0	Gulāb ka Purwa
 Banjāra	2645	7979	671	0
 Banna Jakha	2643	7994	671	0
 Banjāra	2642	7985	671	0
@@ -1950,7 +1950,7 @@ Banna	2468	8215	516	0
 Banārpur	2575	8303	498	0
 Banmen	2556	8300	32	0
 Bangaon	2571	8320	498	0
-Bhanwarpur	2570	8316	498	0
+Bhanwarpur	2570	8316	498	0	Nūrpur
 Bana	2697	7841	546	0
 Banjholia	2545	8306	251	0
 Bandwāpur	2540	8301	251	0
@@ -2032,7 +2032,7 @@ Banjārīdhāl	2228	7796	462	0
 Bānka	2215	7780	462	0
 Banjārītānda	2204	7778	462	0
 Bānka	2223	7792	462	0
-Banaura	2598	8353	586	0
+Banaura	2598	8353	586	0	Sultānpur
 Bānka	2588	8364	26	0
 Banaila	2583	8355	26	0
 Jairāmpur Bhangwal	2580	8374	26	0
@@ -2156,7 +2156,7 @@ Bankaladoddi	1637	7670	50	0
 Banhalli	1682	7698	71	0
 Banahi	2449	8398	701	0
 Bhandria	2441	8385	743	0
-Banawātoli	2439	8381	743	0
+Banawātoli	2439	8381	743	0	Amwātola
 Lahar Banjāri	2436	8382	701	0
 Bāntola	2433	8387	701	0
 Bandla	2428	8392	701	0
@@ -2168,7 +2168,7 @@ Bana	2417	8390	743	0
 Bhandār	2420	8400	701	0
 Bandua	2424	8399	701	0
 Bhandarwādi	1947	7809	140	0
-Banjariya	2360	7808	215	0
+Banjariya	2360	7808	215	0	Gundai
 Bandwa	2352	7806	215	0
 Bandarevu Tānda	1928	7818	408	0
 Rāmeshwaram Banda	1756	7828	31	0
@@ -2318,7 +2318,7 @@ Bhānpur	2541	8097	643	0
 Chak Bhānpur	2544	8098	643	0
 Bantharī	2548	8093	463	0
 Bani	2769	7933	117	0
-Bangashnagar	2766	7925	688	0
+Bangashnagar	2766	7925	688	0	Mandhwāpur
 Bānskhera Dakhin	2762	7948	688	0
 Bānskhera	2763	7948	470	0
 Bāngala	2484	8037	532	0
@@ -2353,7 +2353,7 @@ Sarāi Bhāni	2581	8237	32	0
 Bangālīpur	2578	8241	32	0
 Bangawān	2584	8246	32	0
 Banbīrpur	2600	8241	718	0
-Bananpur	2597	8261	32	0
+Bananpur	2597	8261	32	0	Jagbandanpur
 Bandanpur	2593	8260	32	0
 Banshīpur	2593	8261	32	0
 Bangaon Bhuihār	2592	8251	32	0
@@ -2539,11 +2539,11 @@ Pausra Bāngar	2904	7818	483	0
 Banwārīpur	2965	7835	575	0
 Bānwāla	2962	7846	575	0
 Banwāri	2961	7834	575	0
-Bans Gopālpur	2959	7830	575	0
+Bans Gopālpur	2959	7830	575	0	Chaukpuri
 Bhanera	2954	7825	575	0
 Bani Khurd	2951	7841	575	0
 Bani Kalān	2952	7842	575	0
-Abulfazalpur Bani	2952	7842	575	0
+Abulfazalpur Bani	2952	7842	575	0	Bani Kalān
 Banwārīpur	2943	7834	575	0
 Bānkheri	2939	7839	575	0
 Bankhala	2939	7830	575	0
@@ -2701,7 +2701,7 @@ Band Purwa	2686	8146	30	0
 Bani Purwa	2685	8146	30	0
 Banwārganj	2658	8133	30	0
 Bhānīpur	2652	8144	662	0
-Bhangi	2655	8144	662	0
+Bhangi	2655	8144	662	0	Sultānpur
 Saraiyān Banpukār	2659	8141	30	0
 Ban Kot	2658	8146	30	0
 Purwa Bani	2651	8146	662	0
@@ -2854,7 +2854,7 @@ Harafiya Bān	2726	8198	542	0
 Banpurwa	2736	8176	294	0
 Bānsi	1999	7754	67	0
 Shri Dhām Bāndli	2842	7832	646	0
-Hari Bāba ka Bandha	2842	7832	646	0
+Hari Bāba ka Bandha	2842	7832	646	0	Shri Dhām Bāndli
 Bhānegaon	1954	7763	140	0
 Bhandāri	1990	7779	67	0
 Mubārakpur Band	2877	7859	646	0
@@ -2869,7 +2869,7 @@ Banās Debi	2814	7986	470	0
 Banskhera Zamīma Piparia	2812	7992	470	0
 Piparia Zamīma Banskhera	2810	7994	470	0
 Banspur	2598	8130	681	0
-Dulepur Band	2874	7851	646	0
+Dulepur Band	2874	7851	646	0	Dārāpur
 Khānpur Band	2869	7855	646	0
 Bansgopāl	2856	7854	646	0
 Bāngar	2870	7869	511	0
@@ -2996,7 +2996,7 @@ Bāndarpur	3395	7473	76	0
 Bānagund	3391	7475	76	0
 Bansūpur	2816	7877	117	0
 Banjra	2816	7878	117	0
-Banbīrpur	2805	7886	117	0
+Banbīrpur	2805	7886	117	0	Simra
 Banbehta	2807	7896	117	0
 Bāns Baraulia	2815	7895	117	0
 Bhandeli	2999	7904	612	0
@@ -3057,7 +3057,7 @@ Bandrahia	2707	8217	542	0
 Kuiān Bankat	2724	8220	542	0
 Sīr Bankat	2723	8219	542	0
 Sīr Bankat Bāzār	2724	8219	542	0
-Pura Daljīt Bankat	2724	8219	542	0
+Pura Daljīt Bankat	2724	8219	542	0	Sīr Bankat Bāzār
 Dulhāpur Bankata	2719	8217	542	0
 Bankata Audān Singh	2720	8219	542	0
 Bankati Arjun Singh	2720	8221	542	0
@@ -3066,7 +3066,7 @@ Bankati Surajbali Singh	2718	8219	542	0
 Pura Bhanūbāri	2717	8219	542	0
 Shāhpur Bankata	2716	8218	542	0
 Bankata	2715	8219	542	0
-Bankasiha	2715	8221	542	0
+Bankasiha	2715	8221	542	0	Purwa Barhai
 Bankati Mahābīr	2714	8222	542	0
 Pura Bansi	2710	8219	542	0
 Bankatwa	2709	8224	542	0
@@ -3415,7 +3415,7 @@ Pura Banmānus	2626	8256	597	0
 Bankata	2626	8264	553	0
 Pura Banmānus	2642	8270	553	0
 Bangānwan	2644	8261	553	0
-Ruknuddīnpur Bangānwān	2644	8261	553	0
+Ruknuddīnpur Bangānwān	2644	8261	553	0	Bangānwan
 Pura Banmānus	2649	8274	553	0
 Banpurwa	2641	8250	553	0
 Bāndhgāon	2618	8259	32	0
@@ -3476,7 +3476,7 @@ Bandhūpur	2667	8294	647	0
 Pura Bhānt	2657	8299	647	0
 Banpurwa	2659	8297	647	0
 Banrahia	2662	8297	647	0
-Banasīpur	2588	8330	498	0
+Banasīpur	2588	8330	498	0	Mubārakpur
 Bānsgaon	2583	8328	498	0
 Bandi	2598	8340	586	0
 Bhānti Khurd	2598	8339	586	0
@@ -3535,7 +3535,7 @@ Bangawān	2722	8312	292	0
 Bhanda	2706	8313	647	0
 Bangāwān	2704	8310	647	0
 Banuiha	2707	8315	325	0
-Bandoh	2707	8315	325	0
+Bandoh	2707	8315	325	0	Banuiha
 Banesarpur	2719	8316	292	0
 Banjraha	2725	8315	292	0
 Bankatwa	2722	8321	515	0
@@ -3597,7 +3597,7 @@ Bāndomar	2697	8319	647	0
 Bān	2696	8321	325	0
 Bangawān	2687	8320	325	0
 Banauli	2680	8316	325	0
-Bankata	2675	8323	325	0
+Bankata	2675	8323	325	0	Bakta
 Laukia Bān	2688	8324	325	0
 Baniābhār	2661	8302	647	0
 Banda	2656	8301	647	0
@@ -3729,12 +3729,12 @@ Bankatia	2692	8360	515	0
 Bandwār	2683	8361	560	0
 Bankatia	2687	8367	560	0
 Nagla Banjārān	2668	8352	325	0
-Banohi	2570	8157	718	0
-Banohi	2572	8158	718	0
+Banohi	2570	8157	718	0	Pahārpur
+Banohi	2572	8158	718	0	Mīrpur
 Bānsghāt	2657	8362	535	0
-Banohi	2571	8158	718	0
+Banohi	2571	8158	718	0	Mīrpur
 Banraha	2653	8361	535	0
-Banohi	2572	8161	718	0
+Banohi	2572	8161	718	0	Rāmgarh
 Bankatia	2662	8366	535	0
 Banchara	2668	8364	560	0
 Bandhwa	2567	8161	607	0
@@ -3924,7 +3924,7 @@ Dasia Bhānpur	2576	8197	718	0
 Banwārpur	2576	8197	718	0
 Bhānpur	2577	8197	718	0
 Bānsi	2580	8197	718	0
-Banbīr Kāchh	2590	8193	718	0
+Banbīr Kāchh	2590	8193	718	0	Nekuha
 Banbīr Kāchh	2589	8192	718	0
 Chak Bantor	2592	8196	718	0
 Subhāshnagar Banda	2596	8195	718	0
@@ -4639,7 +4639,7 @@ Banauli	2417	7987	532	0
 Bhanaurā	2361	8363	341	0
 Bhanwarmāl	2375	8372	341	0
 Banaur	2363	8368	341	0
-Banaurā	2359	8371	341	0
+Banaurā	2359	8371	341	0	Mahārājganj
 Banskepī	2351	8374	341	0
 Bhānpura	2375	7606	347	0
 Banjāron ka Khera	2386	7621	347	0
@@ -4659,7 +4659,7 @@ Bandigadda	1767	8199	268	0
 Banjārī	2373	8382	743	0
 Banrasiā	2369	8378	743	0
 Bānrī Khajurī	2364	8381	743	0
-Banskepī	2354	8400	341	0
+Banskepī	2354	8400	341	0	Gadāmī
 Bansipura	2915	7775	700	0
 Banān	2908	7783	700	0
 Bandapalle	1745	8182	268	0
@@ -4891,7 +4891,7 @@ Bandavalasa	1817	8291	268	0
 Bandamamidi	1762	8214	268	0
 Jagannātharao Banjar	1722	8054	46	0
 Bandavīdi	1798	8244	268	0
-Bandāpalle	1758	8227	268	0
+Bandāpalle	1758	8227	268	0	Bardāmpalle
 Kotta Bangāranipeta	1768	8237	268	0
 Bangārampeta	1769	8235	268	0
 Bangāripeta	1736	8235	269	0
@@ -5061,7 +5061,7 @@ Bangāravalasa	1865	8357	179	0
 Bānām	1831	8375	472	0
 Bantupalle	1819	8366	472	0
 Bandipālem	1818	8370	472	0
-Bansadhāra	1897	8383	252	0
+Bansadhāra	1897	8383	252	0	Khandava
 Bandi	1878	8382	199	0
 Banjargūda	1894	8387	252	0
 Bankigūdem	1877	8399	472	0
@@ -5172,7 +5172,7 @@ Bangarh	2925	7910	641	0
 Bannā Khera	2925	7916	641	0
 Bāns Khera	2916	7923	641	0
 Bannā Khera	2918	7921	641	0
-Bāns Kherī	2914	7922	641	0
+Bāns Kherī	2914	7922	641	0	Badalpurī
 Bansi Dehri	2528	8464	377	0
 Banauli	2535	8462	377	0
 Bankat	2543	8462	377	0
@@ -5243,7 +5243,7 @@ Bhandānia	2238	7489	130	0
 Bāndānia	2233	7499	130	0
 Bānseli	2652	7454	446	0
 Bānser	2663	7464	430	0
-Bansed	2663	7464	430	0
+Bansed	2663	7464	430	0	Bānser
 Banwāl	2661	7466	430	0
 Bānjbāri	2950	7958	551	0
 Chhota Bānj	2950	7958	551	0
@@ -5420,7 +5420,7 @@ Kiritpur Tola Mathiā Bandobasti	2659	8464	396	0
 Bhānja Chhapra	2662	8463	396	0
 Bhānja Chhapra	2662	8464	396	0
 Bankat	2666	8459	396	0
-Bandarhelwa	2668	8464	396	0
+Bandarhelwa	2668	8464	396	0	Panditpur
 Banarsi Rāi	2671	8467	476	0
 Bānra Harpur	2660	8474	396	0
 Banauta	2413	7433	633	0
@@ -6217,7 +6217,7 @@ Bandotola	2552	8519	604	0
 Bāngāli Diāra	2564	8516	540	0
 Bānwak	2542	8508	604	0
 Banra Chak	2539	8505	604	0
-Bandhu Chak	2525	8505	527	0
+Bandhu Chak	2525	8505	527	0	Chandu Chak
 Banchhilli	2526	8516	527	0
 Banwāra	2535	8521	514	0
 Rāmnagar Bansi	2564	8757	625	0
@@ -6231,7 +6231,7 @@ Bangālia	2514	8750	461	0
 Chhota Bangaon	2507	8759	461	0
 Bara Bangaon	2508	8758	461	0
 Bānskola	2521	8763	461	0
-Bandarkola	2505	8763	461	0
+Bandarkola	2505	8763	461	0	Binderi
 Bandarkolāpahār	2504	8764	461	0
 Bānskola	2523	8773	461	0
 Bānsbāri	2590	8776	613	0
@@ -6849,8 +6849,8 @@ Bankīr	2302	8462	321	0
 Bangru	2303	8461	321	0
 Bhandariā	2311	8465	321	0
 Bānretoli	2318	8463	321	0
-Bānstoli	2317	8473	321	0
-Bantoli	2308	8472	321	0
+Bānstoli	2317	8473	321	0	Dānrtoli
+Bantoli	2308	8472	321	0	Sosobirātoli
 Bandhutoli	2302	8469	321	0
 Bālu Bhāng	2399	8476	707	0
 Bhandārtoli	2390	8478	707	0
@@ -7076,7 +7076,7 @@ Bankāti	2189	8578	293	0
 Banmālipur	2179	8583	293	0
 Bāngiriposi	2190	8588	382	0
 Bhanjbera	2198	8587	750	0
-Bhānjkia	2198	8596	382	0
+Bhānjkia	2198	8596	382	0	Bhunjākia
 Bhandāriposi	2160	8579	293	0
 Bhandāribil	2165	8593	293	0
 Bandānpasi	2072	8504	414	0
@@ -7113,7 +7113,7 @@ Bhanwar Kol	2483	8594	107	0
 Bandarchrkwa	2448	8580	473	0
 Bandiātoli	2469	8582	473	0
 Bangā Khwar	2454	8579	473	0
-Bangā Khalār	2454	8579	473	0
+Bangā Khalār	2454	8579	473	0	Bangā Khwar
 Banumurha	2453	8585	473	0
 Bandpok	2446	8576	473	0
 Bangargi	2440	8595	452	0
@@ -7269,7 +7269,7 @@ Bānsi	2829	7775	637	0
 Banjārān	2716	7953	570	0
 Bandrāha	2681	7985	671	0
 Bandlagūda	1732	7847	408	0
-Bannāhi	2768	7947	470	0
+Bannāhi	2768	7947	470	0	Nayāgaon
 Banki	2694	8118	30	0
 Ban	3373	7433	1	0
 Bankata	2707	8300	292	0

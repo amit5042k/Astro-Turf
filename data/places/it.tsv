@@ -5,11 +5,11 @@ Ordnance Factory Itarsi	2257	7787	590	7878
 Itaunja	2708	8090	714	6726
 Itahāri	2607	8667	426	3687
 Itwāri Bāzār	2116	7912	141	0
-Itwāri	2116	7912	141	0
+Itwāri	2116	7912	141	0	Itwāri Bāzār
 Itwa	2733	8269	292	0
 Itkūr	1856	7591	48	0
 Itkhori	2429	8516	393	0
-Itkhari	2429	8516	393	0
+Itkhari	2429	8516	393	0	Itkhori
 Itinda	2268	8892	450	0
 Itiki	1495	7609	366	0
 Itiathok	2730	8203	542	0
@@ -28,11 +28,11 @@ Itehār	2656	7867	334	0
 ITC	1319	7764	43	0
 Itaiya	2408	7814	352	0
 Itgawān	2684	7903	290	0
-Itgaon	2684	7903	290	0
+Itgaon	2684	7903	290	0	Itgawān
 Bachhpura Itawan	2678	7905	290	0
 Santokhpur Itgawān	2682	7904	290	0
 Itaili	2631	7906	334	0
-Itāi	2631	7906	334	0
+Itāi	2631	7906	334	0	Itaili
 Itāha Kālpi	2638	7943	741	0
 Itwān Kanār	2628	7933	741	0
 Itāhiya	2619	7944	741	0
@@ -42,7 +42,7 @@ Itaill	2666	7990	671	0
 Itnal	1607	7508	77	0
 Itga	1496	7572	606	0
 Itāriya	2158	7612	209	0
-Itaria	2158	7612	209	0
+Itaria	2158	7612	209	0	Itāriya
 Itakhola	2597	9291	706	0
 Itwaheeralal	2403	7957	521	0
 Itama Kothar	2439	8089	324	0
@@ -144,7 +144,7 @@ Itāwa Khurd	2280	7704	675	0
 Itāwa Kalān	2264	7714	675	0
 Itārsi	2264	7714	675	0
 Itahra	2569	8303	32	0
-Itwa	2564	8316	26	0
+Itwa	2564	8316	26	0	Rāmpur Harbans
 Itaili	2568	8310	498	0
 Itwa	2541	8300	251	0
 Itāli	2683	7864	546	0
@@ -171,7 +171,7 @@ Itoli	2006	7775	67	0
 Ītpur	2152	7962	404	0
 Itawān	2497	8372	749	0
 Itgabiyān	2494	8360	749	0
-Itaura	2595	7893	334	0
+Itaura	2595	7893	334	0	Sirsa Malkhān
 Ītgaon	2083	7964	404	0
 Ītgaon	2099	7965	404	0
 Itaura	2551	7881	433	0

@@ -2,20 +2,20 @@ Sūjāngarh	2770	7447	539	183808
 Shujālpur	2341	7671	320	51225
 Sujānpur	3232	7561	692	28270
 Tīra Sujānpur	3183	7651	281	7943
-Sujānpur	3183	7651	281	7943
-Sujanpur Tira	3183	7651	281	7943
+Sujānpur	3183	7651	281	7943	Tīra Sujānpur
+Sujanpur Tira	3183	7651	281	7943	Tīra Sujānpur
 Sujnipur	2389	7211	240	0
 Sūjio	2710	7142	217	0
 Sujauli	2822	8115	294	0
 Sujānpura	2451	7571	580	0
 Sujānganj	2578	8229	32	0
-Sūjūwāli	3270	7492	581	0
+Sūjūwāli	3270	7492	581	0	Sūnjūwān
 Sujānpura	2572	7556	313	0
 Bīr Sūjra	3010	7695	501	0
 Sūjri	3009	7694	501	0
 Sūjra	3009	7696	501	0
 Sūjānpura	2469	7878	481	0
-Sujānpur	2709	7943	464	0
+Sujānpur	2709	7943	464	0	Chaturīpur
 Sujāwalpur	2773	7967	470	0
 Sujān Purwa	2679	7963	715	0
 Sujānpur	2666	7984	671	0
@@ -38,7 +38,7 @@ Sujra	2902	7727	477	0
 Sūjti	2923	7733	477	0
 Sujwāra	2292	7890	522	0
 Sujātpur	2115	7817	143	0
-Sujan Khera	2977	7457	585	0
+Sujan Khera	2977	7457	585	0	Bhāru Khera
 Sujāpur	3076	7557	674	0
 Shujāatwāla	3098	7588	674	0
 Sujānpur	2875	7760	727	0
@@ -143,13 +143,13 @@ Sujaula	2538	8216	607	0
 Katra Sujānganj	2525	8223	583	0
 Pūre Sūjān	2553	8299	251	0
 Shujātpur	2924	7805	700	0
-Shujātpur	2911	7811	575	0
+Shujātpur	2911	7811	575	0	Khaddan
 Suja Mājra Tānda	2962	7847	575	0
 Sujāwalpur	2782	8109	323	0
 Shujāātpur	2745	8121	507	0
 Shujāatpur	2763	8162	294	0
 Sujān Dīh	2766	8188	618	0
-Sujātpur Tīkar	2919	7837	575	0
+Sujātpur Tīkar	2919	7837	575	0	Kīkar
 Sujāra	2658	8134	30	0
 Sujāwal	2476	8094	324	0
 Sujāwal	2479	8093	324	0
@@ -239,7 +239,7 @@ Taria Sujan	2665	8428	560	0
 Sujālpur Pāda	2148	7437	186	0
 Sujahirpur	2654	8466	396	0
 Suja ki Dhāni	2700	7599	121	0
-Shujāatganj	2881	7931	552	0
+Shujāatganj	2881	7931	552	0	Khaira
 Sūjiā	2894	7995	641	0
 Sujaula	2520	8489	527	0
 Sujanpur	2489	8415	409	0

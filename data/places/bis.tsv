@@ -6,55 +6,55 @@ Bisauli	2831	7894	117	32154
 Bissāu	2825	7508	300	23227
 Bisālgarh	2368	9128	574	21085
 Biswanath Chariali	2673	9315	302	19145
-Bishnāth	2673	9315	302	19145
+Bishnāth	2673	9315	302	19145	Biswanath Chariali
 Bisokhar	2885	7758	727	14332
 Bishnupur	2463	9376	505	12167
 Bishnāh	3261	7486	581	11645
-Bishna	3261	7486	581	11645
+Bishna	3261	7486	581	11645	Bishnāh
 Bishrampur	2319	8300	413	11367
 Bisenda Buzurg	2540	8062	463	11100
-Bisenda	2540	8062	463	11100
-Bisanda	2540	8062	463	11100
+Bisenda	2540	8062	463	11100	Bisenda Buzurg
+Bisanda	2540	8062	463	11100	Bisenda Buzurg
 Bishunpur Hakīmābād	2585	8584	138	9653
 Bissamcuttack	1951	8351	363	8399
-Bishamakatak	1951	8351	363	8399
+Bishamakatak	1951	8351	363	8399	Bissamcuttack
 Bishunpur Urf Mahārājganj	2626	8312	498	7499
 Bhisiyāna	3028	7477	563	4890
 Bishungarh	2402	8576	764	4847
-Bishnugarh	2402	8576	764	4847
+Bishnugarh	2402	8576	764	4847	Bishungarh
 Bisambharpur	2333	8341	341	4838
 Jītpur Bīsa	2914	7951	551	0
-Biswās	2596	7299	344	0
+Biswās	2596	7299	344	0	Bināvās
 Bīsu Kalān	2627	7132	285	0
-Bisu	2627	7132	285	0
+Bisu	2627	7132	285	0	Bīsu Kalān
 Bistaun	3317	7628	34	0
 Bistān	2170	7567	329	0
 Bisrāsar	2887	7427	486	0
 Bisrāmpuri	2008	8177	659	0
-Bisrāmpur	2008	8177	659	0
+Bisrāmpur	2008	8177	659	0	Bisrāmpuri
 Bisrāmpur	2175	8178	379	0
 Bisra	2227	8498	272	0
 Bisra	2225	8500	272	0
 Bisora	2098	8262	594	0
 Biskohar	2738	8256	292	0
 Bisipāra	2042	8421	387	0
-Bisipada	2042	8421	387	0
+Bisipada	2042	8421	387	0	Bisipāra
 Bishwarpur	2500	9245	163	0
 Bishunpur Sundar	2606	8698	657	0
 Bishunpurā	2679	8417	560	0
 Bishunpura	2602	8480	540	0
 Bishunpur	2337	8438	321	0
-Bishanpur	2337	8438	321	0
+Bishanpur	2337	8438	321	0	Bishunpur
 Bishnupur	2238	8827	4	0
 Bishnāth	2667	9316	302	0
 Bishenpur	2463	9376	505	0
 Bishanwāra	2501	7711	336	0
 Bishankhera	2302	7757	338	0
 Bishungarh	2711	7942	570	0
-Bishangarh	2711	7942	570	0
+Bishangarh	2711	7942	570	0	Bishungarh
 Bishamagiri	1938	8447	440	0
 Bisāwar	2739	7792	670	0
-Biswar	2739	7792	670	0
+Biswar	2739	7792	670	0	Bisāwar
 Bīsalpur	2623	7331	344	0
 Bīsalpur	2511	7317	273	0
 Bisāla	2591	7124	285	0
@@ -76,7 +76,7 @@ Bisangarh	2978	7717	449	0
 Bisanpura	2576	7559	313	0
 Bistāna	2987	7860	612	0
 Bishangarh	2844	7525	300	0
-Bishangrah	2844	7525	300	0
+Bishangrah	2844	7525	300	0	Bishangarh
 Bisanpura	2840	7562	300	0
 Bishannagar Kotla	3013	7652	564	0
 Bishangarh	3022	7670	691	0
@@ -87,12 +87,12 @@ Bisauli	2757	7972	686	0
 Bisun Purwa	2712	7975	570	0
 Bisandhua	2702	7983	570	0
 Bishnupur Lohri	2687	7908	290	0
-Bishanpur Lohrai	2687	7908	290	0
+Bishanpur Lohrai	2687	7908	290	0	Bishnupur Lohri
 Mānakpur Bisu	2675	7904	290	0
-Mānikpur Bisu	2675	7904	290	0
+Mānikpur Bisu	2675	7904	290	0	Mānakpur Bisu
 Biswari	2632	7911	334	0
 Bisnahāla	2693	7572	121	0
-Bisanhāla	2693	7572	121	0
+Bisanhāla	2693	7572	121	0	Bisnahāla
 Bisnāpur	2694	7968	570	0
 Purwa Bisauna	2687	7956	570	0
 Bhisan Purwa	2678	7963	715	0
@@ -113,7 +113,7 @@ Bishanpur	2806	7664	519	0
 Biswār Akbarpur	2830	7695	544	0
 Rupāna Bishnoiyān	2937	7524	585	0
 Bishnaiyān ki Dhāni	2933	7548	339	0
-Bishanpura	2975	7596	593	0
+Bishanpura	2975	7596	593	0	Khokhar
 Bishangarh	2999	7683	501	0
 Bishal	3146	7734	680	0
 Bishlāni	3145	7745	680	0
@@ -498,7 +498,7 @@ Bairi Bishunpur	2739	8160	294	0
 Bishunpnr	2729	8167	294	0
 Pura Bisrām Ahīr	2736	8162	294	0
 Bisnāthpur	2597	8393	536	0
-Bishanpura	2589	8399	536	0
+Bishanpura	2589	8399	536	0	Shankarpur
 Bishunpur	2747	8164	294	0
 Bishnāpur	2748	8164	294	0
 Pura Bisheshar Nath	2738	8162	294	0
@@ -525,7 +525,7 @@ Bishen Khera	2664	8115	714	0
 Bishanpur	2663	8123	30	0
 Bisrām Khera	2672	8100	714	0
 Bishan Purwa	2683	8140	30	0
-Bishanpura	2914	7849	575	0
+Bishanpura	2914	7849	575	0	Bidra
 Bisaini Khera	2664	8128	30	0
 Purwa Biseri	2657	8130	30	0
 Purwa Bisrām Dūbe	2674	8142	30	0
@@ -569,7 +569,7 @@ Bishan Purwa	2717	8166	542	0
 Purwa Bishan	2715	8166	542	0
 Bishanpur	2715	8174	542	0
 Bishan Misr	2710	8171	542	0
-Bishanpur	2864	7842	646	0
+Bishanpur	2864	7842	646	0	Muazzampur
 Bisheshar Purwa	2742	8180	294	0
 Bisai Dīha	2733	8184	294	0
 Bishnāpur	2741	8195	542	0
@@ -600,18 +600,18 @@ Bishambarpur	2614	8179	662	0
 Bishnu Purwa	2605	8199	718	0
 Pura Biseshar	2624	8195	597	0
 Bisauli	2864	7891	552	0
-Mazra Bīsra	2870	7898	552	0
+Mazra Bīsra	2870	7898	552	0	Dalpura
 Bīsra	2871	7898	552	0
 Bīsri	2871	7899	552	0
 Bishnāpur Pandaulia	2773	8204	618	0
 Bishnāpur	2782	8203	618	0
 Bishunpur Panch Perwa	2765	8200	618	0
-Bishunpur Rāmnagar	2765	8200	618	0
+Bishunpur Rāmnagar	2765	8200	618	0	Bishunpur Panch Perwa
 Bishunpur	2761	8210	280	0
 Bhūr Bisauli	2846	7889	117	0
 Bishunpur	2765	8215	280	0
 Lālpur Bishunpur	2765	8213	280	0
-Bishunpur	2770	8221	280	0
+Bishunpur	2770	8221	280	0	Barhaipurwa
 Bisrām Jot	2748	8211	280	0
 Bisrāmpur	2749	8213	280	0
 Bisrāmpur	2734	8213	542	0
@@ -619,7 +619,7 @@ Bishnāpur	2742	8216	280	0
 Bishunpur Tiwāri	2731	8208	542	0
 Pura Bisahwa	2733	8215	542	0
 Bishunpur Sangam	2730	8210	542	0
-Bishunpur Rāja	2729	8209	542	0
+Bishunpur Rāja	2729	8209	542	0	Madhai Jot
 Bisuhūpur	2727	8216	542	0
 Bishnīpur	2742	8216	280	0
 Bishnāpur	2737	8222	280	0
@@ -628,7 +628,7 @@ Biswa	2715	8204	542	0
 Biswān Ganesh	2716	8203	542	0
 Bishunpur Bairia	2716	8205	542	0
 Bishnāga	2709	8204	542	0
-Birpur Bisen	2705	8205	542	0
+Birpur Bisen	2705	8205	542	0	Bīrpura
 Bishambharpur	2724	8211	542	0
 Bisahupur	2713	8213	542	0
 Pura Bishun	2709	8211	542	0
@@ -776,7 +776,7 @@ Bisaipur	2617	8293	498	0
 Belwa Bishunpur	2611	8296	498	0
 Dharnipur Bisrāin	2608	8292	498	0
 Bishunpur	2607	8299	498	0
-Bishunpur	2612	8300	498	0
+Bishunpur	2612	8300	498	0	Pura Upadhia
 Bishunpura	2615	8299	498	0
 Bisekha	2609	8275	498	0
 Bishunpur	2625	8278	553	0
@@ -809,7 +809,7 @@ Pakri Bishunpur	2704	8364	515	0
 Bishunpur	2707	8365	515	0
 Bishunpur Bharehar	2713	8365	515	0
 Bishunāthpur	2715	8365	515	0
-Bishunpur Ghāt	2710	8369	515	0
+Bishunpur Ghāt	2710	8369	515	0	Madra
 Bishunpura	2715	8371	515	0
 Bishunpurwa	2724	8372	515	0
 Bishnāthpur	2700	8374	515	0
@@ -885,7 +885,7 @@ Bhiswa Balbaria	2682	8369	560	0
 Bishanpura	2683	8371	560	0
 Ghurtap Bhiswa	2676	8369	560	0
 Bishanpura	2676	8371	560	0
-Bhiswa	2697	8372	515	0
+Bhiswa	2697	8372	515	0	Kotia
 Bishnāthpur	2662	8354	325	0
 Bishunpur Matiāra	2655	8350	325	0
 Bhiswa	2663	8357	325	0
@@ -900,7 +900,7 @@ Bhiswa Pānde	2662	8367	535	0
 Bisahia	2566	8157	718	0
 Bishun Purwa	2667	8365	535	0
 Bisahia	2567	8158	718	0
-Bishunpur	2674	8366	560	0
+Bishunpur	2674	8366	560	0	Thunthi
 Bhiswa Nāth Bālgīr	2671	8369	560	0
 Bishunpura	2665	8367	535	0
 Dammar Bhiswa	2662	8368	535	0
@@ -970,8 +970,8 @@ Bistwāhi	2210	8072	144	0
 Bisātolā	2298	8079	468	0
 Bisbanpura	3114	7497	565	0
 Bhīsā Tolā	2179	8014	144	0
-Bisrāmpur	2193	8019	144	0
-Bishanpura	2927	7633	367	0
+Bisrāmpur	2193	8019	144	0	Sonpurī
+Bishanpura	2927	7633	367	0	Gharonda
 Bhīstolā	2132	8009	171	0
 Bishanpur	3140	7541	565	0
 Bisopur	3189	7556	296	0
@@ -1134,7 +1134,7 @@ Biswāni	2214	7417	155	0
 Bisoli	2286	7466	348	0
 Bishne	2949	7946	551	0
 Bisoda Sār	2943	7949	551	0
-Bisauta	2916	7935	641	0
+Bisauta	2916	7935	641	0	Dhāpla Khatta
 Bishunpur	2518	8456	766	0
 Bishunpur	2506	8451	137	0
 Bishunpura	2508	8460	137	0
@@ -1193,7 +1193,7 @@ Biswar	2621	8412	639	0
 Bishunpurwā	2699	8438	476	0
 Bisrāmpur	2691	8436	476	0
 Tola Bishunpur	2682	8448	476	0
-Bishunpur Tuniā	2682	8448	476	0
+Bishunpur Tuniā	2682	8448	476	0	Tola Bishunpur
 Gurwaliā Biswās Bandobasti	2683	8449	476	0
 Gurwaliā Biswās	2684	8447	476	0
 Biswās	2687	8447	476	0
@@ -1255,7 +1255,7 @@ Bishun Singh	2609	8483	540	0
 Bishunpur Patti	2624	8495	395	0
 Bishunpur Jainārāyan	2608	8500	395	0
 Bishunpur Patti	2625	8498	395	0
-Bishunpur	2625	8498	395	0
+Bishunpur	2625	8498	395	0	Bishunpur Patti
 Tānda Eight Biswa	2870	7952	342	0
 Tānda Two Biswa	2869	7952	342	0
 Mundia Bishan Sahāi	2857	7954	342	0
@@ -1422,7 +1422,7 @@ Bisnāpur	2427	8517	393	0
 Bishunpur	2434	8519	764	0
 Bisiāit	2475	8531	107	0
 Bisaili	2470	8539	107	0
-Bishunpur	2429	8547	764	0
+Bishunpur	2429	8547	764	0	Dhuārgargi
 Bistuvalli	1446	7630	275	0
 Bishunpur	2497	8560	107	0
 Bishunpur	2476	8568	107	0
@@ -1430,7 +1430,7 @@ Bishunpur	2489	8573	107	0
 Bishunpur	2499	8568	107	0
 Bisodih	2439	8552	473	0
 Bisodih	2437	8555	473	0
-Bishunpur	2447	8565	473	0
+Bishunpur	2447	8565	473	0	Gendwādih
 Bisaharātola	2634	8614	556	0
 Bharia Bishunpur	2637	8614	556	0
 Bishunpur	2619	8611	591	0
@@ -1573,7 +1573,7 @@ Bishunpur Anant	2598	8510	395	0
 Bishunpur Sultānganj	2596	8500	540	0
 Bishunpur	2590	8505	540	0
 Bisāhi	2587	8505	540	0
-Bishunpur Gamhir	2587	8515	716	0
+Bishunpur Gamhir	2587	8515	716	0	Jalālpur
 Bishunpur	2577	8507	540	0
 Bishunpur Paltu	2594	8518	716	0
 Bishunpur Bāsdeo	2592	8524	716	0
@@ -1648,7 +1648,7 @@ Bishunpur	2524	8546	514	0
 Bishambar Bigha	2522	8546	514	0
 Bishunpur Murār	2597	8558	395	0
 Bishunpur Katesar	2590	8553	716	0
-Bishunpur Kuāhl	2587	8553	716	0
+Bishunpur Kuāhl	2587	8553	716	0	Bahlampur
 Bishunpur Gobind	2579	8551	716	0
 Bishunpura	2577	8550	716	0
 Bishunpur Kaiju	2585	8560	716	0
@@ -1730,7 +1730,7 @@ Bisraitoli	2278	8443	495	0
 Bishnupur	2265	8430	495	0
 Bisutoli	2250	8463	495	0
 Bishālburi	2197	8406	272	0
-Bisudihi	2177	8405	627	0
+Bisudihi	2177	8405	627	0	Derba
 Bisipāli	2155	8402	567	0
 Bishālkhinda	2155	8408	567	0
 Bistampāda	2266	8553	287	0

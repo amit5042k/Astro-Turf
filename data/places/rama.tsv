@@ -1,8 +1,8 @@
-Ramagundam	1880	7945	748	452261
+Ramagundam	1880	7945	748	452261	Rāmgundam
 Ramagundam	1876	7947	748	242979
-Rāmanagaram	1272	7728	626	95167
+Rāmanagaram	1272	7728	626	95167	Closepet
 Ramanathapuram	937	7883	5	65314
-Ramanthapuram	937	7883	5	65314
+Ramanthapuram	937	7883	5	65314	Ramanathapuram
 Ramapuram	1303	8018	228	52295
 Rāmachandrapuram	1684	8203	304	43657
 Ramanattukara	1118	7587	262	35937
@@ -10,10 +10,10 @@ Rāmāpuram	1310	7918	214	31169
 Ramanayyapeta	1695	8224	269	28369
 Rāman	2995	7498	563	22553
 Rāmavarappādu	1652	8068	104	22222
-Sri Rama Nagar	1727	7826	62	19550
+Sri Rama Nagar	1727	7826	62	19550	Srīrāmnagar
 Rāmachettipālaiyam	1096	7692	156	17809
 Rāmachandrapuran	1751	7829	31	15381
-Ramachandrapuram BHEL Township	1751	7829	31	15381
+Ramachandrapuram BHEL Township	1751	7829	31	15381	Rāmachandrapuran
 Rāmānuj Ganj	2381	8370	341	11893
 Rāmanapeta	1729	7909	129	10202
 Rāmamangalam	993	7650	176	9999
@@ -23,11 +23,11 @@ Rāmagiri Udayagiri	1916	8414	252	4851
 Rāmalingapuram	940	7758	119	4505
 Ramanathbati	2265	8811	354	1686
 Por-Ramangamdi	2213	7318	159	311
-Rāmasāgaram	1419	7978	6	0
+Rāmasāgaram	1419	7978	6	0	Turpupūndla
 Thuamai Rāmapur	1954	8293	284	0
 Rāmandrug	1513	7646	44	0
 Rāmāyapatnām	1505	8004	6	0
-Ramapatnam	1505	8004	6	0
+Ramapatnam	1505	8004	6	0	Rāmāyapatnām
 Rāmāyampet	1812	7844	400	0
 Rāmavaram	1768	8196	268	0
 Rāmaswāmipatti	939	7827	5	0
@@ -36,16 +36,16 @@ Rāmāsāgar	1790	7862	466	0
 Ramās	2323	7313	125	0
 Rāmāpuram	1352	8009	277	0
 Rāmāpuram	1200	7740	69	0
-Rāmapur	2178	8394	627	0
+Rāmapur	2178	8394	627	0	Rāmpur
 Rāmānujnagar	2315	8272	413	0
 Rāmantali	1205	7519	266	0
 Rāmannaguda	1921	8367	363	0
 Rāmankari	943	7647	243	0
 Rāmanguli	1480	7458	59	0
 Rāmanjeri	1320	7979	228	0
-Rāmancheri	1320	7979	228	0
+Rāmancheri	1320	7979	228	0	Rāmanjeri
 Ramanāthpura	1261	7609	679	0
-Ramanathapura	1261	7609	679	0
+Ramanathapura	1261	7609	679	0	Ramanāthpura
 Rāmanakkapeta	1689	8087	24	0
 Rāmallakota	1557	7800	236	0
 Rāmakuppam	1290	7849	214	0
@@ -60,7 +60,7 @@ Rāma	2655	7104	217	0
 Rāma	2566	7284	343	0
 Rāma	2473	7369	22	0
 Rāma	2276	7471	348	0
-Ramankallur	1610	7668	50	0
+Ramankallur	1610	7668	50	0	Pāmankallūr
 Rāmapur	2230	8895	450	0
 Chhauni Rama	3270	7489	581	0
 Rāmannaguda	1734	7811	62	0
@@ -77,7 +77,7 @@ Salempur Ramai	2707	7993	570	0
 Ramait	2688	7902	290	0
 Rāmāin	2678	7924	290	0
 Parauri Rāmāin	2696	7915	290	0
-Parauli Ramāin	2696	7915	290	0
+Parauli Ramāin	2696	7915	290	0	Parauri Rāmāin
 Bhojpur Rāmāin	2692	7916	290	0
 Ramānīpur	2636	7931	741	0
 Ramanathichan Puthur	817	7753	453	0
@@ -85,7 +85,7 @@ Rama	3214	7821	779	0
 Rāmareddi	1841	7831	58	0
 Rāmagiri	1340	7977	45	0
 Ramallūr	1008	7662	176	0
-Ramapur	2118	7705	172	0
+Ramapur	2118	7705	172	0	Dhārrur
 Ramakkalmedu	980	7724	277	0
 Ramapuram	980	7666	271	0
 Ramakrishnapur	1948	8462	440	0
@@ -112,7 +112,7 @@ Ramāna	3040	7502	730	0
 Rāmanwās	3017	7522	563	0
 Rāmah	3061	7538	499	0
 Rāmākrishnāpuram	2856	7718	721	0
-Rāmmāliān	2610	7483	446	0
+Rāmmāliān	2610	7483	446	0	Richmāliān
 Rāmaduda ka Bāria	2590	7411	273	0
 Rāmān	2907	7588	339	0
 Ramannapet	1907	7992	135	0
@@ -251,7 +251,7 @@ Ramanhalli	1707	7616	80	0
 Rāmāpuram	1967	7863	282	0
 Rāmāi	1966	7864	282	0
 Rāmaīhär	2725	7904	464	0
-Ramaihaer	2725	7904	464	0
+Ramaihaer	2725	7904	464	0	Rāmaīhär
 Nagla Rāman	2717	7902	464	0
 Rāmareddigudem	1915	7897	91	0
 Ramaiyāpur	2535	8088	643	0
@@ -638,7 +638,7 @@ Rāmabhadrapuram Agrahāram	1803	8322	179	0
 Rāmabhadrapuram	1814	8323	179	0
 Rāmanāyuduvalasa	1877	8347	199	0
 Rāmabhadrapuram	1894	8345	199	0
-Rāmannapeta	1865	8328	199	0
+Rāmannapeta	1865	8328	199	0	Melapuvalasa
 Rāmannadoravalasa	1857	8333	179	0
 Ramanna Agrahāram	1852	8348	179	0
 Rāmayyapeta	1863	8343	199	0
@@ -656,11 +656,11 @@ Rāmabhadrapuram	1884	8360	199	0
 Rāmavaram	1781	8100	60	0
 Rāmachandrāpuram	1776	8100	60	0
 Rāmabhadrarājupeta	1866	8369	199	0
-Rāmalakshmanāpuram	1828	8359	179	0
+Rāmalakshmanāpuram	1828	8359	179	0	Ārdevalasa
 Rāmalingāpuram	1831	8361	179	0
 Rāmachandrāpuram Agrahāram	1836	8368	472	0
 Rāmānujulupeta	1843	8367	179	0
-Rāmachandrāpuram	1849	8355	179	0
+Rāmachandrāpuram	1849	8355	179	0	Sītārāmpuram
 Rāmagopālapuram	1768	8101	46	0
 Rāmachandrapeta	1801	8355	179	0
 Rāmachandrapuram	1812	8371	472	0
@@ -823,7 +823,7 @@ Ramauli	2611	8617	591	0
 Sannada Rāmanahalli	1321	7603	679	0
 Rāmadihalli	1316	7619	679	0
 Rāmagatte	1350	7643	93	0
-Rāmagatti	1350	7643	93	0
+Rāmagatti	1350	7643	93	0	Rāmagatte
 Rāmalinganapālya	1351	7646	93	0
 Rāmanahalli	1339	7634	679	0
 Rāmagaudanakoppal	1344	7635	679	0
@@ -1149,7 +1149,7 @@ Rāmanāthapuram	1060	7692	156	0
 Rāmanamudalipudūr	1056	7697	156	0
 Rāmanāthapuram	1122	7719	235	0
 Rāmāchchiyampālaiyam	1108	7718	156	0
-Rāmanāthapuram	1103	7710	156	0
+Rāmanāthapuram	1103	7710	156	0	Rāvattūr
 Rāmanāthapuram	1100	7700	156	0
 Rāmanāyakkanpudūr	1135	7742	211	0
 Rāmanāthapālaiyam	1125	7737	235	0
@@ -1263,13 +1263,13 @@ Rāmachandrāpuram	1030	7893	198	0
 Rāmachandramahārājapuram	1017	7882	198	0
 Rāmanāthapuram	991	7820	274	0
 Rāmankulam	983	7813	274	0
-Rāmalingapuram	948	7801	119	0
+Rāmalingapuram	948	7801	119	0	Malaipatti
 Rāmārājapuram	956	7809	119	0
 Rāmalingapuram	952	7802	119	0
 Rāmaswāmipuram	949	7810	119	0
 Rāmaswāmipatti	949	7820	119	0
 Rāmanāyakkanpatti	944	7810	119	0
-Rāmalingapuram	944	7808	119	0
+Rāmalingapuram	944	7808	119	0	Gangureddipatti
 Rāmachandrapuram	938	7814	119	0
 Rāmaswāmipuram	939	7805	119	0
 Rāmalingapuram	932	7818	208	0
@@ -1317,7 +1317,7 @@ Rāmapākkam	1184	7961	202	0
 Rāmanāthapuram	1195	7972	277	0
 Ramareddikulam	1187	7966	259	0
 Rāmanāthapuram	1146	7968	178	0
-Rāmanāthapuram	987	7747	194	0
+Rāmanāthapuram	987	7747	194	0	Karupputtevanpatti
 Rāmanādhapuram	928	7743	245	0
 Rāmachandrapuram	926	7749	245	0
 Rāmalingapuram	918	7740	245	0

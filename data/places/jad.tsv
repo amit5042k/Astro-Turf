@@ -8,17 +8,17 @@ Jadīya	2460	7203	134	0
 Jādra	2824	7654	519	0
 Jādla	3108	7622	295	0
 Jadkal	1380	7480	257	0
-Jadakal	1380	7480	257	0
+Jadakal	1380	7480	257	0	Jadkal
 Jadho	1783	7453	64	0
 Jadhāla	1865	7680	158	0
 Jadgenhalli	1305	7785	389	0
-Jadigenahalli	1305	7785	389	0
-Jadigenahally	1305	7785	389	0
+Jadigenahalli	1305	7785	389	0	Jadgenhalli
+Jadigenahally	1305	7785	389	0	Jadgenhalli
 Jade	1458	7505	346	0
 Jaddangi	1748	8216	268	0
 Jādan	2584	7349	273	0
 Jadavpur	2249	8838	123	0
-Jādabpur	2249	8838	123	0
+Jādabpur	2249	8838	123	0	Jadavpur
 Jādabpur	2278	8863	450	0
 Zadibal	3411	7481	611	0
 Jad	3289	7461	581	0
@@ -30,7 +30,7 @@ Jadhai	2778	7901	616	0
 Keshopur Jādaunpur	2676	7907	290	0
 Jādaunpur	2677	7907	290	0
 Chak Jādaunpur	2677	7906	290	0
-Ārāzi Jādaunpur	2677	7906	290	0
+Ārāzi Jādaunpur	2677	7906	290	0	Chak Jādaunpur
 Jāde Purwa	2695	7953	570	0
 Sorda Jadīd	2858	7563	431	0
 Jadia	2605	8703	657	0
@@ -54,7 +54,7 @@ Jadaul	3091	7740	534	0
 Jadi	3073	7733	534	0
 Jadhewāla	3017	7748	449	0
 Jādoli ka Bās	2754	7688	482	0
-Jaddūwāla	2937	7816	575	0
+Jaddūwāla	2937	7816	575	0	Aurangpur Hāji
 Shāhpur Jadid	2917	7775	700	0
 Bholewāl Jadīd	3099	7572	674	0
 Muhammadpur Jādon	2826	7764	588	0
@@ -268,7 +268,7 @@ Jadonpur	2810	7942	117	0
 Bakhraur Jaddi	2636	8453	703	0
 Khorīpākār Jāddi	2631	8453	639	0
 Barhoga Jaddu	2629	8460	639	0
-Jaddi	2633	8460	703	0
+Jaddi	2633	8460	703	0	Muhammadpur
 Muhammadpur Jaddi	2632	8459	703	0
 Jādākahu	2186	7497	248	0
 Jādopur	2622	8486	703	0
@@ -354,7 +354,7 @@ Jadayāmpālaiyam	1130	7698	156	0
 Jadupalli	2008	8490	548	0
 Jadubudhutoli	2335	8563	562	0
 Jadnāthpur	2303	8416	321	0
-Jādunāthpur	2303	8416	321	0
+Jādunāthpur	2303	8416	321	0	Jadnāthpur
 Jādi	2307	8435	321	0
 Jadiāng	2379	8463	707	0
 Jaduātoli	2240	8422	495	0

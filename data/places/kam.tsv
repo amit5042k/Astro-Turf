@@ -1,48 +1,48 @@
 Kāmārhāti	2267	8837	450	332965
-Kamarhatty	2267	8837	450	332965
+Kamarhatty	2267	8837	450	332965	Kāmārhāti
 Khammam	1725	8014	46	196283
-Khammamette	1725	8014	46	196283
-Khammamett	1725	8014	46	196283
+Khammamette	1725	8014	46	196283	Khammam
+Khammamett	1725	8014	46	196283	Khammam
 Khambhāt	2232	7262	157	99164
-Kambay	2232	7262	157	99164
-Khambāyat	2232	7262	157	99164
+Kambay	2232	7262	157	99164	Khambhāt
+Khambāyat	2232	7262	157	99164	Khambhāt
 Khāmgaon	2071	7657	49	94604
 Kāmthi	2122	7920	141	86793
-Kamptee	2122	7920	141	86793
-Kāmtha	2122	7920	141	86793
+Kamptee	2122	7920	141	86793	Kāmthi
+Kāmtha	2122	7920	141	86793	Kāmthi
 Kāmāreddi	1832	7834	58	80315
-Kamareddipet	1832	7834	58	80315
-Kambam	974	7728	194	68090
+Kamareddipet	1832	7834	58	80315	Kāmāreddi
+Kambam	974	7728	194	68090	Cumbum
 Kamal Pur Majra Burari	2875	7719	732	43086
 Khambhāliya	2221	6965	131	41734
-Khambhalia	2221	6965	131	41734
-Khambhaliva	2221	6965	131	41734
+Khambhalia	2221	6965	131	41734	Khambhāliya
+Khambhaliva	2221	6965	131	41734	Khambhāliya
 Kampli	1541	7660	366	39307
 Kāman	2766	7727	114	38040
 Kamalāpuram	1530	7648	366	25552
-Kamalapura	1530	7648	366	25552
+Kamalapura	1530	7648	366	25552	Kamalāpuram
 Kamaruddinnagar	2868	7705	771	25126
-Kambhamu	1558	7911	200	22653
+Kambhamu	1558	7911	200	22653	Cumbum
 Kammivapettai	1175	7975	178	18745
 Kāmākhyānagar	2093	8554	289	16810
 Kamalganj	2726	7963	688	16222
 Kāmayakkavundanpatti	974	7732	194	16134
-Kamayagoundanpatti	974	7732	194	16134
+Kamayagoundanpatti	974	7732	194	16134	Kāmayakkavundanpatti
 Kamatgi	1608	7581	90	15620
 Kamuthi	941	7837	5	14754
-Kamudi	941	7837	5	14754
+Kamudi	941	7837	5	14754	Kamuthi
 Kāmalāpuram	1460	7867	229	14677
 Kambainallur	1221	7832	110	12194
 Kamalāpuram	1827	8049	226	11493
 Kamalpur	2420	9183	695	10872
 Kampur Town	2616	9266	656	10371
 Kamalnagar	1823	7718	170	10252
-Kamainagar	1823	7718	170	10252
+Kamainagar	1823	7718	170	10252	Kamalnagar
 Khamānon Kalān	3082	7635	648	10135
-Khamānon	3082	7635	648	10135
+Khamānon	3082	7635	648	10135	Khamānon Kalān
 Kamalabaria N.C.	2677	9419	451	10071
 Khamaria	2321	8003	598	9839
-Ordnance Factory Khamaria	2321	8003	598	9839
+Ordnance Factory Khamaria	2321	8003	598	9839	Khamaria
 Kampil	2761	7928	688	9200
 Than-Khamharia	2180	8134	710	8373
 Khamharia	2098	8225	407	6998
@@ -52,9 +52,9 @@ Bhagwānpur Kamla	2577	8578	138	5895
 Khambra on Nakodar Road	3127	7556	369	5483
 Kamalapur	2267	8814	354	3348
 Kamtuli	2210	9261	244	598
-Kamsali Onipenta	1479	7878	229	0
-Kamār	3368	7408	1	0
-Kambu	1042	7727	235	0
+Kamsali Onipenta	1479	7878	229	0	Vanipenta
+Kamār	3368	7408	1	0	Kumār
+Kambu	1042	7727	235	0	Kombu
 Khamtalai	2141	7993	171	0
 Khamson	2520	9415	112	0
 Kamshet	1877	7355	52	0
@@ -70,7 +70,7 @@ Khāmbhodar	2181	6959	742	0
 Khambha	2114	7126	216	0
 Khambāle	2145	7507	190	0
 Khāmaswāri	1846	7604	48	0
-Khamswadi	1846	7604	48	0
+Khamswadi	1846	7604	48	0	Khāmaswāri
 Khamārpāni	2171	7910	337	0
 Khamaria Pul	2859	7971	683	0
 Khamaria	2397	8013	532	0
@@ -83,11 +83,11 @@ Khamār	2127	8520	414	0
 Khāmalia	2328	7715	675	0
 Khāmal	2592	7345	273	0
 Kamarda	2175	8736	421	0
-Kasba Kamarda	2175	8736	421	0
-Kampa	2068	7960	111	0
+Kasba Kamarda	2175	8736	421	0	Kamarda
+Kampa	2068	7960	111	0	Kānpa
 Kāmvādi	1843	7525	132	0
 Kamthikheri	2147	7917	141	0
-Kamtīkhairi	2147	7917	141	0
+Kamtīkhairi	2147	7917	141	0	Kamthikheri
 Kāmtha	2151	8031	171	0
 Kamtaul	2633	8582	556	0
 Kāmsandra	1288	7820	47	0
@@ -101,7 +101,7 @@ Kampel	2262	7605	660	0
 Kampāng	2444	9424	676	0
 Kamodh	2865	7630	781	0
 Kamālpur	2738	8082	507	0
-Kamlāpur	2738	8082	507	0
+Kamlāpur	2738	8082	507	0	Kamālpur
 Kamlāpur	1847	7992	237	0
 Kamlāpur	1758	7699	71	0
 Kamlāgarh	3181	7668	278	0
@@ -110,12 +110,12 @@ Kamkol	1764	7781	31	0
 Kamharia	2640	8307	553	0
 Kamgaon	2144	8363	497	0
 Kameriya	2742	7396	430	0
-Kameria	2742	7396	430	0
+Kameria	2742	7396	430	0	Kameriya
 Kameri	1701	7426	65	0
 Kameli	1875	8128	406	0
 Kāmdebpur	2543	8873	25	0
 Kamdara	2291	8491	321	0
-Kamdera	2291	8491	321	0
+Kamdera	2291	8491	321	0	Kamdara
 Kambhampādu	1699	8065	104	0
 Kāmbāng	2824	9466	37	0
 Kambālapalle	1584	7851	232	0
@@ -132,16 +132,16 @@ Kamaravalli	1288	7658	679	0
 Kamar	2781	7734	177	0
 Kamānpur	1866	7950	748	0
 Kāmanāyakkanpālaiyam	1091	7722	235	0
-Kamanaickanpalaiyam	1091	7722	235	0
+Kamanaickanpalaiyam	1091	7722	235	0	Kāmanāyakkanpālaiyam
 Kaman	1935	7291	192	0
 Kamām	3112	7602	295	0
 Kamālpura	2680	7676	447	0
-Kamālpur	2680	7676	447	0
+Kamālpur	2680	7676	447	0	Kamālpura
 Kamālpur	2609	8729	667	0
 Kamālpur	2249	7206	124	0
 Kamal Krishnabāri	2334	9179	385	0
 Kamālābāri	2788	9412	761	0
-Kamalapari	2788	9412	761	0
+Kamalapari	2788	9412	761	0	Kamālābāri
 Kamakhya	2617	9172	359	0
 Kamadhia	2185	7093	174	0
 Kāma	2491	7364	572	0
@@ -152,28 +152,28 @@ Kāmārpukur	2223	8840	4	0
 Kāmdebpur	2226	8804	354	0
 Kamargani	2253	8864	450	0
 Khamar	3419	7486	611	0
-Bāndi Kamakhan	3378	7421	1	0
+Bāndi Kamakhan	3378	7421	1	0	Bandi Koma Kilā
 Kamānpura	3407	7469	76	0
 Takia Kāma Shāh	3428	7427	301	0
 Gund Kamāl	3434	7430	0	0
 Khamobah	3322	7402	504	0
-Khambāh	3322	7402	504	0
+Khambāh	3322	7402	504	0	Khamobah
 Kamīla	3324	7411	504	0
 Kambīla	3320	7410	504	0
-Kamila	3320	7410	504	0
+Kamila	3320	7410	504	0	Kambīla
 Kamila	3322	7420	504	0
 Rāeput Kamna	3321	7417	504	0
-Rājpur Kamīla	3321	7417	504	0
+Rājpur Kamīla	3321	7417	504	0	Rāeput Kamna
 Kambil Gāla	3323	7439	504	0
 Kamāid	3296	7441	581	0
-Kamāla	3296	7441	581	0
+Kamāla	3296	7441	581	0	Kamāid
 Kamini	3279	7490	581	0
 Kamān	3069	7612	674	0
 Kamāla Kūlīān	3257	7499	720	0
-Kamāla Kuliyān	3257	7499	720	0
+Kamāla Kuliyān	3257	7499	720	0	Kamāla Kūlīān
 Kamāla	3257	7499	720	0
 Chhauni Kamāla	3269	7489	581	0
-Chhanni Kamāl	3269	7489	581	0
+Chhanni Kamāl	3269	7489	581	0	Chhauni Kamāla
 Kamalkot	3413	7396	301	0
 Kamālpur	2989	7701	457	0
 Kamālpur Rāndān	2981	7705	457	0
@@ -191,9 +191,9 @@ Kammānkatteri	1285	7997	161	0
 Khambālya	2105	7019	185	0
 Kamakshi Palya	1298	7753	43	0
 KamalaNagar	1299	7753	43	0
-Kambohān	3022	7654	564	0
-Kambahān	3022	7654	564	0
-Kambohān	3021	7653	564	0
+Kambohān	3022	7654	564	0	Malakpur
+Kambahān	3022	7654	564	0	Malakpur
+Kambohān	3021	7653	564	0	Hasanpur
 Kāmi	3058	7693	587	0
 Hari Singh ka Mājra	3009	7697	501	0
 Saprāyon ka Mājra	3004	7698	501	0
@@ -219,7 +219,7 @@ Kāli ka Misran Purwa	2720	7993	686	0
 Mahiya Kamālpur	2616	7945	741	0
 Kamalpur	2682	7955	715	0
 Purwa Kamal Singh	2678	7950	715	0
-Kamsia	2659	7984	671	0
+Kamsia	2659	7984	671	0	Mānpur Gajain
 Khamela	2655	7976	671	0
 Kamālpur	2652	7979	671	0
 Chhutki Kampura	2494	7922	481	0
@@ -237,13 +237,13 @@ Kamārpāra	2643	8997	713	0
 Kāmāndānga	2637	8984	561	0
 Kambāng	2776	9352	36	0
 Kamāhu	2656	9478	84	0
-Kamalnainpur	2782	7979	470	0
+Kamalnainpur	2782	7979	470	0	Yārpur
 Kammatāoura	1288	7616	679	0
 Kammavanpettai	1277	7918	189	0
 Kambi	1936	7551	152	0
 Khamraod	2334	8200	349	0
 Khamlāi	2229	7695	465	0
-Khamālia	2229	7695	465	0
+Khamālia	2229	7695	465	0	Khamlāi
 Beniagram Madrasa(kamrul Hoda)	2477	8792	471	0
 Kamalpur	2635	9168	636	0
 Kamari	2936	7940	551	0
@@ -293,7 +293,7 @@ Kandāh Khamārlu	3145	7743	680	0
 Kamlāh	3141	7733	278	0
 Khamārla	3145	7740	680	0
 Kamālwāla	3033	7416	3	0
-Kāmanwāli	3047	7401	3	0
+Kāmanwāli	3047	7401	3	0	Shikarpur
 Kamiyāna	3065	7473	730	0
 Kamhār Khera	3019	7455	615	0
 Basti Kambohwāli	3100	7477	566	0
@@ -365,7 +365,7 @@ Khāmkhera	2351	7840	338	0
 Khāmkhera	2341	7833	338	0
 Khamaria	2337	7826	338	0
 Khamaria Mänpur	2331	7838	338	0
-Khamaria Maenpur	2331	7838	338	0
+Khamaria Maenpur	2331	7838	338	0	Khamaria Mänpur
 Khamaria Kalāo	2326	7847	338	0
 Khamaria	2322	7835	338	0
 Khamaria	2361	7861	352	0
@@ -776,7 +776,7 @@ Kamalkhera	2547	7990	614	0
 Kamdwār	2473	7929	481	0
 Kamodpura	2457	7930	663	0
 Kamālpur	2599	8290	498	0
-Kamālpur	2600	8290	498	0
+Kamālpur	2600	8290	498	0	Bibipur
 Kamrāwān	2595	8294	498	0
 Khamauli	2589	8288	498	0
 Kamālpur	2587	8278	498	0
@@ -1094,14 +1094,14 @@ Kamālpur	2914	7816	575	0
 Kāmgārpur	2971	7829	575	0
 Kāmgārpur	2969	7828	575	0
 Kamrūddīnnagar	2960	7848	575	0
-Kamālpur	2956	7833	575	0
+Kamālpur	2956	7833	575	0	Khāīkheri
 Khamaria	2473	8235	201	0
-Muhammad Āshikpur Kamalnain	2949	7842	575	0
+Muhammad Āshikpur Kamalnain	2949	7842	575	0	Belri
 Kamālpur Bhoga	2949	7844	575	0
 Kamālpur Puraini	2941	7845	575	0
 Shāh Kamāl	2940	7845	575	0
-Mahmūdpur Kāmīl	2936	7834	575	0
-Kamālpur	2934	7836	575	0
+Mahmūdpur Kāmīl	2936	7834	575	0	Nawāda
+Kamālpur	2934	7836	575	0	Pahārpur
 Kameruh	2462	8247	631	0
 Khamaria Kalān	2782	8113	323	0
 Khamaria Pandit	2786	8108	323	0
@@ -1147,7 +1147,7 @@ Purwa Kamīl Tiwāri	2683	8149	30	0
 Kamauli	2693	8150	30	0
 Khamāri	2119	7970	404	0
 Kamālpur Māfi	2901	7837	483	0
-Kamāluddīn Hasanpur	2908	7841	575	0
+Kamāluddīn Hasanpur	2908	7841	575	0	Panheri
 Kamālpur Khālsa	2903	7843	483	0
 Kamālāpur	2672	8126	30	0
 Kamālābād	2667	8134	30	0
@@ -1198,7 +1198,7 @@ Pura Kāmta	2728	8196	542	0
 Pura Kāmta	2740	8192	294	0
 Kāmta	1958	7741	640	0
 Kamālpur	2845	7840	646	0
-Kamālpur	2847	7847	646	0
+Kamālpur	2847	7847	646	0	Khānpur
 Kamālpur Jaid	2878	7853	483	0
 Kamālpur Mazra	2888	7862	483	0
 Alīpure ka Mazra	2899	7861	511	0
@@ -1215,9 +1215,9 @@ Kamālpur	2874	7866	646	0
 Kamālpur Chandaura	2856	7875	511	0
 Kamālpur	2594	8137	681	0
 Kamandi Chak	2581	8141	718	0
-Kamātuddīnpur	2581	8141	718	0
+Kamātuddīnpur	2581	8141	718	0	Kamandi Chak
 Bankat Kāmān	2588	8138	718	0
-Kāmāpatti	2591	8148	718	0
+Kāmāpatti	2591	8148	718	0	Tirhos
 Kamālāpur	2594	8147	681	0
 Kamālpur	2838	7853	646	0
 Bandrai Kamālgarh	2831	7866	646	0
@@ -1404,7 +1404,7 @@ Kambāipeta	1872	8014	135	0
 Kāmanapalli	1862	8025	237	0
 Jamwāon Khāmpur	2605	8386	536	0
 Kamrauli	2602	8388	536	0
-Kāmpalli	1843	8015	237	0
+Kāmpalli	1843	8015	237	0	Isthambhampalli
 Kamraurā	2568	8366	26	0
 Kāmachh	3353	7558	34	0
 Qamar Alī Chak	2564	8364	26	0
@@ -1553,7 +1553,7 @@ Khāmghāt	2193	8011	144	0
 Kamālpur	2938	7752	545	0
 Kamod Khurd	2186	7427	186	0
 Kamboh	3120	7500	260	0
-Doda Kamān	3127	7514	565	0
+Doda Kamān	3127	7514	565	0	Doda Wazīr
 Khambānwāla	3136	7518	565	0
 Mand Kamboh	3117	7501	565	0
 Kammewāla	3105	7505	566	0
@@ -1570,7 +1570,7 @@ Khāmtalāo	2114	8033	171	0
 Kammoke	3162	7533	222	0
 Kamālpur	3160	7546	565	0
 Khamārtolā	2183	8068	144	0
-Kamālpur	3126	7529	565	0
+Kamālpur	3126	7529	565	0	Pājiān
 Begpur Kamloh	3197	7569	296	0
 Kamthan	3181	7565	296	0
 Kamālpur	3172	7559	296	0
@@ -1734,7 +1734,7 @@ Jatan ka Moāra	2323	7401	173	0
 Kūma ka Moāra	2323	7400	173	0
 Rām ka Munna	2325	7414	166	0
 Kamār	2072	8226	297	0
-Kamārbhaodi	2057	8234	297	0
+Kamārbhaodi	2057	8234	297	0	Bhodi
 Kamār	2061	8236	594	0
 Khambhāta	2030	8226	297	0
 Kamārpāra	2002	8249	297	0
@@ -1771,7 +1771,7 @@ Kameri	2999	7884	612	0
 Kameri	2992	7891	612	0
 Khamoli	2992	7878	612	0
 Kamrīd	2154	8332	635	0
-Kamālpur	2900	7822	483	0
+Kamālpur	2900	7822	483	0	Ikbālpur
 Kamālpur	2853	7812	637	0
 Kamauta	2846	7806	637	0
 Kamauna	2813	7811	637	0
@@ -2044,7 +2044,7 @@ Khāmpani	2165	7493	248	0
 Khāmkheda	2137	7477	190	0
 Kamkheda	2127	7488	190	0
 Khamaria Gopa Dāndi	2865	7955	342	0
-Khāmpur	2858	7962	342	0
+Khāmpur	2858	7962	342	0	Gangāpur
 Kamūan	2846	7958	342	0
 Kamuān Kalān	2834	7954	342	0
 Khamaria Ilāka Jehar	2827	7952	342	0
@@ -2119,7 +2119,7 @@ Kāmanhalli	1474	7509	92	0
 Kamarūru	1460	7504	346	0
 Kāmanhalli	1455	7521	346	0
 Kamālbangdi Timmāpur	1493	7545	92	0
-Kāmandurga	1424	7727	93	0
+Kāmandurga	1424	7727	93	0	Rāmpeta
 Kāmireddipalle	1445	7765	444	0
 Kamalāpuram	1487	7753	100	0
 Kāmāripalle	1466	7750	100	0
@@ -2333,7 +2333,7 @@ Kamālpur	2586	8653	661	0
 Kamālpur	2600	8667	657	0
 Khamauti	2572	8656	661	0
 Kamra	2567	8654	661	0
-Kamāthan	2560	8655	759	0
+Kamāthan	2560	8655	759	0	Marar
 Kamanhalli	1287	7580	679	0
 Kamti	1299	7582	679	0
 Kamanhalli	1278	7599	679	0
@@ -2351,7 +2351,7 @@ Kamalapādu	1507	7791	100	0
 Kambhālapalle	1437	7704	100	0
 Kāmakkanahalli	1448	7714	100	0
 Kambadūru	1435	7723	100	0
-Kambadur	1435	7723	100	0
+Kambadur	1435	7723	100	0	Kambadūru
 Kammūru	1475	7748	100	0
 Kamaljari	2583	8677	661	0
 Kāmta	2596	8691	657	0
@@ -2522,7 +2522,7 @@ Khamaria	2787	8048	323	0
 Kamda Hari	2246	8838	123	0
 Kamalakur	1464	7908	229	0
 Kamargoria	2314	8867	528	0
-Kamargaria	2314	8867	528	0
+Kamargaria	2314	8867	528	0	Kamargoria
 Kamarpukur	2291	8765	279	0
 Kambagi	1656	7554	80	0
 Kambhamvaripalle	1379	7888	195	0
@@ -2542,7 +2542,7 @@ Kāmsagara	1238	7713	94	0
 Kāmakerai	1213	7723	69	0
 Kambipur	1287	7746	43	0
 Kambsāgara	1251	7730	626	0
-Kamsandra	1274	7770	43	0
+Kamsandra	1274	7770	43	0	Chennēn Agrahār
 Kamlapur	1267	7755	626	0
 Kambattipalli	1252	7770	223	0
 Kammavāripalle	1504	7824	232	0
@@ -2586,14 +2586,14 @@ Kamatampalle	1340	7842	195	0
 Kamallapalli	1327	7847	47	0
 Kamasandra	1322	7827	47	0
 Kammadatti Kāmanūru	1315	7828	47	0
-Kamsamitta	1342	7865	214	0
+Kamsamitta	1342	7865	214	0	Mittapalle
 Kambālapalle	1345	7863	214	0
 Kammanāyanipalle	1329	7860	214	0
 Kammināyanidinne	1317	7861	214	0
 Kamināyanipalle	1312	7860	214	0
 Kammanapalle	1311	7862	214	0
 Kāmanhalli	1291	7780	43	0
-Kāmarasanhalli	1300	7781	389	0
+Kāmarasanhalli	1300	7781	389	0	Kācharkihalli
 Kāmaiyanūr	1259	7780	223	0
 Kāmantoddi	1268	7794	223	0
 Kammuttūr	1250	7782	223	0
@@ -2838,7 +2838,7 @@ Khamāntoli	2257	8446	495	0
 Kamlāsarbera	2238	8429	495	0
 Khamantoli	2243	8465	495	0
 Khambhoa	2279	8486	321	0
-Kamantoli	2296	8488	321	0
+Kamantoli	2296	8488	321	0	Jāmtoli
 Kamta	2287	8490	321	0
 Kamlābera	2256	8498	495	0
 Karla Khamān	2168	8422	567	0
@@ -2944,7 +2944,7 @@ Kamarājapuram	997	7741	194	0
 Kāmākshipuram	987	7745	194	0
 Kambāpacheri	907	7738	245	0
 Kambaneri Pudukkudi	907	7738	245	0
-Kāmākshipuram	993	7759	194	0
+Kāmākshipuram	993	7759	194	0	Kīrapattanpatti
 Kāmākshipuram	985	7771	274	0
 Kāmappatti	1175	7805	51	0
 Kamalāpuram	1177	7806	51	0
@@ -2972,7 +2972,7 @@ Kamārsāi	2181	8541	293	0
 Kāmga	2165	8542	293	0
 Kampadihi	2170	8549	293	0
 Kamlāng	2137	8543	293	0
-Kamārgaon	2180	8553	293	0
+Kamārgaon	2180	8553	293	0	Satikudr
 Kampadihi	2169	8551	293	0
 Kamārgodā	2145	8569	293	0
 Kamarnāli	2146	8571	293	0
@@ -3060,7 +3060,7 @@ Khamonosāi	2014	8451	440	0
 Khamon	2025	8459	548	0
 Khamār	2085	8476	414	0
 Kamjong	2486	9452	723	0
-Kamaggar	3090	7473	566	0
+Kamaggar	3090	7473	566	0	Māchhīwāra
 Kamar Pota	2608	9092	458	0
 Kamarda	2193	8789	559	0
 Kammapalle	1354	7944	45	0

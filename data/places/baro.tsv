@@ -1,12 +1,12 @@
-Baroda	2230	7321	159	1822221
-Baroach	2169	7298	151	169007
-Bharoch	2169	7298	151	169007
+Baroda	2230	7321	159	1822221	Vadodara
+Baroach	2169	7298	151	169007	Bharūch
+Bharoch	2169	7298	151	169007	Bharūch
 Chhipa Barod	2462	7671	506	18837
-Barod	2462	7671	506	18837
+Barod	2462	7671	506	18837	Chhipa Barod
 Baroda	2550	7665	335	18437
 Barod	2379	7581	347	13834
-Baroni Khurd	2569	7838	503	10309
-Baroni	2569	7838	503	10309
+Baroni Khurd	2569	7838	503	10309	Barauni
+Baroni	2569	7838	503	10309	Barauni
 Barora	2379	8623	401	3890
 Garhī Barod	2534	7781	436	0
 Bharos	2007	7429	54	0
@@ -16,20 +16,20 @@ Bāropāl	2936	7409	486	0
 Baronia	2341	7411	166	0
 Baroni	2628	7589	313	0
 Barokhar	2490	8194	607	0
-Baroknar	2490	8194	607	0
+Baroknar	2490	8194	607	0	Barokhar
 Barodra	2330	7302	212	0
-Baroda	2330	7302	212	0
+Baroda	2330	7302	212	0	Barodra
 Barodiya Kalān	2421	7858	352	0
-Barodiya	2421	7858	352	0
-Barodia	2421	7858	352	0
-Barodia Kalān	2421	7858	352	0
+Barodiya	2421	7858	352	0	Barodiya Kalān
+Barodia	2421	7858	352	0	Barodiya Kalān
+Barodia Kalān	2421	7858	352	0	Barodiya Kalān
 Barodia	2487	7572	417	0
 Moman Barodiya	2360	7634	320	0
-Barodia	2360	7634	320	0
+Barodia	2360	7634	320	0	Moman Barodiya
 Barodia	2343	7435	166	0
 Barodia	2314	7659	320	0
 Baroda Mev	2748	7687	482	0
-Baroda	2748	7687	482	0
+Baroda	2748	7687	482	0	Baroda Mev
 Baroda	2390	7406	512	0
 Barod	2538	7631	371	0
 Barod	2437	7751	336	0
@@ -39,7 +39,7 @@ Dhāni Baroa	2811	7489	491	0
 Baror	2916	7334	374	0
 Barola	3295	7474	581	0
 Barola	3290	7495	581	0
-Baroi	3260	7493	720	0
+Baroi	3260	7493	720	0	Buroi
 Kha Barora	3469	7642	8	0
 Barora	3468	7642	8	0
 Barotīwāla	3044	7779	448	0

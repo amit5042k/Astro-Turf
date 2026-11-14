@@ -1,4 +1,4 @@
-Savan	2622	8436	639	135066
+Savan	2622	8436	639	135066	Siwān
 Sawai Madhopur	2602	7634	116	121106
 Savarkundla	2134	7130	216	78354
 Savanūr	1497	7534	92	40567
@@ -6,29 +6,29 @@ Sāvantvādi	1590	7382	213	23851
 Sāvda	2115	7589	78	20584
 Sawar	2576	7522	446	20000
 Sāvli	2256	7322	159	18467
-Sawer	2297	7583	660	16150
-Savardhan	1805	7302	17	15279
-Sawangi	2072	7858	143	14394
+Sawer	2297	7583	660	16150	Sānwer
+Savardhan	1805	7302	17	15279	Srīvardhan
+Sawangi	2072	7858	143	14394	Bhīmnagar
 Savgadh	2362	7295	212	13841
 Sawyerpuram	868	7803	208	12792
 Sāwa	2476	7458	417	11923
 Ūncha Sawāna	2962	7700	457	8922
-Sawari Jawharnagar	2111	7955	404	8770
+Sawari Jawharnagar	2111	7955	404	8770	Sāori
 Sawombung	2487	9401	96	4601
 Sāwi	920	9272	442	0
-Sawai	920	9272	442	0
+Sawai	920	9272	442	0	Sāwi
 Sāwargaon	2033	8061	135	0
 Sāwargaon	1978	7750	67	0
 Sāwargaon	1872	7621	33	0
 Sāwarda	2675	7529	121	0
 Sāwar	2877	7434	539	0
 Sāwang	1938	7689	153	0
-Sāwangi Buzurg	1938	7689	153	0
+Sāwangi Buzurg	1938	7689	153	0	Sāwang
 Sawān	2590	8398	536	0
 Sāwan	2446	7507	655	0
 Sāwali	1996	7811	67	0
 Sawaddi Kalān	3087	7558	674	0
-Sawaddi	3087	7558	674	0
+Sawaddi	3087	7558	674	0	Sawaddi Kalān
 Savrat	1759	7377	64	0
 Sāvlāj	1711	7477	65	0
 Sāvargaon	2011	7446	54	0
@@ -38,14 +38,14 @@ Sāvargaom	1791	7592	48	0
 Sāvar	2050	7807	67	0
 Sāvangi	2058	7828	143	0
 Sāvalgi	1667	7535	86	0
-Savaigi	1667	7535	86	0
+Savaigi	1667	7535	86	0	Sāvalgi
 Savalanga	1410	7553	275	0
 Savāikot	2191	7201	168	0
-Savta	1997	7277	192	0
-Savta Bandor	1997	7277	192	0
+Savta	1997	7277	192	0	Sarāvali
+Savta Bandor	1997	7277	192	0	Sarāvali
 Sāvangi	2180	8000	144	0
 Rāni Sāwargaon	1885	7687	153	0
-Sāwargaon	1885	7687	153	0
+Sāwargaon	1885	7687	153	0	Rāni Sāwargaon
 Maihma Sawāi	3032	7483	563	0
 Ghān Sāwangi	1952	7599	53	0
 Shāvali	3122	7704	479	0
@@ -53,9 +53,9 @@ Husain Sawāli Dargāh	1741	7839	62	0
 Sāwantkhera	2469	7895	481	0
 Savi ka Nagla	2693	7915	290	0
 Sawāi Jaisinghpura	2677	7567	121	0
-Sawāl Jaisinghpura	2677	7567	121	0
+Sawāl Jaisinghpura	2677	7567	121	0	Sawāi Jaisinghpura
 Chhoti Sawāi	2841	7444	539	0
-Chhoti Sawāl	2841	7444	539	0
+Chhoti Sawāl	2841	7444	539	0	Chhoti Sawāi
 Bari Sawāl	2840	7443	539	0
 Sāwargaon	2140	7863	141	0
 Bori Sāwargaon	1866	7624	33	0
@@ -111,9 +111,9 @@ Sawāha	2909	7771	700	0
 Sāwalpur	2593	7658	116	0
 Sawaddi Khurd	3084	7547	674	0
 Sāwanbhādon	2491	7612	371	0
-Sāvitrīnagar	2854	7722	778	0
+Sāvitrīnagar	2854	7722	778	0	Shaikhpur
 Sawepura	2611	7476	446	0
-Sāwar	2570	7522	446	0
+Sāwar	2570	7522	446	0	Piplia
 Sawaipura	2552	7523	309	0
 Kamālu Sawāich	2998	7524	563	0
 Sāwalpur	2935	7855	575	0
@@ -123,7 +123,7 @@ Sawāria	2619	7525	313	0
 Sāwli Budruk	1967	7677	153	0
 Sāwli Tānda	1967	7679	153	0
 Savdhān ka Pura	2640	7776	478	0
-Sawāi Ka Pura	2646	7795	478	0
+Sawāi Ka Pura	2646	7795	478	0	Sahrāna Majruwa
 Sāwargaon	1993	7607	49	0
 Sāwargaon	1980	7603	53	0
 Sāwangi Talān	1983	7616	53	0
@@ -142,7 +142,7 @@ Sāwad	1998	7682	128	0
 Sāwangi	1904	7683	153	0
 Sāvleshwar	1864	7618	33	0
 Chandan Sāwargaon	1871	7618	33	0
-Sawai Singhwāla	3022	7650	564	0
+Sawai Singhwāla	3022	7650	564	0	Devīnagar
 Lokhandi Sāwargaon	1869	7632	33	0
 Sāwantwādi	1844	7685	158	0
 Nagla Sāwaliya	2774	7766	177	0
@@ -234,7 +234,7 @@ Nagla Sāwanti	2790	7832	543	0
 Nagla Sāwanti	2787	7834	543	0
 Sawāpur	2759	7845	711	0
 Garhi Sāwarāi	2703	7828	546	0
-Nagla Sāwanti	2796	7865	616	0
+Nagla Sāwanti	2796	7865	616	0	Nagla Lodha
 Sāwantkhera	2749	7856	711	0
 Nagla Sawanti	2741	7864	403	0
 Sāwal Khera	2502	8028	532	0
@@ -418,7 +418,7 @@ Sāvinkop	1439	7478	59	0
 Nagla Sawai	2813	7839	637	0
 Sāvnār	1872	8097	288	0
 Sawaiāpur	2720	8135	30	0
-Sawain Hemgarh	2629	8173	662	0
+Sawain Hemgarh	2629	8173	662	0	Shiuāin
 Pura Sawaldhar	2609	8168	718	0
 Savudupalle	1773	8222	268	0
 Savarāguda	1939	8218	205	0
@@ -475,7 +475,7 @@ Sawāipura	2591	7509	446	0
 Savāsla	2391	7309	212	0
 Savgad	2382	7302	212	0
 Sāvkheda	2157	7454	186	0
-Sawaiā	2633	8495	396	0
+Sawaiā	2633	8495	396	0	Bishunpur Ratti
 Sāvalda	2129	7486	190	0
 Sāwan Chapra	2574	8448	536	0
 Sawichā	2449	8447	118	0
@@ -591,7 +591,7 @@ Savuriyārpatti	1110	7931	383	0
 Savalakkāran	1068	7948	267	0
 Savuriyāppatti	1068	7901	198	0
 Sāvukandi	1045	7970	239	0
-Sawār	2397	8561	764	0
+Sawār	2397	8561	764	0	Chocho
 Sawāi	2386	8575	517	0
 Sawai	2385	8576	517	0
 Sawang	2380	8585	517	0
@@ -606,7 +606,7 @@ Sāvarappatti	1014	7836	274	0
 Sāvakāranpatti	1027	7867	198	0
 Savakkāttuppatti	1095	7883	270	0
 Savuriyāpattanam	1059	7881	198	0
-Savāsupuram	948	7814	119	0
+Savāsupuram	948	7814	119	0	Mallampatti
 Savariyarpattanam	943	7856	5	0
 Savariyasamudram	928	7856	5	0
 Savariyapatti	927	7855	5	0

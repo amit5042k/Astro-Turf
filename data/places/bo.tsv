@@ -1,15 +1,15 @@
-Bombay	1907	7288	90	12691836
-New Bombay	1904	7302	246	2600000
+Bombay	1907	7288	90	12691836	Mumbai
+New Bombay	1904	7302	246	2600000	Navi Mumbai
 Bhopal	2325	7740	687	1798218
-Bhojpal	2325	7740	687	1798218
-Bombay Dharavi	1905	7287	106	700000
+Bhojpal	2325	7740	687	1798218	Bhopal
+Bombay Dharavi	1905	7287	106	700000	Dhārāvi
 Borivli	1923	7286	207	609617
-Borivali	1923	7286	207	609617
+Borivali	1923	7286	207	609617	Borivli
 Bokāro	2367	8615	517	564319
-Bokaro Steel City	2367	8615	517	564319
+Bokaro Steel City	2367	8615	517	564319	Bokāro
 Botad	2217	7167	370	130327
-Bongaon	2305	8883	450	111693
-Bolāngir	2070	8349	394	98238
+Bongaon	2305	8883	450	111693	Bangaon
+Bolāngir	2070	8349	394	98238	Balāngīr
 Bodhan	1866	7789	75	77573
 Bodināyakkanūr	1001	7735	194	75680
 Bolpur	2366	8770	361	70998
@@ -17,33 +17,33 @@ Bongaigaon	2648	9056	746	67322
 Borsad	2241	7290	157	63377
 Bobbili	1857	8336	179	56819
 Bhongīr	1752	7889	129	53339
-Bowringpet	1299	7818	47	44849
+Bowringpet	1299	7818	47	44849	Bangarapet
 Bodupāl	1742	7858	311	43692
 Boyampālaiyam	1115	7735	235	40503
-Bokaro	2379	8598	517	39305
+Bokaro	2379	8598	517	39305	Kāro
 Bodh Gaya	2470	8499	118	38439
 Bopal	2303	7247	124	37635
 Boisar	1980	7276	192	36151
 Bolārum	1756	7835	31	34667
-Bollaram	1756	7835	31	34667
+Bollaram	1756	7835	31	34667	Bolārum
 Bhokar	1922	7767	140	32899
 Bhongaon	2726	7918	464	29911
 Borāwar	2702	7468	430	24975
 Bholav	2172	7301	151	24605
 Bhokardan	2026	7577	53	24416
 Bokajān	2602	9378	405	19877
-Bokajan O. Noajan	2602	9378	405	19877
+Bokajan O. Noajan	2602	9378	405	19877	Bokajān
 Boriavi	2261	7293	157	19865
 Borgaon	2072	7860	143	19759
 Bhor	1815	7384	52	18982
 Bhogpur	3155	7564	369	18008
-Bhogpur Sirwal	3155	7564	369	18008
+Bhogpur Sirwal	3155	7564	369	18008	Bhogpur
 Bodrī	2202	8211	291	17481
-Bhondsi	2835	7706	630	17410
-Bounjwah	3315	7595	34	15899
-Kasba Bonli	2633	7623	116	15300
+Bhondsi	2835	7706	630	17410	Bhundsi
+Bounjwah	3315	7595	34	15899	Bunjwah
+Kasba Bonli	2633	7623	116	15300	Bāonlī
 Bommasandra Industrial Area	1282	7768	43	15254
-Bommasandra	1282	7768	43	15254
+Bommasandra	1282	7768	43	15254	Bommasandra Industrial Area
 New Bongaigaon Railway Colony	2648	9054	746	14896
 Bodri	2317	8143	634	14491
 Borkherī	2095	7902	141	13294
@@ -51,13 +51,13 @@ Bommināyakkanpatti	1168	7805	51	12448
 Bodeli	2227	7372	126	12184
 Bhonrāsa	2299	7621	322	12166
 Borī	2091	7900	141	12072
-Patan Bori	2091	7900	141	12072
+Patan Bori	2091	7900	141	12072	Borī
 Bolānīkhodān	2211	8534	293	11942
-Bolāni	2211	8534	293	11942
-Bholath	3154	7551	565	10669
+Bolāni	2211	8534	293	11942	Bolānīkhodān
+Bholath	3154	7551	565	10669	Bhulath Gharbi
 Bokākhāt	2664	9360	740	10143
 Bora	2366	7681	16	9886
-Boda	2366	7681	16	9886
+Boda	2366	7681	16	9886	Bora
 Borigumma	1905	8255	349	9785
 Boyāpalli	1678	7799	317	9247
 Bhojudih	2364	8644	517	9109
@@ -65,7 +65,7 @@ Bogādi	1230	7660	74	9041
 Borāj	2645	7461	446	8780
 Bhorgarh	2883	7710	769	8627
 Bhokra	2123	7907	141	8602
-Bhokara	2123	7907	141	8602
+Bhokara	2123	7907	141	8602	Bhokra
 Boh	3038	7688	731	8482
 Bomdila	2726	9242	523	8370
 Borpukhuri	2602	9285	706	8318
@@ -73,20 +73,20 @@ Bohari	2625	9114	358	8264
 Borim	1537	7400	188	8257
 Borgaon	2156	7881	337	7497
 Bonaigarh	2182	8495	272	7080
-Bonai	2182	8495	272	7080
+Bonai	2182	8495	272	7080	Bonaigarh
 Borio	2503	8759	461	6964
 Borlai Panchaitan	1817	7300	17	6952
-Borlai-Panchatan	1817	7300	17	6952
-Borlai Panchaitar	1817	7300	17	6952
+Borlai-Panchatan	1817	7300	17	6952	Borlai Panchaitan
+Borlai Panchaitar	1817	7300	17	6952	Borlai Panchaitan
 Pedda bhogili	1866	8338	199	6733
 Bontapalli	1766	7836	31	6608
-Bonthapalle	1766	7836	31	6608
+Bonthapalle	1766	7836	31	6608	Bontapalli
 Bhore	3267	7483	581	6360
 Bondantila	1290	7493	55	5858
-Bondathila	1290	7493	55	5858
+Bondathila	1290	7493	55	5858	Bondantila
 Borivali Tarf Rahur	1938	7318	246	5780
 Borla	2216	8122	537	5689
-Bodla	2216	8122	537	5689
+Bodla	2216	8122	537	5689	Borla
 Bhowali	2939	7950	551	5685
 Bobruwada	1465	7429	59	5409
 Borgolai Grant No.11	2729	9572	460	5241
@@ -94,7 +94,7 @@ Bongabār	2370	8552	391	5236
 Bowluvada	1775	8299	227	5001
 Borigam	1936	8481	440	4855
 Bhopālpatnam	1886	8039	288	4445
-Bhopalpattanam	1886	8039	288	4445
+Bhopalpattanam	1886	8039	288	4445	Bhopālpatnam
 Boparai	3117	7551	369	3507
 Borkhera	2552	7564	353	3440
 Boleng	2833	9496	40	2979
@@ -104,41 +104,41 @@ Bhota	3161	7656	281	1453
 Bondukbangsora	2203	9263	244	628
 Bhodipur	3113	7540	369	529
 Vasna Borsad INA	2239	7291	157	166
-Bombay Warli	1902	7282	106	0
-Bombay Wadala	1902	7285	106	0
-Bombay Vile Parle	1910	7283	207	0
-Bombay Tardeo	1897	7282	106	0
-Bombay Sion	1903	7285	106	0
-Bornār	2092	7553	78	0
-Bombay Siwri	1900	7285	106	0
-Bombay Santa Cruz	1908	7283	207	0
-Bombay Naigaum Road	1900	7283	106	0
-Bombay Mazagaon	1897	7284	106	0
-Bombay Matunga	1903	7285	106	0
-Bombay Mandvi	1948	7290	192	0
-Bombay Malabar Hill	1895	7278	90	0
-Majuli-Bongaon	2695	9417	777	0
-Bombay Mahim	1903	7285	106	0
+Bombay Warli	1902	7282	106	0	Worli
+Bombay Wadala	1902	7285	106	0	Wadala
+Bombay Vile Parle	1910	7283	207	0	Vile Parle
+Bombay Tardeo	1897	7282	106	0	Tardeo
+Bombay Sion	1903	7285	106	0	Sion
+Bornār	2092	7553	78	0	Shirsoli
+Bombay Siwri	1900	7285	106	0	Sewri
+Bombay Santa Cruz	1908	7283	207	0	Santa Cruz
+Bombay Naigaum Road	1900	7283	106	0	Naigaum
+Bombay Mazagaon	1897	7284	106	0	Mazagaon
+Bombay Matunga	1903	7285	106	0	Mātunga
+Bombay Mandvi	1948	7290	192	0	Māndvi
+Bombay Malabar Hill	1895	7278	90	0	Malabar Hill
+Majuli-Bongaon	2695	9417	777	0	Mājuli
+Bombay Mahim	1903	7285	106	0	Māhīm
 Bhosga	1739	7678	71	0
-Kar Bhosga	1739	7678	71	0
-Bombay Girgaon	1895	7282	106	0
+Kar Bhosga	1739	7678	71	0	Bhosga
+Bombay Girgaon	1895	7282	106	0	Girgaum
 Ghāt Borūl	1790	7708	170	0
 Gad Boriād	2206	7383	126	0
-Bhopātpur	2489	8011	532	0
-Bombay Cumballa Hill	1897	7280	90	0
-Bombay Colaba	1891	7281	106	0
-Bombay Chinchpokli	1898	7283	106	0
+Bhopātpur	2489	8011	532	0	Devra Bhāpatpur
+Bombay Cumballa Hill	1897	7280	90	0	Cumballa Hill
+Bombay Colaba	1891	7281	106	0	Colāba
+Bombay Chinchpokli	1898	7283	106	0	Chinchpokli
 Chak Bowāl	3286	7481	581	0
-Bombay Byculla	1897	7283	106	0
+Bombay Byculla	1897	7283	106	0	Byculla
 Borut	2199	7602	329	0
-Borla	2424	7404	22	0
-Bokmaituk	2415	9269	526	0
+Borla	2424	7404	22	0	Burla
+Bokmaituk	2415	9269	526	0	Bukhmai Tuak
 Boddiha	2414	8148	634	0
 Boturakachar	2235	8335	439	0
 Both	2525	7650	506	0
-Bohat	2525	7650	506	0
+Bohat	2525	7650	506	0	Both
 Both	1935	7832	282	0
-Boath	1935	7832	282	0
+Boath	1935	7832	282	0	Both
 Bote	1925	7415	152	0
 Bosāna	2745	7495	491	0
 Borwa	2708	7396	430	0
@@ -149,17 +149,17 @@ Bortara	2164	8122	710	0
 Bortalāo	2122	8063	474	0
 Borsi	2070	8171	652	0
 Borsheti	1982	7285	192	0
-Borshet	1982	7285	192	0
+Borshet	1982	7285	192	0	Borsheti
 Borpāni	2565	9188	331	0
 Borpāni	2202	7734	465	0
 Borpāda	2113	7392	186	0
 Borlai	2204	7500	248	0
-Borlai Pīr	2204	7500	248	0
-Borlāi	2348	7655	320	0
+Borlai Pīr	2204	7500	248	0	Borlai
+Borlāi	2348	7655	320	0	Burlāi
 Borlai	1850	7292	17	0
 Borkund	2072	7482	190	0
 Borki	2292	7057	147	0
-Bokri	2292	7057	147	0
+Bokri	2292	7057	147	0	Borki
 Borkhedi	2086	7897	141	0
 Borjhar	2244	7444	155	0
 Borjān	2676	9483	149	0
@@ -168,7 +168,7 @@ Boria Tibhu	2047	8088	644	0
 Boria Kalān	2118	8168	310	0
 Boria	2389	7452	633	0
 Boria	2256	7173	28	0
-Boriā	2235	7953	368	0
+Boriā	2235	7953	368	0	Bichhua
 Boria	2014	8319	284	0
 Boria	1740	7318	234	0
 Bori	2251	7469	155	0
@@ -176,35 +176,35 @@ Bori	2244	7826	590	0
 Borī	2214	7742	465	0
 Borī	2130	7697	133	0
 Bori Arab	2035	7786	67	0
-Bori	2035	7786	67	0
+Bori	2035	7786	67	0	Bori Arab
 Bori	1987	7858	67	0
 Bori	1949	7673	153	0
 Bori	1912	7410	52	0
-Bori-Budruk	1912	7410	52	0
+Bori-Budruk	1912	7410	52	0	Bori
 Bori	1887	7292	17	0
 Bori	1837	7670	158	0
 Borghat	2158	7506	248	0
 Borgbar	1782	7342	234	0
 Borgaon Manju	2072	7715	172	0
 Borgaon Buzurg	1864	7595	33	0
-Borgaon	1864	7595	33	0
+Borgaon	1864	7595	33	0	Borgaon Buzurg
 Borgaon	2162	7633	209	0
 Borgaon	2096	7856	143	0
 Borgaon	1955	7754	140	0
 Borgaon	1660	7451	90	0
 Borgampād	1764	8087	60	0
-Borgamphad	1764	8087	60	0
+Borgamphad	1764	8087	60	0	Borgampād
 Borduttighāt	2695	9397	355	0
 Borduria	2703	9548	397	0
 Bordoloni	2740	9442	299	0
 Bordia	2437	7509	655	0
-Bordia Kalān	2437	7509	655	0
+Bordia Kalān	2437	7509	655	0	Bordia
 Bordi	2012	7274	192	0
 Bordehi Khās	2201	7835	462	0
-Bordehi	2201	7835	462	0
+Bordehi	2201	7835	462	0	Bordehi Khās
 Borda	2498	7455	417	0
 Borda	2405	7697	336	0
-Boraa	2405	7697	336	0
+Boraa	2405	7697	336	0	Borda
 Borancha	1793	7778	31	0
 Borāna	2764	7213	217	0
 Boran	2025	8257	594	0
@@ -212,59 +212,59 @@ Borāj	2687	7545	121	0
 Borai	2008	8187	652	0
 Boradi	2152	7489	190	0
 Borad	2162	7434	186	0
-Borābās	2502	7570	371	0
+Borābās	2502	7570	371	0	Bārwās
 Bonta	2007	8479	440	0
 Bonington	1292	9290	442	0
 Bongbāl Khulen	2472	9416	489	0
-Bongba Khulen	2472	9416	489	0
+Bongba Khulen	2472	9416	489	0	Bongbāl Khulen
 Bongba Khulen	2484	9448	723	0
 Bondabal	2038	8303	394	0
 Bond	2688	7694	447	0
 Bonangi	1815	8322	179	0
-Bonagi	1815	8322	179	0
+Bonagi	1815	8322	179	0	Bonangi
 Bona	3006	8037	508	0
 Bomundi	2097	8308	497	0
 Bommakal	1702	8027	46	0
-Bonakalu	1702	8027	46	0
+Bonakalu	1702	8027	46	0	Bommakal
 Bommagondekere	1459	7668	255	0
-Bommagondanakere	1459	7668	255	0
-Bommagondenkere	1459	7668	255	0
+Bommagondanakere	1459	7668	255	0	Bommagondekere
+Bommagondenkere	1459	7668	255	0	Bommagondekere
 Bomjur	2811	9569	434	0
 Bomdo	2875	9490	392	0
-Bomo	2875	9490	392	0
+Bomo	2875	9490	392	0	Bomdo
 Bomāk	2824	9553	97	0
 Boma	1547	7397	188	0
 Boma	1530	7427	102	0
 Bolung	2805	9568	42	0
 Bolthān	2019	7491	54	0
 Bolkheri	2367	7580	314	0
-Bolkhera Nāu	2367	7580	314	0
+Bolkhera Nāu	2367	7580	314	0	Bolkheri
 Bolkhera	2375	7572	314	0
-Bolkhera Ghāt	2375	7572	314	0
+Bolkhera Ghāt	2375	7572	314	0	Bolkhera
 Boljāng	2462	9440	723	0
 Bolia Kalān	2426	7593	333	0
-Bolia	2426	7593	333	0
-Bolla	2426	7593	333	0
+Bolia	2426	7593	333	0	Bolia Kalān
+Bolla	2426	7593	333	0	Bolia Kalān
 Bolegaon	2153	8046	144	0
 Bolba	2243	8434	495	0
 Bolārum	1752	7852	311	0
 Bolagarh	2017	8527	541	0
-Bolgarh	2017	8527	541	0
+Bolgarh	2017	8527	541	0	Bolagarh
 Boko	2598	9124	636	0
 Bokhrata	2186	7462	248	0
 Bojha	2332	8312	413	0
 Bojāwās	2830	7622	694	0
 Boirani	1959	8475	440	0
 Boipārigūda	1875	8243	316	0
-Boipārigurha	1875	8243	316	0
+Boipārigurha	1875	8243	316	0	Boipārigūda
 Bohar	2890	7665	719	0
 Boha	2983	7552	709	0
 Boguldega	2249	8345	439	0
 Bogu	2853	9466	40	0
-Boga	2853	9466	40	0
+Boga	2853	9466	40	0	Bogu
 Bogor	2018	8322	284	0
 Bogmalo	1537	7385	102	0
-Bogmolo	1537	7385	102	0
+Bogmolo	1537	7385	102	0	Bogmalo
 Bodvad	2088	7599	78	0
 Bodo Rāruān	2196	8586	382	0
 Bodobil	2186	8590	382	0
@@ -280,7 +280,7 @@ Bobda	2261	8190	291	0
 Bobbarlanka	1595	8088	220	0
 Boara	2439	7439	417	0
 Bhopatpura	2326	7429	166	0
-Bhogaon	2109	7934	141	0
+Bhogaon	2109	7934	141	0	Bhūgaon
 Bhoyar	1836	7642	158	0
 Bhoya	2268	8581	287	0
 Bhowra	2372	8640	401	0
@@ -288,7 +288,7 @@ Bhowātra	2473	7139	343	0
 Bhothīdih	2079	8185	652	0
 Bhotaor	3293	7662	362	0
 Bhose	1695	7472	65	0
-Bhosa	1695	7472	65	0
+Bhosa	1695	7472	65	0	Bhose
 Bhosa	1781	7528	132	0
 Bhos	1962	7545	113	0
 Bhorvādi	1928	7483	152	0
@@ -296,7 +296,7 @@ Bhorol	2453	7154	134	0
 Bhore	2645	8410	703	0
 Bhopa	2948	7788	545	0
 Bhonriya	2420	7771	215	0
-Bhonria	2420	7771	215	0
+Bhonria	2420	7771	215	0	Bhonriya
 Bhongra	2368	7452	166	0
 Bhongādwār	2184	8066	144	0
 Bhondiapāra	2034	8120	704	0
@@ -306,18 +306,18 @@ Bhoma	2217	7969	368	0
 Bhom	1752	7343	234	0
 Bholi	2528	7468	309	0
 Bholāwat	2101	7046	136	0
-Bholowat	2101	7046	136	0
+Bholowat	2101	7046	136	0	Bholāwat
 Bholāhāt	2495	8821	664	0
 Bhola	2901	7757	700	0
 Bhokarwādi	2001	7560	53	0
 Bhokar	2117	7537	78	0
 Bhojpur Kadīm	2558	8413	620	0
-Bhojpur	2558	8413	620	0
+Bhojpur	2558	8413	620	0	Bhojpur Kadīm
 Bhojpur	2893	7982	641	0
 Bhojpur	2414	7651	16	0
 Bhojpur	2165	8441	567	0
 Bhojīpura	2849	7945	342	0
-Bhojūpura	2849	7945	342	0
+Bhojūpura	2849	7945	342	0	Bhojīpura
 Bhojāvadar	2185	7172	168	0
 Bhojāsar	2917	7518	486	0
 Bhojāsar	2723	7280	344	0
@@ -334,20 +334,20 @@ Bhogaon	1932	7703	640	0
 Bhogaon	1676	7398	57	0
 Bhogamgūda	1823	8163	109	0
 Bhogaikhāpa	2216	7814	462	0
-Bhogai	2216	7814	462	0
-Boyarmari Abad	2246	8883	450	0
-Bowra	1654	7383	57	0
+Bhogai	2216	7814	462	0	Bhogaikhāpa
+Boyarmari Abad	2246	8883	450	0	Bayārmāri
+Bowra	1654	7383	57	0	Bāvda
 Bhopālgarh	2665	7349	344	0
 Bara Boarījor	2506	8748	592	0
-Bombay Bandra	1908	7286	207	0
-Bombay Ballard Estate	1894	7284	106	0
-Borgām	2125	7368	127	0
+Bombay Bandra	1908	7286	207	0	Bāndra
+Bombay Ballard Estate	1894	7284	106	0	Ballard Estate
+Borgām	2125	7368	127	0	Āmalpāda
 Bhojās	2806	7390	307	0
 Bholūsar	2847	7455	539	0
 Bhogān	2855	7467	539	0
-Bhogani	2855	7467	539	0
+Bhogani	2855	7467	539	0	Bhogān
 Boghera	2871	7461	539	0
-Bōgās	2810	7487	491	0
+Bōgās	2810	7487	491	0	Bāgās
 Bodāi	2270	8844	450	0
 Bhogālt	2254	8863	4	0
 Bodra	2245	8861	4	0
@@ -358,7 +358,7 @@ Bodmarg	3423	7487	595	0
 Bobjan	3418	7498	595	0
 Bora Chhari	3384	7425	1	0
 Bod Dardahaj	3442	7410	0	0
-Bod Dardohaj	3442	7410	0	0
+Bod Dardohaj	3442	7410	0	0	Bod Dardahaj
 Bowan	3437	7417	0	0
 Bopat	3401	7464	76	0
 Bonahāma	3402	7466	76	0
@@ -366,13 +366,13 @@ Bodabug	3432	7425	0	0
 Bodkut Machpur	3440	7425	0	0
 Bolnigund	3440	7431	0	0
 Bhopur	3279	7454	581	0
-Bondwāl	3282	7460	581	0
+Bondwāl	3282	7460	581	0	Bandwāl
 Bohāni	3321	7410	504	0
 Bohta	3323	7418	504	0
-Bohli	2999	7691	501	0
+Bohli	2999	7691	501	0	Bāholi
 Bodhi	2994	7694	501	0
 Bhopa Shajādpur	3275	7475	581	0
-Shāhzādpur Bhopa	3275	7475	581	0
+Shāhzādpur Bhopa	3275	7475	581	0	Bhopa Shajādpur
 Bod Nambal	3450	7400	0	0
 Bhojāwāla	3046	7780	448	0
 Bhogi Mājra	2985	7724	449	0
@@ -426,7 +426,7 @@ Nagla Bojha	2702	7929	464	0
 Bhogaitāpur	2718	7996	686	0
 Bojha	2697	7906	290	0
 Nagla Bhoj	2682	7922	290	0
-Bholi	2678	7923	290	0
+Bholi	2678	7923	290	0	Baholi
 Nagla Bhole	2676	7917	290	0
 Bhojpur Rāmāin	2692	7916	290	0
 Bonāpura	2635	7908	334	0
@@ -478,7 +478,7 @@ Bhojpur	2614	8075	681	0
 Bhojrāj	2316	6926	108	0
 Bollaram	1607	7830	467	0
 Boddām	1806	8314	179	0
-Boddān	1806	8314	179	0
+Boddān	1806	8314	179	0	Boddām
 Boddavāra	1817	8313	179	0
 Bowsahibpeta	1850	7867	230	0
 Bomireddipalli	1869	7913	748	0
@@ -500,7 +500,7 @@ Bollavarappādu	1570	8008	220	0
 Bochegaon	1950	7591	53	0
 Bhojla	1995	7753	67	0
 Bori Sāwargaon	1866	7624	33	0
-Chakkuppallam B.O	965	7715	258	0
+Chakkuppallam B.O	965	7715	258	0	Chakkuppallam
 Bodla	1869	8094	288	0
 Bordubi	2740	9531	460	0
 Boginadi	2742	9468	299	0
@@ -529,7 +529,7 @@ Borka	2629	9167	636	0
 Bhowraguri Satbil II	2643	9007	713	0
 Borobinnyakhata- II	2646	9006	713	0
 Paikan Bonmaza	2637	9135	758	0
-Bonpura	2628	9130	758	0
+Bonpura	2628	9130	758	0	Bekattari
 Borgaon	2660	9080	357	0
 Bodai	2280	8849	450	0
 Borikina	2013	8632	456	0
@@ -585,7 +585,7 @@ Bohl	3150	7738	680	0
 Bori	3138	7747	680	0
 Bohl	3140	7732	278	0
 Bohl	3140	7729	278	0
-Bodla	3038	7416	3	0
+Bodla	3038	7416	3	0	Tāhliwāla
 Bodiwāla	3030	7411	3	0
 Bodiwāla	3028	7438	615	0
 Qāda Bora	3093	7479	566	0
@@ -678,7 +678,7 @@ Bhora	3057	7791	448	0
 Bora	3061	7789	448	0
 Boha	3065	7784	448	0
 Bhogpur Patti Abdullāh	2946	7808	575	0
-Bhogpur Patti Harsukh	2946	7808	575	0
+Bhogpur Patti Harsukh	2946	7808	575	0	Chāndpur
 Farīdpur Bhogi	2939	7817	575	0
 Bomanpura	2933	7812	575	0
 Farīdpur Bhogan	2929	7814	575	0
@@ -686,7 +686,7 @@ Bhoda Hoshnāk	2935	7560	443	0
 Bhojāsar ka Bās	2802	7523	300	0
 Bhojāsar	2802	7524	300	0
 Bhojpur	2955	7821	575	0
-Bhopatpur	2955	7809	575	0
+Bhopatpur	2955	7809	575	0	Bhjpur
 Bhogpur	2978	7817	596	0
 Bhopatwāla Kalān	2998	7818	596	0
 Bojāra	2651	7618	708	0
@@ -701,7 +701,7 @@ Bhonarki	2643	7647	116	0
 Bhonhāra	2356	7876	352	0
 Bhondwāra	2674	7658	447	0
 Bhontāi	2653	7665	116	0
-Bhompura	2637	7673	447	0
+Bhompura	2637	7673	447	0	Tontpura
 Boria	2346	7855	338	0
 Bhonhāra	2339	7878	352	0
 Boria	2344	7895	352	0
@@ -719,7 +719,7 @@ Bhonra	2517	7614	371	0
 Bopura	2920	7744	477	0
 Bhonkheri	2279	7820	590	0
 Tāgra Borna	2273	7811	590	0
-Mītha Borna	2273	7811	590	0
+Mītha Borna	2273	7811	590	0	Tāgra Borna
 Jhīl Borna	2273	7812	590	0
 Gūjar Borna	2273	7812	590	0
 Bodi	2269	7817	590	0
@@ -774,7 +774,7 @@ Borgaon Khurd	2156	7889	337	0
 Torni Bodaldhāna	2164	7899	337	0
 Borgaon	2122	7898	141	0
 Borda	2094	7812	133	0
-Bodkha	2075	7823	133	0
+Bodkha	2075	7823	133	0	Nimbhora
 Borgaon	2052	7808	67	0
 Borvaghal	2069	7821	133	0
 Bhondwa	2064	7825	67	0
@@ -792,7 +792,7 @@ Bode	2447	7314	22	0
 Bori	2448	7315	22	0
 Boptalai	2428	7321	22	0
 Boti	2429	7318	22	0
-Bhod Khera	2990	7464	585	0
+Bhod Khera	2990	7464	585	0	Sakta Khera
 Bholwāra	2421	7328	22	0
 Bobrāwāra	2427	7330	22	0
 Boria	2423	7337	22	0
@@ -853,7 +853,7 @@ Bhojrāj	2903	7579	339	0
 Bhomra	2469	7254	23	0
 Bodōsa	3326	7625	34	0
 Bhobwāl Mājri	2920	7702	298	0
-Bhodwal Majri	2920	7702	298	0
+Bhodwal Majri	2920	7702	298	0	Bhobwāl Mājri
 Bohla	2909	7721	477	0
 Borsi	3032	7815	448	0
 Bhorkhandi	3037	7815	500	0
@@ -900,7 +900,7 @@ Botlacheru	1952	8006	135	0
 Bolepalli	1970	8013	135	0
 Borāra	2621	7505	446	0
 Bholra	2817	7751	754	0
-Bhohara	2821	7766	588	0
+Bhohara	2821	7766	588	0	Ismāilpur
 Bhojāka	2809	7773	543	0
 Bori	1970	8059	135	0
 Bondra	1897	8021	135	0
@@ -965,7 +965,7 @@ Bora Sadhūpur	3081	7642	648	0
 Bhoje Mazra	3091	7644	735	0
 Budha Bhora	3094	7649	735	0
 Bosar Khurd	3033	7649	564	0
-Boharpur	3042	7647	564	0
+Boharpur	3042	7647	564	0	Janheri
 Borola	2792	7784	543	0
 Bhogpur	2789	7786	543	0
 Bolla	2790	7792	543	0
@@ -991,8 +991,8 @@ Bhosa	1851	7627	158	0
 Bothicha Tānda	1849	7693	158	0
 Borphal	1821	7647	158	0
 Bhoslewādi	1822	7669	158	0
-Bora	3044	7691	691	0
-Borahmanān	3048	7698	691	0
+Bora	3044	7691	691	0	Khera
+Borahmanān	3048	7698	691	0	Khānpur
 Bothi	1889	7684	153	0
 Borgaon	1891	7686	153	0
 Bolegaon Khurd	1843	7685	158	0
@@ -1013,7 +1013,7 @@ Borjān	2942	7612	367	0
 Bhongra	2944	7615	367	0
 Borāmani Tānda	1774	7602	132	0
 Borāmani	1772	7602	132	0
-Borūl	1750	7602	132	0
+Borūl	1750	7602	132	0	Ratnāpur
 Boregaon	1767	7614	132	0
 Bhosga	1785	7639	48	0
 Boāna	2921	7631	367	0
@@ -1120,7 +1120,7 @@ Borsi	2116	8130	286	0
 Bori	2110	8135	286	0
 Boria	2119	8137	286	0
 Bohārdih	2106	8143	286	0
-Bodal	2104	8143	286	0
+Bodal	2104	8143	286	0	Gorkāpār
 Boerkachhār	2192	8154	710	0
 Bohārdih	2191	8151	710	0
 Boārda	2188	8154	710	0
@@ -1174,7 +1174,7 @@ Borlam	1839	7790	58	0
 Bolakpalli	1835	7786	58	0
 Bodāghāt	1805	7798	400	0
 Nagla Bhola	2745	7808	670	0
-Marha Bhoj	2744	7809	670	0
+Marha Bhoj	2744	7809	670	0	Marhāka
 Nagla Bola	2727	7813	546	0
 Bolewār	1733	7702	71	0
 Boral	1772	7737	170	0
@@ -1205,7 +1205,7 @@ Bothli	2094	7839	143	0
 Borgaon	2070	7828	133	0
 Bābhulgaon Bobde	2064	7825	143	0
 Bopāpur	2052	7844	143	0
-Bodad	2073	7840	143	0
+Bodad	2073	7840	143	0	Malkāpur
 Bori Mahāl	2044	7836	67	0
 Bomdīpod	2028	7837	67	0
 Sāheb Bori	2029	7839	67	0
@@ -1306,7 +1306,7 @@ Bhonr	2270	7907	337	0
 Bhonrkheri	2268	7901	522	0
 Boriya	2267	7917	337	0
 Bori	2237	7920	337	0
-Nagla Bhoja	2747	7776	177	0
+Nagla Bhoja	2747	7776	177	0	Garhi Hayātpur
 Bhojpur	2728	7776	177	0
 Bonika	2734	7792	670	0
 Bochhār	2298	7933	522	0
@@ -1368,7 +1368,7 @@ Bomhni Lāla	2195	7921	337	0
 Boria	2170	7901	337	0
 Bhondetāl	2157	7900	141	0
 Borban	2148	7921	141	0
-Bodkhi	2106	7908	141	0
+Bodkhi	2106	7908	141	0	Shankarpur
 Borgāpur	2116	7909	141	0
 Pipra Bhoji	2743	7933	688	0
 Nagla Bhola	2727	7928	464	0
@@ -1376,7 +1376,7 @@ Bothīya	2155	7934	141	0
 Bhondewāda	2144	7932	141	0
 Borda	2145	7927	141	0
 Bondri	2142	7927	141	0
-Bhondki	2139	7947	141	0
+Bhondki	2139	7947	141	0	Shivni
 Bori	2137	7941	141	0
 Bhojāpur	2138	7932	141	0
 Borda	2128	7926	141	0
@@ -1476,7 +1476,7 @@ Bhopatpur	2751	7822	670	0
 Bhojpur	2794	7835	543	0
 Bhopālgarhi	2798	7844	543	0
 Bhonai	2791	7839	543	0
-Bhogpur	2782	7842	670	0
+Bhogpur	2782	7842	670	0	Ārifpur
 Bhopālgarhi	2779	7844	670	0
 Bhopālgarhi	2775	7834	543	0
 Bhopālgarni	2767	7848	670	0
@@ -1493,7 +1493,7 @@ Bollikunta	1789	7962	249	0
 Bobbilkota	1778	7953	249	0
 Bhogpur	2795	7868	616	0
 Bonai	2795	7855	543	0
-Bhopālgarhi	2790	7856	616	0
+Bhopālgarhi	2790	7856	616	0	Ghauspur
 Bhojpur	2786	7860	616	0
 Bhogīpur	2781	7851	543	0
 Bolampalli	1736	7954	250	0
@@ -1509,7 +1509,7 @@ Bodāpahād	1688	7917	101	0
 Boyinivānigūda	1681	7916	101	0
 Bholāpur	2674	7969	671	0
 Bhokhari	2669	7971	715	0
-Aurangābād Bhola Hulās	2654	7965	671	0
+Aurangābād Bhola Hulās	2654	7965	671	0	Nawāda Kalān
 Purwa Bhoj	2676	7999	469	0
 Kabra Bhoj	2677	7983	671	0
 Bhoganiānpur	2635	7994	671	0
@@ -1566,7 +1566,7 @@ Bordi	2279	7742	675	0
 Bodri	2563	8305	32	0
 Borsar Kalān	2563	8304	32	0
 Borsar Arāzi	2562	8303	32	0
-Bhojurai	2564	8318	26	0
+Bhojurai	2564	8318	26	0	Barahpur
 Borsar Khurd	2563	8303	32	0
 Bhopatpura	2695	7847	546	0
 Bhogpura	2694	7827	546	0
@@ -1791,7 +1791,7 @@ Botejhari	2019	7944	111	0
 Chak Borda	2003	7945	111	0
 Borda	2002	7943	111	0
 Bothli	2048	7952	111	0
-Bormāra	2050	7965	111	0
+Bormāra	2050	7965	111	0	Kitāri
 Bond	2049	7974	111	0
 Bodra	2036	7977	111	0
 Bordha	2033	7994	111	0
@@ -1866,7 +1866,7 @@ Bhonti	2441	7869	384	0
 Bobai	2415	7865	352	0
 Bomanhalli	1710	7631	80	0
 Borgi	1681	7625	80	0
-Boragi	1681	7625	80	0
+Boragi	1681	7625	80	0	Borgi
 Bori	1945	7782	67	0
 Botha	1996	7846	67	0
 Chetal Bori	1964	7857	282	0
@@ -1875,7 +1875,7 @@ Boraj	1947	7859	282	0
 Bopāpur	1990	7883	67	0
 Bodad	1990	7887	67	0
 Borgaon	1992	7897	67	0
-Bodar	1974	7876	282	0
+Bodar	1974	7876	282	0	Kāpsi
 Borgaon	1964	7876	282	0
 Kukud Bori	1971	7899	111	0
 Bhojpura	2723	7905	464	0
@@ -1915,7 +1915,7 @@ Borpāni	2248	7896	337	0
 Bhokaī	2226	7898	337	0
 Bornapalli	1903	7882	63	0
 Borgaon	2166	7808	462	0
-Bhopatpur	2599	8082	728	0
+Bhopatpur	2599	8082	728	0	Bahalolpur
 Bodhaīyāpur	2595	8076	728	0
 Bhojpur	2582	8099	728	0
 Bhojāpur	2142	7886	141	0
@@ -1928,7 +1928,7 @@ Bori	2026	7871	67	0
 Bopāpur	2037	7871	143	0
 Bhouar	2495	8052	324	0
 Bojhi	2599	8205	718	0
-Bodhīpura	2589	8200	718	0
+Bodhīpura	2589	8200	718	0	Pāndepur
 Bhojemau	2577	8215	718	0
 Pura Bodhrām	2591	8218	718	0
 Bholni	2459	8061	324	0
@@ -1938,7 +1938,7 @@ Sarāi Bhogi	2577	8232	32	0
 Bhoila	2576	8246	32	0
 Bhopatīpur	2595	8253	32	0
 Boria	2340	7928	521	0
-Rāja Bōzār	2573	8254	32	0
+Rāja Bōzār	2573	8254	32	0	Bathuāwar
 Bodhāpur Sītāpur	2574	8259	32	0
 Bhogīrathpur	2568	8255	32	0
 Bodhipur	2554	8271	32	0
@@ -1953,7 +1953,7 @@ Bomeraihia	2450	8053	324	0
 Bhomāra	2443	8065	324	0
 Boriā	2265	7943	368	0
 Bhowaia	2467	8075	324	0
-Bobaia	2467	8075	324	0
+Bobaia	2467	8075	324	0	Bhowaia
 Bhoiria	2467	8080	324	0
 Boria Khurd	2266	7974	368	0
 Boria Kalān	2266	7972	368	0
@@ -1966,7 +1966,7 @@ Bhojpatti	2518	8235	201	0
 Bosi	2500	8248	201	0
 Bhojūpur	2528	8273	251	0
 Bhondaria	2530	8274	251	0
-Bhor Kalān	2530	8274	251	0
+Bhor Kalān	2530	8274	251	0	Bhondaria
 Bhor Kalān	2530	8273	251	0
 Bhor Khurd	2530	8272	251	0
 Bholaipur	2538	8271	583	0
@@ -2027,7 +2027,7 @@ Boksāwāli	2975	7827	596	0
 Bhogpur	2966	7838	575	0
 Jatpura Bhonda	2966	7828	575	0
 Harisingh ka Bhogla	2953	7842	575	0
-Aslāmpur Bholan	2953	7843	575	0
+Aslāmpur Bholan	2953	7843	575	0	Garhi
 Bhogli	2950	7844	575	0
 Kamālpur Bhoga	2949	7844	575	0
 Hasan Alīpur Bhogan	2942	7843	575	0
@@ -2122,7 +2122,7 @@ Bothlī Khurd	2090	7908	141	0
 Borgaon	2078	7905	141	0
 Borī Majra	2077	7910	141	0
 Borgaon Majra	2077	7910	141	0
-Bhoyar	2075	7900	141	0
+Bhoyar	2075	7900	141	0	Paonī
 Bhogpur	2951	7866	575	0
 Bothlī	2069	7903	143	0
 Bothlī	2069	7914	141	0
@@ -2200,7 +2200,7 @@ Borwāri	1975	7797	140	0
 Borgaon	1968	7798	67	0
 Bodakha Khurd	1952	7792	67	0
 Bodakha Buzruk	1950	7794	67	0
-Bhopur Tehiya	2890	7858	483	0
+Bhopur Tehiya	2890	7858	483	0	Phūlpur Adalpur
 Borgaon	1897	7800	360	0
 Ghāt Bojh	2808	7992	470	0
 Bokanpalli	1878	7810	75	0
@@ -2253,7 +2253,7 @@ Bohāl Purwa	2602	8192	718	0
 Bhosinghpur	2608	8184	662	0
 Bhochakwar	2612	8192	662	0
 Bhojpur	2614	8200	662	0
-Bonda	2853	7887	646	0
+Bonda	2853	7887	646	0	Firozpur
 Pipalia Bhoj	2862	7891	552	0
 Bōda	3358	7429	1	0
 Bolārum	1816	7807	58	0
@@ -2262,7 +2262,7 @@ Bhojpur	2844	7894	117	0
 Sikandar Bojhi	2771	8216	280	0
 Pura Bhojang Ahīr	2754	8204	618	0
 Bhojai Dīh	2761	8218	280	0
-Bhojpur	2817	7896	117	0
+Bhojpur	2817	7896	117	0	Simarra
 Bopāram	1897	7830	360	0
 Bodepalli	1886	7836	75	0
 Bo Nāorbal	3332	7453	504	0
@@ -2319,7 +2319,7 @@ Pura Bhondu Kori	2690	8223	542	0
 Boru	3391	7475	76	0
 Bohu	3382	7486	428	0
 Bodabägh	3391	7491	428	0
-Bodabaegh	3391	7491	428	0
+Bodabaegh	3391	7491	428	0	Bodabägh
 Purwa Bodhi	2652	8201	629	0
 Purwa Bhori	2652	8201	629	0
 Purwa Bhola	2653	8201	629	0
@@ -2343,7 +2343,7 @@ Purwa Bhoj	2638	8202	597	0
 Purwa Bhola	2643	8221	629	0
 Bhopa Duhia	2642	8220	629	0
 Bojhwa	2637	8221	597	0
-Bhojpur	2626	8221	597	0
+Bhojpur	2626	8221	597	0	Ainthl Dīh
 Purwa Bhola	2625	8221	597	0
 Bodinarg	3373	7496	35	0
 Boh	3356	7497	35	0
@@ -2436,7 +2436,7 @@ Bohgund	3369	7505	35	0
 Bod Gopālpur	3373	7521	148	0
 Bontuh	3365	7518	148	0
 Bari Bojh	2598	8163	718	0
-Bhoji	2598	8161	718	0
+Bhoji	2598	8161	718	0	Madhkarpur
 Pure Bodhi	2597	8160	718	0
 Khīri Bojai	2591	8174	718	0
 Pure Bhavrām Bojhi	2595	8173	718	0
@@ -2477,14 +2477,14 @@ Borāigudem	1868	8021	237	0
 Bhojauli	2695	8392	560	0
 Bōt	3379	7557	34	0
 Börpathar	3382	7568	547	0
-Boerpathar	3382	7568	547	0
+Boerpathar	3382	7568	547	0	Börpathar
 Borlagūdem	1848	8013	237	0
 Bonagiripalli	1844	8006	237	0
 Chaura Bojh	2572	8360	26	0
 Borsiā	2563	8362	26	0
 Bhopatpur	2570	8372	26	0
 Bhopatpur	2572	8375	26	0
-Boduguda	1886	8035	288	0
+Boduguda	1886	8035	288	0	Odāguda
 Kodisarla Bodugudem	1861	8031	237	0
 Bodugudem	1851	8036	226	0
 Bommanapalle	1839	8050	226	0
@@ -2528,12 +2528,12 @@ Bhojpur	2597	8197	718	0
 Purwa Bholānāth	2593	8179	718	0
 Bhopatpur	2563	8188	607	0
 Bomānpur	2563	8197	607	0
-Borīpur	2572	8197	607	0
+Borīpur	2572	8197	607	0	Dharauta
 Boān	3241	7574	692	0
 Bodoli	3246	7562	496	0
 Bhola ka Pura	2546	8179	607	0
-Bhopatpur	2535	8180	651	0
-Bhoria	2537	8191	607	0
+Bhopatpur	2535	8180	651	0	Tārāpur
+Bhoria	2537	8191	607	0	Tikuri
 Bhojpur	2544	8196	607	0
 Bode ka Purwa	2515	8177	607	0
 Bodhapura	2524	8194	607	0
@@ -3350,7 +3350,7 @@ Bodīligūda	1854	8225	109	0
 Boyagūda	1856	8227	109	0
 Boligūda	1873	8249	316	0
 Boddaputtu	1869	8249	316	0
-Bodonaikgūda	1866	8244	316	0
+Bodonaikgūda	1866	8244	316	0	Gadoputtu
 Bonpadar	1913	8306	363	0
 Bommelu	1860	8249	316	0
 Bongutlaberu	1857	8250	316	0
@@ -3405,7 +3405,7 @@ Bodoguda	1886	8261	316	0
 Boriputtu	1896	8266	316	0
 Bondakotro	1891	8271	316	0
 Bornuputtu	1875	8257	316	0
-Borabari	1867	8251	316	0
+Borabari	1867	8251	316	0	Pambi
 Borilapādu	1859	8251	316	0
 Bodiligūda	1856	8252	316	0
 Bondūpoda	1855	8254	316	0
@@ -3528,7 +3528,7 @@ Borramāmidi	1840	8313	199	0
 Bodilavalasa	1844	8314	199	0
 Bodavalasa	1837	8314	199	0
 Bongija	1828	8318	268	0
-Bodigūda	1809	8146	599	0
+Bodigūda	1809	8146	599	0	Argatta
 Bodigūda	1808	8143	599	0
 Bondugūda	1825	8303	268	0
 Pedda Bondapalle	1875	8338	199	0
@@ -3951,7 +3951,7 @@ Bhorna	2524	8420	409	0
 Bhopatpur	2512	8422	409	0
 Bhobatpur	2586	8432	536	0
 Bhoj Chhapra	2590	8436	536	0
-Bhopālpur	2589	8438	536	0
+Bhopālpur	2589	8438	536	0	Gopālpur
 Bhojāpur	2575	8448	536	0
 Bholāpande	2563	8430	620	0
 Bhoja Chak	2557	8447	377	0
@@ -3964,7 +3964,7 @@ Bhogtādīh	2426	8445	393	0
 Bhopāpura	2284	7651	322	0
 Bokheri	2250	7670	322	0
 Borkundya	2247	7670	322	0
-Bhori	2295	7681	675	0
+Bhori	2295	7681	675	0	Khāndaurāpur
 Bhonra	2294	7683	675	0
 Bordi Khurd	2290	7698	675	0
 Borādah	2419	8425	701	0
@@ -4143,7 +4143,7 @@ Bommanahalli	1475	7647	366	0
 Dodda Bommanahalli	1462	7639	275	0
 Bhojpur	2475	8518	118	0
 Bongaya	2450	8512	118	0
-Bongea	2450	8512	118	0
+Bongea	2450	8512	118	0	Bongaya
 Bongā	2427	8520	393	0
 Bongā	2434	8519	764	0
 Bokhra	2476	8538	107	0
@@ -4527,7 +4527,7 @@ Debi Bojhi	2781	8033	323	0
 Bhogiāpur	2790	8034	323	0
 Bhognadih	2487	8760	461	0
 Bhoj Pandaul	2636	8596	556	0
-Bhojparaul	2636	8596	556	0
+Bhojparaul	2636	8596	556	0	Bhoj Pandaul
 Bochasan	2241	7284	157	0
 Boinchi	2312	8819	279	0
 Boratwada	2372	7193	240	0
@@ -4576,7 +4576,7 @@ Bodemmanūru	1507	7841	232	0
 Bollavaram	1476	7854	229	0
 Bollavaram	1549	7855	232	0
 Bollupalle	1570	7893	200	0
-Boyala	1500	7818	232	0
+Boyala	1500	7818	232	0	Uppalūru
 Bodepalle	1488	7809	100	0
 Boggulakatta	1490	7824	229	0
 Bondeladinne	1485	7811	100	0
@@ -4764,7 +4764,7 @@ Bodabanda	1492	7923	6	0
 Boyanapalli	1469	7908	229	0
 Bommalatapalli	1467	7902	229	0
 Boddecherla	1457	7918	229	0
-Boyapalli	1431	7906	229	0
+Boyapalli	1431	7906	229	0	Kolikavāripalli
 Boppapalli	1424	7912	195	0
 Bonagiripalli	1418	7917	195	0
 Bollachennayagāripalli	1416	7922	195	0
@@ -5201,7 +5201,7 @@ Bondamunda	2225	8493	272	0
 Boarijor	2506	8747	592	0
 Boitamari	2635	9051	746	0
 Botsa	2584	9413	768	0
-Bhogpur	2825	7782	637	0
+Bhogpur	2825	7782	637	0	Muhammadpur
 Borgaon	2118	7905	141	0
 Bojha	2701	7905	464	0
 Borgaon	2130	7896	141	0

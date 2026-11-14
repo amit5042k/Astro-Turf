@@ -1,35 +1,35 @@
 Gobindgarh	3067	7630	648	82266
 Gobichettipalayam	1145	7744	211	59523
-Gobichettipalaiyam	1145	7744	211	59523
-Gobichettipalyam	1145	7744	211	59523
+Gobichettipalaiyam	1145	7744	211	59523	Gobichettipalayam
+Gobichettipalyam	1145	7744	211	59523	Gobichettipalayam
 Gobārdānga	2288	8875	450	43808
 Chhota Gobindpur	2275	8626	584	31843
-Gobra Nawapara	2097	8186	310	29315
+Gobra Nawapara	2097	8186	310	29315	Nawāpāra
 Gobindpur	2263	8607	653	27066
-Gobardhan	2750	7746	177	20044
+Gobardhan	2750	7746	177	20044	Govardhan
 Gobindapur	2616	9059	458	11863
 Gobindapur	2259	8809	354	11665
 Gobindpur	2384	8652	401	11318
 Gho Brāhmanān de	3256	7495	720	4040
-Gho Brāhmanān	3256	7495	720	4040
+Gho Brāhmanān	3256	7495	720	4040	Gho Brāhmanān de
 Gobindpur	2886	7777	700	2556
 Gobabsuri	2205	9260	244	178
 Gobūr Buzurg	1726	7664	71	0
-Gobūrwādi	1726	7664	71	0
-Gobūr	1726	7664	71	0
-Gobindpur	3151	7602	296	0
+Gobūrwādi	1726	7664	71	0	Gobūr Buzurg
+Gobūr	1726	7664	71	0	Gobūr Buzurg
+Gobindpur	3151	7602	296	0	Dodomara
 Gobindpur	2478	8569	750	0
 Gobindpur	2207	8428	567	0
 Gobindanj	2652	8466	396	0
-Gobindganj	2652	8466	396	0
+Gobindganj	2652	8466	396	0	Gobindanj
 Gobindāpur	2840	7940	342	0
 Gobindapur	2326	8798	375	0
 Gobindapur	2068	8651	702	0
-Gobindapāli	1858	8228	109	0
+Gobindapāli	1858	8228	109	0	Govindapalle
 Gobarwāhi	2152	7972	404	0
 Gobardhana	2732	8431	476	0
 Gobardhan	2579	7753	436	0
-Gobar	2579	7753	436	0
+Gobar	2579	7753	436	0	Gobardhan
 Gobakund	1995	8588	603	0
 Gobindapur	2178	8816	4	0
 Gobindapur	2273	8810	279	0
@@ -54,11 +54,11 @@ Gobrapur	2313	8881	450	0
 Gobindapur	2346	8825	375	0
 Gobindpur	2811	7651	519	0
 Gobindnagar	2955	7545	443	0
-Gobindgarh	2975	7598	593	0
+Gobindgarh	2975	7598	593	0	Mahān Singhwāla
 Gobindgarh	2962	7673	457	0
 Gobindgarh	2995	7684	501	0
 Gobindgarh	3018	7426	3	0
-Gobindgarh	3002	7453	615	0
+Gobindgarh	3002	7453	615	0	Sikhwāla
 Gobindpur	3060	7707	587	0
 Gobindpura	2727	7659	482	0
 Gobindpura	3015	7729	88	0
@@ -73,7 +73,7 @@ Gobarda	2603	7687	335	0
 Gobindgarh	2988	7469	585	0
 Gobardha Vilās	2454	7369	22	0
 Gobindpura	3028	7502	563	0
-Gobindpura	3046	7569	593	0
+Gobindpura	3046	7569	593	0	Prohitānwāla
 Gobindgarh Sekhwān	3005	7558	709	0
 Gobindpura	2865	7729	794	0
 Nagla Gobindpur	2833	7769	637	0
@@ -100,7 +100,7 @@ Gobindpur	2889	7798	700	0
 Gobra	2588	7819	484	0
 Gobindgarh Chhanna	3042	7617	564	0
 Gobindpur	3086	7642	735	0
-Gobindpur	3043	7644	564	0
+Gobindpur	3043	7644	564	0	Suniārheri
 Gobindpur	3093	7652	735	0
 Gobindgarh	3027	7673	691	0
 Gobindpur	3045	7699	691	0
@@ -387,7 +387,7 @@ Pura Gobind Ahīr	2666	8277	154	0
 Pura Gobind Kahār	2666	8277	154	0
 Pura Gobind	2665	8285	154	0
 Gobindganj	2656	8292	647	0
-Gobind Jot	2661	8290	647	0
+Gobind Jot	2661	8290	647	0	Chandipur
 Pura Gobind	2666	8290	154	0
 Gobindpur	2670	8297	154	0
 Gobardhanpur	2585	8329	498	0
@@ -561,7 +561,7 @@ Gobindpur	2821	7942	342	0
 Nawāda Gobindganj	2649	8466	396	0
 Gobindapur	2623	8457	639	0
 Gobinapur	2610	8461	639	0
-Gobindpūr	2886	7974	683	0
+Gobindpūr	2886	7974	683	0	Tundalia
 Gobindapur	2659	8489	396	0
 Math Gobardhan	2638	8492	396	0
 Gobindapur	2645	8492	396	0
@@ -605,7 +605,7 @@ Gobindpur	2474	8541	107	0
 Gobardāha	2459	8528	118	0
 Gobindpur	2437	8537	764	0
 Gobarbandhā	2408	8540	764	0
-Gobindpur	2401	8529	764	0
+Gobindpur	2401	8529	764	0	Garke
 Chatra Gobraura	2650	8622	556	0
 Gobindpur	2601	8642	661	0
 Gobrāhi	2599	8604	591	0

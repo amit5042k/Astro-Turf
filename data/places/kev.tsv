@@ -1,13 +1,13 @@
 Kevadiya	2189	7370	254	6788
 Kewas Nizamat	2583	8586	138	6599
-Kewzing	2728	8835	85	0
-Kewalrām	2140	7874	141	0
+Kewzing	2728	8835	85	0	Sosing
+Kewalrām	2140	7874	141	0	Pipla
 Kevdi	2150	7345	139	0
-Kevra Khurd	2442	7377	22	0
+Kevra Khurd	2442	7377	22	0	Keora
 Kevadūa	2525	7550	353	0
 Nagla Kewal	2705	7938	464	0
 Kewalrāmpur Chilauwa	2759	7969	470	0
-Khewāi	2783	7145	217	0
+Khewāi	2783	7145	217	0	Khawāi
 Kewi	3137	7735	278	0
 Khewās	2651	7637	708	0
 Kewalpuri	2969	7812	596	0
@@ -21,7 +21,7 @@ Kevlāri	2209	7804	462	0
 Kevlāri	2264	7869	337	0
 Kevlāri	2222	7865	337	0
 Kewlāri	2215	7894	337	0
-Khewa Khurd	3013	7557	709	0
+Khewa Khurd	3013	7557	709	0	Shāhzāda Singhwāla
 Khewa Kalān	3011	7557	709	0
 Kewāda	2536	7467	309	0
 Kewal	2987	7504	585	0
@@ -36,7 +36,7 @@ Kevlāri	2358	7949	521	0
 Kevalāri	2319	7955	598	0
 Nagla Kewal	2712	7863	403	0
 Kevlāri	2262	7915	337	0
-Kevlāri	2291	7936	522	0
+Kevlāri	2291	7936	522	0	Nayāgaon
 Nagla Kewal	2741	7969	688	0
 Kewalpur	2752	7986	686	0
 Kewalgarhi	2751	7805	670	0
@@ -212,14 +212,14 @@ Kewat	2644	8365	535	0
 Kewal Chhapra	2691	8395	560	0
 Kewlarha	2378	8003	351	0
 Kewār	3249	7533	496	0
-Kewat ka Purwa	2529	8153	651	0
+Kewat ka Purwa	2529	8153	651	0	Muhammadābād
 Chak Khewa	3056	7411	3	0
 Chak Kewat Ali	2551	8193	607	0
 Kewā Tolā	2197	8011	144	0
 Kewa	2193	8269	696	0
 Kewalpurwa	2789	8093	323	0
 Kewalpur	2757	8095	507	0
-Khewas	3309	7646	362	0
+Khewas	3309	7646	362	0	Tundru
 Kewattola	2059	8085	644	0
 Kewār	2262	8121	468	0
 Kewrāpāra	2228	8194	291	0
@@ -236,7 +236,7 @@ Kevatiguda	1930	8337	363	0
 Kewrākheri	2343	7658	320	0
 Morta Kewari	2325	7655	320	0
 Kewas	2497	7390	572	0
-Kewalganj	2904	7928	641	0
+Kewalganj	2904	7928	641	0	Mazra Dālchand
 Kewāni	2585	8485	540	0
 Kewāri Kalān	2591	8490	540	0
 Kewlapur	2720	8460	476	0
@@ -274,7 +274,7 @@ Kewāl Khās	2427	8500	393	0
 Khewai	2460	8535	107	0
 Kewāl Kurha	2461	8532	107	0
 Kewāl	2457	8530	118	0
-Kewal	2425	8543	764	0
+Kewal	2425	8543	764	0	Kawāl
 Kewal Bigha	2493	8565	107	0
 Kewān	2641	8618	556	0
 Kewatna	2628	8641	556	0

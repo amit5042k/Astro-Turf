@@ -1,14 +1,14 @@
 Kosi	2779	7744	177	52492
 Kosamba	2146	7296	139	33221
 Kosigi	1586	7724	236	15455
-Kosgi	1586	7724	236	15455
-Kosavampatti	1122	7818	231	10356
+Kosgi	1586	7724	236	15455	Kosigi
+Kosavampatti	1122	7818	231	10356	Kusavampatti
 Kosmī	2180	8021	144	8970
 Bharthana Kosad	2127	7287	139	5679
-Kosauli	3090	7697	628	5215
+Kosauli	3090	7697	628	5215	Kasauli
 Yor Khoshpur	3360	7514	35	0
 Kosomkhuta	2104	8207	297	0
-Kosumkhuta	2104	8207	297	0
+Kosumkhuta	2104	8207	297	0	Kosomkhuta
 Kosrangi	2135	8200	310	0
 Koslu	2549	7177	285	0
 Kosli	2840	7648	519	0
@@ -17,28 +17,28 @@ K’o-shih-erh-ts’un	3534	7887	2	0
 Kosgi	1699	7772	283	0
 Kosemba	2035	7377	54	0
 Koselao	2537	7313	273	0
-Koselāv	2537	7313	273	0
+Koselāv	2537	7313	273	0	Koselao
 Kosdani	1992	7792	67	0
 Kosarsār	2045	7902	111	0
 Kosapuram	1390	7866	195	0
 Kosāna	2645	7363	344	0
 Kosamri	2158	7303	151	0
-Kosamdi	2158	7303	151	0
+Kosamdi	2158	7303	151	0	Kosamri
 Kosam Khirāj	2533	8140	651	0
-Kosam Khirāg	2533	8140	651	0
-Kosam	2533	8140	651	0
+Kosam Khirāg	2533	8140	651	0	Kosam Khirāj
+Kosam	2533	8140	651	0	Kosam Khirāj
 Kosamba	2164	7965	144	0
 Kosa	2332	6871	108	0
 Khospuri	1927	7485	152	0
 Dewa Khosa	3065	7607	674	0
-Dīwa Khosa	3065	7607	674	0
+Dīwa Khosa	3065	7607	674	0	Dewa Khosa
 Ko-Su-Mani Nagar	1305	8024	204	0
 Kosappūr	1318	8024	204	0
 Kosavanpālaiyam	1309	8002	228	0
 Kosālyon ki Dhāni	2814	7543	300	0
 Khosarpur	3059	7690	632	0
 Koseli	2687	7914	290	0
-Kosri	1947	7669	153	0
+Kosri	1947	7669	153	0	Kausdi
 Kosagumuda	1928	8224	518	0
 Kosmarra	2096	8243	407	0
 Kosala	2102	8491	414	0
@@ -80,7 +80,7 @@ Kosāra	2028	7882	67	0
 Koson	2720	7874	464	0
 Kosma Hinūd	2714	7886	464	0
 Kosamkhera	2286	7915	522	0
-Kosamkheda	2286	7915	522	0
+Kosamkheda	2286	7915	522	0	Kosamkhera
 Kosmi	2228	7912	337	0
 Kosmi	2205	7974	368	0
 Kosagutta	1922	7865	360	0
@@ -255,7 +255,7 @@ Kosalpura	2701	7594	121	0
 Kosī	2450	8405	701	0
 Kosiārā	2412	8401	701	0
 Kosanda	2530	8426	409	0
-Kosiārā	2434	8434	701	0
+Kosiārā	2434	8434	701	0	Barwādīh
 Kosīārā	2416	8433	701	0
 Koshlādih	2411	8428	701	0
 Kosāra	1998	7926	111	0

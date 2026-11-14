@@ -1,14 +1,14 @@
 Chakradharpur	2268	8563	287	56531
-Chakardharpore	2268	8563	287	56531
-Chakardharpur	2268	8563	287	56531
+Chakardharpore	2268	8563	287	56531	Chakradharpur
+Chakardharpur	2268	8563	287	56531	Chakradharpur
 Chākan	1876	7386	52	41113
 Chaklāsi	2265	7294	167	39581
 Chaksu	2661	7595	121	33432
 Chakapara	2263	8835	354	27320
-Chakpara	2263	8835	354	27320
+Chakpara	2263	8835	354	27320	Chakapara
 Chākia	2642	8505	396	20686
 Chākuliā	2248	8672	584	16306
-Chākuha	2248	8672	584	16306
+Chākuha	2248	8672	584	16306	Chākuliā
 Chakia	2505	8322	724	14999
 Bāli Chak	2236	8755	677	12957
 Chākāi	2455	8640	524	11525
@@ -17,34 +17,34 @@ Chakkārappalli	1090	7920	264	6227
 Mansur Chak	2562	8592	530	5359
 Chak Nur	2587	8576	138	5238
 Ratnu Chak	3267	7493	720	5228
-Chak Ratnu	3267	7493	720	5228
+Chak Ratnu	3267	7493	720	5228	Ratnu Chak
 Kālu Chak	3266	7490	581	4725
-Chak Kalu	3266	7490	581	4725
+Chak Kalu	3266	7490	581	4725	Kālu Chak
 Gyan Chak	2555	8524	604	3392
 Chakrāta	3070	7786	448	3348
 Chak Sadat	2267	8807	354	2940
 Chak Abdul Ghani	2586	8574	138	2586
 Chak Dhotrān	3113	7576	369	573
 Chak English Chak Chain Singh	2569	8235	32	262
-Chak English Chak Chain S	2569	8235	32	262
+Chak English Chak Chain S	2569	8235	32	262	Chak English Chak Chain Singh
 Achān Chak	3102	7582	369	138
 Sohūwāla Chak Rohi	2965	7497	585	0
-Chak Saidoke	3058	7432	566	0
-Chak Bindā	2537	8211	607	0
-Kartala-Chak	2230	8296	388	0
+Chak Saidoke	3058	7432	566	0	Saidoke
+Chak Bindā	2537	8211	607	0	Saidābād
+Kartala-Chak	2230	8296	388	0	Kartala
 Rane Chak	3282	7472	581	0
-Kāne Chak	3282	7472	581	0
+Kāne Chak	3282	7472	581	0	Rane Chak
 Heria Ātmārām Chak	2197	8780	559	0
 Chākoli	1995	7668	128	0
 Chaktalao	2210	7417	155	0
-Chhaktala	2210	7417	155	0
+Chhaktala	2210	7417	155	0	Chaktalao
 Charoi Chakoklong	2477	9364	576	0
 Chākūr	1851	7687	158	0
 Chākūr	1797	7665	48	0
 Chākhu	2741	7278	344	0
 Chak Sohelewāla	3052	7436	3	0
 Chak Sikandar	2568	8536	716	0
-Chak Sāna	2719	7766	114	0
+Chak Sāna	2719	7766	114	0	Chiksāna
 Chakra	2146	7362	139	0
 Chakpi Karong	2421	9390	685	0
 Chak Mahān Bhadar	3041	7443	615	0
@@ -68,30 +68,30 @@ Thakur Chak	2216	8848	4	0
 Rula Chak	2250	8888	450	0
 Bulli Chak	3249	7473	581	0
 Chak Nawāb	3084	7434	566	0
-Chak Rāoke	3084	7434	566	0
+Chak Rāoke	3084	7434	566	0	Chak Nawāb
 Chak-i-Wātalbāgh	3425	7477	595	0
 Lāl Wāruk Chak	3426	7490	595	0
 Chak Halīm Khān	3431	7494	595	0
 Gantabardārun Chak	3428	7484	595	0
 Chak Fatehpura	3421	7478	595	0
 Chak-i-Chandar	3417	7481	595	0
-Chak-i-Chandor	3417	7481	595	0
+Chak-i-Chandor	3417	7481	595	0	Chak-i-Chandar
 Chak-i-Dāra	3418	7492	611	0
 Chak Badrināth	3400	7485	76	0
 Chakpura Kalān	3401	7486	76	0
 Chak Kauro	3376	7418	1	0
-Chak Katro	3376	7418	1	0
+Chak Katro	3376	7418	1	0	Chak Kauro
 Chakān di Bāg	3375	7403	1	0
 Chakāra	3378	7423	1	0
-Chakrāra	3378	7423	1	0
+Chakrāra	3378	7423	1	0	Chakāra
 Chakli	3329	7424	504	0
-Chakli	3328	7418	504	0
+Chakli	3328	7418	504	0	Hil
 Chākpur	3443	7423	0	0
 Chak Dūdhkul	3431	7422	0	0
 Chakapath	3430	7415	0	0
-Chakopath	3430	7415	0	0
+Chakopath	3430	7415	0	0	Chakapath
 Kalam Chakla	3435	7423	0	0
-Paiwan Chakul	3431	7409	0	0
+Paiwan Chakul	3431	7409	0	0	Paiwan Tsakui
 Gohal Chaku	3424	7455	120	0
 Chak Ganasthān	3420	7463	120	0
 Chak-i-Razāq Khān	3414	7467	301	0
@@ -136,9 +136,9 @@ Chakīvan	3319	7432	504	0
 Chakli	3310	7439	504	0
 Chakīyān	3316	7433	504	0
 Gora Chaki	3299	7438	504	0
-Gora Chakli	3299	7438	504	0
+Gora Chakli	3299	7438	504	0	Gora Chaki
 Bhagwāli Chak	3285	7448	581	0
-Bhagwān Chak	3285	7448	581	0
+Bhagwān Chak	3285	7448	581	0	Bhagwāli Chak
 Dungai Chak	3455	7525	547	0
 Dadareli Chak	3453	7528	547	0
 Chak Subhān Mīr	3462	7507	547	0
@@ -153,37 +153,37 @@ Chak Rakwālān	3279	7492	581	0
 Chak Largān	3276	7495	581	0
 Chak Gouriyan	3250	7478	581	0
 Wajīra Chak	3250	7480	581	0
-Chak Wazīra	3250	7480	581	0
+Chak Wazīra	3250	7480	581	0	Wajīra Chak
 Bāne Chak	3253	7499	720	0
-Chak Bāhnah	3253	7499	720	0
+Chak Bāhnah	3253	7499	720	0	Bāne Chak
 Chak Balotrān	3252	7493	720	0
 Chak Hīrān	3252	7492	720	0
 Dunne da Chak	3252	7493	720	0
-Chak Dunne	3252	7493	720	0
+Chak Dunne	3252	7493	720	0	Dunne da Chak
 Chak Salehriyān	3253	7493	720	0
 Chak Gaureān	3255	7493	720	0
-Chak Gurān	3255	7493	720	0
+Chak Gurān	3255	7493	720	0	Chak Gaureān
 Chhatāken Chak	3253	7491	720	0
-Chak Chhatākān	3253	7491	720	0
+Chak Chhatākān	3253	7491	720	0	Chhatāken Chak
 Shāme Chak	3251	7491	720	0
-Chak Shāma	3251	7491	720	0
+Chak Shāma	3251	7491	720	0	Shāme Chak
 Chak Nāzar	3253	7489	720	0
 Chimna Chak	3254	7490	581	0
-Chak Chimna	3254	7490	581	0
+Chak Chimna	3254	7490	581	0	Chimna Chak
 Pughwāna da Chak	3254	7489	581	0
-Chak Bhagwāna	3254	7489	581	0
+Chak Bhagwāna	3254	7489	581	0	Pughwāna da Chak
 Sibbu Chak	3254	7487	581	0
-Balāre Chak	3252	7488	581	0
+Balāre Chak	3252	7488	581	0	Ranjīpura
 Chak Mājra	3254	7484	581	0
-Chak Kīma	3254	7484	581	0
+Chak Kīma	3254	7484	581	0	Chak Mājra
 Chak Fateh Khān	3253	7484	581	0
 Chak Ramdās	3252	7482	581	0
 Shera Chak	3251	7477	581	0
-Chak Shera	3251	7477	581	0
+Chak Shera	3251	7477	581	0	Shera Chak
 Preme Chak	3256	7478	581	0
-Chak Premān	3256	7478	581	0
+Chak Premān	3256	7478	581	0	Preme Chak
 Bāle Chak	3256	7478	581	0
-Chak Bāla	3256	7478	581	0
+Chak Bāla	3256	7478	581	0	Bāle Chak
 Nānak Chak	3255	7480	581	0
 Chak Jawāharsingh	3256	7490	581	0
 Chak Bhāna Jattān	3256	7493	581	0
@@ -191,69 +191,69 @@ Chak Daulat	3255	7498	720	0
 Chak Salehriyān	3256	7500	720	0
 Chak Bāglān	3254	7500	720	0
 Qadre Chak	3257	7493	581	0
-Chak Qādir	3257	7493	581	0
+Chak Qādir	3257	7493	581	0	Qadre Chak
 Chak Bhatiyāri	3257	7493	581	0
 Sūbe Chak	3257	7493	581	0
-Chak Sūba	3257	7493	581	0
+Chak Sūba	3257	7493	581	0	Sūbe Chak
 Keso Chak	3256	7492	581	0
-Chak Keshab	3256	7492	581	0
+Chak Keshab	3256	7492	581	0	Keso Chak
 Chak Umra	3256	7491	581	0
 Chakra	3258	7490	581	0
 Bajīrā Chak	3258	7486	581	0
-Wazīra Chak	3258	7486	581	0
+Wazīra Chak	3258	7486	581	0	Bajīrā Chak
 Hāsle Chak	3257	7487	581	0
-Chak Hāsil	3257	7487	581	0
+Chak Hāsil	3257	7487	581	0	Hāsle Chak
 Chak Hārni	3258	7482	581	0
 Jagtu Chak	3256	7483	581	0
-Chak Bakhtāwar	3258	7476	581	0
+Chak Bakhtāwar	3258	7476	581	0	Kharīān
 Chak Memdīār da	3259	7476	581	0
-Chak Mohammadyār	3259	7476	581	0
+Chak Mohammadyār	3259	7476	581	0	Chak Memdīār da
 Islām Chak	3259	7478	581	0
 Chak Bahādur Khān	3261	7483	581	0
 Abtāre Chak	3262	7486	581	0
 Bāne Chak	3260	7488	581	0
 Mien Chak	3260	7493	581	0
-Chak Miān Sāhib Singh	3260	7493	581	0
+Chak Miān Sāhib Singh	3260	7493	581	0	Mien Chak
 Marāre Chak	3261	7490	581	0
 Lāle Chak	3263	7488	581	0
 Lāwal Chak	3263	7481	581	0
-Chak Alāwal	3263	7481	581	0
+Chak Alāwal	3263	7481	581	0	Lāwal Chak
 Shīān Chak	3262	7481	581	0
-Shlān Chak	3262	7481	581	0
+Shlān Chak	3262	7481	581	0	Shīān Chak
 Talbe Chak	3262	7476	581	0
-Chak Tālib	3262	7476	581	0
+Chak Tālib	3262	7476	581	0	Talbe Chak
 Chak Mangu	3266	7478	581	0
 Ālame Chak	3266	7476	581	0
 Chak Lachhman	3267	7476	581	0
 Chak Sardar Desa Singh	3267	7477	581	0
 Seru Chak	3267	7476	581	0
-Chak Sheru	3267	7476	581	0
-Chak Nāwāda	3268	7477	581	0
+Chak Sheru	3267	7476	581	0	Seru Chak
+Chak Nāwāda	3268	7477	581	0	Noadda
 Bhūre Chak	3269	7476	581	0
-Chak Bhūre	3269	7476	581	0
+Chak Bhūre	3269	7476	581	0	Bhūre Chak
 Punotre Chak	3269	7476	581	0
-Chak Bhanotre	3269	7476	581	0
+Chak Bhanotre	3269	7476	581	0	Punotre Chak
 Gosāīn Chak	3269	7478	581	0
 Jarālān da Chak	3264	7488	581	0
-Jarāle Chak	3264	7488	581	0
+Jarāle Chak	3264	7488	581	0	Jarālān da Chak
 Chūhe Chak	3264	7489	581	0
 Jalo da Chak	3266	7490	581	0
-Chak Jalo	3266	7490	581	0
+Chak Jalo	3266	7490	581	0	Jalo da Chak
 Karnalle Chak	3271	7482	581	0
 Chak Sardār Attar Singh	3271	7480	581	0
 Ganeshu Chak	3270	7481	581	0
 Sure Chak	3269	7481	581	0
 Gandu Chak	3271	7477	581	0
 Lāl Dīn da Chak	3273	7475	581	0
-Chak Laldīn	3273	7475	581	0
+Chak Laldīn	3273	7475	581	0	Lāl Dīn da Chak
 Chak Paune Band	3273	7478	581	0
-Paune Chak	3273	7478	581	0
+Paune Chak	3273	7478	581	0	Chak Paune Band
 Gulāme Chak	3273	7481	581	0
 Munshi Chak	3273	7482	581	0
 Chak Dāi da	3273	7476	581	0
-Chak Dhai	3273	7476	581	0
+Chak Dhai	3273	7476	581	0	Chak Dāi da
 Chākra	3410	7394	301	0
-Chak Kunjiān	3436	7385	0	0
+Chak Kunjiān	3436	7385	0	0	Chor Kunjiān
 Chhān Chak	3038	7782	448	0
 Chak Ānandpura	2577	7564	313	0
 Chakohi	3070	7614	674	0
@@ -280,14 +280,14 @@ Chaku	2770	7974	686	0
 Chak	2763	7953	470	0
 Daulatpur Chakai	2751	7963	688	0
 Chak Gabarha	2692	7914	290	0
-Chak Gubriha	2692	7914	290	0
+Chak Gubriha	2692	7914	290	0	Chak Gabarha
 Chakwa Buzurg	2686	7906	290	0
-Chakwa Bazurg	2686	7906	290	0
+Chakwa Bazurg	2686	7906	290	0	Chakwa Buzurg
 Chak Jādaunpur	2677	7906	290	0
 Chakwa Khurd	2681	7908	290	0
 Chakarpurra	2649	7924	290	0
 Chakbāwri	2699	7568	121	0
-Chakāla	2675	7560	121	0
+Chakāla	2675	7560	121	0	Chokla
 Chāki	2620	7927	741	0
 Chak Jagdeopura	2603	7946	741	0
 Chakrapur	2684	7953	715	0
@@ -296,20 +296,20 @@ Chakeri	2407	7908	352	0
 Chak Paras	3248	7497	720	0
 Chak Rukwāl	3250	7496	720	0
 Chak Alia	3249	7494	720	0
-Chak Balkhān Kānj	3248	7494	720	0
+Chak Balkhān Kānj	3248	7494	720	0	Bukhan Kani
 Chak Jasu	3247	7491	720	0
 Bamun Chak	3248	7491	720	0
 Chak Jawāhir	3250	7490	720	0
 Deoli Chak	3249	7488	720	0
-Chak Deoli	3249	7488	720	0
+Chak Deoli	3249	7488	720	0	Deoli Chak
 Chakliamuja	2629	8978	664	0
 Chakiālgaon	2716	9473	520	0
 Chakaliā	2714	9482	380	0
 Chakrāyagūdem	1686	8116	24	0
-Chakrāvagūdem	1686	8116	24	0
+Chakrāvagūdem	1686	8116	24	0	Chakrāyagūdem
 Chakaria	2448	8328	525	0
 Chakkuppallam	965	7715	258	0
-Chakkuppallam B.O	965	7715	258	0
+Chakkuppallam B.O	965	7715	258	0	Chakkuppallam
 Chaka	2336	8670	415	0
 Chakdand	2343	8244	621	0
 Chakram	2519	8881	25	0
@@ -340,7 +340,7 @@ Chakra	3136	7715	278	0
 Chak-i-kalilan	3455	7419	0	0
 Bahram Chak Forest	3454	7448	0	0
 Dundwari Chak	3455	7434	0	0
-Chak Twenty Nine GB	2924	7352	374	0
+Chak Twenty Nine GB	2924	7352	374	0	Bijainagar
 Chak Twenty Two GB	2924	7358	374	0
 Chak Twenty Eight GB	2924	7354	374	0
 Chak Twenty Five GB	2924	7355	374	0
@@ -375,24 +375,24 @@ Chak Thirty Eight L N P	2967	7382	374	0
 Chakhanu	3142	7737	278	0
 Chaklehl	3148	7745	680	0
 Chakāl	3148	7745	680	0
-Chak Banwāla	3043	7413	3	0
-Chak Chhapriwāla	3048	7419	3	0
+Chak Banwāla	3043	7413	3	0	Jogiān
+Chak Chhapriwāla	3048	7419	3	0	Kundiānwāla
 Chak Kheowāla	3041	7417	3	0
-Chak Lakhowāl	3050	7420	3	0
+Chak Lakhowāl	3050	7420	3	0	Budhoke
 Chak Husmand	3050	7408	3	0
-Chak Pāliwāla	3048	7423	3	0
+Chak Pāliwāla	3048	7423	3	0	Mol
 Chak Rorānwāla	3049	7430	3	0
 Chak Jānisar	3050	7434	3	0
 Chak Khuranj	3048	7431	3	0
 Chak Madarsa	3047	7438	615	0
 Chak Rorānwāla	3045	7427	3	0
 Chak Halīmwāla	3045	7425	3	0
-Chak Chibrānwāla	3038	7438	615	0
+Chak Chibrānwāla	3038	7438	615	0	Sheriwāla
 Chak Tāmkot	3035	7445	615	0
 Chak Kāla Tibba	3011	7425	3	0
 Ahal and Chaksema	3071	7451	730	0
 Chak Sherewāla	3057	7463	615	0
-Chak Bāje Madāhar	3057	7463	615	0
+Chak Bāje Madāhar	3057	7463	615	0	Chak Sherewāla
 Chak Motliwāla	3056	7470	615	0
 Chak Gandha Singhwāla	3053	7463	615	0
 Chak Giljiānwāla	3035	7457	615	0
@@ -448,14 +448,14 @@ Chhakra	2653	7690	116	0
 Chākar	2258	7846	590	0
 Chaklāpura	2256	7898	337	0
 Chakāra	2166	7898	337	0
-Chak Mirzāpur	2907	7754	700	0
+Chak Mirzāpur	2907	7754	700	0	Damgarhi
 Chakbandi	2918	7768	700	0
 Chak Gurnāwda	2576	7671	335	0
 Chak Ruldu Singhwāla	3001	7478	563	0
-Chak Hari Singhwāla	3001	7487	563	0
+Chak Hari Singhwāla	3001	7487	563	0	Pakka Khurd
 Chak Kharak Singh	2997	7473	563	0
 Chak Munānwāli	2976	7475	585	0
-Chak Jālu	2976	7475	585	0
+Chak Jālu	2976	7475	585	0	Chak Munānwāli
 Chūhar Chak	3090	7504	499	0
 Chak Fatehpur	2559	7673	335	0
 Chak Rām Singhwāla	3018	7511	563	0
@@ -468,10 +468,10 @@ Chākar	3064	7540	674	0
 Fidai Chak	3092	7555	674	0
 Chak Jattān	3090	7565	674	0
 Chān Chak	2963	7794	545	0
-Chak Shāhbehri	2861	7741	588	0
+Chak Shāhbehri	2861	7741	588	0	Yūsufpur
 Chakarsenpur Khurd	2899	7738	477	0
 Chakarpur	2877	7745	727	0
-Chakrasenpur	2856	7762	588	0
+Chakrasenpur	2856	7762	588	0	Dhanubās
 Chak Jalālābād	2827	7755	588	0
 Chakrasainpur	2848	7760	588	0
 Avual Chak	2949	7492	585	0
@@ -487,7 +487,7 @@ Chakwa	2601	7497	446	0
 Chakwi	2602	7496	446	0
 Chak Shāhjāhani	2933	7850	575	0
 Chak Muhammadnagar	2930	7854	575	0
-Manowarpur Chak	2945	7874	575	0
+Manowarpur Chak	2945	7874	575	0	Patharwāla
 Chak Mani Raghūnāth Singh	2941	7874	575	0
 Chakiā Tāl	2899	7920	552	0
 Sainaiyā Chak	2882	7910	552	0
@@ -509,10 +509,10 @@ Chak Jahāngīrpur	2820	7771	588	0
 Chākung	2715	8824	617	0
 Chak Qāsimpur	2890	7790	700	0
 Chaknār	2163	8108	509	0
-Chak Nāvli	2699	7730	114	0
+Chak Nāvli	2699	7730	114	0	Bhūkīpura
 Chak Khaneta	2645	7797	478	0
 Chak Teton	2650	7828	334	0
-Chak Khaneta	2644	7837	334	0
+Chak Khaneta	2644	7837	334	0	Motīsingh ka Pura
 Chak Tukera	2642	7833	334	0
 Chak Jhāwalpura	2639	7837	334	0
 Chak Mādhopur	2638	7836	334	0
@@ -553,7 +553,7 @@ Chāk Lahauri	3097	7633	735	0
 Chak Lohat	3094	7632	674	0
 Chaklān	3083	7645	735	0
 Mazra Chak Karmān	3099	7650	295	0
-Chak Nandola	2764	7731	114	0
+Chak Nandola	2764	7731	114	0	Azīzpur
 Chān Chak	3003	7626	638	0
 Chaklān	3088	7655	735	0
 Chākurwādi	1847	7689	158	0
@@ -631,7 +631,7 @@ Chak Ghutāri	2532	7767	436	0
 Chak Shankargarh	2523	7755	436	0
 Chak	2520	7766	436	0
 Chakra	2518	7765	436	0
-Ramnagar Chak	2517	7774	436	0
+Ramnagar Chak	2517	7774	436	0	Sītānagar
 Chak Gilgawān	2518	7760	436	0
 Chak Ukāwal	2516	7759	436	0
 Chak	2504	7764	436	0
@@ -671,7 +671,7 @@ Chakrājpur	2416	7749	215	0
 Shrīpur Chak	2499	7757	436	0
 Orera Chak	2500	7769	436	0
 Garela Chak	2493	7751	436	0
-Meghona Chak	2487	7768	436	0
+Meghona Chak	2487	7768	436	0	Barāpur
 Rāmgarh Chak	2483	7774	410	0
 Chak Chiroli	2469	7759	410	0
 Chak Kanāri	2469	7755	410	0
@@ -726,7 +726,7 @@ Chak Salempur Goli	2575	8122	728	0
 Chak Baswa	2566	8112	728	0
 Chakiya	2560	8114	728	0
 Chak Jalālpur Wāri	2561	8121	651	0
-Chak Shāhjahanpur	2550	8117	728	0
+Chak Shāhjahanpur	2550	8117	728	0	Dāmpur
 Chak Piāran	2567	8202	607	0
 Chak Bhikauna	2566	8203	607	0
 Chakra	2567	8214	607	0
@@ -738,10 +738,10 @@ Chak Abdul Shakūr	2564	8211	607	0
 Chak Shaikh Ahmad	2565	8212	607	0
 Chak Ali	2565	8212	607	0
 Chak Piārān	2566	8204	607	0
-Chak Shaikhlāl	2565	8202	607	0
+Chak Shaikhlāl	2565	8202	607	0	Sādhupur
 Chakia	2563	8201	607	0
 Chak Sultān Muhammad	2562	8209	607	0
-Chak Dāni	2562	8213	607	0
+Chak Dāni	2562	8213	607	0	Sarāi Bindrāban
 Chakiya	2562	8215	32	0
 Chak Qāzi Aulia	2558	8213	607	0
 Chak Bhikhāri	2559	8213	607	0
@@ -787,7 +787,7 @@ Asmān Chak	2555	8310	26	0
 Bāmhan Chak	2563	8315	26	0
 Harju Chak	2562	8315	26	0
 Chakera	2568	8313	498	0
-Chakia	2568	8311	498	0
+Chakia	2568	8311	498	0	Kasrawa
 Chak Bhatauli	2575	8310	498	0
 Chak Sultānpur	2572	8324	26	0
 Bāz Chak	2556	8325	26	0
@@ -832,7 +832,7 @@ Chak Kanjrān	2572	7813	484	0
 Chak Farīd	2571	8325	26	0
 Chak Sadr	2571	8326	26	0
 Jahān Chak	2561	8328	26	0
-Habīb Chak	2557	8331	26	0
+Habīb Chak	2557	8331	26	0	Pauta
 Chakaulia	2555	8333	26	0
 Sadku Chak	2554	8329	26	0
 Bāzid Chak	2554	8328	26	0
@@ -866,7 +866,7 @@ Chākur	2087	7760	133	0
 Chak Chandeva	2569	7854	503	0
 Sādi Chak	2596	8356	586	0
 Qāsim Chak	2595	8354	586	0
-Chakia	2596	8353	586	0
+Chakia	2596	8353	586	0	Ināyatullāhpur
 Chakia	2594	8360	586	0
 Shaikhāni Chak	2599	8360	586	0
 Chakra	2599	8366	586	0
@@ -886,7 +886,7 @@ Chākora	2071	7766	133	0
 Afzal Chak	2548	8358	26	0
 Abdulhakīm Chak	2545	8358	26	0
 Garhi Chak	2538	8356	26	0
-Chak Jahrulla	2538	8356	26	0
+Chak Jahrulla	2538	8356	26	0	Garhi Chak
 Chakkābāndh	2539	8353	26	0
 Wair Chak	2532	8353	724	0
 Chakkupur	2529	8364	749	0
@@ -898,7 +898,7 @@ Chakia	2505	8363	749	0
 Jamāl Chak	2574	8394	26	0
 Gopāl Chak	2574	8394	26	0
 Chakia	2571	8384	26	0
-Chakia	2568	8380	26	0
+Chakia	2568	8380	26	0	Misrauli
 Salem Chak	2553	8397	620	0
 Rahāsi Chak	2553	8398	620	0
 Nūr Chak	2554	8396	620	0
@@ -975,7 +975,7 @@ Sonsera Chak	2374	7811	215	0
 Gulāwari Chak	2372	7809	215	0
 Chak	2373	7821	215	0
 Chak Suwākheri	2362	7800	215	0
-Chak Amwār	2356	7804	215	0
+Chak Amwār	2356	7804	215	0	Rāmgarh
 Chak Sihod	2355	7804	215	0
 Chak Sihod	2354	7807	215	0
 Chak Hīrāpur	2351	7805	215	0
@@ -1034,7 +1034,7 @@ Pahāri Chak	2600	8251	32	0
 Chak Simrāh	2593	8251	32	0
 Chak Mulnāpur	2589	8252	32	0
 Chakia	2584	8255	32	0
-Chak Pargāsin	2584	8255	32	0
+Chak Pargāsin	2584	8255	32	0	Chakia
 Chak Mirmirāpur	2583	8260	32	0
 Chak Moghlāni	2583	8261	32	0
 Chak Chittarsāri	2578	8255	32	0
@@ -1045,7 +1045,7 @@ Chak Pataila	2577	8260	32	0
 Murli Chak	2577	8260	32	0
 Chak Lachhmanpur	2583	8268	32	0
 Chak Hājinakhsh	2583	8269	32	0
-Chak Bhawāni Shahkor	2588	8266	32	0
+Chak Bhawāni Shahkor	2588	8266	32	0	Tiwārīpur
 Chak Imāmali	2589	8266	32	0
 Chakwa	2584	8274	32	0
 Chak Shāh Chayās	2594	8267	32	0
@@ -1252,7 +1252,7 @@ Basohan Chak	2532	8278	251	0
 Brijbāsi Chak	2530	8282	251	0
 Chakarpānpur	2527	8277	251	0
 Chak Dīh	2530	8287	251	0
-Sui Chak	2529	8287	251	0
+Sui Chak	2529	8287	251	0	Gangāpur
 Chak Darshan	2528	8288	251	0
 Nābi Chak	2526	8288	251	0
 Milki Chak	2526	8288	251	0
@@ -1508,7 +1508,7 @@ Chak	2590	8108	728	0
 Chak Miānpur	2591	8114	728	0
 Chak Bhūngāpur	2587	8107	728	0
 Chak Mustafāpur	2586	8108	728	0
-Chak Nuruddīn	2580	8121	728	0
+Chak Nuruddīn	2580	8121	728	0	Karahyāpur
 Chak Shāh Kabīr	2587	8114	728	0
 Chak Mūsāpur	2587	8120	728	0
 Chak Dalanpur	2590	8115	728	0
@@ -1650,7 +1650,7 @@ Chakaur	2533	8132	643	0
 Chak Alaiya	2532	8137	643	0
 Chak Sattārganj	2537	8143	651	0
 Chak Sirsi	2534	8142	651	0
-Chak Alīroshan Majhiāri	2538	8141	651	0
+Chak Alīroshan Majhiāri	2538	8141	651	0	Dulhaniyāpur
 Chak Saiyid Alīpur	2548	8147	651	0
 Chak Shāhbuddinpur	2549	8149	651	0
 Chak Shāhanpur	2550	8140	651	0
@@ -1672,8 +1672,8 @@ Maruf Chak	2714	8261	292	0
 Mohiuddīn Chak	2712	8261	292	0
 Kafia Chak	2710	8261	292	0
 Nakchhed Chak	2703	8262	154	0
-Chak Rafah	2715	8265	292	0
-Chak Ādam	2714	8263	292	0
+Chak Rafah	2715	8265	292	0	Tilgaria Buzurg
+Chak Ādam	2714	8263	292	0	Latia
 Chak Mohbano	2709	8267	154	0
 Rafiā Chak	2708	8266	154	0
 Takia Chak	2705	8266	154	0
@@ -1824,7 +1824,7 @@ Chak Phulwaria	2652	8270	553	0
 Chak Juned	2652	8270	553	0
 Chak Makhdūmpur	2654	8265	553	0
 Chakia	2657	8263	553	0
-Chak Asopur	2657	8263	553	0
+Chak Asopur	2657	8263	553	0	Chakia
 Bādal Chak	2664	8266	154	0
 Chakdaha Khurd	2663	8269	154	0
 Chakdaha	2664	8269	154	0
@@ -1879,7 +1879,7 @@ Chak Shakūr	2654	8295	647	0
 Bhinkhni Chak	2667	8298	647	0
 Chak Bhoj	2518	8150	643	0
 Chakia	2595	8328	498	0
-Abdul Chak	2595	8328	498	0
+Abdul Chak	2595	8328	498	0	Abdul Malik
 Chak Tilaswān	2596	8331	586	0
 Chakia	2594	8332	498	0
 Chak Netāpur	2593	8327	498	0
@@ -1975,10 +1975,10 @@ Moti Chak	2722	8324	515	0
 Manorath Chak	2721	8324	515	0
 Manorath Chak	2722	8324	515	0
 Muswa Chak	2724	8336	515	0
-Darzi Chak	2719	8338	515	0
+Darzi Chak	2719	8338	515	0	Panditpur
 Manohar Chak	2702	8336	515	0
 Balibanda Chak	2709	8347	515	0
-Sadho Chak	2724	8354	515	0
+Sadho Chak	2724	8354	515	0	Muhammadpur
 Bhau Chak	2712	8352	515	0
 Narāin Chak	2707	8358	515	0
 Kaliān Chak	2702	8362	515	0
@@ -2111,7 +2111,7 @@ Bailu Chak	2657	8326	325	0
 Chakia	2655	8328	325	0
 Daruhi Kamāl Chak	2651	8331	325	0
 Satahwa Chak	2653	8346	325	0
-Semra Mānik Chak	2661	8345	325	0
+Semra Mānik Chak	2661	8345	325	0	Unchgāon
 Shiu Chak Jot	2667	8337	325	0
 Chak Deiya	2662	8349	325	0
 Bhagwān Chak	2653	8329	325	0
@@ -2163,7 +2163,7 @@ Rām Chak	2645	8362	535	0
 Saria Chak	2629	8361	325	0
 Mahima Chak	2628	8361	325	0
 Marautia Chak	2636	8365	535	0
-Chakki Dand	2647	8365	535	0
+Chakki Dand	2647	8365	535	0	Mirhai
 Chakhāni	2644	8369	535	0
 Chakarwa	2639	8367	535	0
 Bāsdeo Chak	2640	8368	535	0
@@ -2240,7 +2240,7 @@ Maswasī Chak	2568	8361	26	0
 Azam Chak	2568	8363	26	0
 Chakiā	2567	8359	26	0
 Saida Chak	2567	8367	26	0
-Tāra Chak	2568	8366	26	0
+Tāra Chak	2568	8366	26	0	Kamraurā
 Dāūd Chak	2569	8365	26	0
 Abutālib Chak	2571	8366	26	0
 Sharīf Chak	2572	8367	26	0
@@ -2277,7 +2277,7 @@ Turfīa Chak	2561	8372	26	0
 Zainab Chak	2567	8375	26	0
 Hasan Chak	2555	8373	26	0
 Kaliān Chak	2552	8368	26	0
-Azmatullah Chak	2550	8368	26	0
+Azmatullah Chak	2550	8368	26	0	Duhila
 Chāka	2389	8039	351	0
 Chakra	3309	7561	372	0
 Chakri	3318	7560	372	0
@@ -2294,7 +2294,7 @@ Sūbha Chak	3247	7526	496	0
 Khilli Chak	3245	7535	496	0
 Chak Raghu	3246	7527	496	0
 Chak Gangārām	3245	7533	496	0
-Pehru Chak	3245	7533	496	0
+Pehru Chak	3245	7533	496	0	Chak Gangārām
 Fathu Chak	3244	7534	496	0
 Ratah Chak	3244	7527	496	0
 Dālya Chak	3243	7533	496	0
@@ -2423,10 +2423,10 @@ Chak Afzal	2567	8196	607	0
 Chak Shām	2566	8192	607	0
 Chak Shām	2565	8195	607	0
 Chakarbhānpur	2564	8193	607	0
-Chakia	2564	8193	607	0
-Chak Hāfiz	2568	8197	607	0
+Chakia	2564	8193	607	0	Chakarbhānpur
+Chak Hāfiz	2568	8197	607	0	Sītlāpur
 Chak Muhammad	2568	8198	607	0
-Chak Faizullāh	2567	8196	607	0
+Chak Faizullāh	2567	8196	607	0	Bhaunka
 Chak Bāhar	2570	8195	607	0
 Chak Luddan	3241	7552	496	0
 Chak Ganda Singh	3240	7551	496	0
@@ -2454,7 +2454,7 @@ Chak Dūndi	2540	8186	607	0
 Chak Bhitāhi	2540	8187	607	0
 Chak Dāudnagor	2540	8187	607	0
 Chak Imām Ali	2539	8188	607	0
-Chak Babūra	2539	8188	607	0
+Chak Babūra	2539	8188	607	0	Shāhji ka Pura
 Chak Dāudnagar	2539	8187	607	0
 Chak Gulāmmuhammad	2538	8187	607	0
 Chāka	2538	8186	607	0
@@ -2470,7 +2470,7 @@ Chak Gaurīshankar	2534	8187	607	0
 Chak Khwāja Ali	2532	8186	607	0
 Chak Shāhghulām Ali	2532	8186	607	0
 Chak Semra	2531	8180	607	0
-Chak Ghanshyamdās	2531	8184	607	0
+Chak Ghanshyamdās	2531	8184	607	0	Nai Bāzār
 Chakia	2530	8184	607	0
 Chak Sangatdās	2527	8182	607	0
 Chakia	2529	8184	607	0
@@ -2484,11 +2484,11 @@ Chak Dāzi Gulāmmuhammad	2543	8193	607	0
 Chak Harharban	2542	8192	607	0
 Chak Hinauta	2539	8196	607	0
 Chakiya	2539	8197	607	0
-Chak Churāman	2540	8195	607	0
+Chak Churāman	2540	8195	607	0	Kamāldīpur
 Chak Qutbuddīnpur	2541	8198	607	0
 Chakiya Katiāri	2540	8198	607	0
 Chak Fātima	2544	8191	607	0
-Chak Kesho	2544	8192	607	0
+Chak Kesho	2544	8192	607	0	Leptua
 Chak Zohra	2544	8196	607	0
 Chak Churāman	2544	8198	607	0
 Chak Jalāl	2546	8196	607	0
@@ -2535,7 +2535,7 @@ Chak Banwālipur	3141	7497	260	0
 Mughal Chak	3140	7489	260	0
 Tikhu Chak	3139	7488	260	0
 Naththu Chak	3134	7487	260	0
-Chak Hāmid	3108	7477	566	0
+Chak Hāmid	3108	7477	566	0	Dullewāli
 Chak Lamochar	3097	7451	566	0
 Chak Nizāmuddīn	3094	7464	566	0
 Chak Rorānwāla	3082	7456	566	0
@@ -2803,7 +2803,7 @@ Shahbāz Chak	2680	8164	629	0
 Babri Chak	2681	8166	629	0
 Chak	2684	8167	629	0
 Chak Purwa	2691	8163	30	0
-Chak Jangla	2646	8162	662	0
+Chak Jangla	2646	8162	662	0	Nihalgarh
 Chak Mamha	2624	8150	662	0
 Chak Raza	2607	8152	681	0
 Chak Pahār	2606	8151	681	0
@@ -3006,7 +3006,7 @@ Rupwar Chak	2601	8408	536	0
 Pema Chak	2600	8408	536	0
 Chakra	2602	8424	639	0
 Indrāk Chak	2607	8420	639	0
-Harirām Chak	2609	8421	639	0
+Harirām Chak	2609	8421	639	0	Khartari
 Khodāi Chak	2610	8422	639	0
 Lachhuman Chak	2618	8419	639	0
 Gopāl Chak	2623	8418	639	0
@@ -3038,8 +3038,8 @@ Chak	2718	7597	121	0
 Doba Chak	2921	7979	551	0
 Chākarpura	2286	7650	322	0
 Farīdpur Chakolar	2815	7911	117	0
-Chakpheri	2896	7928	552	0
-Chakarpur	2853	7932	342	0
+Chakpheri	2896	7928	552	0	Kānkar Khera
+Chakarpur	2853	7932	342	0	Lamkan
 Chakdaha	2857	7939	342	0
 Chak Narkunda	2874	7946	342	0
 Mānpur Chakatia	2825	7944	342	0
@@ -3053,7 +3053,7 @@ Chak Islām	2603	8459	540	0
 Chak Baran	2606	8462	540	0
 Chakia	2609	8461	639	0
 Chakia Tola	2610	8461	639	0
-Chakarpan	2610	8472	639	0
+Chakarpan	2610	8472	639	0	Barahimpur
 Chak Birdi	2610	8467	639	0
 Chak Munda	2608	8467	639	0
 Chak Pir	2606	8471	540	0
@@ -3355,7 +3355,7 @@ Chak Nizāmat	2584	8584	138	0
 Chak Bāqar	2587	8591	138	0
 Chak Milki	2591	8584	138	0
 Moglāni Chak	2591	8588	138	0
-Chhakantoli	2599	8588	138	0
+Chhakantoli	2599	8588	138	0	Rāmbhadarpur
 Chakwa	2597	8593	591	0
 Chak Raipur	2600	8599	591	0
 Milki Chak Māhi	2592	8597	138	0
@@ -4066,7 +4066,7 @@ Sādullah Chak	2526	8503	527	0
 Haidar Chak	2526	8507	527	0
 Imliya Chak	2526	8501	527	0
 Chandu Chak	2525	8505	527	0
-Bandhu Chak	2525	8505	527	0
+Bandhu Chak	2525	8505	527	0	Chandu Chak
 Gulāb Chak	2528	8522	514	0
 Chak Mohiuddīnpur	2533	8519	514	0
 Chhakan Bigha	2531	8521	514	0
@@ -4135,7 +4135,7 @@ Bhagwān Chak	2488	8720	592	0
 Haripur Chakwa	2486	8722	592	0
 Dharha Chak	2487	8724	592	0
 Chakeswari	2486	8720	592	0
-Harpati Chak	2486	8720	592	0
+Harpati Chak	2486	8720	592	0	Chakeswari
 Lakhanpur Chak	2475	8773	658	0
 Chhakudhara	2447	8764	658	0
 Chakladānga	2434	8772	658	0

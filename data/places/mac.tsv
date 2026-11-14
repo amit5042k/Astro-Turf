@@ -1,18 +1,18 @@
 Machilīpatnam	1619	8114	68	192827
 Mācherla	1648	7944	10	57290
-Machcheri	1183	7794	51	25676
+Machcheri	1183	7794	51	25676	Mechcheri
 Machhlīshahr	2569	8241	32	25247
 Māchhīwāra	3092	7620	674	24916
 Māchai	1579	7448	77	18073
-Machche	1579	7448	77	18073
+Machche	1579	7448	77	18073	Māchai
 Māchalpur	2413	7632	16	9476
 Pedda Machchilīsam	1833	8412	472	0
-Machilisam	1833	8412	472	0
-Machiurani	927	7904	5	0
-Machail	3342	7635	547	0
+Machilisam	1833	8412	472	0	Pedda Machchilīsam
+Machiurani	927	7904	5	0	Mochiūrani
+Machail	3342	7635	547	0	Matsēl
 Māchum	2731	9614	73	0
 Machliwar	2218	7030	145	0
-Machiliwar	2218	7030	145	0
+Machiliwar	2218	7030	145	0	Machliwar
 Machkhoā	2733	9455	299	0
 Machkar	2472	8712	592	0
 Māchilpur	2663	7723	447	0
@@ -21,13 +21,13 @@ Machhrehta	2742	8064	507	0
 Machhrauli	2847	7665	609	0
 Machhoi	3431	7553	8	0
 Māchhagān	2007	8627	456	0
-Machhgaon	2007	8627	456	0
+Machhgaon	2007	8627	456	0	Māchhagān
 Mācheri	2725	7666	482	0
 Machchand	2632	7905	334	0
 Macharla	1609	7755	306	0
 Macasana	1566	7383	188	0
 Macasana	1529	7406	102	0
-Macazana	1529	7406	102	0
+Macazana	1529	7406	102	0	Macasana
 Machhipur	3435	7444	301	0
 Bodkut Machpur	3440	7425	0	0
 Machhliān	3278	7478	581	0
@@ -39,7 +39,7 @@ Machhrāi Khurd	3059	7619	648	0
 Machhrāi Kalān	3058	7618	648	0
 Pīr Machhela	3066	7686	587	0
 Machrauli	3009	7691	501	0
-Machhkhera	2467	7893	481	0
+Machhkhera	2467	7893	481	0	Bugpura
 Machhriyāi	2773	7971	470	0
 Nagla Mache	2700	7907	464	0
 Machkacha	2629	7910	741	0
@@ -86,7 +86,7 @@ Machhera Kalān	2283	7855	590	0
 Machighāt	2208	7856	337	0
 Machhera	2192	7870	337	0
 Machhri	2913	7768	700	0
-Machhiāna	3006	7487	563	0
+Machhiāna	3006	7487	563	0	Anūp Dhiāngarh
 Machhike	3056	7538	499	0
 Machchharheri	2998	7795	596	0
 Machhgar	2831	7737	774	0
@@ -213,7 +213,7 @@ Māchhra Bhagwānpur	2877	7831	483	0
 Machhrai	2876	7826	483	0
 Machhariya Saghan	2878	7845	646	0
 Machua Khera	2714	8084	507	0
-Machuria	2640	8033	469	0
+Machuria	2640	8033	469	0	Burhpur
 Bori Machendra	1987	7756	67	0
 Machheri	2878	7863	646	0
 Macherla	1886	7820	75	0
@@ -259,7 +259,7 @@ Machmachha	2383	8085	351	0
 Machnjund	3360	7577	34	0
 Machhrāla	3212	7542	487	0
 Machedi	3271	7560	496	0
-Machheharpur	2519	8194	607	0
+Machheharpur	2519	8194	607	0	Purwa
 Machhoda	2297	7550	660	0
 Machhūkheri	2295	7595	660	0
 Māchla	2262	7586	660	0
@@ -278,7 +278,7 @@ Machhīwāra	3082	7452	566	0
 Machhāna	3195	7524	487	0
 Manu Machhi	3114	7507	566	0
 Machhīān	3105	7502	566	0
-Machhīāhwāla	3106	7513	499	0
+Machhīāhwāla	3106	7513	499	0	Māhiwāla
 Māchhīwāra	3102	7503	566	0
 Māchhijob	3122	7518	565	0
 Machhiwāl Mand	3161	7544	565	0
@@ -359,9 +359,9 @@ Macheput	1896	8300	316	0
 Machchandrapālem	1816	8313	179	0
 Machivānipālem	1807	8355	179	0
 Machanapeta	1854	8386	472	0
-Machchilīsam	1814	8376	472	0
-Machchilīsam	1815	8379	472	0
-Machchilīsam	1818	8387	472	0
+Machchilīsam	1814	8376	472	0	Mukkampeta
+Machchilīsam	1815	8379	472	0	Bodagutlapālem
+Machchilīsam	1818	8387	472	0	Dharmavarampeta
 Machaloddi	1746	8107	60	0
 Machavaram	1563	8016	200	0
 Machhavāripālem	1589	8049	220	0

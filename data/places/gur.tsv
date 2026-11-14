@@ -1,23 +1,23 @@
 Gurugram	2846	7703	630	886519
-Gurgaon	2846	7703	630	886519
+Gurgaon	2846	7703	630	886519	Gurugram
 Gurdaspur	3204	7540	487	77928
 Gursahāiganj	2712	7973	570	40214
 Jandiāla Gurū	3156	7503	222	29232
 Gursarāi	2562	7918	433	25191
 Guruvāyūr	1059	7604	241	21416
-Gurupavanapuri	1059	7604	241	21416
+Gurupavanapuri	1059	7604	241	21416	Guruvāyūr
 Gurmatkāl	1687	7739	72	20614
-Gurmatkol	1687	7739	72	20614
+Gurmatkol	1687	7739	72	20614	Gurmatkāl
 Guru Har Sahāi	3071	7440	566	17192
 Gurh	2450	8150	516	14608
-Goorha	2450	8150	516	14608
+Goorha	2450	8150	516	14608	Gurh
 Gurur	2068	8140	668	3775
-Gursian Nihal	3103	7558	369	733
+Gursian Nihal	3103	7558	369	733	Gorsiān Nihāl
 Sone ka Gurja	2649	7756	622	0
 Kotha Gurū	3044	7509	563	0
 Guruzāla	1656	7963	10	0
 Guruvegowdanhundi	1160	7670	115	0
-Guruvegowdenhundi	1160	7670	115	0
+Guruvegowdenhundi	1160	7670	115	0	Guruvegowdanhundi
 Guruvājipeta	1523	7940	200	0
 Gurusulai	2138	8506	414	0
 Gurūsar	3027	7459	615	0
@@ -27,23 +27,23 @@ Gurubella	2042	8356	394	0
 Gurua	2467	8477	118	0
 Gurtedu	1785	8194	268	0
 Gurramkonda	1378	7859	195	0
-Gurrumkonda	1378	7859	195	0
+Gurrumkonda	1378	7859	195	0	Gurramkonda
 Gurpūr	1294	7493	55	0
 Gurnāvda	2560	7652	335	0
-Gurnāodā	2560	7652	335	0
+Gurnāodā	2560	7652	335	0	Gurnāvda
 Gurligumma	1912	8285	316	0
 Gurlāpur	1637	7495	77	0
 Gurla	2465	7557	655	0
 Guriāni	2836	7654	519	0
 Gurha Bāla	2416	7495	601	0
 Gura Andla	2551	7322	273	0
-Gūrha Andla	2551	7322	273	0
+Gūrha Andla	2551	7322	273	0	Gura Andla
 Gūrha	2788	7286	307	0
 Gura	2783	7563	300	0
-Gūrha	2783	7563	300	0
+Gūrha	2783	7563	300	0	Gura
 Gura Bhagwāndās	2722	7348	430	0
-Ghura	2722	7348	430	0
-Gūrha	2722	7348	430	0
+Ghura	2722	7348	430	0	Gura Bhagwāndās
+Gūrha	2722	7348	430	0	Gura Bhagwāndās
 Gūrha	2706	7648	708	0
 Gurgunta	1629	7663	50	0
 Gurgaon	1934	7727	640	0
@@ -61,7 +61,7 @@ Gurai	2585	7578	313	0
 Gūrach	2480	7367	572	0
 Gūra	2519	7172	285	0
 Gura	2419	8807	471	0
-Gura	2678	7667	447	0
+Gura	2678	7667	447	0	Gudha
 Ghursena	2181	8184	710	0
 Ghurna	2646	8709	667	0
 Ghurani	3073	7599	674	0
@@ -84,27 +84,27 @@ Gura	3288	7471	581	0
 Gura	3290	7464	581	0
 Gurūdwāra	3291	7452	581	0
 Gura Manāhasam	3278	7457	581	0
-Gura	3318	7414	504	0
-Gura Partha	3323	7420	504	0
+Gura	3318	7414	504	0	Gora
+Gura Partha	3323	7420	504	0	Gung Parta
 Gura	3317	7418	504	0
 Gura	3309	7421	504	0
 Raika Gura	3306	7422	504	0
-Halka Gura	3306	7422	504	0
+Halka Gura	3306	7422	504	0	Raika Gura
 Gurūn	3309	7435	504	0
 Ghurla	3297	7441	581	0
-Ghurle	3297	7441	581	0
+Ghurle	3297	7441	581	0	Ghurla
 Gura	3293	7477	581	0
 Ghurota	3287	7478	581	0
 Gura Sango	3286	7478	581	0
 Gura Keian	3278	7482	581	0
 Ghūrāni Khurd	3072	7603	674	0
-Ghurāla	3070	7610	674	0
+Ghurāla	3070	7610	674	0	Ghaurāla
 Gurar	2894	7681	485	0
-Chak Gurān	3255	7493	720	0
+Chak Gurān	3255	7493	720	0	Chak Gaureān
 Gūra	3263	7496	720	0
 Gura	3268	7499	720	0
 Gura Mīān	3274	7485	581	0
-Gura Shiviliyān	3274	7485	581	0
+Gura Shiviliyān	3274	7485	581	0	Gura Mīān
 Gurung	3451	7619	8	0
 Guramb	3004	7777	449	0
 Gurūdwāra	2996	7709	501	0
@@ -150,10 +150,10 @@ Gurūnārāyanpur	2675	7915	290	0
 Nagla Gurha	2678	7912	290	0
 Ghurāwar	2640	7906	334	0
 G’ura	2629	7903	334	0
-Gurha	2629	7903	334	0
+Gurha	2629	7903	334	0	G’ura
 Gurbhelī	2649	7913	290	0
 Gurhlio	2692	7555	121	0
-Gurliya	2692	7555	121	0
+Gurliya	2692	7555	121	0	Gurhlio
 Gurha Niāmatpur	2614	7936	741	0
 Ghurraiya	2555	7906	433	0
 Gurha Jharkhand	2544	7932	433	0
@@ -210,7 +210,7 @@ Gothari Guru	2741	7677	482	0
 Guryāna	3053	7777	534	0
 Gurla	2654	7646	116	0
 Ghuriyāpur	2933	7811	575	0
-Gurdāspur	2992	7801	596	0
+Gurdāspur	2992	7801	596	0	Begampur
 Gurukul	2989	7816	596	0
 Gurukul Kāngri Vishwavidyālaya	2992	7813	596	0
 Gurha	2670	7622	708	0
@@ -238,10 +238,10 @@ Gurūsar	3053	7489	730	0
 Gurnāwda	2577	7669	335	0
 Chak Gurnāwda	2576	7671	335	0
 Kot Gurū	3010	7481	563	0
-Gurūke	3010	7481	563	0
+Gurūke	3010	7481	563	0	Kot Gurū
 Gurūsar Sehhewāla	3014	7489	563	0
-Gurthuri	3005	7484	563	0
-Gurūsar	2982	7467	585	0
+Gurthuri	3005	7484	563	0	Amarpur
+Gurūsar	2982	7467	585	0	Gidar Khera
 Guryāwāla	2978	7475	585	0
 Gūrha	2492	7354	572	0
 Karbara ka Gūrha	2488	7353	22	0
@@ -321,7 +321,7 @@ Gūrthuri	2963	7616	367	0
 Gurudwara	3032	7803	448	0
 Ghursālgaon	3030	7821	500	0
 Gurudwāra	3039	7809	448	0
-Āhmadpur Gūrwa	2934	7853	575	0
+Āhmadpur Gūrwa	2934	7853	575	0	Mānka
 Gurma Gwār	3054	7975	183	0
 Gūrwa	2848	7909	342	0
 Gūrgaon	2844	7913	342	0
@@ -354,7 +354,7 @@ Gurdiālpura	3006	7618	564	0
 Gurtanhan	3462	7445	0	0
 Bīd Guru Jand Sāhib	3091	7637	735	0
 Gurdāspur	3096	7650	735	0
-Gurkheri	3042	7628	564	0
+Gurkheri	3042	7628	564	0	Kishangarh
 Gurj Nagaliya	2779	7786	543	0
 Gursena	2777	7795	543	0
 Gurpura	3093	7653	735	0
@@ -440,7 +440,7 @@ Ghurāwāli	2797	7716	754	0
 Gurigindalametta Tānda	1624	7823	467	0
 Ghuraia	2703	7959	570	0
 Gurgujpur	2722	7972	688	0
-Gurauli	2720	7970	570	0
+Gurauli	2720	7970	570	0	Gangāganj
 Gurha	2545	7744	436	0
 Gurichha	2579	7757	436	0
 Gurgia Bahādurpur	2794	7979	470	0
@@ -946,7 +946,7 @@ Ghurahupur	2647	8232	553	0
 Gurbar	2637	8227	597	0
 Gursari	2626	8233	597	0
 Ghuraupur	2640	8248	553	0
-Guretha	2586	8323	498	0
+Guretha	2586	8323	498	0	Chopāl
 Guretha	2585	8322	498	0
 Gūrsra	2622	8235	597	0
 Gurian Purwa	2612	8235	597	0
@@ -1042,7 +1042,7 @@ Gurūnd	3273	7565	496	0
 Guriu	3265	7571	496	0
 Ghurha	2597	8199	718	0
 Ghūrghāt	2571	8188	718	0
-Ghurua	2550	8192	607	0
+Ghurua	2550	8192	607	0	Dharampur
 Gura	3236	7560	692	0
 Guru Tegbahādurnagar	2543	8181	607	0
 Pura Ghurdaura	2530	8180	607	0
@@ -1087,7 +1087,7 @@ Ghurka	3125	7506	260	0
 Gurali	3109	7508	566	0
 Khūni ka Gūrha	2545	7325	273	0
 Gongne ka Gūrha	2547	7335	273	0
-Ganga ka Gūrha	2547	7335	273	0
+Ganga ka Gūrha	2547	7335	273	0	Gongne ka Gūrha
 Bhīmji ka Gūrha	2547	7348	273	0
 Mahārāmji ka Gūrha	2541	7339	273	0
 Rupāji ka Gūrha	2540	7348	273	0
@@ -1469,7 +1469,7 @@ Ghurkun	2963	7987	429	0
 Gurāra	2959	7984	429	0
 Guroli	2955	7987	429	0
 Ghurna Patti	2653	8439	703	0
-Gureli	2516	7488	417	0
+Gureli	2516	7488	417	0	Motīpura
 Gura	2506	7496	417	0
 Ghurhuā	2679	8460	476	0
 Gurchurwa	2680	8463	476	0
@@ -1616,7 +1616,7 @@ Gurrapalli	1849	7925	748	0
 Gurupalli	1873	7932	748	0
 Gurpalli	1873	7933	748	0
 Gurampalli	1856	7947	748	0
-Gūriella	1868	7965	748	0
+Gūriella	1868	7965	748	0	Vīlochawaram
 Gurrampahād	1807	7972	61	0
 Gurkegadde	1487	7468	59	0
 Gurvalli	1472	7470	59	0
@@ -1767,7 +1767,7 @@ Gurhā	2393	8422	701	0
 Guritoli	2314	8400	398	0
 Gurgu	2371	8445	707	0
 Ghurtoli	2338	8448	773	0
-Gurdari	2329	8427	321	0
+Gurdari	2329	8427	321	0	Barpāt
 Ghure	2392	8464	707	0
 Gurgurtoli	2395	8467	707	0
 Gurtur	2379	8467	707	0

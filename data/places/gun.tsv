@@ -2,23 +2,23 @@ Guntur	1630	8046	319	670073
 Gundupālaiyam	1194	7980	196	300104
 Guna	2465	7731	336	180935
 Guntakal	1517	7736	100	126270
-Guntakai	1517	7736	100	126270
-Guntakal Junction	1517	7736	100	126270
+Guntakai	1517	7736	100	126270	Guntakal
+Guntakal Junction	1517	7736	100	126270	Guntakal
 Gunupur	1908	8381	363	28870
 Gundlupēt	1181	7669	69	28105
-Gundalpet	1181	7669	69	28105
+Gundalpet	1181	7669	69	28105	Gundlupēt
 Gunnaur	2824	7844	646	20980
 Guntur	1800	7964	61	13183
 Guntupalle	1657	8055	104	11187
 Gundardehi	2095	8129	668	8614
-Gunderdehi	2095	8129	668	8614
-Gunduuppalavadi	1177	7978	178	7281
+Gunderdehi	2095	8129	668	8614	Gundardehi
+Gunduuppalavadi	1177	7978	178	7281	Uppalavādi
 Gunghasa	2386	8618	401	6845
 Gunpuram	1861	7819	75	5182
 Gundrāmpalli	1723	7899	101	0
 Ghunwāra	2414	8063	324	0
 Gunupur	1961	8312	284	0
-Gun	1961	8312	284	0
+Gun	1961	8312	284	0	Gunupur
 Gunta	2775	7636	482	0
 Gunri	2564	8466	377	0
 Gunra	2206	6996	145	0
@@ -26,7 +26,7 @@ Gunjrauliyā	2658	8455	396	0
 Gunjong	2532	9301	494	0
 Gunji	1554	7449	77	0
 Gunjavati	1500	7493	59	0
-Gunjavan	1500	7493	59	0
+Gunjavan	1500	7493	59	0	Gunjavati
 Gūnga	2624	7121	285	0
 Gundūsar	2762	7412	539	0
 Gundugolanu	1678	8123	24	0
@@ -45,22 +45,22 @@ Gundāla	1765	8094	46	0
 Gundāl	1654	7550	80	0
 Gundaid	1692	7781	317	0
 Gunda	2201	6971	131	0
-Gunda M	2201	6971	131	0
+Gunda M	2201	6971	131	0	Gunda
 Gund	3426	7509	547	0
 Gund	3343	7520	550	0
 Gunamanipāra	2371	9195	695	0
 Gunaga	2345	7736	687	0
 Gunadala	1652	8066	104	0
-Gundoj	2561	7331	273	0
+Gundoj	2561	7331	273	0	Gondoch
 Ghunghuti	2335	8119	350	0
 Ghungchīāi	2845	8008	683	0
-Ghungchai	2845	8008	683	0
+Ghungchai	2845	8008	683	0	Ghungchīāi
 Ghungarī	2248	8293	388	0
 Ghund	3108	7743	479	0
 Ghunaki	1689	7429	57	0
-Ghunki	1689	7429	57	0
+Ghunki	1689	7429	57	0	Ghunaki
 Ghunada	2269	7063	147	0
-Gunge	3064	7885	500	0
+Gunge	3064	7885	500	0	Gangi
 Ghunj	2252	8892	450	0
 Gundār	3429	7489	595	0
 Gundrandar	3429	7486	595	0
@@ -68,12 +68,12 @@ Gund Rahmān	3418	7477	595	0
 Gund-i-Chandāl	3404	7483	611	0
 Gund-i-Chukapur	3400	7483	76	0
 Gūndt	3377	7412	1	0
-Gundr	3377	7412	1	0
+Gundr	3377	7412	1	0	Gūndt
 Gund	3446	7414	0	0
 Gundi Zon Reshi	3446	7402	0	0
-Gundi Zun Reshi	3446	7402	0	0
+Gundi Zun Reshi	3446	7402	0	0	Gundi Zon Reshi
 Gund-i-Momin	3450	7418	0	0
-Gund Momin	3450	7418	0	0
+Gund Momin	3450	7418	0	0	Gund-i-Momin
 Gund Ibrāhīm	3418	7458	301	0
 Gund-i-Khalīl	3418	7466	120	0
 Gūnjpur	3421	7461	120	0
@@ -101,15 +101,15 @@ Ghūnguān	3297	7457	581	0
 Gung Parta	3323	7420	504	0
 Gunni	3310	7430	504	0
 Gunnu ka Khera	3300	7437	504	0
-Gunnu ka Kiera	3300	7437	504	0
+Gunnu ka Kiera	3300	7437	504	0	Gunnu ka Khera
 Gundi Gul Shekh	3454	7511	547	0
-Ghungrāli	3072	7611	674	0
+Ghungrāli	3072	7611	674	0	Ghongrāli
 Gundarman	3461	7613	8	0
 Gundi Faqirān	3413	7398	301	0
 Gundi Gujarān	3438	7380	0	0
 Gundi Saiyidān	3438	7380	0	0
 Gundi Shāth	3438	7379	0	0
-Gundi Shāh	3438	7379	0	0
+Gundi Shāh	3438	7379	0	0	Gundi Shāth
 Gunwar	2524	7553	353	0
 Gungh	3123	7709	479	0
 Gunkhila	2982	7871	612	0
@@ -132,7 +132,7 @@ Nagla Gundha	2717	7931	464	0
 Gunhān	2711	7988	570	0
 Gūnj Khurd	2644	7923	715	0
 Gunj	2643	7923	715	0
-Gūnj Kalān	2643	7923	715	0
+Gūnj Kalān	2643	7923	715	0	Gunj
 Gunthi ka Purwa	2645	7931	715	0
 Gunda	2551	7903	433	0
 Gundāro	2694	7965	570	0
@@ -219,7 +219,7 @@ Gunun Mājra	3085	7663	632	0
 Ghūngrān	3038	7659	564	0
 Gunjegaon	1887	7683	153	0
 Gundgaon	2770	7725	114	0
-Gundbās	2771	7713	114	0
+Gundbās	2771	7713	114	0	Sarwarka
 Gunkali	2928	7621	367	0
 Ghungrāoli	2833	7791	637	0
 Guntīrthwādi	1782	7697	170	0
@@ -273,7 +273,7 @@ Gunhari	2253	7902	337	0
 Ghunghsa	2245	7924	368	0
 Ghuncha	2736	7800	670	0
 Gundrai Khurd	2297	7939	522	0
-Gungwārātola	2250	7957	368	0
+Gungwārātola	2250	7957	368	0	Dhādhartola
 Ghunai	2244	7957	368	0
 Gundyāl	1684	7782	317	0
 Gundampalli	1907	7820	360	0
@@ -440,7 +440,7 @@ Gundaura Khurd	2714	8159	294	0
 Gundaura	2713	8159	294	0
 Gunwan	2713	8172	542	0
 Gunja	1986	7772	67	0
-Gunnaur Hīrāpur	2825	7842	646	0
+Gunnaur Hīrāpur	2825	7842	646	0	Itauwu
 Semla Gunnaur	2827	7847	646	0
 Semla Gunnaur	2828	7847	646	0
 Gundmāl	1982	7790	140	0
@@ -455,7 +455,7 @@ Gundri	2612	8199	662	0
 Gūngwāchh Māfi	2614	8189	662	0
 Gundi	3363	7429	1	0
 Gund-i-Bamdar	3399	7464	76	0
-Gund Ali Niayak	3398	7465	76	0
+Gund Ali Niayak	3398	7465	76	0	Muqām
 Gund-i-Arzan	3398	7472	76	0
 Gūnda	3326	7459	504	0
 Gūndī	3332	7461	504	0
@@ -624,7 +624,7 @@ Gunjugūdem	1751	8184	268	0
 Gundarlia	2350	7624	314	0
 Gunakh Dogri	3171	7846	83	0
 Guntäpura	1408	7483	346	0
-Guntaepura	1408	7483	346	0
+Guntaepura	1408	7483	346	0	Guntäpura
 Gunjāriya	2372	7640	347	0
 Ghunchapāli	2125	8315	407	0
 Gundichadihi	2112	8303	497	0

@@ -1,17 +1,17 @@
-Masulipatam	1619	8114	68	192827
-Masulipatnam	1619	8114	68	192827
+Masulipatam	1619	8114	68	192827	Machilīpatnam
+Masulipatnam	1619	8114	68	192827	Machilīpatnam
 Masaurhi Buzurg	2535	8503	604	59803
-Masaurhi	2535	8503	604	59803
-Masaurki	2535	8503	604	59803
-Masuri	3045	7807	448	25753
+Masaurhi	2535	8503	604	59803	Masaurhi Buzurg
+Masaurki	2535	8503	604	59803	Masaurhi Buzurg
+Masuri	3045	7807	448	25753	Mussoorie
 Mashāt	2025	7301	233	12139
-Massate	2025	7301	233	12139
+Massate	2025	7301	233	12139	Mashāt
 Masila	2258	8823	354	11461
 Masinigudi	1157	7664	115	9642
-Masnigudi	1157	7664	115	9642
+Masnigudi	1157	7664	115	9642	Masinigudi
 Māsināyakkanpatti	1167	7823	51	9098
-Masinaickenpatty	1167	7823	51	9098
-Masala	2075	7864	143	8883
+Masinaickenpatty	1167	7823	51	9098	Māsināyakkanpatti
+Masala	2075	7864	143	8883	Mhāsāl
 Masrātu	2398	8532	764	5996
 Masūra	1617	7350	213	0
 Masur	1740	7416	64	0
@@ -23,34 +23,34 @@ Māstiholi	1609	7455	90	0
 Māsti	1287	7800	47	0
 Mastarang	3137	7839	83	0
 Massīgan	3021	7656	564	0
-Massīgah	3021	7656	564	0
+Massīgah	3021	7656	564	0	Massīgan
 Massa	1849	7593	48	0
 Masrakh	2611	8480	540	0
 Masod	2160	7812	462	0
-Masode	2160	7812	462	0
+Masode	2160	7812	462	0	Masod
 Maski	1596	7666	50	0
-Māsisar	2897	7502	486	0
+Māsisar	2897	7502	486	0	Malsīsar
 Masira	2377	8122	634	0
 Mashobra	3113	7723	479	0
 Māshyāl	1732	7624	71	0
-Māshal	1732	7624	71	0
+Māshal	1732	7624	71	0	Māshyāl
 Maseli	2078	8044	135	0
 Masarkal	1637	7702	50	0
 Māsānutippa	1666	8231	304	0
 Masānjor	2412	8731	669	0
 Masalga Khurd	1814	7646	158	0
-Masalga	1814	7646	158	0
+Masalga	1814	7646	158	0	Masalga Khurd
 Masāldaha Bāzār	2533	8793	412	0
 Māsaipet	1791	7846	400	0
 Maslikāralkunti	1606	7658	50	0
 Mashāt	2274	8819	279	0
 Māsuria	2217	8801	559	0
 Masta Gatti	3091	7443	566	0
-Gatti Basti Masta	3091	7443	566	0
+Gatti Basti Masta	3091	7443	566	0	Masta Gatti
 Larchi Masjid	3451	7620	8	0
 Masandāwāla	3035	7799	448	0
 Belki Mashāhi	3000	7788	596	0
-Mastgarh	2955	7735	328	0
+Mastgarh	2955	7735	328	0	Jasāna
 Patti Masāwi	2958	7745	328	0
 Mashabra	3115	7709	479	0
 Masht	2996	7858	612	0
@@ -86,7 +86,7 @@ Masak	3078	7782	448	0
 Maslhatgar	3435	7463	120	0
 Masūdpur	2875	7651	719	0
 Dhāni Maswāsi	2803	7668	482	0
-Maswāsi	2804	7669	482	0
+Maswāsi	2804	7669	482	0	Mādhopuri
 Masāni	2820	7673	519	0
 Masīt	2808	7683	482	0
 Masar	3168	7706	278	0
@@ -137,14 +137,14 @@ Masdi	2090	7808	133	0
 Masola	2042	7814	67	0
 Māl Masola	2031	7808	67	0
 Masitān	2989	7472	585	0
-Khera Masitān	2988	7469	585	0
+Khera Masitān	2988	7469	585	0	Gobindgarh
 Masind	2493	7360	572	0
 Mastewāla	3099	7514	499	0
 Masītān	3097	7516	499	0
 Masāra Obri	2400	7370	22	0
 Masālpura	2472	7609	333	0
 Aulia Masjid	2851	7718	778	0
-Masjid Moth	2856	7722	419	0
+Masjid Moth	2856	7722	419	0	Mujāhidpur
 Masūri	2869	7755	727	0
 Masauta	2871	7759	727	0
 Masauta	2840	7768	637	0
@@ -155,7 +155,7 @@ Masrāna	3045	7815	448	0
 Mastowāla	2891	7922	552	0
 Masroli	2444	7648	333	0
 Maskalapalli	1866	7990	237	0
-Masūdpur Gaonri	2898	7780	700	0
+Masūdpur Gaonri	2898	7780	700	0	Jalāluddīnpur
 Māsulgondi	2163	8120	710	0
 Mastura	2581	7803	484	0
 Masūdpur	2576	7802	484	0
@@ -168,14 +168,14 @@ Masuba Tānda	1936	7620	53	0
 Masāni	3026	7614	593	0
 Masla Khurd	1919	7635	153	0
 Masla	1905	7681	153	0
-Mashrafabad	3097	7654	735	0
+Mashrafabad	3097	7654	735	0	Nānakpur
 Mandho Mastāna Tapriān	3085	7661	632	0
 Mastgarh	3079	7675	792	0
 Chaud Mastpur	3028	7669	691	0
 Masla	1851	7629	158	0
 Māsurdi	1817	7634	158	0
 Masala Khurd	1798	7601	48	0
-Māsūmnagar	2746	7765	177	0
+Māsūmnagar	2746	7765	177	0	Nagla Jand
 Mastgarh	2996	7625	638	0
 Māsnalli Tānda	1729	7665	71	0
 Masalgi	1766	7689	170	0
@@ -297,7 +297,7 @@ Masonaha	2466	8066	324	0
 Masthari	2583	8238	32	0
 Masanpur	2590	8254	32	0
 Masīda	2574	8258	32	0
-Sādāt Masonda	2568	8270	32	0
+Sādāt Masonda	2568	8270	32	0	Tirhwān
 Masīpur	2552	8145	651	0
 Masudhi	2548	8235	583	0
 Chak Māsūm	2534	8232	607	0
@@ -648,7 +648,7 @@ Masihāntola	2590	8475	540	0
 Masudanpur	2550	8479	604	0
 Masīna	2637	7454	446	0
 Masahi	2721	8450	476	0
-Mashrik	2672	8422	560	0
+Mashrik	2672	8422	560	0	Pakariār
 Masumpur	2600	8407	536	0
 Masān Dhāb	2674	8438	476	0
 Masān Thāna	2652	8445	703	0
@@ -728,7 +728,7 @@ Maswāsi	2616	8625	591	0
 Maswasi	2607	8630	591	0
 Masharnia	2616	8686	426	0
 Masakallu	1399	7669	255	0
-Maskal	1399	7669	255	0
+Maskal	1399	7669	255	0	Masakallu
 Masurar	2569	8605	530	0
 Masnādpur	2544	8602	530	0
 Masti Fatehpur	2540	8623	530	0

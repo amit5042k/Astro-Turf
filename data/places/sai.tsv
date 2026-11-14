@@ -1,20 +1,20 @@
-Hafiz Saifganj	2554	8757	625	240838
-Shaikhpura	2514	8584	690	62927
-Sailu	1946	7644	153	46915
+Hafiz Saifganj	2554	8757	625	240838	Katihar
+Shaikhpura	2514	8584	690	62927	Sheikhpura
+Sailu	1946	7644	153	46915	Selu
 Saint Thomas Mount	1300	8020	247	43795
-Madras Saint Thomas Mount	1300	8020	247	43795
+Madras Saint Thomas Mount	1300	8020	247	43795	Saint Thomas Mount
 Sainthia	2395	8768	361	43221
 Saiha	2249	9298	20	25110
 Saidpur	2554	8322	26	22904
 Saiyad-ul-ajaib	2852	7720	778	17914
-Saidul Azaib	2852	7720	778	17914
+Saidul Azaib	2852	7720	778	17914	Saiyad-ul-ajaib
 Saidpur	2861	7791	637	14496
-Tendukhera Sailwara	2340	7954	521	14399
+Tendukhera Sailwara	2340	7954	521	14399	Tendūkheda
 Saij	2322	7252	276	13882
 Sailāna	2346	7492	568	11989
 Saitual	2368	9297	21	11619
 Sāitlaw	2397	9257	12	11043
-Saitual	2397	9257	12	11043
+Saitual	2397	9257	12	11043	Sāitlaw
 Saidabad	2853	7729	419	10168
 Saidpura	2558	8505	604	7392
 Sairang	2381	9265	19	5950
@@ -27,40 +27,40 @@ Saitthad	2554	9254	165	0
 Saisar	2535	8407	409	0
 Sairep	2282	9282	14	0
 Saira	2541	8284	251	0
-Saira	2498	7342	22	0
+Saira	2498	7342	22	0	Sāyra
 Sair	2280	8302	725	0
 Saipur	2405	8267	631	0
-Saio	2887	7485	539	0
+Saio	2887	7485	539	0	Sāhawa
 Sainthal	2704	7630	708	0
 Saintala	2044	8336	394	0
 Sāīnkhera	2296	7858	522	0
-Sāinkheda	2296	7858	522	0
+Sāinkheda	2296	7858	522	0	Sāīnkhera
 Sāinkhera	2178	7809	462	0
-Sainkhedā	2178	7809	462	0
+Sainkhedā	2178	7809	462	0	Sāinkhera
 Sainj	3177	7730	680	0
 Sainigunta	1307	7882	189	0
-Sailu	2084	7871	143	0
+Sailu	2084	7871	143	0	Selu
 Sāili	2024	7303	233	0
-Saily	2024	7303	233	0
+Saily	2024	7303	233	0	Sāili
 Sailāni	2199	7562	329	0
 Sāila	2532	7236	343	0
 Saikhoa Ghāt	2775	9560	460	0
-Saikhoa	2775	9560	460	0
+Saikhoa	2775	9560	460	0	Saikhoa Ghāt
 Sāikhede	2002	7401	54	0
-Saijarāsar	2834	7376	307	0
+Saijarāsar	2834	7376	307	0	Purāna Sohajrāsar
 Sāigavhān	2039	7515	113	0
-Sāigavhār	2039	7515	113	0
+Sāigavhār	2039	7515	113	0	Sāigavhān
 Saifullāhganj	2807	7876	117	0
 Saidpur Dabra	2532	8718	411	0
 Saidoke	3058	7432	566	0
-Chak Saidoke	3058	7432	566	0
+Chak Saidoke	3058	7432	566	0	Saidoke
 Saidāpuram	1418	7974	6	0
 Saidapet	1302	8022	204	0
-Saiyidapettai	1302	8022	204	0
+Saiyidapettai	1302	8022	204	0	Saidapet
 Saidal	2228	7350	159	0
 Saidābād	2537	8211	607	0
 Saichal	2372	9307	21	0
-Saiebal	2372	9307	21	0
+Saiebal	2372	9307	21	0	Saichal
 Saibom	2443	9410	676	0
 Runi Saiyadpur	2637	8549	582	0
 Fort Saint David	1174	7979	178	0
@@ -73,7 +73,7 @@ Sāihāti	2248	8861	4	0
 Saipathar	3426	7496	595	0
 Saidapor Hamchi	3417	7484	611	0
 Saidpur	3417	7489	611	0
-Shaikhlu	3379	7423	1	0
+Shaikhlu	3379	7423	1	0	Sekhlu
 Shaikhpur	3442	7423	0	0
 Shaikpur	3408	7455	301	0
 Saidwain	3402	7455	76	0
@@ -100,7 +100,7 @@ Sāipura	2545	7569	353	0
 Sāipura	2539	7550	353	0
 Dhāni Shaikhpura	2807	7612	694	0
 Shaikhpura	2807	7611	694	0
-Sainjri	3124	7705	479	0
+Sainjri	3124	7705	479	0	Sanj
 Saidan	3115	7705	479	0
 Saili	2999	7867	612	0
 Sainār	2998	7868	612	0
@@ -113,7 +113,7 @@ Saidpur Shahīdān	3013	7670	501	0
 Siāna Saīdān	3002	7655	501	0
 Saidpura	3059	7687	632	0
 Rāmpur Sainlān	3058	7691	705	0
-Rāmpur Sainiān	3058	7691	705	0
+Rāmpur Sainiān	3058	7691	705	0	Rāmpur Sainlān
 Saidpur Barwāliān	3021	7682	501	0
 Sainjni	2798	7934	117	0
 Saidpur	2784	7939	117	0
@@ -132,8 +132,8 @@ Sairora	2464	7924	663	0
 Sairāra	2420	7911	663	0
 Shaikhwāla	2790	7197	217	0
 Shaikhonwāla Khu	2752	7169	217	0
-Shaikhsar Naya Vās	2864	7406	307	0
-Shaini	3278	7606	779	0
+Shaikhsar Naya Vās	2864	7406	307	0	Khodāla
+Shaini	3278	7606	779	0	Shāli
 Saichang	2445	9341	437	0
 Saidpur	2446	7874	384	0
 Saidrāja	2526	8335	724	0
@@ -180,9 +180,9 @@ Shāi	3148	7742	680	0
 Shāi	3142	7741	680	0
 Sainj	3134	7745	479	0
 Saiduke Hithār	3047	7405	3	0
-Saiduke Utār	3046	7407	3	0
+Saiduke Utār	3046	7407	3	0	Chāndmari
 Saiyīdwāla	3013	7410	3	0
-Saiyidānwāla	3097	7476	566	0
+Saiyidānwāla	3097	7476	566	0	Rukan Shāhwāla
 Sainj	3115	7729	479	0
 Sainj	3115	7733	479	0
 Sainj	3107	7739	479	0
@@ -229,8 +229,8 @@ Sainīpura	2832	7546	300	0
 Shaikhpuri	2974	7802	596	0
 Saidābād	2969	7805	596	0
 Saidpuri	2965	7822	575	0
-Saiyadpuri	2965	7822	575	0
-Rasūlpur Saiyad	2965	7822	575	0
+Saiyadpuri	2965	7822	575	0	Saidpuri
+Rasūlpur Saiyad	2965	7822	575	0	Saidpuri
 Saifpur Banjar	2958	7806	575	0
 Saīdpur	2343	7832	338	0
 Sāīnkhera	2325	7842	338	0
@@ -274,9 +274,9 @@ Shaikhū Khera	2948	7476	585	0
 Sairon ka Tonk	2586	7414	446	0
 Saiyadwāla	3033	7803	448	0
 Sairki	3035	7814	448	0
-Saidnagar	2947	7854	575	0
-Saiyidpur Bīru	2928	7854	575	0
-Nawāda Saiyidpur Jalāl	2932	7864	575	0
+Saidnagar	2947	7854	575	0	Haldūwāla
+Saiyidpur Bīru	2928	7854	575	0	Pipla
+Nawāda Saiyidpur Jalāl	2932	7864	575	0	Dilhīwāla
 Saigari	3059	7978	183	0
 Saiyidnagar	2898	7919	552	0
 Saīdnagar	2894	7912	552	0
@@ -285,7 +285,7 @@ Sainpur	2889	7911	552	0
 Sainaiyā Ahmad	2882	7911	552	0
 Sainaiyā Sukh	2883	7911	552	0
 Milak Sainajya	2884	7911	552	0
-Sainaiyā Jat	2883	7910	552	0
+Sainaiyā Jat	2883	7910	552	0	Dharampur
 Sainaiyā Chak	2882	7910	552	0
 Sainjnī	2883	7904	552	0
 Saīdnagar Hardo Pattī	2878	7902	552	0
@@ -450,7 +450,7 @@ Shaikhūpur	2574	8204	718	0
 Saināpur	2573	8213	718	0
 Saidāni	2574	8223	32	0
 Chak Shaikh Ahmad	2565	8212	607	0
-Chak Shaikhlāl	2565	8202	607	0
+Chak Shaikhlāl	2565	8202	607	0	Sādhupur
 Sarāi Shaikhpur	2558	8207	607	0
 Saif Khānpur	2557	8207	607	0
 Shaikhpur	2560	8205	607	0
@@ -460,7 +460,7 @@ Saipura	2512	7990	663	0
 Saipura Kalān	2465	7947	663	0
 Saipura	2470	7929	481	0
 Saidmuyān	2595	8292	498	0
-Saifpur	2595	8289	498	0
+Saifpur	2595	8289	498	0	Ubārsepur
 Saidpur	2589	8278	498	0
 Shaikhpu	2578	8299	498	0
 Shaikhpur Gujrān	2676	7803	622	0
@@ -476,7 +476,7 @@ Saidpura	2528	8307	724	0
 Saidpura	2532	8316	724	0
 Sāīn	2533	8318	724	0
 Saipura	2468	7954	663	0
-Saipura	2451	7966	663	0
+Saipura	2451	7966	663	0	Shahpura
 Saihroli	2621	7866	334	0
 Shaikhāpur	2513	8313	201	0
 Shaikhpur	2522	8310	724	0
@@ -590,7 +590,7 @@ Saidpur	2573	8248	32	0
 Shaikh Sachnaur	2569	8246	32	0
 Shaikhanpur	2561	8248	32	0
 Shaikh Zainpur	2556	8237	32	0
-Saidpur Purāhi	2669	8081	714	0
+Saidpur Purāhi	2669	8081	714	0	Ahmad Khera
 Saidpur	2652	8076	312	0
 Saihala	2628	8084	312	0
 Saidpur	2835	7659	519	0
@@ -603,17 +603,17 @@ Saidāpur	2609	8081	681	0
 Sairāpur	2609	8089	681	0
 Saibasi	2621	8092	681	0
 Saidābād	2923	7817	575	0
-Saidpur	2921	7819	575	0
+Saidpur	2921	7819	575	0	Nāīpura
 Saindwār	2914	7825	575	0
 Saidpur	2906	7819	575	0
 Sāirwāla	2973	7837	575	0
-Āsafpur Saidpur	2962	7846	575	0
+Āsafpur Saidpur	2962	7846	575	0	Bānwāla
 Sarāi Saiyed Gurha	2960	7842	575	0
 Saiyadpur	2955	7841	575	0
 Saidpur Mīra	2955	7832	575	0
 Saidpura	2951	7838	575	0
 Saidpuri	2946	7832	575	0
-Saidpur Muhammad	2942	7843	575	0
+Saidpur Muhammad	2942	7843	575	0	Lālwāla
 Saidkheri	2941	7843	575	0
 Shāhpur Saidu	2940	7828	575	0
 Rūgri Saiyad	2937	7834	575	0
@@ -669,7 +669,7 @@ Sāikī	2091	7919	141	0
 Saishwar	2075	7908	141	0
 Saidpur Māfi	2907	7850	575	0
 Saifpur	2903	7857	511	0
-Khempur Saifullāhpur	2904	7866	511	0
+Khempur Saifullāhpur	2904	7866	511	0	Gāonri
 Sainjni	2906	7874	511	0
 Saiaura	2488	8100	324	0
 Kālu Saiyid	2937	7889	551	0
@@ -717,14 +717,14 @@ Saindari	2873	7862	646	0
 Milak Saindari	2873	7860	646	0
 Saidpur Jairām	2875	7862	646	0
 Saiyad Yāsīnpur	2582	8139	718	0
-Pure Saifu	2581	8137	718	0
+Pure Saifu	2581	8137	718	0	Hināhu
 Sailwāra	2578	8144	718	0
 Saiyad Alīpur	2599	8144	681	0
 Saifullāhganj	2828	7866	117	0
 Saidpur	2840	7873	646	0
 Sainjani	2843	7872	646	0
 Shaistabad Bhurkuspur	2614	8102	681	0
-Surajpur Sainbasi	2603	8107	681	0
+Surajpur Sainbasi	2603	8107	681	0	Mirzāpur
 Sai	2607	8117	681	0
 Saidanpur	2618	8120	681	0
 Saif Saraiyān	2659	8153	30	0
@@ -741,7 +741,7 @@ Saiyīd Khān	2677	8197	629	0
 Saidāpur	2624	8184	662	0
 Saifpur Chittu	2872	7879	511	0
 Ābu Saidpur	2861	7890	511	0
-Saidnagar	2858	7890	511	0
+Saidnagar	2858	7890	511	0	Nayāgaon
 Sailān	3362	7438	1	0
 Pura Sāin	2759	8207	280	0
 Pura Gauri Sāin	2753	8205	280	0
@@ -754,7 +754,7 @@ Pura Sāin	2759	8202	618	0
 Saifpur	2824	7879	117	0
 Parapur Saifulla	3395	7462	76	0
 Shaikhpur	2810	7879	117	0
-Saidpur	2810	7879	117	0
+Saidpur	2810	7879	117	0	Shaikhpur
 Saipeta	1876	7836	75	0
 Sāīn	3345	7474	666	0
 Pura Sāin	2738	8204	542	0
@@ -785,7 +785,7 @@ Pura Roshan Sai	2691	8219	542	0
 Saidwāra	2679	8219	629	0
 Gopāl Saif	3395	7477	76	0
 Takia Shaikhpür	3378	7489	678	0
-Takia Shaikhpuer	3378	7489	678	0
+Takia Shaikhpuer	3378	7489	678	0	Takia Shaikhpür
 Saīpur	3377	7499	678	0
 Purwa Sairon	2672	8208	629	0
 Shaikhanpur Mungchua	2664	8200	629	0
@@ -1037,7 +1037,7 @@ Saini Ka Lāhr Doli	3178	7600	327	0
 Saidā	2207	8208	291	0
 Saido	2277	8280	725	0
 Saitola	2083	8020	171	0
-Bidhi Saiyamān	2702	8073	714	0
+Bidhi Saiyamān	2702	8073	714	0	Bhanwār
 Saidāpur	2705	8060	686	0
 Saidāpur	2701	8070	714	0
 Chak Saidāpur	2701	8071	714	0
@@ -1130,12 +1130,12 @@ Saidpur	2887	7805	756	0
 Shaikhpur	2855	7800	637	0
 Shaikhupūra	2849	7807	637	0
 Shaikhpūr	2830	7804	637	0
-Shaikhupūr	2839	7806	637	0
+Shaikhupūr	2839	7806	637	0	Rorā
 Saidgarhi	2822	7814	637	0
 Shaikhupur	2814	7821	637	0
-Sailāb	2822	7842	646	0
-Sailāb	2820	7843	646	0
-Sailāb	2817	7844	646	0
+Sailāb	2822	7842	646	0	Biohpūrī
+Sailāb	2820	7843	646	0	Husainpūr
+Sailāb	2817	7844	646	0	Kharmorī
 Nagla Ajmeri Sailāb	2814	7848	646	0
 Shaikhupūr	2806	7829	543	0
 Saifpūr	2802	7839	543	0
@@ -1208,7 +1208,7 @@ Saithaul	2722	8444	476	0
 Shaikh	2703	8460	476	0
 Shaikhpatti	2686	8419	476	0
 Shaikh Beli	2649	8417	703	0
-Sainj	2972	7979	722	0
+Sainj	2972	7979	722	0	Ghangara
 Bhanola Saim	2963	7991	429	0
 Shaikh	2668	8446	476	0
 Shaikh	2671	8450	476	0
@@ -1236,7 +1236,7 @@ Saidpur	2838	7940	342	0
 Saidpur	2844	7946	342	0
 Saidpur Khajuria	2834	7948	342	0
 Saidupur	2828	7947	342	0
-Shaikhūpur	2824	7928	342	0
+Shaikhūpur	2824	7928	342	0	Bihārīpur
 Saidpur Kani	2824	7933	342	0
 Sainpur	2816	7937	117	0
 Sainjaniān	2811	7946	117	0
@@ -1245,7 +1245,7 @@ Saidpur	2629	8464	639	0
 Saidpura	2621	8454	639	0
 Saidpur	2876	7950	342	0
 Sainjani	2889	7973	641	0
-Sainta Khera	2900	7966	641	0
+Sainta Khera	2900	7966	641	0	Kusniaut
 Shaikhpur	2668	8489	396	0
 Shaikh Neāmatpur	2658	8482	396	0
 Shaikh	2658	8485	396	0
@@ -1353,7 +1353,7 @@ Sain Chak	2502	8708	605	0
 Saifullah	2599	8751	667	0
 Salempur Saini	2527	8729	411	0
 Saidpur	2588	8503	540	0
-Saidpur Mathai	2594	8519	716	0
+Saidpur Mathai	2594	8519	716	0	Mataia
 Sain Berauna	2599	8520	716	0
 Saidpur	2572	8512	540	0
 Sain Chak	2557	8510	604	0

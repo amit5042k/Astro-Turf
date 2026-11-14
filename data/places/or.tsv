@@ -1,11 +1,11 @@
-Orugallu	1800	7958	61	704570
+Orugallu	1800	7958	61	704570	Warangal
 Orai	2599	7945	741	158265
 Orumanayūr	1057	7603	241	14064
 Orīkkai	1280	7971	161	12638
 Orchha	2535	7864	529	11511
 Orathanadu	1062	7925	264	10247
-Orattanad	1062	7925	264	10247
-Ordnance Factory Khamaria	2321	8003	598	9839
+Orattanad	1062	7925	264	10247	Orathanadu
+Ordnance Factory Khamaria	2321	8003	598	9839	Khamaria
 Ordnance Factory Itarsi	2257	7787	590	7878
 Oran	2537	8074	463	6495
 Orla	2372	8549	391	5809
@@ -15,13 +15,13 @@ Orxel	1545	7382	188	0
 Orwāra	2281	7377	180	0
 Oru	2323	7169	28	0
 Ororotse	3429	7843	2	0
-Orarucha	3429	7843	2	0
+Orarucha	3429	7843	2	0	Ororotse
 Ormānjhi	2349	8548	562	0
 Orlim	1522	7395	102	0
 Oragaon	2003	8498	548	0
-Orhagān	2003	8498	548	0
+Orhagān	2003	8498	548	0	Oragaon
 Ordeltong	1822	8139	599	0
-Ordel	1822	8139	599	0
+Ordel	1822	8139	599	0	Ordeltong
 Orāngajuli	2682	9187	381	0
 Orāng	2670	9232	381	0
 Oragadam	1265	8007	247	0
@@ -87,7 +87,7 @@ Orhki	2444	8128	516	0
 Orā	2543	8091	643	0
 Ornki	2468	8063	324	0
 Oria	2346	7939	521	0
-Orauli	2474	8298	103	0
+Orauli	2474	8298	103	0	Chandauli
 Orgari	2422	8243	631	0
 Orgari	2424	8243	631	0
 Orgari	2423	8241	631	0
@@ -330,7 +330,7 @@ Kīl Orasūr	983	7879	454	0
 Orasūr	983	7879	454	0
 Orattūr	978	7886	454	0
 Orattuppālaiyam	1087	7776	235	0
-Or Sālaippudūr	1050	7795	187	0
+Or Sālaippudūr	1050	7795	187	0	Anigamuttampatti
 Orattūr	1110	7919	383	0
 Orattūr	1176	7933	390	0
 Orukodi	1192	7943	202	0

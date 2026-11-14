@@ -9,7 +9,8 @@ Usage:
 
 Output:
   index.json   {"states": [...], "districts": [[name, stateIdx], ...], "source": ...}
-  <xx>.tsv     one place per line: name \t lat*100 \t lon*100 \t districtIdx \t population
+  <xx>.tsv     one place per line: name \t lat*100 \t lon*100 \t districtIdx \t population [\t main name]
+               (the last column is present when `name` is an alternate spelling)
                where <xx> is the first two letters of the phonetic search key (see placeKey in js/places.js).
                Large shards are split by the next letter, up to 4 letters (<xxy>.tsv, <xxyz>.tsv); index.json lists
                every split prefix under "split". A word that ends at a split prefix lands in <prefix>_.tsv.
@@ -108,11 +109,11 @@ def main(src, out):
             if len(nk) < 2 or nk in seen_keys:
                 continue
             seen_keys.add(nk)
-            row = f'{n}\t{lat}\t{lon}\t{d}\t{pop}'
+            row = f'{n}\t{lat}\t{lon}\t{d}\t{pop}' + (f'\t{name}' if n != name else '')
             for wk in set(word_keys(n)):
                 key = (nk, lat // 2, lon // 2)  # same name within ~2 km counts as a duplicate
                 bucket = shards[wk[:2]]
-                if key not in bucket or pop > int(bucket[key].rsplit('\t', 1)[1]):
+                if key not in bucket or pop > int(bucket[key].split('\t')[4]):
                     bucket[key] = row
                 added = True
         places += added
@@ -127,7 +128,7 @@ def main(src, out):
 
     def write(name, rows):
         nonlocal files
-        lines = sorted(rows, key=lambda x: -int(x.rsplit('\t', 1)[1]))
+        lines = sorted(rows, key=lambda x: -int(x.split('\t')[4]))
         with open(os.path.join(out, f'{name}.tsv'), 'w', encoding='utf-8') as fh:
             fh.write('\n'.join(lines) + '\n')
         files += 1

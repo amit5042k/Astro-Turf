@@ -2,9 +2,9 @@ Bhabhua	2504	8361	749	50179
 Bābarpur	2869	7729	693	37058
 Babīna	2524	7847	433	35538
 Bablāi	3036	7688	691	26412
-Babiyal	3036	7688	691	26412
+Babiyal	3036	7688	691	26412	Bablāi
 Bābra	2185	7131	216	25270
-Babra (India : Taluka)	2185	7131	216	25270
+Babra (India : Taluka)	2185	7131	216	25270	Bābra
 Bhābhar	2407	7160	134	21894
 Bābai	2270	7793	590	16741
 Babrāla	2826	7841	646	16670
@@ -13,17 +13,17 @@ Baberu	2555	8070	463	15607
 Bhābhra	2253	7433	155	10968
 Babai	2789	7576	300	10620
 Bāba Bakāla	3156	7526	222	8946
-Babahakala	3156	7526	222	8946
-Dera Baba Nanak	3204	7503	487	7491
+Babahakala	3156	7526	222	8946	Bāba Bakāla
+Dera Baba Nanak	3204	7503	487	7491	Derā Nānak
 Babugarh	2872	7785	756	7156
-Bableshvar	1667	7557	80	0
-Bhabhot	2168	7284	151	0
+Bableshvar	1667	7557	80	0	Bobleshwar
+Bhabhot	2168	7284	151	0	Bhārbhut
 Bhabrāna	2399	7417	22	0
 Bhābhru	2746	7604	121	0
-Dhāni Bhābhru	2746	7604	121	0
-Bhabanapāli	1801	8160	109	0
+Dhāni Bhābhru	2746	7604	121	0	Bhābhru
+Bhabanapāli	1801	8160	109	0	Bhuvanapalle
 Bābatra	2535	7224	343	0
-Bābupara	2190	8404	627	0
+Bābupara	2190	8404	627	0	Bāgopāra
 Baburi	2517	8318	724	0
 Bābupet	1993	7932	111	0
 Bābulgaon	2056	7817	67	0
@@ -31,7 +31,7 @@ Bābulgaon	1917	7643	153	0
 Bābulgaon	1834	7484	152	0
 Bābulda	2447	7569	580	0
 Bābūwāli	2683	6958	217	0
-Babuhri	2683	6958	217	0
+Babuhri	2683	6958	217	0	Bābūwāli
 Bābra	2624	7425	273	0
 Bābra	2020	7542	113	0
 Babnergarh	3268	7514	720	0
@@ -43,14 +43,14 @@ Babalwāra	2409	7347	22	0
 Bābain	3007	7698	501	0
 Bābai	2617	7946	741	0
 Bābai Kalān	2283	7868	522	0
-Bābai	2283	7868	522	0
+Bābai	2283	7868	522	0	Bābai Kalān
 Bābla	2814	7491	491	0
 Bābnān	2290	8821	279	0
 Babu Bheri	2285	8824	279	0
 Bhabānipur	2221	8810	4	0
 Bāba Woyil	3427	7482	595	0
-Bāba Wāyil	3427	7482	595	0
-Bābusīpura	3425	7478	595	0
+Bāba Wāyil	3427	7482	595	0	Bāba Woyil
+Bābusīpura	3425	7478	595	0	Bobuspur
 Bāba Darya Dīn	3422	7483	595	0
 Bābagund	3412	7456	301	0
 Bāba Rafiuddīn	3405	7460	76	0
@@ -83,23 +83,23 @@ Nagla Bāba	2695	7901	464	0
 Nagla Bāba	2691	7900	290	0
 Siāpur Bābu	2685	7902	290	0
 Nagla Bābāpur	2684	7909	290	0
-Bāba ka Nagla	2684	7909	290	0
+Bāba ka Nagla	2684	7909	290	0	Nagla Bābāpur
 Bābūpura	2636	7927	741	0
 Babina Sukhchainpur	2679	7951	715	0
 Purwa Bābu	2654	7979	671	0
-Bāba ka Khera	2478	7916	481	0
+Bāba ka Khera	2478	7916	481	0	Majrākāshi
 Bhabharind	2851	7553	539	0
 Babrāl	3248	7497	720	0
 Babīna	2601	7982	741	0
 Bābalgaon	1986	7702	640	0
-Babūlgaon	1986	7702	640	0
+Babūlgaon	1986	7702	640	0	Bābalgaon
 Bābāpur	2047	7862	143	0
 Bhabanipur	2206	8807	559	0
 Baburbona	2481	8806	412	0
 Kunan Bābagund	3442	7467	120	0
 Bhok Bāba	3441	7471	120	0
 Bāb Sāleh	3426	7472	595	0
-Bābāji ka Nāngal	2805	7662	519	0
+Bābāji ka Nāngal	2805	7662	519	0	Shāhbāzpur
 Bābra Bākīpur	2839	7685	630	0
 Bābrauli	2842	7696	630	0
 Bhābas	3169	7710	278	0
@@ -114,7 +114,7 @@ Bābarwāli	3064	7710	587	0
 Babnol	3063	7720	534	0
 Bābūgarh	3040	7713	691	0
 Bhabūka Bāri	2372	7836	352	0
-Bhabīsa	2931	7732	328	0
+Bhabīsa	2931	7732	328	0	Tāharpur
 Bābri	2949	7743	328	0
 Bābūpur Naglīpur	2966	7771	449	0
 Bābai	2300	7809	338	0
@@ -122,7 +122,7 @@ Bābai Khurd	2283	7866	522	0
 Bābai	2220	7895	337	0
 Bābarboh	2189	7829	462	0
 Bābulkheda	2141	7840	133	0
-Bābhulgaon	2099	7822	143	0
+Bābhulgaon	2099	7822	143	0	Ishākhpur
 Bābarmal	2442	7373	22	0
 Babūriya	2505	7697	336	0
 Bābān ka Khera	2511	7462	417	0
@@ -216,7 +216,7 @@ Babrāra	2746	7942	688	0
 Babūtola	2193	7948	368	0
 Bābdeo	2120	7938	141	0
 Bhābipur	2786	7962	470	0
-Bābūpur Khūrd	2796	7969	470	0
+Bābūpur Khūrd	2796	7969	470	0	Nagaria
 Bābupur Buzurg	2799	7965	470	0
 Bābūpura	2642	7761	478	0
 Bābūpura	2644	7757	622	0
@@ -583,13 +583,13 @@ Kuti Bāba	2703	8173	542	0
 Bābūkhera	2875	7849	646	0
 Mathia Bāba	2701	8170	542	0
 Bāburäm P	2743	8180	294	0
-Baburaem P	2743	8180	294	0
+Baburaem P	2743	8180	294	0	Bāburäm P
 Bābāganj	2744	8186	294	0
 Pura Bāba	2736	8185	294	0
 Bāba Parsia	2733	8181	294	0
 Bāba Gobridās	2730	8179	294	0
 Bābli	1965	7744	640	0
-Hari Bāba ka Bandha	2842	7832	646	0
+Hari Bāba ka Bandha	2842	7832	646	0	Shri Dhām Bāndli
 Bel Baba	2841	7840	646	0
 Bābli	1951	7772	140	0
 Bābūpur	2806	7983	470	0
@@ -787,7 +787,7 @@ Bābagund	3378	7521	148	0
 Gaunaria Bābu	2712	8359	515	0
 Baulia Bābū	2716	8367	515	0
 Bābadār	3366	7515	148	0
-Bābūpur	2595	8154	718	0
+Bābūpur	2595	8154	718	0	Bahādurpur
 Bābāganj	2585	8156	718	0
 Bābūrāi Jahānpur	2582	8155	718	0
 Bāba ka Purwa	2578	8165	718	0
@@ -874,7 +874,7 @@ Bābāpur	2575	8182	718	0
 Baburha	2585	8195	718	0
 Baburi Dadiya	2562	8187	607	0
 Bābūganj	2561	8199	607	0
-Chak Babūra	2539	8188	607	0
+Chak Babūra	2539	8188	607	0	Shāhji ka Pura
 Bābūpur	2537	8183	607	0
 Babhli Khurd	2217	7464	130	0
 Bhabhriyapura	2220	7469	130	0
@@ -1107,7 +1107,7 @@ Rāmpur Babu	2657	8429	703	0
 Babuiyā	2691	8470	396	0
 Babhnauli	2653	8461	396	0
 Babhan Dhawahi	2664	8475	396	0
-Babhan Dhabahi	2664	8475	396	0
+Babhan Dhabahi	2664	8475	396	0	Babhan Dhawahi
 Bābat	2811	7911	117	0
 Babnia	2827	7939	342	0
 Babhia	2828	7941	342	0
@@ -1382,7 +1382,7 @@ Babtingia	2045	8416	387	0
 Babartipāli	2097	8455	414	0
 Bhābpur	2059	8468	386	0
 Babu Barhi	2646	8627	556	0
-Ibrāhīmpur Bāban	2956	7832	575	0
+Ibrāhīmpur Bāban	2956	7832	575	0	Nagla
 Kuti Bāba	2610	8127	681	0
 Kuti Bāba	2605	8128	681	0
 Kuti Bāba	2604	8131	681	0

@@ -1,4 +1,4 @@
-Paiguri	2652	8873	602	107832
+Paiguri	2652	8873	602	107832	Jalpāiguri
 Paithan	1948	7539	113	41536
 Painkulam	826	7717	453	23630
 Paippad	942	7658	271	21338
@@ -6,7 +6,7 @@ Pail	3072	7606	674	7923
 Paiyūr	1267	7930	197	7555
 Tola Pairamatihana	2468	8635	524	5858
 Paikpara	2477	8792	471	2000
-Paigir	1754	7894	129	0
+Paigir	1754	7894	129	0	Raigīr
 Paipālyam	1370	7793	438	0
 Pāīn Kufar	3093	7739	534	0
 Paina	2625	8378	535	0
@@ -17,37 +17,37 @@ Paikbara	2883	7868	511	0
 Paikaulia	2688	8255	154	0
 Pāikamāl	2092	8280	497	0
 Paigaon	2778	7753	177	0
-Pāidhi	2075	7567	78	0
+Pāidhi	2075	7567	78	0	Pāldhi
 Pai Bigha	2505	8492	118	0
 Pāi	2970	7653	638	0
-Pairā	2543	7688	335	0
-Pairuj	2043	8389	387	0
+Pairā	2543	7688	335	0	Pahlā
+Pairuj	2043	8389	387	0	Pahīreju
 Pāiken	2235	8814	4	0
 Paingirān	3343	7423	504	0
 Paiwan Tsakui	3431	7409	0	0
-Paiwan Chakul	3431	7409	0	0
+Paiwan Chakul	3431	7409	0	0	Paiwan Tsakui
 Tāpar Pāin	3421	7451	301	0
 Paimas	3406	7469	76	0
 Bardi Pail	3292	7461	581	0
 Pail	3294	7459	581	0
 Dula da Pail	3297	7462	666	0
-Pail	3324	7420	504	0
+Pail	3324	7420	504	0	Jindrekān
 Pail Karbian	3311	7420	504	0
-Pail Kāsbiān	3311	7420	504	0
+Pail Kāsbiān	3311	7420	504	0	Pail Karbian
 Pail	3317	7434	504	0
 Garan Pain	3317	7435	504	0
 Pail	3299	7437	504	0
 Jhil Pail	3297	7441	581	0
-Jhir Pail	3297	7441	581	0
+Jhir Pail	3297	7441	581	0	Jhil Pail
 Rumblān Pail	3296	7444	581	0
-Rumbi Pail	3296	7444	581	0
+Rumbi Pail	3296	7444	581	0	Rumblān Pail
 Pail	3296	7447	581	0
 Gaurian Pail	3295	7444	581	0
 Painthal	3297	7497	666	0
-Narwāl Pāin	3269	7485	581	0
+Narwāl Pāin	3269	7485	581	0	Narwāl
 Chanpura Pāīn	3437	7382	0	0
 Kandi Pāīn	3439	7384	0	0
-Pairwāli Jinjar	3429	7400	0	0
+Pairwāli Jinjar	3429	7400	0	0	Palriwāli Jinjar
 Pairi	3119	7708	479	0
 Paithra	1796	7809	400	0
 Pāii ki Dhani	2801	7571	300	0
@@ -119,7 +119,7 @@ Nagla Paij Singh	2724	7896	464	0
 Nagla Painth	2730	7797	177	0
 Pai	2686	7879	546	0
 Pailadpur	2755	7905	711	0
-Nagla Painth	2747	7908	711	0
+Nagla Painth	2747	7908	711	0	Kharsela
 Pāithān Khurd Buzurg	2750	7928	688	0
 Nagla Painth	2726	7929	464	0
 Paindāpur	2779	7962	470	0
@@ -263,7 +263,7 @@ Paintia Māfi	2880	7861	646	0
 Tābai Mazra Painti	2883	7862	483	0
 Chak Painti	2883	7861	483	0
 Painti Khurd	2884	7861	483	0
-Paighambarpur	2885	7859	483	0
+Paighambarpur	2885	7859	483	0	Shāhpur
 Painti Kalān	2885	7862	483	0
 Paindāpur	2810	7986	470	0
 Mianpur Zamima Paigapur	2809	7997	470	0
@@ -302,7 +302,7 @@ Paintipur	2681	8233	154	0
 Paithia Purwa	2675	8240	154	0
 Paikaulia	2675	8236	154	0
 Pānde Paikauli	2655	8235	553	0
-Paintipur	2641	8247	553	0
+Paintipur	2641	8247	553	0	Aurangnagar
 Paigāpur	2680	8263	154	0
 Paikhauli	2678	8259	154	0
 Paikaulia	2653	8266	553	0
@@ -375,7 +375,7 @@ Paigawān	2220	8241	291	0
 Pailīmetā	2167	8099	509	0
 Painpur	2170	7562	329	0
 Pairī	2104	8092	474	0
-Painga	2288	8296	725	0
+Painga	2288	8296	725	0	Rāmnagar
 Paidhār	2190	8232	696	0
 Paijni	2169	8229	379	0
 Pairagura	2152	8233	379	0
@@ -418,9 +418,9 @@ Painwālgaon	2976	7881	612	0
 Paikin	2148	8330	635	0
 Paighambarpūr	2828	7819	637	0
 Paisāwad	2325	7626	320	0
-Paindapur	2887	7881	511	0
+Paindapur	2887	7881	511	0	Dādūpur
 Paindāia	2884	7894	511	0
-Paipatpur	2876	7898	511	0
+Paipatpur	2876	7898	511	0	Maiga Nagla
 Painj	3050	7919	365	0
 Pairnatura	3050	7921	365	0
 Paighambarpur	2736	8126	507	0
@@ -434,8 +434,8 @@ Painga	2622	8162	662	0
 Paitu	1845	8298	316	0
 Paiyanūr	1265	8017	247	0
 Paidāvāri Jagannādhapuram	1727	8218	269	0
-Paidipāla	1741	8237	269	0
-Paidipāla	1727	8245	269	0
+Paidipāla	1741	8237	269	0	Mallampeta
+Paidipāla	1727	8245	269	0	Agrahāram
 Paidichintapādu	1665	8127	24	0
 Paidiparru	1675	8167	318	0
 Paidagūdem	1792	8098	60	0
@@ -498,7 +498,7 @@ Paigāpur	2823	7947	342	0
 Paithānpatti	2644	8452	703	0
 Paintālis	2632	8453	639	0
 Paiga	2865	7958	342	0
-Paindāpur	2874	7988	683	0
+Paindāpur	2874	7988	683	0	Bihārīpur
 Paighambarpur	2599	8406	536	0
 Pailādih	2563	8413	620	0
 Paighambarpur	2563	8417	620	0

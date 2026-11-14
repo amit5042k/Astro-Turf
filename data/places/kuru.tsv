@@ -1,14 +1,14 @@
 Kuruvattūr	1134	7584	262	34241
 Kurumbapet	1194	7977	196	32871
-Kurudampalayam	1111	7694	156	18749
+Kurudampalayam	1111	7694	156	18749	Rakkiyapālaiyam
 Kurumathur	1204	7541	266	18641
 Kurumpilavu	1041	7617	241	14329
 Kurud	2083	8172	652	13783
 Kurumbalūr	1124	7880	265	12420
-Kurumuli	1875	8294	316	8504
+Kurumuli	1875	8294	316	8504	Kurmūr
 Kuruppanāyakkanpālaiyam	1146	7769	211	7484
-Kuruppanaickenpalayam	1146	7769	211	7484
-Kurumbapatti	1038	7796	187	6182
+Kuruppanaickenpalayam	1146	7769	211	7484	Kuruppanāyakkanpālaiyam
+Kurumbapatti	1038	7796	187	6182	Mīnākshināyakkanpatti
 Kurukkuppatti	1169	7798	51	5037
 Kurul	1864	7289	17	4869
 Kurukutia	2209	8647	382	359
@@ -19,13 +19,13 @@ Kurumunda	2072	8406	386	0
 Kurumandūr	1142	7735	211	0
 Kurul	1767	7566	132	0
 Kurukkuchālai	893	7809	208	0
-Kuruj	2507	7410	572	0
+Kuruj	2507	7410	572	0	Kuraj
 Kurugodu	1535	7684	44	0
-Kurugode	1535	7684	44	0
+Kurugode	1535	7684	44	0	Kurugodu
 Kuruān	2129	8374	497	0
 Kurua	2624	9182	747	0
 Kuru	2354	8482	773	0
-Kurua	2315	8397	398	0
+Kurua	2315	8397	398	0	Korea
 Kurumidda	1703	7857	62	0
 Kuruvimedu	1322	8028	228	0
 Kurua	2416	7823	352	0
@@ -468,7 +468,7 @@ Kurumala Kānikkudi	840	7736	453	0
 Kurundankod	819	7733	453	0
 Kurusadi	816	7741	453	0
 Kurumbadivila	811	7749	453	0
-Kuruvankottai	889	7750	245	0
+Kuruvankottai	889	7750	245	0	Māyamānkurichchi
 Kurusādi	824	7752	453	0
 Kurusopuvattam	810	7750	453	0
 Kurukapuram	825	7757	453	0
@@ -542,7 +542,7 @@ Kurukkatti	983	7858	454	0
 Kurundani	983	7866	454	0
 Kurundangudi	978	7872	454	0
 Kurundangulam	975	7851	454	0
-Mel Kuruntangudi	966	7867	454	0
+Mel Kuruntangudi	966	7867	454	0	Tokkanendal
 Kurundūr	997	7898	454	0
 Kurundangudi	990	7893	5	0
 Kurundudaiyanendal	985	7884	454	0
@@ -572,7 +572,7 @@ Kurumbankottai	1196	7956	202	0
 Kuruvinattam	1180	7973	277	0
 Kurungudi	1126	7954	178	0
 Kuruvanūthu	967	7724	194	0
-Kurumbupatti	983	7733	194	0
+Kurumbupatti	983	7733	194	0	Ambāsamudram
 Kurumbapattiyankottai	1197	7801	110	0
 Kuruvāliyūr	1183	7806	51	0
 Kurumbappatti	1178	7816	51	0

@@ -1,33 +1,33 @@
-Mathurai	992	7812	274	1465625
+Mathurai	992	7812	274	1465625	Madurai
 Mathura	2750	7767	177	330511
 Mattanur	1193	7557	266	47078
 Mathur	1317	8025	204	27674
 Mattigiri	1270	7781	223	23129
-Mattagiri	1270	7781	223	23129
+Mattagiri	1270	7781	223	23129	Mattigiri
 Mātābhānga	2634	8922	420	22642
-Mattoor	1017	7643	176	18890
+Mattoor	1017	7643	176	18890	Martūru
 Tola Rāmpurwā Motalke Kurwa Mathiā	2687	8453	476	13758
-Kurwa Mathia	2687	8453	476	13758
+Kurwa Mathia	2687	8453	476	13758	Tola Rāmpurwā Motalke Kurwa Mathiā
 Mattan	3376	7521	148	9246
-Mathicode	822	7726	453	8625
+Mathicode	822	7726	453	8625	Midalam
 Mataundh	2544	8016	463	8591
 Mathurāpur	2587	8579	138	7627
 Matarbari	2351	9150	385	6530
 Mathadahatti	1424	7638	255	5884
-Matadakurubarahatti	1424	7638	255	5884
+Matadakurubarahatti	1424	7638	255	5884	Mathadahatti
 Matigara	2378	8618	401	5685
 Māttūr	1132	7920	383	5605
 Mātherān	1898	7327	17	5287
 Matawand Bagbeda	1967	8139	619	655
 Matla	1963	8142	619	311
 Rozi Māta	2255	7004	145	0
-Matia Buluj	2255	8830	354	0
-Matia Buruj	2255	8830	354	0
+Matia Buluj	2255	8830	354	0	Metia Bruz
+Matia Buruj	2255	8830	354	0	Metia Bruz
 Mel Māttūr	1119	7904	265	0
 Matwād	2092	7283	221	0
 Matwa	2234	7022	145	0
 Mātunga	1903	7285	106	0
-Bombay Matunga	1903	7285	106	0
+Bombay Matunga	1903	7285	106	0	Mātunga
 Mātugāmra	2389	7373	512	0
 Māttūl	1198	7528	259	0
 Mattod	1377	7640	255	0
@@ -42,7 +42,7 @@ Mātsavaram	1652	8065	104	0
 Matringa	2267	8304	725	0
 Mātra	2226	7137	174	0
 Mātola	1808	7640	158	0
-Mātola Buzurg	1808	7640	158	0
+Mātola Buzurg	1808	7640	158	0	Mātola
 Matmāri	1603	7730	50	0
 Mātlā	2176	8070	144	0
 Matkumbera	2267	8611	653	0
@@ -51,7 +51,7 @@ Matkota	2368	7585	347	0
 Mātin	2273	8242	388	0
 Mātigara	2672	8838	573	0
 Matiyāna	3121	7741	479	0
-Matiāna	3121	7741	479	0
+Matiāna	3121	7741	479	0	Matiyāna
 Mātiāli	2693	8882	602	0
 Mathwār	2201	7422	155	0
 Mathwāda	1798	7960	249	0
@@ -70,10 +70,10 @@ Mathāna	1955	7272	192	0
 Māthak	2284	7106	147	0
 Math	2335	7385	142	0
 Math	1705	7339	234	0
-Mathagāva	1705	7339	234	0
+Mathagāva	1705	7339	234	0	Math
 Mātergaon	2085	7656	49	0
 Matera Bāzār	2778	8155	294	0
-Matera	2778	8155	294	0
+Matera	2778	8155	294	0	Matera Bāzār
 Māted	1754	7970	762	0
 Matāyān	3437	7559	8	0
 Matattuppatti	882	7780	191	0
@@ -98,17 +98,17 @@ Matsbawan	3445	7428	0	0
 Mattu	3281	7453	581	0
 Matlāsi	3323	7404	504	0
 Mathālo	3292	7437	581	0
-Matiāla	3292	7437	581	0
+Matiāla	3292	7437	581	0	Mathālo
 Mathūwār	3293	7491	666	0
 Bhaini Māto	2901	7626	719	0
-Mātu	2901	7626	719	0
+Mātu	2901	7626	719	0	Bhaini Māto
 Bīr Mathāna	2999	7693	501	0
 Mathāna	2998	7696	501	0
 Mathāphar	3254	7490	581	0
 Matogi	3050	7793	448	0
 Kumhār Matti	3045	7789	448	0
 Mātūndo	2543	7571	353	0
-Bānga Māta	2539	7557	353	0
+Bānga Māta	2539	7557	353	0	Bhawānīpura
 Mātāji ka Jhonpara	2578	7552	313	0
 Māther	3119	7701	479	0
 Mathargaon	2999	7853	612	0
@@ -128,7 +128,7 @@ Matak Mājra	3001	7697	501	0
 Mātai Khirk	2519	7897	481	0
 Mātol	2503	7888	481	0
 Matlyāna	2480	7894	481	0
-Matiyāna	2480	7894	481	0
+Matiyāna	2480	7894	481	0	Matlyāna
 Mātauli	2470	7892	481	0
 Matiyākhera	2459	7895	481	0
 Mathna	2783	7932	117	0
@@ -149,7 +149,7 @@ Mātāwāli Dhāni	2700	7570	121	0
 Mathnia	2546	7932	433	0
 Matehra	2677	7964	715	0
 Mathan	2671	7985	671	0
-Matera	2671	7978	671	0
+Matera	2671	7978	671	0	Chitai Chaube
 Bara Math	2668	7984	671	0
 Mātol	2490	7919	481	0
 Matiyārātāl	2472	7914	481	0
@@ -162,7 +162,7 @@ Mātipāra	2650	8995	713	0
 Mātiajuri	2644	8993	713	0
 Māthani	2662	9351	740	0
 Mathiā Rasūlpur	2690	8442	476	0
-Māta	2565	7752	436	0
+Māta	2565	7752	436	0	Bilbāra
 Mattūr	1239	7841	223	0
 Matticher	955	7786	697	0
 Matia	2610	9080	458	0
@@ -173,7 +173,7 @@ Matalia	2282	8743	677	0
 Mathura	2278	8849	450	0
 Mathpara	2343	8841	528	0
 Matie Khana Gaon	2743	9524	380	0
-Matiekhana	2743	9524	380	0
+Matiekhana	2743	9524	380	0	Matie Khana Gaon
 Matupali	2106	8385	308	0
 Matagajpur	2044	8595	303	0
 Mata Khera	2451	7436	417	0
@@ -263,7 +263,7 @@ Matheu	3057	7791	448	0
 Matkāngra	3073	7787	448	0
 Matyāwa	3064	7797	448	0
 Mattews Railway Colony	1309	8027	204	0
-Salempur Mathna	2935	7812	575	0
+Salempur Mathna	2935	7812	575	0	Pūranpur
 Matlāna	2650	7619	708	0
 Māthuka	2648	7610	313	0
 Mātāsor	2693	7692	447	0
@@ -476,7 +476,7 @@ Mathiānpura	2548	8309	251	0
 Mathia	2547	8317	724	0
 Matiāra	2544	8318	724	0
 Mathela	2540	8321	724	0
-Mātīgaon	2531	8324	724	0
+Mātīgaon	2531	8324	724	0	Pharsandh Mohanpur
 Matipura	2672	7859	334	0
 Mathna	2521	8308	201	0
 Matihāni	2506	8307	724	0
@@ -561,7 +561,7 @@ Matiyai	2382	7828	215	0
 Mātākhera	2447	7833	384	0
 Mathra	2490	7852	384	0
 Mātoli	1723	7642	71	0
-Matwāo	2443	7881	384	0
+Matwāo	2443	7881	384	0	Mānikpur
 Matiya	2430	7894	352	0
 Mathadigudem	1963	7861	282	0
 Mathura Tānda	1947	7875	282	0
@@ -642,12 +642,12 @@ Mathurpur	2607	8080	681	0
 Matehna	2620	8092	681	0
 Mātinpur	2607	8099	728	0
 Matwāpur	2604	8093	728	0
-Mathurāpur Mor	2966	7843	575	0
-Mathurāpur Mor	2964	7840	575	0
-Halbatpur Pāzanalīpur Māthān	2947	7846	575	0
+Mathurāpur Mor	2966	7843	575	0	Bariya
+Mathurāpur Mor	2964	7840	575	0	Chandanpura
+Halbatpur Pāzanalīpur Māthān	2947	7846	575	0	Kāzīwāla
 Khushālpur Matheri	2947	7840	575	0
-Mathera Chauhān	2939	7842	575	0
-Mathurāpur	2939	7840	575	0
+Mathera Chauhān	2939	7842	575	0	Haru Nagla
+Mathurāpur	2939	7840	575	0	Kālūwāla
 Mataura Durga	2926	7844	575	0
 Mataura Mān	2927	7844	575	0
 Matwār	2471	8244	201	0
@@ -765,7 +765,7 @@ Mātala	1964	7761	140	0
 Mātīpur	2877	7851	483	0
 Mathāwāli	2883	7869	511	0
 Matāwali Patti Jaggu	2874	7856	646	0
-Matāwali Patti Parasrām	2874	7857	646	0
+Matāwali Patti Parasrām	2874	7857	646	0	Nayāgaon
 Matrauli	2598	8128	681	0
 Pure Mātādīn	2590	8127	681	0
 Matrampur	2575	8144	718	0
@@ -1099,7 +1099,7 @@ Matnāri	3348	7526	148	0
 Mathuli Chandrēn	3336	7544	372	0
 Shivpur Mathia	2696	8375	560	0
 Mathia	2696	8376	560	0
-Mathia	2687	8377	560	0
+Mathia	2687	8377	560	0	Aktaha
 Sohasapatti Mathia	2681	8384	560	0
 Mathia	2685	8381	560	0
 Mathia Khurd	2698	8386	560	0
@@ -1159,16 +1159,16 @@ Mattu ka Purwa	2580	8197	718	0
 Mātādīn ka Purwa	2553	8186	607	0
 Mathura	2552	8198	607	0
 Matiāra	2557	8190	607	0
-Kakhri Mātpur	2568	8193	607	0
+Kakhri Mātpur	2568	8193	607	0	Ganga ka Pura
 Māthpur	2568	8193	607	0
-Mātādīn	2566	8196	607	0
+Mātādīn	2566	8196	607	0	Chandrāwat
 Matiyāri	2569	8189	607	0
 Matāpara	3242	7558	496	0
 Matandi	3239	7558	496	0
 Matti	3240	7574	692	0
 Mattan ka Purwa	2544	8180	607	0
 Mattan ka Purwa	2543	8180	607	0
-Zīrāt Matan	2542	8193	607	0
+Zīrāt Matan	2542	8193	607	0	Nārāyandās a Pura
 Matma	2486	8110	324	0
 Matiha	2499	8115	643	0
 Mat	3250	7578	496	0
@@ -1199,7 +1199,7 @@ Mātā Tolā	2177	8012	144	0
 Mattewāl	3169	7514	222	0
 Matheri	2929	7769	545	0
 Mātāji ki Bāri	2531	7337	273	0
-Bīrampura Mātāji	2534	7342	273	0
+Bīrampura Mātāji	2534	7342	273	0	Vīnpura
 Matane	2046	7415	54	0
 Māte	2185	8041	144	0
 Mātāmaitolā	2182	8040	144	0
@@ -1347,7 +1347,7 @@ Mathgaon	2993	7884	612	0
 Matgal	2990	7894	612	0
 Mathana	2876	7823	483	0
 Matena	2872	7822	483	0
-Matthna	2837	7802	637	0
+Matthna	2837	7802	637	0	Rasūlpūr Teliā
 Matrapāli	2123	8335	497	0
 Māthniya	2384	7674	16	0
 Mathura	2779	8145	294	0
@@ -1666,7 +1666,7 @@ Mathia Hāta	2651	8429	703	0
 Mateya Khās	2651	8430	703	0
 Mathia Khās	2651	8432	703	0
 Mathia Pānre	2651	8438	703	0
-Mātāji ka Khera	2520	7493	309	0
+Mātāji ka Khera	2520	7493	309	0	Debīpura
 Kurwa Mathiā	2686	8451	476	0
 Mathiā	2686	8463	476	0
 Mathiā Ojha	2686	8464	476	0
@@ -1701,9 +1701,9 @@ Matia Nagla	2824	7948	342	0
 Mathurāpur	2634	8455	703	0
 Mathia	2630	8458	639	0
 Mathia Patarhatha	2625	8452	639	0
-Mathia	2627	8459	639	0
+Mathia	2627	8459	639	0	Dagri
 Matauli	2635	8463	703	0
-Matiāra	2634	8459	703	0
+Matiāra	2634	8459	703	0	Muhammadpur
 Kalyānpur Mathia	2641	8466	703	0
 Mathia	2649	8468	396	0
 Mathia	2640	8468	703	0
@@ -1782,7 +1782,7 @@ Kāli Mathtola	2507	8487	527	0
 Kishun Dās Mathtola	2507	8491	527	0
 Mathiātola	2510	8489	527	0
 Mathtola	2520	8485	527	0
-Mathiātola	2518	8484	527	0
+Mathiātola	2518	8484	527	0	Nehālpur
 Mathiātola	2522	8485	527	0
 Mathiātola	2525	8494	527	0
 Mathtola	2524	8495	527	0
@@ -1843,7 +1843,7 @@ Mathan Bigha	2472	8456	137	0
 Matsavaram	1628	7996	10	0
 Mathurāpur	2437	8454	788	0
 Matlī Majhdihā	2401	8457	393	0
-Majhdihā Matlī	2401	8457	393	0
+Majhdihā Matlī	2401	8457	393	0	Matlī Majhdihā
 Mahādeo Māth	2540	8578	604	0
 Matukumilli	1608	7986	10	0
 Matokhār	2513	8580	690	0
@@ -1972,7 +1972,7 @@ Matiarwa	2556	8644	759	0
 Mātanakoppal	1276	7684	94	0
 Mathurāpur	2551	8646	759	0
 Matunroi	2540	8634	530	0
-Mathār	2544	8650	759	0
+Mathār	2544	8650	759	0	Bāndhumandar
 Mātādih	2528	8649	538	0
 Mathār	2531	8625	530	0
 Mattahalli	1246	7688	94	0
@@ -2082,7 +2082,7 @@ Piyara Math	2581	8506	540	0
 Math Chitāwe	2579	8509	540	0
 Math Kakara	2578	8514	540	0
 Mataia	2594	8519	716	0
-Saidpur Mathai	2594	8519	716	0
+Saidpur Mathai	2594	8519	716	0	Mataia
 Mathiāpur	2561	8503	604	0
 Math	2539	8514	604	0
 Sarwān Math	2538	8504	604	0

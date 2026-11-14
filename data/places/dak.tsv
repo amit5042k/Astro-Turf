@@ -1,15 +1,15 @@
 Dhāka	2667	8517	396	42063
 Dākor	2275	7315	167	25658
-Mullanpur Dakha	3085	7566	674	16356
+Mullanpur Dakha	3085	7566	674	16356	Mūllānpur
 Dhakuākhanā	2720	9446	355	13502
-Dakhnā	2665	7915	290	11389
+Dakhnā	2665	7915	290	11389	Lakhnā
 Dhāki	3226	7563	692	4203
 Aujla Dhak	3114	7589	369	1160
 Dit-dak	732	9363	79	0
 Dhakauni	2714	8061	686	0
 Dhākauli	2476	7786	410	0
 Dak-omkeh	708	9365	442	0
-Dak-omkeli	708	9365	442	0
+Dak-omkeli	708	9365	442	0	Dak-omkeh
 Dākoānk	703	9372	79	0
 Dākhān	2562	7210	285	0
 Dākar	3028	8053	508	0
@@ -18,10 +18,10 @@ Dakāla	3022	7636	564	0
 Dakshin Barasat	2223	8845	4	0
 Dakshin	2210	8802	559	0
 Dager di Dhakki	3294	7459	581	0
-Katora Dhak	3313	7418	504	0
+Katora Dhak	3313	7418	504	0	Katoa Dhar
 Dhaki Het	3310	7418	504	0
 Tunra da Kalia	3309	7420	504	0
-Tunia da Kalla	3309	7420	504	0
+Tunia da Kalla	3309	7420	504	0	Tunra da Kalia
 Jila Dhak	3309	7423	504	0
 Parol ka Dhak	3309	7425	504	0
 Dhak	3310	7434	504	0
@@ -32,7 +32,7 @@ Dhakhar	3293	7442	581	0
 Darkālīwāli Dhak	3283	7486	581	0
 Dhakaura	2877	7682	609	0
 Suli Dhakki	3269	7499	720	0
-Sultān Dhakki	3412	7399	301	0
+Sultān Dhakki	3412	7399	301	0	Sultān Baihk
 Dakhan	3438	7378	0	0
 Dākpatthar	3050	7780	448	0
 Dhākowāla	3046	7780	448	0
@@ -45,7 +45,7 @@ Dakuntapalli	1780	7895	182	0
 Dhākān ka Bās	2840	7517	539	0
 Dhakarwāla	2831	7566	300	0
 Kotla Dhāk	3068	7614	674	0
-Dhakaula	3065	7683	632	0
+Dhakaula	3065	7683	632	0	Himmatgarh
 Dhakauli	3065	7684	632	0
 Dhakāla	3013	7681	501	0
 Dhaka	2793	7931	117	0
@@ -106,12 +106,12 @@ Dhākīon	3029	7757	449	0
 Dhakrāni	3045	7772	448	0
 Dakiārna	3068	7785	448	0
 Dākhra	3071	7786	448	0
-Dākri	2656	7637	708	0
-Dākri	2656	7638	708	0
+Dākri	2656	7637	708	0	Toda Gānga
+Dākri	2656	7638	708	0	Toda Gānga
 Dhākās	2816	7503	491	0
 Dhāka ka Bās	2806	7503	491	0
 Dhākāli	2802	7512	491	0
-Dhāka ka Bās	2806	7519	300	0
+Dhāka ka Bās	2806	7519	300	0	Shyopura
 Dhakrai	2373	7850	352	0
 Dhākaro	2672	7654	447	0
 Dhākwāla	2964	7710	457	0
@@ -154,7 +154,7 @@ Dakaunda	3050	7632	564	0
 Dhakorān Kalān	3082	7668	632	0
 Chhota Dhakorān	3081	7668	632	0
 Dakora	2795	7737	754	0
-Dhākar	2825	7783	637	0
+Dhākar	2825	7783	637	0	Karīmpur
 Dhakauli	2845	7784	637	0
 Nagla Dhakauli	2845	7785	637	0
 Dhakpura	2810	7795	637	0
@@ -192,7 +192,7 @@ Dhakia Ranbās	2800	7998	470	0
 Dhakiaq Hamīdnagar	2798	7999	470	0
 Dhakrora	2517	7773	436	0
 Nagla Dhakpura	2750	7899	711	0
-Nagla Dhākan	2730	7896	464	0
+Nagla Dhākan	2730	7896	464	0	Bilāspur
 Dhāk Nagla	2768	7824	543	0
 Dhakpura	2760	7807	670	0
 Nagla Dhak	2790	7836	543	0
@@ -201,7 +201,7 @@ Dhak Nagla	2768	7844	670	0
 Dakhal	2717	7840	403	0
 Dhakpura	2704	7847	403	0
 Dhak Nagla	2790	7851	543	0
-Nagla Dhak	2786	7862	616	0
+Nagla Dhak	2786	7862	616	0	Rāmbāns
 Nagla Dhāka	2783	7865	616	0
 Dhakwan Purwa	2667	7953	715	0
 Dakhnāi	2669	7951	715	0
@@ -213,7 +213,7 @@ Dakauli	2510	8029	663	0
 Dhakhwa	2500	8046	532	0
 Dhakpura	2562	8209	607	0
 Dhakarwāra	2518	7923	433	0
-Dakhān	2577	8281	32	0
+Dakhān	2577	8281	32	0	Maira
 Dhākha	2567	8317	498	0
 Pura Dakhli	2697	7831	546	0
 Dhakpura	2677	7833	478	0
@@ -328,7 +328,7 @@ Dhakia	2819	7994	683	0
 Dhakāri	2856	7869	646	0
 Dākpur	2592	8137	681	0
 Dhakāri	2838	7860	646	0
-Dhak Nagla	2832	7868	117	0
+Dhak Nagla	2832	7868	117	0	Mauzuddīnnagar
 Dakauli	2617	8102	681	0
 Dakhingāon Kiār	2662	8158	662	0
 Pura Dakhtan	2658	8153	30	0
@@ -468,7 +468,7 @@ Akbarpur Dakaura	2811	7739	754	0
 Dākho Dogri	3153	7828	83	0
 Merki Dhākar	2304	7608	322	0
 Borkheri Dhākar	2302	7608	322	0
-Dakhanpura	2323	7613	322	0
+Dakhanpura	2323	7613	322	0	Jalālpura
 Dhākni	2360	7631	320	0
 Dhākni	2366	7648	16	0
 Dākhāpāni	2998	7889	612	0
@@ -517,7 +517,7 @@ Dhakori	2390	7695	16	0
 Dhakora	2390	7696	16	0
 Pīplia Dhākar	2373	7697	16	0
 Dhākni	2301	7676	675	0
-Dhākar	2301	7699	675	0
+Dhākar	2301	7699	675	0	Kalyānpura
 Daknīkheri	2276	7609	322	0
 Dakshaneshwar	2321	7324	125	0
 Dhakalgaon	2213	7606	329	0
@@ -628,7 +628,7 @@ Dakshini Chak	2545	8563	604	0
 Dhākbardi	2190	7594	329	0
 Dakhla	2055	7566	113	0
 Dakaita	2616	8770	667	0
-Dakaiti	2607	8773	613	0
+Dakaiti	2607	8773	613	0	Jognia
 Dhakia Jogi	2787	8018	323	0
 Dhakia Subasingh	2785	8016	323	0
 Dhakia Bhān	2795	8017	323	0

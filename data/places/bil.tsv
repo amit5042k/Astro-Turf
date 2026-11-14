@@ -1,9 +1,9 @@
 Bhilai	2121	8143	286	627734
 Bilimora	2077	7296	221	510879
-Bilimor	2077	7296	221	510879
+Bilimor	2077	7296	221	510879	Bilimora
 Bilāspur	2208	8216	291	365579
 Bhilwara	2535	7464	309	359483
-Bhīlsa	2353	7781	215	155951
+Bhīlsa	2353	7781	215	155951	Vidisha
 Bhilai Charoda	2122	8146	286	98008
 Bilāra	2618	7371	344	41710
 Bīlāspur	2889	7927	552	39873
@@ -13,9 +13,9 @@ Bilgrām	2718	8003	686	27173
 Bilsi	2813	7891	117	26320
 Bilhaur	2684	8006	469	19333
 Bilgi	1635	7562	86	17792
-Bilg	1635	7562	86	17792
+Bilg	1635	7562	86	17792	Bilgi
 Bilthra	2613	8389	536	17228
-Bilthar	2613	8389	536	17228
+Bilthar	2613	8389	536	17228	Bilthra
 Bhiloda	2377	7325	125	16074
 Bilsanda	2824	7995	683	15538
 Biloli	1877	7772	140	14923
@@ -23,7 +23,7 @@ Bilkha	2144	7060	185	14421
 Bilpura	2322	7999	598	14349
 Bilaspur	3133	7676	772	14037
 Bilariāganj	2620	8323	498	13244
-Bilrayāganj	2620	8323	498	13244
+Bilrayāganj	2620	8323	498	13244	Bilariāganj
 Bilaua	2605	7828	484	12893
 Bilāspur	3030	7730	88	11733
 Bilha	2195	8205	291	11048
@@ -34,12 +34,12 @@ Bīlāspur	2839	7762	588	8036
 Bilaigarh	2164	8272	635	5544
 Nava Bhildi	2419	7201	134	4994
 Bilaur	3261	7560	496	4978
-Billawar	3261	7560	496	4978
+Billawar	3261	7560	496	4978	Bilaur
 Bila Nawāb	3115	7543	369	716
 Ghāta Bilod	2267	7552	660	0
-Ghāt Bilod	2267	7552	660	0
+Ghāt Bilod	2267	7552	660	0	Ghāta Bilod
 Bilia ka Ghara	2419	7404	22	0
-Bilpura	2511	7317	273	0
+Bilpura	2511	7317	273	0	Bīsalpur
 Bilwāni	2335	7825	338	0
 Bilsārā	2308	8816	279	0
 Bilsar	2697	8191	542	0
@@ -48,20 +48,20 @@ Bilqīsganj	2312	7723	675	0
 Bilonia	2470	7735	336	0
 Bīlonī	2650	7725	622	0
 Bilona Kalān	2648	7638	708	0
-Bilonā	2648	7638	708	0
+Bilonā	2648	7638	708	0	Bilona Kalān
 Biloi	2669	6982	217	0
 Bilodra	2352	7265	276	0
 Bilyūn	2874	7466	539	0
-Billun	2874	7466	539	0
-Bilyūn Mahiyān	2874	7466	539	0
+Billun	2874	7466	539	0	Bilyūn
+Bilyūn Mahiyān	2874	7466	539	0	Bilyūn
 Billi	2446	8300	103	0
-Bilkheri	2293	7934	522	0
+Bilkheri	2293	7934	522	0	Belkheri
 Bilkhawtlir	2429	9269	42	0
 Bilikere	1234	7645	74	0
-Bilikore	1234	7645	74	0
-Bilherī	2379	8027	351	0
+Bilikore	1234	7645	74	0	Bilikere
+Bilherī	2379	8027	351	0	Belehri
 Bīlha	3052	7543	726	0
-Bilguri	2428	8302	103	0
+Bilguri	2428	8302	103	0	Belguri
 Bilgi	1436	7480	59	0
 Bilgaon	2637	7783	478	0
 Bilehra	2725	8124	30	0
@@ -69,7 +69,7 @@ Bilehra	2365	7873	352	0
 Bildi	2187	7095	174	0
 Bildari	2017	7320	233	0
 Bilchodu	1450	7616	275	0
-Bilchod	1450	7616	275	0
+Bilchod	1450	7616	275	0	Bilchodu
 Bilāspur	3058	7537	499	0
 Bilāspur	2789	8198	618	0
 Bilashi	1700	7401	65	0
@@ -78,18 +78,18 @@ Bilahri	2730	8054	507	0
 Bīla	3064	7693	587	0
 Bhilwal	2670	8126	30	0
 Bhīlpur	2241	7395	126	0
-Bhilorī	2586	7746	436	0
+Bhilorī	2586	7746	436	0	Bhinlauri
 Bhīldi	2419	7201	134	0
-Bhilari	2419	7201	134	0
+Bhilari	2419	7201	134	0	Bhīldi
 Bhilavadi	1699	7447	65	0
-Bhilavdi	1699	7447	65	0
+Bhilavdi	1699	7447	65	0	Bhilavadi
 Bilgaon	2543	8052	463	0
 Bīlāwal	2857	7608	781	0
 Biliyānwās	2874	7486	539	0
-Bilianbas	2874	7486	539	0
+Bilianbas	2874	7486	539	0	Biliyānwās
 Bilbilān	2900	7678	485	0
 Bilyūnrāmpura	2873	7467	539	0
-Bilyūmrāmpura	2873	7467	539	0
+Bilyūmrāmpura	2873	7467	539	0	Bilyūnrāmpura
 Bīlūba	2529	7569	353	0
 Bhīlwashya	2584	7560	313	0
 Bilkhet	2996	7868	612	0
@@ -142,7 +142,7 @@ Beel Kheda Khurd	2306	7727	675	0
 Bilat	2008	8333	284	0
 Bilebal	1522	7525	682	0
 Bilochpura	2998	7662	501	0
-Bilkha	2813	7655	519	0
+Bilkha	2813	7655	519	0	Sulkha
 Biliāwās	2807	7668	482	0
 Bilāheri ki Dhāni	2807	7669	482	0
 Bilāspur Khurd	2829	7687	630	0
@@ -151,7 +151,7 @@ Bilauna	2959	7656	457	0
 Bilāsa	3132	7720	278	0
 Bilāgād	3149	7728	278	0
 Sawna Bil	3141	7738	680	0
-Patti Bila	3006	7407	3	0
+Patti Bila	3006	7407	3	0	Nasirpur
 Bilewāla	3067	7460	730	0
 Bilārshāi	3153	7755	680	0
 Bilāspur	3046	7705	691	0
@@ -214,7 +214,7 @@ Bhīlkhāi	2405	7366	22	0
 Bhilwāri	2454	7605	333	0
 Bhilwāra	2454	7605	333	0
 Bilonya	2464	7611	333	0
-Bilhi	3051	7532	726	0
+Bilhi	3051	7532	726	0	Kharak Singhwāla
 Bhīlkhera	2575	7413	572	0
 Biliya Kalān	2522	7461	309	0
 Bilah	3080	7581	674	0
@@ -342,7 +342,7 @@ Bhīlampur	2626	7751	478	0
 Bhilsairya	2628	7760	478	0
 Bilauwa	2624	7761	478	0
 Bhilāoli	2698	7782	546	0
-Chhoti Bhilāoli	2697	7782	546	0
+Chhoti Bhilāoli	2697	7782	546	0	Nagla Surja
 Bilīyakhera	2691	7777	622	0
 Bīlpur	2679	7790	622	0
 Bilaua	2550	7721	436	0
@@ -938,7 +938,7 @@ Bilgawān	2286	8168	225	0
 Bilāspur	2722	8106	507	0
 Bilauli	2717	8115	30	0
 Bilauli	2712	8121	30	0
-Bilmu	3247	7662	362	0
+Bilmu	3247	7662	362	0	Balmui
 Biling	3206	7675	38	0
 Bilha	2439	8000	532	0
 Bhilwādongri	2227	8191	291	0
@@ -966,7 +966,7 @@ Bileta	2558	7535	309	0
 Bilīpāra	2314	7439	166	0
 Bilanjor	2047	8267	594	0
 Bilha	2408	7980	532	0
-Bhīl Kheri	2381	7621	347	0
+Bhīl Kheri	2381	7621	347	0	Sultāniya Kheri
 Bilochpur	2803	7750	543	0
 Bilaigarh	2183	8321	402	0
 Bilakandūru	1414	7478	346	0
@@ -1189,7 +1189,7 @@ Dod Bilagodu	1408	7511	346	0
 Chik Bilagunji	1416	7516	346	0
 Bilisiri	1421	7512	346	0
 Bīlaki	1445	7526	346	0
-Bilakondapalle	1425	7793	444	0
+Bilakondapalle	1425	7793	444	0	Kottacheruvu
 Bilhalli	1451	7556	92	0
 Bilasanūr	1449	7573	275	0
 Bilikalhalli	1354	7734	93	0

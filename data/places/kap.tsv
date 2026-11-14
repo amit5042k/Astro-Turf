@@ -1,18 +1,18 @@
 Kapurthala Town	3138	7538	565	98916
-Kapūrthala	3138	7538	565	98916
+Kapūrthala	3138	7538	565	98916	Kapurthala Town
 Kot Kapūra	3058	7483	730	91979
 Kāpas Herd	2853	7708	721	74073
-Kappal	1535	7615	66	70698
+Kappal	1535	7615	66	70698	Koppal
 Kapadvanj	2302	7307	167	49308
-Kapadranj	2302	7307	167	49308
+Kapadranj	2302	7307	167	49308	Kapadvanj
 Kapasan	2489	7432	417	20869
-Kapāsin	2489	7432	417	20869
+Kapāsin	2489	7432	417	20869	Kapasan
 Kāpren	2541	7607	353	20748
-Kaprain	2541	7607	353	20748
+Kaprain	2541	7607	353	20748	Kāpren
 Khapat	2165	6961	742	16744
 Kappiyara	825	7726	453	15998
 Khāpa	2142	7898	141	15175
-Kaptānganj	2693	8371	560	12299
+Kaptānganj	2693	8371	560	12299	Captainganj
 Khapar	2153	7393	186	7235
 Kapuria	2388	7875	352	1902
 Khāpri	2105	7904	141	0
@@ -21,12 +21,12 @@ Khaprail	2677	8832	573	0
 Khāparkhera	2314	7878	338	0
 Khāparkhera	2282	7836	590	0
 Khaparkheda	2154	7835	133	0
-Khāparkhera	2154	7835	133	0
+Khāparkhera	2154	7835	133	0	Khaparkheda
 Khāparkhera	2129	7944	141	0
 Khapariya	2257	7748	590	0
-Khāparia	2257	7748	590	0
-Khāpari	2257	7748	590	0
-Khāpān	2452	7304	22	0
+Khāparia	2257	7748	590	0	Khapariya
+Khāpari	2257	7748	590	0	Khapariya
+Khāpān	2452	7304	22	0	Khānpa
 Khāpa	2092	7895	141	0
 Khāpa	2255	7805	590	0
 Khāpa	2252	7903	337	0
@@ -35,34 +35,34 @@ Khāpa	2219	8056	144	0
 Kapūrwāhāl	1823	7391	52	0
 Kapūrīsar	2864	7392	307	0
 Kapūriya	2694	7307	344	0
-Kapūria	2694	7307	344	0
+Kapūria	2694	7307	344	0	Kapūriya
 Kapura	2107	7337	127	0
 Kapūr	1650	7702	50	0
 Kaptipada	2151	8653	382	0
 Kapteng	2753	9169	531	0
 Kāpsi Buzurg	1900	7738	140	0
-Kāpsi	1900	7738	140	0
+Kāpsi	1900	7738	140	0	Kāpsi Buzurg
 Kāpsi	1733	7432	65	0
 Kaplās	3283	7563	373	0
 Kapkot	2995	7990	722	0
-Kapkote	2995	7990	722	0
+Kapkote	2995	7990	722	0	Kapkot
 Kapileswarpur	2012	8547	541	0
 Kapileswarapuram	1632	8087	68	0
 Kappagal	1606	7713	50	0
-Kapgol	1606	7713	50	0
+Kapgol	1606	7713	50	0	Kappagal
 Kapasia	2449	7253	601	0
-Kapāsīya	2449	7253	601	0
+Kapāsīya	2449	7253	601	0	Kapasia
 Kapāsi	2491	7694	336	0
 Kaparwār	2631	8367	535	0
-Kaparwāi	2631	8367	535	0
+Kaparwāi	2631	8367	535	0	Kaparwār
 Kāparda	2627	7348	344	0
 Kāpadna	2103	7481	190	0
 Kāpeshwar	1991	7815	67	0
-Kāp	1991	7815	67	0
-Kapdukur	1376	7816	195	0
-Khapradih	2646	8224	629	0
+Kāp	1991	7815	67	0	Kāpeshwar
+Kapdukur	1376	7816	195	0	Kandukūr
+Khapradih	2646	8224	629	0	Haidarganj
 Chhītar ka Pār	2594	7159	285	0
-Kaptānganj	2676	8258	154	0
+Kaptānganj	2676	8258	154	0	Captainganj
 Khappi	3432	7408	0	0
 Kapurgarh	3281	7496	581	0
 Khapi	3440	7380	0	0
@@ -72,7 +72,7 @@ Kapūrgarh	3057	7612	648	0
 Kapūri	3018	7652	564	0
 Pāne ka Plot	3007	7653	501	0
 Mukhtyāryingh ka Plot	3006	7654	501	0
-Mukhtyārsingh ka Plot	3006	7654	501	0
+Mukhtyārsingh ka Plot	3006	7654	501	0	Mukhtyāryingh ka Plot
 Banārsīdās ka Plot	3004	7653	501	0
 Khapraila	2491	7845	384	0
 Gusāīn Ka Pura	2480	7886	481	0
@@ -83,18 +83,18 @@ Dhānuk ka Pura	2646	7904	334	0
 Chauki ka Pura	2639	7908	334	0
 Goli ka Pura	2641	7911	334	0
 Lallu ka Pura	2635	7911	334	0
-Deoju ka Pura	2632	7908	334	0
-Antian ka Pura	2626	7904	334	0
+Deoju ka Pura	2632	7908	334	0	Pura Deoji
+Antian ka Pura	2626	7904	334	0	Pura Antian
 Lain ka Pura	2628	7900	334	0
 Manai Ka Pura	2649	7910	290	0
-Manal ka Pura	2649	7910	290	0
+Manal ka Pura	2649	7910	290	0	Manai Ka Pura
 Jarhan ka Pura	2646	7909	290	0
 Manse ka Pura	2646	7911	290	0
 Bīndesingh ka Pura	2645	7913	290	0
 Kāpāriāwās	2696	7556	121	0
-Kāpariyāwās	2696	7556	121	0
+Kāpariyāwās	2696	7556	121	0	Kāpāriāwās
 Kapurālo	2677	7571	121	0
-Kapūrāwāla	2677	7571	121	0
+Kapūrāwāla	2677	7571	121	0	Kapurālo
 Kāchhiyan ka Pura	2648	7930	715	0
 Bandha ka Purwa	2649	7933	715	0
 Pakar ka Purwa	2646	7931	715	0
@@ -127,14 +127,14 @@ Bara Mahua ka Purwa	2476	7942	663	0
 Kāchhi ka Purwa	2480	7945	663	0
 Kapasia	2546	8683	657	0
 Kapūrdei	2439	8265	631	0
-Kapr De	2439	8265	631	0
+Kapr De	2439	8265	631	0	Kapūrdei
 Parsauni Kapür	2656	8514	396	0
-Parsauni Kapuer	2656	8514	396	0
+Parsauni Kapuer	2656	8514	396	0	Parsauni Kapür
 Kapuria	2646	7101	217	0
 Khaparākhal	2075	8287	349	0
 Kapu	2267	8334	439	0
 Khapariya Khāpa	2309	7789	338	0
-Khaparia Khapa	2309	7789	338	0
+Khaparia Khapa	2309	7789	338	0	Khapariya Khāpa
 Kkapari	2185	8221	291	0
 Kapashati	2318	8875	450	0
 Khaprakhol	2075	8286	394	0
@@ -187,7 +187,7 @@ Kamālpriyān Ka Pura	2689	7696	708	0
 Azīzpur Ka Pura	2692	7687	447	0
 Machān Ka Pura	2700	7699	708	0
 Kapūri	2986	7739	449	0
-Kapūrpur	2996	7750	449	0
+Kapūrpur	2996	7750	449	0	Rūpri Gūjar
 Kunjya ka Pura	2672	7675	447	0
 Thar Ka Pura	2652	7698	447	0
 Ūnche Ka Pura	2653	7699	447	0
@@ -371,7 +371,7 @@ Ratna ka Pura	2645	7792	478	0
 Sethwāri ka Pura	2645	7791	478	0
 Teja Jātav ka Pura	2645	7794	478	0
 Sītārām ka Pura	2645	7795	478	0
-Sawāi Ka Pura	2646	7795	478	0
+Sawāi Ka Pura	2646	7795	478	0	Sahrāna Majruwa
 Murena ka Pura	2647	7794	478	0
 Longat ka Pura	2649	7788	478	0
 Ramja ka Pura	2648	7793	478	0
@@ -389,7 +389,7 @@ Dhamsa ka Pura	2643	7834	334	0
 Raghunāthsingh ka Pura	2643	7837	334	0
 Pārth ka Pura	2640	7827	478	0
 Latkan ka Pura	2641	7831	334	0
-Ghaintran ka Pura	2638	7836	334	0
+Ghaintran ka Pura	2638	7836	334	0	Chak Mādhopur
 Chauki ka Pura	2638	7836	334	0
 Ikehra ka Pura	2639	7833	334	0
 Khumān ka Pura	2638	7830	334	0
@@ -675,7 +675,7 @@ Sāryān ka Pura	2647	7702	447	0
 Bhangi ka Pura	2643	7704	447	0
 Bhalli ka Pura	2642	7702	447	0
 Barothe ka Pura	2627	7701	447	0
-Bīch ka Pura	2627	7701	447	0
+Bīch ka Pura	2627	7701	447	0	Barothe ka Pura
 Mohni ka Pura	2627	7710	447	0
 Pāt ka Pura	2637	7714	447	0
 Bair ka Pura	2638	7710	447	0
@@ -748,7 +748,7 @@ Birja ka Pura	2640	7751	478	0
 Parohat ka Pura	2638	7753	478	0
 Gurja ka Pura	2637	7752	478	0
 Purahitan ka Pura	2637	7753	478	0
-Pachpent ka Pura	2639	7758	478	0
+Pachpent ka Pura	2639	7758	478	0	Gulābpura
 Shamlal ka Pura	2640	7764	478	0
 Jagua ka Pura	2638	7767	478	0
 Narpāisingh ka Pura	2639	7773	478	0
@@ -890,7 +890,7 @@ Galthuni ka Pura	2540	7722	436	0
 Samādhi ka Pura	2598	7730	335	0
 Jawāri ka Pura	2598	7732	335	0
 Kapelo Hār	2596	7729	335	0
-Māna ka Pura	2590	7748	335	0
+Māna ka Pura	2590	7748	335	0	Rāmpura
 Mohar ka Pur	2734	7952	688	0
 Kapūrāpur	2726	7965	688	0
 Chhitāpur Kapūrāpur	2726	7964	688	0
@@ -898,7 +898,7 @@ Mishran ka Purwa	2741	7975	686	0
 Kapūrpur	2763	7986	686	0
 Kapās Khiria	2773	7988	470	0
 Khāparkhera	2117	7619	29	0
-Kapurāpur	2704	7961	570	0
+Kapurāpur	2704	7961	570	0	Ādampur
 Māya ka Purwa	2708	7964	570	0
 Bāg Ka Purwa	2706	7968	570	0
 Dala ka Purwa	2704	7971	570	0
@@ -1033,7 +1033,7 @@ Malia ka Pura	2563	8209	607	0
 Bahoriya ka Pura	2563	8220	32	0
 Nānhu ka Pura	2562	8220	32	0
 Sawāhi ka Pura	2561	8224	32	0
-Chera ka Pura	2559	8219	32	0
+Chera ka Pura	2559	8219	32	0	Bangaon
 Sukul ka Pura	2559	8214	607	0
 Kapāsi	2507	7917	481	0
 Kāchhiyōn Ka Purwa	2504	7973	663	0
@@ -1045,7 +1045,7 @@ Jasguwān ka Purwa	2468	7949	663	0
 Jamanwān ka Purwa	2468	7949	663	0
 Panāgar ka Purwa	2470	7949	663	0
 Nayāgaon ka Purwa	2473	7949	663	0
-Lodhan Ka Purwa	2467	7932	663	0
+Lodhan Ka Purwa	2467	7932	663	0	Tapriyānmajra
 Basti Kapūri	2591	8284	498	0
 Nāgar ka Pura	2690	7808	622	0
 Nāndauli ka Pura	2688	7808	622	0
@@ -1106,7 +1106,7 @@ Surjanpur ka Pura	2652	7811	478	0
 Jebrākhera ka Pura	2651	7805	478	0
 Khāparkhera	2358	7793	215	0
 Khāparkhera	2133	7641	29	0
-Khāpa	2283	7732	675	0
+Khāpa	2283	7732	675	0	Amīrganj
 Bagauta Ka Purwa	2488	7957	663	0
 Atāri Ka Purwa	2487	7962	663	0
 Sulle Ka Purwa	2486	7959	663	0
@@ -1121,10 +1121,10 @@ Pathwa Ka Purwa	2476	7953	663	0
 Bājūrām Ka Pura	2573	8306	498	0
 Kapsetha	2571	8303	498	0
 Dube Ka Pura	2563	8305	32	0
-Uttar Ka Pura	2563	8302	32	0
+Uttar Ka Pura	2563	8302	32	0	Kachhwan
 Kapsa	2553	8301	251	0
 Dāni Ka Pura	2567	8308	498	0
-Pānde Ka Pura	2569	8314	498	0
+Pānde Ka Pura	2569	8314	498	0	Pura Agandh
 Mote Ka Purwa	2473	7952	663	0
 Kariyanarwa Ka Pura	2474	7963	663	0
 Rāja ka Pura	2699	7835	546	0
@@ -1164,7 +1164,7 @@ Akole ka Pura	2676	7828	478	0
 Gumānsingh ka Pura	2677	7827	478	0
 Bāgh ka Pura	2677	7826	478	0
 Koksingh ka Pura	2677	7826	478	0
-Kyāri ka Pura	2675	7826	478	0
+Kyāri ka Pura	2675	7826	478	0	Pura Gujran
 Pandit Ka Pura	2678	7827	478	0
 Kapildhāra	2534	8305	251	0
 Gusāīn ka Pura	2542	8314	251	0
@@ -1292,7 +1292,7 @@ Khāpa	2163	7796	462	0
 Pānde ka Purwa	2560	8389	26	0
 Kapasia	2519	8387	409	0
 Kapatia	2515	8393	409	0
-Khapri	2033	7751	128	0
+Khapri	2033	7751	128	0	Rudrāla
 Khāparwādi Khurd	2101	7708	172	0
 Khāparwādi Buzurg	2102	7708	172	0
 Kāpustalni	2111	7736	133	0
@@ -1409,7 +1409,7 @@ Mansārām ka Pura	2577	8203	718	0
 Parma ka Pura	2577	8216	718	0
 Shukla ka Pura	2580	8222	32	0
 Kapūrpur	2577	8242	32	0
-Khaparaha	2579	8250	32	0
+Khaparaha	2579	8250	32	0	Sonpura
 Kapūrpur	2581	8246	32	0
 Hari ka Pura	2599	8240	718	0
 Kapasia	2599	8255	32	0
@@ -1449,7 +1449,7 @@ Chhatri ka Pura	2519	8232	201	0
 Pati ka Pura	2518	8233	201	0
 Rājkumār ka Pura	2517	8231	201	0
 Jurāwan ka Pura	2517	8231	201	0
-Chhabināth ka Pura	2516	8228	201	0
+Chhabināth ka Pura	2516	8228	201	0	Chehra Arāzi
 Khappar Purwa	2515	8226	607	0
 Tiwāri ka Pura	2515	8230	607	0
 Nāu ka Pura	2515	8230	201	0
@@ -1477,9 +1477,9 @@ Kaparphorwa	2535	8288	251	0
 Mohkamsingh ka Pura	2527	8295	251	0
 Bāba ka Pura	2543	8291	251	0
 Mahgaon ka Pura	2549	8294	251	0
-Kaptihā	2535	8211	607	0
+Kaptihā	2535	8211	607	0	Sarai Sibal
 Het ka Pura	2521	8278	201	0
-Sībedār ka Purwa	2518	8289	201	0
+Sībedār ka Purwa	2518	8289	201	0	Ārāzi Line
 Kapuri	2446	8043	324	0
 Khāpa	2275	7976	368	0
 Khāpa	2259	7987	368	0
@@ -1760,7 +1760,7 @@ Rājārām Meharbānsingh ka Purwa	2597	8172	718	0
 Suklan ka Purwa	2599	8174	718	0
 Lāla ka Purwa	2599	8174	718	0
 Fattu ka Purwa	2600	8174	718	0
-Kapsi	2681	8321	325	0
+Kapsi	2681	8321	325	0	Sisai
 Kapsa	2618	8314	498	0
 Baghai Kapūr	2627	8325	498	0
 Khapkat	2687	8351	325	0
@@ -1934,7 +1934,7 @@ Kharsen ka Purwa	2538	8153	651	0
 Kanhaiyālāl ka Purwa	2537	8155	651	0
 Pahlu ka Purwa	2535	8153	651	0
 Gohar Ali ka Purwa	2537	8162	651	0
-Kewat ka Purwa	2529	8153	651	0
+Kewat ka Purwa	2529	8153	651	0	Muhammadābād
 Nanda ka Pura	2529	8154	651	0
 Sītārām ka Purwa	2527	8173	607	0
 Pītu ka Purwa	2529	8168	607	0
@@ -1945,7 +1945,7 @@ Khapara	2524	8163	607	0
 Kapdaura	2512	8163	326	0
 Kapraunra	2510	8169	607	0
 Kapāri	2522	8164	607	0
-Rūp ka Purwa	2569	8178	607	0
+Rūp ka Purwa	2569	8178	607	0	Hasanpur
 Kapai	3252	7567	496	0
 Nandlāl ka Purwa	2600	8179	718	0
 Rāichand ka Purwa	2600	8180	718	0
@@ -1958,7 +1958,7 @@ Rāmlāl ka Purwa	2590	8177	718	0
 Dūbe ka Purwa	2589	8178	718	0
 Sarkān ka Pura	2588	8186	718	0
 Tulsi ka Pura	2589	8185	718	0
-Pandit ka Pura	2592	8184	718	0
+Pandit ka Pura	2592	8184	718	0	Pura Girjādatt
 Ghāsi ka Purwa	2594	8186	718	0
 Bhūwan ka Purwa	2587	8180	718	0
 Lāl ka Purwa	2586	8187	718	0
@@ -1978,7 +1978,7 @@ Anti ka Purwa	2595	8195	718	0
 Chhatta ka Purwa	2594	8197	718	0
 Gauri ka Purwa	2600	8199	718	0
 Thaman ka Purwa	2574	8181	607	0
-Pandit ka Pura	2568	8180	607	0
+Pandit ka Pura	2568	8180	607	0	Bīrsinghpur
 Sudhār ka Pura	2567	8178	607	0
 Bhātan ka Purwa	2566	8177	607	0
 Lāla ka Purwa	2566	8177	607	0
@@ -2050,7 +2050,7 @@ Mattan ka Purwa	2543	8180	607	0
 Shāhji ka Pura	2539	8188	607	0
 Manna ka Pura	2540	8184	607	0
 Thākur ka Pura	2539	8180	607	0
-Bāde ka Pura	2534	8187	607	0
+Bāde ka Pura	2534	8187	607	0	Chak Gaurīshankar
 Kotwāran ka Pura	2528	8177	607	0
 Kālan ka Pura	2528	8176	607	0
 Kālu ka Pura	2530	8178	607	0
@@ -2065,9 +2065,9 @@ Purai ka Pura	2530	8185	607	0
 Tangaha ka Pura	2530	8191	607	0
 Kapthua	2530	8192	607	0
 Adhār ka Pura	2528	8199	607	0
-Miyān ka Pura	2534	8188	607	0
+Miyān ka Pura	2534	8188	607	0	Chak Pura Khurd
 Pahāri ka Pura	2538	8198	607	0
-Munshi ka Pura	2544	8191	607	0
+Munshi ka Pura	2544	8191	607	0	Chak Fātima
 Keotān ka Pura	2525	8176	607	0
 Molai ka Pura	2524	8177	607	0
 Tersu ka Pura	2522	8177	607	0
@@ -2130,7 +2130,7 @@ Bhāi-ka-Pind	3190	7522	487	0
 Khāpā Tolā	2176	8000	144	0
 Khāpā	2176	8002	144	0
 Khāpā	2164	8002	144	0
-Khāpā	2162	8018	171	0
+Khāpā	2162	8018	171	0	Kāsā
 Kapshi	2039	7418	54	0
 Khaprājharī	2174	8038	144	0
 Kapiāla	3164	7532	222	0
@@ -2205,7 +2205,7 @@ Khapri Khurd	2158	8184	310	0
 Khaprādih	2173	8198	379	0
 Khapri	2165	8197	379	0
 Khapri	2145	8182	310	0
-Khapri	2130	8178	310	0
+Khapri	2130	8178	310	0	Akoldih
 Nakti Khapri	2148	8181	310	0
 Khapri	2132	8197	310	0
 Khaprer	3197	7638	38	0
@@ -2608,7 +2608,7 @@ Sahdev Khāp	2462	8494	118	0
 Durjan Khāp	2457	8499	118	0
 Naua Khāp	2465	8483	118	0
 Khāpdeh	2627	8720	667	0
-Kaparphora	2635	8740	667	0
+Kaparphora	2635	8740	667	0	Shankarpur
 Kapālphuta	2606	8776	613	0
 Chamru Kaprīgangti	2513	8745	592	0
 Kaparia	2599	8774	613	0

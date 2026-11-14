@@ -1,12 +1,12 @@
 Kāpas Herd	2853	7708	721	74073
 Hebbagodi	1283	7768	43	34827
-Hemambikanagar	1079	7665	263	28592
+Hemambikanagar	1079	7665	263	28592	Ambikāpuram
 Heli Mandi	2834	7676	630	20906
 Heggadadevankote	1209	7633	74	14313
-Heggaddevankote	1209	7633	74	14313
-Herbertpur	3044	7774	448	9478
-Herni	1781	7310	234	7144
-Heri	3452	7420	0	6348
+Heggaddevankote	1209	7633	74	14313	Heggadadevankote
+Herbertpur	3044	7774	448	9478	Harbatpur
+Herni	1781	7310	234	7144	Harnai
+Heri	3452	7420	0	6348	Buna Hir
 Hesla	2406	8588	452	6286
 Heingang	2486	9395	96	6115
 Hēsabettu	1272	7489	305	5179
@@ -14,16 +14,16 @@ Hērūr	1342	7474	257	4778
 Heslā	2362	8528	391	4451
 Heirok	2459	9407	95	2974
 Oal-hetaih	792	9332	442	0
-Oel-hetaih	792	9332	442	0
-Hemkund	3069	7962	183	0
+Oel-hetaih	792	9332	442	0	Oal-hetaih
+Hemkund	3069	7962	183	0	Lokpāl
 Kire-Henpoan	798	9338	79	0
 Hemis	3391	7771	2	0
 Heya	742	9370	79	0
 Hewra	1770	7442	64	0
-Hewro	1770	7442	64	0
+Hewro	1770	7442	64	0	Hewra
 Hetimpur	2674	8383	535	0
 Hetampur	2551	8440	377	0
-Hesrūr	1611	7664	50	0
+Hesrūr	1611	7664	50	0	Chikhesrūr
 Hesrūr	1515	7594	606	0
 Hesālong	2367	8495	562	0
 Hesāl	2262	8613	653	0
@@ -32,21 +32,21 @@ Herola	2307	7407	173	0
 Heria Ātmārām Chak	2197	8780	559	0
 Herhanj	2393	8464	707	0
 Herbertābād	1172	9262	105	0
-Herberiabad	1172	9262	105	0
+Herberiabad	1172	9262	105	0	Herbertābād
 Hera Āhlan	3349	7540	148	0
 Her	1842	7698	158	0
-Her Bidar	1842	7698	158	0
+Her Bidar	1842	7698	158	0	Her
 Henpoin	687	9377	442	0
 Henima	2536	9362	533	0
 Henhōaha	682	9382	79	0
-Henóaha	682	9382	79	0
+Henóaha	682	9382	79	0	Henhōaha
 Hengtam	2408	9360	437	0
 Hemtābād	2568	8822	610	0
-Hematabad	2568	8822	610	0
+Hematabad	2568	8822	610	0	Hemtābād
 Hempur	2762	8057	507	0
 Hemāwās	2570	7334	273	0
-Hemagiri	2195	8370	272	0
-Hema	2776	8854	27	0
+Hemagiri	2195	8370	272	0	Hingīr
+Hema	2776	8854	27	0	Zema
 Helwāk	1738	7373	64	0
 Helem	2684	9348	302	0
 Helāpākari	2643	9097	358	0
@@ -58,14 +58,14 @@ Hebli	1549	7513	682	0
 Hebbūr	1315	7703	93	0
 Hebbetti	1555	7716	236	0
 Hebbe	1353	7557	98	0
-Hebby	1353	7557	98	0
+Hebby	1353	7557	98	0	Hebbe
 Hebatpur	2214	7210	124	0
-Heoin	832	9310	79	0
+Heoin	832	9310	79	0	Haoin
 Heti	2158	7959	144	0
-Hempur Dayā	2930	7901	641	0
+Hempur Dayā	2930	7901	641	0	Gaushāla
 Hemāsar	2807	7394	307	0
 Hetamsar	2807	7499	491	0
-Hetamsir	2807	7499	491	0
+Hetamsir	2807	7499	491	0	Hetamsar
 Hentālichāli	2231	8890	450	0
 Dhaki Het	3310	7418	504	0
 Jhinwar Heri	2959	7696	457	0
@@ -77,7 +77,7 @@ Hetamsar ka Bās	2808	7527	300	0
 Hetamsar	2807	7525	300	0
 Hejampura	2811	7549	300	0
 Henuta ki Dhāni	2825	7557	300	0
-Hemrāj ka Bās	2811	7568	300	0
+Hemrāj ka Bās	2811	7568	300	0	Rājpura
 Hemsingh ki Dhāni	2764	7277	307	0
 Sarsai Helu	2700	7918	290	0
 Khera Helu	2686	7915	290	0
@@ -91,7 +91,7 @@ Hetānpur	2414	8854	788	0
 Hersā	2396	8399	349	0
 Hedaspur	2214	8170	755	0
 Hekra	2651	9151	758	0
-Hekera	2651	9151	758	0
+Hekera	2651	9151	758	0	Hekra
 Hedaspur	2224	8260	696	0
 Hemgir	2195	8370	272	0
 Helesa	2634	9162	636	0
@@ -139,7 +139,7 @@ Heptālpalli	1857	8000	237	0
 Hetalkasa	1972	8012	135	0
 Helās	1964	7642	53	0
 Helāswādi	1961	7642	53	0
-Dayālgarh Herlān	3030	7605	593	0
+Dayālgarh Herlān	3030	7605	593	0	Dayālpura
 Hedon	3095	7626	674	0
 Heriān	3087	7626	674	0
 Hedon	3083	7626	674	0
@@ -215,7 +215,7 @@ Heoti	2471	8316	103	0
 Hesaldāg	2434	8358	743	0
 Henho	2428	8350	743	0
 Henhe	2419	8351	743	0
-Helri	2404	8360	743	0
+Helri	2404	8360	743	0	Chhatailiya
 Heti	2093	7925	141	0
 Heti	2070	7988	404	0
 Bangla Heti	2062	7995	135	0
@@ -253,7 +253,7 @@ Hetampura	2870	7599	431	0
 Heriyan ki Dhāni	2870	7589	431	0
 Hemīn Khera	2640	8098	312	0
 Hempur Dīpa	2923	7822	575	0
-Hempur Malak	2942	7836	575	0
+Hempur Malak	2942	7836	575	0	Barhāpura
 Hempur	2940	7838	575	0
 Hemi Purwa	2788	8102	323	0
 Hela Pāra	2742	8120	507	0
@@ -399,7 +399,7 @@ Hetamāpur	2730	8140	30	0
 Pura Hemai Pāsi	2640	8158	662	0
 Sarāi Hetam	2645	8159	662	0
 Hemgarh	2629	8173	662	0
-Sawain Hemgarh	2629	8173	662	0
+Sawain Hemgarh	2629	8173	662	0	Shiuāin
 Pura Hencha	2602	8158	718	0
 Pura Hem Tiwāri	2621	8163	662	0
 Pura Hem Pandit	2622	8169	662	0

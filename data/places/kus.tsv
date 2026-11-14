@@ -2,8 +2,8 @@ Kushinagar	2674	8389	560	274403
 Kushtagi	1576	7619	66	24878
 Kusum Pur	2855	7716	721	17028
 Khusropur	2548	8538	604	15731
-Khusrupur	2548	8538	604	15731
-Kusgaon Budruk	1876	7344	52	15612
+Khusrupur	2548	8538	604	15731	Khusropur
+Kusgaon Budruk	1876	7344	52	15612	Maval
 Kushālnagar	1246	7596	193	15326
 Kushālgarh	2320	7445	166	10666
 Kusavampatti	1122	7818	231	10356
@@ -13,25 +13,25 @@ Kusumkasa	2064	8108	668	0
 Kusumi	2176	8453	567	0
 Kusumdih	2194	8523	272	0
 Kusumbe	2091	7460	190	0
-Kusumba	2091	7460	190	0
+Kusumba	2091	7460	190	0	Kusumbe
 Kusugal	1540	7521	682	0
 Kusthālī	2597	7629	116	0
 Kusrupāra	2025	8325	284	0
 Kusnūr	1815	7733	170	0
 Kusmi	2152	8152	710	0
 Kusmi	2046	8213	297	0
-Kusm	2046	8213	297	0
+Kusm	2046	8213	297	0	Kusmi
 Kuslamb	1828	7577	132	0
-Kusiamb	1828	7577	132	0
+Kusiamb	1828	7577	132	0	Kuslamb
 Kusi	1755	7388	64	0
 Kushol	3368	7660	8	0
 Kushmanchi	1723	7995	46	0
 Kusumhār	2431	8170	672	0
-Kushmahar	2431	8170	672	0
+Kushmahar	2431	8170	672	0	Kusumhār
 Kushālpura	2610	7396	273	0
-Kushalpur	2610	7396	273	0
+Kushalpur	2610	7396	273	0	Kushālpura
 Kusera	2473	8250	201	0
-Kooseyra	2473	8250	201	0
+Kooseyra	2473	8250	201	0	Kusera
 Kusba Korodho	2530	8849	25	0
 Kusbah	2530	8857	25	0
 Kusmara	2711	7929	464	0
@@ -46,7 +46,7 @@ Khushhālipur Khurd	3014	7783	449	0
 Khushhālipur	3015	7784	449	0
 Kheri Khushnām	2966	7725	328	0
 Kushihal	3118	7710	479	0
-Kushāhal	3118	7710	479	0
+Kushāhal	3118	7710	479	0	Kushihal
 Kusang	1790	7804	400	0
 Kusapet	1311	8030	204	0
 Khushīpura	2475	7882	481	0
@@ -63,15 +63,15 @@ Nagla Khushāli	2759	7955	688	0
 Kusal Purwa	2723	7988	686	0
 Kusumkhor	2715	7988	570	0
 Khustla	2702	7991	570	0
-Khustia	2702	7991	570	0
+Khustia	2702	7991	570	0	Khustla
 Kushāl Purwa	2708	7992	570	0
 Khushālpur	2699	7901	464	0
-Kuseli	2687	7914	290	0
+Kuseli	2687	7914	290	0	Koseli
 Kusna	2680	7917	290	0
-Kūsepura	2636	7914	741	0
+Kūsepura	2636	7914	741	0	Kāshipura
 Kusmara	2616	7941	741	0
 Purwa Kusal	2684	7957	715	0
-Purwa Kusai	2684	7957	715	0
+Purwa Kusai	2684	7957	715	0	Purwa Kusal
 Purwa Kusal	2666	7988	671	0
 Kushāi	2458	7918	663	0
 Kusumdesar	2877	7434	539	0
@@ -110,7 +110,7 @@ Kusha	2532	7642	506	0
 Kusiyāra	2515	7698	506	0
 Kussa	3062	7535	499	0
 Khushīpur	2955	7794	545	0
-Garhi Khushhālwāli	2891	7712	485	0
+Garhi Khushhālwāli	2891	7712	485	0	Badh Khālsa
 Khushk	2880	7718	769	0
 Khushk	2878	7717	769	0
 Khushk Khurd	2877	7716	769	0
@@ -124,7 +124,7 @@ Kusla	2980	7524	709	0
 Dhāni Khushhāl	2907	7598	431	0
 Khushpura	2833	7646	519	0
 Kusrāna	3042	7815	448	0
-Khushhālpur Diwān Singh	2944	7854	575	0
+Khushhālpur Diwān Singh	2944	7854	575	0	Lohāriwāla
 Khushhālpur	2943	7870	575	0
 Khushhālpur	2944	7871	575	0
 Khushhālpur	2892	7904	552	0
@@ -251,7 +251,7 @@ Kusmilia	2591	7943	741	0
 Kushālpur	2520	8031	663	0
 Kusaha	2517	8036	663	0
 Kusmār	2425	7934	663	0
-Kusiyārīpur	2575	8113	728	0
+Kusiyārīpur	2575	8113	728	0	Chak Katoghan
 Ahmadpur Kusambha	2552	8120	728	0
 Khushiyāli ka Pura	2568	8207	718	0
 Khushīpura	2546	7911	433	0
@@ -283,7 +283,7 @@ Kusmari	2226	7793	462	0
 Kusauli	2568	7868	503	0
 Muhammadpur Kusum	2583	8373	26	0
 Kusumpur	2545	8365	26	0
-Kusi	2537	8366	788	0
+Kusi	2537	8366	788	0	Kesarwa
 Kusi	2541	8364	26	0
 Kush Dīhra	2512	8360	749	0
 Kus Dīhra	2500	8364	749	0
@@ -408,7 +408,7 @@ Kuspahra Kalān	2501	8209	607	0
 Kuspahra Khurd	2500	8209	607	0
 Khushhālpur	2556	8233	32	0
 Pura Khushhāl	2551	8239	583	0
-Kusal Khera	2655	8077	312	0
+Kusal Khera	2655	8077	312	0	Mirri Khurd
 Kusli Khera	2656	8082	312	0
 Kusli Khera	2667	8096	714	0
 Kusmaurah	2659	8097	714	0
@@ -425,7 +425,7 @@ Kusal Khera	2618	8084	681	0
 Purwa Kus	2617	8100	681	0
 Khushālpur	2962	7826	575	0
 Khushālpur	2958	7835	575	0
-Khushālnagar	2948	7843	575	0
+Khushālnagar	2948	7843	575	0	Garhi
 Khushālpur Matheri	2947	7840	575	0
 Kusyāki	2946	7828	575	0
 Bhatiāna Khushhālpur	2928	7844	575	0
@@ -862,9 +862,9 @@ Kushamahwa	2433	8267	631	0
 Kushahaniyān	2449	8267	631	0
 Kusumhi	2523	8437	377	0
 Kushālpura	2380	7690	16	0
-Khushhālpur	2932	7913	551	0
+Khushhālpur	2932	7913	551	0	Nāthūpur
 Khusphālpūr Buksa	2932	7913	551	0
-Khushhālpur	2930	7913	551	0
+Khushhālpur	2930	7913	551	0	Lāmpur Lachhi
 Khushhālpur	2559	8459	377	0
 Kusihan	2550	8474	377	0
 Kusamha	2549	8450	377	0
@@ -890,7 +890,7 @@ Kusa Khurd	2661	8418	703	0
 Kusaha	2642	8412	703	0
 Khushihal Chhāpar	2636	8422	703	0
 Kusauni	2637	8422	703	0
-Kushum Bathua	2646	8421	703	0
+Kushum Bathua	2646	8421	703	0	Gular Bāga
 Kusmān	2975	7994	508	0
 Khusi Tola	2680	8449	476	0
 Kushālpura	2717	7582	121	0

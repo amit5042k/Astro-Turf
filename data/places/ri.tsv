@@ -1,48 +1,48 @@
 Rishra	2272	8835	279	117014
 Rishīkesh	3011	7829	448	66390
-Rikhikesh	3011	7829	448	66390
+Rikhikesh	3011	7829	448	66390	Rishīkesh
 Risod	1998	7679	128	34136
 Reengus	2736	7557	491	26139
-Rīngas	2736	7557	491	26139
+Rīngas	2736	7557	491	26139	Reengus
 Reethapuram	818	7725	453	21177
 Richha	2869	7952	342	19459
 Rijokri	2851	7712	721	19148
-Rishabhdeo	2408	7369	22	9171
+Rishabhdeo	2408	7369	22	9171	Rakhabh Dev
 Rees	1890	7320	17	8632
 Riāsi	3308	7483	666	8101
 Risāmā	2136	8037	171	6925
 Rid	2670	7454	430	3064
 Rib	2212	7075	174	1392
-Varāha River	1568	7818	236	0
+Varāha River	1568	7818	236	0	Varakūru
 Rivona	1518	7411	102	0
 Rīvri	2645	7111	217	0
-Rivdi	2645	7111	217	0
+Rivdi	2645	7111	217	0	Rīvri
 Riu	2831	9505	40	0
-Rithorā Kalān	2640	7825	478	0
-Rithora	2640	7825	478	0
+Rithorā Kalān	2640	7825	478	0	Pithora Kalān
+Rithora	2640	7825	478	0	Pithora Kalān
 Rithi	2391	8014	351	0
 Rithaura	2846	7951	342	0
 Rīthākhāl	2990	7882	612	0
 Rithad	2005	7698	128	0
 Rishivandiyam	1181	7910	390	0
-Rishivandryam	1181	7910	390	0
+Rishivandryam	1181	7910	390	0	Rishivandiyam
 Risgaon	2013	8209	652	0
 Risewāda	2138	8057	144	0
 Risāliya Khera	2971	7476	585	0
 Rīri	2794	7410	307	0
 Riponpet	1399	7526	346	0
 Ringi	3049	7965	183	0
-Rini	3049	7965	183	0
+Rini	3049	7965	183	0	Ringi
 Ringnod	2374	7518	568	0
 Ringnod	2261	7493	130	0
 Ringkhāp Songmong	2530	9044	737	0
 Ringdom Gömpa	3404	7637	8	0
-Ringdom Goempa	3404	7637	8	0
-Ringdom	3404	7637	8	0
+Ringdom Goempa	3404	7637	8	0	Ringdom Gömpa
+Ringdom	3404	7637	8	0	Ringdom Gömpa
 Ring	3477	7442	0	0
 Rinchingpong	2724	8827	617	0
-Richingpong	2724	8827	617	0
-Rinchenpung	2724	8827	617	0
+Richingpong	2724	8827	617	0	Rinchingpong
+Rinchenpung	2724	8827	617	0	Rinchingpong
 Rilmilsar	2956	7373	374	0
 Rikor	2879	9493	392	0
 Rikinwās	3395	7552	547	0
@@ -60,14 +60,14 @@ Riāng	2753	9293	56	0
 Rīan	2654	7424	430	0
 Rīan	2639	7349	344	0
 Riāmāl	2136	8466	712	0
-Riacotta	1251	7803	223	0
-Khaa-ring	2803	8877	27	0
+Riacotta	1251	7803	223	0	Rāyakottai
+Khaa-ring	2803	8877	27	0	Kerāng
 Bāv River	1715	7350	234	0
 Rirkhala	2840	7488	539	0
-Rirkhila	2840	7488	539	0
+Rirkhila	2840	7488	539	0	Rirkhala
 Ribia	2844	7477	539	0
 Richhwa	3326	7423	504	0
-Richhwa Forest	3325	7422	504	0
+Richhwa Forest	3325	7422	504	0	Dehra
 Riddi	3448	7406	0	0
 Rīnj	3422	7451	301	0
 Rishmahal	3410	7474	611	0
@@ -97,10 +97,10 @@ Richhai	2402	7883	352	0
 Richhai	2404	7892	352	0
 Rithiān	2788	7938	117	0
 Nagla Risāli	2712	7949	570	0
-Rītaur	2676	7911	290	0
-Ritaur Marhaiyān	2646	7918	290	0
-Rithaura	2640	7912	741	0
-Ritaur	2646	7919	290	0
+Rītaur	2676	7911	290	0	Rataur
+Ritaur Marhaiyān	2646	7918	290	0	Rutaur Marriān
+Rithaura	2640	7912	741	0	Rathaura
+Ritaur	2646	7919	290	0	Rutaur
 Riniān	2622	7939	741	0
 Riyān	2574	7919	433	0
 Richhāra	2536	7940	614	0
@@ -110,7 +110,7 @@ Rimrāngpāra	2533	9028	399	0
 Riangchi	2789	9343	36	0
 Ringui	2505	9425	364	0
 Rishetsu	2596	9475	18	0
-Rindāri	2589	7917	741	0
+Rindāri	2589	7917	741	0	Pindāri
 Rīwara	2472	7207	343	0
 Ril	1721	7325	234	0
 Riwadih	2182	8292	402	0
@@ -208,8 +208,8 @@ Ritauli	2848	7774	637	0
 Riwāri ki Dhāni	2411	7393	22	0
 Richmāliān	2610	7483	446	0
 Richhra	2544	7474	309	0
-Muhammadpur Risaidārwāla	3030	7584	593	0
-Riwali	2901	7706	485	0
+Muhammadpur Risaidārwāla	3030	7584	593	0	Chhanna Gurmukh Singh
+Riwali	2901	7706	485	0	Reoli
 Rithaura	2921	7721	477	0
 Rīnu	3156	7801	83	0
 Rikhauli	3043	7802	448	0
@@ -234,7 +234,7 @@ Rishīhāt	2703	8822	573	0
 Rimbik	2711	8813	573	0
 Faizābad Rirhāwali	2860	7781	637	0
 Rishi	2722	8831	617	0
-Rinkingpong	2704	8846	492	0
+Rinkingpong	2704	8846	492	0	Durbīn Dānda
 Rigu	2721	8873	739	0
 Rīgaon	2131	8112	474	0
 Richhāri Kalān	2583	7802	484	0
@@ -565,7 +565,7 @@ Rineta	3270	7560	496	0
 Risāl	3272	7563	496	0
 Ritānun	3259	7573	496	0
 Rikhai ka Purwa	2561	8176	607	0
-Pure Risāl	2568	8198	607	0
+Pure Risāl	2568	8198	607	0	Chak Muhammad
 Riwari	2569	8198	607	0
 Rithaiya	2540	8197	607	0
 Rimāri	2478	8105	324	0

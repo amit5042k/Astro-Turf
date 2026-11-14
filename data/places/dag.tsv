@@ -1,12 +1,12 @@
 Vasco da Gama	1540	7382	102	100485
 Dagshai	3088	7705	628	2994
-Dagahai	3088	7705	628	2994
+Dagahai	3088	7705	628	2994	Dagshai
 Dhaggar	3273	7570	496	0
 Dagru	3083	7505	499	0
 Dagmāra	2640	8676	426	0
 Dager	3298	7454	581	0
 Dagasi	2072	7091	776	0
-Dagachi	2072	7091	776	0
+Dagachi	2072	7091	776	0	Dagasi
 Dag	2393	7583	333	0
 Dagpur	3417	7477	611	0
 Dagāri	3300	7451	581	0
@@ -14,7 +14,7 @@ Dager di Dhakki	3294	7459	581	0
 Dagan	3325	7428	504	0
 Dagāh	3293	7478	581	0
 Dag Shajādpur	3253	7495	720	0
-Dag Shāhzādpur	3253	7495	720	0
+Dag Shāhzādpur	3253	7495	720	0	Dag Shajādpur
 Dagher	3274	7498	581	0
 Dāgur	3042	7800	448	0
 Dagariya	2556	7558	353	0
@@ -68,7 +68,7 @@ Dago	2660	7638	708	0
 Dago	2659	7638	708	0
 Dhagāriya	2520	7605	371	0
 Dhagrīya	2232	7858	337	0
-Dhagrīya	2201	7853	337	0
+Dhagrīya	2201	7853	337	0	Chārāneti
 Dhaga	2142	7838	133	0
 Dhaga	2104	7847	143	0
 Dhagariya	2199	7853	337	0
@@ -158,7 +158,7 @@ Dagarha Ālamsingh	2519	8237	201	0
 Pasaiyān Dagmagpur	2509	8279	201	0
 Dagdahara	2434	8291	103	0
 Dagariaon	2572	8244	32	0
-Dagra	2693	8104	714	0
+Dagra	2693	8104	714	0	Alīnagar
 Dagdagi	2595	8118	728	0
 Dagdi Pāda	2106	7402	190	0
 Dagad Nishan Pāda	2117	7416	190	0

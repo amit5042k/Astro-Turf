@@ -1,6 +1,6 @@
 Kot Īsa Khān	3095	7514	499	12800
-Kot-Ise-Khan	3095	7514	499	12800
-Rurka Khan	3112	7570	369	7467
+Kot-Ise-Khan	3095	7514	499	12800	Kot Īsa Khān
+Rurka Khan	3112	7570	369	7467	Rurka Kalān
 Sarai Amānat Khān	3151	7469	260	0
 Chak Halīm Khān	3431	7494	595	0
 Khan	3419	7477	595	0
@@ -16,7 +16,7 @@ Garhi Ujāle Khān	2914	7671	485	0
 Kandwāla Hāzir Khān	3032	7421	3	0
 Khān	3076	7749	534	0
 Bajri Khān	3073	7787	448	0
-Jawāhar Khān	2974	7811	596	0
+Jawāhar Khān	2974	7811	596	0	Jhinwārheri
 Mariya Hasan Khān	2360	7831	338	0
 Kot Sadr Khān	3095	7518	499	0
 Talwandi Mange Khān	3095	7505	566	0
@@ -42,7 +42,7 @@ Kheri Sher Khān	2957	7628	638	0
 Rauza Jafar Khan	2721	7803	546	0
 Sarāi Ahmad Khān	2775	7858	711	0
 Sarāi Būle Khan	2773	7859	711	0
-Muhammad Khān	2779	7880	616	0
+Muhammad Khān	2779	7880	616	0	Partābpur
 Nagla Bhūre Khān	2792	7823	543	0
 Nagla Bakhshīsh Ali Khān	2790	7824	543	0
 Chirauli Dāūd Khān	2783	7810	543	0
@@ -63,15 +63,15 @@ Chānd Khān	2761	7995	686	0
 Kamāl Uddin Khān	2758	7995	686	0
 Nagla Khān	2758	7808	670	0
 Nagla Tairāw Khān	2788	7852	616	0
-Allāhyār Khān	2783	7852	616	0
-Farzand Ali Khān	2782	7853	616	0
+Allāhyār Khān	2783	7852	616	0	Fīrozpur Suhela
+Farzand Ali Khān	2782	7853	616	0	Fīrozpur Suhela
 Tutui Khān	2631	7980	671	0
 Jāmli Saiyad Khān	2199	7649	209	0
 Shāhpur Shamsher Khān	2567	8345	26	0
 Pura Miān Khān	2535	8251	583	0
 Chak Inglish Zorāwar Khān	2574	8244	32	0
-Muhammadpur Aman Khān	2959	7846	575	0
-Aurangpur Fateh Khān	2957	7825	575	0
+Muhammadpur Aman Khān	2959	7846	575	0	Kot Kādīr
+Aurangpur Fateh Khān	2957	7825	575	0	Mūsepur
 Purwa Imām Khān	2799	8115	323	0
 Purwa Gauhar Khān	2761	8123	507	0
 Purwa Mubin Khān	2742	8108	507	0
@@ -267,7 +267,7 @@ Tandauli Jahān Khān	2802	7844	543	0
 Milk Dāim Khān	2892	7895	552	0
 Milk Kallu Khān	2882	7887	511	0
 Milk Man Khān	2879	7880	511	0
-Mundia Hazūr Khān	2876	7897	511	0
+Mundia Hazūr Khān	2876	7897	511	0	Bajanpur
 Karam Khān	2775	8137	294	0
 Maholi Sher Khān	2792	8144	294	0
 Maholi Sher Khān	2791	8145	294	0
@@ -307,8 +307,8 @@ Purwa Badal Khān	2625	8164	662	0
 Tola Parbez Khān	2586	8474	540	0
 Milak Bhūre Khān	2901	7913	552	0
 Milak Tāj Khān	2901	7912	552	0
-Mandaiyān Jangī Khān	2920	7912	641	0
-Malū Khān	2910	7919	641	0
+Mandaiyān Jangī Khān	2920	7912	641	0	Farīdpur
+Malū Khān	2910	7919	641	0	Bhewa Nagla
 Odli Khān	2988	7933	429	0
 Jāli Khān	2960	7926	429	0
 Kāle Khān	2937	7948	551	0

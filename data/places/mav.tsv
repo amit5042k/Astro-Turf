@@ -1,13 +1,13 @@
 Mawāna	2910	7792	700	76973
 Mawlai-Mawïong	2562	9188	340	55012
-Mawlai	2562	9188	340	55012
+Mawlai	2562	9188	340	55012	Mawlai-Mawïong
 Mavoor	1127	7592	262	29781
 Māvelikara	926	7656	243	28300
-Mavalikara	926	7656	243	28300
+Mavalikara	926	7656	243	28300	Māvelikara
 Maval	1876	7344	52	15612
 Mavitāyi	1184	7548	266	12286
-Mavli Junction	2478	7398	22	9199
-Māvli	2478	7398	22	9199
+Mavli Junction	2478	7398	22	9199	Maoli
+Māvli	2478	7398	22	9199	Maoli
 Mawpat	2560	9193	340	6184
 Mav Patoda	1946	7619	53	1359
 Mawsynrām	2530	9158	340	0
@@ -15,7 +15,7 @@ Mawrongor	2547	9143	745	0
 Mawphlang	2546	9177	340	0
 Mawryngkneng	2556	9206	340	0
 Mawlyngkhung	2567	9190	331	0
-Mawiyngkhung	2567	9190	331	0
+Mawiyngkhung	2567	9190	331	0	Mawlyngkhung
 Mawliba	2555	9119	332	0
 Mawlashin	2491	9469	723	0
 Mawkarah	2570	9157	765	0
@@ -25,8 +25,8 @@ Mawdoh	2567	9141	332	0
 Mawdem	2581	9148	331	0
 Māwar	2630	7992	671	0
 Mawāla Khūrd	2909	7786	700	0
-Mawāna	2909	7786	700	0
-Mawāna Khurd	2909	7786	700	0
+Mawāna	2909	7786	700	0	Mawāla Khūrd
+Mawāna Khurd	2909	7786	700	0	Mawāla Khūrd
 Mawāna	2369	7637	320	0
 Mawāl	2444	7271	23	0
 Mawai	2250	8107	480	0
@@ -176,7 +176,7 @@ Mawaya Mauti	2645	8049	312	0
 Hasna Mawai	2721	8152	294	0
 Mawaiya	2823	7988	683	0
 Mawai	2865	7857	646	0
-Mawāi	2578	8131	728	0
+Mawāi	2578	8131	728	0	Dāwatpur
 Mawai	2592	8139	681	0
 Mawaiya	2660	8157	662	0
 Mawai	2674	8159	629	0
@@ -184,7 +184,7 @@ Mawaiya	2609	8198	662	0
 Mawai Kalān	2530	8138	643	0
 Mawai	2534	8146	651	0
 Mawānbākhli	2985	7908	612	0
-Mawāngaon	2985	7908	612	0
+Mawāngaon	2985	7908	612	0	Mawānbākhli
 Mawaiya	2673	8203	629	0
 Mawakkūpur	2628	8224	597	0
 Mawai Khurd	2524	8126	643	0
@@ -200,7 +200,7 @@ Mawai Tola	2394	8046	351	0
 Mawaiya Raksel	2513	8165	607	0
 Mawaiya Pahalwān	2514	8165	607	0
 Mawāiyān Kalān	2597	8189	718	0
-Mawār Khās	2575	8199	718	0
+Mawār Khās	2575	8199	718	0	Teja ka Pura
 Mawaiya Lawāin	2538	8190	607	0
 Mawaiya	2523	8181	607	0
 Mujra Mawaiya	2507	8177	607	0
@@ -252,7 +252,7 @@ Mawai	2625	8153	662	0
 Mawai	2632	8161	662	0
 Mawai	2644	8175	662	0
 Mawaya	2620	8156	681	0
-Medin Mawai	2620	8172	662	0
+Medin Mawai	2620	8172	662	0	Futkipur
 Jethu Mawai	2620	8173	662	0
 Māvunjipādu	1677	8148	318	0
 Māvalliguda	1938	8206	600	0

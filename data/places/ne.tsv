@@ -1,26 +1,26 @@
-New Bombay	1904	7302	246	2600000
-New Patna	2559	8514	604	1684297
-Patna New City	2559	8514	604	1684297
-Nellai	873	7768	191	1435844
+New Bombay	1904	7302	246	2600000	Navi Mumbai
+New Patna	2559	8514	604	1684297	Patna
+Patna New City	2559	8514	604	1684297	Patna
+Nellai	873	7768	191	1435844	Tirunelveli
 Nellore	1445	7999	6	547621
 New Delhi	2862	7721	721	317797
-New Dilli	2862	7721	721	317797
+New Dilli	2862	7721	721	317797	New Delhi
 Neyveli	1161	7950	178	179150
-Neiveli	1161	7950	178	179150
-New Cantonment	2860	7713	721	110351
-Negapattinam	1076	7984	239	102905
-Negapainttam City	1076	7984	239	102905
-Negapatam	1076	7984	239	102905
+Neiveli	1161	7950	178	179150	Neyveli
+New Cantonment	2860	7713	721	110351	Delhi Cantonment
+Negapattinam	1076	7984	239	102905	Nagapattinam
+Negapainttam City	1076	7984	239	102905	Nagapattinam
+Negapatam	1076	7984	239	102905	Nagapattinam
 Neyyāttinkara	840	7709	219	88104
 Nedumangād	860	7700	219	60161
 Nerkunram	1306	8021	204	59790
 Nerupperichchal	1116	7737	235	53579
-Neripperichal	1116	7737	235	53579
-Nehtaur	2932	7839	575	48389
+Neripperichal	1116	7737	235	53579	Nerupperichchal
+Nehtaur	2932	7839	575	48389	Nihtaur
 Nellikkuppam	1178	7967	178	46678
-Nellikuppami	1178	7967	178	46678
-Nelliyalam	1150	7635	115	44590
-Newai	2636	7592	313	37765
+Nellikuppami	1178	7967	178	46678	Nellikkuppam
+Nelliyalam	1150	7635	115	44590	Tondalam
+Newai	2636	7592	313	37765	Niwai
 Nelamangala	1310	7739	389	37232
 Tilda Newra	2155	8180	310	36682
 Neduva	1106	7587	150	35996
@@ -30,32 +30,32 @@ Nedumpana	891	7669	549	29454
 Ner	2049	7787	67	29302
 Nellimarla	1816	8345	179	20498
 Neral	1902	7332	17	18429
-Nenmenikkara	1043	7625	241	18067
+Nenmenikkara	1043	7625	241	18067	Namminikara
 Neb Sarai	2851	7720	778	15640
 New Bongaigaon Railway Colony	2648	9054	746	14896
-Nedungundram	1289	8011	247	14390
+Nedungundram	1289	8011	247	14390	Alapakam
 Neyyūr	820	7730	453	12917
 Nedumpura	1073	7626	241	12399
 Neykkārappatti	1162	7811	51	12090
 Neykkārappatti	1045	7746	187	11753
-Neikkarapatti	1045	7746	187	11753
+Neikkarapatti	1045	7746	187	11753	Neykkārappatti
 Bhuja Bhuja Nellore	1439	7994	6	10927
 Nemili	1298	7962	160	10806
-Neuton Chikhli Kalan	2222	7874	337	9840
-Nehon	3103	7657	735	9439
+Neuton Chikhli Kalan	2222	7874	337	9840	Chikhli Kalān
+Nehon	3103	7657	735	9439	Nohan
 Neykuppai	1022	7854	454	7165
 Nerinjippettai	1165	7776	211	6791
 Nelluvāyi	1068	7618	241	5994
-Nelluwaya	1068	7618	241	5994
-Nemilicheri	1316	8004	228	5743
+Nelluwaya	1068	7618	241	5994	Nelluvāyi
+Nemilicheri	1316	8004	228	5743	Melpedu
 Lakhi Nepali	2783	9522	299	5348
 Nerul	1551	7378	188	5042
 Neturhāt	2347	8427	707	4424
-Netarhāt	2347	8427	707	4424
+Netarhāt	2347	8427	707	4424	Neturhāt
 Newa Talai	2435	7375	22	2525
 Net	2559	7557	353	1159
 Mubārakpur Net	2571	8370	26	1140
-Nennūr	1411	7973	45	0
+Nennūr	1411	7973	45	0	Rāzupalem
 Nerān	2680	7147	217	0
 Nelogi	1706	7661	71	0
 Neyveli	1321	7990	228	0
@@ -64,10 +64,10 @@ Neyvāsal	1070	7930	264	0
 Newāri	2286	7625	322	0
 Newādā	2576	8386	26	0
 Nevra	1711	7330	234	0
-Neori	1711	7330	234	0
+Neori	1711	7330	234	0	Nevra
 Nevāsa	1955	7493	152	0
 Neura	1544	7392	188	0
-Neuraopegueno	1544	7392	188	0
+Neuraopegueno	1544	7392	188	0	Neura
 Neur	2240	8131	537	0
 Neupur	2039	7534	113	0
 Netrang	2164	7336	151	0
@@ -78,18 +78,18 @@ Nerur	1599	7365	213	0
 Ner Pinglai	2118	7798	133	0
 Nermand	3142	7758	680	0
 Nerla	1709	7422	65	0
-Neria	1709	7422	65	0
+Neria	1709	7422	65	0	Nerla
 Neriyamangalam	1005	7678	176	0
-Nerimangalam	1005	7678	176	0
-Neriamangalam	1005	7678	176	0
+Nerimangalam	1005	7678	176	0	Neriyamangalam
+Neriamangalam	1005	7678	176	0	Neriyamangalam
 Nerijamupalle	1454	7801	100	0
 Neri	2085	7565	78	0
 Nerhema	2578	9412	768	0
 Nereducherla	1521	7791	232	0
 Neredikonda	1930	7841	282	0
 Nerabylu	1375	7916	45	0
-Neraballu	1375	7916	45	0
-Nerabailu	1375	7916	45	0
+Neraballu	1375	7916	45	0	Nerabylu
+Nerabailu	1375	7916	45	0	Nerabylu
 Ner	2094	7451	190	0
 Neoria Husainpur	2874	7989	683	0
 Neorā Nadī	2672	8874	602	0
@@ -101,10 +101,10 @@ Nemalladinne	1496	7849	229	0
 Nellūrapālem	1465	7961	6	0
 Nelligere	1296	7676	94	0
 Nellāyi	1040	7630	241	0
-Nellaya	1040	7630	241	0
+Nellaya	1040	7630	241	0	Nellāyi
 Nellatūru	1415	7982	45	0
 Nellakottai	1155	7642	115	0
-Nellakotta	1155	7642	115	0
+Nellakotta	1155	7642	115	0	Nellakottai
 Nelang	3111	7901	89	0
 Nelahālu	1351	7701	93	0
 Nekonda	1779	7980	249	0
@@ -113,35 +113,35 @@ Neihdawn	2351	9324	11	0
 Neihbawi	2384	9274	19	0
 Neghereting	2673	9412	451	0
 Nedungādu	1097	7977	455	0
-Nédoucadou	1097	7977	455	0
+Nédoucadou	1097	7977	455	0	Nedungādu
 Nedumbalam	1051	7963	267	0
-Nedumbalamn	1051	7963	267	0
+Nedumbalamn	1051	7963	267	0	Nedumbalam
 Nedra	2389	7232	240	0
 Neddiguda	2019	8457	387	0
-Neddigurha	2019	8457	387	0
+Neddigurha	2019	8457	387	0	Neddiguda
 Nechhwa	2762	7477	491	0
 Nechanpur	2123	8685	421	0
 Neāzipur	2568	8415	620	0
 Neārān	2618	7467	446	0
 Neamati	2683	9430	451	0
-Mombi New	2411	9394	685	0
+Mombi New	2411	9394	685	0	Mombi
 Kotra Nes	2071	7087	136	0
 Kasba Nesri	1606	7433	57	0
-Nesari	1606	7433	57	0
-Ghansoli Necol	1912	7298	246	0
-Barkol Negala	2712	7771	546	0
+Nesari	1606	7433	57	0	Kasba Nesri
+Ghansoli Necol	1912	7298	246	0	Ghansoli
+Barkol Negala	2712	7771	546	0	Bharkol
 Nethwa	2817	7493	491	0
-Nethuo	2817	7493	491	0
+Nethuo	2817	7493	491	0	Nethwa
 Nethwa	2876	7499	539	0
-Nethua	2876	7499	539	0
+Nethua	2876	7499	539	0	Nethwa
 Netra	2221	8826	4	0
 Nekowāl	3250	7469	581	0
 Nerian	3381	7423	1	0
-Neriyan	3381	7423	1	0
+Neriyan	3381	7423	1	0	Nerian
 Neka	3370	7414	1	0
 Neriān	3374	7424	1	0
 Neako	3342	7420	504	0
-Neakka	3342	7420	504	0
+Neakka	3342	7420	504	0	Neako
 Nekpur	3327	7406	504	0
 Nesbal	3423	7465	120	0
 Neriāh	3391	7431	1	0
@@ -162,7 +162,7 @@ Nehru Nagar	1306	8028	204	0
 Navalar Nedunchezian Nagar	1304	8022	204	0
 Nesapakkam	1304	8019	204	0
 Neman	1307	8002	228	0
-New Okhla Industrial Development Area	2853	7728	419	0
+New Okhla Industrial Development Area	2853	7728	419	0	Okhla
 Mico Layout(Near Shilpa Kala Mantapa)	1291	7760	43	0
 Singasandra Near E .City	1288	7764	43	0
 Nelyady	1284	7540	55	0
@@ -182,7 +182,7 @@ Nekpur Nawāda	2719	7994	686	0
 Nekpur Khatri	2710	7986	570	0
 Nekpur	2709	7978	570	0
 Hājipur Nera	2700	7914	464	0
-Nevata	2680	7568	121	0
+Nevata	2680	7568	121	0	Niota
 Nekpura	2545	7940	614	0
 Nekpur	2700	7959	570	0
 Netrām ki Dhāni	2856	7563	431	0
@@ -311,7 +311,7 @@ Nepewāla	2975	7615	367	0
 Nethla	2901	7720	485	0
 Nehru Colony	3030	7806	448	0
 Nehrūgrām	3029	7808	448	0
-Shāh Ālīpur Nechal	2938	7854	575	0
+Shāh Ālīpur Nechal	2938	7854	575	0	Madhaura
 Nenwās	2428	7697	336	0
 Nemda	1899	7998	135	0
 Nekpur	2815	7770	637	0
@@ -426,7 +426,7 @@ Chak Newānīpar	2569	8113	728	0
 Neguawān	2510	7961	663	0
 Neguwān	2434	7914	352	0
 Mahuja Newāda	2589	8283	498	0
-Newada	2577	8299	498	0
+Newada	2577	8299	498	0	Narāyanpur
 Ner	2126	7619	29	0
 Newali	2337	7783	338	0
 Neharyā	2349	7791	215	0
@@ -436,7 +436,7 @@ Newāda	2555	8308	26	0
 Newada	2554	8313	26	0
 Chakia Newāz	2559	8316	26	0
 Nehula	2566	8314	498	0
-Newāda	2568	8309	498	0
+Newāda	2568	8309	498	0	Dariapur
 Newāda	2556	8320	26	0
 Newāda Arāzi	2536	8308	251	0
 Newāda	2535	8308	251	0
@@ -576,7 +576,7 @@ Nezāwāla Bāg	2962	7832	575	0
 Nekpur	2955	7838	575	0
 Newarhia	2475	8230	201	0
 Nejūwāli Gaonri	2943	7843	575	0
-Nekofāl	2933	7830	575	0
+Nekofāl	2933	7830	575	0	Bilāi
 Newāri	2466	8246	631	0
 Negipur	2742	8105	507	0
 Neknāmpur	2727	8104	507	0
@@ -770,7 +770,7 @@ Nekum	2210	8074	144	0
 Newargaon	2206	8070	144	0
 Neosā	2284	8094	468	0
 Talwandi Nepālān	3111	7495	566	0
-Newāda	2906	7698	485	0
+Newāda	2906	7698	485	0	Sāndal Kalān
 Neosā	2236	8094	480	0
 Nekānwāla	3087	7459	566	0
 Netrā Tolā	2187	8001	144	0
@@ -786,7 +786,7 @@ Newargaon Khurd	2177	8037	144	0
 Newarwāhi	2157	8065	144	0
 Neknāma Sainsu	3187	7579	296	0
 Hardo Neknāma	3187	7579	296	0
-Nemna	2275	8248	388	0
+Nemna	2275	8248	388	0	Lamna
 Newāspur	2186	8086	537	0
 Neorā	2221	8204	291	0
 Nerpāt	2097	7509	78	0
@@ -1320,7 +1320,7 @@ New Bongaigaon	2646	9056	746	0
 New Alipore	2252	8833	123	0
 Nedungad	1006	7623	176	0
 Gangadhara Nellore	1323	7918	214	0
-G.D. Nellore	1323	7918	214	0
+G.D. Nellore	1323	7918	214	0	Gangadhara Nellore
 Neang	798	9358	79	0
 Neralemaradahalli	1362	7789	438	0
 Neradaguttahalli	1355	7798	438	0
@@ -1354,7 +1354,7 @@ Nernahalli	1315	7824	47	0
 Nenamanahalli	1318	7821	47	0
 Nernahalli	1301	7820	47	0
 Nelliyampathi	1053	7668	263	0
-Nelliampathi	1053	7668	263	0
+Nelliampathi	1053	7668	263	0	Nelliyampathi
 Nettavarāyanipalle	1374	7827	195	0
 Pātha Nelavanki	1347	7827	47	0
 Nelavanki	1346	7828	47	0
@@ -1705,7 +1705,7 @@ Nedungulam	907	7824	208	0
 Nedungulam	995	7826	274	0
 Mel Nedungulam	979	7848	454	0
 Nedungulam	973	7845	454	0
-Nedungulam	967	7834	454	0
+Nedungulam	967	7834	454	0	Vādivillipattiriyendal
 Nedungulam	964	7848	454	0
 Neduganendal	959	7834	119	0
 Nedumpuli	959	7848	5	0
@@ -1840,7 +1840,7 @@ New Seren	2774	9488	299	0
 Neredcherla	1689	7969	250	0
 Nemalo	2043	8617	303	0
 Neri	3099	7744	479	0
-Newāda	2557	8152	651	0
+Newāda	2557	8152	651	0	Rasūlpur
 Neori	3126	7697	628	0
 Neri	3104	7705	628	0
 Neyveli	1153	7948	178	0

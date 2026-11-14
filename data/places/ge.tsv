@@ -1,17 +1,17 @@
 Gevrai	1926	7575	33	33562
-Georai	1926	7575	33	33562
-Gerugambakkam	1301	8015	161	11551
+Georai	1926	7575	33	33562	Gevrai
+Gerugambakkam	1301	8015	161	11551	Tirurāgeswaram
 Gerimari Chapori	2643	9203	747	11004
 Gheora	2869	7700	689	6876
-Dera-Gepipur	3188	7622	38	4816
-Geyzing	2729	8826	654	4013
-Gezing	2729	8826	654	4013
+Dera-Gepipur	3188	7622	38	4816	Dera Gopipur
+Geyzing	2729	8826	654	4013	Gyalshing
+Gezing	2729	8826	654	4013	Gyalshing
 Gerasury	2212	9257	244	199
-Georgegarh	2865	7657	609	0
-Gelra	2206	6996	145	0
-Gherāsahan	2683	8513	396	0
+Georgegarh	2865	7657	609	0	Husainganj
+Gelra	2206	6996	145	0	Gunra
+Gherāsahan	2683	8513	396	0	Ghorāsahan
 Ghevra	2659	7279	344	0
-Gheura	2659	7279	344	0
+Gheura	2659	7279	344	0	Ghevra
 Gherdi	1728	7528	132	0
 Ghens	2119	8329	497	0
 Ghegava	2194	7536	329	0
@@ -28,7 +28,7 @@ Genji	2372	7370	512	0
 Gendehalli	1318	7576	679	0
 Genāpāra	2530	9002	399	0
 Geling	2915	9498	392	0
-Gellng	2915	9498	392	0
+Gellng	2915	9498	392	0	Geling
 Geleki	2680	9470	520	0
 Gejerāgaon	2712	9443	355	0
 Geinyale	1057	9253	105	0
@@ -40,10 +40,10 @@ Gesura	2881	7386	307	0
 Genokhāli	2227	8877	4	0
 Gheta	3382	7424	1	0
 Gher	3320	7439	504	0
-Gelāwāla	3046	7777	448	0
+Gelāwāla	3046	7777	448	0	Belāwāla
 Gherkarma	3009	7782	783	0
 Gelhewāla	3008	7776	449	0
-Gerthi	3124	7710	278	0
+Gerthi	3124	7710	278	0	Garoth
 Gerthi	3124	7709	479	0
 GeleyaraBalaga	1300	7754	43	0
 BIAL P3 GeneralParking	1320	7771	389	0
@@ -155,7 +155,7 @@ Gehbat	2649	7895	334	0
 Gewara	2554	7842	433	0
 Gerugaon	2058	7645	49	0
 Gerīdhāna	2216	7784	462	0
-Gelhia	2593	8372	586	0
+Gelhia	2593	8372	586	0	Karaut
 Gehundi	2580	8365	26	0
 Genādhāna	2198	7700	465	0
 Gehūnrās	2197	7781	462	0
@@ -214,7 +214,7 @@ Sipattar Ke Gher	2803	7866	117	0
 Purwa Gheru	2611	8175	662	0
 Purwa Ghesān	2601	8197	718	0
 Gehuwān Bhāri	2770	8211	618	0
-Ghensulia	2813	7883	117	0
+Ghensulia	2813	7883	117	0	Zāhidpur
 Gehlāpur	2742	8218	280	0
 Dīh Gehlāpur	2741	8218	280	0
 Pura Gend	2718	8209	542	0
@@ -261,7 +261,7 @@ Gehlgaon	2208	7487	130	0
 Gehūnkheri	2289	7563	660	0
 Gheta	3219	7586	38	0
 Gedgaon	2004	8133	704	0
-Gheorī	2260	8097	468	0
+Gheorī	2260	8097	468	0	Jogītolā
 Gheorī	2260	8098	468	0
 Genda	2190	7427	186	0
 Georgepur	3127	7524	565	0

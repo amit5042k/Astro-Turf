@@ -3,16 +3,16 @@ Manoharpur	2372	9121	574	14105
 Manoharpur	2237	8519	287	13189
 Manohar Thāna	2424	7680	333	11292
 Manor	1972	7291	192	10421
-Manori	1972	7291	192	10421
+Manori	1972	7291	192	10421	Manor
 Mānot	2273	8051	480	0
-Manoi	2273	8051	480	0
+Manoi	2273	8051	480	0	Mānot
 Manori	1921	7279	207	0
 Mānora	2022	7756	128	0
 Manoli	1585	7512	77	0
 Manoharpur	2199	8731	677	0
 Manoharpur	1952	7405	152	0
 Mano	3302	7603	372	0
-Manomonda	2082	8392	386	0
+Manomonda	2082	8392	386	0	Manamunda
 Manoria	2876	7377	307	0
 Manoharpur	2213	8821	4	0
 Manogala	3321	7449	504	0
@@ -35,8 +35,8 @@ Mānoli	2629	7644	116	0
 Manoharpura	2500	7371	572	0
 Mānoke	3068	7546	674	0
 Manoharpura	2552	7416	309	0
-Manowarpur	2941	7855	575	0
-Manowarpur Chak	2945	7874	575	0
+Manowarpur	2941	7855	575	0	Muhammadābād
+Manowarpur Chak	2945	7874	575	0	Patharwāla
 Manoharwāli	2932	7865	575	0
 Manoharpur	2494	7651	506	0
 Manoharpur	2620	7514	446	0
@@ -88,7 +88,7 @@ Pura Manohar	2550	8239	583	0
 Manoharpur	2915	7809	700	0
 Manota	2918	7819	575	0
 Manorwāla	2956	7836	575	0
-Mānokpur	2930	7837	575	0
+Mānokpur	2930	7837	575	0	Shamaspur
 Manohar Singh	2751	8157	294	0
 Manohra Chak	2757	8169	618	0
 Manohrapur	2757	8169	618	0
@@ -148,7 +148,7 @@ Mānori Khurd	2004	7431	54	0
 Mānori Budrukh	2004	7431	54	0
 Manoh	3208	7595	38	0
 Manohra	2087	8127	668	0
-Manori	2272	8056	480	0
+Manori	2272	8056	480	0	Munū
 Manoharpur	2229	8074	480	0
 Māno Chāhal	3139	7484	260	0
 Māno Chāhil	3106	7486	566	0
@@ -204,7 +204,7 @@ Manohar Bigha	2513	8556	514	0
 Manorathpur	2598	8583	138	0
 Manohar Chak	2457	8504	118	0
 Manorathpatti	2641	8640	556	0
-Manorbhorām	2593	8610	591	0
+Manorbhorām	2593	8610	591	0	Wormān
 Manorathpur	2567	8615	530	0
 Manoharpur	2523	8601	589	0
 Māno	2518	8616	589	0

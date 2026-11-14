@@ -1,12 +1,12 @@
-Tatanagar	2280	8619	584	1339438
-Tatanagar	2278	8618	584	49660
+Tatanagar	2280	8619	584	1339438	Jamshedpur
+Tatanagar	2278	8618	584	49660	Jugsālai
 Tattānkuttai	1144	7772	231	24708
 Tāttayyangārpettai	1112	7845	270	12980
-Thathaiyangarpet	1112	7845	270	12980
+Thathaiyangarpet	1112	7845	270	12980	Tāttayyangārpettai
 Tāti	2338	8544	562	12878
 Thatthi Bhai	3056	7504	499	0
 Thattakād	1013	7669	176	0
-Thattekad	1013	7669	176	0
+Thattekad	1013	7669	176	0	Thattakād
 Thāti Kathūr	3058	7865	500	0
 Thathāri	2193	8282	402	0
 Thāt	2685	7183	217	0
@@ -14,20 +14,20 @@ Tattāpānī	2369	8365	341	0
 Tattamangalam	1068	7671	263	0
 Tattakarai	1184	7753	211	0
 Tātiparti	1452	7977	6	0
-Tatparti	1452	7977	6	0
+Tatparti	1452	7977	6	0	Tātiparti
 Tāticherla	1538	7905	200	0
 Tātiba	2213	8535	205	0
-Tathni	1638	7667	72	0
+Tathni	1638	7667	72	0	Tintani
 Tātedhār	2257	8189	291	0
-Tatcdhar	2257	8189	291	0
+Tatcdhar	2257	8189	291	0	Tātedhār
 Tatārsar	2979	7373	374	0
 Tatārpur	2778	7651	482	0
-Tatapur	2778	7651	482	0
-Barāgaon Thātoli	2641	7612	313	0
+Tatapur	2778	7651	482	0	Tatārpur
+Barāgaon Thātoli	2641	7612	313	0	Barāgaon
 Thathāwta	2801	7477	539	0
-Tathāto	2801	7477	539	0
-Thattīāli	3334	7421	504	0
-Tatoha	3328	7414	504	0
+Tathāto	2801	7477	539	0	Thathāwta
+Thattīāli	3334	7421	504	0	Jhattīāli
+Tatoha	3328	7414	504	0	Totoha
 Thāti	3325	7409	504	0
 Thatti	3317	7440	504	0
 Tatri Thal	3455	7509	547	0
@@ -42,7 +42,7 @@ Tatauli	2897	7656	719	0
 Tattapāni	3125	7709	278	0
 Tātiparti	1700	7860	62	0
 Thattankulam	1310	8027	204	0
-Thattan Kolam	1310	8027	204	0
+Thattan Kolam	1310	8027	204	0	Thattankulam
 Thathankuppam	1311	8020	204	0
 Tattanūr	1291	7995	161	0
 Thāttar	3072	7698	587	0
@@ -56,7 +56,7 @@ Tatiāri	2757	7969	470	0
 Tahsīpur Thatia	2707	7980	570	0
 Gadanpur Thatia	2704	7982	570	0
 Tatārpur Kalān	2644	7923	715	0
-Tatārpur	2644	7923	715	0
+Tatārpur	2644	7923	715	0	Tatārpur Kalān
 Tatārpur	2633	7936	741	0
 Tāterkuti	2639	8975	420	0
 Thathampally	950	7635	243	0
@@ -93,7 +93,7 @@ Sammi ka Thāt	3070	7783	448	0
 Kitta ka Thāt	3070	7783	448	0
 Thathau	3061	7791	448	0
 Pironke Thāt	3073	7784	448	0
-Tātwāla	2979	7820	596	0
+Tātwāla	2979	7820	596	0	Dudhla Diyālwāla
 Tatwāra	2635	7662	116	0
 Dārulmān Tātārpur	2957	7707	457	0
 Tātārpur Kalān	2975	7721	449	0
@@ -209,7 +209,7 @@ Tatihara	2478	8200	516	0
 Thatra	2458	8279	631	0
 Tātārpur	2865	7669	609	0
 Tataria	2521	8222	583	0
-Tatārpur Lālu	2960	7834	575	0
+Tatārpur Lālu	2960	7834	575	0	Lālūwāla
 Thathraiya	2738	8101	507	0
 Tatārpur	2734	8108	507	0
 Tatehra	2745	8151	294	0
@@ -228,7 +228,7 @@ Tatārpur Sharqi	2889	7828	483	0
 Tatārpur	2647	8028	469	0
 Tatiyān	2642	8037	469	0
 Tatian Jhaneku	2640	8039	469	0
-Tatārpur	2850	7848	646	0
+Tatārpur	2850	7848	646	0	Nūrpur
 Tatārpur Sandal	2857	7844	646	0
 Tātārpur Rūd	2868	7849	646	0
 Tātārpur Ghosi	2849	7850	646	0
@@ -400,7 +400,7 @@ Tataharwāpur	2639	8151	662	0
 Tataharwāpur	2634	8155	662	0
 Tattalūr	1258	8004	247	0
 Tātuvānipālem	1770	8234	268	0
-Tatipāka	1746	8244	269	0
+Tatipāka	1746	8244	269	0	Jagannādhāpuram
 Tātipāka Jagannādhapuram	1744	8252	269	0
 Tattabanda	1771	8280	227	0
 Tātiparti	1793	8277	227	0

@@ -1,21 +1,21 @@
 Pune	1852	7386	52	3124458
-Poona	1852	7386	52	3124458
+Poona	1852	7386	52	3124458	Pune
 Punāsa	2224	7639	209	350000
-Sonepat Punjab	2899	7702	485	289333
+Sonepat Punjab	2899	7702	485	289333	Sonīpat
 Poonamalle	1305	8011	228	60607
-Poonamallee	1305	8011	228	60607
+Poonamallee	1305	8011	228	60607	Poonamalle
 Punganūru	1337	7857	214	54746
-Punganur	1337	7857	214	54746
+Punganur	1337	7857	214	54746	Punganūru
 Punalūr	902	7692	549	47263
 Pūndri	2976	7656	638	33484
 Pūnch	3377	7409	1	28197
 Pūnāhāna	2786	7720	544	24734
-Punjai	1107	7802	445	23408
-Punjaipugalur	1107	7802	445	23408
+Punjai	1107	7802	445	23408	Pugalūr
+Punjaipugalur	1107	7802	445	23408	Pugalūr
 Punnayūr	1065	7600	241	19387
-Punnayurkulam	1065	7600	241	19387
+Punnayurkulam	1065	7600	241	19387	Punnayūr
 Punjai Puliyampatti	1135	7717	211	18967
-Punjai Thottakurichi	1107	7803	445	10969
+Punjai Thottakurichi	1107	7803	445	10969	Tottakkurichchi
 Punādih	2555	8526	604	8277
 Punsri	2339	7311	212	0
 Punyāng	2709	9589	73	0
@@ -24,7 +24,7 @@ Puntāmba	1977	7462	152	0
 Punrāsar	2821	7379	307	0
 Pūnpūn	2550	8510	604	0
 Punnapra	943	7635	243	0
-Punnappira	943	7635	243	0
+Punnappira	943	7635	243	0	Punnapra
 Punjūr	1178	7712	69	0
 Pūnji	2230	7802	462	0
 Punjāsar	2513	7104	285	0
@@ -36,18 +36,18 @@ Punchā	2316	8665	415	0
 Pūnawās	2527	7217	343	0
 Punāsar	2707	7309	344	0
 Pūnāsa	2500	7205	343	0
-Punās	2500	7205	343	0
+Punās	2500	7205	343	0	Pūnāsa
 Punārakh	2549	8581	604	0
 Punādra	2309	7297	167	0
-Puna	2513	7443	417	0
+Puna	2513	7443	417	0	Pahuna
 Pundlu	2655	7381	430	0
-Poona Shivajinagar	1852	7385	52	0
+Poona Shivajinagar	1852	7385	52	0	Bhamburda
 Arainj-laka-punga	1260	9272	99	0
 Pūnālsar	2803	7398	307	0
 Punsīsar	2850	7454	539	0
 Punsīsar	2882	7470	539	0
 Punrāwās	2869	7483	539	0
-Pundrawas	2869	7483	539	0
+Pundrawas	2869	7483	539	0	Punrāwās
 Puntia	2288	8864	450	0
 Puni	2276	8873	450	0
 Pūnthil	3335	7421	504	0
@@ -63,7 +63,7 @@ Pundiyārgaon	2989	7871	612	0
 Punnapākkam	1318	7993	228	0
 Pūnia ki Dhāni	2825	7534	300	0
 Pūnia ki Dhāni	2806	7526	300	0
-Pūnja ki Dhāni	2806	7526	300	0
+Pūnja ki Dhāni	2806	7526	300	0	Pūnia ki Dhāni
 Pūnia ki Dhāni	2801	7530	300	0
 Rāj Bhavan Punjab	3074	7681	787	0
 Pūnsar	3052	7688	632	0
@@ -82,7 +82,7 @@ Punās	2688	7404	430	0
 Poonawaddoo	1511	7429	238	0
 Pūntura	845	7704	219	0
 Punjapura	2254	7637	322	0
-Punjapara	2254	7637	322	0
+Punjapara	2254	7637	322	0	Punjapura
 Pūndrak	2972	7694	457	0
 Punsika	2815	7652	519	0
 Khor Punjāb	2878	7696	689	0
@@ -108,7 +108,7 @@ Punāha	3074	7800	448	0
 Puniyān ka Bās	2817	7521	300	0
 Pundari Khurd	2960	7818	575	0
 Pundari Kalān	2959	7818	575	0
-Punderpur	2975	7805	596	0
+Punderpur	2975	7805	596	0	Pipli
 Pipalia Pūnwāria	2303	7841	338	0
 Puneta	2630	7629	116	0
 Punwaria	2275	7879	522	0
@@ -126,7 +126,7 @@ Pūnchhri	2628	7789	478	0
 Punjābi Math	2588	7812	484	0
 Pūniān	3087	7614	674	0
 Pūngni	1914	7602	33	0
-Punderheri	3049	7611	564	0
+Punderheri	3049	7611	564	0	Bishangarh
 Punlān Jattān	3033	7649	564	0
 Puniān Khāna	3023	7644	564	0
 Punāi	2755	7710	114	0
@@ -558,7 +558,7 @@ Pūngudi Ambalakāranūr	1076	7862	270	0
 Pungavārippatti	1074	7856	445	0
 Punginippatti	1053	7863	198	0
 Pūngudi	1075	7862	270	0
-Punjai	1095	7887	270	0
+Punjai	1095	7887	270	0	Sangendi
 Pūndi	1086	7894	264	0
 Punganur	1078	7894	264	0
 Punganvayal	1060	7879	198	0
@@ -582,7 +582,7 @@ Puntottam	856	7812	208	0
 Punnaikkāyal	864	7812	208	0
 Pūndi	1179	7914	390	0
 Punjalttalaiyūr	1086	7781	235	0
-Punjai	1083	7792	445	0
+Punjai	1083	7792	445	0	Kālakkurichchi
 Pungambādi	1077	7797	445	0
 Mel Pūndi	1173	7907	390	0
 Pūndi	1103	7903	383	0

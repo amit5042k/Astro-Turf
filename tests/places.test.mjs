@@ -57,3 +57,24 @@ test('short or split prefixes ask for more letters; foreign cities keep their ti
   const [dubai] = await top('Dubai');
   assert.equal(dubai.tz, 4);
 });
+
+test('Hindi (Devanagari) queries find the right place first', async () => {
+  const cases = {
+    'वाराणसी': 'Varanasi', 'कानपुर': 'Kanpur', 'मथुरा': 'Mathura', 'नैनीताल': 'Naini', 'दार्जिलिंग': 'Dārjiling',
+    'मेरठ': 'Meerut', 'बरेली': 'Bareilly', 'अयोध्या': 'Ayodhya', 'गोरखपुर': 'Gorakhpur', 'लखनऊ': 'Lucknow',
+    'जयपुर': 'Jaipur', 'उदयपुर': 'Udaipur', 'इंदौर': 'Indore', 'भोपाल': 'Bhopal', 'चंडीगढ़': 'Chandigarh',
+    'हरिद्वार': 'Haridwar', 'उज्जैन': 'Ujjain', 'कोलकाता': 'Kolkata', 'मुंबई': 'Mumbai', 'पुणे': 'Pune',
+    'शिमला': 'Shimla', 'नई दिल्ली': 'New Delhi', 'बोध गया': 'Bodh Gaya', 'झुंझुनू': 'Jhunjhun', 'केदारनाथ': 'Kedārnāth',
+    'ऋषिकेश': 'Rishikesh', 'प्रयागराज': 'Prayagraj', 'पटना': 'Patna', 'सीकर': 'Sīkar', 'छपरा': 'Chāpra',
+  };
+  for (const [q, want] of Object.entries(cases)) {
+    const [first] = await top(q);
+    assert.ok(first && placeKey(first.label).startsWith(placeKey(want)), `${q} → ${first?.label}`);
+  }
+});
+
+test('alternate spellings show the main name', async () => {
+  const [m] = await top('Bombay');
+  assert.equal(m.name, 'Mumbai');
+  assert.equal(m.alias, 'Bombay');
+});

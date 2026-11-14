@@ -1,15 +1,15 @@
-Goa	1539	7381	102	102345
-Nova Goa	1550	7383	188	70991
+Goa	1539	7381	102	102345	Mormugao
+Nova Goa	1550	7383	188	70991	Panjim
 Goālpāra	2618	9063	458	53430
 Goa Velha	1544	7389	188	5656
-Old Goa	1544	7389	188	5656
+Old Goa	1544	7389	188	5656	Goa Velha
 Naubaisa Goan	2680	9422	451	5015
 Goalpota	2268	8811	354	1676
 Goarsāma	2284	6976	108	0
-Goanra	2492	7410	572	0
-Goānri	2492	7410	572	0
+Goanra	2492	7410	572	0	Gawārdi
+Goānri	2492	7410	572	0	Gawārdi
 Goāltor	2271	8717	677	0
-Goaltore	2271	8717	677	0
+Goaltore	2271	8717	677	0	Goāltor
 Goālpokhar	2608	8812	610	0
 Goābāria	2262	8871	450	0
 Goah	3377	7414	1	0
@@ -31,7 +31,7 @@ Ghoas	2474	8266	103	0
 Goaltoli	2460	8369	749	0
 Goashar	3415	7407	301	0
 Goāra Taiyabpur	2549	8146	651	0
-Goan Makrand	2658	8252	553	0
+Goan Makrand	2658	8252	553	0	Bhagwānpur
 Goāpākar	2630	8269	553	0
 Goāi	2604	8276	498	0
 Goanji Zamīn Goenji	2633	8301	498	0
@@ -41,7 +41,7 @@ Goās	3388	7531	148	0
 Gōālo	3302	7593	372	0
 Goāl Chaurān	3261	7511	720	0
 Goārī	2206	8058	144	0
-Goarītolā	2205	8058	144	0
+Goarītolā	2205	8058	144	0	Ratnātolā
 Goatolā	2207	8077	144	0
 Goārī	2201	8081	144	0
 Goārītolā	2200	8081	144	0

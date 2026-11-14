@@ -1,5 +1,5 @@
 Mandsaur	2407	7507	580	141667
-Mandasor	2407	7507	580	141667
+Mandasor	2407	7507	580	141667	Mandsaur
 Mandya	1252	7690	94	137358
 Mandoli	2870	7731	693	120417
 Mandamarri	1897	7947	91	66176
@@ -7,36 +7,36 @@ Mandideep	2308	7753	338	59654
 Mandapeta	1686	8193	304	56063
 Mandlā	2260	8037	480	55133
 Mandi Dabwāli	2997	7470	585	52873
-Mandi Dabwal	2997	7470	585	52873
+Mandi Dabwal	2997	7470	585	52873	Mandi Dabwāli
 Māndvi	2283	6935	108	51376
-Cutch-Mandvi	2283	6935	108	51376
-Cutch Mandi	2283	6935	108	51376
+Cutch-Mandvi	2283	6935	108	51376	Māndvi
+Cutch Mandi	2283	6935	108	51376	Māndvi
 Bhawāni Mandi	2442	7584	580	42283
 Rāmganj Mandi	2465	7594	371	41328
 Mandi	3171	7693	278	28217
-Mandav Nagar	3171	7693	278	28217
+Mandav Nagar	3171	7693	278	28217	Mandi
 Māndal	2544	7457	309	23478
 Mandāwa	2806	7515	300	23335
 Māndalgarh	2519	7507	309	21569
 Mandāwar	2949	7813	575	21339
 Heli Mandi	2834	7676	630	20906
-Hailey Mandi	2834	7676	630	20906
+Hailey Mandi	2834	7676	630	20906	Heli Mandi
 Māndvi	2126	7330	139	18669
 Mandapam	928	7912	5	18427
 Dera Māndi	2844	7718	778	16725
 Goniāna Mandi	3032	7491	563	15208
-Piplya Mandi	2420	7501	580	15070
+Piplya Mandi	2420	7501	580	15070	Panth Pīplia
 Bhucho Mandi	3021	7510	563	14961
 Māndal	2329	7192	124	13345
 Mandākād	816	7728	453	13317
-Mandaikadu	816	7728	453	13317
-Uklana Mandi	2951	7588	339	13219
+Mandaikadu	816	7728	453	13317	Mandākād
+Uklana Mandi	2951	7588	339	13219	Uklāna
 Mandir Hasaud	2122	8177	310	12807
 Māndleshwar	2218	7566	329	12343
-Mandawar	2712	7691	708	11960
+Mandawar	2712	7691	708	11960	Pākhar
 Mandāwar	2786	7655	482	10979
 Māndu	2234	7540	130	10657
-Mandav	2234	7540	130	10657
+Mandav	2234	7540	130	10657	Māndu
 Māndu	2379	8547	391	10223
 Mandasa	1887	8446	472	9287
 Mandrem	1565	7372	188	8336
@@ -45,18 +45,18 @@ Ateli Mandi	2810	7626	694	7619
 Mānda	1957	7280	192	7605
 Mandai	2322	7999	598	6743
 Māndavla	2543	7252	343	6683
-Māndwāla	2543	7252	343	6683
+Māndwāla	2543	7252	343	6683	Māndavla
 Thanna Mandi	3354	7438	504	5490
 Mandholi Kalān	2871	7568	431	4500
-Mandholi	2871	7568	431	4500
-Mandholi Sheoran ki	2871	7568	431	4500
-Mandholi badi	2871	7568	431	4500
+Mandholi	2871	7568	431	4500	Mandholi Kalān
+Mandholi Sheoran ki	2871	7568	431	4500	Mandholi Kalān
+Mandholi badi	2871	7568	431	4500	Mandholi Kalān
 Sumerganj Mandi	2573	7623	353	3633
 Mandoli	2504	7257	343	3523
 Sabzi Mandi	2867	7721	732	0
 Rāmpura Mandi	3027	7524	563	0
-Pahāri ki Mandi	2856	7573	431	0
-Māndwāra	2483	7255	23	0
+Pahāri ki Mandi	2856	7573	431	0	Pahāri
+Māndwāra	2483	7255	23	0	Mundwāra
 Māndwi	2380	7524	568	0
 Māndwe Khurd	1932	7433	152	0
 Māndwe Budrukh	1933	7434	152	0
@@ -65,7 +65,7 @@ Mandwa	1756	7397	64	0
 Mandvi	1895	7283	106	0
 Māndvi	2158	7338	151	0
 Māndvi	1948	7290	192	0
-Bombay Mandvi	1948	7290	192	0
+Bombay Mandvi	1948	7290	192	0	Māndvi
 Mandve	1880	7290	17	0
 Māndvad	2027	7460	54	0
 Māndva	2036	7318	261	0
@@ -76,40 +76,40 @@ Māndri	2142	7940	141	0
 Mandrael	2630	7724	447	0
 Māndrā	2283	8808	279	0
 Mandor	2635	7304	344	0
-Mandoi	2635	7304	344	0
+Mandoi	2635	7304	344	0	Mandor
 Māndodra	2142	7016	185	0
 Mandha	2757	7616	121	0
-Māndo	2757	7616	121	0
+Māndo	2757	7616	121	0	Mandha
 Mando	2377	7393	512	0
 Mandlia	2225	8467	272	0
-Mandria	2225	8467	272	0
-Mandira	2225	8467	272	0
+Mandria	2225	8467	272	0	Mandlia
+Mandira	2225	8467	272	0	Mandlia
 Māndli	2353	7364	512	0
 Mandki	1778	7484	132	0
 Mandkaula	2814	7718	754	0
 Mandikal	1360	7773	438	0
-Mandikallu	1360	7773	438	0
+Mandikallu	1360	7773	438	0	Mandikal
 Mandiāla	3168	7535	487	0
 Mandi	3380	7426	1	0
-Māndhosil	2084	8271	497	0
-Mandhi	2266	7887	337	0
+Māndhosil	2084	8271	497	0	Mārosili
+Mandhi	2266	7887	337	0	Marhi
 Māndhar	2135	8168	310	0
-Māndhan	2811	7638	482	0
+Māndhan	2811	7638	482	0	Mādhan
 Māndhal	2095	7946	141	0
 Māndgaon	2065	7887	143	0
 Mandera	2488	7548	417	0
 Mandem	1903	8065	288	0
-Mandewali	2741	7379	430	0
-Mandeli	2741	7379	430	0
+Mandewali	2741	7379	430	0	Mendli
+Mandeli	2741	7379	430	0	Mendli
 Mandrela	2831	7544	300	0
-Mandela	2831	7544	300	0
+Mandela	2831	7544	300	0	Mandrela
 Māndāvās	2583	7294	273	0
 Mandāwar	2616	7597	313	0
 Mandāwār	2457	7624	333	0
 Mandavni	2011	7315	233	0
-Mandauni	2011	7315	233	0
-Mandonim	2011	7315	233	0
-Mandoni	2011	7315	233	0
+Mandauni	2011	7315	233	0	Mandavni
+Mandonim	2011	7315	233	0	Mandavni
+Mandoni	2011	7315	233	0	Mandavni
 Mandavgan	1883	7483	152	0
 Mandār Hill	2481	8702	605	0
 Mandāra	2152	7388	186	0
@@ -118,13 +118,13 @@ Māndar	2346	8509	562	0
 Mandar	2000	7897	67	0
 Mandapārai	1264	7895	197	0
 Mandāori	2648	7644	708	0
-Mandāora	2735	7655	482	0
+Mandāora	2735	7655	482	0	Bāleta
 Mandāvara	2705	7484	430	0
-Mandāora	2705	7484	430	0
+Mandāora	2705	7484	430	0	Mandāvara
 Mandangarh	1798	7325	234	0
-Mandangad	1798	7325	234	0
-Mandāni	2708	7457	430	0
-Mandāna	2708	7457	430	0
+Mandangad	1798	7325	234	0	Mandangarh
+Mandāni	2708	7457	430	0	Manāna
+Mandāna	2708	7457	430	0	Manāna
 Mandāna	2495	7593	371	0
 Mandāna	2159	7462	186	0
 Mandāli	3083	7795	448	0
@@ -144,7 +144,7 @@ Mānda	2510	8226	607	0
 Mandā	2208	8623	382	0
 Manda	2056	8612	303	0
 Mandāwra	2438	7880	384	0
-Mandikhera	2794	7701	544	0
+Mandikhera	2794	7701	544	0	Bhādas
 Bara Mandla	2685	7222	344	0
 Mandirtala	2180	8810	4	0
 Māndshar	2242	8847	4	0
@@ -157,13 +157,13 @@ Mānda Khalka	3287	7471	581	0
 Mandiāla	3284	7460	581	0
 Mandwāl	3306	7446	504	0
 Mandhān	3295	7442	581	0
-Mandhar	3295	7442	581	0
+Mandhar	3295	7442	581	0	Mandhān
 Māndreān	3297	7477	581	0
 Mānd	3292	7499	373	0
 Motī Mandar	3279	7490	581	0
 Mandowāh	3277	7498	581	0
 Dewa Mander	3065	7607	674	0
-Dīwa Mander	3065	7607	674	0
+Dīwa Mander	3065	7607	674	0	Dewa Mander
 Mandi	2878	7677	719	0
 Mandāl	3270	7479	581	0
 Mānduwāla	3042	7788	448	0
@@ -203,12 +203,12 @@ Purwa Mandhāta	2668	7986	671	0
 Māndpur	2424	7923	663	0
 Mandholi Lākhlān	2872	7563	431	0
 Mandiāl	3249	7495	720	0
-Mandliāl	3249	7495	720	0
+Mandliāl	3249	7495	720	0	Mandiāl
 Mandāo	2728	7112	217	0
 Mandalpāra	2649	8991	713	0
 Māndarkati	2634	8990	713	0
 Māndā	2573	9046	786	0
-Mandgaan	2451	8189	672	0
+Mandgaan	2451	8189	672	0	Madhugaon
 Māndvi	2378	7167	240	0
 Mandādi	1641	7940	10	0
 Mandapalli	1915	7861	360	0
@@ -404,7 +404,7 @@ Krishna Mandir	3045	7807	448	0
 Nāg Rāja Ka Mandir	3042	7814	448	0
 Manduā	2898	7901	552	0
 Mandaiyān Bahrām	2896	7908	552	0
-Mandaiyān Bhajan	2897	7909	552	0
+Mandaiyān Bhajan	2897	7909	552	0	Pachtaur
 Mandaiyān Pūse	2894	7913	552	0
 Mandaiyān Dakhnī	2894	7920	552	0
 Kunde Kī Mandaiyān	2890	7912	552	0
@@ -677,10 +677,10 @@ Māndauthi	2871	7682	609	0
 Roshan Mandi	2861	7699	763	0
 Chara Mandi	2861	7699	763	0
 Manduri	2619	8093	681	0
-Mandaiyān	2912	7820	575	0
+Mandaiyān	2912	7820	575	0	Dhakiyān
 Mandaiyān	2910	7820	575	0
 Mandalyān Neola	2909	7811	575	0
-Mandalyān	2908	7810	575	0
+Mandalyān	2908	7810	575	0	Kumhariya
 Shāhjahānpur Mandaiyān	2903	7814	483	0
 Mandaiyān	2902	7822	483	0
 Mandaiyān	2901	7823	483	0
@@ -726,7 +726,7 @@ Mandāu	2965	7898	612	0
 Mandergaon	2968	7900	612	0
 Manduwa Khera	2929	7883	641	0
 Niwār Mandi	2931	7884	641	0
-Mandaiyān	2925	7892	641	0
+Mandaiyān	2925	7892	641	0	Bharatpur
 Silu ki Mandaiyān	2918	7892	641	0
 Mandaiyān Tilok	2910	7894	511	0
 Mazra Mandaiyān Devi	2912	7896	511	0
@@ -908,7 +908,7 @@ Mandrāla	3338	7549	372	0
 Mandi Rai	2687	8388	560	0
 Mandua Dih	2606	8381	536	0
 Mandārpur	2564	8359	26	0
-Mandiaon Dīh	2565	8371	26	0
+Mandiaon Dīh	2565	8371	26	0	Mirānpur
 Mandapāka	1841	8048	226	0
 Mandral	3345	7553	34	0
 Mandrala	3325	7556	372	0
@@ -1204,7 +1204,7 @@ Mandapalle	1817	8186	109	0
 Mandagūda	1899	8372	363	0
 Eguva Manda	1896	8361	199	0
 Diguva Manda	1894	8361	199	0
-Therlam Mandal	1848	8350	179	0
+Therlam Mandal	1848	8350	179	0	Terlām
 Mandiravalasa	1834	8357	179	0
 Mandigām	1892	8377	205	0
 Kotta Mandigām	1892	8376	205	0
@@ -1236,14 +1236,14 @@ Mandli	2327	7422	166	0
 Mandāli	2421	7297	134	0
 Thāla Mandrāl	2965	7913	429	0
 Mandaiyān	2935	7911	551	0
-Mandaiyān Gulzārī	2918	7907	641	0
+Mandaiyān Gulzārī	2918	7907	641	0	Ganjpurī
 Mandaiyān Kāim	2919	7909	641	0
-Mandaiyān Bakhshī	2919	7908	641	0
+Mandaiyān Bakhshī	2919	7908	641	0	Azīmullahwāla
 Mohadi-kī-mandaiyān	2902	7916	552	0
 Kallu-kī-Mandajyān	2907	7911	552	0
 Sawai-kī-Mandaiyān	2904	7911	552	0
-Mandaiyān Jangī Khān	2920	7912	641	0
-Mandaiyān Daiya	2921	7914	641	0
+Mandaiyān Jangī Khān	2920	7912	641	0	Farīdpur
+Mandaiyān Daiya	2921	7914	641	0	Tāndā Goharū
 Mandaiyān Hatto	2917	7923	641	0
 Mandaiyān Badrīpur	2915	7919	641	0
 Mandaiyān Ratnā	2909	7918	641	0
@@ -1303,10 +1303,10 @@ Mandil Chak	2515	8497	527	0
 Mandil	2514	8496	527	0
 Khapar Mandā	2450	8411	137	0
 Māndār	2451	8407	701	0
-Māndli	2299	7680	675	0
+Māndli	2299	7680	675	0	Mubārakpur
 Manda	2467	8473	118	0
 Mandār	2442	8459	118	0
-Mandhania	2406	8470	393	0
+Mandhania	2406	8470	393	0	Kāntī
 Mandruvāripālem	1607	7983	10	0
 Hazratpur Mandrochāni	2507	8581	690	0
 Mandro	2506	8581	690	0
@@ -1484,7 +1484,7 @@ Māndandih	2410	8476	393	0
 Māndartolā	2408	8480	393	0
 Māndhārtoli	2318	8406	321	0
 Mandriātoli	2315	8415	321	0
-Mandhaniā	2390	8433	707	0
+Mandhaniā	2390	8433	707	0	Agardih
 Mandar	2333	8441	321	0
 Manduāpāttoli	2358	8465	773	0
 Mandaitānrtoli	2365	8477	707	0

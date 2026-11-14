@@ -1,16 +1,16 @@
 Dhanbad	2380	8643	401	1196214
-Dhanbaid	2380	8643	401	1196214
-Dhanabad	2380	8643	401	1196214
-Dānāpur	2564	8505	604	152940
+Dhanbaid	2380	8643	401	1196214	Dhanbad
+Dhanabad	2380	8643	401	1196214	Dhanbad
+Dānāpur	2564	8505	604	152940	Dinapore
 Dandeli	1527	7462	59	52295
 Dhanpuri	2319	8156	634	45156
 Dhandhuka	2238	7199	124	32475
 Dhanera	2451	7202	134	29578
 Dhanaura	2896	7826	483	28285
-Fort Dansborg	1103	7985	203	23191
+Fort Dansborg	1103	7985	203	23191	Tharangambadi
 Dhanaula	3028	7557	726	19920
 Danta	2730	7519	491	15594
-Dandei Sīvaram	1279	7982	161	14684
+Dandei Sīvaram	1279	7982	161	14684	Wālājābād
 Dantewāra	1889	8135	406	13633
 Dankaur	2835	7756	588	13020
 Dhāna	2375	7886	352	10641
@@ -18,23 +18,23 @@ Dhanegaon	1913	7734	140	9809
 Dandi	1980	7277	192	8942
 Dhanwār	2441	8598	452	8777
 Dāndedih	2416	8633	452	7769
-Dandidih	2416	8633	452	7769
+Dandidih	2416	8633	452	7769	Dāndedih
 Khan Pur Dhani	2871	7728	791	6994
 Dhānal	2115	7954	404	6339
 Pub - Dhaniram Pather	2601	9287	706	6280
 Danguwapasi	2217	8559	287	4606
 Danara	2095	8510	414	4144
 Dhanda	3112	7575	369	1612
-Chānt Dāng	2866	7986	683	1437
+Chānt Dāng	2866	7986	683	1437	Baldeopur
 Shyāmbhar ki Dhani	2704	7030	217	0
 Sādhu ki Dhāni	2548	7202	285	0
 Raikaon ki Dhāni	2595	7310	273	0
-Patwa Dangar	2934	7945	551	0
+Patwa Dangar	2934	7945	551	0	Patwa Dunga
 Dhāni Pacheri	2815	7593	300	0
-Nīmia Dhāna	2219	7761	462	0
+Nīmia Dhāna	2219	7761	462	0	Nimiya
 Lāl Dhāng	2985	7832	596	0
 Khokha Ki Dhāni	2535	7202	343	0
-Dhandaparti	1773	8330	81	0
+Dhandaparti	1773	8330	81	0	Dondaparti
 Dholerao ki Dhāni	2595	7337	273	0
 Dhanyacharanbāri	2389	9196	695	0
 Dhanwār	2226	8050	144	0
@@ -50,7 +50,7 @@ Dhānsoi	2536	8403	620	0
 Dhansirimukh	2670	9362	740	0
 Dhansir	2156	8273	635	0
 Dhānsiya	2886	7452	486	0
-Dhansia	2886	7452	486	0
+Dhansia	2886	7452	486	0	Dhānsiya
 Dhānpur	2264	7410	173	0
 Dhanpur	1942	8210	600	0
 Dhanpunji	1909	8221	205	0
@@ -58,18 +58,18 @@ Dhānora Buzurg	1859	7636	33	0
 Dhanora	2362	7653	16	0
 Dhanora	2327	7775	338	0
 Dhanora	2244	7905	337	0
-Dhanora Jagir	2244	7905	337	0
+Dhanora Jagir	2244	7905	337	0	Dhanora
 Dhānora	2144	7408	186	0
 Dhānora	2121	7552	78	0
 Dhanora	2027	8031	135	0
 Dhanora	2001	8146	659	0
 Dhanori	2087	7828	143	0
-Dhaner	2087	7828	143	0
-Dhanor	2087	7828	143	0
+Dhaner	2087	7828	143	0	Dhanori
+Dhanor	2087	7828	143	0	Dhanori
 Dhanol	2464	7220	343	0
 Dhanoa	3189	7558	296	0
 Dhāna	2877	7535	539	0
-Dhāno	2877	7535	539	0
+Dhāno	2877	7535	539	0	Dhāna
 Dhanna	3384	7434	1	0
 Dhanmandal	2069	8613	376	0
 Dhānla	2553	7366	273	0
@@ -80,7 +80,7 @@ Dhānki	1957	7785	67	0
 Dhankakri	2274	7961	368	0
 Dhānk	2178	7013	174	0
 Dhanipiplia	2351	7471	525	0
-Dānpur	2351	7471	525	0
+Dānpur	2351	7471	525	0	Dhanipiplia
 Dhanīakhāli	2297	8810	279	0
 Dhani	2857	7458	539	0
 Dhāni	2712	8316	515	0
@@ -93,38 +93,38 @@ Dhaneshari	2600	8713	667	0
 Dhanesa	2660	8158	662	0
 Dhaner	2109	7406	190	0
 Dhānepur	2722	8215	542	0
-Dhaneypur	2722	8215	542	0
+Dhaneypur	2722	8215	542	0	Dhānepur
 Dhaneli	2117	8170	310	0
 Dhaneli	2016	8124	704	0
 Dhanechar	3095	7735	534	0
-Dhanech	3095	7735	534	0
+Dhanech	3095	7735	534	0	Dhanechar
 Dhandoli Khurd	3010	7595	593	0
-Dhandoli	3010	7595	593	0
+Dhandoli	3010	7595	593	0	Dhandoli Khurd
 Dhānani	2778	7482	491	0
-Dhandni	2778	7482	491	0
+Dhandni	2778	7482	491	0	Dhānani
 Dhāndhia	2600	7303	344	0
-Dhāndhīya	2600	7303	344	0
+Dhāndhīya	2600	7303	344	0	Dhāndhia
 Dhāndharphal	1953	7412	152	0
 Dhandhalpur	2239	7136	28	0
 Dhānsa	2856	7687	763	0
-Dhandāsa	2856	7687	763	0
+Dhandāsa	2856	7687	763	0	Dhānsa
 Dhandāmunda	2080	8293	394	0
 Dhānd	2707	7594	121	0
 Dhanauri	2978	7618	638	0
 Dhānaulti	3043	7825	500	0
 Dhānasutha	2328	7531	568	0
 Dhanāseri	1765	7747	569	0
-Dhanasari Bidar	1765	7747	569	0
+Dhanasari Bidar	1765	7747	569	0	Dhanāseri
 Dhanasar	2918	7434	486	0
 Dhaneriya	2653	7408	430	0
-Dhanaria	2653	7408	430	0
+Dhanaria	2653	7408	430	0	Dhaneriya
 Dhānāpur	2546	8335	724	0
 Dhanāna	2894	7616	431	0
 Dhānāna	2670	7019	217	0
 Dhanaj Buzurg	2066	7763	128	0
-Dhanāj	2066	7763	128	0
+Dhanāj	2066	7763	128	0	Dhanaj Buzurg
 Dānwara	2671	7310	344	0
-Dānwro	2671	7310	344	0
+Dānwro	2671	7310	344	0	Dānwara
 Danuā	2444	8517	764	0
 Dantur	2133	8658	421	0
 Dāntrai	2471	7252	23	0
@@ -134,11 +134,11 @@ Dāntil	2766	7601	121	0
 Dāntan	2195	8728	677	0
 Dantāli	2309	7314	167	0
 Dānta	2419	7277	134	0
-Danta-Bhavangadh	2419	7277	134	0
+Danta-Bhavangadh	2419	7277	134	0	Dānta
 Danli	2863	9572	427	0
 Dankhar Gömpa	3209	7820	425	0
-Dankhar Goempa	3209	7820	425	0
-Dankhar	3209	7820	425	0
+Dankhar Goempa	3209	7820	425	0	Dankhar Gömpa
+Dankhar	3209	7820	425	0	Dankhar Gömpa
 Dānītolā	2258	8071	480	0
 Dānishpet	1186	7813	51	0
 Daniāwān	2544	8530	604	0
@@ -146,19 +146,19 @@ Dangusurada	1960	8365	363	0
 Dangshirvāde	2092	7402	190	0
 Dāngri	2654	7139	217	0
 Dangrawari	2072	7093	776	0
-Dangarvadi	2072	7093	776	0
+Dangarvadi	2072	7093	776	0	Dangrawari
 Dangrāha	2545	8710	613	0
 Dāngori	2771	9556	460	0
 Dāngiyāwās	2626	7328	344	0
-Dāngiāwās	2626	7328	344	0
+Dāngiāwās	2626	7328	344	0	Dāngiyāwās
 Dāngchura	3026	7872	500	0
-Dang Chaunra	3026	7872	500	0
+Dang Chaunra	3026	7872	500	0	Dāngchura
 Dangbal	2087	8322	394	0
 Dangāshilbhata	1925	8298	363	0
 Dāngarwa	2338	7246	164	0
 Dāngarthal	2638	7578	313	0
 Dangar Khera	3021	7417	3	0
-Danger Khera	3021	7417	3	0
+Danger Khera	3021	7417	3	0	Dangar Khera
 Dangarh	2070	8080	644	0
 Dangādiha	2150	8632	382	0
 Danga	3319	7667	34	0
@@ -166,7 +166,7 @@ Dāng	3015	7899	612	0
 Dāng	2867	7968	683	0
 Danera	2393	8125	634	0
 Danduti	1718	7710	71	0
-Dandoti	1718	7710	71	0
+Dandoti	1718	7710	71	0	Danduti
 Dandu	2908	7416	486	0
 Dandu	2889	7311	374	0
 Dandpur	3358	7538	148	0
@@ -175,23 +175,23 @@ Dandinahirehālu	1501	7683	100	0
 Dandiganahalli	1297	7628	679	0
 Dandi	2133	7262	139	0
 Dandhara	2931	7462	486	0
-Dandhera	2931	7462	486	0
+Dandhera	2931	7462	486	0	Dandhara
 Dāndepāda	1958	7273	192	0
 Dande	1828	7299	17	0
 Danāyanicheruvu	1408	7836	444	0
 Danauda Khurd	2952	7600	367	0
-Danauda	2952	7600	367	0
-Danauda Kalān	2952	7600	367	0
+Danauda	2952	7600	367	0	Danauda Khurd
+Danauda Kalān	2952	7600	367	0	Danauda Khurd
 Danagalli	1223	7657	74	0
 Daiāli Dhāni	2807	7294	307	0
-Dhāni Bhābhru	2746	7604	121	0
+Dhāni Bhābhru	2746	7604	121	0	Bhābhru
 Chhillāali Dhāni	2875	7399	307	0
 Dānusar	2840	7467	539	0
-Dāndusar	2840	7467	539	0
+Dāndusar	2840	7467	539	0	Dānusar
 Baijupurohit ki Dhāni	2806	7483	491	0
-Dhāni	2806	7483	491	0
-Dānrunda	2808	7490	491	0
-Dhāndhāni	2809	7486	491	0
+Dhāni	2806	7483	491	0	Baijupurohit ki Dhāni
+Dānrunda	2808	7490	491	0	Dāthuda
+Dhāndhāni	2809	7486	491	0	Dhādhan
 Dhāni	2809	7490	491	0
 Dhāni Baroa	2811	7489	491	0
 Dhāni	2818	7500	491	0
@@ -209,7 +209,7 @@ Dhaniahāma	3417	7489	611	0
 Dānpura	3411	7489	611	0
 Dāngarpura	3415	7482	611	0
 Dāngarpura	3410	7480	611	0
-Dāngapura	3410	7480	611	0
+Dāngapura	3410	7480	611	0	Dāngarpura
 Dāngri	3382	7424	1	0
 Dhannu	3384	7422	1	0
 Jablawāla Danna	3383	7423	1	0
@@ -228,13 +228,13 @@ Chodhari Ki Dhāni	2667	7188	217	0
 Chuttrārām Ki Dhāni	2670	7178	217	0
 Dāntal	2655	7189	217	0
 Balūji Ki Dhāni	2669	7192	217	0
-Dalūji Ki Dhāni	2669	7192	217	0
+Dalūji Ki Dhāni	2669	7192	217	0	Balūji Ki Dhāni
 Darjiān Ki Dhāni	2666	7186	217	0
 Dolāniān Ki Dhāni	2653	7177	217	0
 Dudhali Ki Dhāni	2661	7182	217	0
 Gamnān Ki Dhāni	2670	7176	217	0
 Gaje Singh Ki Dhāni	2661	7178	217	0
-Goje Singh Ki Dhāni	2661	7178	217	0
+Goje Singh Ki Dhāni	2661	7178	217	0	Gaje Singh Ki Dhāni
 Hirji Ki Dhāni	2670	7190	217	0
 Jaswant Singh Ki Dhāni	2667	7179	217	0
 Khartha Ki Dhāni	2659	7198	217	0
@@ -279,24 +279,24 @@ Dhanu	3296	7482	581	0
 Danoa	3297	7494	666	0
 Dansāl	3287	7499	581	0
 Dangiāna	3269	7486	581	0
-Dansāl	3265	7495	720	0
+Dansāl	3265	7495	720	0	Dasāl
 Titarwāli Dhāni	2868	7463	539	0
-Dhāni Tetarwāl	2868	7463	539	0
+Dhāni Tetarwāl	2868	7463	539	0	Titarwāli Dhāni
 Kānarwas ki Dhāni	2861	7461	539	0
 Dhāni Pāncherān	2856	7460	539	0
-Dhani	2856	7460	539	0
+Dhani	2856	7460	539	0	Dhāni Pāncherān
 Danna	3462	7399	0	0
-Būjo Danga	3411	7399	301	0
+Būjo Danga	3411	7399	301	0	Būjo Darga
 Danna	3414	7395	301	0
 Gah Danna	3406	7391	301	0
 Khetar Danna	3408	7392	301	0
-Khetnr Danna	3408	7392	301	0
-Kheinn Danna	3408	7392	301	0
+Khetnr Danna	3408	7392	301	0	Khetar Danna
+Kheinn Danna	3408	7392	301	0	Khetar Danna
 Dānd Dabbān	3440	7393	0	0
 Danna Bijildhār	3434	7388	0	0
 Dhanni	3435	7382	0	0
 Zaria na Danna	3440	7394	0	0
-Zarlana Danna	3440	7394	0	0
+Zarlana Danna	3440	7394	0	0	Zaria na Danna
 Dāndra	3048	7792	448	0
 Dānda	3048	7783	448	0
 Danda	3047	7798	448	0
@@ -307,7 +307,7 @@ Dhanaura	2998	7713	457	0
 Dhāno Kheri	2995	7713	457	0
 Dhānwa	2968	7727	449	0
 Dhanena	2953	7735	328	0
-Banjāri Dānti	2521	7568	353	0
+Banjāri Dānti	2521	7568	353	0	Devri
 Dhaneshwar	2508	7559	353	0
 Dhanātri	2531	7565	353	0
 Dhanpura	2554	7551	353	0
@@ -325,7 +325,7 @@ Kirārod ki Dhāni	2809	7609	694	0
 Dhāni Shaikhpura	2807	7612	694	0
 Dhāni Kanwariyabās	2803	7605	694	0
 Dhanesar	3122	7704	479	0
-Dhaneshwar	3122	7704	479	0
+Dhaneshwar	3122	7704	479	0	Dhanesar
 Dhandholi	3000	7854	612	0
 Dhaniār	3000	7863	612	0
 Dāngi	2999	7872	612	0
@@ -346,18 +346,18 @@ Bhānisingh ki Dhāni	2848	7516	539	0
 Dhannrām ka Bās	2846	7521	539	0
 Motisingh ki Dhāni	2847	7524	539	0
 Dhanauthi	2887	7549	705	0
-Dhanauthi Bari	2887	7549	705	0
+Dhanauthi Bari	2887	7549	705	0	Dhanauthi
 Bāgāparta ki Dhāni	2837	7527	300	0
 Kasāiyan ki Dhāni	2836	7527	300	0
 Barwa ki Dhāni	2833	7527	300	0
 Gūgan ki Dhāni	2833	7533	300	0
 Kālīpahāri Dhāni	2829	7536	300	0
-Kālīpahāri ki Dhāni	2829	7536	300	0
+Kālīpahāri ki Dhāni	2829	7536	300	0	Kālīpahāri Dhāni
 Surti ki Dhāni	2829	7536	300	0
 Dhāni Chāran	2827	7532	300	0
-Chārna ki Dhāni	2827	7532	300	0
+Chārna ki Dhāni	2827	7532	300	0	Dhāni Chāran
 Janewāon ki Dhāni	2825	7528	300	0
-Jonewa ki Dhāni	2825	7528	300	0
+Jonewa ki Dhāni	2825	7528	300	0	Janewāon ki Dhāni
 Rāmniwās ki Dhāni	2826	7532	300	0
 Chuna ki Dhāni	2830	7536	300	0
 Pūnia ki Dhāni	2825	7534	300	0
@@ -374,7 +374,7 @@ Madansar ki Dhāni	2810	7528	300	0
 Mālīrām ki Dhāni	2808	7535	300	0
 Puraya ki Dhāni	2809	7536	300	0
 Pūnia ki Dhāni	2806	7526	300	0
-Pūnja ki Dhāni	2806	7526	300	0
+Pūnja ki Dhāni	2806	7526	300	0	Pūnia ki Dhāni
 Odho ki Dhāni	2806	7529	300	0
 Kāle ki Dhāni	2802	7529	300	0
 Pūnia ki Dhāni	2801	7530	300	0
@@ -392,18 +392,18 @@ Olon ki Dhāni	2810	7545	300	0
 Karwāsron ki Dhāni	2807	7543	300	0
 Mīlan ki Dhāni	2806	7544	300	0
 Brāhamano ki Dhāni	2800	7547	300	0
-Chārno ki Dhāni	2803	7548	300	0
+Chārno ki Dhāni	2803	7548	300	0	Shyāmpura
 Hamīri ki Dhāni	2818	7541	300	0
 Māliya ki Dhāni	2814	7541	300	0
-Mālīyan ki Dhāni	2814	7541	300	0
+Mālīyan ki Dhāni	2814	7541	300	0	Māliya ki Dhāni
 Kosālyon ki Dhāni	2814	7543	300	0
 Brāhmanon ki Dhāni	2816	7539	300	0
 Gujaron ki Dhāni	2813	7545	300	0
 Māliyon ki Dhāni	2823	7541	300	0
-Vasoda ki Dhāni	2823	7541	300	0
+Vasoda ki Dhāni	2823	7541	300	0	Māliyon ki Dhāni
 Jhīlāli Dhāni	2823	7546	300	0
 Tibro ki Dhāni	2822	7545	300	0
-Tibra ki Dhāni	2822	7545	300	0
+Tibra ki Dhāni	2822	7545	300	0	Tibro ki Dhāni
 Pakkori ki Dhāni	2821	7545	300	0
 Khatīkon ki Dhāni	2821	7543	300	0
 Sāgo ki Dhāni	2821	7540	300	0
@@ -419,7 +419,7 @@ Māliyon ki Dhāni	2817	7547	300	0
 Gujaron ki Dhāni	2817	7546	300	0
 Mithi ki Dhāni	2893	7559	431	0
 Dhāni Chanaharīwās	2899	7559	339	0
-Dhāni Chahaharīwās	2899	7559	339	0
+Dhāni Chahaharīwās	2899	7559	339	0	Dhāni Chanaharīwās
 Ranjītkakar ki Dhāni	2896	7565	339	0
 Balāhara Dhāni	2888	7569	431	0
 Dhāni Rūnhāt	2890	7567	431	0
@@ -436,22 +436,22 @@ Dhandār	2836	7553	300	0
 Dhandār Bās	2835	7553	300	0
 Gujaron ki Dhāni	2837	7554	300	0
 Gopāliyān ki Dhāni	2837	7554	300	0
-Gopāliyāin ki Dhāni	2837	7554	300	0
+Gopāliyāin ki Dhāni	2837	7554	300	0	Gopāliyān ki Dhāni
 Māliyān ki Dhāni	2837	7553	300	0
 Mānjawān ki Dhāni	2834	7553	300	0
 Pānthariyon ki Dhāni	2839	7563	300	0
 Ganeshji ki Dhāni	2838	7570	300	0
 Kumhāron ki Dhāni	2834	7572	300	0
 Dhāndrion ki Dhāni	2833	7550	300	0
-Dhāndrīan ki Dhāni	2833	7550	300	0
+Dhāndrīan ki Dhāni	2833	7550	300	0	Dhāndrion ki Dhāni
 Mangala ki Dhāni	2831	7551	300	0
 Chārna ki Dhāni	2830	7551	300	0
 Motāna Dhāni	2825	7552	300	0
 Khātiyan ki Dhāni	2829	7554	300	0
-Khātlyon ki Dhāni	2829	7554	300	0
+Khātlyon ki Dhāni	2829	7554	300	0	Khātiyan ki Dhāni
 Dhābbāon ki Dhāni	2826	7557	300	0
 Sayadon ki Dhāni	2825	7558	300	0
-Sayadan ki Dhāni	2825	7558	300	0
+Sayadan ki Dhāni	2825	7558	300	0	Sayadon ki Dhāni
 Jogiyon ki Dhāni	2832	7562	300	0
 Sovrāni Dhāni	2832	7564	300	0
 Brāhamanon ki Dhāni	2829	7565	300	0
@@ -462,17 +462,17 @@ Kākora Dhāni	2827	7574	300	0
 Meghsāgarwāli Dhāni	2825	7552	300	0
 Henuta ki Dhāni	2825	7557	300	0
 Dālmiān ki Dhāni	2824	7566	300	0
-Dhāni Dālmiān	2824	7566	300	0
+Dhāni Dālmiān	2824	7566	300	0	Dālmiān ki Dhāni
 Būchiya ki Dhāni	2823	7570	300	0
-Būchia ki Dhāni	2823	7570	300	0
+Būchia ki Dhāni	2823	7570	300	0	Būchiya ki Dhāni
 Chauhānon ki Dhāni	2823	7570	300	0
 Māru ki Dhāni	2824	7554	300	0
 Āka ki Dhāni	2823	7563	300	0
-Dhāni Āka	2823	7563	300	0
+Dhāni Āka	2823	7563	300	0	Āka ki Dhāni
 Bāman ki Dhāni	2822	7571	300	0
 Dhīrāwāli Dhāni	2822	7552	300	0
 Jesu ki Dhāni	2821	7553	300	0
-Jīsukh ki Dhāni	2821	7553	300	0
+Jīsukh ki Dhāni	2821	7553	300	0	Jesu ki Dhāni
 Khemu ki Dhāni	2821	7565	300	0
 Dāngar	2820	7566	300	0
 Māliyon ki Dhāni	2819	7556	300	0
@@ -480,7 +480,7 @@ Ardāwata ki Dhāni	2819	7563	300	0
 Parmāwāli Dhāni	2818	7552	300	0
 Nīmwāli Dhāni	2818	7552	300	0
 Subedār ki Dhāni	2815	7574	300	0
-Dhāni	2815	7574	300	0
+Dhāni	2815	7574	300	0	Subedār ki Dhāni
 Pāji ki Dhāni Bari	2802	7572	300	0
 Ojāwāli Dhāni	2817	7551	300	0
 Dāngia ki Dhāni	2815	7570	300	0
@@ -488,25 +488,25 @@ Dhahar ki Dhāni	2815	7557	300	0
 Malesiya ki Dhāni	2811	7575	300	0
 Jodhīji ki Dhāni	2810	7574	300	0
 Brāhmanon ki Dhāni	2809	7554	300	0
-Brāhmonon ki Dhāni	2809	7554	300	0
-Bāmanun ki Dhāni	2809	7554	300	0
+Brāhmonon ki Dhāni	2809	7554	300	0	Brāhmanon ki Dhāni
+Bāmanun ki Dhāni	2809	7554	300	0	Brāhmanon ki Dhāni
 Thicholī ki Dhāni	2808	7566	300	0
-Thichali ki Dhāni	2808	7566	300	0
+Thichali ki Dhāni	2808	7566	300	0	Thicholī ki Dhāni
 Bādha ki Dhāni	2808	7570	300	0
 Mila ki Dhāni	2807	7562	300	0
-Līlon ki Dhāni	2807	7562	300	0
+Līlon ki Dhāni	2807	7562	300	0	Mila ki Dhāni
 Mānota ki Dhāni	2806	7567	300	0
-Manūta ki Dhāni	2806	7567	300	0
+Manūta ki Dhāni	2806	7567	300	0	Mānota ki Dhāni
 Sunārli ki Dhāni	2805	7564	300	0
 Khojiyon ki Dhāni	2804	7565	300	0
 Tīlāni ki Dhāni	2801	7574	300	0
-Tīlāli ki Dhāni	2801	7574	300	0
+Tīlāli ki Dhāni	2801	7574	300	0	Tīlāni ki Dhāni
 Pāii ki Dhani	2801	7571	300	0
-Pāji ki Dhāni	2801	7571	300	0
+Pāji ki Dhāni	2801	7571	300	0	Pāii ki Dhani
 Bari Dhāni	2802	7551	300	0
 Pirota ki Dhāni	2801	7562	300	0
 Borāno ki Dhāni	2801	7564	300	0
-Dorāna ki Dhāni	2801	7564	300	0
+Dorāna ki Dhāni	2801	7564	300	0	Borāno ki Dhāni
 Pemārāmjāt ki Dhāni	2770	7281	307	0
 Hamīrsingh ki Dhāni	2768	7281	307	0
 Nāharsingh ki Dhāni	2766	7279	307	0
@@ -581,7 +581,7 @@ Kumāra ki Dhāni	2696	7554	121	0
 Dārāwāla ki Dhāni	2694	7556	121	0
 Puniya ki Dhāni	2694	7555	121	0
 Indokhia ki Dhāni	2694	7560	121	0
-Intokiya ki Dhāni	2694	7560	121	0
+Intokiya ki Dhāni	2694	7560	121	0	Indokhia ki Dhāni
 Bherūjīwāli Dhāni	2694	7564	121	0
 Pithāwās ki Dhāni	2694	7570	121	0
 Kālurāmwāli Dhāni	2694	7573	121	0
@@ -593,9 +593,9 @@ Dudhāra ki Dhāni	2693	7572	121	0
 Sirsi ki Dhāni	2693	7569	121	0
 Bijaipur ki Dhāni	2693	7565	121	0
 Dhānkia ki Dhāni	2693	7559	121	0
-Dhānkya ki Dhāni	2693	7559	121	0
+Dhānkya ki Dhāni	2693	7559	121	0	Dhānkia ki Dhāni
 Dhānkia	2691	7558	121	0
-Dhānakya	2691	7558	121	0
+Dhānakya	2691	7558	121	0	Dhānkia
 Mīna ki Dhāni	2691	7564	121	0
 Jāton ki Dhāni	2690	7564	121	0
 Jagannath ki Dhāni	2691	7570	121	0
@@ -607,12 +607,12 @@ Bhopa ki Dhāni	2687	7550	121	0
 Gujron ki Dhāni	2699	7554	121	0
 Bando ki Dhāni	2688	7570	121	0
 Kār ki Dhāni	2688	7571	121	0
-Dābar ki Dhāni	2685	7555	121	0
+Dābar ki Dhāni	2685	7555	121	0	Dābar
 Sārangpura ki Dhāni	2684	7564	121	0
 Lokhanda ki Dhāni	2682	7551	121	0
 Mīna ki Dhāni	2680	7552	121	0
 Mohāna ki Dhāni	2677	7574	121	0
-Muhāna ki Dhāni	2677	7574	121	0
+Muhāna ki Dhāni	2677	7574	121	0	Mohāna ki Dhāni
 Ajrājpura ki Dhāni	2676	7561	121	0
 Khera Dānda	2642	7932	715	0
 Dhandūpur	2648	7934	715	0
@@ -641,7 +641,7 @@ Bādriyon ki Dhāni	2858	7562	539	0
 Chanāni ki Dhāni	2857	7562	705	0
 Jīrām ki Dhāni	2855	7551	539	0
 Sejātpur ki Dhāni	2856	7563	431	0
-Sajātpur ki Dhāni	2856	7563	431	0
+Sajātpur ki Dhāni	2856	7563	431	0	Sejātpur ki Dhāni
 Netrām ki Dhāni	2856	7563	431	0
 Lālpur ki Dhāni	2853	7567	431	0
 Dhāni	2851	7569	431	0
@@ -693,7 +693,7 @@ Munīmji ki Dhāni	2836	7492	539	0
 Dhāni Dūngarsinghpura	2823	7497	539	0
 Dangār	3151	7665	772	0
 Dhansiri	2582	9362	405	0
-Dangra Kalān	2445	7849	384	0
+Dangra Kalān	2445	7849	384	0	Dongra Kalān
 Dhānsa	2467	8386	525	0
 Dantālpalli	1750	7967	762	0
 Bera ki Dhani	2768	7242	307	0
@@ -741,7 +741,7 @@ Mothdoās ki Dhāni	2852	7395	307	0
 Dhāndh	2988	7661	638	0
 Dhani Rāmpura	3000	7661	501	0
 Danauli	2949	7663	457	0
-Dhangtāna Khera	2943	7666	367	0
+Dhangtāna Khera	2943	7666	367	0	Khamāwati
 Dhanānah	2910	7652	485	0
 Dhāndhlān	2875	7662	609	0
 Dhāni Sānto	2819	7652	519	0
@@ -1073,7 +1073,7 @@ Nenīwāla ki Dhāni	2753	7605	121	0
 Bāmano ki Dhāni	2753	7610	121	0
 Johrāwāli Dhāni	2752	7604	121	0
 Khoshiyān ki Dhāni	2752	7610	121	0
-Syāmiwāli ki Dhāni	2752	7610	121	0
+Syāmiwāli ki Dhāni	2752	7610	121	0	Khoshiyān ki Dhāni
 Choriyān ki Dhāni	2752	7610	121	0
 Khānda ki Dhāni	2752	7609	121	0
 Dhābwāli Dhāni	2751	7607	121	0
@@ -1172,7 +1172,7 @@ Dānda	3052	7771	534	0
 Dānda	3051	7771	534	0
 Mājra Ki Dhāni	2790	7678	482	0
 Chāmrodah Ki Dhāni	2788	7678	482	0
-Dhantbās	2787	7685	482	0
+Dhantbās	2787	7685	482	0	Rāipur
 Dānwari	2769	7687	482	0
 Dhaneta	2769	7680	482	0
 Dhanota	2762	7695	114	0
@@ -1248,7 +1248,7 @@ Suhāga ki Dhāni	2846	7546	539	0
 Dandeu Sultānsingh	2850	7545	539	0
 Dhanauri	2961	7820	575	0
 Dāndi	2988	7807	596	0
-Dhanpura	2983	7812	596	0
+Dhanpura	2983	7812	596	0	Padārtha
 Dhanpura	2985	7811	596	0
 Dhānriya	2351	7829	338	0
 Dhanāo Khurd	2672	7610	121	0
@@ -1540,7 +1540,7 @@ Khātiyon ki Dhāni	2818	7562	300	0
 Modiyan ki Dhāni	2823	7566	300	0
 Jīta ki Dhāni	2809	7572	300	0
 Dhanu ka Pura	2642	7779	478	0
-Dangiāpura	2632	7784	478	0
+Dangiāpura	2632	7784	478	0	Keshampura
 Dāng Guthīna	2633	7829	484	0
 Dāng	2646	7845	334	0
 Barāla ki Dhāni	2818	7581	300	0
@@ -1564,7 +1564,7 @@ Chaudhariān ki Dhāni	2800	7589	300	0
 Dhānūta	2800	7600	694	0
 Dhanwai Chak	2600	7832	484	0
 Dhāndegäon Tānda	1979	7610	53	0
-Dhandegaeon Tanda	1979	7610	53	0
+Dhandegaeon Tanda	1979	7610	53	0	Dhāndegäon Tānda
 Dhāndegaon	1978	7609	53	0
 Dhāndarwādi	1986	7613	49	0
 Dhanānsu	3093	7600	674	0
@@ -1636,7 +1636,7 @@ Dhāna Khurd	2907	7602	339	0
 Mehnda Dhāni	2904	7607	339	0
 Dhānori	1797	7641	48	0
 Dhanauri	2836	7782	637	0
-Dhanaura	2839	7797	637	0
+Dhanaura	2839	7797	637	0	Ālamgīr
 Dannūr	1750	7666	71	0
 Dhānura	1774	7670	48	0
 Dhanūr Tānda	1751	7668	71	0
@@ -1720,9 +1720,9 @@ Nagla Dhanwant	2734	7829	403	0
 Nagla Dhan Singh	2727	7826	403	0
 Dāngargaon	2012	7817	67	0
 Dānāpur	2097	7840	143	0
-Dhānde	2070	7828	133	0
+Dhānde	2070	7828	133	0	Borgaon
 Danegaon	2067	7828	143	0
-Dhande	2067	7828	143	0
+Dhande	2067	7828	143	0	Danegaon
 Dhanodi	2047	7830	67	0
 Dhānora	2022	7826	67	0
 Dhānoli	2083	7872	143	0
@@ -1869,7 +1869,7 @@ Dānibās	2798	7707	544	0
 Dānthet	2781	7706	114	0
 Dhāna	2786	7709	544	0
 Dhanora	2163	7629	209	0
-Dhangpur	2711	7959	570	0
+Dhangpur	2711	7959	570	0	Udranpur
 Dānihār	2702	7975	570	0
 Chak Dāng Barwe	2563	7736	436	0
 Dāng Barwe	2563	7736	436	0
@@ -1954,12 +1954,12 @@ Dhanwāra	2226	7691	465	0
 Dhanwānitheka	2211	7676	209	0
 Dhanora	2210	7684	209	0
 Dhana ka Pura	2574	8201	718	0
-Dāndūpur	2573	8203	718	0
+Dāndūpur	2573	8203	718	0	Sarāi Todarmal
 Dhanwān	2575	8207	718	0
 Dān	2574	8222	32	0
 Sarāi Dān Shāh	2567	8206	607	0
 Nawa Dāndi	2568	8220	32	0
-Chak Dāni	2562	8213	607	0
+Chak Dāni	2562	8213	607	0	Sarāi Bindrāban
 Khānpur Dāndi	2556	8220	607	0
 Dhanāwan	2544	7960	614	0
 Karahra Dāng	2527	7968	614	0
@@ -1990,7 +1990,7 @@ Dhāndia	2275	7728	675	0
 Dhanela	2496	7975	663	0
 Dhanarkha	2561	8301	32	0
 Dānganj Bāzār	2554	8301	251	0
-Dangraha	2566	8309	498	0
+Dangraha	2566	8309	498	0	Ghanīpur
 Dāni Ka Pura	2567	8308	498	0
 Dandwal	2571	8311	498	0
 Dhanpura	2693	7834	546	0
@@ -2027,7 +2027,7 @@ Dhānsi	2283	7786	590	0
 Dhanwāni	2299	7799	338	0
 Dhāna Nasirābād	2282	7798	590	0
 Dhāna Bachhwāra	2282	7797	590	0
-Dhāna	2279	7794	675	0
+Dhāna	2279	7794	675	0	Khargauli
 Dhanga	2544	7822	436	0
 Dhanaīpur	2552	8336	26	0
 Dandāpur	2559	8342	26	0
@@ -2086,7 +2086,7 @@ Chūrni Korku Dhāna	2163	7752	133	0
 Dahendri Korku Dhāna	2163	7756	133	0
 Kauri Dhāna	2164	7762	462	0
 Sālai Dhāna	2152	7758	462	0
-Kordi Dhāna	2152	7758	462	0
+Kordi Dhāna	2152	7758	462	0	Sālai Dhāna
 Golān Dhāna	2152	7760	462	0
 Pīpri Dhāna	2152	7760	462	0
 Meghnāth Dhāna	2151	7751	462	0
@@ -2152,7 +2152,7 @@ Dandāri	2471	8311	103	0
 Dhānla	2103	7983	404	0
 Dhandahuwa	2429	8306	103	0
 Dhanaura	2420	8323	103	0
-Dhanaura	2419	8325	103	0
+Dhanaura	2419	8325	103	0	Piprāhi
 Dhankhur	2403	8317	103	0
 Dhankuwāri Khurd	2474	8330	724	0
 Dhangardīha	2446	8344	743	0
@@ -2289,7 +2289,7 @@ Dhānāgondi	2149	7879	337	0
 Nagla Dhani	2757	7929	688	0
 Dhandhera	2753	7928	688	0
 Nagla Dhani	2753	7947	688	0
-Dhanwānkhera	2773	7940	470	0
+Dhanwānkhera	2773	7940	470	0	Ganjan Nagla
 Danouja	2481	8045	532	0
 Dhānora	2038	7866	67	0
 Danwāria	2457	8036	532	0
@@ -2434,10 +2434,10 @@ Biganpura ki Dhāni	2874	7592	431	0
 Budhāna ki Dhāni	2874	7595	431	0
 Ādu ki Dhāni	2874	7599	431	0
 Heriyan ki Dhāni	2870	7589	431	0
-Obra ki Dhāni	2869	7577	431	0
-Pyārelāl ki Dhāni	2868	7595	431	0
+Obra ki Dhāni	2869	7577	431	0	Saharyārpur
+Pyārelāl ki Dhāni	2868	7595	431	0	Pratāpgarh
 Brahamanān ki Dhāni	2867	7599	431	0
-Shankar ki Dhāni	2867	7599	431	0
+Shankar ki Dhāni	2867	7599	431	0	Brahamanān ki Dhāni
 Dhāngar	2866	7592	431	0
 Kolar ki Dhāni	2868	7582	431	0
 Dhāb Dhāni	2864	7588	431	0
@@ -2556,7 +2556,7 @@ Dāndi	2902	7815	483	0
 Dhanaura	2960	7833	575	0
 Dhansini	2961	7829	575	0
 Dhanauri	2937	7831	575	0
-Dhanaura	2937	7830	575	0
+Dhanaura	2937	7830	575	0	Farīdpur Dalla
 Dhani Purwa	2798	8117	323	0
 Dhanki Purwa	2797	8119	323	0
 Dhanpuria Purwa	2772	8102	507	0
@@ -2624,7 +2624,7 @@ Danānpur	2688	8149	30	0
 Dhanauri	2925	7830	575	0
 Dhanūpura	2924	7838	575	0
 Abdullāhnagar Dānda	2907	7849	575	0
-Dhanrāj	2920	7847	575	0
+Dhanrāj	2920	7847	575	0	Allāhdīnpur
 Dānigarh	2663	8134	30	0
 Dhankwa	2655	8126	681	0
 Dandupur	2665	8136	30	0
@@ -2713,7 +2713,7 @@ Dhanqi	2746	8191	294	0
 Dhande Purwa	2731	8176	542	0
 Dhānūra	1970	7734	640	0
 Dhansala	1988	7751	67	0
-Jāgīr Dānda	2832	7835	646	0
+Jāgīr Dānda	2832	7835	646	0	Bhīkampur
 Jajaunda Dānda	2832	7833	646	0
 Dhanaja	1974	7755	67	0
 Dagad Dhānora	1970	7751	67	0
@@ -2786,7 +2786,7 @@ Dhanni Dīh	2776	8211	618	0
 Dhanghata	2762	8206	280	0
 Dhanyāwali	2837	7880	117	0
 Dhandhara	2763	8216	280	0
-Dānpur	2846	7891	117	0
+Dānpur	2846	7891	117	0	Begamnagar
 Dāni Dīh	2766	8217	280	0
 Dhanūpura	2839	7896	117	0
 Dhanūpura	2841	7896	117	0
@@ -2908,7 +2908,7 @@ Dīhwa Dānri	2644	8209	597	0
 Danrhwa	2639	8204	597	0
 Dandwa	2634	8203	597	0
 Chak Danrhia	2633	8209	597	0
-Dandsia	2630	8204	597	0
+Dandsia	2630	8204	597	0	Bhatti Jurauli
 Dāndūpur	2626	8202	597	0
 Purwa Dhanāo	2636	8214	597	0
 Dandwa	2642	8216	597	0
@@ -2920,7 +2920,7 @@ Dāngarpūr	3362	7488	35	0
 Dāngom	3368	7490	678	0
 Dāngarpur	3369	7485	678	0
 Danau Kändimarg	3356	7498	35	0
-Danau Kaendimarg	3356	7498	35	0
+Danau Kaendimarg	3356	7498	35	0	Danau Kändimarg
 Dāndiutar	3352	7497	35	0
 Dhanjai	2611	8200	662	0
 Dhankahwa	2610	8204	662	0
@@ -3188,7 +3188,7 @@ Dhanwasiya	2569	8172	718	0
 Dhanauli Rāmpur	2625	8350	586	0
 Nibāhi Dandi	2647	8357	535	0
 Deokāli Dhanirām	2638	8364	535	0
-Chakki Dand	2647	8365	535	0
+Chakki Dand	2647	8365	535	0	Mirhai
 Dhanai	2647	8368	535	0
 Dhanauti Mathia	2638	8370	535	0
 Dhanauli	2626	8351	586	0
@@ -3196,7 +3196,7 @@ Munj Dānd	2608	8351	586	0
 Padmi Dand	2607	8353	586	0
 Dhanakwāra	2604	8357	586	0
 Dhansi	2617	8370	586	0
-Dhanewa	2611	8370	586	0
+Dhanewa	2611	8370	586	0	Bahoranpur
 Dhanai	2610	8371	586	0
 Patrāon Dandwāl	2613	8372	586	0
 Dānipura	2620	8373	586	0
@@ -3314,7 +3314,7 @@ Dhanīpur	2587	8194	718	0
 Dandwāpur	2587	8195	718	0
 Dangaita	2586	8196	718	0
 Dhanaur	2599	8197	718	0
-Dāndūpur	2559	8182	607	0
+Dāndūpur	2559	8182	607	0	Jūrāpur
 Dāndūpur	2560	8186	607	0
 Dhanbālpur	2560	8198	607	0
 Dāndi Rāmpur	2565	8196	607	0
@@ -3399,14 +3399,14 @@ Dhanpurī	2241	8033	480	0
 Dhanorā	2238	8035	480	0
 Dandaijhola	2229	8033	144	0
 Dhāngaon	2258	8068	480	0
-Dānitolā	2257	8070	480	0
+Dānitolā	2257	8070	480	0	Matāwal
 Dhaniājhor	2226	8072	144	0
 Dhangāi	3196	7486	222	0
 Dhānda	3189	7497	487	0
 Dhangaon	2286	8076	468	0
 Dhanwāsī	2287	8097	468	0
 Dhandiān	3103	7495	566	0
-Dhanwāhi	2271	8080	480	0
+Dhanwāhi	2271	8080	480	0	Gunwāhi
 Dhangaon	2250	8082	480	0
 Dhanolī	2264	8089	480	0
 Dhandār	2921	7694	298	0
@@ -3508,7 +3508,7 @@ Dhāngardera	2164	8241	379	0
 Dhaneli	2194	8258	696	0
 Dhanwārpāra	2197	8269	696	0
 Dhanuhārdera	2189	8272	696	0
-Dhanuhārdera	2187	8273	696	0
+Dhanuhārdera	2187	8273	696	0	Jūnedia
 Dhanuhārpāra	2188	8293	402	0
 Dhanuhārpāra	2193	8286	402	0
 Dhanwārpāra	2155	8286	407	0
@@ -3581,7 +3581,7 @@ Dhanegaon	2061	8057	135	0
 Arhāīkatta Dandāsur	2061	8061	644	0
 Dhāngu	3253	7629	362	0
 Dhangaon	2087	8081	474	0
-Dānrūtola	2100	8088	474	0
+Dānrūtola	2100	8088	474	0	Amlīdih
 Dānītola	2080	8083	474	0
 Danraikhera	2029	8083	704	0
 Dāngra	2027	8097	704	0
@@ -3770,7 +3770,7 @@ Dāng	3006	7879	612	0
 Dhanak	3015	7879	612	0
 Dhāndri	3016	7879	612	0
 Dandani	3018	7883	612	0
-Dhankot	3021	7894	365	0
+Dhankot	3021	7894	365	0	Naona
 Dhūra Dhanai	2989	7848	612	0
 Kākhar Dhāng	2986	7848	612	0
 Mota Dhāng	2975	7845	612	0
@@ -3909,7 +3909,7 @@ Dandaruvāda	1834	8223	109	0
 Dāna Panasaguda	1906	8312	316	0
 Dangāsil	1919	8317	363	0
 Dantalingi	1939	8338	363	0
-Dankamajjiguda	1922	8343	363	0
+Dankamajjiguda	1922	8343	363	0	Kadaliguda
 Dhāni	1942	8370	363	0
 Dhangirasila	1938	8373	363	0
 Dangur	1802	8239	268	0
@@ -3931,7 +3931,7 @@ Danakota	1819	8303	268	0
 Dandābadi	1898	8326	316	0
 Dhannu Karli	1883	8331	316	0
 Dangadimaddivalasa	1874	8325	199	0
-Dandigūda	1853	8155	599	0
+Dandigūda	1853	8155	599	0	Voyarās
 Dannānapeta	1815	8350	179	0
 Dandipada	1851	8176	599	0
 Danniguda	1834	8194	109	0
@@ -4134,7 +4134,7 @@ Rāmner Dhānī	2661	7481	446	0
 Dānta	2654	7481	446	0
 Dhānī Parohitān	2654	7483	446	0
 Dhāniya	2547	7425	309	0
-Dāniya Somāniya	2547	7425	309	0
+Dāniya Somāniya	2547	7425	309	0	Dhāniya
 Dhāni	2534	7409	309	0
 Dāngri	2526	7405	309	0
 Dāngra	2525	7406	309	0
@@ -4175,8 +4175,8 @@ Dhān	2970	7991	508	0
 Dhāntol	2512	7478	417	0
 Dhankutwa	2699	8458	476	0
 Dhankutwa	2686	8465	476	0
-Dandi Tola	2676	8470	396	0
-Dandi Tola	2675	8473	396	0
+Dandi Tola	2676	8470	396	0	Mādhopur Bahuarwa
+Dandi Tola	2675	8473	396	0	Mādhopur Bahuarwa
 Dani Sibora	2422	7402	22	0
 Dhandhāna	2133	7435	186	0
 Dhanai Sāhu	2665	8459	396	0
@@ -4221,7 +4221,7 @@ Dhanaura	2890	7931	552	0
 Bhagna Dāndi	2882	7946	342	0
 Bhoj Dāndi	2881	7947	342	0
 Dandiā	2886	7929	552	0
-Dhaneli	2862	7927	342	0
+Dhaneli	2862	7927	342	0	Dhallia
 Dhaneta	2853	7927	342	0
 Dhanua	2860	7942	342	0
 Dandia	2875	7942	342	0
@@ -4385,7 +4385,7 @@ Dhangaon	2411	8436	701	0
 Dhangardih	2424	8440	701	0
 Dandār Kalān	2407	8445	701	0
 Dandār Khurd	2406	8443	701	0
-Dhanahi	2492	8452	137	0
+Dhanahi	2492	8452	137	0	Narhi Pirhai
 Danāi	2484	8456	137	0
 Dhanuk Bigha	2491	8473	118	0
 Dhanāwān	2476	8470	137	0
@@ -4976,7 +4976,7 @@ Dānrtoli	2280	8486	321	0
 Dānrtoli	2288	8488	321	0
 Dānrtoli	2294	8491	321	0
 Dāndtoli	2293	8494	321	0
-Dānrkoili	2286	8489	321	0
+Dānrkoili	2286	8489	321	0	Chhotkoili
 Dhānotoli	2288	8497	321	0
 Dānrtoli	2290	8499	432	0
 Dāndtoli	2261	8485	495	0

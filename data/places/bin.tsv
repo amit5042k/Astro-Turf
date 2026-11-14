@@ -1,16 +1,16 @@
 Bhind	2657	7879	334	197585
 Bīna	2417	7819	352	64529
-Bina Railway Colony	2417	7819	352	64529
-Bina-Etawa	2418	7820	352	55185
+Bina Railway Colony	2417	7819	352	64529	Bīna
+Bina-Etawa	2418	7820	352	55185	Etāwa
 Bhīnmāl	2500	7227	343	47932
 Bindki	2604	8058	728	36058
 Bhinga	2770	8193	618	22016
 Bhindār	2450	7419	22	17878
 Binika	2103	8381	308	15765
-Binka	2103	8381	308	15765
+Binka	2103	8381	308	15765	Binika
 Bina	2608	8663	426	15633
-Bindhachal	2516	8251	201	0
-Chak Bindā	2537	8211	607	0
+Bindhachal	2516	8251	201	0	Vindhyāchal
+Chak Bindā	2537	8211	607	0	Saidābād
 Bīnāganj	2419	7703	336	0
 Bināvās	2596	7299	344	0
 Binusuli	1904	8230	349	0
@@ -25,23 +25,23 @@ Binnāguri	2665	8847	602	0
 Binjorai	2649	7121	217	0
 Binjhārpur	2073	8640	376	0
 Bīnjbāyla	2965	7379	374	0
-Bīnjbāīla	2965	7379	374	0
+Bīnjbāīla	2965	7379	374	0	Bīnjbāyla
 Bīnjāsar	2827	7387	307	0
 Bīnjhāsar	2528	7082	285	0
 Binia	2278	8309	725	0
 Bini	2767	9416	761	0
 Binge	1478	7413	59	0
-Bingi	1478	7413	59	0
+Bingi	1478	7413	59	0	Binge
 Binewāl	3129	7625	296	0
 Bindūla	2778	9379	39	0
 Bindukuri	2672	9272	356	0
 Bindra Nawāgarh	2048	8218	297	0
 Bindrāban	1172	9267	105	0
 Bindola	2577	8818	610	0
-Bindole	2577	8818	610	0
-Bindol	2577	8818	610	0
+Bindole	2577	8818	610	0	Bindola
+Bindol	2577	8818	610	0	Bindola
 Bindiganavale	1288	7663	94	0
-Bindigaravale	1288	7663	94	0
+Bindigaravale	1288	7663	94	0	Bindiganavale
 Bind	2530	8569	514	0
 Bīnāwās	2628	7337	344	0
 Bināwar	2813	7923	117	0
@@ -49,9 +49,9 @@ Binaur	2639	8015	469	0
 Binauli	2909	7740	477	0
 Binakanahalli	1167	7712	211	0
 Bhinwāliya	2557	7349	273	0
-Bhinwālia	2557	7349	273	0
+Bhinwālia	2557	7349	273	0	Bhinwāliya
 Bhindūsi	2789	7678	482	0
-Bhindosi	2789	7678	482	0
+Bhindosi	2789	7678	482	0	Bhindūsi
 Bhindar	3153	7519	222	0
 Bhinār	2082	7333	221	0
 Bhinai	2605	7477	446	0
@@ -59,15 +59,15 @@ Bhinlauri	2586	7746	436	0
 Bīnol	2516	7395	572	0
 Bināsar	2826	7487	539	0
 Bindiyāla	2883	7483	539	0
-Bindāla	2883	7483	539	0
+Bindāla	2883	7483	539	0	Bindiyāla
 Bīnjhaul	2936	7694	298	0
 Binu	3120	7703	479	0
 Bīni Jamargadi	2979	7856	612	0
 Bintala	2977	7873	612	0
 Binnypete	1297	7756	43	0
 Binny Mills	1297	7757	43	0
-Bindāvan	2809	7555	300	0
-Bindrāban	2809	7555	300	0
+Bindāvan	2809	7555	300	0	Brindāvan
+Bindrāban	2809	7555	300	0	Brindāvan
 Binjal	3014	7662	564	0
 Binat	3006	7697	501	0
 Bindāri	2504	7877	481	0
@@ -83,7 +83,7 @@ Bina	2697	7915	290	0
 Bīndesingh ka Pura	2645	7913	290	0
 Bindwa Khurd	2648	7907	290	0
 Binaika	2692	7566	121	0
-Bindāyaka	2692	7566	121	0
+Bindāyaka	2692	7566	121	0	Binaika
 Binaura	2612	7947	741	0
 Binārīpur	2679	7968	715	0
 Binnai	2409	7913	352	0
@@ -99,7 +99,7 @@ Bingilpur	3443	7452	120	0
 Bindrāla	2949	7658	457	0
 Binaula	2830	7687	630	0
 Bin	3173	7701	278	0
-Binja	2958	7543	443	0
+Binja	2958	7543	443	0	Dhāni Bhejha Dhaka
 Bindrāban	2856	7606	781	0
 Bīnjhpur	2800	7634	482	0
 Bindi	3333	7437	504	0
@@ -246,7 +246,7 @@ Bin Purwa	2522	8321	724	0
 Bhindāra	2642	7879	334	0
 Bineka	2295	7765	338	0
 Bineka	2290	7791	675	0
-Bīn Purwa	2556	8325	26	0
+Bīn Purwa	2556	8325	26	0	Jīhan Chak
 Bīndrāban	2572	8334	26	0
 Bindpura	2557	8343	26	0
 Bindpura	2555	8343	26	0
@@ -328,7 +328,7 @@ Bhinauli	2690	8125	30	0
 Binwān	2694	8122	30	0
 Bindawa	2665	8100	714	0
 Binākhi	2150	7988	404	0
-Binjharia	2635	8107	681	0
+Binjharia	2635	8107	681	0	Thagpura
 Binda Purwa	2626	8137	662	0
 Purwa Bindha	2650	8182	597	0
 Purwa Bindha Singh	2648	8178	597	0
@@ -352,7 +352,7 @@ Binnāwān	2606	8117	681	0
 Binohra	2619	8120	681	0
 Pura Bindh	2617	8121	681	0
 Pura Binda Ahir	2609	8105	681	0
-Binna	2607	8111	681	0
+Binna	2607	8111	681	0	Pura Lāl Sāhib
 Bindrāban	2695	8176	542	0
 Purwa Binda	2607	8175	718	0
 Purwa Bindha	2606	8180	662	0
@@ -808,7 +808,7 @@ Bhingodih	2441	8587	452	0
 Bindhania	2431	8586	473	0
 Bin	2598	8637	591	0
 Bindli	2460	8616	524	0
-Binjhi	2474	8632	524	0
+Binjhi	2474	8632	524	0	Katihāri
 Binjhi	2463	8631	524	0
 Binjha	2448	8640	524	0
 Bindpur	2121	8469	567	0

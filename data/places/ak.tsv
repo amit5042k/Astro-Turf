@@ -1,15 +1,15 @@
 Akola	2071	7700	172	428857
-Akula	2071	7700	172	428857
+Akula	2071	7700	172	428857	Akola
 Akot	2110	7706	172	92637
 Akkarampalle	1365	7942	45	44219
 Akivīdu	1658	8138	318	40413
 Akalkot	1753	7621	132	40103
 Aklūj	1789	7502	132	39972
-Aklūi	1789	7502	132	39972
+Aklūi	1789	7502	132	39972	Aklūj
 Akbarpur	2643	8253	553	36865
-Mīrānpur Akbarpur	2643	8253	553	36865
+Mīrānpur Akbarpur	2643	8253	553	36865	Akbarpur
 Aklera	2441	7657	333	26240
-Akera	2441	7657	333	26240
+Akera	2441	7657	333	26240	Aklera
 Akaltara	2202	8243	696	22712
 Akhnūr	3290	7473	581	20756
 Akbarpur	2638	7995	671	18835
@@ -18,10 +18,10 @@ Sarāi Ākil	2538	8151	651	17443
 Akoda	2653	7890	334	12534
 Akodia	2338	7660	320	11652
 Ākera	2701	7581	121	9062
-Akedadoongar	2701	7581	121	9062
+Akedadoongar	2701	7581	121	9062	Ākera
 Akālgarh	3076	7565	674	7678
 Akaira	2823	7685	519	7110
-Aakera	2823	7685	519	7110
+Aakera	2823	7685	519	7110	Akaira
 Akālgarh	2982	7589	593	6993
 Aquem	1526	7399	102	6511
 Akdoni Khurd	2416	8628	452	6321
@@ -31,7 +31,7 @@ Akalpur	3105	7576	369	1997
 Akasahebpet	1750	8257	227	1500
 Akbarpur Kalān	3104	7541	369	939
 Akbarpur Khurd	3105	7541	369	266
-Akbarpur	3137	7514	260	0
+Akbarpur	3137	7514	260	0	Govindwāl
 Aqilwāla	2783	7176	217	0
 Aksāpur	1976	7963	111	0
 Akrund	2329	7313	125	0
@@ -39,20 +39,20 @@ Akrund	2329	7313	125	0
 Akrābād	2781	7827	543	0
 Akoti	2117	7319	139	0
 Akoriya	2635	7503	446	0
-Akoria	2635	7503	446	0
+Akoria	2635	7503	446	0	Akoriya
 Akorhi	2518	8245	201	0
 Akorha	2477	8418	137	0
-Akorhi	2477	8418	137	0
+Akorhi	2477	8418	137	0	Akorha
 Akora	2559	7119	285	0
 Akolner	1899	7466	152	0
 Akolin	2880	9593	427	0
 Akolya	2261	7566	130	0
-Akolia	2261	7566	130	0
+Akolia	2261	7566	130	0	Akolya
 Akolda	2142	7148	216	0
 Akola	2527	7488	309	0
 Akola	2476	7420	417	0
 Akola Bāzār	2017	7815	67	0
-Akola	2017	7815	67	0
+Akola	2017	7815	67	0	Akola Bāzār
 Akola	1954	7401	152	0
 Akola	1798	7524	132	0
 Akodha	2524	8189	607	0
@@ -60,16 +60,16 @@ Aklvidu	1658	8138	318	0
 Ākli	2572	7028	285	0
 Akla	2702	7342	430	0
 Akkivaram	1838	8414	472	0
-Akkuvaram	1838	8414	472	0
+Akkuvaram	1838	8414	472	0	Akkivaram
 Akkihebbāl	1261	7640	94	0
 Akkaraivādi	1090	7984	455	0
 Akkammāpettai	1148	7788	51	0
 Akhegwo	2572	9468	9	0
 Akha	2829	7935	342	0
 Akera Chhota	1962	8030	135	0
-Akera	1962	8030	135	0
+Akera	1962	8030	135	0	Akera Chhota
 Akbarpur Aunchha	2732	7882	464	0
-Akbarpur	2773	7774	177	0
+Akbarpur	2773	7774	177	0	Taintīgaon
 Akbarpur	2745	7653	482	0
 Akbarpur	2627	7818	484	0
 Akbarpur	2602	7969	741	0
@@ -80,7 +80,7 @@ Akarpati	1982	7267	192	0
 Akalsia	3014	7762	449	0
 Akājhīrī	2514	7785	436	0
 Akadia	2210	7145	174	0
-Ákria	2210	7145	174	0
+Ákria	2210	7145	174	0	Akadia
 Akadia	2165	7110	216	0
 Āknāpur	2290	8805	279	0
 Akhipur	2264	8881	450	0
@@ -94,19 +94,19 @@ Akbarpur	2974	7729	449	0
 Aktāsa	2532	7573	353	0
 Akoliya	2561	7565	353	0
 Aklor	2556	7553	353	0
-Akior	2556	7553	353	0
+Akior	2556	7553	353	0	Aklor
 Ākoda	2553	7566	353	0
 Akoria	2584	7554	313	0
 Ākoria	2582	7569	313	0
 Akhori	2996	7862	612	0
-Akra	2988	7851	612	0
+Akra	2988	7851	612	0	Pathur
 Akhrena	2978	7866	612	0
 Akunpalli	1709	7839	62	0
 Akāram	1782	7874	466	0
 Akhārjapet	1764	7855	311	0
 Akkipette	1297	7757	43	0
 Āka ki Dhāni	2823	7563	300	0
-Dhāni Āka	2823	7563	300	0
+Dhāni Āka	2823	7563	300	0	Āka ki Dhāni
 Akālgarh	3056	7622	564	0
 Akbarpur Afghān	3014	7652	564	0
 Akbarpur	3020	7656	564	0
@@ -123,7 +123,7 @@ Akbarpur	2685	7908	290	0
 Akbarpur	2631	7920	741	0
 Akbarpur	2630	7950	741	0
 Ākorhi	2610	7937	741	0
-Akothiya	2670	7992	671	0
+Akothiya	2670	7992	671	0	Udaipur
 Ākla Thal	2762	7169	217	0
 Ākli ki Dhāni	2743	7193	344	0
 Aksiguri	2632	8986	561	0
@@ -144,10 +144,10 @@ Akbarpur	2816	7658	519	0
 Biswār Akbarpur	2830	7695	544	0
 Akaira	2801	7700	544	0
 Talwandi Aklia	2994	7527	709	0
-Akkānwāli	2987	7542	709	0
+Akkānwāli	2987	7542	709	0	Karanpur
 Akanwāli	2953	7539	443	0
 Akkānwāli	2968	7578	443	0
-Akbarpur	2949	7587	339	0
+Akbarpur	2949	7587	339	0	Bheri
 Akbarpur	3047	7709	691	0
 Akālgarh	3015	7703	691	0
 Akbarpur	3014	7719	88	0
@@ -162,7 +162,7 @@ Akhara	3197	7711	680	0
 Akoda	2973	7803	596	0
 Akbarpur Ūdh	2975	7806	596	0
 Akaudha Mukaramatpur	2972	7806	596	0
-Akbarpur	2953	7817	575	0
+Akbarpur	2953	7817	575	0	Angākheri
 Akhaipur	2669	7618	708	0
 Ākodiya	2646	7659	116	0
 Ākhāwāra	2676	7689	447	0
@@ -175,7 +175,7 @@ Akbarpur	2969	7771	449	0
 Akola	2296	7819	338	0
 Akola	2275	7825	590	0
 Ākhatwāda	2101	7811	133	0
-Muhammad Akbarpur	2907	7754	700	0
+Muhammad Akbarpur	2907	7754	700	0	Rāsna
 Akhīpur	2922	7763	700	0
 Akalpura	2925	7761	700	0
 Akhtiārpur	2914	7774	700	0
@@ -185,7 +185,7 @@ Akoladar	2429	7332	22	0
 Akhiwāra	2412	7347	22	0
 Aklia	3052	7516	563	0
 Akot	2410	7352	22	0
-Akālgarh	3006	7503	563	0
+Akālgarh	3006	7503	563	0	Jiwan Singhwāla
 Ako Shāhwāla	3099	7530	499	0
 Bīr Akhāra	3076	7548	674	0
 Akhāra	3075	7549	674	0
@@ -197,13 +197,13 @@ Phulās Akbarpur	2967	7775	449	0
 Akhlākpura	2932	7784	545	0
 Akbarpur Bārota	2891	7707	485	0
 Akbarpur Mājra	2884	7718	769	0
-Akbarpur	2863	7741	727	0
+Akbarpur	2863	7741	727	0	Behrāmpur
 Nagla Akkhu	2887	7750	727	0
 Akbarpur	2838	7748	774	0
 Ākalpur	2862	7757	588	0
 Bhīl Akbarpur	2851	7759	588	0
 Bhīl Akbarpur	2852	7760	588	0
-Akīlpur	2873	7759	727	0
+Akīlpur	2873	7759	727	0	Karīmnagar Kathiyāra
 Akhtiārpur	2826	7775	637	0
 Aklia Khurd	3036	7488	563	0
 Aklia Kalān	3037	7489	563	0
@@ -214,7 +214,7 @@ Akodra	2471	7407	22	0
 Ākora	2710	7572	121	0
 Akhepura	2556	7508	309	0
 Akoi	3028	7584	593	0
-Akālgarh	3015	7583	593	0
+Akālgarh	3015	7583	593	0	Faizgarh Hakimwāla
 Akbarpur Thaska	2909	7717	477	0
 Akhrāni	3030	7816	448	0
 Ākānagar	2892	7915	552	0
@@ -244,13 +244,13 @@ Akālgarh	3094	7627	674	0
 Ākar	3045	7647	564	0
 Ākri	3045	7648	564	0
 Akrāwat	2794	7796	543	0
-Akbarpur	2785	7797	543	0
+Akbarpur	2785	7797	543	0	Barāgaon
 Akāta	2767	7732	114	0
 Akbarpur	2769	7731	114	0
 Akālgarh	3023	7641	564	0
 Akbarpur	3095	7657	735	0
 Akālgarh	3091	7658	735	0
-Akālgarh	3086	7661	632	0
+Akālgarh	3086	7661	632	0	Dhogtāna
 Akbarpur	3080	7654	735	0
 Akbarpur	3033	7661	564	0
 Akola	1856	7636	33	0
@@ -353,7 +353,7 @@ Pimpri Akārānt	2103	7610	78	0
 Akbarpur	2714	7955	570	0
 Akramābād	2703	7965	570	0
 Akhtyārnagar	2786	7982	470	0
-Akhnaura	2786	7982	470	0
+Akhnaura	2786	7982	470	0	Akhtyārnagar
 Akarra Rasūlpur	2784	7988	470	0
 Binaika Akbarpur	2744	7988	686	0
 Malwa Akhbelpur	2735	7995	686	0
@@ -463,7 +463,7 @@ Akola Kalān	2135	7962	404	0
 Akolātola	2134	7962	404	0
 Akchhor	2467	8311	103	0
 Akelwa	2457	8308	103	0
-Akraur	2461	8311	103	0
+Akraur	2461	8311	103	0	Bīranchuān
 Akkilawātola	2418	8339	743	0
 Akilwātola	2407	8341	341	0
 Akelwātola	2404	8341	341	0
@@ -514,7 +514,7 @@ Akrābād	2760	7929	688	0
 Akla	2480	8041	532	0
 Akhaua	2590	8218	718	0
 Akona	2457	8066	324	0
-Akbar	2579	8268	32	0
+Akbar	2579	8268	32	0	Jagdīshpur
 Akola	2305	7936	522	0
 Akona	2448	8020	532	0
 Akhaona	2470	8090	324	0
@@ -597,7 +597,7 @@ Akbarganj	2659	8136	30	0
 Akbarpur	2666	8141	30	0
 Akbarpur	2664	8140	30	0
 Akbarganj	2653	8147	662	0
-Akbarpur Āsa	2918	7851	575	0
+Akbarpur Āsa	2918	7851	575	0	Harauli
 Akbarpur	2909	7865	511	0
 Akahi	2441	8080	324	0
 Akaha	2442	8081	324	0
@@ -715,8 +715,8 @@ Aksahwa	2663	8283	154	0
 Akela	2664	8292	154	0
 Akbarpur	2585	8343	586	0
 Akbelpur	2628	8290	498	0
-Akbarpur	2606	8280	498	0
-Akbarpur	2604	8278	498	0
+Akbarpur	2606	8280	498	0	Chak Lahsua
+Akbarpur	2604	8278	498	0	Chak Karta
 Akola Gojha	2622	8297	498	0
 Akolhi	2703	8301	292	0
 Akolhi	2705	8303	292	0
@@ -794,7 +794,7 @@ Akbarpura	3128	7475	260	0
 Aktāi	2090	8147	286	0
 Akalwāra	2074	8146	668	0
 Aklādongri	2052	8145	652	0
-Akke	3099	7460	566	0
+Akke	3099	7460	566	0	Dulchike
 Masteke Akko	3100	7471	566	0
 Akalpurtolā	2207	8082	144	0
 Akalpur	2208	8083	144	0
@@ -966,7 +966,7 @@ Akurha	2534	8455	377	0
 Akhgaon	2548	8474	377	0
 Akbarpur	2526	8473	604	0
 Akrāwās	2571	7349	273	0
-Akra	2549	7368	273	0
+Akra	2549	7368	273	0	Asāpura
 Akhairāj ka Gūrha	2538	7351	273	0
 Akran ka Gūrha	2535	7362	273	0
 Akhoria	2984	7939	429	0
@@ -1020,7 +1020,7 @@ Akbari	2813	7970	470	0
 Akola	2580	8412	536	0
 Akhaini	2594	8409	536	0
 Akhār	2577	8421	536	0
-Akbarganj Simra	2837	7981	683	0
+Akbarganj Simra	2837	7981	683	0	Simra
 Akalupur	2556	8417	620	0
 Akbarābād	2829	7988	683	0
 Akodha	2835	7991	683	0
@@ -1038,7 +1038,7 @@ Akraura	2542	8413	620	0
 Akorha	2536	8418	409	0
 Akhaurī Dumī	2405	8420	701	0
 Akhaurī Pathrā	2404	8423	701	0
-Akhaurididrī	2407	8423	701	0
+Akhaurididrī	2407	8423	701	0	Shukuldidrī
 Akorhi	2518	8402	409	0
 Akāsi	2501	8405	409	0
 Akrahiya	2511	8415	409	0
@@ -1081,7 +1081,7 @@ Akkalikatte	1408	7592	275	0
 Akkalāpura	1381	7529	346	0
 Akkitumbakallu	1342	7559	98	0
 Akualganj	2523	8554	514	0
-Akbarpur	2512	8552	514	0
+Akbarpur	2512	8552	514	0	Kichaniāpur
 Akbarpur	2521	8562	514	0
 Akbar Bigha	2517	8570	690	0
 Aklapalli	1924	7954	91	0

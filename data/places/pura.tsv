@@ -1,5 +1,5 @@
-Dallo Pura	2861	7732	794	154791
-Sri Vijaya Puram	1167	9275	105	112050
+Dallo Pura	2861	7732	794	154791	Dalūpura
+Sri Vijaya Puram	1167	9275	105	112050	Port Blair
 Pūranpur	2851	8015	683	39988
 Shafi Pur Ranhola	2866	7704	771	31944
 Purāini	2514	8698	411	30829
@@ -7,38 +7,38 @@ Bagha Purana	3069	7510	499	25206
 Puranattukara	1055	7615	241	10655
 Kargahiā Purab	2679	8453	476	9995
 Puravachcheri	1076	7982	239	4422
-Purana Daroorh	3298	7494	666	675
+Purana Daroorh	3298	7494	666	675	Kun Daroriān
 Pura Bāku Goshāin	2667	8169	629	331
 Vānivilāsa Puram	1233	7663	74	0
 Purāna Sohajrāsar	2834	7376	307	0
 Purasawalkam	1308	8025	204	0
-Purasavakam	1308	8025	204	0
+Purasavakam	1308	8025	204	0	Purasawalkam
 Pūras	2072	7682	172	0
 Pura Raghunāthpur	2546	8285	251	0
-Pura Raghunāth	2546	8285	251	0
+Pura Raghunāth	2546	8285	251	0	Pura Raghunāthpur
 Purānigudām	2638	9280	656	0
 Pūrangad	1681	7332	234	0
-Pūrangarh	1681	7332	234	0
+Pūrangarh	1681	7332	234	0	Pūrangad
 Purandhar	1828	7398	52	0
 Purandarpur Sonbārsa	2720	8336	515	0
-Purandarpur	2720	8336	515	0
+Purandarpur	2720	8336	515	0	Purandarpur Sonbārsa
 Purandarpur	2386	8758	361	0
 Purāna Kohdār	2515	8198	607	0
-Purāna Khondār	2515	8198	607	0
+Purāna Khondār	2515	8198	607	0	Purāna Kohdār
 Pura Mufti	2548	8167	607	0
 Pural	1646	7338	213	0
 Puraini	2939	7845	575	0
 Puraina	2431	7997	532	0
 Pura	2596	7699	335	0
-Puranadhishthana	3405	7487	611	0
+Puranadhishthana	3405	7487	611	0	Pāndrethan
 Narasimharaja Puram	1232	7666	74	0
 Chāmundi Puram	1227	7668	74	0
-Chamundy Puram	1227	7668	74	0
+Chamundy Puram	1227	7668	74	0	Chāmundi Puram
 Purandarpur	2188	8822	4	0
 Purāsh	2268	8805	354	0
 Purāna Hamīrpur	3277	7455	581	0
-Chhanni Pura	3270	7489	581	0
-Purāni Nandni	3271	7481	581	0
+Chhanni Pura	3270	7489	581	0	Chhauni Rama
+Purāni Nandni	3271	7481	581	0	Nandni
 Purāni Mandi	2803	7610	694	0
 Purangarhi	2992	7864	612	0
 Purānkot	2983	7858	612	0
@@ -53,7 +53,7 @@ Puraini	2790	7935	117	0
 Pūran Nagla	2778	7943	470	0
 Puraiya	2720	7932	464	0
 Pura Rohan	2722	7984	686	0
-Bharthana Purāna	2676	7922	290	0
+Bharthana Purāna	2676	7922	290	0	Bharthana
 Dalaiyan ka Pura	2650	7902	334	0
 Pura Rora	2647	7903	334	0
 Dhānuk ka Pura	2646	7904	334	0
@@ -66,12 +66,12 @@ Goli ka Pura	2641	7911	334	0
 Lallu ka Pura	2635	7911	334	0
 Pura Lodhiān	2637	7905	334	0
 Pura Deoji	2632	7908	334	0
-Deoju ka Pura	2632	7908	334	0
+Deoju ka Pura	2632	7908	334	0	Pura Deoji
 Pura Antian	2626	7904	334	0
-Antian ka Pura	2626	7904	334	0
+Antian ka Pura	2626	7904	334	0	Pura Antian
 Lain ka Pura	2628	7900	334	0
 Manai Ka Pura	2649	7910	290	0
-Manal ka Pura	2649	7910	290	0
+Manal ka Pura	2649	7910	290	0	Manai Ka Pura
 Kunwān Puran	2649	7913	290	0
 Jarhan ka Pura	2646	7909	290	0
 Manse ka Pura	2646	7911	290	0
@@ -95,7 +95,7 @@ Purainiyān	2496	7928	481	0
 Purainiyān	2478	7929	481	0
 Prem Pura Village	2691	7576	121	0
 Puraini	2606	8708	426	0
-Kalyānpura Purahitān	2836	7448	539	0
+Kalyānpura Purahitān	2836	7448	539	0	Kalyānpura Purohitān
 Purandarpur	2621	8460	639	0
 Madan Pura	2654	7866	334	0
 Pura	2632	7882	334	0
@@ -105,7 +105,7 @@ Dulia Puranimelia	2687	9453	520	0
 Puragni	3164	7719	278	0
 Pūranpura	2876	7618	431	0
 Purāna Dhāra	3456	7408	0	0
-Patti Puran	3039	7413	3	0
+Patti Puran	3039	7413	3	0	Banwāla
 Bundāla Purāna	3095	7498	566	0
 Mahyānwāla Purana	3094	7495	566	0
 Purāni Chāti	3146	7765	680	0
@@ -163,7 +163,7 @@ Chand Purāna	3075	7510	499	0
 Langiāna Purāna	3072	7502	499	0
 Purānewāla	3083	7528	499	0
 Purāin	3092	7562	674	0
-Purana Qlla	2861	7724	721	0
+Purana Qlla	2861	7724	721	0	Indraprasiha
 Puranpur	2880	7739	477	0
 Pura	2900	7746	477	0
 Purawali	2941	7496	585	0
@@ -286,7 +286,7 @@ Ratna ka Pura	2645	7792	478	0
 Sethwāri ka Pura	2645	7791	478	0
 Teja Jātav ka Pura	2645	7794	478	0
 Sītārām ka Pura	2645	7795	478	0
-Sawāi Ka Pura	2646	7795	478	0
+Sawāi Ka Pura	2646	7795	478	0	Sahrāna Majruwa
 Murena ka Pura	2647	7794	478	0
 Longat ka Pura	2649	7788	478	0
 Ramja ka Pura	2648	7793	478	0
@@ -304,7 +304,7 @@ Dhamsa ka Pura	2643	7834	334	0
 Raghunāthsingh ka Pura	2643	7837	334	0
 Pārth ka Pura	2640	7827	478	0
 Latkan ka Pura	2641	7831	334	0
-Ghaintran ka Pura	2638	7836	334	0
+Ghaintran ka Pura	2638	7836	334	0	Chak Mādhopur
 Chauki ka Pura	2638	7836	334	0
 Ikehra ka Pura	2639	7833	334	0
 Khumān ka Pura	2638	7830	334	0
@@ -532,7 +532,7 @@ Sāryān ka Pura	2647	7702	447	0
 Bhangi ka Pura	2643	7704	447	0
 Bhalli ka Pura	2642	7702	447	0
 Barothe ka Pura	2627	7701	447	0
-Bīch ka Pura	2627	7701	447	0
+Bīch ka Pura	2627	7701	447	0	Barothe ka Pura
 Mohni ka Pura	2627	7710	447	0
 Pura Rāma	2634	7710	447	0
 Pāt ka Pura	2637	7714	447	0
@@ -608,7 +608,7 @@ Birja ka Pura	2640	7751	478	0
 Parohat ka Pura	2638	7753	478	0
 Gurja ka Pura	2637	7752	478	0
 Purahitan ka Pura	2637	7753	478	0
-Pachpent ka Pura	2639	7758	478	0
+Pachpent ka Pura	2639	7758	478	0	Gulābpura
 Shamlal ka Pura	2640	7764	478	0
 Jagua ka Pura	2638	7767	478	0
 Narpāisingh ka Pura	2639	7773	478	0
@@ -778,7 +778,7 @@ Kirwāre ka Pura	2588	7723	335	0
 Galthuni ka Pura	2540	7722	436	0
 Samādhi ka Pura	2598	7730	335	0
 Jawāri ka Pura	2598	7732	335	0
-Māna ka Pura	2590	7748	335	0
+Māna ka Pura	2590	7748	335	0	Rāmpura
 Puranpur	2739	7969	688	0
 Pūra Bhoj	2714	7962	570	0
 Pūran Nagla	2715	7960	570	0
@@ -789,14 +789,14 @@ Gadaria ka Pura	2558	7758	436	0
 Purāya	2798	7979	470	0
 Purāsan	2794	7984	470	0
 Pūranpura	2176	7656	209	0
-Pūranpura	2175	7655	209	0
+Pūranpura	2175	7655	209	0	Teri Imli
 Pūranpur	2738	7976	686	0
 Pura Ratan	2727	7978	686	0
 Pura Chheda	2750	7985	686	0
 Purauri	2741	7993	686	0
 Purabdhana	2544	7757	436	0
 Pūrankheri	2518	7760	436	0
-Purānīganj	2414	7708	336	0
+Purānīganj	2414	7708	336	0	Rāmsinghpura Khurd
 Pura Lakhanwās	2414	7710	336	0
 Pura Kishan	2403	7722	336	0
 Pura Thukri	2403	7723	336	0
@@ -825,7 +825,7 @@ Pura Harīkishan	2702	7835	546	0
 Pura Sadli	2702	7832	546	0
 Pura Jhumakrāi	2700	7829	546	0
 Adoli Ka Pura	2702	7847	403	0
-Pūran Purwa	2673	7972	671	0
+Pūran Purwa	2673	7972	671	0	Sehu
 Pūra Khurd	2670	7967	715	0
 Purāna Purwa	2671	7955	715	0
 Pura	2669	7969	715	0
@@ -868,7 +868,7 @@ Nānhu ka Pura	2562	8220	32	0
 Pura Zorawarsingh	2561	8224	32	0
 Sawāhi ka Pura	2561	8224	32	0
 Purālāl	2561	8223	32	0
-Chera ka Pura	2559	8219	32	0
+Chera ka Pura	2559	8219	32	0	Bangaon
 Sukul ka Pura	2559	8214	607	0
 Pūranpur	2559	8202	607	0
 Pura Sudi	2554	8201	607	0
@@ -911,7 +911,7 @@ Pura Dhaunr	2686	7807	622	0
 Nāndauli ka Pura	2688	7808	622	0
 Pura Ām	2686	7810	622	0
 Pura Gadaria	2687	7811	622	0
-Pura Mahājīt	2688	7812	622	0
+Pura Mahājīt	2688	7812	622	0	Khānpura Chamarpura
 Pura Chamāran	2686	7812	622	0
 Somli ka Pura	2689	7812	622	0
 Mahuwan ka Pura	2686	7813	622	0
@@ -1046,13 +1046,13 @@ Pura	2340	7780	338	0
 Bājūrām Ka Pura	2573	8306	498	0
 Chawār Purab	2572	8300	498	0
 Dube Ka Pura	2563	8305	32	0
-Uttar Ka Pura	2563	8302	32	0
+Uttar Ka Pura	2563	8302	32	0	Kachhwan
 Pūranpur	2560	8301	32	0
 Pura Rāiji	2556	8302	251	0
 Purānīpatti	2550	8304	251	0
 Dāni Ka Pura	2567	8308	498	0
 Pura Agandh	2569	8314	498	0
-Pānde Ka Pura	2569	8314	498	0
+Pānde Ka Pura	2569	8314	498	0	Pura Agandh
 Uttarwāla Pura	2566	8320	26	0
 Pura Dhurshāh	2553	8305	251	0
 Kariyanarwa Ka Pura	2474	7963	663	0
@@ -1092,7 +1092,7 @@ Pura Malh	2692	7830	546	0
 Pura Ochh	2692	7831	546	0
 Pura Mallāh	2691	7830	546	0
 Pura Amarsingh	2691	7833	546	0
-Pura Jhorian	2693	7835	546	0
+Pura Jhorian	2693	7835	546	0	Kherdānda
 Pura Gujja	2691	7837	546	0
 Pura Jaichand	2692	7837	546	0
 Pura Maddān	2692	7837	546	0
@@ -1149,7 +1149,7 @@ Bāgh ka Pura	2677	7826	478	0
 Koksingh ka Pura	2677	7826	478	0
 Pura Arbi	2676	7825	478	0
 Pura Gujran	2675	7826	478	0
-Kyāri ka Pura	2675	7826	478	0
+Kyāri ka Pura	2675	7826	478	0	Pura Gujran
 Pandit Ka Pura	2678	7827	478	0
 Pura Maulusingh	2545	8304	251	0
 Puranpatti	2542	8306	251	0
@@ -1289,7 +1289,7 @@ Vishene ka Pura	2640	7894	334	0
 Purābhīmnagar	2639	7888	334	0
 Moharsingh ka Pura	2637	7880	334	0
 Raghu ka Pura	2638	7895	334	0
-Pura Ahīrān	2635	7890	334	0
+Pura Ahīrān	2635	7890	334	0	Kāshīpura
 Pura	2510	7804	436	0
 Purāna Sārmau	2553	7848	433	0
 Naulīpatti Pūrab	2544	8341	724	0
@@ -1502,7 +1502,7 @@ Chhatri ka Pura	2519	8232	201	0
 Pati ka Pura	2518	8233	201	0
 Rājkumār ka Pura	2517	8231	201	0
 Jurāwan ka Pura	2517	8231	201	0
-Chhabināth ka Pura	2516	8228	201	0
+Chhabināth ka Pura	2516	8228	201	0	Chehra Arāzi
 Tiwāri ka Pura	2515	8230	607	0
 Nāu ka Pura	2515	8230	201	0
 Pura Bariār	2512	8227	607	0
@@ -1628,7 +1628,7 @@ Barhiā Pura	2552	8239	32	0
 Balī Pura	2552	8237	32	0
 Audan Pura	2551	8236	32	0
 Pura Jai Singh	2552	8231	607	0
-Saidpur Purāhi	2669	8081	714	0
+Saidpur Purāhi	2669	8081	714	0	Ahmad Khera
 Puraurah	2661	8080	312	0
 Kalli Purab	2672	8095	714	0
 Parwar Purab	2668	8095	714	0
@@ -3550,7 +3550,7 @@ Pura Chheda Mīān	2671	8137	30	0
 Tandwa Purab	2672	8141	30	0
 Pura Pandit	2675	8137	30	0
 Saidpur Purai	2675	8139	30	0
-Purai Chandarman	2675	8139	30	0
+Purai Chandarman	2675	8139	30	0	Saidpur Purai
 Pura Chandarman	2668	8143	30	0
 Pūranpur	2909	7857	575	0
 Pūranpur	2930	7878	641	0
@@ -5502,7 +5502,7 @@ Pura Zabar Singh	2655	8164	662	0
 Pura Kāzi	2655	8163	662	0
 Pura Hinsit Tiwāri	2656	8165	662	0
 Pura Lāla	2656	8166	662	0
-Pura Dipchand	2656	8166	662	0
+Pura Dipchand	2656	8166	662	0	Pura Lāla
 Pura Paturia	2655	8165	662	0
 Pura Gobre Pāsi	2655	8164	662	0
 Pura Fateh Singh	2655	8163	662	0
@@ -5524,7 +5524,7 @@ Pura Shankar	2650	8171	662	0
 Pura Naya	2651	8171	662	0
 Pura Rām Dās	2651	8172	662	0
 Pura Mānjha	2651	8172	662	0
-Pura Dirgaj Singh	2651	8172	662	0
+Pura Dirgaj Singh	2651	8172	662	0	Kot
 Pura Fakīri	2652	8173	662	0
 Pura Shiuratan Singh	2651	8172	662	0
 Pura Bhagwani Singh	2650	8173	662	0
@@ -7059,7 +7059,7 @@ Pura Newal	2723	8216	542	0
 Pura Dān Singh	2723	8218	542	0
 Pura Hanumān Singh	2723	8219	542	0
 Pura Bhagaria	2723	8219	542	0
-Pura Daljīt Bankat	2724	8219	542	0
+Pura Daljīt Bankat	2724	8219	542	0	Sīr Bankat Bāzār
 Pura Khatīk	2724	8220	542	0
 Pura Chandi	2724	8220	542	0
 Pura Jokhan	2725	8221	542	0
@@ -8326,7 +8326,7 @@ Pura Sāgar	2644	8212	597	0
 Pāli Pūrab	2645	8216	629	0
 Neonān Pūrab	2649	8217	629	0
 Pura Manohar	2642	8220	629	0
-Pura Baurāh	2642	8220	629	0
+Pura Baurāh	2642	8220	629	0	Pura Manohar
 Purwa Purai	2635	8222	597	0
 Pura Patai	2643	8208	597	0
 Purauna	2645	8225	629	0
@@ -9997,7 +9997,7 @@ Pura Chhīmi	2597	8171	718	0
 Pura Makan Itāwari	2594	8175	718	0
 Pura Jīwan	2594	8173	718	0
 Pura Dīnānāth	2594	8172	718	0
-Pura Sarnāmsingh	2600	8165	718	0
+Pura Sarnāmsingh	2600	8165	718	0	Gari
 Pura Sītārām	2600	8170	718	0
 Pura Gangu	2600	8170	718	0
 Pura Ahīr	2674	8314	325	0
@@ -10149,18 +10149,18 @@ Pura Bhanwar	2523	8174	607	0
 Pura Ajāyab	2523	8173	607	0
 Pura Ahmānsingh	2595	8175	718	0
 Pura Rāni	2588	8177	718	0
-Pūranpur Khajūr	2589	8183	718	0
+Pūranpur Khajūr	2589	8183	718	0	Jamālpur
 Sarkān ka Pura	2588	8186	718	0
 Tulsi ka Pura	2589	8185	718	0
 Pura Girjādatt	2592	8184	718	0
-Pandit ka Pura	2592	8184	718	0
+Pandit ka Pura	2592	8184	718	0	Pura Girjādatt
 Pūranpur	2587	8185	718	0
 Pura Nagia	2583	8184	718	0
 Pūranpur Patkhān	2586	8199	718	0
 Pura Mādhosingh	2593	8195	718	0
 Pānde ka Pura	2597	8192	718	0
 Tikai ka Pura	2597	8189	718	0
-Pandit ka Pura	2568	8180	607	0
+Pandit ka Pura	2568	8180	607	0	Bīrsinghpur
 Sudhār ka Pura	2567	8178	607	0
 Shukul ka Pura	2566	8177	607	0
 Pandit ka Pura	2564	8180	607	0
@@ -10217,7 +10217,7 @@ Thākur ka Pura	2539	8180	607	0
 Pura Hinauti	2537	8184	607	0
 Pura Khagan	2533	8186	607	0
 Pura Khagan	2534	8186	607	0
-Bāde ka Pura	2534	8187	607	0
+Bāde ka Pura	2534	8187	607	0	Chak Gaurīshankar
 Pura Sultanwa	2531	8184	607	0
 Kotwāran ka Pura	2528	8177	607	0
 Kālan ka Pura	2528	8176	607	0
@@ -10237,13 +10237,13 @@ Tangaha ka Pura	2530	8191	607	0
 Puraini	2527	8197	607	0
 Adhār ka Pura	2528	8199	607	0
 Chak Pura Khurd	2534	8188	607	0
-Miyān ka Pura	2534	8188	607	0
+Miyān ka Pura	2534	8188	607	0	Chak Pura Khurd
 Pura Pānde	2536	8190	607	0
 Pahāri ka Pura	2538	8198	607	0
 Pura Fateh Muhammad	2540	8188	607	0
 Nārāyandās a Pura	2542	8193	607	0
 Purāni Sarāi	2542	8196	607	0
-Munshi ka Pura	2544	8191	607	0
+Munshi ka Pura	2544	8191	607	0	Chak Fātima
 Pura Sūrdās	2544	8192	607	0
 Keotān ka Pura	2525	8176	607	0
 Molai ka Pura	2524	8177	607	0
@@ -10333,7 +10333,7 @@ Pūramāl	2186	8399	627	0
 Pūrapāli	2183	8396	627	0
 Purapāra	2129	8395	567	0
 Puradādar	2106	8397	308	0
-Puramalia	2106	8397	308	0
+Puramalia	2106	8397	308	0	Puradādar
 Purapāli	2115	8376	497	0
 Pura Basti	2785	8126	323	0
 Laus Pura	2775	8139	294	0
@@ -12478,7 +12478,7 @@ Pura Shiu Ghulām	2601	8170	718	0
 Pura Tiwāri	2601	8171	718	0
 Pura Bhawāndīn	2602	8170	718	0
 Purā Baniān	2603	8170	718	0
-Pura Gajrāj Singh	2603	8171	718	0
+Pura Gajrāj Singh	2603	8171	718	0	Nagai
 Pura Basan	2604	8172	718	0
 Pura Buniād Singh	2604	8172	718	0
 Pura Basan	2604	8171	718	0
@@ -12878,7 +12878,7 @@ Pūrāndlapalle	1336	7844	195	0
 Pura	1294	7788	47	0
 Puram	1254	7793	223	0
 Pura	1285	7814	47	0
-Purashalli	1297	7817	47	0
+Purashalli	1297	7817	47	0	Huvanasanhalli
 Pura	1287	7823	47	0
 Puram	1235	7806	110	0
 Puram	1252	7849	184	0
@@ -13008,4 +13008,4 @@ Pura Ganesh	2613	8173	662	0
 Pura Gauri	2622	8175	662	0
 Pura Chāndka	2615	8174	662	0
 Puraini	2606	8703	657	0
-Puravūr	859	7803	208	0
+Puravūr	859	7803	208	0	Tentirupperai

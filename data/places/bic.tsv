@@ -1,6 +1,6 @@
 Bicholim	1559	7395	188	16986
-Cassabé de Bicholim	1559	7395	188	16986
-Bicholim Town	1559	7395	188	16986
+Cassabé de Bicholim	1559	7395	188	16986	Bicholim
+Bicholim Town	1559	7395	188	16986	Bicholim
 Bichhiā	2245	8070	480	10427
 Bicholi Hapsi	2272	7594	660	8774
 Bichri	2459	7383	22	4295
@@ -8,7 +8,7 @@ Bichiyon	2675	6952	217	0
 Bichhua	2235	7953	368	0
 Bichrod	2337	7597	314	0
 Bichkunda	1840	7771	58	0
-Bichkonda	1840	7771	58	0
+Bichkonda	1840	7771	58	0	Bichkunda
 Bichhua	2182	7903	337	0
 Bichhor	2785	7731	544	0
 Bichhia	2309	8057	468	0
@@ -19,13 +19,13 @@ Bichhiwara	2378	7352	512	0
 Bichūn	2681	7535	121	0
 Bichania	2173	8781	559	0
 Bicharwar	3435	7434	0	0
-Bicharwor	3435	7434	0	0
-Bichla	3321	7410	504	0
+Bicharwor	3435	7434	0	0	Bicharwar
+Bichla	3321	7410	504	0	Blanla
 Bichiwāl	3458	7397	0	0
 Bīchri	2553	7555	353	0
 Bichgaon	1792	7867	466	0
 Bīchalābās	2826	7526	300	0
-Bīchafābās	2826	7526	300	0
+Bīchafābās	2826	7526	300	0	Bīchalābās
 Bichki	3004	7669	501	0
 Bichpuri	3024	7678	691	0
 Bichgānwān	3001	7678	501	0
@@ -37,7 +37,7 @@ Bichpuria	2757	7962	688	0
 Bichola	2756	7971	470	0
 Bichpuri	2713	7988	570	0
 Katri Bichhoia	2708	7999	686	0
-Bichpuri	2683	7900	290	0
+Bichpuri	2683	7900	290	0	Bijpuri
 Nagla Bīch	2681	7922	290	0
 Bichpari	2688	7563	121	0
 Bichauli	2649	7944	715	0
@@ -46,7 +46,7 @@ Bicholiya	2669	7975	671	0
 Bichauli	2657	7978	671	0
 Purwa Bicha	2652	7983	671	0
 Bichkuwa	2246	7673	322	0
-Bichkua	2246	7673	322	0
+Bichkua	2246	7673	322	0	Bichkuwa
 Bichhawi	2174	7908	337	0
 Bichholi	2305	7705	675	0
 Bichpari	2920	7666	485	0
@@ -157,7 +157,7 @@ Bichhwān	2734	7906	464	0
 Nagla Bichitrā	2727	7923	464	0
 Bichaulī	2741	7924	688	0
 Bichpuri	2647	7706	447	0
-Bīch ka Pura	2627	7701	447	0
+Bīch ka Pura	2627	7701	447	0	Barothe ka Pura
 Bichhwi Tola	2174	7908	337	0
 Bīchpura	2732	7947	688	0
 Nagla Bīch	2732	7948	688	0
@@ -291,7 +291,7 @@ Bichhigāon	2627	8030	469	0
 Pura Bichhai	2708	8154	542	0
 Bichhian Purwa	2708	8157	542	0
 Sānthalpur Bichwāli Mandaiyān	2858	7836	483	0
-Bichpura	2871	7834	483	0
+Bichpura	2871	7834	483	0	Daudpur
 Bichhūri	2730	8185	542	0
 Pura Bichai	2740	8189	294	0
 Bichpuri	2897	7856	511	0
@@ -366,7 +366,7 @@ Bichaupur	2687	8341	325	0
 Tola Bichla	2685	8342	325	0
 Bichla	2637	8343	325	0
 Bichaupur	2685	8363	560	0
-Bichhia	2557	8172	607	0
+Bichhia	2557	8172	607	0	Muzaffarpur
 Bichhlāpur	2573	8173	718	0
 Bichla	2644	8368	535	0
 Bichhia	2359	8002	351	0

@@ -1,7 +1,7 @@
 Leh	3417	7758	2	37475
-Len	3417	7758	2	37475
-Lembulavataka	1847	7887	230	33706
-Lemulavada	1847	7887	230	33706
+Len	3417	7758	2	37475	Leh
+Lembulavataka	1847	7887	230	33706	Vemalwāda
+Lemulavada	1847	7887	230	33706	Vemalwāda
 Lehragaga	2994	7580	593	22588
 Leteri	2406	7741	215	15519
 Lelanga	2239	8358	439	8208
@@ -10,7 +10,7 @@ Lebachhara	2340	9173	385	5273
 Lengpui	2383	9263	12	3282
 Lebur Bit ? I	1450	8008	6	3148
 Mone Leh	3324	7745	8	0
-Lekhapani	2732	9582	459	0
+Lekhapani	2732	9582	459	0	Likhapāni
 Lewāli	2656	7649	116	0
 Lewā	2519	7746	436	0
 Letekujān	2658	9381	740	0
@@ -25,7 +25,7 @@ Lemrū	2264	8284	388	0
 Lema	2765	8872	27	0
 Lelāva	2463	7192	134	0
 Lekong Yok	3280	7917	2	0
-Lekeng Yok	3280	7917	2	0
+Lekeng Yok	3280	7917	2	0	Lekong Yok
 Leite	2291	9291	493	0
 Leishan	2513	9419	364	0
 Leike	2529	9343	494	0
@@ -33,10 +33,10 @@ Legara	2030	8346	284	0
 Ledva Chinchola	1742	7531	132	0
 Ledo	2729	9574	238	0
 Lebong Canttonment	2706	8828	573	0
-Lebong	2706	8828	573	0
-Lerua	2333	8343	341	0
-Lerān	3328	7412	504	0
-Lehrān	3328	7412	504	0
+Lebong	2706	8828	573	0	Lebong Canttonment
+Lerua	2333	8343	341	0	Ladua
+Lerān	3328	7412	504	0	Loran
+Lehrān	3328	7412	504	0	Loran
 Lehāna	3295	7454	581	0
 Dargiya Lehr	3292	7456	581	0
 Lehr	3291	7470	581	0
@@ -47,7 +47,7 @@ Lemūr	1714	7852	62	0
 Lehlān	3013	7653	564	0
 Letani	2403	7802	215	0
 Lehia Kalān	2687	7911	290	0
-Nagla Lekhi	2687	7903	290	0
+Nagla Lekhi	2687	7903	290	0	Nagla Laikhi
 Nagla Lek	2682	7916	290	0
 Legāni Dhāni	2894	7436	486	0
 Leheri	2086	8392	349	0
@@ -88,7 +88,7 @@ Lela Bera	3169	7595	296	0
 Leyālang	3159	7802	83	0
 Ledarpur	2931	7862	575	0
 Raipur Patti Lekhraj	2930	7874	575	0
-Levra	2426	7636	333	0
+Levra	2426	7636	333	0	Harīpura
 Levramajragadiya	2424	7635	16	0
 Levrāpura	2419	7650	16	0
 Lesaria	2605	7521	446	0
@@ -99,7 +99,7 @@ Lenle Tānda	1920	7600	33	0
 Lehal Colony	3035	7638	564	0
 Lebra	2770	7732	114	0
 Lendegaon	1888	7694	153	0
-Lemri	2770	7719	114	0
+Lemri	2770	7719	114	0	Dāntka
 Lebageri	1628	7611	80	0
 Lehn Khurd	1923	7711	153	0
 Lendīpor	2021	7858	67	0
@@ -310,7 +310,7 @@ Ledkītolī	2373	8376	743	0
 Letātolī	2359	8389	743	0
 Lendhra	2164	8303	635	0
 Laga Leon	3022	7890	612	0
-Lekuli	2992	7890	612	0
+Lekuli	2992	7890	612	0	Lakholi
 Lekuli	2980	7892	612	0
 Lebra	2191	8326	439	0
 Lehsrī Khurd	2897	7820	483	0

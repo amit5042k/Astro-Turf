@@ -2,7 +2,7 @@ Chirmiri	2319	8235	513	100800
 Chīrāla	1582	8035	220	92942
 Chirakkal	1191	7536	266	45601
 Chirkunda	2375	8679	401	45508
-Chirāwa	2824	7564	300	43953
+Chirāwa	2824	7564	300	43953	Chidawa
 Chhiri	2038	7294	261	18829
 Chirgaon	2557	7881	433	14147
 Chiramanangād	1069	7612	241	11060
@@ -16,20 +16,20 @@ Chirmira	2139	7551	248	0
 Chirki	2404	8616	452	0
 Chirikipada Syāsan	1976	8484	440	0
 Chiraiyākot	2588	8333	586	0
-Chiriākot	2588	8333	586	0
+Chiriākot	2588	8333	586	0	Chiraiyākot
 Chīrē	3311	7579	372	0
 Chirāpondi	2298	7976	598	0
-Chirapendi	2298	7976	598	0
+Chirapendi	2298	7976	598	0	Chirāpondi
 Chīrāpātla	2211	7750	462	0
 Chiramana	1469	7973	6	0
 Chirak	3072	7517	499	0
 Chirai Mota	2322	7026	108	0
-Chirai M	2322	7026	108	0
+Chirai M	2322	7026	108	0	Chirai Mota
 Chiraikund	2390	8282	341	0
 Chiraidongri	2241	8029	480	0
 Chirai	2669	7270	344	0
 Chirāghpalli	1770	7748	31	0
-Chirakpalli	1770	7748	31	0
+Chirakpalli	1770	7748	31	0	Chirāghpalli
 Chira	2948	8014	554	0
 Chira	2773	9649	475	0
 Chhirāri	2358	7915	352	0
@@ -78,7 +78,7 @@ Niz chirakhowa	2559	8991	793	0
 Chiri	2906	7653	719	0
 Chirao	2967	7692	457	0
 Chak Chiria Gāndhi	2922	7515	486	0
-Chiria Gāndhi	2923	7517	486	0
+Chiria Gāndhi	2923	7517	486	0	Sirdārpurobās
 Chiria Gāndhi	2921	7519	486	0
 Chiri	3141	7706	278	0
 Chirewān	3051	7458	615	0
@@ -507,7 +507,7 @@ Chirai Dāndi	2871	7957	342	0
 Chirchira	2816	7969	470	0
 Chirayya Deh	2862	7983	683	0
 Chiraindi	2860	7991	683	0
-Chiraindāpur	2867	7986	683	0
+Chiraindāpur	2867	7986	683	0	Himmat Nagar
 Chiraiyantānr	2525	8487	604	0
 Chiraiyātanr	2529	8498	527	0
 Chirgi Bigha	2521	8476	766	0
@@ -569,7 +569,7 @@ Chiriyātāni	2478	8498	118	0
 Dhāb Chiraya	2454	8484	118	0
 Chirki	2468	8487	118	0
 Chiraiya	2601	8712	667	0
-Chiria	2601	8712	667	0
+Chiria	2601	8712	667	0	Chiraiya
 Chiriātola	2570	8511	540	0
 Chiraiyātānr	2538	8510	604	0
 Chiramra	2551	8760	625	0
@@ -683,7 +683,7 @@ Chirubāsa	2239	8595	287	0
 Chiriāpahāri	2238	8600	287	0
 Chiriāgot	2215	8598	287	0
 Chiruhata	2198	8584	750	0
-Chirudi	2198	8584	750	0
+Chirudi	2198	8584	750	0	Chiruhata
 Chiruān	2401	8556	764	0
 Chiruwān	2408	8564	764	0
 Chiruwān	2410	8597	452	0

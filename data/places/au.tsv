@@ -1,5 +1,5 @@
 Aurangabad	1988	7534	113	1175116
-Aulapolai	949	7633	243	240991
+Aulapolai	949	7633	243	240991	Alappuzha
 Aurangābād	2475	8437	137	102244
 Auraiya	2647	7951	715	70508
 Ausa	1825	7650	158	36118
@@ -17,7 +17,7 @@ Autgaon	2064	8353	394	0
 Austinābād	1163	9275	105	0
 Āusgrām	2352	8767	375	0
 Ausari Budrukh	1896	7401	52	0
-Ausari	1896	7401	52	0
+Ausari	1896	7401	52	0	Ausari Budrukh
 Aurwād	1632	7512	77	0
 Aure	1883	7299	17	0
 Aurangābād Saiyid	2850	7796	637	0
@@ -25,30 +25,30 @@ Aurangābād	2803	7733	754	0
 Aurangābād	2778	8035	323	0
 Aurād Shāhjahāni	1806	7693	158	0
 Aurād	1745	7689	71	0
-Aurād Buzurg	1745	7689	71	0
-Aunwa	2580	7560	313	0
+Aurād Buzurg	1745	7689	71	0	Aurād
+Aunwa	2580	7560	313	0	Anwa
 Aunrāi	2527	8256	583	0
 Auniāti Sattra	2690	9408	777	0
-Auniāti	2690	9408	777	0
+Auniāti	2690	9408	777	0	Auniāti Sattra
 Aundī	2580	8398	536	0
 Aundhi	2024	8047	644	0
-Aundh	2024	8047	644	0
+Aundh	2024	8047	644	0	Aundhi
 Aundh	1754	7433	64	0
 Aundah	1954	7704	640	0
-Aunda	1954	7704	640	0
+Aunda	1954	7704	640	0	Aundah
 Aulia	2190	7698	209	0
 Auldan	2539	7902	433	0
 Aul	2069	8665	702	0
 Aujāri	2624	9229	751	0
 Au	2720	7285	344	0
-Aumaraubaudi	1002	7877	454	0
+Aumaraubaudi	1002	7877	454	0	Amaravati
 Akbarpur Aunchha	2732	7882	464	0
 Āusbāria	2228	8816	4	0
 Aunlīwāla	3035	7783	448	0
 Aurangābād	3010	7776	449	0
 Aurangābād	2964	7736	328	0
 Austmāpur	1759	7885	129	0
-Okhla Industrial Development Authority	2853	7728	419	0
+Okhla Industrial Development Authority	2853	7728	419	0	Okhla
 Aujhān	3015	7659	564	0
 Aujlān	3025	7680	691	0
 Audho Nagla	2795	7947	117	0
@@ -86,14 +86,14 @@ Auliyāli	3065	7762	534	0
 Auri	3070	7774	783	0
 Audila	2762	7686	482	0
 Auli	3073	7789	448	0
-Aurangābād Shakūrpur	2948	7808	575	0
+Aurangābād Shakūrpur	2948	7808	575	0	Gidarpura
 Aurangpur Hāji	2937	7816	575	0
 Aurangpur Tāra	2942	7819	575	0
-Nasrullāhpur Aurangzebpur	2973	7803	596	0
+Nasrullāhpur Aurangzebpur	2973	7803	596	0	Akoda
 Aurangnagar Rārdhana	2923	7761	700	0
 Aulakh	3065	7491	730	0
 Auhera	2441	7346	22	0
-Augarh	3090	7518	499	0
+Augarh	3090	7518	499	0	Mubārakpur
 Gurhāta Auwār	2566	7653	335	0
 Aurangābād	2894	7714	485	0
 Aulia Masjid	2851	7718	778	0
@@ -169,9 +169,9 @@ Aurwāni	1713	7916	101	0
 Aundhākhera	2795	7848	543	0
 Auchada	2765	7835	670	0
 Auton	2668	7954	715	0
-Aurangābād Hīrāmansha	2655	7966	671	0
-Aurangābād Bhola Hulās	2654	7965	671	0
-Aurangābād Dālchand	2655	7966	671	0
+Aurangābād Hīrāmansha	2655	7966	671	0	Nawāda Khurd
+Aurangābād Bhola Hulās	2654	7965	671	0	Nawāda Kalān
+Aurangābād Dālchand	2655	7966	671	0	Susru
 Aurangābād Jhara	2653	7968	671	0
 Bhāūpur Auraiya	2643	7955	715	0
 Aurun Tāhirpur	2679	8000	469	0
@@ -277,13 +277,13 @@ Sikra Aundha	2924	7824	575	0
 Jogi Aundha	2923	7823	575	0
 Pitān Aundha	2922	7824	575	0
 Aurangzebpur Sayāli	2968	7850	575	0
-Aurangābād	2966	7848	575	0
-Aurangābād	2965	7849	575	0
+Aurangābād	2966	7848	575	0	Lālwāla
+Aurangābād	2965	7849	575	0	Lālwāla
 Aurangpur Bhīku	2966	7826	575	0
-Aurangābad	2957	7827	575	0
-Aurangpur Fateh Khān	2957	7825	575	0
-Aurangzebpur Hardās	2947	7844	575	0
-Aurangzebpur Mahmūd	2946	7832	575	0
+Aurangābad	2957	7827	575	0	Husainpur
+Aurangpur Fateh Khān	2957	7825	575	0	Mūsepur
+Aurangzebpur Hardās	2947	7844	575	0	Mollāwāla
+Aurangzebpur Mahmūd	2946	7832	575	0	Mughalpura
 Aurangshāhpur Gangādhar	2939	7834	575	0
 Aurangābād	2776	8115	507	0
 Aurangābād	2796	8117	323	0
@@ -311,12 +311,12 @@ Purwa Auri	2687	8144	30	0
 Auhdānpur	2692	8144	30	0
 Auliāpur	2693	8138	30	0
 Aurela	2696	8139	30	0
-Aurangābād	2908	7832	575	0
+Aurangābād	2908	7832	575	0	Sikandarpur
 Auliāpur	2920	7833	575	0
 Kuti Bāba Auhar Dās	2655	8143	662	0
 Kuti Ausān Dās	2657	8125	681	0
 Ausāneswar Mahādep	2666	8135	30	0
-Aurangābad	2900	7855	511	0
+Aurangābad	2900	7855	511	0	Khidmatpur
 Aujara Khera	2639	8108	681	0
 Audan Singh Purwa	2634	8108	681	0
 Auri Ahir Purwa	2633	8117	681	0
@@ -327,7 +327,7 @@ Audal Purwa	2641	8181	662	0
 Aurangābād	2638	8185	662	0
 Purwa Ausān	2645	8198	597	0
 Purwa Autār	2643	8197	597	0
-Aureiya	2591	8101	728	0
+Aureiya	2591	8101	728	0	Āshiqpur
 Aurangābād	2590	8114	728	0
 Audaha	2541	8101	643	0
 Auwalpur	2894	7842	483	0
@@ -373,7 +373,7 @@ Pura Autār	2701	8208	542	0
 Purwa Autār	2704	8207	542	0
 Pura Rām Autār	2708	8212	542	0
 Bankata Audān Singh	2720	8219	542	0
-Autārpur	2726	8244	280	0
+Autārpur	2726	8244	280	0	Dattāpur
 Autār	2711	8226	542	0
 Autār Barhai	2709	8229	542	0
 Rām Autār	2704	8228	542	0
@@ -597,7 +597,7 @@ Audiyappapālem	1480	8009	6	0
 Aurahwādānd	2425	8270	631	0
 Auli	2580	8469	540	0
 Aulia Pīplia	2294	7619	322	0
-Aurangabad	2271	7623	322	0
+Aurangabad	2271	7623	322	0	Sambhājīnagar
 Aunlet	2965	7907	612	0
 Aunlet	2966	7915	429	0
 Dharampur Auliā	2936	7906	551	0
@@ -622,8 +622,8 @@ Auhar Majhariyā	2675	8458	476	0
 Auhar Sheikh	2672	8460	476	0
 Aurangābād	2816	7913	117	0
 Aurangābād Muāfi	2811	7922	117	0
-Aurangābād	2879	7947	342	0
-Aurangnagar	2878	7936	552	0
+Aurangābād	2879	7947	342	0	Mirzapur
+Aurangnagar	2878	7936	552	0	Khera
 Aurangābād	2864	7927	342	0
 Aundh	2850	7929	342	0
 Aurangābād	2823	7947	342	0
@@ -657,7 +657,7 @@ Aurāha	2619	8684	426	0
 Aura	2587	8606	138	0
 Auranga Usuri	2594	8609	591	0
 Auranga Purwāri	2595	8609	591	0
-Aura	2577	8618	138	0
+Aura	2577	8618	138	0	Parsa
 Aure	2562	8607	530	0
 Aura	2574	8619	138	0
 Auraiya	2514	8608	589	0
@@ -671,7 +671,7 @@ Aulia	2540	8695	411	0
 Aurangābād	2734	8055	507	0
 Auriya	2227	7940	368	0
 Auchāmpitika	1176	7594	242	0
-Auwal	2625	7917	741	0
+Auwal	2625	7917	741	0	Jamrehī Awwal
 Bhikepur Auraiya	2653	7935	715	0
 Rurua Auraiya	2663	7937	715	0
 Aunsalli	1436	7447	59	0

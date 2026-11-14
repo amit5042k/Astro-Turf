@@ -1,20 +1,20 @@
-Kajpura	3048	7659	564	92301
+Kajpura	3048	7659	564	92301	Rajpura
 Khajoori Khas	2871	7726	791	76640
 Khajuraho Group of Monuments	2485	7993	663	25662
-Khajrāho	2485	7993	663	25662
-Khajuraho	2485	7993	663	25662
-Kāzitori	2533	7651	506	25073
+Khajrāho	2485	7993	663	25662	Khajuraho Group of Monuments
+Khajuraho	2485	7993	663	25662	Khajuraho Group of Monuments
+Kāzitori	2533	7651	506	25073	Māngrol
 Qāzigund	3364	7514	148	9871
-Rol Qāziān	2716	7393	430	0
+Rol Qāziān	2716	7393	430	0	Rol
 Qāzi Sarai	2517	8507	527	0
-Nandgaon-Kazi	2068	7783	133	0
+Nandgaon-Kazi	2068	7783	133	0	Nāndgaon Khandeshwar
 Khajwāna	2691	7384	430	0
-Khajuāna	2691	7384	430	0
-Khajurīpada	2044	8441	387	0
+Khajuāna	2691	7384	430	0	Khajwāna
+Khajurīpada	2044	8441	387	0	Khejurpāra
 Khajurīpada	1906	8409	252	0
-Khajiripada	1906	8409	252	0
+Khajiripada	1906	8409	252	0	Khajurīpada
 Khajuria Kalān	2335	7707	675	0
-Khajuria	2335	7707	675	0
+Khajuria	2335	7707	675	0	Khajuria Kalān
 Khajuria	2448	7314	22	0
 Khajuri	2596	8407	536	0
 Khajuri	2501	7609	371	0
@@ -29,20 +29,20 @@ Khajurgāon	2607	8093	681	0
 Khajurdihi	2170	8480	272	0
 Khajuha	2605	8052	728	0
 Khajrāha Khurd	2533	7846	433	0
-Khajraha	2533	7846	433	0
+Khajraha	2533	7846	433	0	Khajrāha Khurd
 Khajrāha Buzurg	2531	7847	433	0
 Khajpur	2009	7512	113	0
 Khājipeta	1465	7877	229	0
 Khajarwār	2278	8154	225	0
 Kāziranga	2659	9341	740	0
 Kāzīpet	1798	7953	61	0
-Kazipit	1798	7953	61	0
+Kazipit	1798	7953	61	0	Kāzīpet
 Kazhakuttam	857	7687	219	0
-Kazhakuttani	857	7687	219	0
+Kazhakuttani	857	7687	219	0	Kazhakuttam
 Kajuri	2419	7419	22	0
 Kajlidongri	2295	7448	348	0
-Kajlidongoi	2295	7448	348	0
-Kajlidong	2295	7448	348	0
+Kajlidongoi	2295	7448	348	0	Kajlidongri
+Kajlidong	2295	7448	348	0	Kajlidongri
 Kājli	2324	7377	142	0
 Kājlāgarh	2204	8780	559	0
 Kajgaon	2057	7514	78	0
@@ -50,7 +50,7 @@ Kajāichari	2279	9250	14	0
 Kaja	3222	7807	425	0
 Kājpathar	3426	7500	595	0
 Kāzi Molna	3377	7410	1	0
-Kāzi Mohra	3377	7410	1	0
+Kāzi Mohra	3377	7410	1	0	Kāzi Molna
 Khajurla	3335	7420	504	0
 Kachhlu Qāzīpura	3434	7437	0	0
 Kāzeriān Poser	3323	7430	504	0
@@ -71,7 +71,7 @@ Dhanna ka Jhonpara	2571	7563	313	0
 Kīrwa ka Jhonpara	2571	7564	353	0
 Anna ka Jhonpara	2597	7555	313	0
 Jareli ka Jhonpara	2595	7556	313	0
-Chamāran ka Jhonpare	2596	7562	313	0
+Chamāran ka Jhonpare	2596	7562	313	0	Chamāron ke Jhonpare
 Nayāgaon ka Jhonpara	2587	7550	313	0
 Sātkhejari ka Jhonpara	2583	7551	313	0
 Māli ka Jhonpara	2586	7568	313	0
@@ -102,7 +102,7 @@ Khajurāgarh	2709	7947	570	0
 Khajuria	2755	7960	688	0
 Khajuria Nagla	2752	7971	470	0
 Khajūria Purwa	2720	7981	686	0
-Khajāria Purwa	2720	7981	686	0
+Khajāria Purwa	2720	7981	686	0	Khajūria Purwa
 Khajuān	2713	7982	570	0
 Khajuha	2702	7986	570	0
 Khajūri	2607	7940	741	0
@@ -110,7 +110,7 @@ Khajuria	2700	7963	570	0
 Khajrār	2478	7926	481	0
 kājal Hiparga	1869	7687	158	0
 Kajgaon	1962	7503	152	0
-Khajūr Deo	2368	7777	215	0
+Khajūr Deo	2368	7777	215	0	Devkhajuri
 Khajuri Devda	2384	7551	568	0
 Khajurimanda	2412	7529	580	0
 Khajri	2341	7985	598	0
@@ -146,7 +146,7 @@ Khajūri	3063	7771	534	0
 Kazākpur	2770	7675	482	0
 Kajog	3070	7779	448	0
 Qāzīwāla	2949	7809	575	0
-Tayyabpur Qāzi	2949	7809	575	0
+Tayyabpur Qāzi	2949	7809	575	0	Qāzīwāla
 Qāzīwāla	2942	7811	575	0
 Farīdpur Qāzi	2938	7811	575	0
 Jalālpur Qāzi	2934	7811	575	0
@@ -197,7 +197,7 @@ Khajūri	2985	7777	596	0
 Qazīpur	2949	7786	545	0
 Kājpura	2869	7720	769	0
 Khajūri	2871	7726	791	0
-Qāzipura	2867	7749	727	0
+Qāzipura	2867	7749	727	0	Sādiqpur
 Khajūri	2895	7749	700	0
 Sarāj Khāja	2847	7731	774	0
 Kāzimpur	2880	7755	727	0
@@ -208,7 +208,7 @@ Khajukhān ki Garhi	2451	7422	22	0
 Bhīl ka Jhonpra	2556	7522	309	0
 Khazān Singhwāla	3026	7584	593	0
 Kajwār	3341	7631	547	0
-Allahdādpur Khajua	2944	7850	575	0
+Allahdādpur Khajua	2944	7850	575	0	Kopa
 Milak Kāzi	2898	7906	552	0
 Kajarhāī	2883	7914	552	0
 Kāzamganj	2880	7919	552	0
@@ -337,7 +337,7 @@ Khajūri	2512	7921	326	0
 Khajūri	2181	7613	209	0
 Bamhaurī Qāzi	2543	7991	614	0
 Kajrāwan	2433	7905	352	0
-Kāzi	2599	8298	498	0
+Kāzi	2599	8298	498	0	Isharpur
 Khajura	2587	8286	498	0
 Tarf Kazi	2576	8298	498	0
 Khajūri	2669	7825	478	0
@@ -469,7 +469,7 @@ Qāzīpur	2573	8130	651	0
 Qāzīpur Nawāwān	2570	8133	651	0
 Ichaukli Qāzīpur	2555	8141	651	0
 Khajuāpur	2552	8144	651	0
-Qāzīpur	2569	8134	651	0
+Qāzīpur	2569	8134	651	0	Chak Zamin Mahjūbān
 Badanpur Qāzīpur	2554	8142	651	0
 Khājri	2282	7995	368	0
 Kajiya	2540	8247	583	0
@@ -511,7 +511,7 @@ Tarf Qāzī	2574	8298	498	0
 Qāzīpur	2858	7688	763	0
 Qāzi Khera	2618	8079	681	0
 Garhi Khajūrwāli	2962	7837	575	0
-Hakīmpur Kāzi	2956	7830	575	0
+Hakīmpur Kāzi	2956	7830	575	0	Kabārīwāla
 Khajūri	2951	7840	575	0
 Kāzīpur Pachdu	2947	7842	575	0
 Kāzīwāla	2947	7846	575	0
@@ -620,7 +620,7 @@ Khajūri	2694	8198	542	0
 Khajūri Sūba	2693	8198	542	0
 Kazi Purwa	2676	8175	629	0
 Khājha	2616	8197	662	0
-Qāzīwāla	2852	7887	646	0
+Qāzīwāla	2852	7887	646	0	Bichaita
 Qāzipura	2873	7899	552	0
 Purwa Kāzi	2776	8206	618	0
 Khajaria	2837	7881	117	0
@@ -753,7 +753,7 @@ Khajwa	2668	8302	647	0
 Khajuria Rāja	2662	8305	647	0
 Kajiāpur	2661	8302	647	0
 Khajuria Kānūngo	2660	8304	647	0
-Khajūr Tīkar	2654	8313	647	0
+Khajūr Tīkar	2654	8313	647	0	Khatkara
 Khajuri	2663	8319	325	0
 Rāipur Kāzi	2623	8305	498	0
 Jamālpur Kazi	2607	8308	498	0
@@ -779,7 +779,7 @@ Khajuri Goshāin	2630	8357	325	0
 Jot Khajuha	2645	8361	535	0
 Khajūri Tiwāri	2638	8371	535	0
 Khajuri Bhat	2640	8373	535	0
-Qāzipur	2611	8354	586	0
+Qāzipur	2611	8354	586	0	Patti Muhammad
 Khajuha	2621	8362	586	0
 Khajhwa	2677	8380	560	0
 Khajuria	2699	8392	560	0
@@ -800,7 +800,7 @@ Qāzīpur	2550	8164	651	0
 Kāzi Chak	3215	7542	487	0
 Bharth Kāzi Chak	3216	7541	487	0
 Kajli	3221	7537	692	0
-Pūranpur Khajūr	2589	8183	718	0
+Pūranpur Khajūr	2589	8183	718	0	Jamālpur
 Rāmpur Khajūr	2590	8184	718	0
 Qāzi ka Purwa	2591	8193	718	0
 Chak Qāzi	2564	8186	607	0
@@ -1297,7 +1297,7 @@ Qāzipur Farnatnagar	2707	8016	686	0
 Kājarkori	2799	8047	323	0
 Khājipuram	1513	7819	232	0
 Khājipet	1572	7829	232	0
-Kajendrahalli	1328	7848	47	0
+Kajendrahalli	1328	7848	47	0	Vupāsapuram
 Khajautia	2567	8575	138	0
 Khajuri	2571	8573	138	0
 Khājīpuram	1545	7912	200	0

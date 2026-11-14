@@ -3,7 +3,7 @@ Sītāmarhi	2659	8549	582	67818
 Sitārganj	2893	7970	641	24225
 Sithurajapuram	942	7779	119	16860
 Sītāmau	2401	7535	580	14056
-Sithayankottai	1027	7783	187	13634
+Sithayankottai	1027	7783	187	13634	Chittayankottai
 Shitāb Diāra	2576	8461	540	11800
 Sitapur	2278	8350	725	9361
 Seethanagaram	1718	8169	87	7816
@@ -12,25 +12,25 @@ Shitlu	3424	7435	301	2926
 Sittampūndi	1124	7791	231	0
 Sito Ganno	3002	7437	3	0
 Sitlaha	2495	8149	516	0
-Sitiaha	2495	8149	516	0
+Sitiaha	2495	8149	516	0	Sitlaha
 Sītarāmpuram	1502	7914	6	0
 Sitārāmpur	2372	8689	642	0
 Sitarāmapuram	1472	7867	229	0
-Sitaramapotam	1472	7867	229	0
+Sitaramapotam	1472	7867	229	0	Sitarāmapuram
 Sītāpur Mūāfi	2518	8087	643	0
-Sitāpur	2518	8087	643	0
+Sitāpur	2518	8087	643	0	Sītāpur Mūāfi
 Sitāpur	2345	7199	124	0
 Sītāpatli	2169	7966	144	0
-Sītāpathor	2169	7966	144	0
+Sītāpathor	2169	7966	144	0	Sītāpatli
 Sītāpār	2173	7987	144	0
 Sītānagaram	1866	8338	199	0
 Sītānagaram	1720	8096	46	0
-Sītānagarem	1720	8096	46	0
+Sītānagarem	1720	8096	46	0	Sītānagaram
 Sītānagarām	1718	8170	87	0
 Sītānagaram	1649	8061	319	0
 Sītānagar	2405	7945	521	0
 Sītammapeta	1773	8332	81	0
-Sitam Petta	1773	8332	81	0
+Sitam Petta	1773	8332	81	0	Sītammapeta
 Sītāmāta	2426	7453	633	0
 Sitalkuchi	2616	8918	420	0
 Sital	2797	7360	307	0
@@ -80,7 +80,7 @@ Sītal	2749	7684	482	0
 Sītal Ka Bās	2749	7684	482	0
 Sītal Ka Bās	2749	7683	482	0
 Sītāpur	2992	7811	596	0
-Shitlākhera	2981	7814	596	0
+Shitlākhera	2981	7814	596	0	Shāhpur
 Pararia Sītārām	2341	7847	338	0
 Sītor	2652	7657	116	0
 Sītāpura	2651	7653	116	0
@@ -112,7 +112,7 @@ Sitābgarh	3092	7630	674	0
 Sītlāpur	2776	7797	543	0
 Nagla Sīta	2748	7759	177	0
 Sītapār	2155	8224	379	0
-Sitanadi	2019	8192	652	0
+Sitanadi	2019	8192	652	0	Bahigaon
 Sītāpār	2176	8160	710	0
 Sītāpur	2197	8173	755	0
 Sītāpār	2189	8162	710	0
@@ -130,7 +130,7 @@ Nagla Sītārām	2766	7777	177	0
 Sītla	2758	7790	670	0
 Sītāpur	2770	7795	543	0
 Sitarām Ka Nagla	2769	7793	543	0
-Sitalpur	2762	7873	711	0
+Sitalpur	2762	7873	711	0	Dastampur
 Sītalpur	2756	7868	711	0
 Shītalpur	2310	7967	598	0
 Sītāpahār	2315	7998	598	0
@@ -190,8 +190,8 @@ Sitāpur	2558	8209	607	0
 Sithauli	2550	8209	607	0
 Sitaurā	2527	7921	433	0
 Sītābāri	2410	7937	521	0
-Sītānagar	2402	7949	521	0
-Sītānagar	2403	7950	521	0
+Sītānagar	2402	7949	521	0	Simari
+Sītānagar	2403	7950	521	0	Marhiya
 Sītāpur	2531	8307	724	0
 Nagla Sīta	2698	7874	403	0
 Sītāpur	2501	8310	724	0
@@ -383,7 +383,7 @@ Sitārāmpur Grant	2711	8250	542	0
 Sital Purwa	2705	8243	542	0
 Sital Singh Purwa	2702	8245	542	0
 Sital Chāmar	2700	8243	542	0
-Sītārāmpuram	1823	7844	58	0
+Sītārāmpuram	1823	7844	58	0	Guttimukala
 Sītārāmpallli	1824	7848	58	0
 Sītal Bhitia	2735	8252	292	0
 Pura Sita Rām	2695	8208	542	0
@@ -476,7 +476,7 @@ Tola Sīta	2666	8349	325	0
 Sitalpur	2694	8362	515	0
 Situhia	2683	8367	560	0
 Pipra Sital	2677	8373	560	0
-Sitkiliha	2569	8150	718	0
+Sitkiliha	2569	8150	718	0	Rambagīya
 Shītalpur	2571	8161	718	0
 Sītākund	2556	8166	607	0
 Sital Mānjha	2641	8354	535	0
@@ -714,7 +714,7 @@ Sitalpur	2621	8415	639	0
 Sitāl Narahwa	2659	8425	703	0
 Sital Bardaha	2652	8440	703	0
 Sitoli	2944	7992	554	0
-Shitābnagar	2805	7921	117	0
+Shitābnagar	2805	7921	117	0	Bārikhera
 Sithaura	2835	7940	342	0
 Sītāpur	2839	7933	342	0
 Sītābasti	2240	7629	322	0
@@ -766,7 +766,7 @@ Sittigarehalli	1284	7611	679	0
 Sītāpura	1244	7661	94	0
 Situgāpuram	1522	7719	236	0
 Sītārāmpur	1846	7912	579	0
-Sītanābād	2579	8657	661	0
+Sītanābād	2579	8657	661	0	Saraunja Thāna
 Situāhi	2566	8659	661	0
 Situhār	2512	8656	538	0
 Sītabanda	1541	7781	232	0
@@ -1020,7 +1020,7 @@ Sitākhola	2035	8451	548	0
 Sitkoili	2077	8486	414	0
 Sitai	2605	8932	420	0
 Sitimi	2582	9465	18	0
-Sitārām	2652	7845	334	0
+Sitārām	2652	7845	334	0	Lāwan
 Sitapur	2723	8077	507	0
 Sitāpur	2781	8079	507	0
 Pura Sītal	2621	8131	681	0

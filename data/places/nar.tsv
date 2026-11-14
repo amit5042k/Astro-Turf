@@ -3,31 +3,31 @@ Narmadapuram	2275	7773	590	117988
 Narasaraopet	1623	8005	10	117489
 Narnaul	2804	7611	694	74581
 Narwāna	2960	7612	367	62090
-Narwanal	2960	7612	367	62090
+Narwanal	2960	7612	367	62090	Narwāna
 Narsimhapur	2295	7918	522	59966
-Narsinghpur	2295	7918	522	59966
-Narsimahpur	2295	7918	522	59966
+Narsinghpur	2295	7918	522	59966	Narsimhapur
+Narsimahpur	2295	7918	522	59966	Narsimhapur
 Narasapur	1643	8170	318	59306
-Narasapuram	1643	8170	318	59306
+Narasapuram	1643	8170	318	59306	Narasapur
 Narkatiāganj	2710	8446	476	49507
 Nārāyanpet	1675	7750	283	41752
 Nargund	1572	7539	606	36291
 Narsīpatnam	1767	8261	227	33757
 Narsinghgarh	2371	7709	16	32329
 Narsampet	1793	7989	249	30963
-Hole Narsipur	1279	7624	679	29974
+Hole Narsipur	1279	7624	679	29974	Holenarasipura
 Narasannapeta	1841	8404	472	26280
-Narsannapet	1841	8404	472	26280
+Narsannapet	1841	8404	472	26280	Narasannapeta
 Narakal	1004	7622	176	23760
 Narasingapuram	1160	7858	51	23084
 Naraingarh	3048	7713	691	22832
-Nārāyangarh	3048	7713	691	22832
+Nārāyangarh	3048	7713	691	22832	Naraingarh
 Naraura	2820	7839	637	22432
 Narayanpur	1972	8124	619	22106
-Nārāinpur	1972	8124	619	22106
+Nārāinpur	1972	8124	619	22106	Narayanpur
 Narkher	2147	7853	141	21127
 Nāravārikuppam	1319	8018	204	20946
-Naravānikuppam	1319	8018	204	20946
+Naravānikuppam	1319	8018	204	20946	Nāravārikuppam
 Narwar	2564	7791	436	19385
 Narauli	2849	7871	646	17945
 Narasimhanaickenpalayam	1112	7694	156	17858
@@ -38,7 +38,7 @@ Nāranammālpuram	876	7774	191	17094
 Naraina	2679	7521	121	17048
 Naroli	2027	7294	233	16260
 Nārāyankher	1803	7777	31	15610
-Narayankhed	1803	7777	31	15610
+Narayankhed	1803	7777	31	15610	Nārāyankher
 Naraini	2519	8047	525	15077
 Nārāyanapuram	1470	7758	100	14227
 Narath	1196	7539	266	13092
@@ -55,38 +55,38 @@ Narasimharājapura	1361	7551	98	7775
 Narendrapur	2265	8807	354	7416
 Narsingarh	2391	9125	744	7404
 Narsāpuram	1810	7888	466	6647
-Narsapur	1810	7888	466	6647
+Narsapur	1810	7888	466	6647	Narsāpuram
 Narharpur	2045	8162	704	6500
 Nārsingi	1804	7843	400	6445
 Naryanpur	2695	9386	355	6001
-Narayanpur	2695	9386	355	6001
+Narayanpur	2695	9386	355	6001	Naryanpur
 Narasingam	997	7818	274	5971
 Narra	2378	8610	517	5390
 Naroda	2307	7266	124	5366
-Narora	2307	7266	124	5366
+Narora	2307	7266	124	5366	Naroda
 Narendranagar	3016	7829	500	4734
 Nārkanda	3126	7746	479	901
 Vijaya Nārāyanam	842	7779	191	0
 Uday Nārāyanpur	2373	8798	375	0
 Trijugi Nārāyan	3064	7898	365	0
-Tirjogi Narayan	3064	7898	365	0
+Tirjogi Narayan	3064	7898	365	0	Trijugi Nārāyan
 Nij Nārājol	2257	8762	677	0
-Narajole	2257	8762	677	0
-Narjampalli	1454	7801	100	0
+Narajole	2257	8762	677	0	Nij Nārājol
+Narjampalli	1454	7801	100	0	Nerijamupalle
 Naryāuli	2391	7859	352	0
 Narwar	2661	7469	446	0
 Narwar	2330	7797	338	0
 Narwāni	2588	7770	436	0
-Narwāi	2588	7770	436	0
+Narwāi	2588	7770	436	0	Narwāni
 Narwal	2624	8043	469	0
 Nārwa	2640	7294	344	0
 Narwa	1826	7797	58	0
 Nartiang	2557	9221	165	0
 Narsū	3302	7524	373	0
 Nārsara	2856	7424	539	0
-Narsro	2856	7424	539	0
+Narsro	2856	7424	539	0	Nārsara
 Narsingpur	1797	7513	52	0
-Nira Narsingpur	1797	7513	52	0
+Nira Narsingpur	1797	7513	52	0	Narsingpur
 Narsinghgarh	2399	7939	521	0
 Narsi	1976	7701	640	0
 Nārsar	2668	7355	344	0
@@ -94,7 +94,7 @@ Narsāpur	1909	7816	360	0
 Narsāna	2512	7204	343	0
 Narra	2091	8248	407	0
 Narot	3230	7546	692	0
-Narot Jamal Singh	3230	7546	692	0
+Narot Jamal Singh	3230	7546	692	0	Narot
 Nārona	1752	7672	71	0
 Naroa	1555	7393	188	0
 Narnūru	1572	7808	236	0
@@ -109,23 +109,23 @@ Nārkī	2729	7840	403	0
 Narkhed	1790	7568	132	0
 Narkandi	2394	8566	517	0
 Narjān	2658	9325	656	0
-Narjon Basti	2658	9325	656	0
+Narjon Basti	2658	9325	656	0	Narjān
 Naringi	1947	7281	192	0
 Nārikeldānga	2257	8838	123	0
-Calcutta Narkaldanga	2257	8838	123	0
+Calcutta Narkaldanga	2257	8838	123	0	Nārikeldānga
 Nāridega	2263	8487	495	0
 Nariāna	3285	7451	581	0
 Narhi	2623	8665	426	0
 Narhat	2478	8542	107	0
 Nargora	2218	8230	291	0
 Nargol	2023	7275	261	0
-Nargole	2023	7275	261	0
+Nargole	2023	7275	261	0	Nargol
 Narganjo	2474	8647	524	0
 Nārhera	2773	7610	121	0
-Nārera	2773	7610	121	0
+Nārera	2773	7610	121	0	Nārhera
 Narendrapur	1934	8487	440	0
 Naren	3280	7493	581	0
-Naran	3280	7493	581	0
+Naran	3280	7493	581	0	Naren
 Naren	2128	7318	139	0
 Nāre	3105	7482	566	0
 Nārdipur	2334	7256	276	0
@@ -139,27 +139,27 @@ Nārāyanpur	1716	7888	129	0
 Nārayanpur	1601	7793	306	0
 Nārāyanmahārāj Bet	1839	7436	52	0
 Nāreguda	1740	7802	210	0
-Nārāyanguda	1740	7802	210	0
-Naryanguda	1740	7802	210	0
+Nārāyanguda	1740	7802	210	0	Nāreguda
+Naryanguda	1740	7802	210	0	Nāreguda
 Nārāyangaon	1912	7397	52	0
 Nārāyanganj	2283	8024	480	0
 Nārāyanāpur	1888	8419	252	0
 Nārāyanapatnam	1888	8317	316	0
-Nārāyanapātana	1888	8317	316	0
+Nārāyanapātana	1888	8317	316	0	Nārāyanapatnam
 Nāraura	2751	7844	711	0
-Narora	2751	7844	711	0
+Narora	2751	7844	711	0	Nāraura
 Nārastān	3406	7510	428	0
 Narsinghpur	2046	8508	303	0
-Narasinghapur	2046	8508	303	0
-Narasinghpur	2046	8508	303	0
+Narasinghapur	2046	8508	303	0	Narsinghpur
+Narasinghpur	2046	8508	303	0	Narsinghpur
 Narasingarāyanpet	1318	7921	214	0
-Narasingarayapetta	1318	7921	214	0
+Narasingarayapetta	1318	7921	214	0	Narasingarāyanpet
 Narasingāpuram	1809	7932	61	0
 Narasimharāopālem	1702	8083	24	0
 Narasimharaja Puram	1232	7666	74	0
-Narasimharajapura	1232	7666	74	0
+Narasimharajapura	1232	7666	74	0	Narasimharaja Puram
 Narasāpura	1314	7800	47	0
-Narasapur	1314	7800	47	0
+Narasapur	1314	7800	47	0	Narasāpura
 Nārapala	1471	7781	100	0
 Naranpur	2285	8391	398	0
 Naranjigundlapalle	1471	7705	100	0
@@ -175,20 +175,20 @@ Narainpur	2510	9283	494	0
 Narainpur	2404	8661	770	0
 Narahia	2637	8654	556	0
 Naraharipeta	1309	7913	214	0
-Naraharipet	1309	7913	214	0
+Naraharipet	1309	7913	214	0	Naraharipeta
 Nārāh	2939	7676	298	0
 Nāra	2295	7378	180	0
 Nār	2248	7271	157	0
-Narah	2195	7256	151	0
+Narah	2195	7256	151	0	Nāda
 Muazzampur Nārāyan	2959	7821	575	0
-Muazzampur Narain	2959	7821	575	0
+Muazzampur Narain	2959	7821	575	0	Muazzampur Nārāyan
 Kokpāra Narsinghgarh	2252	8654	584	0
 Nārāyankhera	2536	7426	309	0
 Kasba Nārāyangarh	2216	8739	677	0
-Narayangarh	2216	8739	677	0
-Narmulli	1801	7478	132	0
-Narkopi	2390	8618	401	0
-Narāsar	2848	7469	539	0
+Narayangarh	2216	8739	677	0	Kasba Nārāyangarh
+Narmulli	1801	7478	132	0	Karmulli
+Narkopi	2390	8618	401	0	Dumdumi
+Narāsar	2848	7469	539	0	Naiyāsar
 Nāri	2801	7488	491	0
 Narsirro	2857	7486	539	0
 Nārāyanpur	2283	8808	279	0
@@ -200,7 +200,7 @@ Narī Gāla	3367	7406	1	0
 Narol	3364	7409	1	0
 Narol	3366	7414	1	0
 Nār Khās	3359	7424	1	0
-Narāli	3336	7418	504	0
+Narāli	3336	7418	504	0	Morāni
 Burla Nariala	3327	7423	504	0
 Nariāla	3326	7422	504	0
 Kutur Nāribal	3426	7426	301	0
@@ -212,7 +212,7 @@ Nārpur	3412	7451	301	0
 Chak Nārān Dās	3410	7452	301	0
 Narsinghpur	3401	7455	76	0
 Narawor	3404	7462	76	0
-Narowar	3404	7462	76	0
+Narowar	3404	7462	76	0	Narawor
 Nārachpur	3402	7473	76	0
 Narel	3292	7460	581	0
 Narain Chariwāla	3294	7460	581	0
@@ -221,10 +221,10 @@ Nārīan	3322	7429	504	0
 Nārīan	3321	7430	504	0
 Narwāli	3318	7430	504	0
 Narota	3315	7439	504	0
-Nāroliān	3297	7439	504	0
+Nāroliān	3297	7439	504	0	Natoliān
 Narāni	3294	7437	581	0
 Narbehra	3293	7442	581	0
-Naroehra	3293	7442	581	0
+Naroehra	3293	7442	581	0	Narbehra
 Naryāh	3299	7477	581	0
 Narari	3297	7476	581	0
 Nārka	3286	7493	581	0
@@ -232,14 +232,14 @@ Nargāra	3288	7484	581	0
 Nargāra	3290	7484	581	0
 Nari	3264	7476	581	0
 Narwāl	3269	7485	581	0
-Narwāl Pāin	3269	7485	581	0
+Narwāl Pāin	3269	7485	581	0	Narwāl
 Narwāl	3265	7493	720	0
 Narwāl	3272	7489	581	0
-Narwāl Bāla	3272	7489	581	0
-Nara Baihk	3415	7398	301	0
+Narwāl Bāla	3272	7489	581	0	Narwāl
+Nara Baihk	3415	7398	301	0	Nera
 Dara Nār	3431	7397	0	0
 Nar Pathra	3428	7398	0	0
-Nar Pathrān	3428	7398	0	0
+Nar Pathrān	3428	7398	0	0	Nar Pathra
 Narotamgarh	3010	7782	449	0
 Naroli	2505	7550	353	0
 Narsinghpura	2565	7557	353	0
@@ -254,7 +254,7 @@ Nārāyanpur	1777	7829	400	0
 Narsampalli	1771	7867	466	0
 Narsāpur	1774	7828	400	0
 Nāryasanora	1307	7717	626	0
-Nāryasandra	1307	7717	626	0
+Nāryasandra	1307	7717	626	0	Nāryasanora
 Narayanpura	1306	7764	43	0
 Narani	841	7716	219	0
 Nārsingh ka Bās	2849	7523	539	0
@@ -264,7 +264,7 @@ Nārnond	2822	7550	300	0
 Nārī	2819	7560	300	0
 Nāri ka Bās	2818	7560	300	0
 Naraingarh	3067	7616	674	0
-Narāyangarh	3020	7651	564	0
+Narāyangarh	3020	7651	564	0	Kolu Mājra
 Narāyangarh	3017	7655	564	0
 Narāwāla	3074	7699	587	0
 Narāingarh	3063	7678	632	0
@@ -312,19 +312,19 @@ Narāyanpur	3248	7488	720	0
 Nar Tibba	2766	7146	217	0
 Nārathali	2650	8977	752	0
 Nariman Point	1893	7282	106	0
-Naranjanpur Fattuwal	3155	7521	222	0
-Naranjanpur	3155	7521	222	0
+Naranjanpur Fattuwal	3155	7521	222	0	Fatehwāl
+Naranjanpur	3155	7521	222	0	Fatehwāl
 Narāyan Purwa	2740	8132	525	0
 Nārāyanāpur	1736	8111	60	0
 Narwāra	2636	8530	684	0
 Nārāyanpur	1833	7992	237	0
 Narella	1891	7900	63	0
 Narendra	1551	7498	682	0
-Narenda	1551	7498	682	0
+Narenda	1551	7498	682	0	Narendra
 Terku Vijaya Nārāyanam Melavūr	840	7777	191	0
-Nārāyanam Melavūr	840	7777	191	0
+Nārāyanam Melavūr	840	7777	191	0	Terku Vijaya Nārāyanam Melavūr
 Narangal	1857	7766	140	0
-Narngal Buzurg	1857	7766	140	0
+Narngal Buzurg	1857	7766	140	0	Narangal
 Narwar	2307	7592	314	0
 Narsipūr	2093	7690	525	0
 Narengi Tinali	2618	9183	359	0
@@ -421,9 +421,9 @@ Narāīngarh	3049	7764	534	0
 Nārnaul Kolān	2727	7684	482	0
 Naraya	3066	7784	448	0
 Nārāyanpura	2652	7628	708	0
-Firozpur Narottam	2941	7809	575	0
+Firozpur Narottam	2941	7809	575	0	Ghāsīwāla
 Narwāsi	2874	7539	539	0
-Nārāyanpur	2957	7808	575	0
+Nārāyanpur	2957	7808	575	0	Amīnpur
 Khiriya Narāyandās	2360	7838	338	0
 Nāradpura	2673	7610	121	0
 Narsinghpura	2659	7607	121	0
@@ -473,12 +473,12 @@ Narsen Kalān	2970	7783	596	0
 Narsen Khurd	2972	7785	596	0
 Nāru Mājra	2969	7792	545	0
 Narāyanpuri	2958	7792	545	0
-Narsinghpur	2930	7789	545	0
+Narsinghpur	2930	7789	545	0	Nayāgaon
 Nāri Niketan	2862	7710	771	0
 Naraina	2862	7714	721	0
 Narhāli	2827	7742	774	0
 Naryāla	2825	7742	774	0
-Narāyanpur	2848	7744	588	0
+Narāyanpur	2848	7744	588	0	Nālgarha Rudharpur
 Narāhra	2891	7773	700	0
 Naraina	2860	7774	756	0
 Narāyanpur Bāska	2863	7769	756	0
@@ -491,10 +491,10 @@ Naraina	2560	7507	309	0
 Narāīngarh	2977	7606	367	0
 Nārāyanpur	3034	7815	500	0
 Narāyanwāla	2949	7857	575	0
-Narāyanpur	2949	7857	575	0
-Hakīmpur Narāyan	2928	7854	575	0
+Narāyanpur	2949	7857	575	0	Narāyanwāla
+Hakīmpur Narāyan	2928	7854	575	0	Nagla
 Ibrahīmpur Narāyan	2927	7856	575	0
-Narāyanpur	2938	7873	575	0
+Narāyanpur	2938	7873	575	0	Udhowāla
 Nar Khera	2887	7917	552	0
 Narkherī	2887	7918	552	0
 Narāin Nagla	2879	7924	552	0
@@ -537,7 +537,7 @@ Naraint	2824	7590	300	0
 Narsāpur	1966	7647	153	0
 Nāraingarh	3040	7612	564	0
 Narmāna	3032	7620	564	0
-Naraingarh	3046	7614	564	0
+Naraingarh	3046	7614	564	0	Tambua
 Narlad	1939	7657	153	0
 Narāingarh	3017	7604	593	0
 Narwādi	1900	7656	153	0
@@ -564,7 +564,7 @@ Narāinpur	2810	7797	637	0
 Nārāyanpur	1786	7697	170	0
 Narīpura	2708	7756	546	0
 Nardha	2132	8256	379	0
-Narsaiapallam	2147	8274	407	0
+Narsaiapallam	2147	8274	407	0	Bendrichua
 Nārāyanpur	2127	8274	407	0
 Nārgi	2083	8110	668	0
 Nārangsur	2053	8101	668	0
@@ -676,7 +676,7 @@ Narāinpur	2785	7966	470	0
 Narāinpur	2786	7973	470	0
 Narsinghpura	2636	7757	478	0
 Narpāisingh ka Pura	2639	7773	478	0
-Narhauli	2633	7773	478	0
+Narhauli	2633	7773	478	0	Sidboura
 Nārāyanpur	2629	7755	478	0
 Narsinghgarh	2678	7785	622	0
 Narpatpura	2611	7791	484	0
@@ -787,7 +787,7 @@ Narāyan Dev	2514	8032	663	0
 Nawāda Narpat	2501	8032	463	0
 Narainpura	2432	7932	663	0
 Narainpura	2434	7950	521	0
-Nārāyanpura	2434	7950	521	0
+Nārāyanpura	2434	7950	521	0	Narainpura
 Narauli	2558	8102	728	0
 Narsinghpur Kaoraha	2551	8123	728	0
 Narānpura	2244	7676	322	0
@@ -855,7 +855,7 @@ Nārāyanpur	2503	7847	384	0
 Narāinpur	2522	8330	724	0
 Narhan	2520	8333	724	0
 Narāinpur	2518	8337	749	0
-Narāinpur	2524	8338	724	0
+Narāinpur	2524	8338	724	0	Khemanpur
 Naraili	2525	8348	749	0
 Narsinghpur	2517	8331	724	0
 Narsinghpur	2501	8339	749	0
@@ -958,7 +958,7 @@ Nārhat	2439	7856	384	0
 Nārānpur	2448	7871	384	0
 Nārāyanpur	1710	7643	71	0
 Nārāyanpur	2432	7888	384	0
-Narāri	2434	7896	525	0
+Narāri	2434	7896	525	0	Larāri
 Narāla	1973	7860	282	0
 Narsāpur	1935	7851	282	0
 Narsāpur	1948	7874	282	0
@@ -1074,7 +1074,7 @@ Narāinpur	2564	8297	32	0
 Narhan	2564	8292	32	0
 Narāinpur	2559	8276	32	0
 Narāinpur	2552	8288	251	0
-Narāinpur	2555	8290	251	0
+Narāinpur	2555	8290	251	0	Tilārī
 Rāja Rāni Narāyan Khera	2649	8100	312	0
 Narharpur	2625	8078	312	0
 Nari Khera	2623	8079	312	0
@@ -1088,9 +1088,9 @@ Nārāyanpur Ratan	2967	7826	575	0
 Narāyanpur Inchha	2961	7830	575	0
 Puranpur Narottam	2958	7833	575	0
 Takīpur Narottam	2945	7839	575	0
-Nārāyani Shernagar	2940	7839	575	0
+Nārāyani Shernagar	2940	7839	575	0	Muhammadpur Taki
 Mahmūdpur Nārāyan	2940	7837	575	0
-Basehra Narāyan	2936	7845	575	0
+Basehra Narāyan	2936	7845	575	0	Basehra
 Nargadi	2936	7835	575	0
 Nārāyanpur	2933	7833	575	0
 Nārāyani	2940	7837	575	0
@@ -1647,7 +1647,7 @@ Narāinpur Tewāri	2661	8369	535	0
 Patti Narwar	2557	8158	651	0
 Narāinpur Bābu	2653	8368	535	0
 Narāinpur	2668	8374	535	0
-Narnaur	2555	8159	651	0
+Narnaur	2555	8159	651	0	Ālamchand
 Narha	2553	8171	607	0
 Malāk Nāra	2567	8175	718	0
 Pūrab Nāra	2567	8174	607	0
@@ -1946,13 +1946,13 @@ Narsinghpur	2126	8301	407	0
 Nargikhol	2149	8314	635	0
 Narāi	2987	7844	612	0
 Narsia	2990	7889	612	0
-Nārh	2981	7893	612	0
+Nārh	2981	7893	612	0	Nād
 Nārangpur	2160	8341	497	0
 Nārangpur	2897	7801	700	0
 Narsena	2852	7814	637	0
 Renaich Narmadpur	2823	7800	637	0
 Narmadpur	2823	7801	637	0
-Narāinpur	2817	7819	637	0
+Narāinpur	2817	7819	637	0	Rasūlpur
 Nāru	2814	7814	637	0
 Narauna Akāpur	2800	7822	543	0
 Narūpūr	2806	7844	543	0
@@ -2116,7 +2116,7 @@ Narsampeta	1844	8360	179	0
 Nārāyanāpuram	1835	8371	472	0
 Narasingapeta	1768	8102	46	0
 Narava	1811	8365	472	0
-Narasimhagopālapuram	1819	8373	472	0
+Narasimhagopālapuram	1819	8373	472	0	Urapiskalapālem
 Narendrapuram	1853	8384	472	0
 Pedda Narasingapeta	1762	8119	46	0
 Chinna Narasingapeta	1760	8119	46	0
@@ -2125,7 +2125,7 @@ Nārāyanāpuram	1849	8381	472	0
 Narasāpuram	1829	8378	472	0
 Narasingarāopeta	1842	8397	472	0
 Nārāyanāpuram	1843	8397	472	0
-Narasimhapuram	1841	8381	179	0
+Narasimhapuram	1841	8381	179	0	Geddavalasa
 Nārāyanavārigūdem	1726	8108	60	0
 Nārapādu	1777	8306	227	0
 Nārāyanappapālem	1781	8310	227	0
@@ -2164,7 +2164,7 @@ Narsinghpura	2395	7683	16	0
 Nareshpura	2393	7683	16	0
 Nāriābeh	2396	7695	16	0
 Narsinghkhera	2310	7695	675	0
-Nārāyangarh	2287	7600	322	0
+Nārāyangarh	2287	7600	322	0	Jogimākoria
 Nārākhera	2281	7612	322	0
 Narayana	2296	7624	322	0
 Narsipur	2319	7313	167	0
@@ -2235,7 +2235,7 @@ Nareli	2647	7472	446	0
 Narkatiā	2703	8461	476	0
 Naranā Khurd	2675	7498	446	0
 Nārāinkhera	2518	7406	572	0
-Narsinghpura	2584	7431	309	0
+Narsinghpura	2584	7431	309	0	Bhīmar
 Nārāyankheri	2536	7425	309	0
 Narahwā Mailā	2686	8412	560	0
 Narahwā	2686	8412	560	0
@@ -2363,7 +2363,7 @@ Nārāyanpur	2547	8409	620	0
 Narsinghganj	2538	8402	620	0
 Nārāyanpur	2538	8410	620	0
 Nārāyanpur	2527	8424	409	0
-Narsinhāpur	2408	8402	701	0
+Narsinhāpur	2408	8402	701	0	Pathrā
 Nārāyanpur	2502	8414	409	0
 Nāran	2506	8415	409	0
 Nārāyanpur	2578	8438	536	0
@@ -2945,7 +2945,7 @@ Nārayanapalle	1537	7900	200	0
 Naruvinapalle	1529	7913	200	0
 Nārāyanapeta	1500	7913	6	0
 Narapareddipalle	1582	7934	200	0
-Narasimhapalle	1582	7949	200	0
+Narasimhapalle	1582	7949	200	0	Kottapalle
 Narasayapālem	1596	7933	200	0
 Narasayapālem	1600	7934	200	0
 Narasayyapalle	1559	7944	200	0
@@ -3196,7 +3196,7 @@ Narchaiodai Valanadu	968	7844	454	0
 Narikkudi	959	7832	119	0
 Mel Nariyan	948	7839	5	0
 Kīl Nariyan	948	7840	5	0
-Naryian Subbarāyapuram	943	7843	5	0
+Naryian Subbarāyapuram	943	7843	5	0	Rānisetupuram
 Nāraiyūrani	926	7842	5	0
 Vadakku Narippaiyūr	912	7841	5	0
 Terku Narippaiyūr	912	7842	5	0
@@ -3262,7 +3262,7 @@ Nāraiyūr	1155	7894	178	0
 Nāranappatti	1171	7876	390	0
 Nāranamangalam	1115	7887	265	0
 Narasingarāyanaroppam	1400	7720	569	0
-Nārāndhora	2278	8573	653	0
+Nārāndhora	2278	8573	653	0	Gāludih
 Narupāda	2269	8556	287	0
 Narsanda	2254	8554	287	0
 Narānga	2267	8570	287	0
@@ -3293,7 +3293,7 @@ Nārāyanpur	2075	8508	414	0
 Narsinghpur	2035	8518	548	0
 Narasinghprasād	2012	8514	548	0
 Narendrapur	2015	8512	548	0
-Naranpāra	2094	8531	289	0
+Naranpāra	2094	8531	289	0	Bālisāhi
 Narindrapur	2082	8526	289	0
 Naraharipur Sāsan	2076	8525	289	0
 Narāinpur	2408	8560	764	0
@@ -3333,7 +3333,7 @@ Nari	2779	9505	97	0
 Narsahi̇̄	2743	8385	569	0
 Nariān	3327	7436	504	0
 Nār Baihk	3451	7447	0	0
-Hakīmpur Nārāyan	2925	7846	575	0
+Hakīmpur Nārāyan	2925	7846	575	0	Nagla
 Narāyanpur	2648	8278	553	0
 Narayanpur	2550	8195	607	0
 Narāyanpur	2724	8069	507	0

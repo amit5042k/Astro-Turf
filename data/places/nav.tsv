@@ -1,43 +1,43 @@
 Navi Mumbai	1904	7302	246	2600000
-Navangar	2247	7007	145	600943
-Navanagar	2247	7007	145	600943
-Naveen	2858	7733	588	293908
-Navi Mumbai Panvel Raigarh	1899	7311	17	195373
+Navangar	2247	7007	145	600943	Jamnagar
+Navanagar	2247	7007	145	600943	Jamnagar
+Naveen	2858	7733	588	293908	Noida
+Navi Mumbai Panvel Raigarh	1899	7311	17	195373	Panvel
 Navsari	2094	7292	221	171109
-Navasari	2094	7292	221	171109
-Jetpur Navagadh	2175	7062	174	118302
+Navasari	2094	7292	221	171109	Navsari
+Jetpur Navagadh	2175	7062	174	118302	Jetpur
 Navadwīp	2341	8837	528	111123
 Nawāda	2489	8554	107	98029
 Nawābganj	2693	8120	30	79246
-Nawabgang	2693	8120	30	79246
+Nawabgang	2693	8120	30	79246	Nawābganj
 Nawalgarh	2785	7527	300	63948
 Nawanshahr	3112	7612	295	46024
-Nawadih	2477	8638	524	40646
+Nawadih	2477	8638	524	40646	Jhajha
 Navāpur	2116	7379	186	34207
 Nawābganj	2854	7963	342	34134
 Nawāpāra	2097	8186	310	29315
-Nawapara Rajim	2097	8186	310	29315
-Gobra Nawapara	2097	8186	310	29315
+Nawapara Rajim	2097	8186	310	29315	Nawāpāra
+Gobra Nawapara	2097	8186	310	29315	Nawāpāra
 Navalgund	1556	7535	682	24613
 Nāwa	2702	7500	430	22088
-Navlock Garden	1294	7931	160	20171
+Navlock Garden	1294	7931	160	20171	Puliyankannu
 Nawābganj	2686	8214	542	17015
 Navalpattu	1075	7878	270	16788
 Nawānshahr	3277	7453	581	14884
 Navelim	1553	7398	188	12469
 Navelim	1526	7397	102	12323
 Nawābganj	2650	8031	469	10758
-Kanpur Nawabganj	2650	8031	469	10758
+Kanpur Nawabganj	2650	8031	469	10758	Nawābganj
 Nawagarh	2190	8161	710	10541
 Nāvalūr	1284	8023	247	7610
-Navandgi	1725	7743	210	6711
+Navandgi	1725	7743	210	6711	Kiādgira
 Navkawada	1992	7911	111	5634
 Navoor	1289	7508	55	5365
 Nava Bhildi	2419	7201	134	4994
 Bila Nawāb	3115	7543	369	716
-Nawānshahr	3261	7473	581	0
+Nawānshahr	3261	7473	581	0	Ranbīrsinghpura
 Nawānagar	2432	8253	631	0
-Navira	1930	8377	363	0
+Navira	1930	8377	363	0	Nayira
 Nawi	3317	7882	2	0
 Nawegaon	2092	8009	171	0
 Nawegaon	2002	7999	135	0
@@ -46,9 +46,9 @@ Nawātānr	2381	8526	764	0
 Nawātala	2622	7217	285	0
 Nawa Tala	2528	7123	285	0
 Nawargaon Buzurg	2036	7959	111	0
-Nawergaon	2036	7959	111	0
-Nawargaon	2036	7959	111	0
-Nawegaon	2036	7959	111	0
+Nawergaon	2036	7959	111	0	Nawargaon Buzurg
+Nawargaon	2036	7959	111	0	Nawargaon Buzurg
+Nawegaon	2036	7959	111	0	Nawargaon Buzurg
 Nawa Purwa	2802	8138	294	0
 Nāwāpur	1979	7269	192	0
 Nawāpāra	2140	8242	379	0
@@ -59,7 +59,7 @@ Nawānagar	2607	8399	536	0
 Nawānagar	2539	8421	620	0
 Nawalkal	1616	7697	50	0
 Nawāgarh	2185	8266	696	0
-Nawāgaon	2557	7674	335	0
+Nawāgaon	2557	7674	335	0	Nayāgaon
 Nawagaon	2365	7348	125	0
 Nawāgaon	2349	7443	166	0
 Nawāgaon	2148	8253	379	0
@@ -68,7 +68,7 @@ Nawāgaon	2113	8178	310	0
 Nawāgaon	2110	8183	310	0
 Nawāgaon	2102	8187	310	0
 Nawāgām	2280	7258	167	0
-Navagaon	2280	7258	167	0
+Navagaon	2280	7258	167	0	Nawāgām
 Nawādih	2455	8541	750	0
 Nawādīh	2385	8604	517	0
 Nawādīh	2354	8397	341	0
@@ -77,7 +77,7 @@ Nawāda	2555	8455	377	0
 Nawābpet	1767	7924	182	0
 Nawābpet	1690	7803	317	0
 Nawābganj Allābād	2789	8164	294	0
-Nawābganj Aliabad	2789	8164	294	0
+Nawābganj Aliabad	2789	8164	294	0	Nawābganj Allābād
 Nawābganj	2743	7940	688	0
 Nawābganj	2507	8503	527	0
 Nawābganj	2354	7488	568	0
@@ -89,30 +89,30 @@ Nāvūru	1448	7967	6	0
 Nāvūru	1306	7532	55	0
 Navlakhi	2296	7045	147	0
 Navīnāl	2283	6960	108	0
-Navinar	2283	6960	108	0
+Navinar	2283	6960	108	0	Navīnāl
 Navībandar	2145	6979	742	0
-Navabandar	2145	6979	742	0
+Navabandar	2145	6979	742	0	Navībandar
 Navgam	2185	7371	254	0
 Navdi	1734	7404	64	0
 Navdi	1717	7354	234	0
 Navalyal	1675	7490	90	0
 Navāli	2462	7573	580	0
-Nawar	2630	7992	671	0
+Nawar	2630	7992	671	0	Māwar
 Bindra Nawāgarh	2048	8218	297	0
 Basai Nawāb	2690	7778	622	0
-Nawābganj	2557	8174	607	0
+Nawābganj	2557	8174	607	0	Atrāmpur
 Chak Nawāb	3084	7434	566	0
 Nav Kadal	3410	7480	611	0
 Nawab Bazar	3408	7480	611	0
 Nawaniān	3336	7423	504	0
 Nāwa Behk	3428	7414	0	0
-Nāwa Baihk	3428	7414	0	0
+Nāwa Baihk	3428	7414	0	0	Nāwa Behk
 Nawābbāgh	3422	7469	595	0
 Nawān Khu	3289	7467	581	0
 Nāwān	3390	7433	1	0
 Nawāīn	3298	7491	666	0
 Nawānābād	3263	7491	720	0
-Chak Nāwāda	3268	7477	581	0
+Chak Nāwāda	3268	7477	581	0	Noadda
 Nāwa	3408	7397	301	0
 Nawa Gabra	3436	7385	0	0
 Nawābgarh	3048	7778	448	0
@@ -128,7 +128,7 @@ Navalar Nedunchezian Nagar	1304	8022	204	0
 Navi Dhrewād	2215	6907	131	0
 Navadra	2195	6926	131	0
 Navin  New Sama	2234	7319	159	0
-Navin	2234	7319	159	0
+Navin	2234	7319	159	0	Navin  New Sama
 Nawān	2847	7555	539	0
 Nawān Kālgarh	3062	7618	648	0
 Nāwara	2406	7805	215	0
@@ -170,7 +170,7 @@ Nawa Purwa	2678	7964	715	0
 Purwa Nawal	2683	7974	570	0
 Nawāda Piprauli	2677	7969	715	0
 Nawāda Singa	2676	7969	715	0
-Nawāda Singo	2676	7969	715	0
+Nawāda Singo	2676	7969	715	0	Nawāda Singa
 Nawāzpur	2676	7972	715	0
 Nawāda Shāham	2674	7984	671	0
 Nawāda Dhīr	2673	7984	671	0
@@ -226,8 +226,8 @@ Jamalatta Nawakadal	3409	7480	611	0
 Navanchanarabāri	2316	9171	733	0
 Nawābganj	2536	8764	625	0
 Nawabās	2427	7267	601	0
-Nawapas	2427	7267	601	0
-Nāvadimangalam	1240	7910	197	0
+Nawapas	2427	7267	601	0	Nawabās
+Nāvadimangalam	1240	7910	197	0	Nāyadimangalam
 Nawāgāon	2007	8294	349	0
 Nawāgan	2203	7383	126	0
 Nawagoan Jait	2224	8174	755	0
@@ -243,7 +243,7 @@ Nawāgaon	2943	7589	339	0
 Nawāla	3333	7446	504	0
 Nāwa Nār	3456	7440	0	0
 Nawidäir	3458	7443	0	0
-Nawidaeir	3458	7443	0	0
+Nawidaeir	3458	7443	0	0	Nawidäir
 Nāwar	3141	7736	278	0
 Nāwar	3115	7732	479	0
 Nawan	3113	7727	479	0
@@ -269,7 +269,7 @@ Nawāra	2767	7682	482	0
 Nawāda	3047	7768	534	0
 Nawājibās	2739	7689	482	0
 Navasari	1225	9281	99	0
-Fatehipur Nawābād	2937	7815	575	0
+Fatehipur Nawābād	2937	7815	575	0	Bakshīwāla
 Nawalpur	2940	7802	545	0
 Nawāgaon	2942	7815	575	0
 Āspur Nawāda	2939	7823	575	0
@@ -316,11 +316,11 @@ Nawāngaon	2958	7798	783	0
 Navīnagar	2930	7777	545	0
 Nawāda	2942	7793	545	0
 Navīn Shāhdara	2868	7728	693	0
-Nawāda	2862	7737	588	0
+Nawāda	2862	7737	588	0	Rasūlpur
 Latīfpur Nawāda	2879	7725	727	0
 Nawāda	2839	7727	774	0
 Nawāda Tīgaon	2834	7738	774	0
-Nawāda	2847	7753	588	0
+Nawāda	2847	7753	588	0	Bahmanpur Gujrāla
 Nawāda	2838	7758	588	0
 Nawabās	2719	7554	121	0
 Nawās ki Dhāni	2719	7569	121	0
@@ -329,8 +329,8 @@ Nawānpind	2997	7513	563	0
 Nawārīdhār	3049	7806	500	0
 Nawāda	3026	7806	448	0
 Nawāgāon	2935	7856	575	0
-Nawāda Hakīmpur Gopāl	2933	7864	575	0
-Nawāda Saiyidpur Jalāl	2932	7864	575	0
+Nawāda Hakīmpur Gopāl	2933	7864	575	0	Mānnagar
+Nawāda Saiyidpur Jalāl	2932	7864	575	0	Dilhīwāla
 Nawābpur Khatta	2947	7869	575	0
 Nawābnagar	2897	7917	552	0
 Nawābganj Shimālī	2891	7904	552	0
@@ -361,18 +361,18 @@ Nawāgaon	2129	8116	474	0
 Nawāgaon	2150	8120	286	0
 Sītarām Navodi Dhāni	2804	7552	300	0
 Navlāpura	2679	7727	447	0
-Chak Nāvli	2699	7730	114	0
+Chak Nāvli	2699	7730	114	0	Bhūkīpura
 Modhni Nava	2648	7780	478	0
 Nawāb ka Pura	2647	7782	478	0
 Nāvli	2643	7839	334	0
 Dhāni Nāvata	2813	7597	300	0
 Nāvta	2812	7595	300	0
-Navīngaon	1979	7616	53	0
+Navīngaon	1979	7616	53	0	Sālegaon
 Nawa Pind	3080	7600	674	0
 Nawābpur	1906	7600	33	0
 Nāvkli	1924	7699	153	0
 Nawidäir	3470	7449	0	0
-Nawidaeir	3470	7449	0	0
+Nawidaeir	3470	7449	0	0	Nawidäir
 Nawan Rakhra	3037	7625	564	0
 Nawān Shāhbāzpur	3028	7633	564	0
 Naware Kinhi	1818	7663	158	0
@@ -422,7 +422,7 @@ Nawāpāra	2027	8103	704	0
 Nawātola	2049	8113	668	0
 Nawagarh	2012	8102	704	0
 Nawāpāra	2010	8116	704	0
-Jaita Nawāgaon	2008	8118	704	0
+Jaita Nawāgaon	2008	8118	704	0	Jaital
 Nawāgaon	2008	8118	704	0
 Nawāgaon	2071	8156	652	0
 Nawāgaon	2068	8151	652	0
@@ -496,7 +496,7 @@ Nawalpur	2372	7908	352	0
 Nawalpur	2371	7909	352	0
 Nawāburaj	1675	7733	72	0
 Nawābganj	2781	7876	616	0
-Nawāda	2775	7897	616	0
+Nawāda	2775	7897	616	0	Akbarnagar Palia
 Nawāda	2776	7877	616	0
 Nawān	2709	7888	464	0
 Nawalgaon	2290	7923	522	0
@@ -571,10 +571,10 @@ Nawāda Diwān	2682	7997	469	0
 Nawāda Basu	2682	7997	469	0
 Nawāda Bīru	2681	7998	469	0
 Nawāda Hīra	2680	7999	469	0
-Naya Nawāda	2678	7996	469	0
+Naya Nawāda	2678	7996	469	0	Chamarahia
 Nawāda Masua	2681	7997	469	0
 Nawāda Daman	2677	8000	469	0
-Bhawan Nawāda	2676	7997	469	0
+Bhawan Nawāda	2676	7997	469	0	Ghusuāpur
 Nawāda Makran	2676	7995	469	0
 Nawāda Pema	2675	7994	671	0
 Nawāda Matai	2679	7993	671	0
@@ -626,7 +626,7 @@ Navthal Buzurg	2095	7758	133	0
 Navthal	2097	7758	133	0
 Navsāl	2076	7755	172	0
 Navsāri	2096	7774	133	0
-Nawalpur	2599	8369	586	0
+Nawalpur	2599	8369	586	0	Ratohi
 Dera Nawal	2541	8369	26	0
 Rasūlpur Nawāda	2536	8363	26	0
 Nāwāpur	2164	7764	462	0
@@ -635,7 +635,7 @@ Nawāgawān	2552	8395	620	0
 Nāwar	2542	8386	620	0
 Nawānagar	2528	8378	749	0
 Nawānagar	2525	8388	409	0
-Nawākheda	2129	7740	133	0
+Nawākheda	2129	7740	133	0	Jāmbhal
 Nawābpur	2121	7756	133	0
 Nāvkhed	2080	7715	172	0
 Pāngri Navghare	2022	7705	128	0
@@ -663,9 +663,9 @@ Nawādīh	2425	8359	743	0
 Nawātola	2414	8369	743	0
 Nawātola	2408	8364	743	0
 Nawādīh	2408	8368	743	0
-Nawdīha	2408	8359	743	0
+Nawdīha	2408	8359	743	0	Suarjangha
 Nawānagar	2405	8353	743	0
-Nawegaon	2098	7933	141	0
+Nawegaon	2098	7933	141	0	Isāpur
 Nawegaon	2083	7938	141	0
 Nawegaon	2098	7947	141	0
 Nawegaon	2080	7943	141	0
@@ -705,7 +705,7 @@ Nawādīh	2407	8383	743	0
 Nawādih	2413	8390	743	0
 Nawādīh Khurd	2424	8390	701	0
 Wālpur Navin	1968	7803	67	0
-Navkua	2525	7899	481	0
+Navkua	2525	7899	481	0	Jewar Ka Khirak
 Navallagūdem	1691	7894	101	0
 Nawegaon	1940	7851	282	0
 Nawāda	2714	7915	464	0
@@ -772,12 +772,12 @@ Navīn Place	2863	7697	763	0
 Nawāzi Khera	2619	8083	681	0
 Nawa Khera	2625	8086	681	0
 Purwa Nawa	2621	8095	681	0
-Nawābpura	2916	7824	575	0
+Nawābpura	2916	7824	575	0	Shekhūpura
 Nawāda	2913	7818	575	0
 Nāvwāla	2902	7810	483	0
 Chamru Nawāda	2956	7843	575	0
-Shekhpur Nāwābād	2951	7843	575	0
-Kallu Nawāda	2951	7838	575	0
+Shekhpur Nāwābād	2951	7843	575	0	Abdulpur
+Kallu Nawāda	2951	7838	575	0	Kallūwāla
 Nawāda	2938	7834	575	0
 Nawāda	2936	7834	575	0
 Nawāda Shānpur	2934	7847	575	0
@@ -861,7 +861,7 @@ Nawejharī Tolā	2129	7987	171	0
 Nawejharī	2128	7986	171	0
 Nawarmārī	2097	7908	141	0
 Navegaon	2089	7915	141	0
-Būrhpur Nawāda	2912	7853	575	0
+Būrhpur Nawāda	2912	7853	575	0	Mundākheri
 Mubārikpur Nawāda	2907	7851	575	0
 Mukhtārpur Nawāda	2906	7861	511	0
 Mukhtārpur Nawādari	2906	7862	511	0
@@ -887,7 +887,7 @@ Nawāj Purwa	2631	8125	681	0
 Nawāda	2902	7881	511	0
 Pura Nawābganj	2626	8131	681	0
 Nawatala	2052	7951	111	0
-Nawegaon	2072	7972	404	0
+Nawegaon	2072	7972	404	0	Nāndikhera
 Nawakhala	2059	7967	111	0
 Nawegaon	2058	7973	111	0
 Jamālpur Nawāda	2649	8178	597	0
@@ -1021,7 +1021,7 @@ Nawābād	3271	7486	581	0
 Nawāda	2695	8239	542	0
 Nawār	2694	8238	542	0
 Nawābganj	2656	8234	553	0
-Nawāpura	2576	8312	498	0
+Nawāpura	2576	8312	498	0	Sultānpur
 Tilokpur Nawāda	2612	8241	597	0
 Nawāzgarh	2606	8235	597	0
 Nawāgadha	2677	8256	154	0
@@ -1097,13 +1097,13 @@ Nawābād	2599	8177	718	0
 Kataiya Nawāda	2596	8187	718	0
 Nawāda Kalān	2595	8190	718	0
 Nawasta	2570	8181	607	0
-Nawāda	2567	8179	607	0
-Nawāda	2560	8177	607	0
+Nawāda	2567	8179	607	0	Shahpur Kalyān
+Nawāda	2560	8177	607	0	Sarāi Rāmdās
 Nawwāpur	2573	8189	718	0
 Nawa Purwa	2537	8182	607	0
 Nawāda	2534	8189	607	0
 Nawāda Samogar	2534	8191	607	0
-Nawānwān	2539	8194	607	0
+Nawānwān	2539	8194	607	0	Nībi
 Nawa Pind	3220	7558	692	0
 Nawādpura	2211	7477	130	0
 Navegaon	2180	7422	186	0
@@ -1115,7 +1115,7 @@ Nawāpura	2241	7590	660	0
 Nawalpura	2223	7598	329	0
 Navra	2061	7508	78	0
 Mārvāda Navā Vās	2437	7236	134	0
-Nawápura	2416	7242	134	0
+Nawápura	2416	7242	134	0	Sher Mahamadpura
 Nāvisna	2403	7248	134	0
 Nawān Pind	3163	7459	222	0
 Nawāra	2498	7265	23	0
@@ -1123,7 +1123,7 @@ Nawānpind	3127	7463	260	0
 Nawānpind	3119	7474	260	0
 Navāvās	2413	7274	134	0
 Navāvās	2403	7263	134	0
-Nawāgaon	2090	8145	286	0
+Nawāgaon	2090	8145	286	0	Bhānpur
 Nawāpāra	2071	8133	668	0
 Nawegaon	2254	8041	480	0
 Nawāpāra	2048	8135	704	0
@@ -1213,7 +1213,7 @@ Nawāgaon	2229	8219	291	0
 Nawāpāra	2226	8219	291	0
 Nawāpāra	2224	8207	291	0
 Nawāpāra	2218	8207	291	0
-Nawāgaon	2213	8202	291	0
+Nawāgaon	2213	8202	291	0	Khajārī
 Nawāgaon	2221	8213	291	0
 Nawāpāra	2224	8211	291	0
 Nawāpāra	2203	8222	291	0
@@ -1271,12 +1271,12 @@ Nawāpāra	2167	8254	379	0
 Nawāpāra	2162	8274	635	0
 Nawādih	2192	8289	402	0
 Nawāgaon	2189	8295	402	0
-Nawāgaon	2150	8289	407	0
+Nawāgaon	2150	8289	407	0	Harda
 Nawāpāra	2168	8286	635	0
 Nawāgaon	2157	8298	635	0
 Nawāpāra	2107	8208	407	0
 Nawāpāra	2115	8212	407	0
-Nawāgaon	2124	8212	407	0
+Nawāgaon	2124	8212	407	0	Tenduwāhi
 Nawāgaon	2120	8224	407	0
 Nawāgaon	2110	8223	407	0
 Nawāgaon	2117	8229	407	0
@@ -1373,7 +1373,7 @@ Nawāgaon Kāyasth	2210	8156	755	0
 Thelka Nawāgaon	2219	8159	755	0
 Nawāpāra	2221	8171	755	0
 Nawāgaon	2210	8169	755	0
-Nawāgaon	2216	8169	755	0
+Nawāgaon	2216	8169	755	0	Kestarpur
 Nawāpāra	2205	8167	755	0
 Nawāpāra	2202	8152	755	0
 Nawāgaon Musua	2210	8156	755	0
@@ -1407,7 +1407,7 @@ Nawāpāra	2163	8172	379	0
 Nawāpāra	2185	8176	710	0
 Nawāpāra	2177	8184	710	0
 Nawāgaon	2181	8190	710	0
-Nawāgaon	2175	8181	379	0
+Nawāgaon	2175	8181	379	0	Sanjāri
 Nawāgaon	2166	8178	379	0
 Nawāpāra	2175	8186	379	0
 Nawāpāra	2161	8191	379	0
@@ -1430,14 +1430,14 @@ Nawānnagar	3090	7680	587	0
 Nawādīhi	2115	8284	497	0
 Nawāpāra	2108	8280	497	0
 Nawāpāra	2114	8294	497	0
-Nawāgaon	2102	8296	497	0
+Nawāgaon	2102	8296	497	0	Kabibarpur
 Nawāpāra	2092	8216	297	0
 Ghutku Nawāpāra	2068	8206	297	0
 Nawādih	2067	8218	297	0
 Nawāpāra	2033	8203	652	0
 Nawādīh	2098	8226	407	0
 Nawāpāra	2084	8229	297	0
-Nawādīh	2083	8233	297	0
+Nawādīh	2083	8233	297	0	Ganjaidīh
 Mata Nawāpāra	2078	8242	594	0
 Nawādīh	2095	8242	407	0
 Nawādīh	2089	8242	407	0
@@ -1657,7 +1657,7 @@ Arīfpur Nawāda	2805	7913	117	0
 Nawāda Sulhra	2807	7921	117	0
 Nawābnagar	2886	7945	342	0
 Nawābganj	2883	7938	552	0
-Nawābnagar	2880	7929	552	0
+Nawābnagar	2880	7929	552	0	Debīpura
 Nawa Nagla	2864	7942	342	0
 Nawāil	2875	7943	342	0
 Thiria Nawāzishpur	2871	7945	342	0
@@ -1676,7 +1676,7 @@ Nawādia	2813	7945	117	0
 Nawāda Bilsandi	2817	7949	342	0
 Nawāda	2639	8454	703	0
 Nawāda Gobindganj	2649	8466	396	0
-Chāmu Nava	2394	7308	212	0
+Chāmu Nava	2394	7308	212	0	Bhātva
 Nava	2391	7303	212	0
 Navāgām	2378	7310	212	0
 Nava	2382	7314	212	0
@@ -1699,7 +1699,7 @@ Ikhtiārpur Nawadia	2857	7959	342	0
 Nawāda	2868	7960	342	0
 Mangri Rāi Nawāda	2869	7959	342	0
 Nawadia	2857	7960	342	0
-Nawāda	2855	7964	342	0
+Nawāda	2855	7964	342	0	Farīdāpur Gānga
 Nawāda Karahia	2862	7965	683	0
 Nawada Kanja	2865	7969	683	0
 Bār Nawāda	2856	7971	683	0
@@ -1739,12 +1739,12 @@ Nawadia Baljīt	2821	7974	683	0
 Nawāda Taluka Hardendi	2809	7974	470	0
 Nawada Taluka Palia	2807	7973	470	0
 Nasi Nawāda	2806	7973	470	0
-Nawāda	2800	7971	470	0
+Nawāda	2800	7971	470	0	Ismāilpur
 Nawābganj	2884	7979	683	0
 Nawadiā	2879	7977	683	0
 Khalī Nawāda	2877	7980	683	0
 Nawadiā	2879	7985	683	0
-Nawadiā	2893	7982	641	0
+Nawadiā	2893	7982	641	0	Sidda
 Nawāda Dās	2870	7975	683	0
 Nawadia Daila	2858	7983	683	0
 Nawāda Khushāli	2856	7976	683	0
@@ -1799,7 +1799,7 @@ Nāwā	2434	8447	118	0
 Nawādih	2421	8426	701	0
 Nāwa Khās	2419	8430	701	0
 Nawādih	2409	8429	701	0
-Nawādih	2402	8429	701	0
+Nawādih	2402	8429	701	0	Tenār
 Nawādih	2421	8439	701	0
 Nāwa	2424	8440	701	0
 Nāwa	2411	8444	701	0
@@ -2589,7 +2589,7 @@ Ketru Nawāda	2484	8633	524	0
 Garo Nawāda	2493	8625	524	0
 Nawādih	2473	8632	524	0
 Nawāda	2453	8635	524	0
-Nawādih	2450	8647	524	0
+Nawādih	2450	8647	524	0	Naudih
 Nawādāh	2459	8648	524	0
 Nawādih	2457	8640	524	0
 Nawādih	2448	8636	524	0

@@ -1,18 +1,18 @@
 Bhimavaram	1654	8152	318	146961
 Bhīmunipatnam	1789	8345	81	55082
-Bimlipatam	1789	8345	81	55082
-Koregaon-Bhima	1865	7406	52	25846
+Bimlipatam	1789	8345	81	55082	Bhīmunipatnam
+Koregaon-Bhima	1865	7406	52	25846	Koregaon
 Bhīmnagar	2072	7858	143	14394
 Bhīmavaram	1803	7954	61	13841
-Bhimaram	1803	7954	61	13841
+Bhimaram	1803	7954	61	13841	Bhīmavaram
 Bhim	2574	7408	572	11568
 Bhimpur	2045	7288	760	10936
-Bimpor	2045	7288	760	10936
-Bhimpore	2045	7288	760	10936
+Bimpor	2045	7288	760	10936	Bhimpur
+Bhimpore	2045	7288	760	10936	Bhimpur
 Bhimarayanagudi	1673	7680	72	8029
 Bhīm Tāl	2934	7956	551	6625
 Bhim Kanari	2380	8619	401	5170
-Bhīmgarh	2235	7953	368	0
+Bhīmgarh	2235	7953	368	0	Bichhua
 Bīmgal	1870	7845	75	0
 Bimbalā	2120	8540	293	0
 Bhīmsen	2642	8022	469	0
@@ -20,7 +20,7 @@ Bhīmsar	2769	7465	539	0
 Bhimrād	2208	7158	370	0
 Bhimra	1820	7760	31	0
 Bhimpuram	1919	8395	363	0
-Bhīmpur	2192	7755	462	0
+Bhīmpur	2192	7755	462	0	Bāzārdhāna
 Bhimpur	2108	7273	139	0
 Bhimora	2234	7124	28	0
 Bhīmnāth	2225	7192	370	0
@@ -29,11 +29,11 @@ Bhīmkhoj	2131	8411	567	0
 Bhimkātta	2280	7047	145	0
 Bhīmāshankar	1907	7354	52	0
 Bhimāsar	2354	7087	108	0
-Bhimāsir	2354	7087	108	0
+Bhimāsir	2354	7087	108	0	Bhimāsar
 Bhīmanapalli	1695	7893	101	0
 Bhīmanahalli	1219	7628	74	0
 Bhīmadolu	1681	8126	24	0
-Bhimadol	1681	8126	24	0
+Bhimadol	1681	8126	24	0	Bhīmadolu
 Bhīmsar	2848	7455	539	0
 Bimun	3406	7475	76	0
 Bhimbar	3355	7421	1	0
@@ -139,7 +139,7 @@ Bimlāgu Tānda	1760	7986	762	0
 Bhīmanpalli	1679	7915	101	0
 Purwa Bhīmsingh	2666	7973	671	0
 Nagla Bhīm	2749	7861	403	0
-Bhīmpur	2560	8116	728	0
+Bhīmpur	2560	8116	728	0	Manjhanpur
 Bhīmpura	2218	7697	465	0
 Bhīmpur	2554	8218	607	0
 Bhīmpura	2690	7822	622	0
@@ -326,8 +326,8 @@ Bhīmanpanka	1947	8372	363	0
 Bhīmāruputtu	1862	8270	316	0
 Bhīmavarappādu	1670	8065	104	0
 Bhīmosingi	1810	8267	268	0
-Bhimāpuram	1833	8107	599	0
-Bhimāpuram	1848	8124	599	0
+Bhimāpuram	1833	8107	599	0	Pedda Karkangūda
+Bhimāpuram	1848	8124	599	0	Messigūda
 Bhīmaguda	1941	8377	363	0
 Bhīmanavalasa	1862	8324	199	0
 Bhīmupolu	1827	8310	268	0

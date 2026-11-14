@@ -1,27 +1,27 @@
 Kolkata	2256	8836	123	4631392
-Kolikod	1125	7578	262	550440
+Kolikod	1125	7578	262	550440	Kozhikode
 Kolhāpur	1670	7423	57	549236
 Kollam	888	7658	549	367107
 Kolār	1314	7813	47	138462
-Roha-Kolaba	1844	7312	17	90000
+Roha-Kolaba	1844	7312	17	90000	Roha
 Kolar	2316	7742	687	87882
 Wadgaon Kolhati	1984	7524	113	65620
 Kollegāl	1215	7711	69	57149
-Kollegālam	1215	7711	69	57149
+Kollegālam	1215	7711	69	57149	Kollegāl
 Kollancode	829	7711	453	38385
 Kolasib	2422	9268	526	25000
 Kollivāyal	1150	7648	115	21943
 Kolavallúr	1175	7562	266	19817
-Kolavelloor	1175	7562	266	19817
+Kolavelloor	1175	7562	266	19817	Kolavallúr
 Kolāras	2522	7761	436	19781
-Kolathupalayam	1076	7758	235	17819
+Kolathupalayam	1076	7758	235	17819	Kulattuppālaiyam
 Kolaccheri	1198	7542	266	17095
-Kolacherry	1198	7542	266	17095
-Kolambur	1263	7922	197	14304
-Kolathur	1185	7775	51	12748
+Kolacherry	1198	7542	266	17095	Kolaccheri
+Kolambur	1263	7922	197	14304	Aliyābād
+Kolathur	1185	7775	51	12748	Kulattūr
 Kōlazhi	1057	7622	241	11540
 Kolāyat	2784	7296	307	9684
-Sri Kolayatji	2784	7296	307	9684
+Sri Kolayatji	2784	7296	307	9684	Kolāyat
 Kolappalūr	1138	7743	211	9607
 Kollankoil	1113	7774	211	9196
 Kolvi	2394	7560	333	8584
@@ -29,49 +29,49 @@ Kolki	1798	7445	64	8054
 Kolambe	1296	7491	55	5592
 Koloriāng	2791	9336	36	2345
 Kolanukonda	1645	8061	319	1947
-Kolinjāmpāra	1074	7684	263	0
+Kolinjāmpāra	1074	7684	263	0	Kozhinjampāra
 Kolha	1936	7655	153	0
-Kolkai	864	7806	208	0
+Kolkai	864	7806	208	0	Korkai
 Kolvan	1858	7353	52	0
 Kolur	3391	7526	148	0
 Kolur	1991	8115	704	0
 Kolūkheri	2422	7669	333	0
 Kolūdīh	2449	8194	672	0
-Koludi	2449	8194	672	0
+Koludi	2449	8194	672	0	Kolūdīh
 Koluāhi	2646	8607	556	0
 Kolu Pābuji	2692	7230	344	0
-Kolu	2692	7230	344	0
+Kolu	2692	7230	344	0	Kolu Pābuji
 Kolu	2603	7171	285	0
 Kolshet	1924	7299	246	0
 Kolsa	2016	7950	111	0
 Kollūru	1618	8080	220	0
-Kollur	1618	8080	220	0
+Kollur	1618	8080	220	0	Kollūru
 Kollur	1387	7481	257	0
-Kollūru	1387	7481	257	0
+Kollūru	1387	7481	257	0	Kollur
 Kollengode	1062	7670	263	0
-Kollangod	1062	7670	263	0
+Kollangod	1062	7670	263	0	Kollengode
 Kollam	1146	7568	262	0
 Kolli Hills	1133	7833	231	0
 Kollāigūda	1810	8128	599	0
 Kolkole Kalān	2415	8473	393	0
 Kolki	2179	7022	174	0
-Kolkhādoa	2665	7609	121	0
+Kolkhādoa	2665	7609	121	0	Kotkhāwda
 Koliyāk	2161	7227	168	0
-Koliak	2161	7227	168	0
+Koliak	2161	7227	168	0	Koliyāk
 Kolitottattutura	900	7652	549	0
-Kolitottattuturu	900	7652	549	0
+Kolitottattuturu	900	7652	549	0	Kolitottattutura
 Kolithar	2203	7066	174	0
 Kolipura	2496	7567	371	0
 Kolinjivādi	1074	7754	235	0
-Kolinivadi	1074	7754	235	0
+Kolinivadi	1074	7754	235	0	Kolinjivādi
 Kolimigundla	1508	7811	232	0
 Kolia	2736	7447	430	0
 Kolhui	2730	8333	515	0
 Kolhār Budrukh	1954	7453	152	0
-Kolhār	1954	7453	152	0
+Kolhār	1954	7453	152	0	Kolhār Budrukh
 Kolhār	1643	7568	80	0
 Kolhāpur	1611	7832	467	0
-Kollapur	1611	7832	467	0
+Kollapur	1611	7832	467	0	Kolhāpur
 Kolgiri	1710	7534	65	0
 Kolghar	1976	7561	113	0
 Kolgaon	2065	7510	78	0
@@ -79,7 +79,7 @@ Kolgaon	1986	7435	54	0
 Kolgaon	1879	7468	152	0
 Kolebīra	2270	8469	495	0
 Kolattupuzha	891	7705	549	0
-Kolattupula	891	7705	549	0
+Kolattupula	891	7705	549	0	Kolattupuzha
 Kola-rue	823	9317	79	0
 Kolāri	2685	7781	622	0
 Kolāra	2041	7937	111	0
@@ -88,9 +88,9 @@ Kolambi	2025	7816	67	0
 Kolāl	1336	7731	93	0
 Kolaki	2154	7515	248	0
 Kolakambē	1129	7674	115	0
-Kolakombay	1129	7674	115	0
+Kolakombay	1129	7674	115	0	Kolakambē
 Kolakalūru	1631	8062	319	0
-Kolakalur	1631	8062	319	0
+Kolakalur	1631	8062	319	0	Kolakalūru
 Kolak	2047	7286	261	0
 Kolaibahāl	2187	8356	439	0
 Kolagallu	1519	7687	44	0
@@ -101,13 +101,13 @@ Kholāpur	2095	7751	133	0
 Khol	2820	7640	519	0
 Kaua Kol	2484	8589	107	0
 Kollūr	1729	7671	71	0
-Kolābā	1891	7281	106	0
+Kolābā	1891	7281	106	0	Colāba
 Bhattu Kolān	2938	7534	443	0
-Bahttu Kolān	2938	7534	443	0
+Bahttu Kolān	2938	7534	443	0	Bhattu Kolān
 Kholākhāli	2222	8814	4	0
 Kolāchati	2238	8874	4	0
 Kolān	3359	7417	1	0
-Kole Kas	3291	7445	581	0
+Kole Kas	3291	7445	581	0	Kale Kas
 Kol	3050	7792	448	0
 Kolhūpāni	3034	7796	448	0
 Koli Mājra	2979	7722	449	0
@@ -119,11 +119,11 @@ Kolapadka	1708	7837	62	0
 Kollūr	1744	7825	31	0
 Koltūr	1766	7864	311	0
 Kolgaon	1879	7287	17	0
-Thattan Kolam	1310	8027	204	0
+Thattan Kolam	1310	8027	204	0	Thattankulam
 Kolapakkam	1287	8011	247	0
 Kolgarh	3061	7616	648	0
 Kolu Mājra	3020	7651	564	0
-Koliyān	3004	7688	501	0
+Koliyān	3004	7688	501	0	Khānpur
 Koluwa	2406	7800	215	0
 Koli	2800	7943	117	0
 Kola	2769	7965	470	0
@@ -143,7 +143,7 @@ Kolentha	1201	7554	266	0
 Kolantha	1200	7554	266	0
 Kolamāsanapalle	1315	7868	214	0
 Kollapanāyadipalli	1441	7959	6	0
-Kollapanāyadipalle	1441	7959	6	0
+Kollapanāyadipalle	1441	7959	6	0	Kollapanāyadipalli
 Kollumāngudi	1098	7966	267	0
 Kolādit	2176	7619	209	0
 Kolda	2144	7428	186	0
@@ -157,7 +157,7 @@ Kholta	3138	7704	278	0
 Koltha	3149	7734	680	0
 Koli	3126	7738	479	0
 Kholwi	3129	7737	479	0
-Khola Muhammad	3039	7401	3	0
+Khola Muhammad	3039	7401	3	0	Sareshwāla
 Khol	3114	7731	479	0
 Kholdar	3112	7726	479	0
 Kola	3112	7730	479	0
@@ -209,7 +209,7 @@ Kolar	2478	7372	572	0
 Kolu Khera	2563	7653	335	0
 Koloni	2488	7612	371	0
 Kolona	2489	7612	371	0
-Kola	2464	7601	371	0
+Kola	2464	7601	371	0	Durjanpura
 Kola Ahīrān	2460	7603	371	0
 Kolāna	2459	7621	333	0
 Qāsimpur Khola	2935	7798	545	0
@@ -473,7 +473,7 @@ Kolhuwa	2435	8202	672	0
 Kolhwa	2435	8292	103	0
 Kolpuri	2854	7652	609	0
 Kolhār	2565	8298	32	0
-Abdīpur Koliyān	2940	7842	575	0
+Abdīpur Koliyān	2940	7842	575	0	Korāwāla
 Kolkwar	2464	8248	631	0
 Kolhiah	2456	8274	631	0
 Kolgarh	2767	8114	507	0
@@ -608,7 +608,7 @@ Kolaiya	2699	8340	515	0
 Kolia	2676	8332	325	0
 Kolia	2674	8331	325	0
 Kolhat	2662	8340	325	0
-Semra Kol	2665	8339	325	0
+Semra Kol	2665	8339	325	0	Rāmjas Pānde
 Kolesar	2649	8328	325	0
 Kolanri	2636	8339	325	0
 Kolhūa	2634	8350	325	0
@@ -810,7 +810,7 @@ Koli	2982	7889	612	0
 Baman Khola	2979	7892	612	0
 Kolagād	2979	7881	612	0
 Manj Khola	2977	7890	612	0
-Kolpur	2884	7806	756	0
+Kolpur	2884	7806	756	0	Alehdadpur
 Kolipura	2326	7646	320	0
 Kholjamkāni	2176	8374	627	0
 Kholiadipa	2159	8356	497	0
@@ -981,7 +981,7 @@ Kolmālhan	2434	8466	393	0
 Kolkole Khurd	2414	8474	393	0
 Kolhuwa Muāfi	2508	8072	643	0
 Kolaunha	2513	8067	643	0
-Kol Purwa	2521	8073	643	0
+Kol Purwa	2521	8073	643	0	Dabhal
 Kolsur	1396	7480	346	0
 Kolkebail	1361	7477	257	0
 Kolkebailu	1353	7477	257	0

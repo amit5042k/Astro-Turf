@@ -1,57 +1,57 @@
 Attili	1670	8160	318	68196
 Attur	1159	7860	51	61793
-Atur-Salem	1159	7860	51	61793
+Atur-Salem	1159	7860	51	61793	Attur
 Athani	1673	7506	77	47842
-Athni	1673	7506	77	47842
+Athni	1673	7506	77	47842	Athani
 Atraulī	2803	7829	543	47512
 Atarra	2529	8057	463	46168
-Atarra Buzurg	2529	8057	463	46168
+Atarra Buzurg	2529	8057	463	46168	Atarra
 Athiyannur	839	7706	219	40712
-Athirampuzha	967	7656	271	40438
+Athirampuzha	967	7656	271	40438	Ettumānūr
 Attingal	870	7682	219	37346
-Attungal	870	7682	219	37346
+Attungal	870	7682	219	37346	Attingal
 Atmakūr	1588	7859	232	35137
-Attirampattinam	1034	7938	264	31066
-Ātangulam	886	7750	245	28558
+Attirampattinam	1034	7938	264	31066	Adirampattinam
+Ātangulam	886	7750	245	28558	Ālangulam
 Atholi	1139	7576	262	28213
 Attimarappatti	874	7811	208	22218
 Attibele	1278	7777	43	20532
 Āthagarh	2052	8563	303	17304
-Athgarh	2052	8563	303	17304
-Athagad	2052	8563	303	17304
+Athgarh	2052	8563	303	17304	Āthagarh
+Athagad	2052	8563	303	17304	Āthagarh
 Attayampatti	1153	7805	51	13852
 Athmallik	2072	8454	414	12298
 Atmākūr	1634	7781	146	12297
-Ātamkūr	1634	7781	146	12297
+Ātamkūr	1634	7781	146	12297	Atmākūr
 Athner	2162	7792	462	11915
 Attūr	832	7726	453	11910
 Atraulia	2633	8295	498	11847
-Atrauliya	2633	8295	498	11847
+Atrauliya	2633	8295	498	11847	Atraulia
 Atru	2488	7666	506	11141
 Attippattu	1326	8029	228	11034
 Attanūr	1150	7814	231	9827
 Attāni	1152	7751	211	8430
 Attippatti	949	7813	119	8384
 Ateli Mandi	2810	7626	694	7619
-Ateli	2810	7626	694	7619
-Athivilai	821	7733	453	7401
+Ateli	2810	7626	694	7619	Ateli Mandi
+Athivilai	821	7733	453	7401	Kandanvilai
 Uttar Athiabari	2652	9096	358	6091
 Atul	2054	7294	261	3486
 Atti	3109	7581	369	1579
-Khuifatoojanwali at Khadoojanwali	2684	6953	217	18
+Khuifatoojanwali at Khadoojanwali	2684	6953	217	18	Khuifatoojanwali@Khadoojanwali
 Atnūr	1618	7711	50	0
 Heria Ātmārām Chak	2197	8780	559	0
 Bandi Ātmakūru	1558	7852	232	0
-Atgaon	2064	8353	394	0
+Atgaon	2064	8353	394	0	Autgaon
 Āttūr	1273	7995	247	0
 Attipādi	1203	7877	197	0
 Attimānjeri	1325	7943	228	0
-Athimanjeripet	1325	7943	228	0
+Athimanjeripet	1325	7943	228	0	Attimānjeri
 Attigundi	1343	7574	98	0
 Attīgām	1943	8229	349	0
 Attār	2201	7621	209	0
 Attappādi	1107	7656	263	0
-Attapady	1107	7656	263	0
+Attapady	1107	7656	263	0	Attappādi
 Attābira	2137	8379	497	0
 Atrauli	2717	8067	686	0
 Atrāmpur	2557	8174	607	0
@@ -64,7 +64,7 @@ Atmakur	1723	7970	250	0
 Ātmakūr	1462	7963	6	0
 Atit	1753	7407	64	0
 Ating	3358	7674	8	0
-Athob	2678	7302	344	0
+Athob	2678	7302	344	0	Thob
 Athmalgola	2546	8560	604	0
 Āthkhel	2680	9465	520	0
 Atharikhāt	2672	9175	381	0
@@ -81,10 +81,10 @@ Atbara	2608	7374	273	0
 Atarsumba	2305	7297	167	0
 Atāri	3160	7461	222	0
 Āt	2089	7286	221	0
-Atholi	3326	7616	34	0
-Atal	2027	7298	233	0
+Atholi	3326	7616	34	0	Arthal
+Atal	2027	7298	233	0	Amal
 Atkot	2201	7115	174	0
-Atauli	3382	7425	1	0
+Atauli	3382	7425	1	0	Arauli
 Atyun	3400	7462	76	0
 Ātmāpur	3260	7480	581	0
 Chak Sardār Attar Singh	3271	7480	581	0
@@ -108,7 +108,7 @@ Atāra	2705	7982	570	0
 Atthāisa	2684	7924	290	0
 Nagla Ati	2677	7921	290	0
 Atākua	2640	7939	741	0
-Atālwa	2640	7939	741	0
+Atālwa	2640	7939	741	0	Atākua
 Atarchhala	2626	7939	741	0
 Pipri Athgaiyān	2625	7944	741	0
 Purwa Atra Khurd	2625	7946	741	0
@@ -152,7 +152,7 @@ Kaliānpur Atāri	3042	7726	88	0
 Atargarh	3001	7749	449	0
 Atlau	3058	7777	448	0
 Athūna ka Bās	2810	7520	300	0
-Atmalpur	2992	7804	596	0
+Atmalpur	2992	7804	596	0	Baungla
 Ātari	2357	7890	352	0
 Āton	2525	7623	371	0
 Ātta	2931	7731	328	0
@@ -190,7 +190,7 @@ Atthāraha Bīgha	3040	7806	448	0
 Atariā	2884	7902	552	0
 Atar Chendi	2828	7923	342	0
 Atarpura	2833	7900	117	0
-Ata	2842	7906	342	0
+Ata	2842	7906	342	0	Phūndapur
 Athiyākhera	2428	7679	333	0
 Atba	2803	7750	326	0
 Atāri	2808	7761	543	0
@@ -299,10 +299,10 @@ Khejra Atāri	2463	7750	410	0
 Khejra Atāri	2464	7751	410	0
 Atreji	2427	7793	410	0
 Athaīkhera	2415	7780	215	0
-Athaīkhera	2416	7781	215	0
+Athaīkhera	2416	7781	215	0	Bendīgarh
 Nagla Athoria	2761	7802	670	0
 Ata	2793	7846	543	0
-Atāullāpur	2753	7829	711	0
+Atāullāpur	2753	7829	711	0	Tāwalpur
 Nagla Ata	2789	7863	616	0
 Athaiya	2778	7857	616	0
 Athesi	2672	7963	715	0
@@ -480,7 +480,7 @@ Atarhār	2632	8088	681	0
 Atri	2626	8095	681	0
 Atraurā	2567	8287	32	0
 Athāin	2906	7821	575	0
-Atāpur	2927	7825	575	0
+Atāpur	2927	7825	575	0	Khatāpur
 Athāin Shekh	2927	7846	575	0
 Atwaripur	2739	8103	507	0
 Khitaura Atalnagar	2734	8116	507	0
@@ -537,7 +537,7 @@ Atmārām Purwa	2739	8197	542	0
 Ataila Māfi	2880	7865	646	0
 Atauri	2870	7862	646	0
 Atora	2871	7862	646	0
-Ataura	2871	7862	646	0
+Ataura	2871	7862	646	0	Atora
 Ataulia	2580	8141	718	0
 Atrāsi	2846	7859	646	0
 Āta	2845	7874	646	0
@@ -579,7 +579,7 @@ Atila Khurd	2695	8236	542	0
 Atraura	2684	8250	154	0
 Atwa	2680	8248	154	0
 Purwa Atma Rām	2652	8231	553	0
-Atraura	2661	8235	629	0
+Atraura	2661	8235	629	0	Chaurahia
 Atwai	2654	8241	553	0
 Saraiya Atbal	2673	8246	154	0
 Atraura	2659	8247	553	0
@@ -676,7 +676,7 @@ Athwān	2235	7593	329	0
 Athwān	2237	7593	329	0
 Āthegaon	2016	7508	113	0
 Atroli	2428	7244	134	0
-Atalgarh	3163	7459	222	0
+Atalgarh	3163	7459	222	0	Nawān Pind
 Atariā	2239	8012	480	0
 Atariā	2241	8012	480	0
 Atrī	2211	8011	144	0
@@ -844,7 +844,7 @@ Atrālya	2366	7672	16	0
 Atarālia	2388	7697	16	0
 Atarsumba	2380	7356	512	0
 Athu	3007	7961	183	0
-Atsal	2910	7913	552	0
+Atsal	2910	7913	552	0	Pārsal
 Atatola	2547	8451	377	0
 Atātia	2537	7356	273	0
 Atāwā	2218	7429	155	0
@@ -1121,7 +1121,7 @@ Attiyandal	1204	7907	390	0
 Attippākkam	1202	7916	390	0
 Athithāngal	1283	7936	160	0
 Attipattu	1288	7946	160	0
-Attimalaipattu	1262	7926	197	0
+Attimalaipattu	1262	7926	197	0	Brīnivāsapuram
 Athiyānam	1273	7939	160	0
 Attipattu	1228	7928	202	0
 Attiyandal	1230	7932	202	0
@@ -1176,7 +1176,7 @@ Attuppālaiyam	1109	7719	156	0
 Attaooakavundanpudūr	1103	7707	156	0
 Attapallam	1080	7679	263	0
 Attikod	1075	7682	263	0
-Attikodu	1075	7682	263	0
+Attikodu	1075	7682	263	0	Attikod
 Attuvasseri	906	7673	549	0
 Attakavundanpālaiyam	1182	7725	69	0
 Attiyūr	1160	7730	211	0
@@ -1286,7 +1286,7 @@ Attipallam	1061	7851	198	0
 Āttuppatti	1059	7859	198	0
 Āttukkāranpatti	1068	7870	198	0
 Āttūr	1028	7865	198	0
-Āttikkādu	1019	7853	454	0
+Āttikkādu	1019	7853	454	0	Vadakkūr
 Āttirampatti	1024	7862	454	0
 Āttangudi	1017	7872	454	0
 Āttangudi	1014	7866	454	0

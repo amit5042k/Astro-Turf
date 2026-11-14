@@ -4,63 +4,63 @@ Multai	2177	7826	462	29976
 Mulamthuruthy	990	7639	176	25852
 Mūl	2007	7968	111	25449
 Muluppilagadu	1180	7545	266	23709
-Mulappilangal	1180	7545	266	23709
-Mulappilangād	1180	7545	266	23709
+Mulappilangal	1180	7545	266	23709	Muluppilagadu
+Mulappilangād	1180	7545	266	23709	Muluppilagadu
 Mulavukad	1001	7626	176	21833
 Mulakumūd	827	7729	453	19538
-Mulagumudu	827	7729	453	19538
+Mulagumudu	827	7729	453	19538	Mulakumūd
 Mulgund	1528	7552	606	18928
 Mūlki	1309	7479	55	17274
 Mūllānpur	3085	7566	674	16356
-Mullanpur Dakha	3085	7566	674	16356
+Mullanpur Dakha	3085	7566	674	16356	Mūllānpur
 Mullānwāla	3106	7482	566	16183
 Mūlanūr	1079	7771	235	15223
 Drug Mulla	3449	7429	0	12930
 Mullasshēri	1053	7609	241	12165
-Mullassery	1053	7609	241	12165
+Mullassery	1053	7609	241	12165	Mullasshēri
 Mūlaikkaraippatti	855	7777	191	11112
-Moolakaraipatti	855	7777	191	11112
+Moolakaraipatti	855	7777	191	11112	Mūlaikkaraippatti
 Mūlaguntapādu	1526	8002	200	7145
 Mulānpur	3080	7674	632	6165
-Mullanpur Garib Dass	3080	7674	632	6165
+Mullanpur Garib Dass	3080	7674	632	6165	Mulānpur
 Mulur	1294	7493	55	5445
 Mullippattu	1267	7926	197	4956
 Mulakuddu	1792	8345	81	4513
 Mul Warwan	3380	7557	34	0
 Mulvād	1659	7573	80	0
-Mulawad	1659	7573	80	0
+Mulawad	1659	7573	80	0	Mulvād
 Mulug	1819	7994	226	0
 Multhān	2307	7521	130	0
 Multhān	2202	7575	329	0
 Mulmula	2193	8236	696	0
 Mullianpui	2268	9257	244	0
 Mullāhjor	2283	8838	450	0
-Mulājore	2283	8838	450	0
+Mulājore	2283	8838	450	0	Mullāhjor
 Mulila	2212	7040	145	0
 Muli	2264	7146	28	0
-Mull	2264	7146	28	0
+Mull	2264	7146	28	0	Muli
 Mulher	2078	7406	54	0
-Mulhor	2078	7406	54	0
+Mulhor	2078	7406	54	0	Mulher
 Mulhalli	1239	7745	626	0
 Mulgao	1562	7392	188	0
 Mūler	2187	7269	151	0
 Mulem	1524	7404	102	0
 Mulahalli	1172	7643	69	0
-Mūlehole	1172	7643	69	0
+Mūlehole	1172	7643	69	0	Mulahalli
 Mūl Dwārka	2076	7067	136	0
 Mulbekh	3438	7637	8	0
 Mulbār	2147	8359	497	0
 Mulāwa	1968	7756	67	0
 Mulāna	3028	7705	691	0
 Mulam	2419	9368	437	0
-Chhota Mullakhāli	2222	8890	4	0
+Chhota Mullakhāli	2222	8890	4	0	Chota Mollakhāli
 Multi	2229	8842	4	0
 Mulphak	3417	7488	611	0
 Mulashūl	3404	7464	76	0
 Gund-i-Mulrāj	3431	7440	301	0
 Mulwār Chhapri	3295	7483	581	0
 Ghari Multān	2951	7699	457	0
-Garhi Multān	2951	7699	457	0
+Garhi Multān	2951	7699	457	0	Ghari Multān
 Mullung	3454	7649	8	0
 Mullāpur	2958	7743	328	0
 Mūlūg	1774	7863	466	0
@@ -69,13 +69,13 @@ Mulakhandpāda	1887	7295	17	0
 Mullam	1310	8021	204	0
 Moolakadai	1313	8025	204	0
 Mulacheri	1286	8017	247	0
-Khetolāi Mūlvān	2773	7292	307	0
+Khetolāi Mūlvān	2773	7292	307	0	Khetolāi
 Lambāna Mūlavān	2762	7293	307	0
-Lambāna Mūlvān	2762	7293	307	0
+Lambāna Mūlvān	2762	7293	307	0	Lambāna Mūlavān
 Mulu ka Nagla	2684	7916	290	0
 Purwa Mulla	2654	7984	671	0
 Mulund	1916	7296	207	0
-Mulund East	1916	7296	207	0
+Mulund East	1916	7296	207	0	Mulund
 Mulund West	1918	7295	207	0
 Mulloor	838	7700	219	0
 Mullan ka Toba	2743	7128	217	0
@@ -115,7 +115,7 @@ Mūlgaon	2064	8187	652	0
 Mulapāra	2025	8187	652	0
 Mulmula	2179	8163	710	0
 Mulkod	1722	7714	71	0
-Mullānpāra	2787	7806	543	0
+Mullānpāra	2787	7806	543	0	Bhojpur
 Nagla Mulu	2773	7900	616	0
 Nagla Mulu	2760	7894	616	0
 Mule ka Pura	2653	7831	334	0
@@ -301,7 +301,7 @@ Mūlakottūru	1756	8290	227	0
 Mulimunda	1985	8354	387	0
 Muli	1927	8204	600	0
 Mulakalapenta	1684	8058	104	0
-Mūlikuttili	1910	8318	363	0
+Mūlikuttili	1910	8318	363	0	Lohāra Kuttili
 Mūlaputtu	1827	8242	268	0
 Mulaga	1937	8352	363	0
 Muliguda	1925	8374	363	0

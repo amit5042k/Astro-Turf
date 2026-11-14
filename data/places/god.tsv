@@ -1,27 +1,27 @@
-Godavari	1696	8224	269	384182
-East Godavari	1696	8224	269	384182
-West Godāvari	1671	8110	24	218020
+Godavari	1696	8224	269	384182	Kākināda
+East Godavari	1696	8224	269	384182	Kākināda
+West Godāvari	1671	8110	24	218020	Eluru
 Godhra	2278	7361	180	143644
-Godhr	2278	7361	180	143644
+Godhr	2278	7361	180	143644	Godhra
 Godda	2483	8721	592	48480
-Ghodnadi	1883	7437	52	37111
+Ghodnadi	1883	7437	52	37111	Sirūr
 Godoli	1767	7401	64	22517
-Ghodadongri	2212	7800	462	9745
-Ghoda Dongri Ryt	2212	7800	462	9745
+Ghodadongri	2212	7800	462	9745	Ghoradongri
+Ghoda Dongri Ryt	2212	7800	462	9745	Ghoradongri
 Godiputamatiapara	2014	8570	603	5967
 Godaria	2267	8813	354	1735
 Wāri Godri	1945	7571	53	0
-Godu	2799	7226	307	0
+Godu	2799	7226	307	0	Goru
 Godrī	2174	8047	144	0
 Godri	1831	7664	158	0
 Godra	2292	6927	108	0
 Godipāra	2004	8516	548	0
-Godiparha	2004	8516	548	0
+Godiparha	2004	8516	548	0	Godipāra
 Godhra	2092	7092	136	0
 Godhegaon	1935	7488	152	0
 Godhan	2297	8183	225	0
 Godelgūda	1822	8131	599	0
-Godelgudiam	1822	8131	599	0
+Godelgudiam	1822	8131	599	0	Godelgūda
 Godarpura	2225	7615	209	0
 Godāpiāsāl	2254	8733	677	0
 Godabudini	2195	8530	272	0
@@ -29,7 +29,7 @@ Ghodna	3104	7748	479	0
 Ghodbār	2142	7331	139	0
 Ghodāsar	2445	7185	134	0
 Ghod	1905	7384	52	0
-Ghoda	1905	7384	52	0
+Ghoda	1905	7384	52	0	Ghod
 Chhota Godīya	2806	7497	491	0
 Godās	2859	7496	539	0
 Godan	3300	7474	581	0
@@ -41,7 +41,7 @@ Godi Chhoti	2981	7862	612	0
 Godamkunta	1749	7865	311	0
 Kala Ghoda	1893	7283	106	0
 Godāra Dhāni	2826	7570	300	0
-Godhāra ki Bās	2825	7563	300	0
+Godhāra ki Bās	2825	7563	300	0	Gadhāra ka Bās
 Godhni	2709	7986	570	0
 Nagla Gode	2677	7921	290	0
 Godera Nadi	2721	7113	217	0
@@ -117,7 +117,7 @@ Godhana ka Pura	2677	7795	622	0
 Godhaula	2786	7718	544	0
 Godhauli	2785	7717	544	0
 Ghodasgaon	2104	7613	78	0
-Godhāri	2532	7745	436	0
+Godhāri	2532	7745	436	0	Gongoi
 Nagla Godām	2748	7882	711	0
 Nagla Godi	2761	7848	711	0
 Nagla Godi	2750	7831	711	0
@@ -314,7 +314,7 @@ Godia	2683	8153	30	0
 Godpatram	1837	8290	205	0
 Godagummivalasa	1812	8299	268	0
 Goddapalle	1781	8231	268	0
-Goduvāri	1746	8248	269	0
+Goduvāri	1746	8248	269	0	Mallavaram
 Godda	1794	8257	268	0
 Goddumāmidi	1799	8259	268	0
 Godicherla	1739	8262	227	0
@@ -360,7 +360,7 @@ Godna	2578	8465	540	0
 Godda	2427	7294	134	0
 Godna	2350	7651	320	0
 Godi	2315	7671	675	0
-Goddīkheri	2323	7678	320	0
+Goddīkheri	2323	7678	320	0	Bāgoda
 Ghodnāl	2322	7310	125	0
 Ghodnāl Muwara	2322	7311	125	0
 Godhra	2301	7345	180	0
@@ -421,7 +421,7 @@ Ghodedurg	1570	7444	77	0
 Godikoppa	1446	7438	59	0
 Godemane	1498	7454	59	0
 Godgol	1447	7474	59	0
-Godlamane	1432	7472	59	0
+Godlamane	1432	7472	59	0	Udalmane
 Godhaultola	2463	8444	137	0
 Ghodāganj	2629	8793	510	0
 Godāi Sarāi	2573	8520	716	0

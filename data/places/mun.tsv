@@ -1,5 +1,5 @@
 Munger	2537	8647	538	213303
-Mūngrol	2112	7011	185	69779
+Mūngrol	2112	7011	185	69779	Māngrol
 Munnar	1009	7706	258	68000
 Moonniyur	1106	7590	150	55535
 Mūndka	2868	7703	771	54541
@@ -13,23 +13,23 @@ Moonak	2983	7589	593	18141
 Mūndwa	2706	7382	430	17465
 Mundi	2207	7649	209	12889
 Mundāli	2887	7783	700	12287
-Mungalum	976	7864	454	11379
-Munnar	1972	7291	192	10421
-Bungar Munjeshwar	1271	7489	305	8927
+Mungalum	976	7864	454	11379	Mangalam
+Munnar	1972	7291	192	10421	Manor
+Bungar Munjeshwar	1271	7489	305	8927	Manjēshvar
 Munnūru	1286	7502	55	8864
 Munirābād	1531	7634	66	8672
-Munirabad Project Area	1531	7634	66	8672
+Munirabad Project Area	1531	7634	66	8672	Munirābād
 Mundathikōd	1064	7620	241	7672
-Mahesh Mundi	2418	8627	452	7389
+Mahesh Mundi	2418	8627	452	7389	Maheshlundi
 Salvador do Mundo	1553	7384	188	6373
 Mundamarai	1964	8460	440	4253
-Mundi Semar	2426	8339	103	0
-Subzi Mundi	2867	7721	732	0
+Mundi Semar	2426	8339	103	0	Wyndhamganj
+Subzi Mundi	2867	7721	732	0	Sabzi Mandi
 Pedda Munugal	1717	8030	46	0
 Pedda Mungal	1660	7910	101	0
-Mungal	1660	7910	101	0
+Mungal	1660	7910	101	0	Pedda Mungal
 Mūndi	2825	7649	519	0
-Nāngal Mūndi	2825	7649	519	0
+Nāngal Mūndi	2825	7649	519	0	Mūndi
 Munund	2225	8309	439	0
 Munriār	2500	8421	409	0
 Mūnradaippu	859	7769	191	0
@@ -37,12 +37,12 @@ Munpi	2432	9351	437	0
 Munjpur	2359	7185	240	0
 Munjpur	2265	7155	28	0
 Munjola	1929	8186	600	0
-Munjāsar	2713	7263	344	0
+Munjāsar	2713	7263	344	0	Mujāsar
 Munigal	1654	7725	72	0
-Munig	1654	7725	72	0
+Munig	1654	7725	72	0	Munigal
 Mungwāni Kalān	2217	7944	368	0
-Mungwāni	2217	7944	368	0
-Mūngsaria	2790	7415	307	0
+Mungwāni	2217	7944	368	0	Mungwāni Kalān
+Mūngsaria	2790	7415	307	0	Mingsaria
 Mungra Bādshāhpur	2566	8219	32	0
 Mungonda	1660	8192	304	0
 Mungod	1708	7908	101	0
@@ -53,17 +53,17 @@ Mundwāra	2483	7255	23	0
 Mundūr	1084	7658	263	0
 Mundsar	2793	7365	307	0
 Mundra Bandar	2280	6973	108	0
-Mundra	2398	7849	352	0
+Mundra	2398	7849	352	0	Mūrara
 Mundlapādu	1533	7890	200	0
-Mundlapad	1533	7890	200	0
+Mundlapad	1533	7890	200	0	Mundlapādu
 Mundlāna	2920	7677	485	0
 Mundla Mohabba	2310	7653	675	0
-Mundla	2310	7653	675	0
+Mundla	2310	7653	675	0	Mundla Mohabba
 Mundiyambākkam	1200	7952	202	0
 Mundīkota	2137	7984	171	0
 Mundhva	1853	7393	52	0
 Mundhrī Buzurg	2128	7976	404	0
-Mundhri	2128	7976	404	0
+Mundhri	2128	7976	404	0	Mundhrī Buzurg
 Mundhevādi	1774	7572	132	0
 Mundher	2136	8408	567	0
 Mundha Pānde	2881	7894	511	0
@@ -80,12 +80,12 @@ Munda	2947	7441	486	0
 Mūnak	2952	7685	457	0
 Munagala	1705	7984	250	0
 Munāba	2574	7028	285	0
-Munabo	2574	7028	285	0
-Munabāo	2574	7028	285	0
-Mun	3386	7853	2	0
+Munabo	2574	7028	285	0	Munāba
+Munabāo	2574	7028	285	0	Munāba
+Mun	3386	7853	2	0	Man
 Mali and Munjeri	1853	7387	52	0
-Mūnra	2652	8466	396	0
-Munj	2690	7912	290	0
+Mūnra	2652	8466	396	0	Gobindanj
+Munj	2690	7912	290	0	Chaubia
 Munikdesar	2892	7457	486	0
 Munshirbāt	2265	8808	354	0
 Mungshungan	3441	7496	595	0
@@ -99,7 +99,7 @@ Mungwalpur	3434	7433	0	0
 Mundigām	3435	7437	0	0
 Mundij	3436	7447	301	0
 Mundh	3298	7479	581	0
-Munīrpur	2997	7697	501	0
+Munīrpur	2997	7697	501	0	Manīrpur
 Mungān	2893	7677	719	0
 Munshi Chak	3273	7482	581	0
 Mundait	2965	7728	328	0
@@ -126,15 +126,15 @@ Munj	2690	7916	290	0
 Munni ka Adda	2680	7901	290	0
 Munna ki Dhāni	2697	7570	121	0
 Mundia	2690	7562	121	0
-Mundiya	2690	7562	121	0
+Mundiya	2690	7562	121	0	Mundia
 Mundal	2683	7957	715	0
-Mundai	2683	7957	715	0
+Mundai	2683	7957	715	0	Mundal
 Munawarpur Rasūlābād	2670	7988	671	0
 Mundi	2407	7907	352	0
 Munsiyari	3060	8015	326	0
 Munsiyari	3009	8024	326	0
-Munsiari	3009	8024	326	0
-Munsyari	3009	8024	326	0
+Munsiari	3009	8024	326	0	Munsiyari
+Munsyari	3009	8024	326	0	Munsiyari
 Munambam Beach	1018	7617	176	0
 Munīmji ki Dhāni	2836	7492	539	0
 Mundiār	2698	7363	430	0
@@ -151,11 +151,11 @@ Munida	2132	8655	421	0
 Mundahata	2132	8642	421	0
 Mundomahul	2119	8334	497	0
 Munguda	1962	8350	363	0
-Muniguda	1962	8350	363	0
+Muniguda	1962	8350	363	0	Munguda
 Mundoghat	2146	8396	567	0
 Munthakadirenahalli	1343	7805	438	0
 Mūndri	2978	7651	638	0
-Mundanwās	2809	7664	519	0
+Mundanwās	2809	7664	519	0	Kamālpur
 Mundhalia	2825	7665	519	0
 Mundiākhera	2819	7669	519	0
 Mungashpur	2882	7697	769	0
@@ -246,7 +246,7 @@ Mungi Dhani	2982	7406	374	0
 Chak Munānwāli	2976	7475	585	0
 Mūndkhosa	2430	7336	22	0
 Mundāwat ki Bhagal	2482	7353	22	0
-Munān	3093	7510	499	0
+Munān	3093	7510	499	0	Singhpura
 Munwās	2473	7373	22	0
 Mūndla	2552	7665	335	0
 Mūndla	2551	7665	335	0
@@ -271,7 +271,7 @@ Mundeta	2701	7558	121	0
 Mundla	2566	7507	309	0
 Munshiwali	2966	7560	443	0
 Mundsa	2855	7648	609	0
-Munīrnagar	2936	7871	575	0
+Munīrnagar	2936	7871	575	0	Parbatpur
 Mundiā	2898	7920	552	0
 Mundiā	2891	7905	552	0
 Mundiā Khurd	2890	7923	552	0
@@ -347,7 +347,7 @@ Mundai ka Dhāna	2255	7912	337	0
 Mungwāni	2282	7942	522	0
 Mungwānītola	2281	7941	522	0
 Mundrai Kalān	2278	7933	522	0
-Munda Nagla	2773	7879	616	0
+Munda Nagla	2773	7879	616	0	Nagla Gadariān
 Mundha	2765	7898	616	0
 Munnupur	2754	7876	711	0
 Mundrai	2246	7953	368	0
@@ -452,7 +452,7 @@ Mundarbha	2561	8342	26	0
 Mundāsel	2210	7703	465	0
 Munhwān	2595	8372	586	0
 Mungesar	2589	8360	586	0
-Munār	2469	7990	532	0
+Munār	2469	7990	532	0	Tapariya
 Mūngājhīri	2196	7752	462	0
 Mundera Buzurg	2563	8390	26	0
 Muncha	2559	8389	26	0
@@ -529,7 +529,7 @@ Bāba Muniji	2829	7664	519	0
 Munīmpur	2853	7675	609	0
 Mundākhera	2852	7684	609	0
 Mundhāl	2920	7820	575	0
-Mundākhera	2956	7829	575	0
+Mundākhera	2956	7829	575	0	Dhāki Sādhu Bulchand
 Munīmpur	2927	7842	575	0
 Mundia	2788	8114	323	0
 Mundi Māi Chak	2788	8117	323	0
@@ -606,7 +606,7 @@ Munderwa Sarhaddi	2739	8193	294	0
 Munihna	2725	8197	542	0
 Munderwa Thākurain	2737	8183	294	0
 Munawarpur	2896	7852	483	0
-Munīmpur	2887	7854	483	0
+Munīmpur	2887	7854	483	0	Baispur
 Mūndha Imma	2883	7856	483	0
 Bhīlkanpur Munda	2879	7852	483	0
 Mundākheri	2898	7859	511	0
@@ -634,7 +634,7 @@ Mūndia	2835	7888	117	0
 Mundlākhera	2847	7890	646	0
 Munnunagar	2842	7893	117	0
 Mundāri	2805	7877	117	0
-Baksar Munjabta	2801	7881	117	0
+Baksar Munjabta	2801	7881	117	0	Baksar Khālsa
 Mundia Nanda	2809	7887	117	0
 Sarāi Mundia Khāgi	2810	7885	117	0
 Mūnipalli	1898	7848	360	0
@@ -818,20 +818,20 @@ Mundhahāl	3266	7536	496	0
 Muniyāl	3274	7547	373	0
 Mūn	3259	7538	496	0
 Chak Munsubdār Khān	3242	7545	496	0
-Munīmpur	2537	8165	651	0
+Munīmpur	2537	8165	651	0	Hardarmau
 Bela Mundi	2534	8167	607	0
 Bela Mundi	2533	8168	607	0
 Chirla Munzābta	2541	8170	607	0
 Munnānwāli	3215	7543	487	0
 Munj	3259	7561	496	0
 Mundrār	3268	7561	496	0
-Mungār	2575	8198	718	0
+Mungār	2575	8198	718	0	Adhārganj
 Munsu	3245	7571	496	0
 Mundera	2545	8176	607	0
 Chak Mundi	2539	8185	607	0
 Mundera	2526	8175	607	0
 Mungāri	2531	8194	607	0
-Munshi ka Pura	2544	8191	607	0
+Munshi ka Pura	2544	8191	607	0	Chak Fātima
 Mungtiāl	3226	7586	38	0
 Mundalvād	2180	7415	186	0
 Mungse	2073	7411	54	0
@@ -1009,7 +1009,7 @@ Munda Dogri	3090	7750	479	0
 Mundagi	1428	7478	59	0
 Mundguli	1426	7484	59	0
 Mundesar	1439	7484	59	0
-Mundlī	2383	8389	743	0
+Mundlī	2383	8389	743	0	Murlī
 Munāin Khera	3088	7791	448	0
 Muntamāmidi	1778	8186	268	0
 Pedda Munakanagadda	1752	8198	268	0
@@ -1030,14 +1030,14 @@ Munda Khera	2810	7837	637	0
 Milk Mundi	2900	7897	552	0
 Mundia Muhiuddinpur	2897	7877	511	0
 Mundia	2895	7892	511	0
-Kāithu Ke Mundia	2887	7897	552	0
+Kāithu Ke Mundia	2887	7897	552	0	Ahmednagar Kalān
 Munīmpur	2887	7893	511	0
 Mundia	2884	7893	511	0
-Mundia Hasan	2881	7899	552	0
+Mundia Hasan	2881	7899	552	0	Mazra Ghātampur
 Mundayān Nazīrpur	2876	7886	511	0
 Munda Nazīrpur	2877	7886	511	0
 Mundia Malukpur	2877	7891	511	0
-Mundia Hazūr Khān	2876	7897	511	0
+Mundia Hazūr Khān	2876	7897	511	0	Bajanpur
 Mundikheri	2307	7641	322	0
 Mundia Dāngi	2318	7641	322	0
 Mundapāli	2105	8333	394	0
@@ -1096,7 +1096,7 @@ Mundimaska	1985	8356	387	0
 Mundidhanua	1925	8218	518	0
 Mundāguda	1936	8216	518	0
 Mundāgūda	1851	8207	109	0
-Mundopodoro	1851	8207	109	0
+Mundopodoro	1851	8207	109	0	Rongopiagūda
 Mundāgūda	1857	8210	109	0
 Mundragūda	1853	8212	109	0
 Mundagor	1875	8204	600	0
@@ -1182,7 +1182,7 @@ Mundikheri	2307	7672	675	0
 Mundla	2311	7670	675	0
 Mūndla	2399	7683	16	0
 Mundānāräyan	2372	7686	16	0
-Mundanaraeyan	2372	7686	16	0
+Mundanaraeyan	2372	7686	16	0	Mundānāräyan
 Mundlābārol	2357	7698	16	0
 Mundla	2372	7699	16	0
 Mūndla Khurd	2324	7697	675	0
@@ -1266,11 +1266,11 @@ Mungāsi	2552	8409	620	0
 Mundia Hulās	2841	7979	683	0
 Munshītola	2557	8412	620	0
 Mundia Karor	2827	7978	683	0
-Mundia	2831	7988	683	0
+Mundia	2831	7988	683	0	Rāmsāla
 Mundgawān	2825	7987	683	0
 Mundia Tāluka Pasgawān	2831	7992	683	0
 Mundia Bhagwantpur	2834	7991	683	0
-Munda Simnāgar	2848	7992	683	0
+Munda Simnāgar	2848	7992	683	0	Pandri
 Mundia Kundri	2843	7977	683	0
 Mungīā	2452	8412	137	0
 Mungīā	2453	8410	137	0
@@ -1405,7 +1405,7 @@ Munshībāri	2581	8754	613	0
 Mundwa	2531	8744	411	0
 Mundi Chak	2548	8517	604	0
 Mundli	2504	8767	461	0
-Bara Mundi	2513	8771	461	0
+Bara Mundi	2513	8771	461	0	Muri
 Mungol	2539	8790	412	0
 Mundi Chak	2524	8503	527	0
 Muni Chak	2515	8504	527	0

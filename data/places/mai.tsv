@@ -1,28 +1,28 @@
-Maisūr	1230	7664	74	920550
-Maisūru	1230	7664	74	920550
-Maikala	1292	7486	55	499487
+Maisūr	1230	7664	74	920550	Mysuru
+Maisūru	1230	7664	74	920550	Mysuru
+Maikala	1292	7486	55	499487	Mangaluru
 Mainpuri	2723	7903	464	94619
 Maihar	2427	8076	324	40192
-Mailore	1003	7834	274	40017
+Mailore	1003	7834	274	40017	Melur
 Maināguri	2656	8882	602	29459
 Mairwa	2623	8416	639	23565
 Maithon	2378	8681	401	18830
 Mairang	2556	9164	765	14363
 Mailāni	2829	8034	323	14212
-Mailāni Junction	2829	8034	323	14212
+Mailāni Junction	2829	8034	323	14212	Mailāni
 Maindargi	1746	7629	132	12363
 Mailāram	1750	7812	31	11759
 Maidan Garhi	2850	7721	778	11111
 Maibong	2530	9314	494	8364
-Maibang	2530	9314	494	8364
+Maibang	2530	9314	494	8364	Maibong
 Mairabari Town	2645	9242	751	7177
-Maina	1514	7410	102	0
+Maina	1514	7410	102	0	Naina
 Mugal Maidan	3340	7567	34	0
-Mairpur	2464	7324	22	0
-Maini	1744	7455	64	0
-Maitaita-anla	683	9388	79	0
+Mairpur	2464	7324	22	0	Merpur
+Maini	1744	7455	64	0	Māyni
+Maitaita-anla	683	9388	79	0	Matait-anla
 Maināsar	2793	7468	539	0
-Maili	3011	7893	612	0
+Maili	3011	7893	612	0	Malāi
 Māiyān	3418	7405	301	0
 Maiunli	2829	9615	434	0
 Māīthan	2718	7802	546	0
@@ -33,11 +33,11 @@ Mairh	2735	7615	121	0
 Māira	2835	7617	694	0
 Maipādu	1451	8016	6	0
 Mainpur Khurd	2029	8223	297	0
-Mainpur	2029	8223	297	0
+Mainpur	2029	8223	297	0	Mainpur Khurd
 Mainpur	2552	8348	26	0
 Mainātānr	2709	8464	476	0
 Mainānagar	2548	8772	625	0
-Mainagar	2548	8772	625	0
+Mainagar	2548	8772	625	0	Mainānagar
 Maina	2317	7666	675	0
 Maimyo	1160	9263	105	0
 Mailwār Azimpet	1714	7741	210	0
@@ -48,18 +48,18 @@ Mailāram	1847	7786	58	0
 Maikalganj	2772	8034	323	0
 Mai Jūbar	3107	7725	479	0
 Maihma Sawāi	3032	7483	563	0
-Maidharapur	2070	8518	414	0
+Maidharapur	2070	8518	414	0	Mahidharpur
 Maidalpur	1947	8258	518	0
 Maida	1515	7420	102	0
 Kiria Mai	2825	7875	117	0
 Mairasar	2880	7466	539	0
-Maishāhibāgh	3421	7479	595	0
+Maishāhibāgh	3421	7479	595	0	Malshāhibāgh
 Degwār Maidiālan	3380	7408	1	0
 Maidān	3363	7412	1	0
 Maidān Tsogul	3441	7432	0	0
 Maidānpura	3446	7442	0	0
 Maira	3284	7461	581	0
-Rakh Maiāl	3284	7453	581	0
+Rakh Maiāl	3284	7453	581	0	Rakh Malāl
 Mai Mangla	3322	7408	504	0
 Maidān	3322	7409	504	0
 Maidān	3388	7429	1	0
@@ -68,10 +68,10 @@ Maira	3297	7478	581	0
 Maira	3293	7481	581	0
 Gujjar Maira	3256	7495	720	0
 Maisīān	3262	7481	581	0
-Maishin	3262	7481	581	0
+Maishin	3262	7481	581	0	Maisīān
 Bāsi Maiyān	2802	7385	307	0
 Maidān	3417	7400	301	0
-Maidāh Baihk	3417	7400	301	0
+Maidāh Baihk	3417	7400	301	0	Maidān
 Maindoli	2986	7870	612	0
 Mailāram	1723	7876	62	0
 Mailāwaram	1707	7857	62	0
@@ -104,7 +104,7 @@ Mainorāipāra	2402	9210	782	0
 Mai	2748	9381	15	0
 Maibi Khunou	2449	9413	676	0
 Mailepalli	1671	7888	101	0
-Maihaulia	2596	8557	395	0
+Maihaulia	2596	8557	395	0	Majhaulia
 Mailār	1481	7569	366	0
 Main Road	2174	8194	379	0
 Maili	2294	8003	480	0
@@ -115,7 +115,7 @@ Māina	2885	7660	719	0
 Maihan	3171	7705	278	0
 Maira ki Dhāni	2877	7518	539	0
 Maihra	2857	7616	781	0
-Māira Srinagar	2824	7636	519	0
+Māira Srinagar	2824	7636	519	0	Jaisinghpura
 Simbal Maira	3331	7429	504	0
 Maira	3328	7431	504	0
 Maidāngarh	3143	7708	278	0
@@ -296,7 +296,7 @@ Maidānr Kalān	2498	8369	749	0
 Dera Maiya Dīn	2567	8022	645	0
 Maithāna Pahūj	2588	7881	503	0
 Maināhi	2575	8058	728	0
-Maira	2410	8399	701	0
+Maira	2410	8399	701	0	Khajuria
 Maisammagūda	1756	7846	311	0
 Maisireddipalli	1770	7845	311	0
 Mailārdevpalli	1732	7845	62	0
@@ -423,7 +423,7 @@ Maigi Dīh	2732	8236	280	0
 Maināh	2731	8237	280	0
 Deoria Mainahān	2731	8238	280	0
 Mainihwān	2745	8244	280	0
-Mainahān	2725	8246	280	0
+Mainahān	2725	8246	280	0	Allāhnagar
 Maināhwān	2740	8237	280	0
 Maichuka	2711	8226	542	0
 Mairahwa	2721	8237	280	0
@@ -449,7 +449,7 @@ Mailāram	1823	7892	466	0
 Mukkho Maīna	3253	7499	720	0
 Mailokhartola	2502	8130	516	0
 Gedraha Maira	2506	8133	516	0
-Maindipur	2649	8225	629	0
+Maindipur	2649	8225	629	0	Mohruddīnpur
 Mainpur	2662	8239	629	0
 Maidhan	2627	8226	597	0
 Mairi Sangrām	2626	8225	597	0
@@ -516,7 +516,7 @@ Maiāgar ni Chhan	3251	7518	720	0
 Maiyān North	3254	7527	496	0
 Maiyān South	3253	7527	496	0
 Maira	3231	7541	692	0
-Maihīpur	2529	8152	651	0
+Maihīpur	2529	8152	651	0	Shyāmpur
 Maināpur	2536	8171	607	0
 Kuliān Māi	3222	7539	692	0
 Maidāspur	2584	8199	718	0
@@ -539,7 +539,7 @@ Mailītolā	2266	8078	480	0
 Mailī	2265	8077	480	0
 Mainpurī	2254	8090	480	0
 Maiwāla	3091	7458	566	0
-Mairwāla	3135	7518	565	0
+Mairwāla	3135	7518	565	0	Qutbewāla
 Maini Bhagupuriān	3162	7549	565	0
 Maitla	3173	7544	487	0
 Maire	3187	7550	487	0
@@ -586,7 +586,7 @@ Maila Polia	2571	7539	309	0
 Mainpur Kalān	2027	8224	297	0
 Main Tok	3102	7782	448	0
 Maina	2397	7607	347	0
-Māil	2386	8394	743	0
+Māil	2386	8394	743	0	Fakīrādih
 Maindrat	3094	7788	448	0
 Maithāna	3019	7875	612	0
 Maidkātal	2985	7849	612	0

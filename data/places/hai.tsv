@@ -1,6 +1,6 @@
 Hailākāndi	2468	9256	345	33637
-Hailikandi	2468	9256	345	33637
-Hailey Mandi	2834	7676	630	20906
+Hailikandi	2468	9256	345	33637	Hailākāndi
+Hailey Mandi	2834	7676	630	20906	Heli Mandi
 Chota Haibor	2633	9269	656	6315
 Haidar Sāhibgūda	1737	7839	62	0
 Haidarnagar	2449	8394	701	0
@@ -8,7 +8,7 @@ Haidargarh	2660	8136	30	0
 Haidarganj	2646	8224	629	0
 Haidarābād	2805	8042	323	0
 Charka Hai	2568	9324	405	0
-Hainsasar	2816	7453	539	0
+Hainsasar	2816	7453	539	0	Hansasor
 Haidarpur	3404	7479	611	0
 Gulu Hail	3325	7417	504	0
 Haidarmar	3434	7421	0	0
@@ -96,7 +96,7 @@ Haidarāpur	2626	7985	671	0
 Haidarīpur	2561	8223	32	0
 Haibatpur	2551	8206	607	0
 Haidarābād	2442	7902	663	0
-Haidarpur	2180	7625	209	0
+Haidarpur	2180	7625	209	0	Jainpur
 Haibatpur	2570	8313	498	0
 Pura Haitsingh	2681	7840	478	0
 Haidarpur	2094	7774	133	0
@@ -116,7 +116,7 @@ Haidrābād Colony	2526	8298	251	0
 Haibatpur	2535	8291	251	0
 Haibatpattī	2546	8213	607	0
 Haidarpur	2938	7716	328	0
-Haidar Husain	2554	8243	32	0
+Haidar Husain	2554	8243	32	0	Inglish Chak
 Haibatpur	2862	7697	763	0
 Haibatpur	2607	8084	681	0
 Haijarpur Kasba	2911	7825	575	0
@@ -171,7 +171,7 @@ Haidarpur	2662	8230	629	0
 Haidar Jot	2651	8249	553	0
 Haibatpur	2633	8245	553	0
 Haibatpur	2631	8246	553	0
-Haibatpur	2576	8313	498	0
+Haibatpur	2576	8313	498	0	Dobhaun
 Haibatpur	2578	8308	498	0
 Haidarpur	2603	8230	718	0
 Haidarābād	2653	8251	553	0
@@ -208,7 +208,7 @@ Haibat Pindi	3220	7542	692	0
 Haidarpur	2585	8178	718	0
 Hainsi Jaichand	2576	8186	718	0
 Hainsi Parjai	2578	8185	718	0
-Haiwāra	2545	8178	607	0
+Haiwāra	2545	8178	607	0	Dhūmanganj
 Haibo	3216	7554	692	0
 Haidre	1731	7618	569	0
 Haibatpur	2934	7635	367	0
@@ -254,8 +254,8 @@ Haikhori	2676	8456	476	0
 Hairākhān	2931	7976	551	0
 Haidarpur	2285	7634	322	0
 Haidarganj	2855	7930	342	0
-Haibatpur	2839	7927	342	0
-Haidarnagar	2834	7925	342	0
+Haibatpur	2839	7927	342	0	Bautāpur
+Haidarnagar	2834	7925	342	0	Alīganj
 Haidarābād Kharaua	2840	7936	342	0
 Haidarābād	2880	7974	683	0
 Haidarganj	2865	7964	683	0

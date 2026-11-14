@@ -1,13 +1,13 @@
 Kanigiri U	1541	7951	200	37420
 Kanigiri	1541	7951	200	25045
 Kanniyākumāri	809	7754	453	22453
-Kanniakumari	809	7754	453	22453
-Kanniyākumar	809	7754	453	22453
+Kanniakumari	809	7754	453	22453	Kanniyākumāri
+Kanniyākumar	809	7754	453	22453	Kanniyākumāri
 Khaniādhāna	2503	7813	436	15877
 Kaniyārakōd-Kizhakumuri	1074	7643	241	13236
-Kaniyarkode	1074	7643	241	13236
+Kaniyarkode	1074	7643	241	13236	Kaniyārakōd-Kizhakumuri
 Kanīna Khās	2833	7631	694	12989
-Kanina	2833	7631	694	12989
+Kanina	2833	7631	694	12989	Kanīna Khās
 Kaniyūr	1109	7716	156	12011
 Kannivādi	1038	7783	187	10369
 Kaniyambādi	1281	7913	189	9597
@@ -45,7 +45,7 @@ Kaniyānwāli	3062	7452	615	0
 Kaniot	3124	7745	479	0
 Kānīnāl	3151	7755	680	0
 Kānīdhār	3151	7756	680	0
-Khanitāng	3098	7707	628	0
+Khanitāng	3098	7707	628	0	Sanj
 Kaniola	3097	7714	628	0
 Kanīna	3097	7723	479	0
 Kaniāri	3063	7720	534	0
@@ -65,7 +65,7 @@ Kannipura	2708	7560	121	0
 Khānipura	2721	7562	121	0
 Kaniās	2706	7570	121	0
 Kānīkheri	2962	7572	443	0
-Kānīgarhi	2813	7751	588	0
+Kānīgarhi	2813	7751	588	0	Mīrpur Kachh
 Kaniān Kalyānpur	2876	7788	756	0
 Khānīgaon	2719	8837	85	0
 Khānigaon	2719	8852	739	0

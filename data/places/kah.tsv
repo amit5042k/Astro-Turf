@@ -2,23 +2,23 @@ Kahi Kuchi	2610	9160	359	9917
 Fārward Kahūta	3388	7411	1	5555
 Dhesiān Kāhna	3115	7569	369	3324
 Kahol	2886	7780	700	2937
-Kahdaibāri	2111	7413	190	0
-Kāhim	1873	7287	17	0
+Kahdaibāri	2111	7413	190	0	Kondarbari
+Kāhim	1873	7287	17	0	Kīhīm
 Kāhākar Khurd	1986	7680	640	0
-Kāhkihāra	2286	8840	450	0
+Kāhkihāra	2286	8840	450	0	Kānkināra
 Kahīpur	2375	7267	164	0
-Kahrāwar	2883	7669	719	0
+Kahrāwar	2883	7669	719	0	Kharāwar
 Kahoj Khuntivli	1922	7318	246	0
 Kāhnūwān	3191	7545	487	0
 Kahnaur	2876	7649	719	0
 Kāhārpāra	2604	9158	636	0
-Kahari	2339	7372	142	0
+Kahari	2339	7372	142	0	Kaliāri
 Kahao	2831	9702	122	0
 Kāhānuwa	2218	7291	151	0
-Kahanva	2218	7291	151	0
+Kahanva	2218	7291	151	0	Kāhānuwa
 Kahāni	2260	7981	368	0
 Kāhāla Khurd	1897	7745	140	0
-Kāhal	1897	7745	140	0
+Kāhal	1897	7745	140	0	Kāhāla Khurd
 Kāhla	3328	7419	504	0
 Kāhāwut	3449	7427	0	0
 Kahu	3315	7421	504	0
@@ -61,7 +61,7 @@ Kotra Kāhansingh	3031	7742	88	0
 Kahera	2975	7804	596	0
 Kahula	2342	7836	338	0
 Khāharmau	2370	7856	352	0
-Kahār	2626	7636	116	0
+Kahār	2626	7636	116	0	Barāgaon
 Kāhan Singhwāla	3085	7502	499	0
 Burj Kahn Singhwāla	3021	7509	563	0
 Kāhneke	3026	7548	726	0
@@ -176,7 +176,7 @@ Kahla Tindwa	2741	8194	542	0
 Pura Kahār	2745	8195	294	0
 Kahāran Purwa	2746	8180	294	0
 Kahrola	2833	7834	646	0
-Mazra Kahrola	2834	7835	646	0
+Mazra Kahrola	2834	7835	646	0	Bazīrganj
 Pura Kahāran	2685	8180	629	0
 Pura Gauri Kahār	2689	8181	542	0
 Purwa Kahchran	2604	8176	718	0

@@ -1,15 +1,15 @@
-Lakhnau	2684	8092	714	2472011
-Lakhinpur	2748	9491	380	145488
+Lakhnau	2684	8092	714	2472011	Lucknow
+Lakhinpur	2748	9491	380	145488	Dibrugarh
 Lakhīmpur	2795	8078	323	140223
-Lakhisarai	2518	8609	589	99979
+Lakhisarai	2518	8609	589	99979	Luckeesarai
 North Lakhimpur	2724	9410	355	59841
-Lakhimpur	2724	9410	355	59841
+Lakhimpur	2724	9410	355	59841	North Lakhimpur
 Lakkanahalli	1211	7815	110	39697
-Lakkiampatti	1211	7815	110	39697
+Lakkiampatti	1211	7815	110	39697	Lakkanahalli
 Lakshmeshwar	1513	7547	606	36754
 Lakhyabad	2367	8667	415	33162
 Lākheri	2567	7618	353	29572
-Sambhar Lake	2691	7519	121	22828
+Sambhar Lake	2691	7519	121	22828	Sāmbhar
 Laksar	2976	7804	596	19270
 Lakhnādon	2260	7960	368	17302
 Lakhipur	2603	9031	458	15633
@@ -21,7 +21,7 @@ Lakkampatti	1145	7741	211	11716
 Lakhnā	2665	7915	290	11389
 Lakshettipet	1887	7922	91	11322
 Lakhanpur	2299	8304	725	6270
-Lakshmanpur	2299	8304	725	6270
+Lakshmanpur	2299	8304	725	6270	Lakhanpur
 Forest Village Lakhipathar	2745	9558	460	6129
 Lakhi Nepali	2783	9522	299	5348
 Lakema	2557	9376	533	5084
@@ -31,32 +31,32 @@ Salt Lake City	2258	8842	450	0
 Laksi	822	9315	79	0
 Lakshmisāgar	2293	8701	571	0
 Lakshmipuro	1840	8244	268	0
-Lakshmipur	1840	8244	268	0
-Lakshmipuram	1840	8244	268	0
-Lakshmipur	1899	8311	316	0
+Lakshmipur	1840	8244	268	0	Lakshmipuro
+Lakshmipuram	1840	8244	268	0	Lakshmipuro
+Lakshmipur	1899	8311	316	0	Lokshmīpuro
 Lakshmipur	1392	7495	346	0
 Lakshmikāntapur	2210	8830	4	0
 Lakshmannāth	2184	8722	421	0
 Lakra Dewāni	2437	8719	669	0
-Lakra	2437	8719	669	0
+Lakra	2437	8719	669	0	Lakra Dewāni
 Lakkundi	1539	7572	606	0
 Lakkireddipalle	1418	7870	195	0
-Lakkireddipalli	1418	7870	195	0
+Lakkireddipalli	1418	7870	195	0	Lakkireddipalle
 Lakkiti	1076	7644	263	0
-Lakkidi	1076	7644	263	0
+Lakkidi	1076	7644	263	0	Lakkiti
 Lakkhoke Bahrām	3083	7445	566	0
 Lakkavarapukota	1802	8316	179	0
 Laki	2215	9301	20	0
 Lakhwar	3053	7796	448	0
-Lakhawar	3053	7796	448	0
+Lakhawar	3053	7796	448	0	Lakhwar
 Lakhuti	2629	9425	70	0
 Lakhusar	2833	7319	307	0
 Lakhuni	2656	9444	42	0
 Lākhpuri	2084	7736	172	0
 Lakhpat	2383	6878	108	0
-Lakhpal	2383	6878	108	0
+Lakhpal	2383	6878	108	0	Lakhpat
 Lākhola	2517	7429	309	0
-Lakhora	2517	7429	309	0
+Lakhora	2517	7429	309	0	Lākhola
 Lākho	2541	8618	530	0
 Lākhni	2107	7983	404	0
 Lakhnauti	2978	7720	449	0
@@ -65,14 +65,14 @@ Lakhmapur	2056	7435	54	0
 Lakhmana	2661	7126	217	0
 Lakhipur	2633	8838	610	0
 Lakhīni	2431	7182	134	0
-Lakhni	2431	7182	134	0
+Lakhni	2431	7182	134	0	Lakhīni
 Lakhbahāl	1973	8328	284	0
 Lakhaura	2675	8496	396	0
 Lakhāsar	2956	7397	486	0
 Lakhāsar	2810	7387	307	0
 Lakha Pharma	2776	8876	27	0
-Lakhaphama	2776	8876	27	0
-Lakha Pham	2776	8876	27	0
+Lakhaphama	2776	8876	27	0	Lakha Pharma
+Lakha Pham	2776	8876	27	0	Lakha Pharma
 Lākhāpadar	2130	7118	216	0
 Lākhanwāda	2049	7662	49	0
 Lakhanpuri	2040	8143	704	0
@@ -88,12 +88,12 @@ Lakha	2615	7098	217	0
 Lākh	1950	7469	152	0
 Lakda	1718	7542	65	0
 Lakawās	2455	7381	22	0
-Lakarwas	2455	7381	22	0
+Lakarwas	2455	7381	22	0	Lakawās
 Lakvalli	1370	7565	98	0
-Lakavalli	1370	7565	98	0
+Lakavalli	1370	7565	98	0	Lakvalli
 Lakadong	2518	9227	435	0
 Lākadiya	2335	7058	108	0
-Lakadia	2335	7058	108	0
+Lakadia	2335	7058	108	0	Lākadiya
 Lakshmangarh	2631	7826	484	0
 Arainj-laka-punga	1260	9272	99	0
 Lākhanwas	2858	7482	539	0
@@ -117,7 +117,7 @@ Lākhu	2822	7568	300	0
 Lakha Singhwāla	3060	7619	648	0
 Lakhanpura	2512	7890	481	0
 Lakhera Bāg	2509	7898	481	0
-Lakhera ka Bāg	2509	7898	481	0
+Lakhera ka Bāg	2509	7898	481	0	Lakhera Bāg
 Lākhron	2507	7878	481	0
 Lākhankhera	2410	7824	352	0
 Lakhau	2499	7836	384	0
@@ -131,8 +131,8 @@ Behta Lākhi	2724	7978	686	0
 Lakhnipur	2696	7902	464	0
 Lākhāpur	2681	7907	290	0
 Lakhanpur Parhar	2683	7918	290	0
-Lakhanpura	2683	7918	290	0
-Lakshmīnārāyanpura	2676	7555	121	0
+Lakhanpura	2683	7918	290	0	Lakhanpur Parhar
+Lakshmīnārāyanpura	2676	7555	121	0	Lachhmīnārāyanpura
 Lākās	2676	7558	121	0
 Lakshmanpur	2647	7932	715	0
 Lakhāoti	2561	7923	433	0
@@ -169,7 +169,7 @@ Lakhūwāli Dhāni	2973	7577	443	0
 Lākhāu	2836	7509	539	0
 Lākhāu Dhāni	2836	7510	539	0
 Lakhor Chhoti	2900	7368	307	0
-Chak Lakhowāl	3050	7420	3	0
+Chak Lakhowāl	3050	7420	3	0	Budhoke
 Lakhowāli	3049	7421	3	0
 Lakhewāli	3025	7401	3	0
 Lakhewāli	3044	7435	615	0
@@ -189,10 +189,10 @@ Lakhoti	3093	7725	479	0
 Lākur	3020	7746	88	0
 Lakhwāri	3072	7754	534	0
 Lakhsyāri	3055	7797	448	0
-Lak	2659	7646	116	0
+Lak	2659	7646	116	0	Rewāli
 Lākhanpura	2652	7626	708	0
 Lakhūwāla	2946	7810	575	0
-Muhammadpur Lakhu	2946	7810	575	0
+Muhammadpur Lakhu	2946	7810	575	0	Lakhūwāla
 Lakhpatnagar	2931	7812	575	0
 Lākhlān Chhoti	2868	7529	539	0
 Lākhlān Bari	2867	7530	539	0
@@ -222,7 +222,7 @@ Lakarwāli	2977	7499	585	0
 Lākhāgarh	2440	7343	22	0
 Lakan ka Gūrha	2480	7354	22	0
 Lakhāuli	2467	7368	22	0
-Lakshmīpura	2463	7601	371	0
+Lakshmīpura	2463	7601	371	0	Nārli
 Lakhāriya	2459	7601	371	0
 Lakshmīpura	2468	7614	333	0
 Lakha	3064	7545	674	0
@@ -355,7 +355,7 @@ Lakshmīnagar	2112	7906	141	0
 Lakhanpur	2749	7934	688	0
 Lakhāpur	2156	7943	141	0
 Lakshmarāoguda	1722	7811	62	0
-Lakshmidevipalli	1702	7804	62	0
+Lakshmidevipalli	1702	7804	62	0	Kondonibhāwi
 Lakhanpur	2795	7956	470	0
 Partābpur Lakhmi	2782	7970	470	0
 Lakhola	2796	7971	470	0
@@ -371,7 +371,7 @@ Lakshmīpalli	1606	7819	146	0
 Lakhaiāmau	2715	7972	570	0
 Lakshmanpur	2709	7968	570	0
 Lakshmipura	2564	7748	436	0
-Lakshmanpur	2551	7736	436	0
+Lakshmanpur	2551	7736	436	0	Kolāpur
 Lakhora	2177	7672	209	0
 Lakmāpur	2749	7989	686	0
 Lakhwa	2741	7992	686	0
@@ -424,7 +424,7 @@ Lakshmīpur	2550	8103	643	0
 Lakhesar	2527	7917	433	0
 Lakhanwān	2452	7927	663	0
 Lakhmīpur	2585	8300	498	0
-Lakhua	2673	7815	478	0
+Lakhua	2673	7815	478	0	Kachchhapura
 Lakshmanpura	2671	7821	478	0
 Lakhangaon	2197	7637	209	0
 Lākha Kheri	2251	7713	465	0
@@ -446,7 +446,7 @@ Lākhāpur	2524	8313	724	0
 Lakshmanpura	2639	7876	334	0
 Laktu	2142	7681	133	0
 Lakshmīpura	2546	7818	436	0
-Lakhmanpur	2565	8337	26	0
+Lakhmanpur	2565	8337	26	0	Dihwa
 Lakhanpur	2525	7803	436	0
 Lakhanpur	2517	7817	436	0
 Lakhanchandpur Khurd	2550	8346	26	0
@@ -462,7 +462,7 @@ Lakshamanpura	2586	7854	503	0
 Lakāra	2554	7856	433	0
 Sarāi Lakhansi	2595	8354	586	0
 Lakhupur	2591	8351	586	0
-Lakhmipur	2534	8357	26	0
+Lakhmipur	2534	8357	26	0	Abhaīpur
 Lākhājhiri	2175	7756	462	0
 Lakarjām	2196	7757	462	0
 Lakhiwāra	2169	7754	133	0
@@ -519,7 +519,7 @@ Lakshmīpura	2492	7626	371	0
 Lakshmāpuram	1734	7912	129	0
 Lakshmīdevigūdem	1704	7957	101	0
 Lakhanpur	2384	7849	352	0
-Lakshmipura	2387	7633	16	0
+Lakshmipura	2387	7633	16	0	Dhāwali
 Lakhīpur	2491	7872	481	0
 Laksmanpur	1969	7867	282	0
 Lakkampur	1945	7855	282	0
@@ -583,7 +583,7 @@ Lakhmīpur	2547	8279	251	0
 Lakhansīpur	2546	8276	251	0
 Lakhāpur	2545	8277	251	0
 Lakhrāmpur	2529	8297	251	0
-Lakhanpur	2529	8294	251	0
+Lakhanpur	2529	8294	251	0	Bhūlanpur
 Lakhmīpur	2533	8292	251	0
 Laktahā	2531	8206	607	0
 Lakshmipur	2498	8211	607	0
@@ -730,7 +730,7 @@ Lakewa Purwa	2705	8228	542	0
 Misraulia Lakhpat Rāi	2701	8233	542	0
 Lakhmipur	2709	8242	280	0
 Lakhwāpur	2701	8238	542	0
-Lakshinīdeopalli	1821	7842	58	0
+Lakshinīdeopalli	1821	7842	58	0	Engonpallli
 Lakhai Khor	2703	8289	292	0
 Lakhai Gadaria	2687	8219	542	0
 Lakhmidaspur	2667	8220	629	0
@@ -875,7 +875,7 @@ Lakhanpūra	2222	7593	329	0
 Lakria Hanumān	2139	7504	190	0
 Lākh	2072	7548	78	0
 Lākhnāsar	2444	7225	134	0
-Lākham	2248	8014	480	0
+Lākham	2248	8014	480	0	Dongariā
 Lakhna	3125	7457	260	0
 Lakkhewāliān Thoān	3104	7463	566	0
 Lakha Bubna	3102	7468	566	0
@@ -885,7 +885,7 @@ Lakhowāl	3194	7488	222	0
 Lakhowāl	3186	7475	222	0
 Lakhna	3134	7478	260	0
 Lakhab Kalān	3199	7521	487	0
-Lakhmīrwāla	2933	7639	367	0
+Lakhmīrwāla	2933	7639	367	0	Pathri
 Lakhān	2946	7753	545	0
 Lakarsandha	2949	7765	545	0
 Lakadkot	2170	7449	186	0
@@ -1092,7 +1092,7 @@ Lakshampuram	1835	8323	179	0
 Lakshmīpuram	1804	8323	179	0
 Lakshmīnārāyanapuram	1878	8340	199	0
 Lakshmināyuduvalasa	1893	8345	199	0
-Lakshmīpuram	1872	8330	199	0
+Lakshmīpuram	1872	8330	199	0	Karagotavalasa
 Lakshmīnārayanapeta	1874	8336	199	0
 Lakshmīpuram	1866	8341	199	0
 Lakhāpāl	1880	8156	406	0
@@ -1200,7 +1200,7 @@ Lakhmīpur	2885	7941	552	0
 Lakhanpur	2875	7943	342	0
 Lakha	2872	7933	342	0
 Lakhīmpur	2868	7933	342	0
-Lakhmīpur	2868	7933	342	0
+Lakhmīpur	2868	7933	342	0	Lakhīmpur
 Lakhanpur	2846	7940	342	0
 Lakhaura	2829	7943	342	0
 Lākhan Nagla	2810	7927	117	0
@@ -1543,7 +1543,7 @@ Lakshmakkapalle	1515	7964	200	0
 Lakkavaram	1570	7979	200	0
 Lakshmīpuram Rājupālem	1558	7982	200	0
 Lakshmipuram	1560	7994	200	0
-Lakshmīpuram	1557	7982	200	0
+Lakshmīpuram	1557	7982	200	0	Kanibhampādu
 Lakshmīpuram	1551	7984	200	0
 Lakshmakkapalle	1542	7927	200	0
 Lakshmīpuram	1500	7997	6	0
@@ -1652,7 +1652,7 @@ Lakshmipuram	943	7820	119	0
 Lakshmīpuram	939	7805	119	0
 Lakshmīpuram	928	7821	208	0
 Lakkampatti	909	7820	208	0
-Lakshminārāyanapuram	910	7820	208	0
+Lakshminārāyanapuram	910	7820	208	0	Olaipatti
 Lakshmīpuram	905	7807	208	0
 Lakshmīpuram	955	7848	5	0
 Lakshmīpuram	917	7829	208	0

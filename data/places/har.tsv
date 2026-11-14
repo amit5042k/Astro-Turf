@@ -1,48 +1,48 @@
 Haridwar	2995	7816	596	186079
-Hardwār	2995	7816	596	186079
+Hardwār	2995	7816	596	186079	Haridwar
 Hardoī	2739	8013	686	122635
 Harihar	1451	7581	275	83219
 Harda	2234	7710	465	74268
-Harda Khās	2234	7710	465	74268
-Hardoi	2764	7994	686	73606
+Harda Khās	2234	7710	465	74268	Harda
+Hardoi	2764	7994	686	73606	Shāhābād
 Harpanahalli	1479	7599	366	47039
 Diamond Harbour	2219	8819	4	41802
 Harūr	1205	7848	110	25469
 Hardi	2608	8668	426	20287
 Hārij	2369	7191	240	20253
-Harjokri	2851	7712	721	19148
+Harjokri	2851	7712	721	19148	Rijokri
 Harpālpur	2529	7933	663	18529
 Guru Har Sahāi	3071	7440	566	17192
 Haripād	928	7646	243	15588
 Harduāganj	2794	7816	543	12328
-Harduganj	2794	7816	543	12328
+Harduganj	2794	7816	543	12328	Harduāganj
 Harji	2529	7286	343	11380
 Harrai	2261	7922	337	11000
-Hardoi	2712	8014	686	10299
+Hardoi	2712	8014	686	10299	Mādhoganj
 Haringhāta	2296	8857	528	9705
 Harbatpur	3044	7774	448	9478
-Harveypatti	990	7809	274	9016
+Harveypatti	990	7809	274	9016	Ottappatti
 Haraiya	2679	8246	154	9000
 Hariāna	3164	7584	296	8928
-Sri Hargobindpur	3169	7548	487	8241
+Sri Hargobindpur	3169	7548	487	8241	Srīgobindpur
 Garhi Harsāru	2845	7694	630	7894
 Harduli	2293	7990	598	7682
 Haripur	2294	8823	279	7327
 Harnai	1781	7310	234	7144
 Hariharpur	2389	8613	401	6938
 Harēkala	1284	7492	55	6814
-Harsul	1994	7498	113	4979
+Harsul	1994	7498	113	4979	Lāsūr
 Haralāpura	1453	7581	275	4655
 Harina	2381	8621	401	4637
 Haralahalli	1304	7611	679	4476
 Harina Pashdal Bar	2190	8771	559	1500
 Harinārāyanpur	2260	8811	354	1466
 Sidhu Hari Singh	3111	7563	369	545
-Semri-Harchand	2269	7809	590	0
-Harwania	2350	7483	568	0
+Semri-Harchand	2269	7809	590	0	Semri
+Harwania	2350	7483	568	0	Salwānia
 Lāmba Harisingh	2630	7516	313	0
-Hardus	3492	7608	779	0
-Haromoto	2205	8529	293	0
+Hardus	3492	7608	779	0	Kharal
+Haromoto	2205	8529	293	0	Horomoto
 Harāsar	2788	7458	539	0
 Harangaon	2275	7697	322	0
 Harwan	3416	7489	611	0
@@ -51,22 +51,22 @@ Hārua	2261	8868	450	0
 Harthala	2887	7875	511	0
 Harsūr	1743	7697	71	0
 Harsūl	2019	7768	67	0
-Harsui	2019	7768	67	0
+Harsui	2019	7768	67	0	Harsūl
 Harsul	2011	7345	54	0
 Harsora	2778	7645	482	0
 Harsor	2673	7448	430	0
-Harsore	2673	7448	430	0
+Harsore	2673	7448	430	0	Harsor
 Harsoli	2662	7518	121	0
 Harsola	2257	7582	660	0
 Harsol	2336	7302	212	0
 Harsil	3103	7873	89	0
 Harseni	2497	8027	532	0
 Harsāwa Bara	2792	7499	491	0
-Harsāwa	2792	7499	491	0
+Harsāwa	2792	7499	491	0	Harsāwa Bara
 Harsauli	2786	7662	482	0
 Harsāni	2596	7079	285	0
 Harsolāv	2672	7371	430	0
-Harsāla	2672	7371	430	0
+Harsāla	2672	7371	430	0	Harsolāv
 Harrātola	2283	8132	468	0
 Harājkheri	2293	7678	675	0
 Harpālpur	3039	7660	564	0
@@ -77,9 +77,9 @@ Hārohalli	1232	7678	74	0
 Harnaut	2537	8553	514	0
 Harnātānr	2730	8402	476	0
 Harnāwada	2443	7671	506	0
-Harnāoda	2443	7671	506	0
+Harnāoda	2443	7671	506	0	Harnāwada
 Hārnahalli	1405	7546	346	0
-Harnhalli	1405	7546	346	0
+Harnhalli	1405	7546	346	0	Hārnahalli
 Hārmutigāon	2712	9383	459	0
 Harmārā	2668	7493	446	0
 Harmal	3006	7983	722	0
@@ -96,20 +96,20 @@ Haripura	3014	7404	3	0
 Harīpura	2497	7548	417	0
 Haripura	2092	7347	127	0
 Haripūr	3215	7717	680	0
-Harlpur	3215	7717	680	0
+Harlpur	3215	7717	680	0	Haripūr
 Harīpur	3200	7616	38	0
 Haripur	2012	8587	603	0
 Haripur	1885	8450	472	0
-Haripuram	1885	8450	472	0
+Haripuram	1885	8450	472	0	Haripur
 Harīpur	1685	7454	65	0
 Harinagar	2181	7261	151	0
 Harilādih	2373	8640	401	0
 Harīke	3116	7495	260	0
 Hariharpur	2442	8692	669	0
-Hariharpur-Dumka	2442	8692	669	0
+Hariharpur-Dumka	2442	8692	669	0	Hariharpur
 Hariharpur	2392	8354	341	0
 Hariharpur	1352	7530	98	0
-Hariharapura	1352	7530	98	0
+Hariharapura	1352	7530	98	0	Hariharpur
 Hariharpāra	2403	8845	471	0
 Hariharganj	2455	8428	701	0
 Harigarh	2466	7626	333	0
@@ -117,18 +117,18 @@ Haridāspur	2073	8612	376	0
 Harichandanpur	2134	8579	293	0
 Hariāu	2996	7571	593	0
 Hariyāsar	2850	7448	539	0
-Hariasar	2850	7448	539	0
+Hariasar	2850	7448	539	0	Hariyāsar
 Hariāra	2611	7348	344	0
-Hariyāra	2611	7348	344	0
+Hariyāra	2611	7348	344	0	Hariāra
 Hariāna	2260	7026	145	0
 Hariyādhāna	2640	7379	344	0
-Hariādhana	2640	7379	344	0
+Hariādhana	2640	7379	344	0	Hariyādhāna
 Hari	3153	7662	772	0
 Harganyiwan	3423	7502	595	0
 Hargām	2776	8074	507	0
 Hardua	2483	8099	324	0
 Hardot	2351	7827	338	0
-Hardote	2351	7827	338	0
+Hardote	2351	7827	338	0	Hardot
 Hardot	2372	7911	352	0
 Hardi	2617	8510	395	0
 Hardesar	2865	7438	539	0
@@ -144,13 +144,13 @@ Hāranhalli	1325	7622	679	0
 Harangul	1891	7665	153	0
 Harāmukh	3433	7502	595	0
 Haradanhalli	1188	7695	69	0
-Haradanahalli	1188	7695	69	0
-Hariāsar	2861	7382	307	0
+Haradanahalli	1188	7695	69	0	Haradanhalli
+Hariāsar	2861	7382	307	0	Nai Bhādera
 Hardesar	2804	7471	539	0
 Harpālsar	2844	7460	539	0
-Harpatsar	2844	7460	539	0
+Harpatsar	2844	7460	539	0	Harpālsar
 Hariyāsār	2843	7465	539	0
-Hariāsar	2843	7465	539	0
+Hariāsar	2843	7465	539	0	Hariyāsār
 Hārit	2292	8825	279	0
 Haripāl	2282	8811	279	0
 Haripur	2279	8827	279	0
@@ -183,11 +183,11 @@ Harīr ka Nakka	3312	7448	504	0
 Haryāna	2962	7698	457	0
 Chak Hārni	3258	7482	581	0
 Harīpur	3268	7475	581	0
-Harīpar Manhāsān	3268	7475	581	0
+Harīpar Manhāsān	3268	7475	581	0	Harīpur
 Hardās	3461	7609	8	0
 Hāri	3409	7393	301	0
 Pingla Haridal	3437	7381	0	0
-Pinjla Haridal	3437	7381	0	0
+Pinjla Haridal	3437	7381	0	0	Pingla Haridal
 Haripur	3036	7786	448	0
 Harbhajwāla	3030	7797	448	0
 Harbanswāla	3031	7799	448	0
@@ -197,7 +197,7 @@ Hārnāmgarh	2978	7721	449	0
 Māzra Haripur	2955	7733	328	0
 Harhar Fatehpur	2955	7739	328	0
 Roni Harjīpur	2954	7749	545	0
-Koni Harjīpur	2954	7749	545	0
+Koni Harjīpur	2954	7749	545	0	Roni Harjīpur
 Harrada	2523	7561	353	0
 Harīpura	2545	7554	353	0
 Harīpura	2529	7561	353	0
@@ -205,12 +205,12 @@ Harna	2561	7550	353	0
 Hāroti	2593	7573	313	0
 Hartāri	2932	7695	298	0
 Haro	3115	7712	479	0
-Haru	3115	7712	479	0
+Haru	3115	7712	479	0	Haro
 Hardāspur	1753	7800	31	0
 Harākheri	2455	7554	655	0
 Haripura ka Bās	2833	7525	300	0
 Harīpura	2827	7529	300	0
-Harpura	2818	7541	300	0
+Harpura	2818	7541	300	0	Hamīri ka Bās
 Haripura	2834	7568	300	0
 Haripur	2826	7553	300	0
 Haripur Bās	2825	7552	300	0
@@ -220,7 +220,7 @@ Harīgarh	3011	7653	564	0
 Harīgarh	3004	7661	501	0
 Rāj Bhavan Haryana	3074	7681	787	0
 Haripur	3075	7696	587	0
-Harīpur	3069	7686	587	0
+Harīpur	3069	7686	587	0	Hurīpur
 Harīpur Kora	3056	7684	632	0
 Haripur Hinduan	3059	7689	632	0
 Harīpur	3051	7693	705	0
@@ -281,16 +281,16 @@ Hardeo Purwa	2710	7978	570	0
 Harrāchauki Purwa	2707	7984	570	0
 Harsauli	2682	7900	290	0
 Nagla Hargyān	2697	7905	290	0
-Harchandpur	2696	7903	290	0
+Harchandpur	2696	7903	290	0	Achandpur
 Harmani	2688	7925	290	0
 Nagla Harchandi	2685	7922	290	0
 Hardoi	2694	7907	290	0
 Nagla Hari	2695	7915	290	0
 Hari ka Nagla	2690	7917	290	0
-Harnāthpur	2686	7906	290	0
+Harnāthpur	2686	7906	290	0	Hanādpur
 Harnārāyan ka Nagla	2682	7905	290	0
 Harharpur	2681	7905	290	0
-Hariharpur	2681	7905	290	0
+Hariharpur	2681	7905	290	0	Harharpur
 Nagla Harrāi	2684	7916	290	0
 Harki Jameh	2645	7903	334	0
 Harauli	2627	7916	741	0
@@ -336,7 +336,7 @@ Amnaur Harnārāyan	2598	8493	540	0
 Harirāmpur	2538	8827	788	0
 Harbanspura	2672	7557	121	0
 Harnārāyanpura	2670	7610	121	0
-Hārnārāinpura	2670	7610	121	0
+Hārnārāinpura	2670	7610	121	0	Harnārāyanpura
 Harwar	2426	7490	601	0
 Hariyabbe	1406	7681	255	0
 Harigaon	1966	7470	152	0
@@ -371,7 +371,7 @@ Tibbi Harisingh	2973	7526	709	0
 Haripur	2955	7536	443	0
 Haripura	2904	7504	486	0
 Harīkot	2906	7573	339	0
-Harīgarh	2974	7597	593	0
+Harīgarh	2974	7597	593	0	Gehla
 Harīpura	2880	7507	539	0
 Harīpur	2865	7601	431	0
 Harodi	2857	7604	781	0
@@ -396,7 +396,7 @@ Harāmu	3137	7733	278	0
 Hariyewāla	3060	7466	730	0
 Haraj	3049	7464	615	0
 Harike Kalān	3048	7471	615	0
-Bara Hari	3048	7471	615	0
+Bara Hari	3048	7471	615	0	Harike Kalān
 Hardāsa	3093	7488	566	0
 Harāj	3087	7490	566	0
 Hart	3094	7715	628	0
@@ -413,7 +413,7 @@ Harhech	3092	7733	534	0
 Hārlu	3065	7731	534	0
 Harisingh Dhāni	2750	7632	482	0
 Harīpura	2737	7638	482	0
-Harner	2738	7629	482	0
+Harner	2738	7629	482	0	Bhāngroli
 Harauli	3028	7739	88	0
 Harīpur	3046	7739	534	0
 Harīpur	3019	7727	88	0
@@ -432,7 +432,7 @@ Harīpura	2735	7693	482	0
 Haronwāla	3051	7786	448	0
 Haripur Byās	3052	7784	448	0
 Harīpura	2667	7635	708	0
-Bhogpur Patti Harsukh	2946	7808	575	0
+Bhogpur Patti Harsukh	2946	7808	575	0	Chāndpur
 Harshīwāla	2941	7802	545	0
 Harināthpura	2804	7525	300	0
 Hār Bhar	2805	7522	300	0
@@ -498,10 +498,10 @@ Harīshvāda	2092	7824	143	0
 Harīpura	2550	7631	371	0
 Haryewāla	3073	7495	499	0
 Burj Harika	3056	7494	730	0
-Harīpura	2543	7626	371	0
+Harīpura	2543	7626	371	0	Nayāgaon
 Harīpura	2587	7651	116	0
 Harpura	2575	7667	335	0
-Chak Hari Singhwāla	3001	7487	563	0
+Chak Hari Singhwāla	3001	7487	563	0	Pakka Khurd
 Haripura	2992	7448	486	0
 Hārna	2445	7347	22	0
 Harāwāra	2404	7343	22	0
@@ -530,7 +530,7 @@ Harīnagar	2947	7776	545	0
 Harsāna Kalān	2895	7701	485	0
 Harsāna Khurd	2894	7702	485	0
 Hareoli	2883	7701	769	0
-Harampur	2877	7724	727	0
+Harampur	2877	7724	727	0	Pur
 Harnāmpur	3082	7592	674	0
 Harinagar	2863	7712	771	0
 Harinagar	2863	7710	771	0
@@ -566,7 +566,7 @@ Harchāwāla	3033	7809	448	0
 Harīpur	3027	7806	448	0
 Harrāwāla	3026	7809	448	0
 Harpur	2935	7862	575	0
-Hareola	2942	7860	575	0
+Hareola	2942	7860	575	0	Bhagauta
 Hareoli	2940	7860	575	0
 Fazalpur Hari	2944	7864	575	0
 Harpur	2931	7867	575	0
@@ -634,7 +634,7 @@ Nagla Harchand	2766	7727	114	0
 Nagla Harnārāyan	2763	7733	114	0
 Nagla Harsukh	2763	7732	326	0
 Nagla Harsukha	2758	7733	114	0
-Harīnagar	3018	7631	564	0
+Harīnagar	3018	7631	564	0	Kherki
 Harigarh Kinnan	3006	7638	638	0
 Harnāmpur	3089	7664	632	0
 Harlālpur	3077	7666	632	0
@@ -940,7 +940,7 @@ Harnāthpura	2402	7707	16	0
 Harīpur	2467	7725	336	0
 Harīgarh	2454	7726	336	0
 Harīsinghpur	2744	7899	711	0
-Nagla Harkishanpur	2735	7877	711	0
+Nagla Harkishanpur	2735	7877	711	0	Khāmini
 Nagla Hardant	2734	7898	464	0
 Bhūra Harchandpur	2735	7889	464	0
 Nagla Hār	2730	7886	464	0
@@ -954,7 +954,7 @@ Harīpur	2487	7771	436	0
 Harīpur	2443	7752	410	0
 Haripur	2433	7762	336	0
 Hardorkheri	2417	7755	215	0
-Haripur	2415	7770	215	0
+Haripur	2415	7770	215	0	Āftābnagar
 Haripur	2414	7761	215	0
 Hārūkheri	2404	7774	215	0
 Hārūkheri	2439	7797	410	0
@@ -1090,7 +1090,7 @@ Harju Chak	2562	8315	26	0
 Hariharpur	2562	8313	26	0
 Rāmpur Harbans	2564	8316	26	0
 Hardāspur	2572	8316	498	0
-Hardasahi	2572	8316	498	0
+Hardasahi	2572	8316	498	0	Hardāspur
 Hār ka Pura	2699	7839	546	0
 Harbaks Gurja	2692	7843	546	0
 Harīpura	2677	7842	478	0
@@ -1123,7 +1123,7 @@ Harankhed	2085	7608	49	0
 Kurha Hardo	2081	7602	78	0
 Harpura	2536	7811	436	0
 Harīnagar	2533	7808	436	0
-Hartara	2570	8328	26	0
+Hartara	2570	8328	26	0	Mubārakpur
 Hardia	2568	8331	26	0
 Harsinghpatti	2560	8332	26	0
 Harkauli	2553	8341	26	0
@@ -1432,7 +1432,7 @@ Harīpatti	2542	8240	583	0
 Harīpatti	2543	8247	583	0
 Harharpur	2550	8244	583	0
 Hāri Rāmpur	2519	8226	583	0
-Hargarh	2520	8230	201	0
+Hargarh	2520	8230	201	0	Ajgahna Bhaunrūpur
 Hargarh	2520	8229	201	0
 Hardiha	2504	8236	201	0
 Harīpur	2514	8240	201	0
@@ -1546,19 +1546,19 @@ Harīpur	2922	7808	700	0
 Harīnagar	2919	7818	575	0
 Begampur Haru	2963	7848	575	0
 Harsuwāra	2961	7833	575	0
-Nagla Hardās	2961	7829	575	0
+Nagla Hardās	2961	7829	575	0	Ismāilpur
 Harisingh ka Bhogla	2953	7842	575	0
-Abdīpur Harbans	2952	7844	575	0
+Abdīpur Harbans	2952	7844	575	0	Brāhmanwāla
 Harganpur	2952	7841	575	0
 Abdīpur Harbans	2951	7842	575	0
 Harīnagar	2953	7848	575	0
-Harīkishanpur	2950	7848	575	0
-Harbanspur	2948	7840	575	0
+Harīkishanpur	2950	7848	575	0	Allāhāuddīnpur
+Harbanspur	2948	7840	575	0	Allāhdādpur
 Tukhmānpur Harbans	2945	7846	575	0
-Aurangzebpur Hardās	2947	7844	575	0
+Aurangzebpur Hardās	2947	7844	575	0	Mollāwāla
 Hariāwāla	2945	7836	575	0
 Hardāspur Māde	2944	7830	575	0
-Mauzampur Harbans	2943	7833	575	0
+Mauzampur Harbans	2943	7833	575	0	Rahmānpur
 Hargaon Chāndan	2943	7841	575	0
 Haru Nagla	2939	7842	575	0
 Harpur	2934	7832	575	0
@@ -1819,7 +1819,7 @@ Hardat Pura	2729	8189	542	0
 Hardāhi	2731	8180	294	0
 Hardi	1959	7726	640	0
 Harsi	1981	7759	67	0
-Hari Bāba ka Bandha	2842	7832	646	0
+Hari Bāba ka Bandha	2842	7832	646	0	Shri Dhām Bāndli
 Hardwārpur	2831	7829	637	0
 Ghusrāna Harsingh	2826	7826	637	0
 Hardāspur	2841	7833	646	0
@@ -1845,11 +1845,11 @@ Harbandhanpur	2586	8129	681	0
 Hardāspur	2580	8130	728	0
 Hariāpur	2585	8144	718	0
 Harbanspur	2591	8141	681	0
-Hardūpur	2590	8144	718	0
+Hardūpur	2590	8144	718	0	Muhammadpur
 Pure Harbans	2598	8148	681	0
 Pura Harbanslāl Tiwāri	2619	8104	681	0
 Pura Harbanslāl Tiwāri	2618	8100	681	0
-Harilāla	2619	8118	681	0
+Harilāla	2619	8118	681	0	Padri
 Hardi Tikar	2609	8124	681	0
 Harduwār Purwa	2603	8119	681	0
 Hardi Tikar	2610	8124	681	0
@@ -1908,7 +1908,7 @@ Harawānyan	3396	7464	76	0
 Hardovel	3399	7466	76	0
 Haryun	3397	7474	76	0
 Harīpur	2814	7878	117	0
-Nagla Hari	2810	7881	117	0
+Nagla Hari	2810	7881	117	0	Hasanpur Lodh
 Hardāspur	2817	7885	117	0
 Harnāthpur	2823	7896	117	0
 Harganpur	2805	7894	117	0
@@ -2412,7 +2412,7 @@ Harchandpur	2557	8364	26	0
 Hardāspur	2574	8368	26	0
 Harpur	2570	8373	26	0
 Harballampur	2562	8372	26	0
-Hari Harpur	2560	8375	26	0
+Hari Harpur	2560	8375	26	0	Nārayanpur
 Harpura	2575	8364	26	0
 Harini	3337	7567	34	0
 Hardwāra	2393	8019	351	0
@@ -2609,7 +2609,7 @@ Hardīpāra	2283	8277	725	0
 Hārasvādi	2042	7518	113	0
 Hardi	2186	8226	291	0
 Hardi	2176	8230	291	0
-Hārādahra	2186	8237	696	0
+Hārādahra	2186	8237	696	0	Bohārdih
 Hardi	2160	8236	379	0
 Harha	2162	8243	379	0
 Harha	2177	8252	696	0
@@ -2663,7 +2663,7 @@ Harharpur	2740	8089	507	0
 Harharpur	2744	8090	507	0
 Harchanda	2742	8098	507	0
 Har Singhpur	2741	8097	507	0
-Hardāspur	2730	8096	507	0
+Hardāspur	2730	8096	507	0	Khairandeshnagar
 Hardo Pharala	3124	7567	369	0
 Hardāspur	3125	7571	565	0
 Hardo Shekh	3112	7556	369	0
@@ -2864,7 +2864,7 @@ Haroli	2992	7888	612	0
 Harkot	2991	7886	612	0
 Hardijharia	2193	8326	439	0
 Jāmpāli Harihar	2189	8329	439	0
-Harnipura	2883	7801	756	0
+Harnipura	2883	7801	756	0	Nizampur
 Haraura	2872	7802	756	0
 Harbhānpur	2860	7803	637	0
 Fatehpūr Nagla Hari	2832	7810	637	0
@@ -2979,7 +2979,7 @@ Harlaguda	1927	8393	363	0
 Hāram	1897	8139	406	0
 Haripuram	1890	8390	252	0
 Haripurampallāpuram	1860	8379	199	0
-Haripuram	1871	8390	472	0
+Haripuram	1871	8390	472	0	Pedda Mādi
 Harrahwa	2435	8268	631	0
 Hardi Bigha	2508	8429	409	0
 Hariharpur	2517	8434	409	0
@@ -3126,7 +3126,7 @@ Harihara	2642	8422	703	0
 Harpur	2623	8405	535	0
 Harnāthpur	2623	8414	639	0
 Harpur	2616	8406	639	0
-Harirām Chak	2609	8421	639	0
+Harirām Chak	2609	8421	639	0	Khartari
 Harnātānr	2616	8418	639	0
 Harpur	2617	8422	639	0
 Harpur	2623	8416	639	0
@@ -3167,7 +3167,7 @@ Haraiya	2902	7976	641	0
 Harnāwda	2300	7638	322	0
 Harnāthpur	2817	7912	117	0
 Harharpur	2819	7914	117	0
-Harnathpur	2801	7919	117	0
+Harnathpur	2801	7919	117	0	Tālgaon
 Bihār Harchand	2804	7904	117	0
 Harsū Nagla	2885	7945	342	0
 Harharpur	2881	7948	342	0
@@ -3245,7 +3245,7 @@ Harkishnāpur	2868	7982	683	0
 Harchoia	2860	7976	683	0
 Kanja Harraiya	2856	7993	683	0
 Harraiya	2872	7991	683	0
-Harkishnāpur	2872	7991	683	0
+Harkishnāpur	2872	7991	683	0	Harraiya
 Harpur	2586	8408	536	0
 Haripur	2581	8403	536	0
 Harpur Chandarbhān	2577	8414	536	0
@@ -3855,7 +3855,7 @@ Hārohājra	2538	8799	412	0
 Hargāwān	2498	8719	592	0
 Harkāta	2492	8725	592	0
 Haripur Chakwa	2486	8722	592	0
-Harpati Chak	2486	8720	592	0
+Harpati Chak	2486	8720	592	0	Chakeswari
 Harlāltola	2484	8724	592	0
 Haripur	2483	8725	592	0
 Harinduba	2454	8758	658	0
@@ -4104,7 +4104,7 @@ Hariharpur	2403	8678	770	0
 Harnadangal	2406	8679	770	0
 Harnāmānr	2377	8418	707	0
 Harhe	2371	8415	707	0
-Haramgarā	2353	8404	707	0
+Haramgarā	2353	8404	707	0	Jāmdih
 Harrādīpā	2319	8417	321	0
 Harsari	2315	8414	321	0
 Hari	2312	8405	398	0

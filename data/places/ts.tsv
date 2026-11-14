@@ -3,17 +3,17 @@ Tseminyu	2592	9422	423	6315
 Tsudikong	2668	9464	315	4416
 Tsutuho	2581	9461	181	0
 Tsundupalle	1398	7892	195	0
-Tsundupalli	1398	7892	195	0
-Tsomgo	2738	8877	422	0
+Tsundupalli	1398	7892	195	0	Tsundupalle
+Tsomgo	2738	8877	422	0	Chhanggu
 Tsetang	2783	8878	27	0
 Tsandavolu	1601	8061	220	0
 Tsadumu	1366	7810	195	0
 Tsadum	1355	7891	214	0
-Tsadam	1355	7891	214	0
-Niaga-tso	3401	7891	2	0
-Ni-ya-ko-tsu	3401	7891	2	0
+Tsadam	1355	7891	214	0	Tsadum
+Niaga-tso	3401	7891	2	0	Nyagzu
+Ni-ya-ko-tsu	3401	7891	2	0	Nyagzu
 K’o-shih-erh-ts’un	3534	7887	2	0
-Tsunthang	2761	8864	27	0
+Tsunthang	2761	8864	27	0	Chuntang
 Tsūnt Wali War	3429	7474	595	0
 Tsūntpathar	3428	7494	595	0
 Kāu Tserwan	3426	7494	595	0
@@ -65,7 +65,7 @@ Tsōtpur	3368	7480	678	0
 Tsōgōm	3370	7482	678	0
 Tsurapathar	3354	7492	35	0
 Tsukmätār	3359	7489	35	0
-Tsukmaetar	3359	7489	35	0
+Tsukmaetar	3359	7489	35	0	Tsukmätār
 Tsaratsimul	3361	7490	35	0
 Tsak Mushīd	3365	7486	678	0
 Tsoitpur	3374	7494	678	0
@@ -74,7 +74,7 @@ Tsōkur	3370	7491	678	0
 Tsuk	3370	7494	678	0
 Naupūr Tsulyand	3369	7496	35	0
 Tsänsar	3366	7499	35	0
-Tsaensar	3366	7499	35	0
+Tsaensar	3366	7499	35	0	Tsänsar
 Tsawalgōm	3365	7499	35	0
 Tsāhlan	3364	7499	35	0
 Tsimar	3356	7500	35	0

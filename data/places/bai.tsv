@@ -1,23 +1,23 @@
 Baidyabāti	2278	8833	279	115504
 Bhaisa	1911	7796	360	49764
-Bhainsa	1911	7796	360	49764
+Bhainsa	1911	7796	360	49764	Bhaisa
 Bail-Hongal	1581	7486	77	49182
 Bairāgnia	2674	8527	582	42895
-Bairgania	2674	8527	582	42895
-Basni Bailima	2717	7365	430	29187
+Bairgania	2674	8527	582	42895	Bairāgnia
+Basni Bailima	2717	7365	430	29187	Basni
 Baikunthpur	2326	8256	621	28431
-Baikunthapur	2326	8256	621	28431
-Bairāt	2744	7618	121	20568
-Baindūr	1387	7463	257	20323
-Baindūri	1387	7463	257	20323
+Baikunthapur	2326	8256	621	28431	Baikunthpur
+Bairāt	2744	7618	121	20568	Viratnagar
+Baindūr	1387	7463	257	20323	Byndoor
+Baindūri	1387	7463	257	20323	Byndoor
 Talwandi Bhai	3086	7493	566	17285
 Baihar	2210	8055	144	16650
 Bhainsdehi	2164	7763	462	16400
-Bhagta Bhai Ka	3048	7510	563	14467
+Bhagta Bhai Ka	3048	7510	563	14467	Bhagta
 Bhairāpura	1222	7690	74	14276
 Bairo	2601	8651	426	12258
 Baikunthpur	2473	8141	516	10282
-Baikanthpur	2473	8141	516	10282
+Baikanthpur	2473	8141	516	10282	Baikunthpur
 Bhairamgarh	1901	8106	288	9026
 Bhainsa	2386	7873	352	5144
 Bhairabi	2420	9255	42	4320
@@ -31,36 +31,36 @@ Samādh Bhai	3060	7515	499	0
 Kot Bhāi	3027	7470	615	0
 Kot Bāīnka	3336	7452	504	0
 Dialpura Bhāika	3048	7520	563	0
-Bhāi Jodka	2996	7484	585	0
-Bhaika	2250	7189	28	0
-Bhaisāwa	2707	7550	121	0
+Bhāi Jodka	2996	7484	585	0	Desu Judha
+Bhaika	2250	7189	28	0	Bhoika
+Bhaisāwa	2707	7550	121	0	Bhesāwa
 Bhairunda	2665	7442	430	0
 Bhairu Payān	2820	7320	307	0
 Bhaitana	2061	7390	54	0
 Bhaiswāhi	2385	8208	672	0
 Bhaislāna	2706	7530	121	0
 Bhaironghāti	3102	7888	89	0
-Bhairon	2534	7741	436	0
+Bhairon	2534	7741	436	0	Bhiron
 Bhairi	1837	8399	472	0
 Bhairaun Ghāt	2648	8032	469	0
-Bhairāpur	1643	7658	72	0
+Bhairāpur	1643	7658	72	0	Bahīrāpur
 Bhainswāl	2952	7732	328	0
-Bhainswal Kalan	2952	7732	328	0
-Bhainswā	2674	7683	447	0
+Bhainswal Kalan	2952	7732	328	0	Bhainswāl
+Bhainswā	2674	7683	447	0	Maheswa
 Bhainsrorgarh	2497	7555	417	0
 Bhainsoda	2444	7584	580	0
 Bhainskuchi	2637	8977	420	0
 Bhainsara	2661	7148	217	0
 Bhainsāna	2376	7689	16	0
 Bhaini Bāgha	3006	7536	709	0
-Bhaina Bāgha	3006	7536	709	0
+Bhaina Bāgha	3006	7536	709	0	Bhaini Bāgha
 Bhāila Kalān	2970	7761	449	0
-Bhāilāl	2970	7761	449	0
-Baitagaon	1978	7278	192	0
+Bhāilāl	2970	7761	449	0	Bhāila Kalān
+Baitagaon	1978	7278	192	0	Betgaon
 Bailkunti	1636	7649	72	0
-Bairār	2571	7745	436	0
-Baigore	2175	7454	248	0
-Baiyyappanahalli	1307	7772	43	0
+Bairār	2571	7745	436	0	Behrār
+Baigore	2175	7454	248	0	Baygor
+Baiyyappanahalli	1307	7772	43	0	Bayappanhalli
 Baitha Lāngso	2597	9259	330	0
 Baitalpur	2185	8192	755	0
 Baisinga	2165	8691	382	0
@@ -69,9 +69,9 @@ Bairu	2641	7288	344	0
 Bairiya Saphi	2562	8429	620	0
 Bairi	2063	8603	376	0
 Baireddipalle	1309	7861	214	0
-Baireddirpalle	1309	7861	214	0
+Baireddirpalle	1309	7861	214	0	Baireddipalle
 Bairāsar Bara	2851	7539	539	0
-Bairāsar	2851	7539	539	0
+Bairāsar	2851	7539	539	0	Bairāsar Bara
 Bairapur	1320	7752	43	0
 Bairagarh	2435	7643	333	0
 Bairāgarh	2169	7706	133	0
@@ -82,25 +82,25 @@ Bainsi	2903	7642	719	0
 Bains	3117	7606	295	0
 Bāinmul	3360	7501	35	0
 Bāin Jagawāra	2242	7669	322	0
-Baīn	2242	7669	322	0
+Baīn	2242	7669	322	0	Bāin Jagawāra
 Baimho	2603	9455	7	0
 Bailūr	1182	7724	69	0
 Baila	2232	8104	480	0
 Baikunthpur	2627	8478	703	0
-Baikuntbpur	2627	8478	703	0
+Baikuntbpur	2627	8478	703	0	Baikunthpur
 Baijnāth	3205	7665	38	0
 Baijnārh	2991	7962	722	0
-Baijnāth	2991	7962	722	0
+Baijnāth	2991	7962	722	0	Baijnārh
 Baijla	2487	8645	524	0
 Bāihātu	2223	8531	287	0
 Bāihāta	2636	9170	636	0
 Baidyeshwar	2036	8538	303	0
-Baideswar	2036	8538	303	0
+Baideswar	2036	8538	303	0	Baidyeshwar
 Baidyapur	2317	8825	375	0
 Baidaura	2535	7841	433	0
 Baida	2603	9041	458	0
 Bāibāli	1997	8440	440	0
-Bhairūnsar	2839	7468	539	0
+Bhairūnsar	2839	7468	539	0	Bhajrūnsar
 Baijupurohit ki Dhāni	2806	7483	491	0
 Bhairūsar	2847	7498	539	0
 Baikunthapur	2298	8821	279	0
@@ -113,18 +113,18 @@ Baimlun	3428	7490	595	0
 Baihāma	3422	7478	595	0
 Bāila	3378	7424	1	0
 Bhainchh	3375	7412	1	0
-Mad Baihk	3432	7415	0	0
+Mad Baihk	3432	7415	0	0	Mod Behk
 Muri Baihk	3449	7400	0	0
-Nāwa Baihk	3428	7414	0	0
-Palphati Baihk	3438	7403	0	0
-Patani Baihk	3429	7409	0	0
-Rāhwāla Baihk	3438	7405	0	0
-Yadal Baihk	3437	7405	0	0
+Nāwa Baihk	3428	7414	0	0	Nāwa Behk
+Palphati Baihk	3438	7403	0	0	Palphati Behk
+Patani Baihk	3429	7409	0	0	Patani Behk
+Rāhwāla Baihk	3438	7405	0	0	Rāhwāla Behk
+Yadal Baihk	3437	7405	0	0	Yadal Behk
 Zab Baihk	3425	7421	301	0
 Bhaikpur	3430	7430	301	0
 Paneahwāli Bāīn	3300	7452	581	0
 Bāinda	3296	7461	666	0
-Bhaiwāl Molu	3278	7461	581	0
+Bhaiwāl Molu	3278	7461	581	0	Bhalwāl Molu
 Baikot	3322	7409	504	0
 Bari Baihk	3377	7433	1	0
 Wāhoān Baihk	3397	7446	301	0
@@ -133,24 +133,24 @@ Bhairgirān	3280	7498	581	0
 Bāīn	3277	7494	581	0
 Bhaira Laihr	3276	7499	581	0
 Bhaini Badāli	2901	7629	719	0
-Bhainīsurjan	2901	7629	719	0
+Bhainīsurjan	2901	7629	719	0	Bhaini Badāli
 Bhaini Māto	2901	7626	719	0
-Bhainīsurjan	2901	7626	719	0
-Bhaini Surjah	2901	7626	719	0
+Bhainīsurjan	2901	7626	719	0	Bhaini Māto
+Bhaini Surjah	2901	7626	719	0	Bhaini Māto
 Bari Bhaini	2900	7631	719	0
-Bhaini Chandarpāl	2900	7631	719	0
+Bhaini Chandarpāl	2900	7631	719	0	Bari Bhaini
 Bairsāl	2990	7695	457	0
 Bhainsru Khurd	2881	7681	719	0
 Bhainsru Kalān	2881	7682	719	0
 Rāja Bhair ki Bani	3270	7478	581	0
 Chūnkān Baihk	3459	7399	0	0
 Isa Baihk	3404	7397	301	0
-Maidāh Baihk	3417	7400	301	0
-Nara Baihk	3415	7398	301	0
+Maidāh Baihk	3417	7400	301	0	Maidān
+Nara Baihk	3415	7398	301	0	Nera
 Sultān Baihk	3412	7399	301	0
 Bankhor Baihk	3430	7394	0	0
 Banwāli Baihk	3435	7389	0	0
-Bari Baihk	3440	7399	0	0
+Bari Baihk	3440	7399	0	0	Bari Bekh
 Tungwāli Baihk	3435	7390	0	0
 Baihal	3039	7796	448	0
 Baisakwāli	3038	7796	448	0
@@ -163,7 +163,7 @@ Hajāri Bhairu ki Jhonpariyān	2537	7558	353	0
 Bhairopura	2569	7570	353	0
 Bhaironpura	2551	7572	353	0
 Bainsh	3121	7703	479	0
-Baihklār	3120	7700	479	0
+Baihklār	3120	7700	479	0	Bakhīār
 Bhaill	3117	7712	479	0
 Bairgaon	2992	7867	612	0
 Bhainsaur	2989	7866	612	0
@@ -188,7 +188,7 @@ Bhaira	2462	7869	384	0
 Baijnāth	2452	7866	384	0
 Bairwāra	2450	7861	384	0
 Baidau	2499	7887	481	0
-Baidaura	2500	7888	481	0
+Baidaura	2500	7888	481	0	Baldaura
 Baidpur	2492	7895	481	0
 Baikunthi	2475	7886	481	0
 Sikandarpur Bais	2777	7905	616	0
@@ -200,7 +200,7 @@ Rāmpur Bain	2770	7968	470	0
 Baisābāri	2711	7983	570	0
 Baroli Baidpur	2688	7900	290	0
 Nagla Baini	2678	7913	290	0
-Baijla	2631	7907	334	0
+Baijla	2631	7907	334	0	Bejla
 Purwa Bailam Singh	2646	7910	525	0
 Baipura	2677	7572	121	0
 Bhaironpur	2647	7938	715	0
@@ -214,8 +214,8 @@ Purwa Baiju	2655	7996	671	0
 Purwa Bairāgan	2654	7982	671	0
 Bairwār	2500	7902	481	0
 Baisa	2478	7902	481	0
-Bhaira	2468	7916	481	0
-Bhaira	2467	7917	481	0
+Bhaira	2468	7916	481	0	Shankargarh
+Bhaira	2467	7917	481	0	Majkhera
 Bhainsākhera	2451	7904	663	0
 Bhainswāri	2452	7900	481	0
 Bairāganpurwa	2484	7925	481	0
@@ -223,7 +223,7 @@ Bairān	2865	7575	431	0
 Baijnathpur	2589	8665	661	0
 Bhairiguri	2644	8992	713	0
 Bairanahalli	1414	7577	275	0
-Baidhan	2407	8263	631	0
+Baidhan	2407	8263	631	0	Waidhan
 Bairpan	2421	8289	103	0
 Baidpalle	1717	8083	46	0
 Baiju	2794	7251	307	0
@@ -264,7 +264,7 @@ Bhaira ki Dhāni	2854	7523	539	0
 Bhaini Khurd	2975	7695	457	0
 Bhairawi	2859	7623	781	0
 Bhaini Chelāwāli	2897	7624	719	0
-Bhaini Bhairon	2897	7624	719	0
+Bhaini Bhairon	2897	7624	719	0	Bhaini Chelāwāli
 Bainār	3333	7442	504	0
 Lami Baihk	3350	7449	504	0
 Ballēwāli Baihk	3462	7403	0	0
@@ -336,7 +336,7 @@ Bai	3132	7746	479	0
 Bair	3136	7747	680	0
 Lāl Bāi	3015	7462	615	0
 Bāra Bhāi	3082	7481	566	0
-Bhāi Gulāb Singhwāla	3094	7481	566	0
+Bhāi Gulāb Singhwāla	3094	7481	566	0	Ratta Khera
 Bhāīla	3105	7730	479	0
 Bāila	3104	7729	479	0
 Bāila	3121	7735	479	0
@@ -436,13 +436,13 @@ Bhairowāl Khurd	3092	7561	674	0
 Bhains	3089	7574	674	0
 Bhaini Jassa	3027	7553	726	0
 Bhaini Mahrāj	3028	7568	726	0
-Bhainswāl	2996	7777	596	0
+Bhainswāl	2996	7777	596	0	Sikandarpur
 Bhaisāni	2964	7780	545	0
 Baikuntpur	2966	7793	545	0
 Bainsalīwāla	2963	7796	545	0
 Baird Place	2860	7713	721	0
 Joga Bāi	2857	7728	419	0
-Bairampur	2870	7733	727	0
+Bairampur	2870	7733	727	0	Bhopura
 Baidpura	2858	7749	588	0
 Bhairapur	2882	7736	477	0
 Bhainsāoli	2837	7742	774	0
@@ -505,7 +505,7 @@ Sar Baihk	3459	7446	0	0
 Tungan Baihk	3462	7445	0	0
 Tungwāli Baihk	3473	7430	0	0
 Bairsāl	3095	7626	674	0
-Bāin	3048	7636	648	0
+Bāin	3048	7636	648	0	Rājindarnagar
 Kalar Bhaini	3026	7637	564	0
 Bāia	3048	7643	648	0
 Bhaiyāmil	2781	7786	543	0
@@ -688,7 +688,7 @@ Bhaironganj	2506	7957	663	0
 Baihārī	2550	7986	614	0
 Matonda Baishnauka	2508	7979	663	0
 Bhaironkhera	2450	7914	663	0
-Baira Dīh	2594	8299	498	0
+Baira Dīh	2594	8299	498	0	Gambhīrpur
 Bairi	2584	8279	498	0
 Bhainskur	2585	8294	498	0
 Bairāniya	2174	7602	329	0
@@ -725,7 +725,7 @@ Bhainsa	2569	7818	436	0
 Bairāgarh	2532	7821	436	0
 Bairak	2570	8329	26	0
 Srīrām Bairāgi	2558	8334	26	0
-Bairīsāl	2563	8340	26	0
+Bairīsāl	2563	8340	26	0	Sultānpur
 Bairānt	2546	8325	724	0
 Bhainsa Kalān	2535	8340	724	0
 Bhainsaur	2535	8340	724	0
@@ -775,7 +775,7 @@ Bhairawa	2507	8393	409	0
 Bhainsaula	2506	8380	749	0
 Bhainsara	2494	8308	724	0
 Bhainsora	2479	8321	724	0
-Bhairopur	2477	8301	103	0
+Bhairopur	2477	8301	103	0	Kuchmarwa
 Bairāt	2138	7725	133	0
 Bairamthāna	2144	7788	462	0
 Bramhi Bāi	2078	7743	172	0
@@ -967,7 +967,7 @@ Bhaira	2408	8253	631	0
 Bhairi	2407	8254	631	0
 Bairpur	2435	8283	103	0
 Bhaini Mahārājpur	2899	7625	719	0
-Bhaini Bāriyāwāli	2899	7625	719	0
+Bhaini Bāriyāwāli	2899	7625	719	0	Bhaini Mahārājpur
 Bhaiya	2511	8204	607	0
 Bhaiāri Khurd	2506	8205	607	0
 Bhaiāri Kalān	2506	8206	607	0
@@ -997,7 +997,7 @@ Purwa Bhaironpur	2603	8094	728	0
 Bhainsāwāla	2919	7802	700	0
 Bairopur	2952	7842	575	0
 Baibalpur	2938	7826	575	0
-Bairampur	2928	7839	575	0
+Bairampur	2928	7839	575	0	Khajūri
 Purwa Baibaha	2788	8107	323	0
 Bairāgīpur	2776	8109	507	0
 Baisinghwa	2776	8109	507	0
@@ -1068,7 +1068,7 @@ Bainti	2657	8124	681	0
 Bhairāmpur	2657	8123	681	0
 Purwa Bains	2683	8144	30	0
 Bhainsa	2903	7835	575	0
-Arāzi Bhainsa	2903	7836	575	0
+Arāzi Bhainsa	2903	7836	575	0	Milak
 Baidan Khera	2665	8133	30	0
 Bhairampur	2664	8134	30	0
 Bhairabpur	2661	8128	30	0
@@ -1271,7 +1271,7 @@ Baigwān Fatehpur	2536	8142	651	0
 Bhairwān	2535	8146	651	0
 Bais Kānti	2542	8138	651	0
 Bhaila Makhdümpur	2550	8144	651	0
-Bhaila Makhduempur	2550	8144	651	0
+Bhaila Makhduempur	2550	8144	651	0	Bhaila Makhdümpur
 Baiju Jot	2717	8221	542	0
 Bhāiram Singh	2719	8225	280	0
 Pura Baikishun	2714	8217	542	0
@@ -1291,7 +1291,7 @@ Bairāgi Jot	2737	8228	280	0
 Baidaulia	2735	8227	280	0
 Bāi Bhit	2738	8232	280	0
 Baisen Purwa	2728	8228	280	0
-Bairāgi Jot	2747	8234	280	0
+Bairāgi Jot	2747	8234	280	0	Wajhāwa
 Baidaula	2725	8240	280	0
 Bhairampur	2727	8240	280	0
 Barhia Bhainsāhi	2726	8247	280	0
@@ -1510,7 +1510,7 @@ Baikunthpur	2585	8330	498	0
 Baijnāthpur	2585	8326	498	0
 Baira Dīh	2579	8327	498	0
 Bairakh	2577	8341	26	0
-Bairakh	2579	8336	26	0
+Bairakh	2579	8336	26	0	Chak Fātima
 Bhainsa	2598	8336	586	0
 Baidauli Muāfi	2581	8348	26	0
 Bairakhrāmi	2578	8342	26	0
@@ -1577,7 +1577,7 @@ Bhainsa Jot	2653	8306	647	0
 Bairaha	2651	8308	647	0
 Bhainsa Tīkar	2655	8308	647	0
 Bhainsa	2663	8306	647	0
-Baijalpur	2671	8309	325	0
+Baijalpur	2671	8309	325	0	Bijaipur
 Jasrauli Bhainsahi	2661	8310	647	0
 Baijnāthpur	2650	8314	647	0
 Bhainsahia	2662	8317	325	0
@@ -1789,7 +1789,7 @@ Baihk Fattu	3106	7495	566	0
 Baihk Walāit Shāh	3106	7497	566	0
 Baihk Gūjrān	3105	7497	566	0
 Bhainswāl Kalān Baola	2903	7679	485	0
-Baigā Kherā	2240	8093	480	0
+Baigā Kherā	2240	8093	480	0	Saraītolā
 Bhāiānwāla	3093	7467	566	0
 Baijalpur	2220	8076	144	0
 Baigātolā	2210	8079	144	0
@@ -1834,7 +1834,7 @@ Baihar	3177	7599	327	0
 Bail	3189	7598	38	0
 Bairi	3185	7599	327	0
 Bail	3183	7600	327	0
-Baigapāra	2275	8226	388	0
+Baigapāra	2275	8226	388	0	Lainga
 Bhainsājhar	2231	8209	291	0
 Baimāpāra	2215	8222	291	0
 Baimā	2215	8219	291	0
@@ -2195,7 +2195,7 @@ Bhairajhādā	2938	7910	551	0
 Bailgarh	2939	7914	551	0
 Bhairotola	2552	8474	377	0
 Bhainsia	2922	7919	641	0
-Bairawāla	2912	7919	641	0
+Bairawāla	2912	7919	641	0	Jaimal
 Bāīs Ukhle	2990	7930	429	0
 Bhainar	2981	7943	429	0
 Bairti	2981	7942	429	0
@@ -2276,7 +2276,7 @@ Bhai Sāhi	2692	8446	476	0
 Lachhu Chhāpar Andar Bhaisāhi	2691	8449	476	0
 Bhaiha	2695	8447	476	0
 Baitār	2973	7986	722	0
-Baidi Bagar	2972	7980	722	0
+Baidi Bagar	2972	7980	722	0	Pārkhet
 Bhaina	2962	7980	429	0
 Baijnāth	2674	8428	560	0
 Baijua	2672	8437	476	0
@@ -2418,7 +2418,7 @@ Bāi Bigha	2508	8579	690	0
 Baikathpur	2505	8587	690	0
 Bāin	2416	8513	393	0
 Bhaiyāmau	2514	8061	326	0
-Bairaha	2503	8069	324	0
+Bairaha	2503	8069	324	0	Mohani
 Bairāhātola	2665	8603	556	0
 Bhaiāpatti	2651	8601	556	0
 Baira	2660	8609	556	0

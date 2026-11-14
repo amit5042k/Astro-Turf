@@ -1,21 +1,21 @@
-Tulu Nadu	1292	7486	55	499487
+Tulu Nadu	1292	7486	55	499487	Mangaluru
 Nadiād	2269	7286	167	225071
-Nadiyad	2269	7286	167	225071
-Nadia	2341	8837	528	111123
+Nadiyad	2269	7286	167	225071	Nadiād
+Nadia	2341	8837	528	111123	Navadwīp
 Nādāpuram	1168	7565	262	40230
-Rangā Nadī	2645	9161	636	27889
+Rangā Nadī	2645	9161	636	27889	Rangia
 Nādbai	2722	7720	114	26411
 Naduvannūr	1149	7578	262	25979
 Naduvattam	1088	7600	150	21273
-Naduvattom	1088	7600	150	21273
-Bhaya nadar	2186	7025	174	19458
+Naduvattom	1088	7600	150	21273	Naduvattam
+Bhaya nadar	2186	7025	174	19458	Bhāyāvadar
 Nadim Tiruvuru	1711	8061	104	18567
 Naduvattam	1148	7654	115	11674
 Nadisāl	1313	7478	257	11611
-Nadsal	1313	7478	257	11611
-Nadukuthagai	1312	8003	228	9251
+Nadsal	1313	7478	257	11611	Nadisāl
+Nadukuthagai	1312	8003	228	9251	Dāsiripuram
 Nadaikavu	829	7715	453	8727
-Naduvaneri	1157	7798	51	8485
+Naduvaneri	1157	7798	51	8485	Kavundaneri
 Nadīgaon	2611	7902	741	7597
 Nadgaon Tarf Birwadi	1810	7346	17	4871
 Nādaun	3178	7634	281	4838
@@ -31,7 +31,7 @@ Nadgaon	1747	7362	234	0
 Nadeota	2394	7495	580	0
 Nadāwan	2381	8072	351	0
 Nadaura	2491	7997	663	0
-Nadoura	2491	7997	663	0
+Nadoura	2491	7997	663	0	Nadaura
 Nadaul	2530	8502	604	0
 Nādanpur	2665	7740	622	0
 Nadāmpur	3025	7612	593	0
@@ -40,7 +40,7 @@ Nadābhānga	2240	8824	4	0
 Nadirgund	3403	7478	76	0
 Hariyāli Nādi	2659	7197	217	0
 Nādihal	3426	7437	301	0
-Nādibal	3426	7437	301	0
+Nādibal	3426	7437	301	0	Nādihal
 Nad	3287	7466	581	0
 Nādpur	3319	7426	504	0
 Nādir	3453	7501	120	0
@@ -50,7 +50,7 @@ Nadrol	3257	7489	581	0
 Zaria na Danna	3440	7394	0	0
 Nadda	2987	7858	612	0
 Naduvankarai	1308	8020	204	0
-Naduvakkarai	1308	8020	204	0
+Naduvakkarai	1308	8020	204	0	Naduvankarai
 Chauki Nādāh	3071	7691	587	0
 Nādāh	3069	7689	587	0
 Nadanwāra	2506	7875	481	0
@@ -156,7 +156,7 @@ Nādai	2616	7953	741	0
 Purwa Nadi	2685	7979	570	0
 Nadna	2567	7962	645	0
 Nadugadda	1662	7944	101	0
-Nadaura	2559	8119	728	0
+Nadaura	2559	8119	728	0	Sarwanpur
 Bhatpura Nadi	2652	7820	478	0
 Nādiākhera	2278	7738	675	0
 Nadesar	2550	8322	724	0
@@ -247,7 +247,7 @@ Nadāyal	2808	7865	117	0
 Nādha	2821	7870	117	0
 Rāmnagar Majra Nādha	2823	7871	117	0
 Purwa Nadi	2604	8193	718	0
-Nadauli	2859	7876	511	0
+Nadauli	2859	7876	511	0	Bahauranpur
 Nādirganj	2844	7896	552	0
 Nadauli	2538	8148	651	0
 Nadāwar	2724	8220	542	0
@@ -783,7 +783,7 @@ Nadukkudi	976	7888	454	0
 Naduvaikkudi	971	7891	5	0
 Nadukkudi	966	7891	5	0
 Naduvakkurichchi	868	7804	208	0
-Nadunāllumūlaikinar	849	7807	208	0
+Nadunāllumūlaikinar	849	7807	208	0	Mela Tiruchendūr
 Nadandai	1092	7789	445	0
 Naduppatti	1065	7797	445	0
 Naduppatti	1050	7787	187	0

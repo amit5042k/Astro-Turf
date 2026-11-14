@@ -3,14 +3,14 @@ Sultan Pur Majra	2869	7708	689	181554
 Sultānpur	2626	8207	597	110368
 Sultānganj	2524	8674	411	52892
 Sūlūru	1370	8002	45	38065
-Sulurpeta	1370	8002	45	38065
-Sūlūrpet	1370	8002	45	38065
+Sulurpeta	1370	8002	45	38065	Sūlūru
+Sūlūrpet	1370	8002	45	38065	Sūlūru
 Sulur	1102	7713	156	27909
 Sūleswaranpatti	1064	7701	156	20104
 Sullya	1256	7539	55	19958
-Sultānpur	3196	7711	680	19831
+Sultānpur	3196	7711	680	19831	Kulu
 Sultanpur	3121	7520	565	16877
-Sultānpur Lodhi	3121	7520	565	16877
+Sultānpur Lodhi	3121	7520	565	16877	Sultanpur
 Sultan Pur	2850	7716	778	15160
 Sultānpur	2314	7793	338	10268
 Sūlibele	1318	7780	389	9587
@@ -18,10 +18,10 @@ Sultanpur	2009	7652	49	8688
 Sultānpur	2976	7811	596	8518
 Sulebhāvi	1590	7465	77	8503
 Soolakkarai	954	7795	119	4990
-Sool Koot	3454	7426	0	3973
+Sool Koot	3454	7426	0	3973	Solakut
 Sulung	2719	9337	578	0
-Sultan Bathery	1166	7626	242	0
-Sultans Battery	1166	7626	242	0
+Sultan Bathery	1166	7626	242	0	Ganapathivattam
+Sultans Battery	1166	7626	242	0	Ganapathivattam
 Sultānpur	2903	7587	339	0
 Sultānpur	2529	7617	371	0
 Sultānpur	2177	7086	174	0
@@ -31,20 +31,20 @@ Sultāna	2813	7561	300	0
 Sultān	2743	7089	217	0
 Sulsulia	2145	8345	497	0
 Sulsuli	2384	8332	341	0
-Sulkia Tala	2654	7227	344	0
+Sulkia Tala	2654	7227	344	0	Solankiyātada
 Suliapādā	2203	8694	382	0
 Suliāl	3237	7588	38	0
 Sulgura	2193	8462	272	0
 Sūlgaon	2231	7609	329	0
 Sulcorna	1510	7417	102	0
 Sulahpet	1740	7735	71	0
-Sulhpet	1740	7735	71	0
-Sulehpet	1740	7735	71	0
+Sulhpet	1740	7735	71	0	Sulahpet
+Sulehpet	1740	7735	71	0	Sulahpet
 Sūlagiri	1266	7801	223	0
-Sultanabad	1852	7932	748	0
+Sultanabad	1852	7932	748	0	Osmānnagar
 Sultānganj	2235	8822	4	0
 Suli Dhār	3336	7421	504	0
-Suli Dhāra	3336	7421	504	0
+Suli Dhāra	3336	7421	504	0	Suli Dhār
 Sultānpur	3441	7420	0	0
 Khūi Sultānpur	3423	7457	120	0
 Shūlagund	3400	7461	76	0
@@ -58,7 +58,7 @@ Sultānpur	3263	7488	581	0
 Ban Sultān	3265	7480	581	0
 Suli Dhakki	3269	7499	720	0
 Sultān Baihk	3412	7399	301	0
-Sultān Dhakki	3412	7399	301	0
+Sultān Dhakki	3412	7399	301	0	Sultān Baihk
 Khatoti Sultānpur	2810	7603	694	0
 Seri Sultānpur	1756	7831	31	0
 Sulakampalli	1764	7828	31	0
@@ -78,7 +78,7 @@ Sulemānpurpatti	2761	7957	470	0
 Sulkāhmau	2723	7976	686	0
 Sultānpur Kalān	2681	7901	290	0
 Sultānpur Rāhan	2690	7910	290	0
-Sultānpur Rāhin	2690	7910	290	0
+Sultānpur Rāhin	2690	7910	290	0	Sultānpur Rāhan
 Sultānpur	2682	7911	290	0
 Kili Sultānpur	2682	7913	290	0
 Sultanpura	2641	7913	741	0
@@ -144,7 +144,7 @@ Sulhar	3009	7593	593	0
 Sulakhni	2925	7585	339	0
 Sultānpur Hitāna	2904	7719	477	0
 Sultānpur	2935	7873	575	0
-Sultānnagar	2934	7871	575	0
+Sultānnagar	2934	7871	575	0	Sadīkpur
 Sultānpur	2886	7922	552	0
 Sūlīpuri	2425	7636	333	0
 Sūliya	2440	7669	333	0
@@ -166,7 +166,7 @@ Suldali	1987	7684	640	0
 Suldali Buzurg	1982	7698	640	0
 Sultānpur	3097	7636	735	0
 Sulemān Shako	3093	7645	735	0
-Sultānpur	3050	7627	564	0
+Sultānpur	3050	7627	564	0	Jattiwāl
 Sultāniān	3000	7627	638	0
 Sultāniān	3000	7629	638	0
 Sultānpur	3085	7672	632	0
@@ -273,7 +273,7 @@ Sultānpur	2561	8379	26	0
 Sultānpur	2546	8381	26	0
 Sultānpur	2124	7751	133	0
 Sultānpur	2063	7795	133	0
-Sultanpur	2085	7722	172	0
+Sultanpur	2085	7722	172	0	Virvāda
 Sultān Āzampur	2080	7712	172	0
 Sulatvāda	2075	7730	172	0
 Sultānpur	2071	7747	172	0
@@ -326,12 +326,12 @@ Sultānpur	2566	8276	32	0
 Sultānpur	2625	8076	312	0
 Sultānpur Khādar	2914	7816	575	0
 Medpura Sultān	2952	7837	575	0
-Sultān Āzampur	2951	7841	575	0
+Sultān Āzampur	2951	7841	575	0	Bani Khurd
 Jalālpur Sultān	2946	7837	575	0
 Jalālpur Sultān	2945	7829	575	0
 Mausanpur Sulemān Sakhopur	2941	7841	575	0
 Muhammadpur Sultān	2935	7850	575	0
-Sultānpur Wīrān	2930	7826	575	0
+Sultānpur Wīrān	2930	7826	575	0	Baldia
 Sultānpur Abād	2928	7830	575	0
 Sultānpur	2788	8113	323	0
 Sultānapur	2774	8107	507	0
@@ -361,7 +361,7 @@ Sulkhama	2412	8098	324	0
 Sultānpur Ghaus	2581	8121	728	0
 Sultānpur Barhaiya Chandanihān	2598	8115	681	0
 Sultānpur Barhaiya	2598	8114	681	0
-Sultānpur	2882	7827	483	0
+Sultānpur	2882	7827	483	0	Nawāda
 Sultānpur	2900	7847	483	0
 Sultānpur	2703	8079	714	0
 Sūltānpur	2706	8085	714	0
@@ -394,7 +394,7 @@ Sulāhpur	2672	8169	629	0
 Pura Sultān Fakir	2699	8179	542	0
 Bhala Sultān	2618	8186	662	0
 Sultānpur	2874	7885	511	0
-Sultānpur	2856	7893	646	0
+Sultānpur	2856	7893	646	0	Mamrezpur
 Sullanār	3366	7446	1	0
 Sultāna Kalān	2772	8217	280	0
 Sultāna	2773	8217	280	0
@@ -478,11 +478,11 @@ Sultanpur	2570	8354	26	0
 Sultānpur	3237	7534	496	0
 Sultāni	3213	7536	487	0
 Sultānpur Jaisingh	2567	8177	607	0
-Jaisingh Sultānpur	2567	8178	607	0
+Jaisingh Sultānpur	2567	8178	607	0	Sudhār ka Pura
 Akbar Sultānpur	2563	8179	607	0
 Sarāi Sultan Muhammad	2565	8195	607	0
 Sultānpur Khās	2570	8191	607	0
-Sultānpur	2571	8191	607	0
+Sultānpur	2571	8191	607	0	Shivpur
 Pura Sultanwa	2531	8184	607	0
 Sultānpur	2547	8197	607	0
 Sulmai	2517	8195	607	0
@@ -518,7 +518,7 @@ Sultānpur Hariparshād	2771	8085	507	0
 Sulaimānpur	2766	8090	507	0
 Talha Sultānpur	2763	8088	507	0
 Sultānpur	2756	8082	507	0
-Dahlia Sultānpur	2748	8081	507	0
+Dahlia Sultānpur	2748	8081	507	0	Dahlia Bhāt
 Sultānpur Kamaicha	2744	8081	507	0
 Sultānpur	2737	8080	507	0
 Sultānpur Mārufpur	2743	8086	507	0
@@ -801,7 +801,7 @@ Sulli	1026	7646	176	0
 Sulliporukkiyūr	1056	7689	156	0
 Sūlakkall	1075	7700	156	0
 Sulluvādi	1198	7748	69	0
-Sūlaikombai	1183	7740	69	0
+Sūlaikombai	1183	7740	69	0	Gururāyandoddi
 Sullipālaiyam	1132	7728	235	0
 Sullikkaradu	1132	7742	211	0
 Sullipālaiyam	1125	7737	235	0

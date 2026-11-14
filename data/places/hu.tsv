@@ -1,39 +1,39 @@
 Hubballi	1535	7513	682	943788
-Hubli	1535	7513	682	943788
-Hubli City	1535	7513	682	943788
+Hubli	1535	7513	682	943788	Hubballi
+Hubli City	1535	7513	682	943788	Hubballi
 Hugli	2291	8840	279	177005
-Hooghly	2291	8840	279	177005
-Hooghly-Chinsura	2291	8840	279	177005
-Hooghly-Chinsurah	2291	8840	279	177005
-Hushiarpur	3154	7591	296	168653
+Hooghly	2291	8840	279	177005	Hugli
+Hooghly-Chinsura	2291	8840	279	177005	Hugli
+Hooghly-Chinsurah	2291	8840	279	177005	Hugli
+Hushiarpur	3154	7591	296	168653	Hoshiārpur
 Hunsūr	1230	7629	74	50865
 Husainābād	2453	8400	701	29241
 Hupari	1662	7440	57	28953
-Huvvmahadagalli	1502	7593	366	27967
-Huvinabadgalli	1502	7593	366	27967
-Hoovina Hadagalli	1502	7593	366	27967
-Hungphun	2512	9436	364	27187
+Huvvmahadagalli	1502	7593	366	27967	Hadagalli
+Huvinabadgalli	1502	7593	366	27967	Hadagalli
+Hoovina Hadagalli	1502	7593	366	27967	Hadagalli
+Hungphun	2512	9436	364	27187	Ukhrul
 Hudkeshwar Buzurg	2108	7913	141	24499
-Hudkeshwar bk.	2108	7913	141	24499
+Hudkeshwar bk.	2108	7913	141	24499	Hudkeshwar Buzurg
 Hukeri	1623	7460	77	22988
 Hungund	1606	7606	86	20877
 Hutagalli	1234	7659	74	18308
 Hukumpeta	1699	8180	87	16985
-Hutti	1620	7666	50	16278
+Hutti	1620	7666	50	16278	Hatti
 Husainpur	3131	7532	565	15575
 Huliyār	1358	7654	93	14304
 Hunasamaranahalli	1314	7762	43	13389
 Hulikal	1132	7677	115	12960
-Hubbathala	1136	7676	115	10852
-Hukmakhedi	2268	7580	660	10165
+Hubbathala	1136	7676	115	10852	Vubatalai
+Hukmakhedi	2268	7580	660	10165	Ahīrkheri
 Hui	2854	7598	781	1566
 Bal Hukmi	3112	7544	369	513
 Tolo Humma	1943	8508	440	0
-Humma	1943	8508	440	0
-Huining	2518	9437	364	0
-Hulmari	2712	9393	355	0
+Humma	1943	8508	440	0	Tolo Humma
+Huining	2518	9437	364	0	Phering
+Hulmari	2712	9393	355	0	Nij Lāluk
 Neoria Husainpur	2874	7989	683	0
-Hut Bay	1059	9254	105	0
+Hut Bay	1059	9254	105	0	Kwate tu Kwage
 Huzūrnagar	1689	7987	250	0
 Huzūrābād	1820	7940	579	0
 Huvin Hippargi	1656	7608	80	0
@@ -47,29 +47,29 @@ Husainābād	2511	8586	690	0
 Husāin	2761	7827	670	0
 Hurshi	2427	8847	471	0
 Hurara	2590	7469	309	0
-Hurra	2590	7469	309	0
+Hurra	2590	7469	309	0	Hurara
 Hurdeea	2603	8407	536	0
 Huralihālu	1472	7655	366	0
 Hura	2330	8666	415	0
-Hurah	2330	8666	415	0
+Hurah	2330	8666	415	0	Hura
 Hura	1200	7654	74	0
 Hupu	2878	9588	427	0
 Hunterganj	2443	8481	393	0
 Hunasagi	1646	7652	72	0
-Hunusgi	1646	7652	72	0
-Hunsgi	1646	7652	72	0
+Hunusgi	1646	7652	72	0	Hunasagi
+Hunsgi	1646	7652	72	0	Hunasagi
 Hunsgera	1785	7708	170	0
 Hundru	2345	8566	562	0
-Hundarki	1697	7724	71	0
+Hundarki	1697	7724	71	0	Handarki
 Hundar	3458	7747	2	0
 Humpum	2507	9435	364	0
-Humhpum	2507	9435	364	0
-Hungphun	2507	9435	364	0
+Humhpum	2507	9435	364	0	Humpum
+Hungphun	2507	9435	364	0	Humpum
 Humpet	3407	7560	547	0
 Humine	2472	9457	723	0
 Humgarh	2283	8725	677	0
 Humcha	1386	7521	346	0
-Humacha	1386	7521	346	0
+Humacha	1386	7521	346	0	Humcha
 Humbarna	1727	7379	64	0
 Humachadakatte	1387	7523	346	0
 Hulloli	1626	7465	77	0
@@ -79,10 +79,10 @@ Hulkūr	1342	7635	679	0
 Hulkoti	1542	7554	606	0
 Hulki	2288	7980	598	0
 Huliyūrdurga	1283	7703	93	0
-Hullyurdurga	1283	7703	93	0
+Hullyurdurga	1283	7703	93	0	Huliyūrdurga
 Hulikunte	1398	7692	93	0
 Hulijanli	1735	7555	132	0
-Huljanti	1735	7555	132	0
+Huljanti	1735	7555	132	0	Hulijanli
 Hulihaidar	1566	7639	66	0
 Huliāgaon	2758	9452	299	0
 Hulgūr	1509	7529	92	0
@@ -90,20 +90,20 @@ Hulekal	1469	7476	59	0
 Hulāsganj	2508	8515	527	0
 Hulagbāl	1641	7624	80	0
 Hukitola	2040	8679	702	0
-Hukitala	2040	8679	702	0
+Hukitala	2040	8679	702	0	Hukitola
 Hudukhāta	2661	9110	608	0
 Hudugūru	1365	7757	438	0
-Hudugur	1365	7757	438	0
+Hudugur	1365	7757	438	0	Hudugūru
 Hudās	2749	7423	430	0
 Hubakvad	2142	7202	168	0
 Hualtu	2353	9292	13	0
 Hulsoor	1802	7701	170	0
-Hurgullee	1681	7594	80	0
-Huturgee	1699	7589	80	0
+Hurgullee	1681	7594	80	0	Hadagali
+Huturgee	1699	7589	80	0	Ātharga
 Rājpura Hudān	2852	7392	307	0
 Hudera	2810	7459	539	0
 Hudera	2801	7484	491	0
-Hunathpura	2821	7498	539	0
+Hunathpura	2821	7498	539	0	Hanwantpura
 Hujili	2277	8810	279	0
 Bāgh Husain	3412	7488	611	0
 Humhom	3402	7477	76	0
@@ -137,7 +137,7 @@ Nagla Hushe	2753	7961	688	0
 Hullāpur	2751	7970	470	0
 Hulla Purwa	2724	7986	686	0
 Nagla Hulās	2677	7915	290	0
-Huili ka Nagla	2686	7911	290	0
+Huili ka Nagla	2686	7911	290	0	Shivrājpur
 Hussainpur Puthia	2682	7910	290	0
 Hukampura	2641	7914	741	0
 Husepura	2641	7923	741	0
@@ -150,7 +150,7 @@ Hoolikeri	1548	7474	682	0
 Huzūrpur	2735	8166	294	0
 Hukumpeta	1813	8268	268	0
 Huggiyanm	1183	7745	69	0
-Huggiyam	1183	7745	69	0
+Huggiyam	1183	7745	69	0	Huggiyanm
 Mugutkhan Hubli	1572	7469	77	0
 Hunshikatti	1571	7475	77	0
 Hussainpuram	1524	7783	232	0
@@ -178,7 +178,7 @@ Hunmar Nadi	3457	7432	0	0
 Hunmār Baihk	3456	7425	0	0
 Hummar	3456	7430	0	0
 Hūnmār Gali	3456	7431	0	0
-Huntpura	2965	7377	374	0
+Huntpura	2965	7377	374	0	Chak Twnenty Nine M L
 Chak Husmand	3050	7408	3	0
 Husnar	3023	7464	615	0
 Hukūmat Singhwāla	3086	7483	566	0
@@ -198,7 +198,7 @@ Husainpur	3029	7760	449	0
 Husainpur Sultān	2948	7821	575	0
 Husainpur Sakatsingh	2931	7817	575	0
 Husainpur Khādar	2929	7805	545	0
-Sharfuddīn Husain	2952	7817	575	0
+Sharfuddīn Husain	2952	7817	575	0	Bahādurpur
 Husainpur	2952	7810	575	0
 Hūdpura	2658	7700	447	0
 Hūmanbehra	2182	7807	462	0
@@ -228,12 +228,12 @@ Humāyūnpur	2848	7647	609	0
 Husainpur	2906	7707	485	0
 Huri	3161	7803	83	0
 Hullu	3038	7801	448	0
-Husainpur Hamīd	2936	7850	575	0
+Husainpur Hamīd	2936	7850	575	0	Hāviwāla
 Humāyūnpur Chandarpāl	2935	7852	575	0
 Rafatpur Hulās	2928	7867	575	0
-Husainganj	2900	7920	552	0
+Husainganj	2900	7920	552	0	Bhūra
 Nagla Hukamsingh	2820	7758	588	0
-Humāyūnpur	2812	7767	588	0
+Humāyūnpur	2812	7767	588	0	Aurangābād
 Husainpur	2801	7764	543	0
 Humāyunpur	2865	7781	756	0
 Husainpur	2858	7779	637	0
@@ -255,7 +255,7 @@ Hudgyāchīwādi	1839	7681	158	0
 Hulwāna	2779	7736	177	0
 Husseka	2767	7706	114	0
 Husepur	2756	7705	114	0
-Hurpuri	2763	7714	114	0
+Hurpuri	2763	7714	114	0	Abhaipur
 Hultāna	2775	7720	114	0
 Husaini	2780	7756	177	0
 Hurthala	2830	7792	637	0
@@ -367,7 +367,7 @@ Husainpur	2777	7853	711	0
 Husainābād	1718	7981	250	0
 Hulāspur	2669	7955	715	0
 Purwa Hulāsi	2660	7966	671	0
-Aurangābād Bhola Hulās	2654	7965	671	0
+Aurangābād Bhola Hulās	2654	7965	671	0	Nawāda Kalān
 Rāmpur Munderi Kāzim Husain	2696	7994	570	0
 Baheri Ata Husain	2627	7977	671	0
 Hunhuna	2588	7913	741	0
@@ -395,7 +395,7 @@ Chak Husain	2597	8368	586	0
 Hukaha	2553	8400	620	0
 Hundrāhi	2546	8394	620	0
 Hundrāhi	2539	8395	620	0
-Husainpur	2111	7721	133	0
+Husainpur	2111	7721	133	0	Dhulki
 Husainpur	2098	7738	133	0
 Hurkitola	2178	7997	144	0
 Husru	2447	8344	743	0
@@ -450,7 +450,7 @@ Sarai Hūse	2542	8216	607	0
 Huraiya ke Pura	2524	8290	251	0
 Hūr	2267	7986	368	0
 Kākroli Hukmi	2857	7596	781	0
-Haidar Husain	2554	8243	32	0
+Haidar Husain	2554	8243	32	0	Inglish Chak
 Hulās	2551	8246	32	0
 Hulāsi Khera	2629	8087	312	0
 Husainābād	2629	8091	681	0
@@ -462,9 +462,9 @@ Hurhurī	2565	8288	32	0
 Hullāpur	2616	8081	681	0
 Humāyūnpur	2960	7827	575	0
 Husainpur	2957	7827	575	0
-Husainpur Mīra	2952	7825	575	0
+Husainpur Mīra	2952	7825	575	0	Khatāi
 Hāji Husainpur	2946	7845	575	0
-Husainpur	2929	7839	575	0
+Husainpur	2929	7839	575	0	Shamaspur
 Hurma	2453	8252	631	0
 Husainpur	2781	8122	323	0
 Purwa Hulās	2784	8121	323	0
@@ -510,7 +510,7 @@ Hulas Khera	2667	8101	714	0
 Hulās Khera	2664	8103	714	0
 Dulāhpur Husainābād	2664	8114	714	0
 Husainpur Kalān	2906	7830	575	0
-Muhammad Husainpur	2908	7833	575	0
+Muhammad Husainpur	2908	7833	575	0	Nawāda
 Hukūmatpur	2916	7843	575	0
 Milak Jāfar Husainpur	2904	7838	575	0
 Husainpur	2905	7845	483	0
@@ -545,7 +545,7 @@ Hunmat	2635	8196	597	0
 Pura Hula	2633	8195	597	0
 Hulāsīpur	2586	8107	728	0
 Huresra	2592	8125	681	0
-Huresa	2592	8124	681	0
+Huresa	2592	8124	681	0	Horesa
 Humāyūnnagar	2883	7838	483	0
 Husainpur	2887	7848	483	0
 Husainpura	2889	7845	483	0
@@ -566,7 +566,7 @@ Pura Hullāpur	2624	8102	681	0
 Hujra	2576	8138	651	0
 Hulās Rāi ka Purwa	2578	8143	718	0
 Husainpur	2589	8142	718	0
-Sikandarpur Husainpur	2836	7872	117	0
+Sikandarpur Husainpur	2836	7872	117	0	Beor Qāsimābād
 Pura Hulāsi	2615	8109	681	0
 Pura Hulāspur	2602	8117	681	0
 Husainābād	2669	8157	30	0
@@ -582,7 +582,7 @@ Hulkābād	2815	7858	646	0
 Husainpur Bhūr	2825	7863	646	0
 Husainpur Jiretha	2814	7867	117	0
 Katra Hulāsi	2615	8176	662	0
-Husainpur	2874	7879	511	0
+Husainpur	2874	7879	511	0	Indhanpur
 Hūnsipur	2622	8195	597	0
 Hūlāsnagar	2849	7893	646	0
 Husainpur	2828	7890	117	0
@@ -852,7 +852,7 @@ Hulugale	1409	7477	346	0
 Hurārkhār	2138	8309	407	0
 Abdullapūr Hulsan	2830	7802	637	0
 Husainpur	2823	7823	637	0
-Hurmatpur	2822	7802	637	0
+Hurmatpur	2822	7802	637	0	Nagla Dalippur
 Husainpur	2811	7822	637	0
 Humāyunpūr	2822	7847	646	0
 Husainpūr	2820	7843	646	0
@@ -888,7 +888,7 @@ Pura Raza Husain	2626	8156	662	0
 Pura Saiyid Husain	2629	8155	662	0
 Husainganj Bāzār	2643	8158	662	0
 Pura Hulai	2641	8173	662	0
-Husainganj Kalān	2645	8167	662	0
+Husainganj Kalān	2645	8167	662	0	Barāgāon
 Pura Hubdār	2648	8170	662	0
 Pura Murād Husain	2620	8151	681	0
 Pura Riāsat Husain	2620	8151	681	0
@@ -914,11 +914,11 @@ Hurrua	2522	8432	377	0
 Husepur	2599	8454	540	0
 Hunraraha	2594	8471	540	0
 Nipānia Hurhur	2316	7651	322	0
-Hussainpurkheri	2313	7673	675	0
+Hussainpurkheri	2313	7673	675	0	Kheri Kalān
 Hulkheri	2358	7686	16	0
 Hushiyārkheri	2366	7692	16	0
 Hungaon Kalān	2615	7342	344	0
-Husainganj	2907	7911	552	0
+Husainganj	2907	7911	552	0	Kallu-kī-Mandajyān
 Nūrpur Huzūrpur	2910	7915	783	0
 Husainpur	2909	7923	641	0
 Hurra ka Gūrha	2532	7372	572	0
@@ -1003,7 +1003,7 @@ Hunshemakki	1359	7478	257	0
 Huikadi	1356	7489	257	0
 Hūli	1580	7519	77	0
 Hulikatti	1582	7522	77	0
-Hubli	1531	7509	682	0
+Hubli	1531	7509	682	0	Dīkappa
 Kotgond Hunshi	1529	7515	682	0
 Hunsukatti	1513	7503	682	0
 Hungund	1506	7502	59	0
@@ -1366,7 +1366,7 @@ Hulukpur	2521	8736	592	0
 Husainābāgh	2581	8752	613	0
 Husena	2549	8741	625	0
 Husainpur	2596	8509	716	0
-Husainpur Rāgho	2593	8515	716	0
+Husainpur Rāgho	2593	8515	716	0	Rāghupur
 Husaina Rāgho	2591	8516	716	0
 Hulumānganj	2562	8500	604	0
 Hulakpur	2557	8511	604	0

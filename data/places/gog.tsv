@@ -9,23 +9,23 @@ Ghoga	2522	8716	411	3766
 Gogulapalle	1526	7932	200	0
 Gogonda	1837	8137	599	0
 Gogola	2073	7099	776	0
-Gogla	2073	7099	776	0
+Gogla	2073	7099	776	0	Gogola
 Gogarpur	2419	7626	16	0
 Gogāmukh Tājik	2740	9433	299	0
 Gogāmukh	2741	9435	299	0
 Ghogripur	2965	7694	457	0
 Ghogri	1931	7765	140	0
-Ghogari	1931	7765	140	0
-Ghogra	2142	7943	141	0
+Ghogari	1931	7765	140	0	Ghogri
+Ghogra	2142	7943	141	0	Guguldoh
 Ghoghāpur	2532	8187	607	0
 Gogāsar	2820	7459	539	0
 Gogu	3401	7478	76	0
 Gogajhīgund	3418	7471	595	0
 Gogāji ki Mari	2808	7470	539	0
 Gogwān Jalālpur	2954	7744	328	0
-Gogwān Jalāpur	2954	7744	328	0
+Gogwān Jalāpur	2954	7744	328	0	Gogwān Jalālpur
 Gogatia Patta Changoi	2865	7501	539	0
-Gogatia Patta Changai	2865	7501	539	0
+Gogatia Patta Changai	2865	7501	539	0	Gogatia Patta Changoi
 Gogatia Chārnān	2862	7505	539	0
 Gogpur	3009	7675	501	0
 Goglākhera	2475	7850	384	0
@@ -97,7 +97,7 @@ Gogaīpura	2552	7761	436	0
 Ghoghar	2451	7727	336	0
 Ghoghara	2402	7778	215	0
 Gogāpur	2637	7965	671	0
-Gogādeo	2732	7873	464	0
+Gogādeo	2732	7873	464	0	Shāhzādpur
 Ghogrāghāt	2205	7696	465	0
 Gogahi	2580	8297	498	0
 Ghogra	2313	7791	338	0
@@ -135,7 +135,7 @@ Ghoghri	2258	7937	368	0
 Ghoghri	2214	7926	337	0
 Ghoghri	2272	7971	368	0
 Gogaon	2521	8227	201	0
-Purvi Gogaon	2521	8228	201	0
+Purvi Gogaon	2521	8228	201	0	Kohrākar
 Gogwa	2539	8280	251	0
 Gogdara	2502	8276	201	0
 Ghogri	2255	7986	368	0
@@ -309,7 +309,7 @@ Ghogna	2576	8620	138	0
 Goghantola	2540	8610	530	0
 Gognevādi	1590	7407	213	0
 Ghoghi	2520	8631	589	0
-Ghoghi	2518	8632	589	0
+Ghoghi	2518	8632	589	0	Korāsi
 Gogi	2564	8674	759	0
 Goga Chak	2509	8667	538	0
 Ghoghsa	2498	8604	589	0

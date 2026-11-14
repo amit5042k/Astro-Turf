@@ -1,47 +1,47 @@
 Puducherry	1193	7983	196	657209
-Puduvai	1193	7983	196	657209
-Puduchcheri	1193	7983	196	657209
+Puduvai	1193	7983	196	657209	Puducherry
+Puduchcheri	1193	7983	196	657209	Puducherry
 Pudukkottai	1038	7882	198	117630
-Pudukotah	1038	7882	198	117630
-Pudukkottai-Trichinopoly	1038	7882	198	117630
-Poodoocottah	1038	7882	198	117630
-Pudukattai	1038	7882	198	117630
-Pudupalayam Agraharam	1137	7776	231	40140
+Pudukotah	1038	7882	198	117630	Pudukkottai
+Pudukkottai-Trichinopoly	1038	7882	198	117630	Pudukkottai
+Poodoocottah	1038	7882	198	117630	Pudukkottai
+Pudukattai	1038	7882	198	117630	Pudukkottai
+Pudupalayam Agraharam	1137	7776	231	40140	Pallipalayam
 Pudupattanam	1251	8015	247	21151
 Pudussery West	1079	7673	263	20140
 Pudunagaram	1068	7668	263	17892
-Pudunagram	1068	7668	263	17892
+Pudunagram	1068	7668	263	17892	Pudunagaram
 Pudūr	1144	7768	211	17240
 Pudusseri	1076	7679	263	16629
-Pudussery Central	1076	7679	263	16629
+Pudussery Central	1076	7679	263	16629	Pudusseri
 Pudukkottai	994	7805	274	15769
 Pudu	1287	7497	55	13533
 Pudur	900	7721	245	12457
-Pudur (S)	900	7721	245	12457
+Pudur (S)	900	7721	245	12457	Pudur
 Puduppatti	977	7731	194	11511
 Pudūr	1300	7914	189	11432
 Pudupalayam	1236	7888	197	11382
 Puduvayal	1010	7885	454	11284
 Pudūr	1163	7811	51	11173
-Muthugoundam Pudur	1105	7712	156	10259
+Muthugoundam Pudur	1105	7712	156	10259	Muttukavundanpudūr
 Puduvāyal	1333	8015	228	9742
 Pudūr	929	7814	208	8891
-V. Pudur	929	7814	208	8891
+V. Pudur	929	7814	208	8891	Pudūr
 Puduppatti	962	7764	119	8316
-V.Pudupatti	962	7764	119	8316
+V.Pudupatti	962	7764	119	8316	Puduppatti
 Pudūr	887	7799	208	8012
-Pudiyamputhur	887	7799	208	8012
+Pudiyamputhur	887	7799	208	8012	Pudūr
 Puduppatti	1115	7821	231	7570
 Puduppatti	1150	7827	231	7478
-R. Pudupatti	1150	7827	231	7478
+R. Pudupatti	1150	7827	231	7478	Puduppatti
 Puderiyūr	822	7743	453	5576
-Puduppādi	1150	7597	262	0
-Pudupalli	950	7653	271	0
+Puduppādi	1150	7597	262	0	Puthuppādi
+Pudupalli	950	7653	271	0	Puthupalli
 Puduveli	982	7660	271	0
 Pudutturai	1091	7982	455	0
 Puduppādi	1287	7937	160	0
 Pudu Chattram	1047	7779	187	0
-Puduchattiram	1047	7779	187	0
+Puduchattiram	1047	7779	187	0	Pudu Chattram
 Pūdimadaka	1750	8300	227	0
 Pudāmāri	1944	8447	440	0
 Pudgurti	1719	7802	210	0
@@ -49,8 +49,8 @@ Pudu Vannarpet	1314	8030	204	0
 Pudupet	1307	8027	204	0
 Pudupalaiyam	1322	8027	228	0
 Pudūr	1321	7998	228	0
-Pudda	3063	7681	632	0
-Puddo	3063	7681	632	0
+Pudda	3063	7681	632	0	Rāmgarh
+Puddo	3063	7681	632	0	Rāmgarh
 Pudūr	965	7863	454	0
 Puduppatti	1017	7891	198	0
 Pudapada	2168	8401	567	0
@@ -60,7 +60,7 @@ Pudārath Khera	2980	7610	367	0
 Pudur	1956	8056	135	0
 Pudung	2706	8852	492	0
 Pudched	1737	7927	129	0
-Poodur	1862	7896	63	0
+Poodur	1862	7896	63	0	Podūr
 Puddikona	2334	8087	350	0
 Pudodi	3272	7553	496	0
 Pudān	3245	7568	496	0
@@ -390,7 +390,7 @@ Pudūr	1156	7755	211	0
 Pudūr	1154	7758	211	0
 Pudiyamūppanūr	1152	7760	211	0
 Puduppālaiyam	1153	7765	211	0
-Pudūr	1164	7769	211	0
+Pudūr	1164	7769	211	0	Kāttūr
 Pudūr	1151	7755	211	0
 Pudūr	1168	7765	211	0
 Pudūr	1146	7752	211	0
@@ -599,7 +599,7 @@ Pudukkulattinkara	820	7729	453	0
 Pudukkudiyiruppu	819	7742	453	0
 Pudugrāmam	818	7746	453	0
 Pudukkudi	820	7749	453	0
-Pudugrāmam	891	7751	245	0
+Pudugrāmam	891	7751	245	0	Māyamānkurichchi
 Puduppatti	884	7751	245	0
 Pudūr	882	7758	191	0
 Pudukkulam	890	7760	191	0
@@ -891,7 +891,7 @@ Pudūr	979	7852	454	0
 Pudukkulam	978	7861	454	0
 Pudukkulam	976	7871	454	0
 Pudakkudi	975	7865	454	0
-Pudukkudi	975	7865	454	0
+Pudukkudi	975	7865	454	0	Pudakkudi
 Pudukudiyiruppu	975	7874	5	0
 Pudukkulam	972	7850	454	0
 Pudukkulam	973	7860	454	0
@@ -955,7 +955,7 @@ Pudūr	1081	7789	445	0
 Pudūr	1082	7799	445	0
 Pudūr	1081	7799	445	0
 Pudūr	1194	7922	390	0
-Pūdur	1080	7781	235	0
+Pūdur	1080	7781	235	0	Kottārpatti
 Chinna Pudūr	1072	7779	235	0
 Puduvalasu	1073	7779	235	0
 Pudūr	1073	7779	235	0
@@ -1038,7 +1038,7 @@ Kambaneri Pudukkudi	907	7738	245	0
 Pudūr	993	7754	194	0
 Pudūr	983	7766	274	0
 Puduppatti	980	7772	274	0
-Pudūr	981	7750	194	0
+Pudūr	981	7750	194	0	Melappatti
 Pudūr	1190	7803	51	0
 Pudu Chettippatti	1176	7808	51	0
 Pudūr	1178	7809	51	0
@@ -1090,7 +1090,7 @@ Pudūr	1145	7826	231	0
 Puduvalavu	1143	7833	231	0
 Puduvalavu	1137	7833	231	0
 Puduvalavu	1134	7829	231	0
-Pudūr	1129	7826	231	0
+Pudūr	1129	7826	231	0	Rāmanāthapuram
 Puduvalavu	1128	7829	231	0
 Puduvalavu	1128	7838	231	0
 Puduvalavu	1129	7841	231	0

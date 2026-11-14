@@ -1,48 +1,48 @@
 Jhānsi	2546	7858	433	412927
 Jangipur	2447	8808	471	82548
 Jangaon	1773	7915	182	52394
-Jangoon	1773	7915	182	52394
-Naila-Janjgir	2202	8257	696	40561
+Jangoon	1773	7915	182	52394	Jangaon
+Naila-Janjgir	2202	8257	696	40561	Nailā
 Jānjgīr	2201	8258	696	32833
 Jhanjhārpur	2626	8628	556	31283
 Jandiāla Gurū	3156	7503	222	29232
-Jandiala	3156	7503	222	29232
+Jandiala	3156	7503	222	29232	Jandiāla Gurū
 Jandiāla	3116	7562	369	25631
-Jandiali	3116	7562	369	25631
-Jangaon	1936	7928	162	23059
+Jandiali	3116	7562	369	25631	Jandiāla
+Jangaon	1936	7928	162	23059	Asifābād
 Jānsath	2933	7785	545	19467
-Janakpur Road	2647	8570	582	15129
+Janakpur Road	2647	8570	582	15129	Pupri
 Jāndli	3036	7680	691	14397
-Janjira	1833	7296	17	12665
+Janjira	1833	7296	17	12665	Murud
 Jānpur	2530	8488	604	10614
 Jangalpur	2383	8658	401	7603
 Zangla	3366	7699	8	0
 Zangāreddigūdem	1712	8130	24	0
-Janor	2183	7312	151	0
+Janor	2183	7312	151	0	Shāhābād
 Jhānzi	2687	9450	520	0
 Jhānwar	2620	7286	344	0
 Jhānkhar	2236	6977	145	0
 Jhānjwa	2413	7306	212	0
-Jhānjhava	2413	7306	212	0
+Jhānjhava	2413	7306	212	0	Jhānjwa
 Jhānjhmer	2118	7206	168	0
-Janjmeer	2118	7206	168	0
+Janjmeer	2118	7206	168	0	Jhānjhmer
 Jhangar Dharmsāl	3327	7405	504	0
-Jhangar	3327	7405	504	0
-Jhangar Dharamsal	3327	7405	504	0
-Jhanger	3327	7405	504	0
+Jhangar	3327	7405	504	0	Jhangar Dharmsāl
+Jhangar Dharamsal	3327	7405	504	0	Jhangar Dharmsāl
+Jhanger	3327	7405	504	0	Jhangar Dharmsāl
 Jhānphali	2620	7112	285	0
-Jhānfli	2620	7112	285	0
+Jhānfli	2620	7112	285	0	Jhānphali
 Janwe	2098	7497	78	0
 Janwal	1855	7675	158	0
 Janwāda	1800	7748	170	0
 Janra	2208	7169	370	0
 Jānpalia	2506	7095	285	0
-Jānpāliya	2506	7095	285	0
-Jannio	2689	6950	217	0
+Jānpāliya	2506	7095	285	0	Jānpalia
+Jannio	2689	6950	217	0	Jeniyo
 Jānla	2021	8571	541	0
 Jānkia	2003	8552	541	0
 Jāni Khurd	2896	7756	700	0
-Jāni	2896	7756	700	0
+Jāni	2896	7756	700	0	Jāni Khurd
 Jāngra	2173	8497	272	0
 Janglot	3244	7552	496	0
 Janglighāt	1166	9273	442	0
@@ -52,10 +52,10 @@ Jangi	3161	7843	83	0
 Jangi	2322	7057	108	0
 Janghirā	2143	8562	293	0
 Janghai	2554	8231	607	0
-Janghai Junction	2554	8231	607	0
+Janghai Junction	2554	8231	607	0	Janghai
 Jangatvādi	1697	7358	234	0
 Jangamakote	1326	7785	438	0
-Jangamkote	1326	7785	438	0
+Jangamkote	1326	7785	438	0	Jangamakote
 Jangalwār	3314	7577	372	0
 Jang	2757	9198	531	0
 Jānephal	2030	7658	49	0
@@ -68,13 +68,13 @@ Janaula	2834	7680	630	0
 Janān	2383	7030	108	0
 Janakpur	2372	8179	525	0
 Jānakal	1391	7632	255	0
-Januguri	2672	9293	356	0
+Januguri	2672	9293	356	0	Jāmuguri
 Hazrat Jandāha	2571	8554	716	0
 Zanak	2790	8827	27	0
 Derdi Janbai	2182	7145	216	0
 Janjeu	2809	7378	307	0
 Jāndwa	2813	7482	539	0
-Jānoa	2813	7482	539	0
+Jānoa	2813	7482	539	0	Jāndwa
 Jhānjhni	2876	7496	539	0
 Jānka	2185	8791	559	0
 Janāi	2271	8825	279	0
@@ -82,17 +82,17 @@ Janjāli Chak	2254	8806	354	0
 Janāpul	2286	8870	450	0
 Zangibāgh	3401	7485	76	0
 Janarola	3379	7419	1	0
-Jandrala	3379	7419	1	0
-Jandrolu	3379	7419	1	0
+Jandrala	3379	7419	1	0	Janarola
+Jandrolu	3379	7419	1	0	Janarola
 Jhandl Dhara	3330	7422	504	0
-Jhandi Dhara	3330	7422	504	0
+Jhandi Dhara	3330	7422	504	0	Jhandl Dhara
 Zangām	3414	7457	301	0
 Zandwain	3432	7446	301	0
 Jānwor	3434	7449	301	0
 Zandbāba	3439	7433	0	0
 Jhangar Dharms	3324	7405	504	0
-Jhangar Dharmsai	3324	7405	504	0
-Jhangar	3324	7405	504	0
+Jhangar Dharmsai	3324	7405	504	0	Jhangar Dharms
+Jhangar	3324	7405	504	0	Jhangar Dharms
 Janti	3294	7475	581	0
 Janākha	3286	7498	581	0
 Jānīāli	3284	7487	581	0
@@ -106,11 +106,11 @@ Jhang	3254	7492	720	0
 Rakh Jhang	3255	7491	720	0
 Jangwāl	3252	7475	581	0
 Bagga Janna	3260	7478	581	0
-Bagga Zannu	3260	7478	581	0
+Bagga Zannu	3260	7478	581	0	Bagga Janna
 Jānīpur	3015	7775	449	0
 Jandhera	3000	7711	501	0
 Janesra	2986	7703	457	0
-Janesran	2986	7703	457	0
+Janesran	2986	7703	457	0	Janesra
 Jānpur	2976	7718	449	0
 Janaher	2966	7743	449	0
 Jānīpur	2964	7738	328	0
@@ -142,11 +142,11 @@ Janakpur	2476	7890	481	0
 Sakri Jangal	2796	7905	117	0
 Jangi Nagla	2777	7947	470	0
 Jhandāhār	2721	7932	464	0
-Jhandaipur	2721	7932	464	0
+Jhandaipur	2721	7932	464	0	Jhandāhār
 Janaura	2718	7938	464	0
 Bheta Jangal	2766	7950	470	0
 Jangra	2649	7916	290	0
-Jāngru	2649	7916	290	0
+Jāngru	2649	7916	290	0	Jangra
 Jhaniriya ki Dhāni	2698	7554	121	0
 Janoti	2690	7965	570	0
 Janwāran	2685	7972	570	0
@@ -261,8 +261,8 @@ Jhanda	2210	7894	337	0
 Jānkīdhāna	2207	7877	337	0
 Jhānki	2207	7876	337	0
 Jangaldehri	2198	7845	337	0
-Jangali Mohgaon	2126	7847	141	0
-Janābāi	2141	7874	141	0
+Jangali Mohgaon	2126	7847	141	0	Banjādi
+Janābāi	2141	7874	141	0	Khāpa
 Janūna	2045	7808	67	0
 Jhanjokhar	2904	7761	700	0
 Jangerhi	2904	7764	700	0
@@ -301,7 +301,7 @@ Janāniā	2932	7495	486	0
 Janauri	3171	7589	296	0
 Basi Jana	3154	7589	296	0
 Jandi	3152	7578	296	0
-Kishanpur Janūbi	3047	7589	775	0
+Kishanpur Janūbi	3047	7589	775	0	Sangāli
 Janāl	3007	7595	593	0
 Jāndli Khurd	2951	7565	443	0
 Jangalār	3325	7624	34	0
@@ -326,7 +326,7 @@ Jangalpur	2165	8101	509	0
 Jangalpur	2161	8113	509	0
 Jāno	2156	8120	710	0
 Janjārīpura	2679	7739	114	0
-Jandail Ganj	2633	7784	478	0
+Jandail Ganj	2633	7784	478	0	Bheniyan ka Pura
 Jangbahādur ka Pura	2641	7797	478	0
 Jhānkri	2600	7810	484	0
 Jhānja	2821	7592	300	0
@@ -337,7 +337,7 @@ Jānegaon	1874	7613	33	0
 Jhāngri Baihk	3462	7446	0	0
 Bīd Guru Jand Sāhib	3091	7637	735	0
 Janheri	3042	7647	564	0
-Nagla Jangli	2781	7788	543	0
+Nagla Jangli	2781	7788	543	0	Gilehta
 Janhera	2790	7788	543	0
 Jānu	2757	7735	177	0
 Nagla Jangli	2762	7737	177	0
@@ -419,7 +419,7 @@ Jangla	2747	7796	670	0
 Khera Janak	2765	7892	616	0
 Jangalpur	2759	7878	711	0
 Janūtha	2720	7779	546	0
-Janakpur	2672	7828	478	0
+Janakpur	2672	7828	478	0	Jujhki
 Janakpura	2670	7839	478	0
 Janukiya ka Pura	2659	7830	478	0
 Jānampalli	1695	7776	317	0
@@ -450,7 +450,7 @@ Janauli	2736	7969	688	0
 Jandāguda	1709	7835	62	0
 Jangamayyapalli	1645	7810	146	0
 Jhandīpur	2777	7709	114	0
-Jhānda	2795	7720	754	0
+Jhānda	2795	7720	754	0	Ranyāla Khurd
 Jānumpet	1616	7801	146	0
 Jangamreddipalli	1685	7843	62	0
 Janeori	2799	7976	470	0
@@ -487,7 +487,7 @@ Janakpur	2554	8105	728	0
 Jhānjhri	2229	7691	465	0
 Janwa Dīh Khurd	2556	8216	607	0
 Nawāda Janghai	2552	8225	607	0
-Jhanjre	2552	8203	607	0
+Jhanjre	2552	8203	607	0	Sarāi Gopi
 Janwa Dīh	2550	8215	607	0
 Jhānkrī	2528	7914	433	0
 Jhānsepur	2579	8276	32	0
@@ -539,7 +539,7 @@ Indla Jhanpari	2091	7784	133	0
 Janūna	2140	7764	462	0
 Jhandītola	2149	7968	404	0
 Jānori	2056	7734	128	0
-Jhanjhad	2128	7960	404	0
+Jhanjhad	2128	7960	404	0	Pipalgaon
 Jangli Garāra	2112	7978	404	0
 Jāntājūa	2421	8331	103	0
 Jankalgūdem	1734	7996	46	0
@@ -575,7 +575,7 @@ Janwāra	2548	8055	463	0
 Jhānjāheri	2382	7643	16	0
 Jhānkar	2443	7898	384	0
 Jhandaguda	1944	7890	162	0
-Nagla Janjera	2723	7924	464	0
+Nagla Janjera	2723	7924	464	0	Naya Nagla
 Jhanjhar	2459	8104	324	0
 Janārdanpur	2460	8109	324	0
 Jhand	2453	8111	324	0
@@ -681,7 +681,7 @@ Janjra	2493	8396	409	0
 Jangra	2692	8141	30	0
 Purwa Jandi	2681	8145	30	0
 Jānīpur	2671	8137	30	0
-Begampur Jāni	2960	7855	575	0
+Begampur Jāni	2960	7855	575	0	Chhailpīpli
 Jhandi Chaur	2953	7867	575	0
 Jānki Khera	2644	8109	681	0
 Jānki Khera	2643	8110	681	0
@@ -692,7 +692,7 @@ Jhanjira	2908	7875	511	0
 Kāla Jhānda	2915	7882	511	0
 Purwa Jangha Singh	2639	8134	681	0
 Janai	2636	8136	681	0
-Amar Jhānda	2916	7891	641	0
+Amar Jhānda	2916	7891	641	0	Shiblālpur
 Kāla Jhānda	2907	7891	511	0
 Janāpur	2631	8150	662	0
 Jangāpur	2634	8192	597	0
@@ -897,9 +897,9 @@ Farzand Alī Jangal	2715	8351	515	0
 Pure Janai	2588	8161	718	0
 Sarāī Janmati	2593	8162	718	0
 Janaktiwāri ka Purwa	2582	8166	718	0
-Jangal Kalān	2683	8307	647	0
-Un Jangal	2681	8309	647	0
-Jangal Khurd	2681	8309	647	0
+Jangal Kalān	2683	8307	647	0	Khusia
+Un Jangal	2681	8309	647	0	Thangīcha
+Jangal Khurd	2681	8309	647	0	Khursanga
 Jhanjhwa	2646	8312	325	0
 Kataiya Janesri	2631	8310	553	0
 Jhangai Pura	2648	8319	325	0
@@ -920,7 +920,7 @@ Janakpur	2697	8368	515	0
 Gopālpur Jhanjwa	2692	8370	560	0
 Jhanjhanpur	2679	8372	560	0
 Jhanga	2678	8373	560	0
-Gauri Jangal	2663	8351	325	0
+Gauri Jangal	2663	8351	325	0	Amahia
 Jangal Bhusaul	2650	8356	535	0
 Rasūlpur Jangal Two	2661	8357	325	0
 Jangal Kandhauli	2651	8360	535	0
@@ -973,7 +973,7 @@ Janoh	3262	7526	720	0
 Janoli	3255	7533	496	0
 Khari Jan	3273	7538	373	0
 Jangera	3253	7550	496	0
-Janāl	3253	7549	496	0
+Janāl	3253	7549	496	0	Peri
 Janiāl	3232	7541	692	0
 Jandora	3245	7548	496	0
 Jānkīpur	2545	8163	651	0
@@ -1038,7 +1038,7 @@ Jhanbke	3172	7519	222	0
 Jhānj Kalān	2938	7628	367	0
 Jhānj Khurd	2937	7628	367	0
 Jhander	3136	7512	260	0
-Jhanduwāla	3125	7515	565	0
+Jhanduwāla	3125	7515	565	0	Harnāmpur
 Jhanduwāla	3126	7514	565	0
 Hardo Jand	3116	7505	565	0
 Janāsni	2615	7395	273	0
@@ -1082,7 +1082,7 @@ Jhānjh	2222	8247	388	0
 Januna	2101	7520	78	0
 Jangalpur	2141	8090	509	0
 Jangalpur	2107	8097	474	0
-Janakpur	2277	8280	725	0
+Janakpur	2277	8280	725	0	Saido
 Jānwa	2073	8003	171	0
 Jangaōn	2722	8060	686	0
 Janghora	2123	8251	407	0
@@ -1254,7 +1254,7 @@ Jānpur	2324	7628	320	0
 Jhānkerpāli	2142	8346	497	0
 Jhānkerpāli	2134	8342	497	0
 Milk Jhandawāli	2883	7888	511	0
-Mazra Jangliwāli	2877	7899	511	0
+Mazra Jangliwāli	2877	7899	511	0	Milk Dathūra
 Janoli Khurd	2312	7631	322	0
 Jhankarpāli	2119	8331	497	0
 Jhankarpāli	2106	8333	497	0
@@ -1291,7 +1291,7 @@ Jānkiban	2608	8144	681	0
 Janidpur	2676	8158	629	0
 Pura Jang Bahādur	2633	8154	662	0
 Kuti Bāba Jān Dās	2640	8158	662	0
-Chak Jangla	2646	8162	662	0
+Chak Jangla	2646	8162	662	0	Nihalgarh
 Janāpur	2637	8158	662	0
 Jānkipur	2624	8157	681	0
 Pura Janān	2614	8161	718	0
@@ -1331,7 +1331,7 @@ Janderiguda	1987	8343	284	0
 Janāpur	1978	8346	363	0
 Janabāli	1985	8352	363	0
 Jangalapalle	1680	8064	104	0
-Jāngar	1845	8230	109	0
+Jāngar	1845	8230	109	0	Mundlapāda
 Jantri	1839	8234	109	0
 Jānisai	1940	8331	363	0
 Jangjolla	1949	8340	363	0
@@ -1413,7 +1413,7 @@ Janpag	2365	7351	512	0
 Jānwad	2313	7395	142	0
 Jantar	2966	7917	429	0
 Janwān ki Dhāni	2621	7350	344	0
-Mandaiyān Jangī Khān	2920	7912	641	0
+Mandaiyān Jangī Khān	2920	7912	641	0	Farīdpur
 Janakpur	2532	8461	377	0
 Jānsara	2543	8472	377	0
 Janpuriya	2525	8451	377	0
@@ -1441,12 +1441,12 @@ Janjirha	2625	8409	535	0
 Jhankra	2985	7994	722	0
 Jāntha	2957	7988	429	0
 Rakba Janglipatti	2671	8430	560	0
-Janerwa	2654	8466	396	0
+Janerwa	2654	8466	396	0	Jogiār
 Jān	2662	8470	396	0
 Jān	2938	7983	551	0
 Janira	2922	7997	554	0
 Palia Jhanda	2814	7920	117	0
-Dūndha Janūbi	2880	7947	342	0
+Dūndha Janūbi	2880	7947	342	0	Durha
 Janak Jāgīr	2855	7941	342	0
 Kamālpur Janūbi	2864	7944	342	0
 Ata Patti Janūbi	2855	7946	342	0
@@ -1655,7 +1655,7 @@ Janera	2723	8015	686	0
 Jānīpur	2786	8028	323	0
 Jānkinagar Grant	2787	8040	323	0
 Zankhvav	2145	7332	139	0
-Zankhavav	2145	7332	139	0
+Zankhavav	2145	7332	139	0	Zankhvav
 Januna	1993	7744	67	0
 Jantiboyinahalli	1364	7783	438	0
 Jangalahalli	1364	7776	438	0
@@ -1800,7 +1800,7 @@ Jangampatti	1050	7818	187	0
 Jangamarājapuram	1087	7888	270	0
 Jangālupatti	1067	7794	445	0
 Jānakipuram	1190	7947	202	0
-Jangālpatti	989	7747	194	0
+Jangālpatti	989	7747	194	0	Uppunūttu
 Jangamanāyakkampatti	1129	7811	231	0
 Jangamanāyakkanpatti	1120	7804	231	0
 Jangalāpuram	1116	7823	231	0

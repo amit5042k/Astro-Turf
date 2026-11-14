@@ -1,17 +1,17 @@
 Salem	1165	7816	51	917414
-Atur-Salem	1159	7860	51	61793
+Atur-Salem	1159	7860	51	61793	Attur
 Sālūr	1852	8321	199	50206
 Salāya	2231	6960	131	33246
 Chinna Salem	1163	7887	390	25106
 Sālamedu	1191	7949	202	20854
 Sālūmbar	2414	7404	22	16557
 Salangaippālaiyam	1143	7757	211	15609
-Salangapalayam	1143	7757	211	15609
+Salangapalayam	1143	7757	211	15609	Salangaippālaiyam
 Saligram	1350	7471	257	15123
 Salon	2603	8145	681	14312
 Salpara Molandubi Pt.-I	2603	9067	458	11709
-Salwad	1978	7275	192	10397
-Salāmpur	2815	7554	300	10247
+Salwad	1978	7275	192	10397	Saravli
+Salāmpur	2815	7554	300	10247	Islāmpur
 Salvador do Mundo	1553	7384	188	6373
 Saligao	1555	7379	188	6280
 Salamba	2811	7705	544	5727
@@ -22,14 +22,14 @@ Saloh	3111	7613	295	4481
 Sālehpur Kasāra	2555	8526	604	1371
 Uttar Sāl	3180	7702	278	0
 South Salmara	2591	9002	561	0
-Salegaon	1987	7500	113	0
+Salegaon	1987	7500	113	0	Silegaon
 Shalkār	3200	7857	83	0
 Shalāi	3068	7770	534	0
 Salyāna	3020	7928	183	0
 Salwānia	2350	7483	568	0
 Sālwan	2951	7672	457	0
 Sālwa Khurd	2646	7345	344	0
-Sālwa	2646	7345	344	0
+Sālwa	2646	7345	344	0	Sālwa Khurd
 Salwāhi	2392	8329	341	0
 Sālukdīh	2312	8583	653	0
 Sāltora	2352	8694	571	0
@@ -37,39 +37,39 @@ Salt Lake City	2258	8842	450	0
 Sālotgi	1713	7602	80	0
 Sālorah	1869	7782	75	0
 Sālod	2070	7855	143	0
-Salod Hirapur	2070	7855	143	0
+Salod Hirapur	2070	7855	143	0	Sālod
 Sālmāri	2562	8784	625	0
 Sallopāt	2318	7416	166	0
 Sālkocha	2624	9034	561	0
 Salkhia	2258	8835	123	0
-Howrah Salkia	2258	8835	123	0
+Howrah Salkia	2258	8835	123	0	Salkhia
 Salkhan	2182	8258	696	0
 Salempur	2646	8465	703	0
-Salīmpur	2646	8465	703	0
+Salīmpur	2646	8465	703	0	Salempur
 Salimi	1860	8207	109	0
 Sālimgarh	2370	7478	633	0
 Sāligrāma	1256	7626	74	0
 Sālī	3380	7527	148	0
 Sālgundi	1566	7683	50	0
 Salgare	1689	7491	65	0
-Salgar	1689	7491	65	0
+Salgar	1689	7491	65	0	Salgare
 Salgarāon	3276	7654	425	0
 Sālgājhri	2276	8622	584	0
-Salgajhari	2276	8622	584	0
+Salgajhari	2276	8622	584	0	Sālgājhri
 Salgādīh	2310	8543	432	0
 Salewāra	2179	8085	509	0
 Sāletekrī	2178	8081	144	0
 Sālepur	2048	8613	303	0
-Sālīpur	2048	8613	303	0
+Sālīpur	2048	8613	303	0	Sālepur
 Salepali	2224	8343	439	0
 Salīmpur	2630	8392	535	0
-Salempur	2630	8392	535	0
+Salempur	2630	8392	535	0	Salīmpur
 Salemābād	2672	7480	446	0
-Salīmābād	2672	7480	446	0
+Salīmābād	2672	7480	446	0	Salemābād
 Salem	1570	7392	188	0
 Sālegaon	1907	7635	33	0
 Salebhata	2097	8353	394	0
-Salebhatsa	2097	8353	394	0
+Salebhatsa	2097	8353	394	0	Salebhata
 Sālbani	2307	8627	415	0
 Sālbani	2264	8732	677	0
 Salbāka	1841	8037	226	0
@@ -86,7 +86,7 @@ Sālana	2645	9298	656	0
 Salāmatpur	2349	7770	338	0
 Salāl	3316	7483	666	0
 Salaia	2385	7997	351	0
-Salaiya	2385	7997	351	0
+Salaiya	2385	7997	351	0	Salaia
 Salaiya	2212	7809	462	0
 Sālāi	2232	8533	287	0
 Sālai	2199	7630	209	0
@@ -94,20 +94,20 @@ Salāhwās	2846	7647	609	0
 Sālāheri	2810	7703	544	0
 Salaguri	2706	9483	520	0
 Salagame	1308	7609	679	0
-Salagama	1308	7609	679	0
+Salagama	1308	7609	679	0	Salagame
 Salādipura	2765	7502	491	0
 Salabatpura	2117	7283	139	0
 Salābatpur	1955	7505	152	0
 Salābatpur	1785	7818	400	0
 North Sālmāra	2637	9063	746	0
-Salmara-North	2637	9063	746	0
+Salmara-North	2637	9063	746	0	North Sālmāra
 Gura Salāthiān	3260	7504	720	0
 Bar Sālāiya	2264	7916	337	0
-Sālāiya	2264	7916	337	0
+Sālāiya	2264	7916	337	0	Bar Sālāiya
 Salasar	2807	7398	307	0
 Salua	2264	8845	450	0
 Sālgari	2224	8843	4	0
-Salendar	3439	7476	120	0
+Salendar	3439	7476	120	0	Sarindar
 Sālūra	3421	7476	595	0
 Shālamār	3414	7488	611	0
 Shālateng	3411	7475	611	0
@@ -131,11 +131,11 @@ Sāldori	3391	7433	1	0
 Salempur	2996	7699	501	0
 Salemsar Mājra	2900	7687	485	0
 Deoli Salārīān	3250	7489	720	0
-Dewli Salehriyān	3250	7489	720	0
+Dewli Salehriyān	3250	7489	720	0	Deoli Salārīān
 Chak Salehriyān	3253	7493	720	0
-Badīpur Salāriān	3254	7486	581	0
+Badīpur Salāriān	3254	7486	581	0	Badīpur
 Chak Salehriyān	3256	7500	720	0
-Salmen de Kothe	3258	7488	581	0
+Salmen de Kothe	3258	7488	581	0	Sainien de Kothe
 Salehr	3256	7482	581	0
 Salmehri	3258	7500	720	0
 Salārpura	2979	7709	457	0
@@ -168,7 +168,7 @@ Salempur	2715	7978	570	0
 Salempur Ramai	2707	7993	570	0
 Salempur Tāra	2703	7995	570	0
 Sālampur	2681	7923	290	0
-Sālimpur	2681	7923	290	0
+Sālimpur	2681	7923	290	0	Sālampur
 Salempur	2689	7907	290	0
 Salokhra	2646	7923	290	0
 Sāla	2648	7950	715	0
@@ -191,7 +191,7 @@ Sāljuri	2650	8998	713	0
 Shāli	3278	7606	779	0
 Salbaunri	2787	8237	525	0
 Salaihābhātha	2269	8246	388	0
-Salihābhatha	2269	8246	388	0
+Salihābhatha	2269	8246	388	0	Salaihābhātha
 Salrapāra	2341	7476	568	0
 Auli Laga Salude	3053	7957	183	0
 Salhaiya	2208	8214	291	0
@@ -339,10 +339,10 @@ Sālimpur	2730	7681	482	0
 Salga	3064	7784	448	0
 Salempura	2665	7633	708	0
 Sālmābād	2938	7817	575	0
-Salempur Mathna	2935	7812	575	0
+Salempur Mathna	2935	7812	575	0	Pūranpur
 Sālamkhera	2943	7550	443	0
 Bhatta Salīmpur	2961	7813	575	0
-Salehpur	2996	7801	596	0
+Salehpur	2996	7801	596	0	Pūranpur
 Salempur Mahdūd	2994	7804	596	0
 Mānki Salaiya	2367	7838	352	0
 Salaiya	2359	7838	338	0
@@ -432,7 +432,7 @@ Sālārpur	2932	7789	545	0
 Shālamār	2872	7716	689	0
 Salimgarh	2866	7724	732	0
 Sālārpur Khādar	2855	7739	588	0
-Shālimār Garden	2869	7735	727	0
+Shālimār Garden	2869	7735	727	0	Chhābra Colony
 Salābatpurkheri	2891	7731	477	0
 Sarora Salempur	2877	7741	727	0
 Sālārpur	2849	7736	774	0
@@ -456,10 +456,10 @@ Sālriya	2527	7466	309	0
 Sālra	2540	7471	309	0
 Sālgaon	2460	7274	23	0
 Salāngaon	3041	7808	448	0
-Saliyāwāla	3040	7803	448	0
+Saliyāwāla	3040	7803	448	0	Bādshāhibāgh
 Sālāwāla	3034	7806	448	0
 Salārpur	2933	7853	575	0
-Salāhbatpur Girdhar	2937	7865	575	0
+Salāhbatpur Girdhar	2937	7865	575	0	Bhājjāwāla
 Salābatnagar	2939	7867	575	0
 Salur	3051	7952	183	0
 Saldhār	3048	7967	183	0
@@ -660,10 +660,10 @@ Nagla Salahdi	2691	7880	290	0
 Salempur	2686	7886	290	0
 Salkarpet	1693	7779	317	0
 Salonpalli	1681	7791	317	0
-Saltish	1623	7776	306	0
+Saltish	1623	7776	306	0	Sangāl
 Sālimbi	1982	7801	140	0
 Sālāīguda	1980	7810	140	0
-Sikandarpur Salbahān	2753	7916	711	0
+Sikandarpur Salbahān	2753	7916	711	0	Khairpur
 Salempur	2761	7917	616	0
 Sāleguda	1950	7842	282	0
 Salempur	2741	7904	464	0
@@ -795,8 +795,8 @@ Saldullāhpur	2560	8336	26	0
 Sālīpur	2564	8337	26	0
 Salempur	2570	8340	26	0
 Salempur	2568	8348	26	0
-Salempur	2565	8350	26	0
-Salāmatpur	2559	8348	26	0
+Salempur	2565	8350	26	0	Bhoāpur
+Salāmatpur	2559	8348	26	0	Agasta
 Sālaura Asli	2516	7811	436	0
 Salaiya Pamar	2560	7837	503	0
 Salempur	2540	8327	724	0
@@ -1042,7 +1042,7 @@ Sālebardī	2139	7987	171	0
 Salem Sarāi	2924	7853	575	0
 Muqam Salyadāni	3410	7403	301	0
 Salāmābād	3409	7403	301	0
-Salāmābād	3402	7400	301	0
+Salāmābād	3402	7400	301	0	Sing
 Sallar	3404	7424	301	0
 Sallar	3404	7423	301	0
 Salāsan	3409	7420	301	0
@@ -1051,7 +1051,7 @@ Shāla Dajiān	3415	7423	301	0
 Sālaīmendhā	2100	7915	141	0
 Sālaī Khurd	2075	7902	141	0
 Sālebhattī	2069	7922	141	0
-Salāmatpur	2910	7857	575	0
+Salāmatpur	2910	7857	575	0	Jai Rāmpur Sānkli
 Salempur	2910	7865	511	0
 Daulatpur Tigri Adalpur Salārpur	2909	7873	511	0
 Salāna Malla	2975	7898	612	0
@@ -1099,16 +1099,16 @@ Saldi Baldi Pura	2726	8184	542	0
 Salempur	2749	8199	618	0
 Sālwa	1960	7737	640	0
 Sālegaon	1961	7728	640	0
-Salābatpur	2839	7832	646	0
+Salābatpur	2839	7832	646	0	Karkauri
 Salāra	2844	7832	483	0
 Salempur	2843	7841	646	0
 Salārpur	2880	7851	483	0
 Salempur Nawāda	2881	7862	483	0
 Salempur Banjar	2888	7870	511	0
 Salāwa	2896	7870	511	0
-Sālāpuram	1889	7803	360	0
+Sālāpuram	1889	7803	360	0	Buddasāla
 Salārpur	2857	7853	646	0
-Salābatnagar	2865	7870	511	0
+Salābatnagar	2865	7870	511	0	Fatehpur
 Sālārpur	2599	8132	681	0
 Salempur Bhairon	2589	8134	681	0
 Salempur	2583	8128	728	0
@@ -1137,7 +1137,7 @@ Salempur	2832	7897	117	0
 Shālakūt	3400	7468	76	0
 Shālanār	3391	7468	76	0
 Nagla Sālār	2806	7888	117	0
-Shalkhpur	2813	7895	117	0
+Shalkhpur	2813	7895	117	0	Dīnnagar
 Sālimpuram	1866	7845	75	0
 Shalagarga	1864	7835	75	0
 Pura Salai	2731	8209	542	0
@@ -1251,7 +1251,7 @@ Sālam Patti	2623	8320	498	0
 Purwa Salāmat	2602	8302	498	0
 Salārpur	2603	8315	498	0
 Sālikrām Jungle	2678	8340	325	0
-Salempur Mughalpur	2681	8340	325	0
+Salempur Mughalpur	2681	8340	325	0	Mughlaha
 Salehpur Aurangābād	2686	8343	325	0
 Salempur	2689	8345	325	0
 Salahta	2655	8350	325	0
@@ -1308,7 +1308,7 @@ Salor	3264	7539	496	0
 Salān	3250	7531	496	0
 Salālpur	3236	7538	496	0
 Salor	3248	7544	496	0
-Salempur	2544	8160	651	0
+Salempur	2544	8160	651	0	Farīdpur
 Akbarpur Salāhpur	2547	8169	607	0
 Shālabug	3417	7474	595	0
 Salach	3214	7530	487	0
@@ -1376,7 +1376,7 @@ Sālhe	2212	8030	144	0
 Salpā	2200	8034	144	0
 Salghāt	2212	8046	144	0
 Sālewāra	2275	8056	480	0
-Sāliwāra	2275	8056	480	0
+Sāliwāra	2275	8056	480	0	Sālewāra
 Salaiyā	2298	8064	468	0
 Sāliwāra	2268	8051	480	0
 Sāliwāra	2294	8090	468	0
@@ -1464,7 +1464,7 @@ Salani	2190	8292	402	0
 Saloni Khurd	2170	8280	635	0
 Saloni Kalān	2169	8280	635	0
 Salihabhāta	2153	8280	635	0
-Sālhetola	2162	8300	635	0
+Sālhetola	2162	8300	635	0	Parsapāli
 Sālewana	2167	8290	635	0
 Salkhand	2150	8287	407	0
 Sālebhāta	2106	8212	407	0
@@ -1568,7 +1568,7 @@ Salgi	2239	8117	537	0
 Sālewāra	2213	8105	537	0
 Salaia	2289	8141	225	0
 Saloh	3250	7628	362	0
-Salūn	3236	7649	362	0
+Salūn	3236	7649	362	0	Palūn
 Salro	2287	8164	225	0
 Sālan Bari	3208	7649	38	0
 Saloh	3207	7649	38	0
@@ -1712,7 +1712,7 @@ Salgawān	2837	7814	637	0
 Sālbāhanpur	2822	7814	637	0
 Sālehābād	2820	7816	637	0
 Salempur	2804	7819	543	0
-Salempūr	2824	7843	646	0
+Salempūr	2824	7843	646	0	Daulatpūr
 Nagla Salin	2814	7828	637	0
 Salehpūr	2800	7827	543	0
 Salārpur	2807	7838	543	0
@@ -1908,7 +1908,7 @@ Sālkhetya	2260	7637	322	0
 Sālehpur	2881	7930	552	0
 Salempur	2856	7932	342	0
 Salpura	2865	7935	342	0
-Sālehpur Majāhidpur	2865	7935	342	0
+Sālehpur Majāhidpur	2865	7935	342	0	Salpura
 Sālār Nagla	2861	7945	342	0
 Salempur	2801	7943	117	0
 Salona	2641	8460	703	0
@@ -2308,7 +2308,7 @@ Saltānr	2413	8676	502	0
 Saldaha	2414	8692	502	0
 Salpatra	2400	8696	770	0
 Salaia	2404	8675	770	0
-Sālo	2396	8417	701	0
+Sālo	2396	8417	701	0	Banuā
 Sāletongri	2380	8413	707	0
 Sālamdīri	2397	8438	701	0
 Saleyādih	2388	8426	701	0
@@ -2358,7 +2358,7 @@ Sālaipudūr	848	7756	191	0
 Sālaippālaiyam	1096	7801	445	0
 Sālappatti	1079	7816	187	0
 Sālaippatti	1089	7821	445	0
-Salikkaraippatti	1075	7817	445	0
+Salikkaraippatti	1075	7817	445	0	Sellikkaraippatti
 Sālikkaraiyāmpatti	1066	7810	187	0
 Sālaiyūr	1067	7819	445	0
 Sālaiyūr	1042	7805	187	0
@@ -2392,7 +2392,7 @@ Sālappatti	1069	7782	445	0
 Sālāppākkam	1173	7916	390	0
 Sālaiyūr	1051	7789	187	0
 Sālaippudūr	1048	7777	187	0
-Or Sālaippudūr	1050	7795	187	0
+Or Sālaippudūr	1050	7795	187	0	Anigamuttampatti
 Sālaippudūr	1026	7783	187	0
 Sālaiyakkurichchi	1118	7913	383	0
 Sālakkarai	1192	7930	202	0
