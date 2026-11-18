@@ -1,20 +1,20 @@
-Damoh	2383	7944	521	139561
-Dampur	2591	9372	784	135860	Dimāpur
-Dam Dam	2263	8842	450	122719
-Dhamtari	2071	8155	652	101677
+Damoh	2383	7944	521	139561		दमोह
+Dampur	2591	9372	784	135860	Dimāpur	दीमापुर
+Dam Dam	2263	8842	450	122719		दम दम
+Dhamtari	2071	8155	652	101677		धमतरी जिला
 Nani Daman	2041	7283	760	62000
-Dhāmpur	2931	7851	575	49973
-Daman	2041	7283	760	44282
-Damao	2041	7283	760	44282	Daman
-Damaun	2041	7283	760	44282	Daman
-Dhāmnod	2221	7547	130	32093
-Damua	2219	7847	337	24663
-Chitrakoot Dham	2521	8092	643	23316
+Dhāmpur	2931	7851	575	49973		धामपुर
+Daman	2041	7283	760	44282		दमन
+Damao	2041	7283	760	44282	Daman	दमन
+Damaun	2041	7283	760	44282	Daman	दमन
+Dhāmnod	2221	7547	130	32093		धामनोद
+Damua	2219	7847	337	24663		दमुआ
+Chitrakoot Dham	2521	8092	643	23316		चित्रकूट धाम
 Dhamanagar	2092	8645	734	22920
-Tenu Dam-Cum-Kathhara	2376	8588	517	22080	Kathhāra
-Dāmnagar	2169	7152	216	17766
+Tenu Dam-Cum-Kathhara	2376	8588	517	22080	Kathhāra	तेनु डैम-कम-कठहरा
+Dāmnagar	2169	7152	216	17766		दामनगर
 Damodarpur	2614	8535	395	13884
-Dhamda	2145	8132	286	9961
+Dhamda	2145	8132	286	9961		धमधा
 Damonojodi	1876	8292	316	8862
 Damanjodi	1876	8292	316	8862	Damonojodi
 Rengali Dam Project Township	2125	8503	414	6345	Rengāli
@@ -47,16 +47,16 @@ Dhāmini	1939	8355	363	0
 Dhāmigaon	2993	8028	508	0
 Dhamhara Ghāt	2561	8660	759	0
 Dhamdhama	2656	9148	758	0
-Dhamdāha	2574	8718	613	0
-Dhambora	2359	7377	512	0
-Dhambola	2359	7377	512	0	Dhambora
+Dhamdāha	2574	8718	613	0		धमदाहा
+Dhambora	2359	7377	512	0		धम्बोला
+Dhambola	2359	7377	512	0	Dhambora	धम्बोला
 Dhamaul	2496	8583	107	0
 Dhamatne	1981	7279	192	0
 Dhāmara	2080	8690	734	0
 Dhāmangaon	2067	7603	49	0
 Dhāmak	2060	7796	133	0
 Dhāma	2126	8392	567	0
-Dāmthāng	2723	8839	85	0
+Dāmthāng	2723	8839	85	0		दमथांग
 Damroh	2847	9524	392	0
 Damro	2847	9524	392	0	Damroh
 Dāmra	2593	9077	163	0
@@ -68,13 +68,13 @@ Dāmla	3009	7722	88	0
 Damka	2120	7266	139	0
 Dāmjipura	2174	7716	462	0
 Dāmi	3289	7497	581	0
-Dām Dim	2686	8875	602	0
-Dām Din	2686	8875	602	0	Dām Dim
+Dām Dim	2686	8875	602	0		डामडिम
+Dām Din	2686	8875	602	0	Dām Dim	डामडिम
 Dāmchara	2424	9230	418	0
 Dāmbukso	2613	9356	405	0
-Dāmbuk	2827	9562	434	0
+Dāmbuk	2827	9562	434	0		दामबुक
 Dāmbu	2566	9084	490	0
-Dambal	1533	7580	606	0
+Dambal	1533	7580	606	0		डम्बल
 Damāria	2375	7677	16	0
 Damargidda	1682	7750	283	0
 Dāmarcherla	1673	7964	101	0
@@ -92,7 +92,7 @@ Bar Dāmbuk	2605	9354	405	0
 Dhameri	2855	7483	539	0
 Dhāmnagar	2237	8841	4	0
 Damdama	2234	8837	4	0
-Dhāmua	2229	8839	4	0
+Dhāmua	2229	8839	4	0		धामुया
 Damdama	2210	8852	4	0
 Damsom	3400	7481	76	0
 Nihāle Shāh da Mohalla	3294	7456	581	0
@@ -260,8 +260,8 @@ Damsal	3167	7595	296	0
 Dama ka Bās	2721	7556	121	0
 Dhamānia	2469	7403	22	0
 Dama ka Tatās	2453	7407	22	0
-Dhāmiyān	2901	7582	339	0
-Dhamāna	2901	7582	339	0	Dhāmiyān
+Dhāmiyān	2901	7582	339	0		धमाना
+Dhamāna	2901	7582	339	0	Dhāmiyān	धमाना
 Nikirpur Dami	2949	7853	575	0
 Ismailpur Dami	2949	7853	575	0	Nikirpur Dami
 Gaontia Damūdar Dās	2826	7905	117	0
@@ -903,7 +903,7 @@ Damarasingi	1818	8351	179	0
 Dāmaroherla	1761	8106	46	0
 Damodara	2625	8400	535	0
 Damannavāripālem	1597	8059	220	0
-Dāmegunta	1461	8003	6	0
+Dāmegunta	1461	8003	6	0		दामेगुन्टा
 Dampūru	1461	8008	6	0
 Damannagūdem	1770	8141	46	0
 Dhamna	2522	8435	377	0
@@ -1145,7 +1145,7 @@ Dhameri	2727	8012	686	0
 Dhama Purwa	2742	8019	686	0
 Damar Purwa	2748	8014	686	0
 Dhamāi	2716	8022	686	0
-Dāmagatla	1581	7822	232	0
+Dāmagatla	1581	7822	232	0		दामगट्ल
 Damanipalle	1446	7801	444	0
 Dampalle	1431	7816	444	0
 Damavāndlapalle	1399	7815	444	0
@@ -1154,7 +1154,7 @@ Tāra Dhamaun	2564	8556	138	0
 Mahuli Dāmodar	2572	8569	138	0
 Dāmarpalayam	1256	7793	223	0
 Damodarahalli	1231	7826	223	0
-Dammanapalle	1503	7901	229	0
+Dammanapalle	1503	7901	229	0		दम्मनपल्ली
 Dammanapalli	1491	7903	229	0
 Dāmanicherla	1427	7935	195	0
 Dāmavaram	1470	7996	6	0

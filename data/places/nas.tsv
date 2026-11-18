@@ -1,20 +1,20 @@
-Nashik	2000	7379	54	1486053
-Nasīrābād	2630	7473	446	51747
-Nāspur	1885	7946	91	31244
-Nāsriganj	2505	8433	409	23819
-Nasriganji	2505	8433	409	23819	Nāsriganj
-Nasrullāhganj	2268	7727	675	23788
-Nasrullaganj	2268	7727	675	23788	Nasrullāhganj
-Nasiyanūr	1134	7764	211	10970
+Nashik	2000	7379	54	1486053		नासिक
+Nasīrābād	2630	7473	446	51747		नसीराबाद
+Nāspur	1885	7946	91	31244		नसपुर
+Nāsriganj	2505	8433	409	23819		नासरीगंज
+Nasriganji	2505	8433	409	23819	Nāsriganj	नासरीगंज
+Nasrullāhganj	2268	7727	675	23788		भैरुंडा
+Nasrullaganj	2268	7727	675	23788	Nasrullāhganj	भैरुंडा
+Nasiyanūr	1134	7764	211	10970		नसियनूर
 Nasvadi	2205	7373	126	8076
 Nashirabad	2059	7715	172	546
 Nasik	2033	7389	54	0	Vani
 Nasuma	2828	7239	307	0
 Nāsrīda	2595	7537	313	0
 Nasrāpur	1825	7390	52	0
-Nasīrābād	2621	8151	681	0
-Nasirābād	2100	7566	78	0
-Nasirabad Khandesh	2100	7566	78	0	Nasirābād
+Nasīrābād	2621	8151	681	0		नसीराबाद
+Nasirābād	2100	7566	78	0		नशिराबाद
+Nasirabad Khandesh	2100	7566	78	0	Nasirābād	नशिराबाद
 Naswāri	2755	7693	482	0
 Naskarpur	2232	8802	354	0
 Nasīm Bāgh	3414	7484	611	0
@@ -64,7 +64,7 @@ Nasīrpur	2974	7787	596	0
 Nasrullahpur	2968	7791	545	0
 Nasīrpur Bāngar	2894	7702	485	0
 Daulat Nasīrābād	2851	7705	630	0
-Nasīrpur	2860	7709	763	0
+Nasīrpur	2860	7709	763	0		नसीरपुर
 Nastauli	2872	7735	727	0
 Nāsirpur	2865	7745	727	0
 Nāsarpur	2849	7736	774	0
@@ -394,7 +394,7 @@ Nasratpur	2520	8577	690	0
 Hire Nasbi	1588	7573	86	0
 Chik Nasbi	1587	7573	86	0
 Nasgunni	1586	7584	86	0
-Nasanakota	1435	7744	444	0
+Nasanakota	1435	7744	444	0		नसनकोट
 Nastimmanahalli	1356	7767	438	0
 Nasir Chak	2457	8513	118	0
 Nasir Bigha	2499	8527	118	0

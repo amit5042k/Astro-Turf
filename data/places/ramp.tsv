@@ -1,22 +1,22 @@
-Rāmpur	2881	7903	552	296418
-Rampur Hat	2418	8778	361	53468
-Rampura Phul	3028	7524	563	51023
-Rāmpura	3026	7524	563	45639
-Rāmpur	2981	7745	449	26257
-Rampachodavaram	1744	8178	268	25074
-Rāmpura	2447	7544	655	18495
-Rāmpur	2107	8434	567	15379
+Rāmpur	2881	7903	552	296418		रामपुर
+Rampur Hat	2418	8778	361	53468		रामपुरहाट
+Rampura Phul	3028	7524	563	51023		रामपुरा फूल
+Rāmpura	3026	7524	563	45639		रामपुरा फूल
+Rāmpur	2981	7745	449	26257		रामपुर मनिहारान
+Rampachodavaram	1744	8178	268	25074		रम्पचोड़वरम
+Rāmpura	2447	7544	655	18495		रामपुरा
+Rāmpur	2107	8434	567	15379		रैड़ाखोल
 Tola Rāmpurwā Motalke Kurwa Mathiā	2687	8453	476	13758
-Rāmpur	2450	8106	324	13638
-Rampur Baghelan	2450	8106	324	13638	Rāmpur
-Rāmpur	2434	8148	672	11936
-Rampur Naikin	2434	8148	672	11936	Rāmpur
-Rāmpura	2635	7918	741	11347
+Rāmpur	2450	8106	324	13638		रामपुर बाघेलान
+Rampur Baghelan	2450	8106	324	13638	Rāmpur	रामपुर बाघेलान
+Rāmpur	2434	8148	672	11936		रामपुर नैकिन
+Rampur Naikin	2434	8148	672	11936	Rāmpur	रामपुर नैकिन
+Rāmpura	2635	7918	741	11347		रामपुरा
 Rāmpur	2020	8352	284	7892
 Madanpur Rampur	2020	8352	284	7892	Rāmpur
 Rāmpura	2597	7608	313	7626	Alīgarh
-Rāmpur	3145	7763	479	6206
-Rampur Bushahr	3145	7763	479	6206	Rāmpur
+Rāmpur	3145	7763	479	6206		रामपुर
+Rampur Bushahr	3145	7763	479	6206	Rāmpur	रामपुर
 Rāmpura	2819	7660	519	5954
 Rampur	2264	8812	354	1642
 Rāmpur Chaudhri	2639	8167	662	1503
@@ -49,7 +49,7 @@ Rāmpur	2477	7717	336	0
 Rāmpur	2431	7745	336	0
 Rāmpur	2388	7367	512	0
 Rampur	2348	8657	415	0
-Rāmpur	2327	8543	562	0
+Rāmpur	2327	8543	562	0		रामपुर
 Rāmpur	2322	8169	634	0
 Rāmpur	2319	7390	142	0
 Rāmpur	2242	8320	439	0
@@ -130,7 +130,7 @@ Rāmpura	2691	7550	121	0
 Rāmpura	2690	7562	121	0
 Rāmpura	2684	7572	121	0
 Rāmpura	2676	7552	121	0
-Rāmpura	2675	7560	121	0	Chokla
+Rāmpura	2675	7560	121	0	Chokla	चकाला
 Rāmpur Pratāpsingh	2650	7928	715	0
 Rāmpur Rāmsahāi	2646	7943	715	0
 Rāmpura Jālaun	2633	7936	741	0
@@ -163,9 +163,9 @@ Rāmpuram	1649	7772	283	0
 Rampura Balachon	2359	7730	687	0
 Rampura	2368	7955	521	0
 Rampuriya	2241	7576	660	0
-Rampur	2628	9126	758	0
+Rampur	2628	9126	758	0		रामपुर
 Rampura	2370	7973	521	0
-Madanpur Rampur	2032	8353	284	0
+Madanpur Rampur	2032	8353	284	0		मदनपुर रामपुर
 Rampura Naj Sebar	2471	7906	481	0
 Rampura Naj Kanaura	2536	7869	326	0
 Rampur	2295	8874	450	0
@@ -269,7 +269,7 @@ Rāmpur Pāoti	2898	7764	700	0
 Rāmpur	2872	7766	756	0
 Rāmpur Jāgīr	2848	7751	588	0
 Rāmpur Khādar	2826	7751	588	0
-Rāmpur Bāngar	2830	7758	588	0
+Rāmpur Bāngar	2830	7758	588	0		रामपुर बाँगर
 Rāmpur Mazra	2840	7761	588	0
 Rāmpur	2844	7759	588	0	Fatehpur
 Rāmpura	2622	7481	446	0
@@ -1590,7 +1590,7 @@ Rāmpur	2751	8141	294	0
 Rāmpurwa	2755	8145	294	0
 Rāmpur Gondwā	2770	8148	294	0
 Rāmpuram	1825	8084	288	0
-Rāmpur Mathra	2736	8132	507	0
+Rāmpur Mathra	2736	8132	507	0		रामपुर मथुरा
 Rāmpur	2712	8136	30	0
 Rāmpur Khargi	2704	8135	30	0
 Rāmpur Hulsah	2703	8141	30	0
@@ -1716,7 +1716,7 @@ Deb Rāmpur	2909	7954	551	0
 Peras Rāmpur	2911	7970	551	0
 Rāmpur	2992	7964	722	0
 Rampur	2709	8437	476	0
-Rāmpurwā	2727	8450	476	0
+Rāmpurwā	2727	8450	476	0		रामपुरवा
 Rāmpurwā	2711	8465	476	0
 Rāmpur	2706	8454	476	0
 Rāmpur	2156	7407	186	0
@@ -2206,7 +2206,7 @@ Rāmpur	1267	7720	626	0
 Yalachkuppi Rāmpur	1296	7743	43	0
 Rāmpura	1261	7741	626	0
 Rampūr	1266	7751	626	0
-Rāmpalle	1504	7853	232	0
+Rāmpalle	1504	7853	232	0		रांपल्लॆ
 Rampādu	1503	7895	229	0
 Rāmpura	1310	7834	47	0
 Rāmpura	1306	7837	47	0

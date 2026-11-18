@@ -1,17 +1,17 @@
-Islamabad	3373	7515	148	150592	Anantnag
+Islamabad	3373	7515	148	150592	Anantnag	अनन्तनाग
 Urun-Islāmpur	1705	7427	65	67391
-Islāmpur	2627	8819	610	55691
-Islāmpur	2514	8521	514	35641
-Islāmnagar	2833	7873	117	29144
+Islāmpur	2627	8819	610	55691		इस्लामपुर
+Islāmpur	2514	8521	514	35641		इस्लामपुर
+Islāmnagar	2833	7873	117	29144		इस्लामनगर
 Ismāilābād	3012	7667	501	13726
-Kot Īsa Khān	3095	7514	499	12800
-Kot-Ise-Khan	3095	7514	499	12800	Kot Īsa Khān
-Isāgarh	2484	7788	410	12583
-Cherar-i-Sharif	3386	7477	76	11533	Tsrār Sharīf
-Charar-i-Sharif	3386	7477	76	11533	Tsrār Sharīf
-Charar-i-Sharief	3386	7477	76	11533	Tsrār Sharīf
+Kot Īsa Khān	3095	7514	499	12800		कोट ईसे खाँ
+Kot-Ise-Khan	3095	7514	499	12800	Kot Īsa Khān	कोट ईसे खाँ
+Isāgarh	2484	7788	410	12583		ईसागढ़
+Cherar-i-Sharif	3386	7477	76	11533	Tsrār Sharīf	चरार-ए-शरीफ़
+Charar-i-Sharif	3386	7477	76	11533	Tsrār Sharīf	चरार-ए-शरीफ़
+Charar-i-Sharief	3386	7477	76	11533	Tsrār Sharīf	चरार-ए-शरीफ़
 Islāmpur	2815	7554	300	10247
-Isri	2399	8603	452	9749
+Isri	2399	8603	452	9749		इसरी
 Īsāpur	1988	7933	111	9398
 Isnapuram	1754	7820	31	8276
 Isnapur	1754	7820	31	8276	Isnapuram
@@ -19,17 +19,17 @@ Islāmpur	2257	8806	354	7813
 Isasani	2110	7900	141	4366
 Ishanpur	3064	7612	674	938
 Bāra Islām	3109	7547	369	412
-North Sentinel Island	1156	9225	105	39
+North Sentinel Island	1156	9225	105	39		उत्तर सेंटीनेल द्वीप
 Isab Wargaon	1863	7611	33	0	Yusūfwadgaon
 Sarsi Istamrār	2585	8729	613	0
 Iswerpur	2135	8673	421	0
 Īsūr	1421	7534	346	0
 Isuru	1421	7534	346	0	Īsūr
 Islūr	1468	7488	59	0
-Islāmpur	2415	8847	471	0
+Islāmpur	2415	8847	471	0		इस्लामपुर
 Islāmpur	1705	7427	65	0
 Islāmnagar	2984	7740	449	0
-Islāmnagar	2336	7742	687	0
+Islāmnagar	2336	7742	687	0		इस्लामनगर
 Islāhpur	1941	7801	140	0
 Iskapalli	1474	8010	6	0
 Iskapally	1474	8010	6	0	Iskapalli
@@ -40,7 +40,7 @@ Ishwaria	2198	7101	174	0
 Ïsgaon	1995	7449	152	0
 Isaulī	2641	8185	597	0
 Īsarwāra	2396	7855	352	0
-Isarda	2616	7603	116	0
+Isarda	2616	7603	116	0		ईसरदा
 Īsanattam	1071	7800	445	0
 Īsānagar	2790	8120	323	0
 Isānagar	2486	7939	663	0
@@ -172,7 +172,7 @@ Iswāl	2473	7362	22	0
 Isarmand	2558	7403	572	0
 Ishar Singhwāla	3039	7536	726	0
 Isewāl	3090	7570	674	0
-Isāpur	2854	7703	763	0
+Isāpur	2854	7703	763	0		इसापुर
 Īshwaenagar	2856	7728	419	0
 Ismāilpur	2850	7734	774	0
 Īsāpur	2878	7765	727	0
@@ -655,7 +655,7 @@ Isarpur	2241	8023	480	0
 Islāmābād	3107	7494	566	0
 Isawāla	3100	7468	566	0
 Pīr Ismāīl Khānwāla	3095	7455	566	0
-Isrāna	2928	7685	298	0
+Isrāna	2928	7685	298	0		इसराना
 Ismāīlpur	3126	7545	565	0
 Isāli	2557	7365	273	0
 Islāmpura	2164	7564	329	0
@@ -897,7 +897,7 @@ Isri Purwa	2739	8016	686	0
 Isrāpur	2706	8001	686	0
 Isharpur Sāi	2706	8013	686	0
 Islāmpur Jogai	2706	8010	686	0
-Munroe Island	899	7661	549	0
+Munroe Island	899	7661	549	0		मन्रो द्वीप
 Isnav	2253	7275	157	0
 Island Pola-varam	1666	8219	304	0	I.Polavaram
 Isakapalle	1537	7858	232	0

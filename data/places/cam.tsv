@@ -1,20 +1,20 @@
-Wadhwan Camp	2273	7165	28	179628	Surendranagar
-Cambay	2232	7262	157	99164	Khambhāt
-Chamrajnagar	1192	7694	69	69875
-Chamarajanagar	1192	7694	69	69875	Chamrajnagar
-Chāmpa	2204	8264	696	45256
+Wadhwan Camp	2273	7165	28	179628	Surendranagar	वधावन
+Cambay	2232	7262	157	99164	Khambhāt	खंभात
+Chamrajnagar	1192	7694	69	69875		चामराजनगर
+Chamarajanagar	1192	7694	69	69875	Chamrajnagar	चामराजनगर
+Chāmpa	2204	8264	696	45256		चम्पा
 Champhai	2354	9337	253	32734	Ngūr
-Cooper's Camp	2317	8859	528	23119
-Chamba	3256	7613	362	21502
-Dapoli Camp	1776	7319	234	15713	Dāpoli
+Cooper's Camp	2317	8859	528	23119		कूपर्स कैम्प
+Chamba	3256	7613	362	21502		चंबा
+Dapoli Camp	1776	7319	234	15713	Dāpoli	दापोली
 Chammanād	1248	7501	305	14323
-Chāmkor	3090	7642	735	13920
-Chamkaur Sahib	3090	7642	735	13920	Chāmkor
+Chāmkor	3090	7642	735	13920		चमकौर
+Chamkaur Sahib	3090	7642	735	13920	Chāmkor	चमकौर
 Mana-Camp	2119	8172	310	11953
 Uttar Champamura	2383	9134	744	11359
-Chāmpua	2207	8566	293	10394
-Campbell Bay	701	9389	79	5736
-Champawat	2934	8008	554	4668
+Chāmpua	2207	8566	293	10394		चम्पुआ
+Campbell Bay	701	9389	79	5736		कैम्पबॅल बे
+Champawat	2934	8008	554	4668		चम्पावत
 Upper Sileru Project Site Camp	1806	8203	268	4632
 Kannādi Camp Shed	995	7682	258	0	Kannādi
 Champur	3196	7595	38	0	Ghamrur
@@ -37,9 +37,9 @@ Champatimunda	2078	8502	414	0
 Champasar	2726	7307	344	0
 Champāpur	2689	8483	396	0
 Chāmpāneri	2597	7485	446	0
-Chāmpāner	2248	7355	180	0
+Chāmpāner	2248	7355	180	0		चांपानेर
 Champānagar	2591	8733	613	0
-Chāmpāhāti	2240	8849	4	0
+Chāmpāhāti	2240	8849	4	0		चम्पाहाटी
 Champādānga	2284	8798	279	0
 Chāmpa	2322	8375	398	0
 Chamoli	3040	7933	183	0
@@ -47,12 +47,12 @@ Chamiāri	3185	7482	222	0
 Chameliang	2808	9653	122	0
 Chamār Palru	3190	7656	38	0
 Chamāri	2602	7956	741	0
-Chamārdi	2184	7191	168	0
+Chamārdi	2184	7191	168	0		चमारडी
 Chamakpur	2202	8548	293	0
 Camorlim	1563	7380	188	0
 Camocllu	1563	7380	188	0	Camorlim
 Chāmpsi	2811	7453	539	0
-Champdani	2280	8837	450	0
+Champdani	2280	8837	450	0		चाम्पदानी
 Chāmārpāra	2258	8813	354	0
 Chāmpāti	2258	8881	450	0
 Chhambar Kinār	3385	7426	1	0
@@ -219,7 +219,7 @@ Rāmnagar Camp	2988	7787	596	0
 Chamrāwāla	2962	7794	545	0
 King’s Way Camp	2870	7721	769	0
 Milk Chamra	2860	7745	588	0
-Chamrāwal	2888	7739	477	0
+Chamrāwal	2888	7739	477	0		चमरावाल
 Chamrāwli Borāki	2851	7757	588	0
 Nagla Chamru	2850	7764	588	0
 Chamanpura	2545	7462	309	0
@@ -308,7 +308,7 @@ Nagla Chamar	2755	7781	177	0
 Chaman Nagla	2770	7790	543	0
 Chamarpura	2761	7799	543	0
 Chamarpura	2756	7795	670	0
-Chamarua	2754	7799	670	0
+Chamarua	2754	7799	670	0		कोरना चमरुआ
 Nagla Chamār	2774	7855	711	0
 Nagla Chamārān	2772	7874	616	0
 Nagla Chamārān	2756	7861	711	0
@@ -1315,8 +1315,8 @@ Champagūda	1829	8288	268	0
 Champagūda	1849	8289	316	0
 Chammachinta	1759	8247	227	0
 Chāmakūrapālem	1638	8165	318	0
-Chāmarru	1664	8013	10	0
-Chāmavaram	1732	8252	269	0
+Chāmarru	1664	8013	10	0		चमर्रु
+Chāmavaram	1732	8252	269	0		चामवरम
 Chamarlapādu	1744	8286	227	0
 Chamrāra	1601	8006	220	0
 Chamalavāripālem	1600	8024	220	0
@@ -1466,7 +1466,7 @@ Chamālpur	2487	8470	118	0
 Chamotha	2473	8452	137	0
 Chamania	2505	8584	690	0
 Chamratwa	2658	8631	556	0
-Chāmalūru	1476	7777	100	0
+Chāmalūru	1476	7777	100	0		चामलूरु
 Chāmenhalli	1405	7544	346	0
 Chamalapalle	1396	7768	444	0
 Chamandemād	1219	7513	305	0
@@ -1601,12 +1601,12 @@ Chamat Tāra	2719	8017	686	0
 Chamraudha	2785	8030	323	0
 Chamrāpur	2798	8043	323	0
 Champapukur	2266	8881	450	0
-Chamrail	2264	8830	354	0
+Chamrail	2264	8830	354	0		चामराइल
 Chambahalli	1352	7775	438	0
 Chamalāpura	1271	7707	94	0
 Chāmanhalli	1274	7719	626	0
 Chāmanahalli	1261	7704	94	0
-Chāmalūru	1486	7815	229	0
+Chāmalūru	1486	7815	229	0		चामलूरु
 Chāmachenibayalu	1404	7823	444	0
 Chāmarahalli	1308	7816	47	0
 Chambe	1302	7806	47	0
@@ -1718,7 +1718,7 @@ Chamāmāl	2072	8438	386	0
 Chamoroda	2004	8463	440	0
 Chamakhandi	1933	8492	440	0
 Chamaria	2607	9115	636	0
-Chambang	2778	9378	39	0
+Chambang	2778	9378	39	0		चामबांग
 Nagla Chamāran	2729	7940	688	0
 Nagla Chamarān	2730	7942	688	0
 Chamārān Nagla	2719	7951	570	0

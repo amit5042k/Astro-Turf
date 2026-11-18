@@ -1,20 +1,20 @@
-Bijapur	1682	7572	80	327427	Vijayapura
-Bijnor	2937	7814	575	84593
-Bijnor	2913	7827	575	73555	Chāndpur
-Bijnor	2933	7857	575	57361	Sherkot
-Bijuri	2325	8212	225	32682
-Bijaynagar	2593	7465	446	32124
-Bijainagar	2593	7465	446	32124	Bijaynagar
-Bijbehara	3379	7511	148	24590
-Bijbiāra	3379	7511	148	24590	Bijbehara
-Bijāwar	2462	7949	663	20513
-Bijaipur	2605	7737	335	16964
-Bījāpur	1879	8082	288	16129
-Bijolia	2516	7532	309	14140
-Bijolian	2516	7532	309	14140	Bijolia
-Beejoliya Kalan	2516	7532	309	14140	Bijolia
-Bijni	2650	9070	357	13257
-Bijeraghogarh	2400	8061	351	8371
+Bijapur	1682	7572	80	327427	Vijayapura	विजयपुर जिला
+Bijnor	2937	7814	575	84593		बिजनौर
+Bijnor	2913	7827	575	73555	Chāndpur	चांदपुर
+Bijnor	2933	7857	575	57361	Sherkot	शेरकोट
+Bijuri	2325	8212	225	32682		बीजुरी
+Bijaynagar	2593	7465	446	32124		विजयनगर
+Bijainagar	2593	7465	446	32124	Bijaynagar	विजयनगर
+Bijbehara	3379	7511	148	24590		बिजबिहारा
+Bijbiāra	3379	7511	148	24590	Bijbehara	बिजबिहारा
+Bijāwar	2462	7949	663	20513		बिजावर
+Bijaipur	2605	7737	335	16964		विजयपुर
+Bījāpur	1879	8082	288	16129		बीजापुर
+Bijolia	2516	7532	309	14140		बिजोलिया
+Bijolian	2516	7532	309	14140	Bijolia	बिजोलिया
+Beejoliya Kalan	2516	7532	309	14140	Bijolia	बिजोलिया
+Bijni	2650	9070	357	13257		बिजनी
+Bijeraghogarh	2400	8061	351	8371		विजयराघवगढ़
 Bijepur	2119	8346	497	6922
 Bijrauni	2493	7764	436	5743
 Bijroni	2493	7764	436	5743	Bijrauni
@@ -38,7 +38,7 @@ Bijaybāti	2158	8827	4	0
 Bijavbati	2158	8827	4	0	Bijaybāti
 Bijāwal	2592	7038	285	0
 Bijāpur	2508	8840	412	0
-Bijāpur	2506	7325	273	0
+Bijāpur	2506	7325	273	0		बीजापुर
 Bijāpur	1952	8392	363	0
 Bijanbāri Bāzār	2707	8820	573	0
 Bijākuli	2174	8488	272	0
@@ -147,8 +147,8 @@ Bijli	2420	7349	22	0
 Bijarpur	2562	7656	335	0
 Chak Bijāsar	3087	7528	499	0
 Bijhauli	2982	7790	596	0
-Būdhpur Bījāpur	2878	7714	769	0
-Bijwāsan	2853	7705	763	0
+Būdhpur Bījāpur	2878	7714	769	0		बुधपुर बीजापुर
+Bijwāsan	2853	7705	763	0		बिजवासन
 Bījāpura	2709	7553	121	0
 Bijhra	2897	7912	552	0
 Bijāt Khāta Sharkī	2895	7921	552	0
@@ -587,7 +587,7 @@ Bijorse	2074	7434	54	0
 Bijore	2056	7406	54	0
 Bijote	2074	7421	54	0
 Bījukheri	2282	7590	660	0
-Bījalpur	2267	7584	660	0
+Bījalpur	2267	7584	660	0		बिजालपुर
 Bijgohan	2211	7579	329	0
 Bijādāndi Tolā	2298	8015	480	0
 Bījādāndi	2299	8016	480	0
@@ -865,7 +865,7 @@ Bijalapūr	1296	7596	679	0
 Bijnāpur	2745	8053	507	0
 Bijwāmau	2740	8074	507	0
 Bījādevri	2240	7933	368	0
-Bijauli	2669	7915	290	0
+Bijauli	2669	7915	290	0		बिजौली
 Bijagarni	1581	7439	77	0
 Bijraunda	2694	7934	570	0
 Bijaunra	2675	7946	715	0

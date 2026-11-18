@@ -1,39 +1,39 @@
 Kuniyamuttūr	1096	7695	156	95924
-Kundla	2134	7131	216	76809
-Kunnamkulam	1065	7607	241	63903
-Kundrathur	1300	8008	161	54986	Kavanur
-Kūnch	2599	7915	741	52773	Konch
-Kunnamangalam	1130	7588	262	47396
-Khunti	2308	8528	432	36390
-Kunigal	1302	7703	93	34155
+Kundla	2134	7131	216	76809		सावरकुंडला
+Kunnamkulam	1065	7607	241	63903		कुन्नमकुलम
+Kundrathur	1300	8008	161	54986	Kavanur	कवनुर
+Kūnch	2599	7915	741	52773	Konch	कोंच
+Kunnamangalam	1130	7588	262	47396		कुन्नमंगलम
+Khunti	2308	8528	432	36390		खूँटी
+Kunigal	1302	7703	93	34155		कुणिगल
 Kizhuvalam-Koonthalloor	866	7681	219	30770
-Kundapura	1363	7469	257	30444
-Kundapur	1363	7469	257	30444	Kundapura
-Kundarkhi	2868	7879	511	27197
-Kundla	2303	7022	108	25845	Kāndla
-Kunda	2572	8151	718	24948
+Kundapura	1363	7469	257	30444		कुंदापुर
+Kundapur	1363	7469	257	30444	Kundapura	कुंदापुर
+Kundarkhi	2868	7879	511	27197		कुन्दरकी
+Kundla	2303	7022	108	25845	Kāndla	कंडला
+Kunda	2572	8151	718	24948		कुंडा
 Kunnatnād	1004	7642	176	22881
 Kunnathunad	1004	7642	176	22881	Kunnatnād
 Kundli	2887	7712	485	21633
 Kunnimangalam	1207	7524	259	18965
-Kundgol	1526	7525	682	18726
+Kundgol	1526	7525	682	18726		कुंदगोल
 Kunnummal	1168	7571	262	18031
-Kuntiyāna	2162	6998	742	16877	Kutiyāna
+Kuntiyāna	2162	6998	742	16877	Kutiyāna	कुतियाणा
 Kunnumma	936	7641	243	14918
-Kunjānpālaiyam	1159	7780	51	14834
-Kunkuri	2274	8395	398	13846
+Kunjānpālaiyam	1159	7780	51	14834		अरसिरामणी
+Kunkuri	2274	8395	398	13846		कुनकुरी
 Kunjatturu	1275	7489	305	13633
 Kunjathur	1275	7489	305	13633	Kunjatturu
-Kakching Khunou	2440	9390	175	11379
-Horu Khunma	2702	9557	397	10187	Khonsa
-Kunnattūr	1127	7741	235	8774
+Kakching Khunou	2440	9390	175	11379		ककचिंग खुनोउ
+Horu Khunma	2702	9557	397	10187	Khonsa	खोन्सा
+Kunnattūr	1127	7741	235	8774		कुन्नाथुर
 Koonimedu	1209	7989	202	7528
 Kunnattūr	1235	7851	223	7326
-Kunjabangarh	2034	8485	548	6906	Daspalla
-Kunjaban	2034	8485	548	6906	Daspalla
+Kunjabangarh	2034	8485	548	6906	Daspalla	कुंजबन
+Kunjaban	2034	8485	548	6906	Daspalla	कुंजबन
 Kundam	2322	8035	598	4856
-Kunzar	3410	7450	301	1890
-Kunzer	3410	7450	301	1890	Kunzar
+Kunzar	3410	7450	301	1890		कुनज़र
+Kunzer	3410	7450	301	1890	Kunzar	कुनज़र
 Kun Daroriān	3298	7494	666	675
 Shelkui Khunou	2406	9387	685	0
 Ngari Khunou	2535	9432	112	0	Raipalomei
@@ -55,7 +55,7 @@ Kunkavar	2163	7098	216	0	Kunkavav
 Kunkavay	2163	7098	216	0	Kunkavav
 Kunkapal	1876	8185	600	0	Kankapāl
 Kunjrod	2251	7553	130	0
-Kunjpura	2972	7708	457	0
+Kunjpura	2972	7708	457	0		कुंजपुरा
 Kunjer	2490	7651	506	0
 Kunjara	2237	8357	439	0
 Kuni	2287	8306	725	0
@@ -85,7 +85,7 @@ Kundalgao	2032	7446	54	0	Kundalgaon
 Kundal	826	7786	191	0
 Kundakal	1746	7820	62	0	Kondakal
 Kundahit	2397	8716	770	0
-Kundadam	1085	7745	235	0
+Kundadam	1085	7745	235	0		कुंडडम
 Kunda	2670	9087	357	0
 Kundā	2421	8466	393	0
 Kunda	2212	8146	537	0
@@ -93,7 +93,7 @@ Kunda	2212	7927	337	0
 Kund	3326	7486	666	0
 Kund	2239	7439	155	0
 Kunchanapalle	1646	8062	319	0
-Kūnavaram	1757	8125	46	0
+Kūnavaram	1757	8125	46	0		कुनवरम
 Kunamanūr	1656	7770	283	0
 Kalhang Khunou	2524	9445	364	0	Koiri
 Khunthak	2420	9411	685	0
@@ -159,12 +159,12 @@ Kil Kundiyār	1318	8005	228	0
 Kundapura Railway Station	1361	7473	257	0
 Kungipalli	1168	7555	262	0
 Kunnathukal	839	7716	219	0
-Kundal	1712	7441	65	0
+Kundal	1712	7441	65	0		कुंडल
 Kūndi	3067	7685	731	0
 Kunwarpura	2513	7887	529	0
 Kunwarpura	2496	7896	481	0
 Kunwarpura	2477	7882	481	0
-Kundeshwar	2470	7880	481	0
+Kundeshwar	2470	7880	481	0		कुंडेश्वर
 Kunwala	2408	7899	352	0
 Khūni Nagla	2786	7904	117	0
 Kundeli Bādullāganj	2791	7914	117	0
@@ -221,7 +221,7 @@ Kuntalia	2660	7976	671	0
 Kunaita	2465	7915	481	0
 Kundlaya	2459	7919	663	0
 Kunwarpura	2453	7920	663	0
-Vasant Kunj	2854	7715	721	0
+Vasant Kunj	2854	7715	721	0		वसंत कुंज
 Kundal Tibba	2739	7116	217	0
 Kunjālri Dhāni	2706	7118	217	0
 Kunjithanny	1001	7706	258	0
@@ -258,7 +258,7 @@ Kūn	3153	7707	278	0
 Kunsot	3153	7707	278	0
 Kūn	3168	7714	278	0
 Khundan ki Dhāni	2963	7537	443	0
-Khundan	2964	7538	443	0
+Khundan	2964	7538	443	0		खुंदन
 Kūndanpur	2954	7586	339	0
 Kunwār Kheri	2989	7681	457	0
 Khundrot	2809	7633	482	0
@@ -415,7 +415,7 @@ Khunlaneri	2409	7366	22	0
 Kunda	2511	7677	506	0
 Kundal ki Guar	2573	7407	572	0
 Khūntiya	2503	7471	417	0
-Kunrān	3025	7571	593	0
+Kunrān	3025	7571	593	0		कुन्नरां
 Kunja Bahādurpur	2989	7778	596	0
 Khundewāli	2983	7780	596	0
 Kundli	2888	7714	485	0
@@ -474,7 +474,7 @@ Nagla Kundan	2777	7728	114	0
 Khūntpuri	2759	7722	114	0
 Kunjgarhi	2796	7774	543	0
 Nagla Khūni	2725	7773	177	0
-Kungar	2901	7609	431	0
+Kungar	2901	7609	431	0		कूँगड़
 Kunsāvali	1770	7637	48	0
 Nagla Kat Kunwarpur	2815	7787	637	0
 Kadam Kunj	2716	7754	114	0
@@ -515,7 +515,7 @@ Kundan	2756	7865	711	0
 Kunāwali	2754	7871	711	0
 Kunwarpur	2374	7926	352	0
 Kūnra	2375	7957	521	0
-Kundalpur	2399	7972	521	0
+Kundalpur	2399	7972	521	0		कुण्डलपुर
 Kūnra	2340	7974	598	0
 Kunākhera	2320	7953	598	0
 Kunwarpur	2325	7961	598	0
@@ -703,7 +703,7 @@ Kunwarpura	2530	7873	529	0
 Kund	2172	7718	133	0
 Kund	2192	7761	462	0
 Kunj	2509	8359	749	0
-Kundesar	2560	8381	26	0
+Kundesar	2560	8381	26	0		कुंडेसर
 Kund	2037	7766	67	0
 Kund	2144	7719	133	0
 Kundi	2143	7761	462	0	Dedwākund
@@ -1567,7 +1567,7 @@ Bada Khunna	1943	8219	518	0
 Harti Kund	1861	8206	109	0
 Kundelgūda	1882	8236	316	0
 Kundoragūda	1889	8244	316	0
-Kūnaparājuparva	1691	8072	104	0
+Kūnaparājuparva	1691	8072	104	0		कुनपराजुपर्व
 Khuntigām	1940	8322	363	0
 Kundurusila	1911	8308	363	0
 Kunduput	1905	8303	316	0
@@ -1583,7 +1583,7 @@ Kundingsar	1800	8237	268	0
 Kunibāripādu	1821	8242	268	0
 Kunturukhallo	1884	8254	316	0
 Kundorāguda	1886	8260	316	0
-Kuntamukkala	1671	8064	104	0
+Kuntamukkala	1671	8064	104	0		कुंतमुक्काल
 Kundāvārikhandrika	1658	8067	104	0
 Kuncharpanaku	1801	8257	268	0
 Kunchavaram	1630	8067	319	0
@@ -1820,8 +1820,8 @@ KuntanHoshalli	1478	7515	92	0
 Kundūr	1489	7526	92	0
 Kuni Melihalli	1487	7532	92	0
 Kunutūru	1444	7767	444	0
-Kuntimaddi	1433	7760	444	0
-Kunukuntla	1461	7787	444	0
+Kuntimaddi	1433	7760	444	0		कुंटिमद्दि
+Kunukuntla	1461	7787	444	0		कुनुकुंट्ल
 Kunihosūr	1410	7528	346	0
 Kunchūr	1452	7550	92	0
 Kūnbev	1465	7559	92	0
@@ -1920,7 +1920,7 @@ Kuntankoppal	1281	7685	94	0
 Kuntanahalli	1232	7689	74	0
 Kuntanahālu	1570	7712	236	0
 Kuntinahālu	1508	7706	44	0
-Kundanagurti	1526	7731	236	0
+Kundanagurti	1526	7731	236	0		कुंदनगुर्ति
 Kunkanūru	1557	7752	236	0
 Kundahalli	1266	7577	193	0
 Chinta Kunta	1845	7908	579	0
@@ -1929,7 +1929,7 @@ Kunarhalli	1284	7590	679	0
 Kunageri	1273	7575	679	0
 Kūnukallu	1595	7780	306	0
 Khuntatīkur	2504	8651	538	0
-Kundanakota	1510	7795	100	0
+Kundanakota	1510	7795	100	0		कुंदनकोट
 Kunihalli	1429	7723	93	0
 Kunjauri	2555	8693	657	0
 Kundri	2498	8615	524	0
@@ -2064,7 +2064,7 @@ Kunchanhalli	1261	7757	626	0
 Kunchigarapālaiyam	1257	7772	223	0
 Kunchena Agrahāram	1257	7765	223	0
 Kungul	1256	7766	223	0
-Kunukuntla	1519	7804	232	0
+Kunukuntla	1519	7804	232	0		कुनुकुंट्ल
 Kundamāyapalle	1507	7804	232	0
 Kunti	1544	7872	232	0
 Kuntlapallevāndlapalle	1401	7819	444	0
@@ -2268,7 +2268,7 @@ Kundru	2377	8521	764	0
 Kundi	2334	8514	562	0
 Chhotka Khuntātoli	2329	8517	562	0
 Khuntā	2328	8518	562	0
-Kunjlā	2306	8525	432	0
+Kunjlā	2306	8525	432	0		कुंजला
 Khuntitolā	2306	8527	432	0
 Kundi Bārtoli	2302	8529	432	0
 Kunditoli	2302	8531	432	0

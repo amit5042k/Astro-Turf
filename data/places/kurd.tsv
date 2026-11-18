@@ -1,20 +1,20 @@
-Khurda	2018	8562	541	46205	Khordha
+Khurda	2018	8562	541	46205	Khordha	खुर्दा
 Jora Khurd	2649	7798	478	32087
 Jaura Khurd	2649	7798	478	32087	Jora Khurd
-Kurduvādi	1809	7542	132	23131
-Raja Pur Khurd	2864	7703	771	19312
-Khurd	3154	7524	222	14506	Rāya
-Tīkri Khurd	2884	7712	769	13772
+Kurduvādi	1809	7542	132	23131		कुर्डुवाडी
+Raja Pur Khurd	2864	7703	771	19312		राजा पुर खुर्द
+Khurd	3154	7524	222	14506	Rāya	रईया
+Tīkri Khurd	2884	7712	769	13772		टिकरी खुर्द
 Uniyāra Khurd	2615	7522	313	11441	Uniāra
-Raj Pur Khurd	2849	7719	778	11161
-Mahu Khurd	2647	7673	116	10971
-Pūth Khurd	2877	7705	769	10654
+Raj Pur Khurd	2849	7719	778	11161		राज पुर खुर्द
+Mahu Khurd	2647	7673	116	10971		महू कलाँ
+Pūth Khurd	2877	7705	769	10654		पुथ खुर्द
 Baroni Khurd	2569	7838	503	10309	Barauni
-Khera Khurd	2878	7710	769	9777
+Khera Khurd	2878	7710	769	9777		खेड़ा खुर्द
 Kangarāli-khurd	1590	7450	77	8204
-Tonk Khurd	2310	7622	322	7979
-Āsan Khurd	2940	7687	298	6873
-Bīghāpur Khurd	2635	8066	312	6409
+Tonk Khurd	2310	7622	322	7979		टोंक खुर्द
+Āsan Khurd	2940	7687	298	6873		आसन खुर्द
+Bīghāpur Khurd	2635	8066	312	6409		बीघापुर
 Akdoni Khurd	2416	8628	452	6321
 Sātraud Khurd	2913	7579	339	5568
 Satrod Khurd	2913	7579	339	5568	Sātraud Khurd
@@ -31,7 +31,7 @@ Vādod Khurd	2016	7555	113	0
 Urlāna Khurd	2936	7670	298	0
 Umdi Khurd	1727	7560	65	0
 Tokarwa Khurd	2132	7373	127	0
-Tilsahri Khurd	2632	8042	469	0
+Tilsahri Khurd	2632	8042	469	0		तिलसहरी
 Talvāda Khurd	2073	7510	78	0
 Surpura Khurd	2671	7348	344	0
 Shegaon Khurd	2081	7605	78	0
@@ -71,7 +71,7 @@ Laurhia Khurd	2486	8707	605	0
 Lahar Khurd	2490	7901	481	0
 Kurdi	1605	7721	50	0
 Kurdeg	2291	8358	398	0
-Kurdeg	2257	8413	495	0
+Kurdeg	2257	8413	495	0		कुरडेग
 Khurda	2237	7564	660	0
 Khot Khurd	2937	7617	339	0
 Khātu Khurd	2716	7435	430	0
@@ -82,7 +82,7 @@ Kevra Khurd	2442	7377	22	0	Keora
 Kasa Khurd	1991	7295	192	0
 Kalot Khurd	2837	7585	300	0
 Kāhāla Khurd	1897	7745	140	0
-Jui Khurd	2863	7594	431	0
+Jui Khurd	2863	7594	431	0		जुई खुर्द
 Jhumpa Khurd	2877	7553	431	0
 Jhūnpa Khurd	2877	7553	431	0	Jhumpa Khurd
 Jāni Khurd	2896	7756	700	0
@@ -260,7 +260,7 @@ Makrauli Khurd	2893	7664	719	0
 Dulehra Khurd	2804	7661	519	0
 Bālir Khurd	2821	7670	519	0
 Nizāmpur Khurd	2883	7696	485	0
-Thāna Khurd	2890	7696	485	0
+Thāna Khurd	2890	7696	485	0		थाना खुर्द
 Bahora Khurd	2828	7682	630	0
 Bilāspur Khurd	2829	7687	630	0
 Garauli Khurd	2844	7698	630	0
@@ -590,7 +590,7 @@ Nagla Khurd	2926	7781	545	0
 Bāzīdpur Khurd	2926	7781	545	0
 Harsāna Khurd	2894	7702	485	0
 Chāndpur Khurd	2876	7701	689	0
-Holambi Khurd	2880	7710	769	0
+Holambi Khurd	2880	7710	769	0		होलाम्बी खुर्द
 Palri Khurd	2898	7715	485	0
 Tānda Khurd	2895	7719	485	0
 Jānti Khurd	2885	7716	785	0
@@ -612,9 +612,9 @@ Khāsi Khurd	3095	7597	674	0
 Bhurki Khurd	3093	7598	674	0
 Sānehwāl Khurd	3083	7599	674	0
 Silon Khurd	3078	7592	674	0
-Goela Khurd	2859	7701	763	0
-Tājpur Khurd	2858	7701	763	0
-Mangolpur Khurd	2870	7709	689	0
+Goela Khurd	2859	7701	763	0		गोयल खुर्द
+Tājpur Khurd	2858	7701	763	0		ताज पुर खुर्द
+Mangolpur Khurd	2870	7709	689	0		मंगोलपुर खुर्द
 Dehroti Khurd	2874	7730	727	0
 Sehāni Khurd	2870	7742	727	0
 Chipiyāna Khurd	2863	7741	588	0	Tigri
@@ -2145,7 +2145,7 @@ Shiurāmpur Khurd	2558	8294	32	0
 Lowāh Khurd	2866	7687	609	0
 Dābauda Khurd	2866	7682	609	0
 Daryāpur Khurd	2855	7691	763	0
-Pindwāla Khurd	2856	7696	763	0
+Pindwāla Khurd	2856	7696	763	0		पिंडवाला खुर्द
 Jangal Khurd	2622	8078	312	0
 Rāmpur Khurd	2616	8078	681	0
 Tewāripur Khurd	2612	8076	681	0
@@ -2437,7 +2437,7 @@ Nawāda Khurd	2604	8184	662	0
 Sheopur Khurd	2605	8199	718	0
 Farīdi Khurd	2874	7880	511	0
 Khonpur Khurd	2613	8193	662	0
-Abhūpur Khurd	2860	7879	511	0
+Abhūpur Khurd	2860	7879	511	0		अबुपुर खुर्द
 Abdullāhpur Khurd	2873	7883	511	0
 Chandpur Khurd	2867	7893	552	0
 Masaha Khurd	2786	8206	618	0
@@ -2778,7 +2778,7 @@ Palso Khurd	2076	7723	172	0
 Malla Khurd	1674	7657	72	0
 Sidhi Khurd	2438	8188	672	0
 Mungwāni Khurd	2217	7942	368	0
-Kharak Khurd	2883	7631	431	0
+Kharak Khurd	2883	7631	431	0		खरक खुर्द
 Baund Khurd	2877	7634	781	0
 Barhiāni Khurd	2647	8275	553	0
 Barāh Khurd	2627	8280	553	0

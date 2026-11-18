@@ -1,14 +1,14 @@
-Bhir	1899	7576	33	146709	Beed
-Birgaon	2131	8163	310	96294
-Birmitrapur	2240	8477	272	33442
-Birpara	2670	8915	752	30000
-Birūr	1360	7597	98	23493
-Birsinghapur	2336	8104	350	22324	Pāli
-Bīrpur	2651	8701	426	19932
-Birsinghpur	2480	8097	324	14339
-Birbhaddar	3007	7828	448	13058
-Birvādi	1810	7351	17	8829
-Beerwah	3401	7460	76	8192
+Bhir	1899	7576	33	146709	Beed	बीड
+Birgaon	2131	8163	310	96294		बीरगाँव
+Birmitrapur	2240	8477	272	33442		बीरमित्रपुर
+Birpara	2670	8915	752	30000		बीरपाड़ा
+Birūr	1360	7597	98	23493		बीरूर
+Birsinghapur	2336	8104	350	22324	Pāli	बीरसिंहपुर पाली
+Bīrpur	2651	8701	426	19932		बीरपुर
+Birsinghpur	2480	8097	324	14339		बीरसिंहपुर
+Birbhaddar	3007	7828	448	13058		वीरभद्र
+Birvādi	1810	7351	17	8829		बिरवाड़ी
+Beerwah	3401	7460	76	8192		बीरवाह
 Bīrpur	3266	7495	720	7177
 Bir Ghaghar	3071	7689	587	4943
 Nadgaon Tarf Birwadi	1810	7346	17	4871
@@ -36,7 +36,7 @@ Birmi	2419	8069	324	0	Birma
 Birme	2419	8069	324	0	Birma
 Bīrmāna	2917	7373	374	0
 Birloka	2697	7315	430	0
-Birkūr	1846	7780	58	0
+Birkūr	1846	7780	58	0		बिरकूर
 Birkera	2212	8480	272	0
 Birkāli	2914	7459	486	0
 Birk	3118	7579	369	0
@@ -48,7 +48,7 @@ Biribati	2043	8599	303	0
 Birhar	2649	8296	553	0
 Birgudi	2032	8186	652	0
 Birgi	2269	8668	665	0
-Birdpur	2738	8311	292	0
+Birdpur	2738	8311	292	0		बर्डपुर
 Birdhā	2454	7848	384	0
 Birchganj	1162	9275	105	0
 Biramsar	2701	7089	217	0	Baramsar
@@ -58,16 +58,16 @@ Biraicha	2703	8373	515	0
 Bīrāi	2659	7329	344	0
 Biradavolu	1434	7977	6	0
 Bīra	2500	8026	532	0
-Bīr Khās	3205	7673	38	0
-Bīr	3205	7673	38	0	Bīr Khās
+Bīr Khās	3205	7673	38	0		बीर
+Bīr	3205	7673	38	0	Bīr Khās	बीर
 Bīr	2640	7474	446	0
 Bīr	2205	7654	209	0
 Bhirvāda	1629	7383	213	0
 Bhiravda	1629	7383	213	0	Bhirvāda
 Bhiruki	2792	7745	754	0
 Bhiruk	2792	7745	754	0	Bhiruki
-Bhirarāna	2955	7555	443	0
-Bhirrāna	2955	7555	443	0	Bhirarāna
+Bhirarāna	2955	7555	443	0		भिर्दाना
+Bhirrāna	2955	7555	443	0	Bhirarāna	भिर्दाना
 Bhirāwad	2295	7533	314	0
 Bhīragaon	2023	8106	704	0
 Bhīra	2833	8049	323	0
@@ -93,7 +93,7 @@ Bīr Kheri	2966	7735	449	0
 Bīr Barkatābād	2867	7691	609	0	Nayāgaon
 Bīr ki Jāīn	3125	7703	479	0	Ber ki Jenāh
 Birmoli	2990	7859	612	0
-Biramguda	1752	7830	31	0
+Biramguda	1752	7830	31	0		बीरमगुडा
 Birdhanan	3052	7609	564	0
 Bīr Fīrozri	3061	7693	587	0
 Bīr Babūpur	3059	7693	587	0
@@ -159,7 +159,7 @@ Birewāla Dogrān	2987	7528	709	0
 Bīrābadhi	2969	7536	443	0
 Birāsari	2934	7502	585	0
 Bīr ki Dhāni	2919	7513	486	0
-Bhirāni	2908	7537	486	0
+Bhirāni	2908	7537	486	0		भिरानी
 Bīrān	2924	7537	486	0
 Bari Bīrmi	2883	7519	539	0
 Chhoti Bīrmi	2885	7520	539	0
@@ -170,7 +170,7 @@ Bīr Mājra	2991	7697	457	0
 Birhi Khurd	2860	7616	781	0
 Birhi Kalān	2860	7615	781	0
 Bīranwās	2808	7638	482	0
-Bīran	2883	7601	431	0
+Bīran	2883	7601	431	0		बीरण
 Bīran Thub	3341	7450	504	0
 Bhiro	3136	7724	278	0
 Birpat	3459	7406	0	0
@@ -567,7 +567,7 @@ Birdha	2512	7857	384	0
 Birgawān	2573	7882	433	0
 Birāl Buzurg	1692	7691	71	0
 Birāl Khurd	1693	7690	71	0
-Birdhaur	2447	8387	701	0
+Birdhaur	2447	8387	701	0		बिरधवर
 Birja	2428	8385	701	0
 Bīrbandha	2428	8380	743	0
 Bhirgavali	2393	7809	215	0
@@ -645,7 +645,7 @@ Biraura Pande	2519	8237	201	0
 Birāhīmpur	2523	8236	583	0
 Bīrpur	2513	8228	607	0
 Bīrtia	2505	8242	201	0
-Birohi	2515	8243	201	0
+Birohi	2515	8243	201	0		बिरोही
 Birāhīmpur	2530	8252	583	0
 Chak Bīra	2529	8253	583	0
 Bīrbalpur	2526	8274	251	0
@@ -656,7 +656,7 @@ Bīrpur	2509	8254	201	0
 Birmaua	2512	8256	201	0
 Birohia	2503	8267	201	0
 Birshāhpur	2516	8265	201	0
-Birbhānpur	2528	8285	251	0
+Birbhānpur	2528	8285	251	0		बीरभानपुर
 Birdopur	2530	8299	251	0
 Bīrsinghpur	2535	8291	251	0
 Bīrāpatti	2540	8292	251	0
@@ -882,7 +882,7 @@ Bīrbal Jot	2703	8222	542	0
 Birwa Bamhni	2707	8205	542	0
 Bhīra	2998	7903	612	0
 Birgana	2996	7902	612	0
-Bīronkhāl	2984	7903	612	0
+Bīronkhāl	2984	7903	612	0		बीरोंखाल
 Birkhāl	2981	7916	429	0
 Birot	2982	7923	429	0
 Mahua Birāhim	2735	8229	280	0
@@ -1853,7 +1853,7 @@ Birenchhapāl	2187	8433	627	0
 Biriamb	2140	8451	712	0
 Birtala	2195	8488	272	0
 Bīrsinghpur	2094	8400	308	0
-Bīrmahārājpur	2087	8404	308	0
+Bīrmahārājpur	2087	8404	308	0		बीरमहाराजपुर
 Bīrgarh	2063	8423	386	0
 Biruīmunda	2055	8413	387	0
 Bīrpakāli	2054	8415	387	0

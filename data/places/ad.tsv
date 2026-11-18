@@ -1,25 +1,25 @@
-Adoni	1563	7727	236	184625
-Adityapur	2279	8614	653	174355	Bhetia
-Ādilābād	1967	7854	282	118526
+Adoni	1563	7727	236	184625		आदोनी
+Adityapur	2279	8614	653	174355	Bhetia	आदित्यपुर
+Ādilābād	1967	7854	282	118526		आदिलाबाद
 Ādarsh Bās	2831	7429	539	33006	Bhādāsar
-Adirampattinam	1034	7938	264	31066
-Adirāmpatnam	1034	7938	264	31066	Adirampattinam
-Adūr	916	7673	224	29652
-Addanki	1581	7997	220	28547
+Adirampattinam	1034	7938	264	31066		अदिरामपट्टिनम
+Adirāmpatnam	1034	7938	264	31066	Adirampattinam	अदिरामपट्टिनम
+Adūr	916	7673	224	29652		अडूर
+Addanki	1581	7997	220	28547		आद्दंकी
 Adichānallūr	888	7672	549	27240
-Adampur	2928	7547	339	25531
+Adampur	2928	7547	339	25531		आदमपुर
 Ādanāttutekkumuri Kizhakku	908	7651	549	22250
 Adinad	908	7651	549	22250	Ādanāttutekkumuri Kizhakku
-Adra	2350	8668	415	22159
-Adampur	3143	7571	369	20922
+Adra	2350	8668	415	22159		आद्रा
+Adampur	3143	7571	369	20922		आदमपुर
 Adiyanuthu	1033	7798	187	17851
 Adigaratti	1133	7670	115	14178
-Advota	1503	7405	102	12444	Kānkon
-Adalaj	2316	7258	276	11957
-Aduthurai	1102	7948	264	11705
+Advota	1503	7405	102	12444	Kānkon	काणकोण
+Adalaj	2316	7258	276	11957		अडालज
+Aduthurai	1102	7948	264	11705		आडुतुरई
 Adaikkakuzhi	831	7714	453	8888
 Adampur	2976	7811	596	8518	Sultānpur
-Adbhār	2195	8302	402	7272
+Adbhār	2195	8302	402	7272		अड़भार
 Adyār	1287	7492	55	7034
 Ādri	2097	7029	136	6952
 Adātt	1054	7614	241	5721
@@ -34,7 +34,7 @@ Adha Chat	2791	8076	323	1480
 Addi	3124	7539	369	1474
 Adgal	1643	7484	77	0	Bekud
 Adegaon	2102	7874	141	0
-Adyār	1300	8026	204	0
+Adyār	1300	8026	204	0		अड्यार
 Adyāl	2094	7970	404	0
 Adyar	2094	7970	404	0	Adyāl
 Adwānī	3007	7872	612	0
@@ -66,8 +66,8 @@ Adhonigarh	2050	8447	386	0
 Adhoi	2340	7051	108	0
 Adhaura	2470	8361	749	0
 Adgaon	2050	7767	67	0
-Adesar	2356	7098	108	0
-Adegaon	2262	7949	368	0
+Adesar	2356	7098	108	0		आडेसर
+Adegaon	2262	7949	368	0		आदेगाँव
 Addatīgala	1748	8202	268	0
 Ādbadri	3015	7925	183	0
 Adāvad	2122	7544	78	0
@@ -75,7 +75,7 @@ Adāvad	2122	7544	78	0
 Adas Bidh	1878	7623	33	0	Ādas
 Adarki Buzurg	1792	7422	64	0
 Adarki	1792	7422	64	0	Adarki Buzurg
-Adāpur	2694	8496	396	0
+Adāpur	2694	8496	396	0		आदापुर
 Ādanūr	1202	7899	390	0
 Ādanakkottai	1054	7896	198	0
 Adamwāla Kera	2904	7299	374	0
@@ -92,7 +92,7 @@ Adipur	3430	7449	301	0
 Adalair	3254	7485	581	0	Dalair
 Adān	3050	7776	783	0
 Adilābād	1742	7871	311	0
-Ādibatla	1723	7854	62	0
+Ādibatla	1723	7854	62	0		आदिबातला
 Adiyi Masjid	1770	7868	466	0
 Adi	1839	7293	17	0
 Adi	1840	7292	17	0
@@ -100,7 +100,7 @@ Adād	1839	7295	17	0
 Adgaon	1822	7295	17	0
 Adambakkam	1299	8020	247	0
 Adanur	1287	8005	161	0
-Ādityāna	2172	6969	742	0
+Ādityāna	2172	6969	742	0		आदित्याणा
 Adugodi	1294	7761	43	0
 Adargunchi	1528	7515	682	0
 Adigoppula	1644	7962	10	0
@@ -240,7 +240,7 @@ Nagla Adkaran	2769	7872	616	0
 Nagla Adda	2751	7870	711	0
 Adhrauta	2370	7948	521	0
 Adkalpalli	1771	7778	31	0
-Adhārtāl	2320	7995	598	0
+Adhārtāl	2320	7995	598	0		अधारताल
 Adhampur	2712	7852	403	0
 Adavikhānāpur	1600	7726	50	0
 Adaun	2783	7816	543	0
@@ -250,7 +250,7 @@ Adda	2734	7792	670	0
 Adhiāpur	2685	7897	290	0
 Adda Dhiāni Kāchhī	2672	7896	290	0
 Adda Dharampal	2669	7898	290	0
-Addākal	1651	7793	317	0
+Addākal	1651	7793	317	0		अड्डकल
 Tājpur Adha	2754	7922	711	0
 Adegaon	1942	7844	282	0
 Adegaon Khurd	1943	7844	282	0
@@ -536,7 +536,7 @@ Chak Adīlali	2575	8150	718	0
 Darīwān Zabit Adālaat	2672	8308	647	0	Darwa
 Ādampur	2642	8300	553	0
 Adhāripur Urf Balhupur	2647	8341	325	0
-Adda Moti Rām	2669	8350	325	0
+Adda Moti Rām	2669	8350	325	0		मोतीराम अड्डा
 Adhārganj	2574	8154	718	0
 Mahdewa Adai	2664	8359	325	0
 Adhāspur	2563	8163	607	0
@@ -815,7 +815,7 @@ Adaramettu	1811	8268	268	0
 Aduamunda	1811	8270	268	0
 Addumanda	1893	8280	316	0
 Addumanda	1860	8282	316	0
-Addāda	1636	8099	68	0
+Addāda	1636	8099	68	0		अद्दाड
 Addabhangi	1908	8360	199	0
 Addanguda	1900	8370	199	0
 Addanguda	1907	8371	363	0
@@ -951,7 +951,7 @@ Advi Somāpur	1539	7566	606	0
 Adavalli	1533	7597	66	0
 Adderi	1424	7501	346	0
 Adūr	1407	7517	346	0
-Adadākulapalle	1404	7755	444	0
+Adadākulapalle	1404	7755	444	0		अडदाकुलपल्लॆ
 Adganti	1440	7534	346	0
 Adalapur	1330	7702	93	0
 Adrangi	1312	7719	626	0
@@ -1120,7 +1120,7 @@ Adgimet	1741	7851	424	0
 Adgaon	2010	7556	113	0
 Adhārpur	2781	8019	323	0
 Admāpur	2763	8001	686	0
-Adipur	2307	7009	108	0
+Adipur	2307	7009	108	0		आदिपुर
 Ādgaon	1988	7742	67	0
 Adinārayanahalli	1374	7776	438	0
 Adalli	1922	7826	408	0
@@ -1247,7 +1247,7 @@ Adivalli	1069	7716	235	0
 Adikārippatti	1155	7926	178	0
 Adimānkuppam	1163	7943	178	0
 Adarikuppam	1170	7949	178	0
-Ādanakkurichchi	1136	7925	383	0
+Ādanakkurichchi	1136	7925	383	0		ाधनाकुरीचि
 Ādanūr	1149	7937	178	0
 Ādanūr	1148	7947	178	0
 Ādanūr	1143	7948	178	0

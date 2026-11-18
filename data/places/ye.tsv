@@ -1,32 +1,32 @@
-Yeotmāl	2039	7813	67	128175	Yavatmāl
-Yelahanka	1310	7760	43	116447
-Yemmiganur	1577	7748	236	95149	Emmiganūr
+Yeotmāl	2039	7813	67	128175	Yavatmāl	यवतमाल
+Yelahanka	1310	7760	43	116447		येलहंका
+Yemmiganur	1577	7748	236	95149	Emmiganūr	येम्मिगनूर
 Yeola	2004	7449	54	49826
 Yevale	2004	7449	54	49826	Yeola
 Yewle	2004	7449	54	49826	Yeola
-Yellandu	1759	8032	60	43787
-Yellandlapād	1759	8032	60	43787	Yellandu
-Yellandrapad	1759	8032	60	43787	Yellandu
-Saundatti Yellamma	1577	7512	77	41215	Saundatti
-Yenamalakuduru	1649	8067	68	34177	Yanamalakuduru
-Yerraguntla	1464	7854	229	32574	Erraguntla
-Yellamanchili	1755	8286	227	27265	Elamanchili
-Yellāpur	1496	7471	59	20452
+Yellandu	1759	8032	60	43787		येल्लांदु
+Yellandlapād	1759	8032	60	43787	Yellandu	येल्लांदु
+Yellandrapad	1759	8032	60	43787	Yellandu	येल्लांदु
+Saundatti Yellamma	1577	7512	77	41215	Saundatti	सौंदत्ती
+Yenamalakuduru	1649	8067	68	34177	Yanamalakuduru	यनमलकुदुरु
+Yerraguntla	1464	7854	229	32574	Erraguntla	यर्रगुंटला
+Yellamanchili	1755	8286	227	27265	Elamanchili	एलमंचीली
+Yellāpur	1496	7471	59	20452		येल्लापुर
 Yerkhera	2122	7919	141	15727
 Yemjal	1727	7858	62	15689	Yamjāl
 Yellāreddi	1819	7802	58	14923
-Yelbarga	1562	7601	66	14814
+Yelbarga	1562	7601	66	14814		येलबुर्गा
 Yelur	1578	7452	77	11850
-Yercaud	1178	7821	51	11582
+Yercaud	1178	7821	51	11582		यरकौड
 Yenugonda	1676	7804	317	10611
 Yenumalapalle	1414	7782	444	10482
 Yelwal	1236	7654	74	9826	Elivāla
-Yelandūr	1205	7703	69	8901
+Yelandūr	1205	7703	69	8901		येलंदूर
 Yerrabalem	1370	8002	45	7803
 Yewalewadi	1843	7386	52	7685	Māngvādi
 Yechagām	3399	7475	76	7461
 Yehiapur	2615	8540	395	4919
-Yelagiri	1258	7864	184	4409
+Yelagiri	1258	7864	184	4409		येलगिरी
 Yesapur	2007	7650	49	416
 Yezami	2605	9457	7	0
 Yesvantpur	1302	7755	43	0
@@ -72,10 +72,10 @@ Yendigeri	1613	7549	86	0	Yandigeri
 Yemakanmardi	1613	7453	90	0	Yamkanmardi
 Yerrāvāripāllem	1371	7913	45	0
 Yerragunlakota	1396	7928	195	0	Erraguntlakota
-Yerpedu	1369	7959	45	0	Erpedu
+Yerpedu	1369	7959	45	0	Erpedu	येरपेडु
 Yelmagonda	1820	8113	599	0	Elmagonda
 Yellasiri	1394	8002	45	0	Ellasiri
-Yellanur	1470	7808	100	0	Ellanūru
+Yellanur	1470	7808	100	0	Ellanūru	यॆल्लनूरु
 Balam Yelim	1910	7548	33	0
 Yehal	3417	7488	611	0
 Yekrājpur	3406	7482	611	0
@@ -158,7 +158,7 @@ Yerūla	1837	7688	158	0
 Yevata	1786	7616	48	0
 Yedola	1778	7628	48	0
 Yenegurwādi	1785	7645	48	0
-Yenegur	1785	7644	48	0
+Yenegur	1785	7644	48	0		येणेगूर
 Yelawanti	1735	7670	71	0
 Yekanchi	1747	7695	71	0
 Yergodi	1629	7649	50	0
@@ -428,7 +428,7 @@ Yendaguda	1852	8250	205	0
 Yenkatapālem	1651	8055	319	0
 Yerakalapālem	1628	8057	319	0
 Yerikalapūdi	1628	8063	319	0
-Pedda Yerukapādu	1643	8097	68	0
+Pedda Yerukapādu	1643	8097	68	0		पॆदयॆरुकपाडु
 Yerramand	1915	8353	363	0
 Yertikuppa	1913	8357	363	0
 Yerukodi	1915	8357	363	0
@@ -703,7 +703,7 @@ Yerukone	1378	7468	257	0
 Yedvanike	1381	7473	257	0
 Yelakki	1384	7473	257	0
 Yettaberu	1388	7467	257	0
-Yenagudde	1328	7475	257	0
+Yenagudde	1328	7475	257	0		येन्नागुड्डे
 Chak Yeāri	2570	8528	716	0
 Yellaisharam	1648	7921	101	0
 Yeldūrti	1791	7837	400	0
@@ -713,9 +713,9 @@ Yellareddigūda	1749	7857	311	0
 Yelchanpalli	1792	7881	466	0
 Yellaiguda	1786	7882	466	0
 Yevti	2082	7596	78	0
-Yerwada	1855	7389	52	0
-Yerawada	1855	7389	52	0	Yerwada
-Yeraoda	1855	7389	52	0	Yerwada
+Yerwada	1855	7389	52	0		यरवदा
+Yerawada	1855	7389	52	0	Yerwada	यरवदा
+Yeraoda	1855	7389	52	0	Yerwada	यरवदा
 Yendayar	963	7689	271	0
 Yeheldari	1993	7749	67	0
 Yerrapalli	1373	7777	438	0

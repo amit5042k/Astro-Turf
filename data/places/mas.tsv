@@ -1,9 +1,9 @@
-Masulipatam	1619	8114	68	192827	Machilīpatnam
-Masulipatnam	1619	8114	68	192827	Machilīpatnam
-Masaurhi Buzurg	2535	8503	604	59803
-Masaurhi	2535	8503	604	59803	Masaurhi Buzurg
-Masaurki	2535	8503	604	59803	Masaurhi Buzurg
-Masuri	3045	7807	448	25753	Mussoorie
+Masulipatam	1619	8114	68	192827	Machilīpatnam	मछलीपट्टनम
+Masulipatnam	1619	8114	68	192827	Machilīpatnam	मछलीपट्टनम
+Masaurhi Buzurg	2535	8503	604	59803		मसौढ़ी
+Masaurhi	2535	8503	604	59803	Masaurhi Buzurg	मसौढ़ी
+Masaurki	2535	8503	604	59803	Masaurhi Buzurg	मसौढ़ी
+Masuri	3045	7807	448	25753	Mussoorie	मसूरी
 Mashāt	2025	7301	233	12139
 Massate	2025	7301	233	12139	Mashāt
 Masila	2258	8823	354	11461
@@ -14,7 +14,7 @@ Masinaickenpatty	1167	7823	51	9098	Māsināyakkanpatti
 Masala	2075	7864	143	8883	Mhāsāl
 Masrātu	2398	8532	764	5996
 Masūra	1617	7350	213	0
-Masur	1740	7416	64	0
+Masur	1740	7416	64	0		मसूर
 Māsūr	1437	7546	92	0
 Māsumganj	2550	8572	604	0
 Masūda	2609	7451	446	0
@@ -28,7 +28,7 @@ Massa	1849	7593	48	0
 Masrakh	2611	8480	540	0
 Masod	2160	7812	462	0
 Masode	2160	7812	462	0	Masod
-Maski	1596	7666	50	0
+Maski	1596	7666	50	0		मस्की
 Māsisar	2897	7502	486	0	Malsīsar
 Masira	2377	8122	634	0
 Mashobra	3113	7723	479	0
@@ -404,7 +404,7 @@ Masudpatti	2597	8302	498	0
 Masanpalli	1802	7879	466	0
 Maswārtola	2505	8134	516	0
 Masjid Purwa	2694	8240	154	0
-Maskanwa	2699	8238	542	0
+Maskanwa	2699	8238	542	0		मसकनवाँ
 Masīrpur	2581	8301	498	0
 Masahi	2698	8263	154	0
 Masjidia	2685	8261	154	0
@@ -632,9 +632,9 @@ Masānu	2391	7394	512	0
 Masotia Muwāra	2311	7386	142	0
 Māsa	2329	7433	166	0
 Masar	2556	8458	377	0
-Maswāsi	2910	7907	552	0
+Maswāsi	2910	7907	552	0		मसवासी
 Masīt	2908	7920	641	0
-Māsi	2982	7929	429	0
+Māsi	2982	7929	429	0		मॉसी
 Māsaun	2982	7928	429	0
 Māsaun	2977	7933	429	0
 Masania Para	2294	7432	173	0
@@ -834,9 +834,9 @@ Dod-maskallu	1292	7732	626	0
 Chik-maskallu	1292	7732	626	0
 Masthānsahibdoddi	1262	7738	626	0
 Māsāmasidu	1585	7802	236	0
-Masāpeta	1575	7820	232	0
+Masāpeta	1575	7820	232	0		मासापेट
 Maseānatti	1224	7775	223	0
-Masīdupuram	1541	7852	232	0
+Masīdupuram	1541	7852	232	0		मसीदुपुरं
 Masakavankapalle	1410	7802	444	0
 Masāpeta	1407	7875	195	0
 Māstenahalli	1328	7813	47	0

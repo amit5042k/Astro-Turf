@@ -78,3 +78,38 @@ test('alternate spellings show the main name', async () => {
   assert.equal(m.name, 'Mumbai');
   assert.equal(m.alias, 'Bombay');
 });
+
+test('results carry Hindi names: real ones where known, transliterated otherwise', async () => {
+  const known = { Gorakhpur: 'गोरखपुर, उत्तर प्रदेश', Varanasi: 'वाराणसी, उत्तर प्रदेश', Bombay: 'मुम्बई, महाराष्ट्र', Darjeeling: 'दार्जिलिंग, पश्चिम बंगाल' };
+  for (const [q, want] of Object.entries(known)) {
+    const [first] = await top(q);
+    assert.equal(first.labelHi, want, q);
+    assert.equal(first.hiExact, true, q);
+  }
+  for (const q of ['Rampur', 'chandrapura', 'purwa', 'Kedarnath', 'Dubai', 'Thrissur']) {
+    for (const r of await top(q)) assert.match(r.nameHi, /^[ऀ-ॿ\s\-.,()]+$/, `${q}: ${r.label} → ${r.nameHi}`);
+  }
+  // A wrong Wikidata match is rejected in favour of transliteration
+  const sambalpur = (await searchPlaces('Rampur', { fetchFn, limit: 25 })).results.find((r) => r.label.includes('Sambalpur'));
+  assert.equal(sambalpur.nameHi, 'रामपुर');
+});
+
+test('Hindi names are checked against the English name', async () => {
+  const { hindiMatches } = await import('../js/places.js');
+  for (const [hi, en] of [['शिलांग', 'Shillong'], ['रायबरेली', 'Raebareli'], ['कटक', 'Cuttack'], ['तृश्शूर', 'Thrissur'], ['भुवनेश्वर', 'Bhubaneswar'], ['काँगड़ा', 'Kangra']]) {
+    assert.ok(hindiMatches(hi, en), `${en} = ${hi}`);
+  }
+  for (const [hi, en] of [['रैड़ाखोल', 'Rampur'], ['बिधाननगर', 'Salt Lake City'], ['तिनसुकिया', 'Digboi']]) {
+    assert.ok(!hindiMatches(hi, en), `${en} ≠ ${hi}`);
+  }
+});
+
+test('transliteration of common place-name patterns', async () => {
+  const { toHindi } = await import('../js/hindi.js');
+  const cases = {
+    Gorakhpur: 'गोरखपुर', Chandrapur: 'चंद्रपुर', Ayodhya: 'अयोध्या', Ujjain: 'उज्जैन', Amritsar: 'अमृतसर', Araria: 'अररिया',
+    'Rāmpur': 'रामपुर', Badrinath: 'बद्रीनाथ', 'Ahmadābād': 'अहमदाबाद', Kishangarh: 'किशनगढ़', Mumbai: 'मुंबई', Chennai: 'चेन्नई',
+    'Kedārnāth': 'केदारनाथ', 'Bhāgalpur': 'भागलपुर', 'New Colony': 'नई कॉलोनी',
+  };
+  for (const [en, hi] of Object.entries(cases)) assert.equal(toHindi(en), hi, en);
+});

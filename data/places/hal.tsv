@@ -1,15 +1,15 @@
-Haldia	2206	8811	559	170695
-Haldwani	2922	7953	551	139497
-Hālīsahar	2293	8842	450	128172
-Hālol	2250	7347	180	64265
-Halvad	2302	7118	147	32024
-Haludbani	2275	8621	584	25360
-Haliyal	1533	7476	59	24238
-Haldaur	2929	7828	575	18686
-Haldībāri	2634	8878	420	14099
-Haldibabi	2634	8878	420	14099	Haldībāri
+Haldia	2206	8811	559	170695		हल्दिया
+Haldwani	2922	7953	551	139497		हल्द्वानी
+Hālīsahar	2293	8842	450	128172		हालिशहर
+Hālol	2250	7347	180	64265		हालोल
+Halvad	2302	7118	147	32024		हलवद
+Haludbani	2275	8621	584	25360		हलुदबनी
+Haliyal	1533	7476	59	24238		हलियाल
+Haldaur	2929	7828	575	18686		हल्दौर
+Haldībāri	2634	8878	420	14099		हल्दीबाड़ी
+Haldibabi	2634	8878	420	14099	Haldībāri	हल्दीबाड़ी
 Haludpukhur	2260	8614	584	10485
-Halwāra	3073	7564	674	9761
+Halwāra	3073	7564	674	9761		हलवारा
 Upar Hali	2610	9151	636	7095
 Hale Dharmapuri	1216	7816	110	4902
 Halamimunmeta	1967	8134	619	332
@@ -17,7 +17,7 @@ Haligonda	1738	7902	129	0	Valigonda
 Halimpur	2632	8556	395	0	Nayāgaon
 Hāloāgāon	2666	9415	451	0	Khātoālgāon
 Jal Halli	1636	7678	50	0	Jālihalli
-Hālvi	1589	7712	236	0
+Hālvi	1589	7712	236	0		हल्विकौतालम्
 Haltugaon	2649	9029	713	0
 Halsūr	1802	7701	170	0	Hulsoor
 Hālsi	2503	8605	589	0
@@ -45,8 +45,8 @@ Halenda	2209	7105	174	0
 Halena	2711	7716	114	0
 Hālekallu	1446	7614	275	0
 Halekal	1446	7614	275	0	Hālekallu
-Halebīd	1322	7599	679	0
-Halebidu	1322	7599	679	0	Halebīd
+Halebīd	1322	7599	679	0		हैलेबिडु
+Halebidu	1322	7599	679	0	Halebīd	हैलेबिडु
 Haldipur	1434	7443	59	0
 Haledapur	1434	7443	59	0	Haldipur
 Haldīkhora	2619	8774	510	0
@@ -271,7 +271,7 @@ Pura Halai	2715	8206	542	0
 Behta Halbal	2706	8217	542	0
 Hālon	2993	7901	612	0
 Halipur	2708	8253	542	0
-Halaur	2717	8265	292	0
+Halaur	2717	8265	292	0		हल्लौर
 Haluwa Hāsanpur	2707	8269	154	0
 Pura Hāla Kahār	2686	8217	542	0
 Hāl	3381	7487	428	0
@@ -724,7 +724,7 @@ Hallikerehundi	1213	7687	69	0
 Halepura	1201	7676	74	0
 Hālebīdu	1544	7723	236	0
 Hālaharivi	1533	7716	236	0
-Hālaharvi	1583	7745	236	0
+Hālaharvi	1583	7745	236	0		हालहर्वि
 Haligeri	1552	7739	236	0
 Halli Bailu	1277	7579	679	0
 Haliur	1276	7578	679	0

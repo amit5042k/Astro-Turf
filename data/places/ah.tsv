@@ -1,25 +1,25 @@
-Ahmedabad	2303	7259	124	6357693
-Ahmadābād	2303	7259	124	6357693	Ahmedabad
-Ahilyanagar	1909	7474	152	367140
-Ahmednagar	1909	7474	152	367140	Ahilyanagar
-Ahmednagar	2360	7297	212	81137	Himatnagar
-Ahmadnagar	2360	7297	212	81137	Himatnagar
-Ahmadpur	1871	7694	158	43936
-Ahmedpur	1871	7694	158	43936	Ahmadpur
-Ahmedgarh	3068	7583	775	31302
-Ahraura	2502	8303	201	25075
-Ahīwāra	2136	8142	286	20384
-Ahor	2537	7278	343	16867
-Ahore	2537	7278	343	16867	Ahor
-Ahwa	2076	7369	169	15004
-Ahiri	1941	8000	135	14609
-Aheri	1941	8000	135	14609	Ahiri
+Ahmedabad	2303	7259	124	6357693		अहमदाबाद
+Ahmadābād	2303	7259	124	6357693	Ahmedabad	अहमदाबाद
+Ahilyanagar	1909	7474	152	367140		अहिल्यानगर
+Ahmednagar	1909	7474	152	367140	Ahilyanagar	अहिल्यानगर
+Ahmednagar	2360	7297	212	81137	Himatnagar	हिम्मतनगर
+Ahmadnagar	2360	7297	212	81137	Himatnagar	हिम्मतनगर
+Ahmadpur	1871	7694	158	43936		अहमदपुर
+Ahmedpur	1871	7694	158	43936	Ahmadpur	अहमदपुर
+Ahmedgarh	3068	7583	775	31302		अहमदगढ़
+Ahraura	2502	8303	201	25075		अहरौरा
+Ahīwāra	2136	8142	286	20384		अहिवारा
+Ahor	2537	7278	343	16867		आहोर
+Ahore	2537	7278	343	16867	Ahor	आहोर
+Ahwa	2076	7369	169	15004		आहवा
+Ahiri	1941	8000	135	14609		अहेरी
+Aheri	1941	8000	135	14609	Ahiri	अहेरी
 Ahīrkheri	2268	7580	660	10165
-Ahmadpur	2383	8769	361	8855
+Ahmadpur	2383	8769	361	8855		अहमदपुर
 Ahmadabad Cantonment	2305	7261	124	7588
 Ahmadpurjat	2727	8084	507	2292
-Pedda Ahobilam	1512	7874	232	0
-Ahobilam	1512	7874	232	0	Pedda Ahobilam
+Pedda Ahobilam	1512	7874	232	0		अहोबिलं
+Ahobilam	1512	7874	232	0	Pedda Ahobilam	अहोबिलं
 Hera Āhlan	3349	7540	148	0
 Fatehābād Ahīr	2793	7668	482	0
 Ahi	3143	7742	680	0	Ani
@@ -37,8 +37,8 @@ Ahiās	2085	8652	376	0
 Aharwān	2961	7555	443	0
 Aharan	2736	7824	546	0
 Ahār	2847	7825	637	0
-Ahār	2459	7372	22	0
-Ahad	2459	7372	22	0	Ahār
+Ahār	2459	7372	22	0		आहर
+Ahad	2459	7372	22	0	Ahār	आहर
 Āhagām	3440	7419	0	0
 Ahadio	3433	7411	0	0
 Gom Ahmadpur	3410	7458	301	0
@@ -48,7 +48,7 @@ Ahweiba	3456	7504	120	0
 Ahmadpur	2963	7741	328	0
 Sarāi Ahmad	2894	7659	719	0	Sarāimand
 Ahmadguda	1750	7862	311	0
-Ahmadipur	1793	7872	466	0
+Ahmadipur	1793	7872	466	0		अहमदीपुर
 Ahmadpur	3012	7685	501	0
 Āhār	2474	7899	481	0
 Semra Ahīr	2401	7877	352	0
@@ -152,7 +152,7 @@ Ahmedgarh	2933	7782	545	0
 Ahmedpur	2897	7706	485	0
 Ahmadshāhpur Padra	2898	7730	477	0
 Ahera	2893	7727	477	0
-Singhawali Ahir	2897	7741	477	0
+Singhawali Ahir	2897	7741	477	0		सिंघावली अहिर
 Nayābās Ahmadnagar	2877	7739	727	0
 Muhammadpur Ahmed Bāghpat	2891	7744	727	0
 Ahmadpur	2826	7743	774	0
@@ -209,7 +209,7 @@ Chimanpur Ahmadpur	2807	7788	543	0
 Aheri	1698	7630	80	0
 Aheri	2131	8137	286	0
 Garhi Ahbaran	2747	7806	670	0
-Barauli Ahīr	2712	7806	546	0
+Barauli Ahīr	2712	7806	546	0		बरोली अहीर
 Khājā Ahmadpalle	1711	7756	210	0
 Garhī Ahbaran	2727	7840	403	0
 Ahaido	2766	7793	543	0
@@ -1914,7 +1914,7 @@ Ahmadpur	2664	7912	290	0
 Aheto	2622	7915	741	0
 Ahalwāru	2687	7947	715	0
 Hasanpur Ahirān	2665	7935	715	0
-Aheripur	2664	7926	290	0
+Aheripur	2664	7926	290	0		अहेरीपुर
 Ahīrbighā	2469	8437	137	0
 Ahirā Bhandari	2459	8444	137	0
 Ahuri	2459	8479	118	0

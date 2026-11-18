@@ -1,18 +1,18 @@
-Krishna	1619	8114	68	192827	Machilīpatnam
-Krishnanagar	2341	8849	528	145926
-Krishnagar	2341	8849	528	145926	Krishnanagar
-Krishnigar	2341	8849	528	145926	Krishnanagar
-Krishnagar City	2341	8849	528	145926	Krishnanagar
-Krishnagiri	1252	7821	223	71323
-Krishnarājāsāgara	1244	7638	74	35805
+Krishna	1619	8114	68	192827	Machilīpatnam	मछलीपट्टनम
+Krishnanagar	2341	8849	528	145926		कृष्णानगर
+Krishnagar	2341	8849	528	145926	Krishnanagar	कृष्णानगर
+Krishnigar	2341	8849	528	145926	Krishnanagar	कृष्णानगर
+Krishnagar City	2341	8849	528	145926	Krishnanagar	कृष्णानगर
+Krishnagiri	1252	7821	223	71323		कृष्णगिरि
+Krishnarājāsāgara	1244	7638	74	35805		कृष्णराजसागर
 Krishnāpuram	915	7652	243	26705
-Krishnarājpet	1267	7649	94	25946
+Krishnarājpet	1267	7649	94	25946		कृष्णराजपेट
 Krālapur	3400	7481	76	13889
 Kral Pora	3400	7481	76	13889	Krālapur
-Krishnasamudram	1079	7880	270	13146
-Krishnarayapuram	1096	7828	445	10792
-Khreuh	3402	7500	428	9851
-Khrew	3402	7500	428	9851	Khreuh
+Krishnasamudram	1079	7880	270	13146		कृष्णसमुद्रम
+Krishnarayapuram	1096	7828	445	10792		कृष्णरायपुरम
+Khreuh	3402	7500	428	9851		खेरउ
+Khrew	3402	7500	428	9851	Khreuh	खेरउ
 Krushnanandapur	2036	8626	456	8974
 Krishnapur	2267	8827	279	7325
 Uttar Krishnapur Part-I	2479	9279	378	6960
@@ -23,8 +23,8 @@ Krishnūr	1894	7748	140	0
 Krishnāyapālem	1649	8056	319	0
 Krishnarājpur	1301	7770	43	0
 Krishnapur	2441	8826	471	0
-Kristnapatam	1429	8012	6	0	Kistnapatam
-Krīshnāpatnam	1429	8012	6	0	Kistnapatam
+Kristnapatam	1429	8012	6	0	Kistnapatam	कृष्णपट्नम
+Krīshnāpatnam	1429	8012	6	0	Kistnapatam	कृष्णपट्नम
 Krishnai	2603	9069	458	0
 Krishnāgiri	1556	7783	236	0
 Krishnadevipeta	1767	8238	227	0
@@ -33,7 +33,7 @@ Krar	3417	7447	301	0
 Krikima	2558	9422	181	0	Kekrima
 Kamal Krishnabāri	2334	9179	385	0
 Garh Krishnaprasād	1963	8526	603	0
-Krishnachandrapur	2212	8843	4	0
+Krishnachandrapur	2212	8843	4	0		कृष्ण चन्द्रपुर
 Krishnarānpur	2201	8828	4	0
 Krālapur	3450	7411	0	0
 Krumhur	3443	7418	0	0
@@ -55,7 +55,7 @@ Krishna Rajendra Rd	1294	7757	43	0
 Kripālpur	2683	7907	290	0
 Krishnapuram	1138	7879	265	0
 Krishnāpuram	909	7735	245	0
-Kalimpong, Kruketi	2706	8846	492	0	Kalimpong, Крукети
+Kalimpong, Kruketi	2706	8846	492	0	Kalimpong, Крукети	कालिंपोंग
 Krushnapalli	2036	8499	548	0
 Kriet	2557	9180	340	0
 Krisal	3438	7472	120	0
@@ -69,7 +69,7 @@ Krishnāpur Mehrābād	2050	7820	67	0
 Krishnapuri	2864	7708	771	0
 Krishnānagar	2865	7719	732	0
 Krishnānagar	2857	7719	778	0
-Krishnānagar	2866	7729	693	0
+Krishnānagar	2866	7729	693	0		कृष्णा नगर
 Krishannagar	2864	7742	727	0
 Krishnāpuri	2885	7759	727	0
 Kruna	3158	7823	83	0
@@ -179,7 +179,7 @@ Kruttivennu	1638	8137	68	0
 Krishnayyapālem	1682	8160	318	0
 Krishnamma Banjar	1722	8052	46	0
 Krishnasāgavaram	1772	8079	60	0
-Krishnārāopālem	1706	8081	46	0
+Krishnārāopālem	1706	8081	46	0		कृष्णारावुपालॆं
 Krishnapuram	1715	8086	46	0
 Kotta Krishnāpuram	1788	8272	227	0
 Krishnāpuram	1789	8273	227	0
@@ -193,7 +193,7 @@ Krishnammapālem	1750	8294	227	0
 Krishnāpūru	1697	8037	46	0
 Krishnāraopālem	1691	8064	104	0
 Kristapātrudiguda	1945	8330	363	0
-Krishnāpuram	1626	8087	68	0
+Krishnāpuram	1626	8087	68	0		कृष्णापुरं
 Krishnāpuran	1820	8307	268	0
 Krishnāpuram	1812	8317	179	0
 Krishnapalle	1879	8342	199	0
@@ -226,7 +226,7 @@ Krishnasulli	1295	7494	55	0
 Krishnāpur	1568	7575	606	0
 Krinshāpur	1496	7546	92	0
 Krishnāpuram	1402	7733	93	0
-Krishnāpuram	1486	7755	100	0
+Krishnāpuram	1486	7755	100	0		कृष्णापुरं
 Krishnāpuram	1450	7761	100	0
 Krishnamareddipalle	1460	7768	100	0
 Krishnagiri	1434	7755	444	0
@@ -257,8 +257,8 @@ Krishnāpura	1332	7640	93	0
 Krishnapur	1297	7575	679	0
 Krishnaraopet	1882	7920	63	0
 Krishnāpura	1277	7621	679	0
-Krishnarājāsāgara	1244	7658	94	0
-Krishnarājāsāgara	1241	7658	94	0
+Krishnarājāsāgara	1244	7658	94	0		कृष्णराजसागर
+Krishnarājāsāgara	1241	7658	94	0		कृष्णराजसागर
 Krishnāpura	1291	7678	94	0
 Krishnāpur	1224	7696	74	0
 Krishnarājapura	1203	7681	74	0
@@ -266,7 +266,7 @@ Krishnāpuram	1597	7774	306	0
 Krishnādoddi	1580	7769	236	0
 Krishnāpuram	1565	7777	236	0
 Krishnāpuram	1531	7793	232	0
-Krishtipādu	1506	7778	100	0
+Krishtipādu	1506	7778	100	0		क्रिष्टिपाडु
 Kristnāpuram	1432	7713	100	0
 Kotta Kristnāpuram	1433	7712	100	0
 Khridri	2738	8051	507	0
@@ -289,9 +289,9 @@ Krishnayahdoddi	1275	7732	626	0
 Krishnapurdoddi	1268	7731	626	0
 Krishnayandoddi	1242	7741	626	0
 Kristnāpuram	1560	7804	236	0
-Krishnagiri	1532	7811	232	0
+Krishnagiri	1532	7811	232	0		कृष्णगिरि
 Krishnāpuram	1530	7842	232	0
-Krishtipādu	1520	7837	232	0
+Krishtipādu	1520	7837	232	0		क्रिष्टिपाडु
 Krishnāpuram	1476	7875	229	0
 Krishnampalle	1492	7864	229	0
 Krishnāpuram	1508	7859	232	0

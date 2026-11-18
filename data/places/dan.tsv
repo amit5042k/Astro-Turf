@@ -1,28 +1,28 @@
-Dhanbad	2380	8643	401	1196214
-Dhanbaid	2380	8643	401	1196214	Dhanbad
-Dhanabad	2380	8643	401	1196214	Dhanbad
-Dānāpur	2564	8505	604	152940	Dinapore
-Dandeli	1527	7462	59	52295
+Dhanbad	2380	8643	401	1196214		धनबाद
+Dhanbaid	2380	8643	401	1196214	Dhanbad	धनबाद
+Dhanabad	2380	8643	401	1196214	Dhanbad	धनबाद
+Dānāpur	2564	8505	604	152940	Dinapore	दानापुर
+Dandeli	1527	7462	59	52295		दांदेली
 Dhanpuri	2319	8156	634	45156
-Dhandhuka	2238	7199	124	32475
-Dhanera	2451	7202	134	29578
-Dhanaura	2896	7826	483	28285
-Fort Dansborg	1103	7985	203	23191	Tharangambadi
-Dhanaula	3028	7557	726	19920
-Danta	2730	7519	491	15594
-Dandei Sīvaram	1279	7982	161	14684	Wālājābād
+Dhandhuka	2238	7199	124	32475		धंधुका
+Dhanera	2451	7202	134	29578		धानेरा
+Dhanaura	2896	7826	483	28285		धनौरा
+Fort Dansborg	1103	7985	203	23191	Tharangambadi	तरंगमबाड़ी
+Dhanaula	3028	7557	726	19920		धनौला
+Danta	2730	7519	491	15594		दांता
+Dandei Sīvaram	1279	7982	161	14684	Wālājābād	वालाजाबाद
 Dantewāra	1889	8135	406	13633
-Dankaur	2835	7756	588	13020
-Dhāna	2375	7886	352	10641
+Dankaur	2835	7756	588	13020		दनकौर
+Dhāna	2375	7886	352	10641		ढाना
 Dhanegaon	1913	7734	140	9809
 Dandi	1980	7277	192	8942
 Dhanwār	2441	8598	452	8777
 Dāndedih	2416	8633	452	7769
 Dandidih	2416	8633	452	7769	Dāndedih
-Khan Pur Dhani	2871	7728	791	6994
+Khan Pur Dhani	2871	7728	791	6994		खान पुर धानी
 Dhānal	2115	7954	404	6339
 Pub - Dhaniram Pather	2601	9287	706	6280
-Danguwapasi	2217	8559	287	4606
+Danguwapasi	2217	8559	287	4606		दांगुवापसी
 Danara	2095	8510	414	4144
 Dhanda	3112	7575	369	1612
 Chānt Dāng	2866	7986	683	1437	Baldeopur
@@ -30,22 +30,22 @@ Shyāmbhar ki Dhani	2704	7030	217	0
 Sādhu ki Dhāni	2548	7202	285	0
 Raikaon ki Dhāni	2595	7310	273	0
 Patwa Dangar	2934	7945	551	0	Patwa Dunga
-Dhāni Pacheri	2815	7593	300	0
+Dhāni Pacheri	2815	7593	300	0		पचेरी
 Nīmia Dhāna	2219	7761	462	0	Nimiya
-Lāl Dhāng	2985	7832	596	0
+Lāl Dhāng	2985	7832	596	0		लालढांग
 Khokha Ki Dhāni	2535	7202	343	0
 Dhandaparti	1773	8330	81	0	Dondaparti
 Dholerao ki Dhāni	2595	7337	273	0
 Dhanyacharanbāri	2389	9196	695	0
 Dhanwār	2226	8050	144	0
 Dhanwāhi	2295	8016	480	0
-Dhanwāda	1664	7766	283	0
-Dhanushkodi	918	7941	5	0
+Dhanwāda	1664	7766	283	0		धन्वाड
+Dhanushkodi	918	7941	5	0		धनुषकोडी
 Dhanūr	2996	7351	374	0
 Dhantori	3008	7688	501	0
 Dhantoli	2113	7908	141	0
 Dhāntola	2619	8810	610	0
-Dhansura	2335	7321	125	0
+Dhansura	2335	7321	125	0		धनसुरा
 Dhānsoi	2536	8403	620	0
 Dhansirimukh	2670	9362	740	0
 Dhansir	2156	8273	635	0
@@ -111,7 +111,7 @@ Dhandāsa	2856	7687	763	0	Dhānsa
 Dhandāmunda	2080	8293	394	0
 Dhānd	2707	7594	121	0
 Dhanauri	2978	7618	638	0
-Dhānaulti	3043	7825	500	0
+Dhānaulti	3043	7825	500	0		धनौल्टी
 Dhānasutha	2328	7531	568	0
 Dhanāseri	1765	7747	569	0
 Dhanasari Bidar	1765	7747	569	0	Dhanāseri
@@ -119,7 +119,7 @@ Dhanasar	2918	7434	486	0
 Dhaneriya	2653	7408	430	0
 Dhanaria	2653	7408	430	0	Dhaneriya
 Dhānāpur	2546	8335	724	0
-Dhanāna	2894	7616	431	0
+Dhanāna	2894	7616	431	0		धनाना
 Dhānāna	2670	7019	217	0
 Dhanaj Buzurg	2066	7763	128	0
 Dhanāj	2066	7763	128	0	Dhanaj Buzurg
@@ -131,20 +131,20 @@ Dāntrai	2471	7252	23	0
 Dāntra	2552	7502	309	0
 Dāntivāda	2434	7234	134	0
 Dāntil	2766	7601	121	0
-Dāntan	2195	8728	677	0
+Dāntan	2195	8728	677	0		दांतन
 Dantāli	2309	7314	167	0
-Dānta	2419	7277	134	0
-Danta-Bhavangadh	2419	7277	134	0	Dānta
+Dānta	2419	7277	134	0		दांता
+Danta-Bhavangadh	2419	7277	134	0	Dānta	दांता
 Danli	2863	9572	427	0
-Dankhar Gömpa	3209	7820	425	0
-Dankhar Goempa	3209	7820	425	0	Dankhar Gömpa
-Dankhar	3209	7820	425	0	Dankhar Gömpa
+Dankhar Gömpa	3209	7820	425	0		धनकर गोम्पा
+Dankhar Goempa	3209	7820	425	0	Dankhar Gömpa	धनकर गोम्पा
+Dankhar	3209	7820	425	0	Dankhar Gömpa	धनकर गोम्पा
 Dānītolā	2258	8071	480	0
 Dānishpet	1186	7813	51	0
 Daniāwān	2544	8530	604	0
 Dangusurada	1960	8365	363	0
 Dangshirvāde	2092	7402	190	0
-Dāngri	2654	7139	217	0
+Dāngri	2654	7139	217	0		डांगरी
 Dangrawari	2072	7093	776	0
 Dangarvadi	2072	7093	776	0	Dangrawari
 Dangrāha	2545	8710	613	0
@@ -157,8 +157,8 @@ Dangbal	2087	8322	394	0
 Dangāshilbhata	1925	8298	363	0
 Dāngarwa	2338	7246	164	0
 Dāngarthal	2638	7578	313	0
-Dangar Khera	3021	7417	3	0
-Danger Khera	3021	7417	3	0	Dangar Khera
+Dangar Khera	3021	7417	3	0		डंगर खेड़ा
+Danger Khera	3021	7417	3	0	Dangar Khera	डंगर खेड़ा
 Dangarh	2070	8080	644	0
 Dangādiha	2150	8632	382	0
 Danga	3319	7667	34	0
@@ -173,7 +173,7 @@ Dandpur	3358	7538	148	0
 Dāndma	2857	7590	781	0
 Dandinahirehālu	1501	7683	100	0
 Dandiganahalli	1297	7628	679	0
-Dandi	2133	7262	139	0
+Dandi	2133	7262	139	0		दांडी
 Dandhara	2931	7462	486	0
 Dandhera	2931	7462	486	0	Dandhara
 Dāndepāda	1958	7273	192	0
@@ -976,7 +976,7 @@ Danewati	3130	7756	479	0
 Dhānsha	3131	7763	479	0
 Dhaneri	3128	7754	479	0
 Dansa	3142	7767	479	0
-Dangari	3111	7752	479	0
+Dangari	3111	7752	479	0		डांगरी
 Dhanroti	3113	7752	479	0
 Danghāri	3092	7702	628	0
 Dāngri	3093	7708	628	0
@@ -1336,7 +1336,7 @@ Dānāpur	2069	7801	133	0
 Dhānora	2035	7817	67	0
 Dāntal	2904	7769	700	0
 Dhanju	2908	7774	700	0
-Dhanpuri	2324	8145	517	0
+Dhanpuri	2324	8145	517	0		धनपुरी
 Dhansuri	2530	7629	371	0
 Dāntardo Kalān	2583	7659	335	0
 Dhanwau	2452	7279	23	0
@@ -1377,7 +1377,7 @@ Dangiān	3074	7539	674	0
 Ganja Dhanaula	3032	7551	726	0
 Dān Singhwāla	3030	7560	726	0
 Dhandiwāl	3034	7572	593	0
-Dandhera	2984	7790	596	0
+Dandhera	2984	7790	596	0		ढंडेरा
 Dandheri Khwājgīpur	2987	7796	596	0
 Dhanaura	2995	7796	596	0
 Dhanauri	2994	7796	596	0
@@ -1803,7 +1803,7 @@ Dhansula	2663	7830	478	0
 Nagla Dhanna	2719	7781	546	0
 Dhanauli	2716	7778	546	0
 Dhangrauli	2725	7797	546	0
-Dhanauli	2714	7796	546	0
+Dhanauli	2714	7796	546	0		धनौली
 Nagla Dhanauli	2713	7796	546	0
 Dhanaura	2215	7971	368	0
 Dhankarpur	2698	7895	464	0
@@ -2440,7 +2440,7 @@ Brahamanān ki Dhāni	2867	7599	431	0
 Shankar ki Dhāni	2867	7599	431	0	Brahamanān ki Dhāni
 Dhāngar	2866	7592	431	0
 Kolar ki Dhāni	2868	7582	431	0
-Dhāb Dhāni	2864	7588	431	0
+Dhāb Dhāni	2864	7588	431	0		ढाब ढाणी
 Lachhman ki Dhāni	2859	7580	431	0
 Thākunu ki Dhāni	2855	7589	781	0
 Toda ki Dhāni	2847	7580	431	0
@@ -2754,7 +2754,7 @@ Dandsia Khurd	2700	8190	542	0
 Dhanauli	2686	8196	542	0
 Dhanauli Khurd	2686	8195	542	0
 Pura Dhana Tiwāri	2696	8193	542	0
-Dhānipur	2677	8197	629	0
+Dhānipur	2677	8197	629	0		धन्नीपुर
 Dhanīpur	2818	7852	646	0
 Dhandumara	2818	7856	646	0
 Dhandwāra	2825	7860	646	0
@@ -3443,7 +3443,7 @@ Dhāndal	3132	7541	565	0
 Chaudhrion ki Dhāni	2561	7361	273	0
 Dewa ki Dhāni	2561	7357	273	0
 Dānewāl	3101	7538	369	0
-Dhandowāl	3108	7535	369	0
+Dhandowāl	3108	7535	369	0		ढंडोवाल
 Dhāni	2580	7386	273	0
 Dhāni	2578	7388	273	0
 Dhanegaon	2128	8058	171	0
@@ -3787,7 +3787,7 @@ Dhanauri Khurd	2895	7824	483	0
 Dhanigaon	2148	8329	635	0
 Dānighāti	2147	8328	635	0
 Dhaniāoli	2862	7811	637	0
-Dānpur	2819	7821	637	0
+Dānpur	2819	7821	637	0		दानपुर
 Dāngarh	2816	7821	637	0
 Dāni	2813	7807	637	0
 Dhankora	2805	7824	543	0
@@ -3870,7 +3870,7 @@ Dandagūda	1826	8293	268	0
 Dangadigunna	1818	8281	268	0
 Danselivalasa	1818	8293	268	0
 Dankaput	1816	8293	268	0
-Dandigānapūdi	1651	8104	68	0
+Dandigānapūdi	1651	8104	68	0		दंडिगनपूडि
 Dhanmūdi	1656	8120	24	0
 Dandisima	1748	8232	269	0
 Dangāra	1687	8158	318	0
@@ -4120,7 +4120,7 @@ Dhanyāri	2979	7961	429	0
 Dānudhār	2988	7971	722	0
 Danra	2993	7974	722	0
 Dānk	2998	7967	722	0
-Dhanau	2723	8426	476	0
+Dhanau	2723	8426	476	0		धनाऊ
 Dhanarpa	2717	8431	476	0
 Dhankutwa	2712	8437	476	0
 Dāni	2633	7469	446	0
@@ -4816,11 +4816,11 @@ Dhanagur	1238	7716	94	0
 Danagēri	1221	7714	69	0
 Dandankattai	1226	7726	69	0
 Dandanpuram	1585	7801	236	0
-Dānavulapādu	1479	7844	229	0
+Dānavulapādu	1479	7844	229	0		दानवुलपाडु
 Dantlavānipenta	1503	7861	232	0
-Dhannavāda	1498	7823	229	0
+Dhannavāda	1498	7823	229	0		धन्नवाड
 Dandupalle	1401	7878	195	0
-Danduvāripalle	1384	7815	444	0
+Danduvāripalle	1384	7815	444	0		दंडुवारिपल्लॆ
 Dhanamettenahalli	1344	7803	438	0
 Dandupālya	1341	7813	438	0
 Danamatlihalli	1317	7806	47	0
@@ -4838,7 +4838,7 @@ Dandapalle	1323	7869	214	0
 Dānayyagārivūru	1304	7852	214	0
 Dhanghata	2573	8559	716	0
 Dānavahalli	1290	7805	47	0
-Dhandakuppam	1253	7823	223	0
+Dhandakuppam	1253	7823	223	0		धंदाकुप्पम
 Dandukāranhalli	1235	7810	110	0
 Dandukāranahalli	1203	7809	110	0
 Dannōjikottam	1276	7834	214	0

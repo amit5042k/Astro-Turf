@@ -1,16 +1,16 @@
-Muktsar	3047	7452	615	116747
-Mukandpur	2874	7718	732	57135
+Muktsar	3047	7452	615	116747		मुक्तसर
+Mukandpur	2874	7718	732	57135		मुकन्द पुर
 Mūkondapalli	1275	7780	223	39245
-Mukeriān	3195	7562	296	29841
-Mukher	1871	7737	140	28647
-Mukandgarh	2795	7522	300	18469
-Mukkūdal	874	7752	191	14983
-Mukāsi Pidāriyūr	1120	7760	211	14143
+Mukeriān	3195	7562	296	29841		मुकेरियाँ
+Mukher	1871	7737	140	28647		मुखेड़
+Mukandgarh	2795	7522	300	18469		मुकुंदगढ़
+Mukkūdal	874	7752	191	14983		मुक्कूडल
+Mukāsi Pidāriyūr	1120	7760	211	14143		मुकसिपिडारियूर
 Mukhiguda	1944	8285	284	6155
-Jawāla Mukhi	3187	7632	38	5361
+Jawāla Mukhi	3187	7632	38	5361		ज्वालामुखी
 Mukarramatpur	2886	7757	727	5024	Sikhera
-Mukmelpur	2879	7716	769	4931
-Mukhmerpur	2879	7716	769	4931	Mukmelpur
+Mukmelpur	2879	7716	769	4931		मुखमेल पुर
+Mukhmerpur	2879	7716	769	4931	Mukmelpur	मुखमेल पुर
 Manakkudi Mukkuvartura	809	7748	453	4083
 Mukutban	1981	7885	67	0
 Mukuria	2563	8789	625	0
@@ -21,7 +21,7 @@ Mukki	2807	9420	557	0
 Mukkad	893	7656	549	0
 Mukhrāwān	2532	8385	749	0
 Mukhīm	3058	7847	500	0
-Mukhalingam	1860	8396	472	0
+Mukhalingam	1860	8396	472	0		मुखलिंगम
 Mukhāchariduār	2346	9185	695	0
 Mukhāb	2623	7150	285	0	Mokhāb
 Mukdega	2234	8368	439	0
@@ -50,7 +50,7 @@ Mukhr	3268	7477	581	0	Mukhra
 Mukandpura	2805	7600	705	0
 Mukunūru	1721	7875	62	0
 Mukhdwāram	1324	8032	228	0
-Mukteshwar	2947	7965	326	0
+Mukteshwar	2947	7965	326	0		मुक्तेश्वर
 Mukhtyāryingh ka Plot	3006	7654	501	0
 Mukhtyārsingh ka Plot	3006	7654	501	0	Mukhtyāryingh ka Plot
 Mukandpur	3054	7686	632	0
@@ -62,8 +62,8 @@ Mukandi ka Nagla	2681	7901	290	0
 Mukandpura	2688	7566	121	0
 Muktāpur	2642	9174	636	0
 Mukīmpur	2663	8204	629	0
-Mukkamalla	1516	7826	232	0
-Mukkamella	1516	7826	232	0	Mukkamalla
+Mukkamalla	1516	7826	232	0		मुक्कामल्ल
+Mukkamella	1516	7826	232	0	Mukkamalla	मुक्कामल्ल
 Mukhla	2548	9222	165	0
 Mukta	2181	8279	402	0
 Mukundapur	2284	8844	450	0
@@ -197,7 +197,7 @@ Mukārampur	2399	7834	352	0
 Muktāpur	1971	7861	282	0
 Mukhiāni	2708	7907	464	0
 Nagla Mukand	2708	7915	464	0
-Mukundpur	2441	8125	324	0
+Mukundpur	2441	8125	324	0		मुकुंदपुर
 Mukārāmpur	2034	7860	67	0
 Mukandīpur	2577	8247	32	0
 Newāda Mukhlispur	2586	8246	32	0
@@ -354,8 +354,8 @@ Mukkiputtu	1830	8245	268	0
 Chinna Mukkiputtu	1832	8250	268	0
 Mukkiputtu	1833	8249	268	0
 Mukiput	1861	8254	316	0
-Mukkollupādu	1684	8087	24	0
-Mukkapādu	1649	8090	68	0
+Mukkollupādu	1684	8087	24	0		मुक्कॊल्लुपाडु
+Mukkapādu	1649	8090	68	0		मुक्कपाडु
 Mukundapuram	1923	8356	363	0
 Mukram	1831	8118	599	0
 Mukkidibhadra	1918	8381	363	0
@@ -394,7 +394,7 @@ Mukkacheri	1281	7485	55	0
 Mukarodu	1291	7487	55	0
 Mukkal	1512	7501	682	0
 MūkBasrikatti	1492	7521	92	0
-Muktāpuram	1445	7763	444	0
+Muktāpuram	1445	7763	444	0		मुक्तापुरं
 Muktāpuram	1439	7791	444	0
 Mukkadammanahalli	1379	7708	444	0
 Mukkadigutta	1343	7760	389	0
@@ -416,7 +416,7 @@ Mukhakāhi	2563	8619	530	0
 Mukatraopet	1886	7920	63	0
 Mukundūr	1283	7615	679	0
 Mūkahalli	1200	7693	69	0
-Mukkela	1540	7763	236	0
+Mukkela	1540	7763	236	0		मुक्कॆल्ल
 Mukkie	1179	7584	242	0
 Mukatpur	2689	7941	715	0
 Mukhra	2695	7945	570	0
@@ -452,7 +452,7 @@ Mukkoottuthara	945	7687	271	0
 Mukarombedoddi	1255	7719	626	0
 Mukundāpuram	1516	7861	232	0
 Mukkabalapalle	1493	7821	229	0
-Mukkandlavārikottapalle	1404	7801	444	0
+Mukkandlavārikottapalle	1404	7801	444	0		मुक्कंड्लवारिकॊत्तपल्लॆ
 Mukkallavāndlapalle	1373	7831	195	0
 Mukhtārpur	2560	8550	716	0
 Mukkālapalli	1277	7797	223	0
@@ -577,6 +577,6 @@ Kāripahri Mukdar	2475	8600	452	0
 Mukhmandal	2611	8672	426	0
 Mukteshwar	2156	8436	567	0
 Mukurguda	2024	8448	387	0
-Muktainagar	2105	7606	78	0
+Muktainagar	2105	7606	78	0		मुक्ताईनगर
 Mukto	2752	9191	531	0
 Muqām	3450	7429	0	0

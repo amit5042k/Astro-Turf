@@ -1,7 +1,7 @@
-Hyderabad AP	1738	7846	424	6993262	Hyderabad
-Āppukkudal	1147	7758	211	10610
-Appakudal	1147	7758	211	10610	Āppukkudal
-Apra	3109	7588	369	6258
+Hyderabad AP	1738	7846	424	6993262	Hyderabad	हैदराबाद
+Āppukkudal	1147	7758	211	10610		आप्पकुडल
+Appakudal	1147	7758	211	10610	Āppukkudal	आप्पकुडल
+Apra	3109	7588	369	6258		अपरा
 Āpta	1885	7313	17	4007
 Apte	1885	7313	17	4007	Āpta
 Venkatādri Appārāopuram	1677	8147	318	976
@@ -9,7 +9,7 @@ Venkatādri Appārāopuram	1677	8147	318	976
 Aprünyi	2859	9584	427	0
 Apruenyi	2859	9584	427	0	Aprünyi
 Aprānli	2851	9586	427	0
-Appikatla	1597	8051	220	0
+Appikatla	1597	8051	220	0		अप्पिकाटला
 Appanapalli	1678	7787	317	0
 Appananallūr	1103	7839	270	0
 Appavoo Nagar	1303	8023	204	0
@@ -86,7 +86,7 @@ Apdia Purwa	2695	8175	542	0
 Apparāopālem	1680	8118	24	0
 Appalrājupeta	1755	8225	268	0
 Appārāopet	1672	8105	24	0
-Appāpuram	1652	8118	24	0
+Appāpuram	1652	8118	24	0		अप्पापुरं
 Appannapālem	1728	8210	269	0
 Appārāopeta	1679	8139	24	0
 Appārāopeta	1663	8139	318	0
@@ -106,7 +106,7 @@ Appāpuram	1616	8014	10	0
 Appāpuram	1602	8043	319	0
 Aparuputtu	1848	8224	109	0
 Appanapālem	1658	8065	104	0
-Appikatla	1641	8092	68	0
+Appikatla	1641	8092	68	0		अप्पिकट्ल
 Appaldua	1931	8400	363	0
 Appalarājupeta	1854	8329	179	0
 Appayyapeta	1856	8336	179	0
@@ -152,7 +152,7 @@ Appenahalli	1376	7716	93	0
 Āpanahalli	1367	7708	93	0
 Appiahnapālya	1345	7715	93	0
 Apapanhalli	1320	7712	93	0
-Appalakunta	1375	7748	444	0
+Appalakunta	1375	7748	444	0		अप्पालाकुंटा
 Appannipālya	1364	7726	93	0
 Apgondanhalli	1326	7731	389	0
 Appegowdanpālya	1333	7737	389	0
@@ -182,7 +182,7 @@ Appanahalli	1280	7656	94	0
 Appenahalli	1297	7634	679	0
 Aputvhālvādi	1596	7410	57	0
 Appasethali	1271	7588	193	0
-Appecherla	1508	7775	100	0
+Appecherla	1508	7775	100	0		अप्पेचॆर्ल
 Appakuntanaikangudem	1903	7902	63	0
 Apnāpet	1864	7939	748	0
 Apgāl	1429	7454	59	0
@@ -197,7 +197,7 @@ Appagaripalli	1375	7794	438	0
 Appegowdanahalli	1337	7782	438	0
 Apgondanhalli	1244	7707	94	0
 Appajigowdandoddi	1263	7737	626	0
-Appalāpuram	1534	7831	232	0
+Appalāpuram	1534	7831	232	0		अप्पलापुरं
 Appanapalle	1529	7861	232	0
 Appanapalle	1469	7878	229	0
 Apparājupalle	1443	7876	229	0
@@ -252,7 +252,7 @@ Appantāngal	1274	7930	197	0
 Appanadal	1201	7927	202	0
 Appampattu	1221	7941	202	0
 Appanāyakankandigai	1299	7990	161	0
-Āppūr	1280	7997	247	0
+Āppūr	1280	7997	247	0		आप्पूर
 Appayanallūr	1270	7978	161	0
 Apumandaikuppam	1212	7992	202	0
 Appatu	1170	7617	242	0
@@ -301,6 +301,6 @@ Appanāyakkanūr	1125	7805	231	0
 Appanāyakkanūr	1128	7809	231	0
 Appanāyakkanpatti	1144	7821	231	0
 Appanāyakkanūr	1122	7806	231	0
-Appājipeta	1491	7749	100	0
+Appājipeta	1491	7749	100	0		अप्पाजीपेट
 Aparbera	2190	8567	293	0
 Apābiru	2044	8405	387	0

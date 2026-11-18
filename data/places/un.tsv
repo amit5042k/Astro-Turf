@@ -1,19 +1,19 @@
-Unnāo	2655	8049	312	161671
-Una	2082	7104	136	58528
-Unjha	2380	7239	164	57108
-Ungul	2084	8510	414	44386	Angul
-Unchagao	1670	7427	57	31238
-Unchagoa	1670	7427	57	31238	Unchagao
+Unnāo	2655	8049	312	161671		उन्नाव
+Una	2082	7104	136	58528		उना
+Unjha	2380	7239	164	57108		उंझा
+Ungul	2084	8510	414	44386	Angul	अनुगुल
+Unchagao	1670	7427	57	31238		उचगाँव
+Unchagoa	1670	7427	57	31238	Unchagao	उचगाँव
 Un	2389	7177	134	30671
 Unamaucheri	1286	8011	247	29122
-Unnamalaikadai	830	7724	453	23656
-Una	3146	7627	327	18722
+Unnamalaikadai	830	7724	453	23656		उन्नामलईकडई
+Una	3146	7627	327	18722		उना
 Unchahra	2438	8078	324	18442
 Undera	2235	7313	159	16902
-Unhel	2334	7556	314	15837
-Ūn	2958	7726	328	15007
-Ungutūru	1682	8142	24	14280
-Uniāra	2592	7603	313	12551
+Unhel	2334	7556	314	15837		उन्हेल
+Ūn	2958	7726	328	15007		ऊन
+Ungutūru	1682	8142	24	14280		ुंगुटुरु
+Uniāra	2592	7603	313	12551		उनियारा
 Uniāra	2615	7522	313	11441
 Uniyāra Khurd	2615	7522	313	11441	Uniāra
 Ūncha Sawāna	2962	7700	457	8922
@@ -26,13 +26,13 @@ Unurāla	2203	7031	145	0
 Untāla	2468	7400	22	0
 Unmaru	3470	7727	2	0
 Ungr	2649	9466	315	0
-Ungma	2630	9450	315	0
+Ungma	2630	9450	315	0		उंगमा
 Undu	2633	7167	285	0
 Undragedda	1828	8263	316	0
 Undithal	2458	7349	22	0
 Undīrgaon	1968	7471	152	0
 Undiāl	1643	7776	317	0
-Undi	1659	8146	318	0
+Undi	1659	8146	318	0		ुंडी
 Undavalli	1650	8059	319	0
 Undavalle	1650	8059	319	0	Undavalli
 Undangaon	2046	7566	113	0
@@ -53,7 +53,7 @@ Un	2182	7546	329	0
 Rāni Unchegaon	1964	7596	53	0
 Unchegaon	1964	7596	53	0	Rāni Unchegaon
 Nagar Untāri	2428	8349	743	0
-Ūnchāhār	2591	8129	681	0	Mustafābād
+Ūnchāhār	2591	8129	681	0	Mustafābād	ऊँचाहार
 Unchpadra	2667	7196	217	0
 Untheri	3000	7696	501	0
 Unaspur	2988	7695	457	0
@@ -335,7 +335,7 @@ Unūi	3224	7589	38	0
 Ūntala	2939	7685	298	0
 Untāvad	2157	7447	186	0
 Undarthal	2530	7341	273	0
-Unchi Bassi	3187	7565	296	0
+Unchi Bassi	3187	7565	296	0		ऊँची बस्सी
 Undartola	2145	8053	144	0
 Undwār Kalā	3184	7596	650	0
 Unkārpura	2319	7549	314	0
@@ -379,11 +379,11 @@ Unchgāon	2750	8142	294	0
 Undwa	2606	8132	681	0
 Pura Unkha Harpar	2602	8134	681	0
 Unchwa	2650	8172	662	0
-Unikili	1653	8111	24	0
+Unikili	1653	8111	24	0		उनिकिलि
 Undūru	1704	8220	269	0
 Ūnagatla	1696	8166	87	0
 Unakaramilli	1693	8162	87	0
-Undrājavaram	1679	8170	87	0
+Undrājavaram	1679	8170	87	0		ुंदराजवाराम
 Ungo	2608	8426	639	0
 Ungo	2607	8426	639	0
 Unnava	1618	8028	10	0
@@ -395,7 +395,7 @@ Pedda Uncharangi	1820	8246	268	0
 Unchabi	1805	8245	268	0
 Undasingi	1804	8256	268	0
 Unchapilli	1809	8261	268	0
-Undrapūdi	1628	8097	68	0
+Undrapūdi	1628	8097	68	0		उंड्रापूडि
 Ungabhadra	1883	8342	199	0
 Ūndrakonda	1810	8165	109	0
 Unukūru	1853	8366	179	0
@@ -484,7 +484,7 @@ Undavādi	1241	7656	74	0
 Unnenahalli	1284	7628	679	0
 Ungara	1281	7696	93	0
 Ungarālagundla	1537	7782	232	0
-Undabanda	1496	7719	100	0
+Undabanda	1496	7719	100	0		उंडबंड
 Untāpathal	2478	8613	524	0
 Undera	1879	7930	748	0
 Undāra	2308	7369	180	0
@@ -588,5 +588,5 @@ Unchaunr	2496	8588	524	0
 Undaro	2421	8620	452	0
 Unchabāli	2151	8446	712	0
 Unāmpāra	2017	8430	387	0
-Unguturu	1653	8088	68	0
+Unguturu	1653	8088	68	0		उंगुटूरु
 Unjividudi	1048	7923	198	0

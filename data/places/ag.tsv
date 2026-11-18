@@ -1,8 +1,8 @@
-Agra	2718	7802	546	1430055
-Agartala	2384	9128	744	400004
-Pudupalayam Agraharam	1137	7776	231	40140	Pallipalayam
-Pallipalayam Agraharam	1137	7776	231	40140	Pallipalayam
-Agar	2371	7602	347	37917
+Agra	2718	7802	546	1430055		आगरा
+Agartala	2384	9128	744	400004		अगरतला
+Pudupalayam Agraharam	1137	7776	231	40140	Pallipalayam	पल्लिपालयम
+Pallipalayam Agraharam	1137	7776	231	40140	Pallipalayam	पल्लिपालयम
+Agar	2371	7602	347	37917		आगर
 Brāhmana Periya Agrahāram	1137	7771	211	24798
 koppana Agrahara	1286	7767	43	20622
 Agaram	1044	7795	187	15610
@@ -10,9 +10,9 @@ Talaināyar Agrahāram	1056	7977	239	12798
 Puthur Agraharam	1163	7811	51	11173	Pudūr
 Annāl Agrahāram	1095	7937	264	11129
 Agrahāra Sāmakkulam	1115	7701	156	10289
-Agaram	1311	8023	204	10263
-Agastīswaram	810	7752	453	9717
-Agatti	1084	7218	780	7700
+Agaram	1311	8023	204	10263		पुतगरम
+Agastīswaram	810	7752	453	9717		अगस्तीश्वरम
+Agatti	1084	7218	780	7700		आगाट्टी द्वीप
 Agastinuagan	1937	8503	440	6411
 Pugalūr Agrahāram	1109	7801	445	5556
 A.Gokavaram	1684	8135	24	4673	Akkupalle Gokavaram
@@ -24,7 +24,7 @@ Kotta Agrahāram	1833	8412	472	0
 Agraharam	1833	8412	472	0	Kotta Agrahāram
 Konen Agrahār	1296	7766	43	0
 Agra Belanganj	2719	7802	546	0	Belanganj
-Aghatapur	2459	7372	22	0	Ahār
+Aghatapur	2459	7372	22	0	Ahār	आहर
 Agva	1739	7352	234	0
 Agucha	2582	7473	309	0
 Aguncha	2582	7473	309	0	Agucha
@@ -34,7 +34,7 @@ Agoada	1550	7377	188	0	Aguada
 Aguada Fort	1550	7377	188	0	Aguada
 Agsūr	1468	7438	59	0
 Āgrong	2660	9073	357	0
-Agroha	2933	7563	339	0
+Agroha	2933	7563	339	0		अग्रोहा
 Agria	2525	7393	572	0
 Agrāwa	2495	7154	343	0
 Agral	2293	7458	348	0
@@ -69,11 +69,11 @@ Agarkhed	1731	7606	80	0
 Āgargaon	2109	7948	141	0
 Agaram	1282	7889	189	0
 Agar	2426	7417	22	0
-Agar	2203	7366	254	0
+Agar	2203	7366	254	0		अगार राजवाड़ा
 Āgamani	2620	8977	561	0
 Āgalpur	2101	8341	394	0
 Āgaibani	2231	8694	665	0
-Agacaim	1542	7390	188	0
+Agacaim	1542	7390	188	0		आगसईम
 Agrāt	3330	7425	504	0
 Agar	3410	7460	301	0
 Kotta Āgiryāl	1702	7806	62	0
@@ -98,7 +98,7 @@ Agnihotri	2667	7999	671	0
 Agrophathal	2576	9090	42	0
 Chutmāng Āgimpāl	2530	9077	737	0
 Agrahāram	1783	8286	227	0
-Agumbe	1352	7503	257	0
+Agumbe	1352	7503	257	0		अगुम्बे
 Sakhri Agar	1737	7322	234	0
 Agara Ālambādi	1144	7947	178	0
 Āgarjnari	2011	7933	111	0
@@ -138,7 +138,7 @@ Agwār Rāhilān	3076	7547	674	0
 Agwār Dāla	3077	7546	674	0
 Agāhpur	2856	7736	588	0
 Agraula	2879	7729	727	0
-Agwānpur	2849	7734	774	0
+Agwānpur	2849	7734	774	0		अगवानपुर
 Aghera	2891	7755	700	0
 Agwāna	2853	7773	637	0
 Agarpura	2534	7473	309	0
@@ -264,7 +264,7 @@ Aghārtola	2431	8142	672	0
 Agdāl	2432	8143	672	0
 Agraunda	2540	8093	643	0
 Agrāsi	2770	7941	470	0
-Agraura	2585	8252	32	0
+Agraura	2585	8252	32	0		अगरौरा
 Agod	2379	7994	351	0
 Aghauli	2514	8260	201	0
 Aghwār	2511	8265	201	0
@@ -488,7 +488,7 @@ Agrahāram	1732	8252	269	0
 Dosalapādu Agrahāram	1743	8264	227	0
 Pettugollapalle Agrahāram	1744	8271	227	0
 Chittibhatla Agrahāram	1742	8270	227	0
-Upmāka Agrahāram	1740	8272	227	0
+Upmāka Agrahāram	1740	8272	227	0		उपमाका अग्रहारम
 Bodugollam Agrahāram	1743	8270	227	0
 Peddapūdi Agrahāram	1773	8283	227	0
 Kūrmanādhapuram Agrahāram	1791	8278	227	0
@@ -508,7 +508,7 @@ Edubādu Agrahāram	1604	8025	220	0
 Gollapūdi Agrahāram	1602	8035	220	0
 Aghanpur	1909	8200	600	0
 Āgūru	1927	8339	363	0
-Aginiparru	1627	8088	68	0
+Aginiparru	1627	8088	68	0		अगिनिपर्रु
 Aginiparru Malepalle	1628	8089	68	0
 Aginiparru Madigegūdem	1628	8088	68	0
 Māmillapalle Agrahāram	1626	8091	68	0
@@ -714,7 +714,7 @@ Agsanmatti	1488	7549	92	0
 Agadi	1482	7547	92	0
 Agsanhalli	1467	7548	92	0
 Kondakindi Agrahāram	1468	7774	100	0
-Agrahāram	1425	7795	444	0
+Agrahāram	1425	7795	444	0		अग्रहारं
 Agali	1378	7705	444	0
 Agrahāram	1388	7709	444	0
 Agrahāra	1350	7720	93	0
@@ -773,7 +773,7 @@ Agasanakatte	1444	7603	275	0
 Agrahāra	1408	7613	255	0
 Agrahāram	1490	7648	44	0
 Agrahāram	1476	7638	366	0
-Āgāpur	2561	8595	530	0
+Āgāpur	2561	8595	530	0		आगापुर
 Agasanakal	1422	7639	255	0
 Agasāladibbadahalli	1484	7651	366	0
 Agrahāra	1414	7691	444	0
@@ -809,13 +809,13 @@ Agatahalli	1252	7678	94	0
 Agasthyapura	1227	7684	74	0
 Mūdla Agrahāra	1206	7693	69	0
 Agasanūru	1595	7721	236	0
-Agasaladinne	1581	7708	236	0
+Agasaladinne	1581	7708	236	0		अगसालदिन्ने
 Agasanūru	1567	7706	44	0
 Agrahāram	1537	7721	236	0
 Bandamīda Agrahāram	1564	7747	236	0
 Agrahāram	1546	7747	236	0
-Maddikera Agrahāram	1526	7744	236	0
-Āgaveli	1557	7775	236	0
+Maddikera Agrahāram	1526	7744	236	0		मद्दिकेर अग्रहारं
+Āgaveli	1557	7775	236	0		अगवेलि
 Aguānpur	2591	8656	661	0
 Agwānthān	2586	8663	661	0
 Agrāhan	2555	8668	759	0
@@ -895,7 +895,7 @@ Nellumāru Agrahāram	1256	7762	223	0
 Avarehallī Agrahāram	1257	7762	223	0
 Agalakottai	1250	7768	223	0
 Agrahāram	1547	7859	232	0
-Agrahāram	1460	7816	229	0
+Agrahāram	1460	7816	229	0		अग्रहारं
 Darbhavāri Agrahāram	1465	7878	229	0
 Agrahāram	1472	7894	229	0
 Agrahāram	1443	7882	229	0
@@ -910,7 +910,7 @@ Agara	1301	7805	47	0
 Agrahāra	1306	7800	47	0
 Āgalakote	1302	7813	47	0
 Urūtu Agrahār	1323	7812	47	0
-Agrahārampalle	1389	7827	444	0
+Agrahārampalle	1389	7827	444	0		अग्रहारंपल्लॆ
 Agara	1328	7833	47	0
 Agrahāra	1318	7827	47	0
 Agrahāra	1310	7846	47	0
@@ -1170,6 +1170,6 @@ Agarpada	2121	8636	734	0
 Aghunato	2602	9463	7	0
 Aghat	2735	7926	711	0
 Agrora	2979	7895	612	0
-Agumbe	1351	7510	346	0
+Agumbe	1351	7510	346	0		अगुम्बे
 Agrahār	1323	7806	47	0
 Agrahāram	1263	7778	223	0

@@ -1,16 +1,16 @@
-Gurugram	2846	7703	630	886519
-Gurgaon	2846	7703	630	886519	Gurugram
-Gurdaspur	3204	7540	487	77928
-Gursahāiganj	2712	7973	570	40214
-Jandiāla Gurū	3156	7503	222	29232
-Gursarāi	2562	7918	433	25191
-Guruvāyūr	1059	7604	241	21416
-Gurupavanapuri	1059	7604	241	21416	Guruvāyūr
+Gurugram	2846	7703	630	886519		गुरुग्राम
+Gurgaon	2846	7703	630	886519	Gurugram	गुरुग्राम
+Gurdaspur	3204	7540	487	77928		गुरदासपुर
+Gursahāiganj	2712	7973	570	40214		गुरसहायगंज
+Jandiāla Gurū	3156	7503	222	29232		जंडियाला गुरु
+Gursarāi	2562	7918	433	25191		गुरसराय
+Guruvāyūr	1059	7604	241	21416		गुरुवायुर
+Gurupavanapuri	1059	7604	241	21416	Guruvāyūr	गुरुवायुर
 Gurmatkāl	1687	7739	72	20614
 Gurmatkol	1687	7739	72	20614	Gurmatkāl
-Guru Har Sahāi	3071	7440	566	17192
-Gurh	2450	8150	516	14608
-Goorha	2450	8150	516	14608	Gurh
+Guru Har Sahāi	3071	7440	566	17192		गुरु हर सहाय
+Gurh	2450	8150	516	14608		गुढ़
+Goorha	2450	8150	516	14608	Gurh	गुढ़
 Gurur	2068	8140	668	3775
 Gursian Nihal	3103	7558	369	733	Gorsiān Nihāl
 Sone ka Gurja	2649	7756	622	0
@@ -26,8 +26,8 @@ Gurundia	2185	8478	272	0
 Gurubella	2042	8356	394	0
 Gurua	2467	8477	118	0
 Gurtedu	1785	8194	268	0
-Gurramkonda	1378	7859	195	0
-Gurrumkonda	1378	7859	195	0	Gurramkonda
+Gurramkonda	1378	7859	195	0		गुर्रम कोंडा
+Gurrumkonda	1378	7859	195	0	Gurramkonda	गुर्रम कोंडा
 Gurpūr	1294	7493	55	0
 Gurnāvda	2560	7652	335	0
 Gurnāodā	2560	7652	335	0	Gurnāvda
@@ -56,7 +56,7 @@ Gura Salāthiān	3260	7504	720	0
 Gurāora	2838	7664	519	0
 Gurandi	1882	8422	252	0
 Gurampod	1687	7911	101	0
-Gurais	3463	7483	120	0
+Gurais	3463	7483	120	0		गुरेज़
 Gurai	2585	7578	313	0
 Gūrach	2480	7367	572	0
 Gūra	2519	7172	285	0
@@ -65,7 +65,7 @@ Gura	2678	7667	447	0	Gudha
 Ghursena	2181	8184	710	0
 Ghurna	2646	8709	667	0
 Ghurani	3073	7599	674	0
-Ghurām	3012	7648	564	0
+Ghurām	3012	7648	564	0		घड़ाम
 Ghūra	2477	7985	663	0
 Gurdaha	2228	8836	4	0
 Gurdaha	2273	8876	450	0
@@ -1320,9 +1320,9 @@ Gurugaru	1803	8272	268	0
 Gurdamunda	1889	8282	316	0
 Gurti	1879	8299	316	0
 Gurti	1880	8299	316	0
-Gurivindapalle	1629	8082	68	0
-Gurajāda	1636	8088	68	0
-Gurivindagunta	1644	8095	68	0
+Gurivindapalle	1629	8082	68	0		गुरिविंदपल्लि
+Gurajāda	1636	8088	68	0		गुरजाडा
+Gurivindagunta	1644	8095	68	0		गुरिविंदगुंट
 Gurusinga	1981	8200	518	0
 Gurumulu	1910	8386	363	0
 Gurrapuvalasa	1859	8317	199	0
@@ -1600,7 +1600,7 @@ Gurikārnahalli	1282	7646	679	0
 Gūr	2573	8646	661	0
 Gurdāt	2566	8647	661	0
 Gurugalamādahalli	1276	7678	94	0
-Guruzāla	1591	7759	236	0
+Guruzāla	1591	7759	236	0		गुरुजाल
 Gurātipalli	1842	7917	579	0
 Gurmaha	2509	8633	524	0
 Gurgāwān	2570	8660	661	0
@@ -1668,7 +1668,7 @@ Gurdiāl Purwa	2746	8024	686	0
 Ghurmāi	2717	8023	686	0
 Ghurauli	2722	8005	686	0
 Pimple Gurav	1859	7381	52	0
-Gurholi	1841	7409	52	0
+Gurholi	1841	7409	52	0		गुरोली
 Gurphali	1976	7745	67	0
 Gurchelam	1917	7825	408	0
 Gurugaldoddi	1270	7725	626	0
@@ -1678,7 +1678,7 @@ Gurubananalli	1253	7760	223	0
 Guruvānipalle	1508	7802	232	0
 Gurijāla	1459	7809	229	0
 Guruvappagāripalle	1498	7897	229	0
-Gurrampādu	1455	7883	229	0
+Gurrampādu	1455	7883	229	0		गुर्रंपाडु
 Gurrappagāripalle	1414	7881	195	0
 Gurrappagāripalle	1412	7887	195	0
 Guruajivāndlapalle	1395	7818	444	0
@@ -1721,7 +1721,7 @@ Guravarājupalli	1364	7952	45	0
 Gurappanāyudukhandigai	1333	7973	214	0
 Gurukulakhandrika	1362	7977	45	0
 Gurupuram	1326	7996	228	0
-Guruvādi	1255	7972	161	0
+Guruvādi	1255	7972	161	0		गुरुवाड़ी
 Guruvammāpettai	1221	7971	202	0
 Guruvanmedu	1279	7994	247	0
 Gurumpirai	1267	7989	161	0

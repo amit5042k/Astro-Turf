@@ -1,28 +1,28 @@
-Bakhtiarpur	2546	8553	604	47897
+Bakhtiarpur	2546	8553	604	47897		बख़्तियारपुर
 Bakhri	2560	8626	530	40043
 Bakhri Bazar	2560	8626	530	40043	Bakhri
-Bakhtiyārpur	2546	8553	604	34533
-Bakarwāla	2867	7702	771	18122
+Bakhtiyārpur	2546	8553	604	34533		बख़्तियारपुर
+Bakarwāla	2867	7702	771	18122		बाक्कर वाला
 Baqiabad	2873	7725	791	14429
-Bakewar	2666	7918	290	14217
-Bakhtāwarpur	2882	7718	769	12716
-Bakshwāho	2425	7929	663	10216	Buxwaha
-Bhākli	2842	7648	519	9970
-Bhakali	2842	7648	519	9970	Bhākli
-Bakāni	2429	7624	333	9812
-Bāba Bakāla	3156	7526	222	8946
+Bakewar	2666	7918	290	14217		बकेवर
+Bakhtāwarpur	2882	7718	769	12716		बख्तावर पुर
+Bakshwāho	2425	7929	663	10216	Buxwaha	बुक्सवाहा
+Bhākli	2842	7648	519	9970		भाकली
+Bhakali	2842	7648	519	9970	Bhākli	भाकली
+Bakāni	2429	7624	333	9812		बकानी
+Bāba Bakāla	3156	7526	222	8946		बाबा बकाला
 Bhakhāra	2090	8160	652	7547
 Bhakhra	2090	8160	652	7547	Bhakhāra
 Bhakarsahi	2019	8601	541	7110
 Bakaur	2606	8651	426	3707
-Bakultala	1250	9286	99	2741
-Bakloh	3248	7592	731	1805
-Bakloh Cantonment	3248	7592	731	1805	Bakloh
+Bakultala	1250	9286	99	2741		बकुलतला
+Bakloh	3248	7592	731	1805		बकलोह
+Bakloh Cantonment	3248	7592	731	1805	Bakloh	बकलोह
 Bakreswar	2388	8737	361	1739
 Bakresvare	2388	8737	361	1739	Bakreswar
 Pura Bāku Goshāin	2667	8169	629	331
-Simri Bakhriārpur	2572	8659	661	0
-Simri Bakhtiārpur	2572	8659	661	0	Simri Bakhriārpur
+Simri Bakhriārpur	2572	8659	661	0		सिमरी बख्तियारपुर
+Simri Bakhtiārpur	2572	8659	661	0	Simri Bakhriārpur	सिमरी बख्तियारपुर
 Kot Bakhtu	3004	7497	563	0
 Baksa Duar	2676	8959	752	0	Buxa Duār
 Bakar	2561	7073	285	0	Bukar
@@ -42,7 +42,7 @@ Bākudi	2493	8778	461	0
 Baktuni	2468	7532	655	0
 Bāktawng	2354	9285	13	0
 Baksheu	2759	7381	307	0
-Baksar	2876	7800	756	0
+Baksar	2876	7800	756	0		बक्सर
 Bākra	2525	7246	343	0
 Bakra-Road	2525	7246	343	0	Bākra
 Bākra	2248	8649	584	0
@@ -51,11 +51,11 @@ Bakka	2189	7759	462	0
 Bakhtgarh	2296	7520	130	0
 Bakhshīwāla	2985	7576	709	0
 Bakhsha	2579	8257	32	0
-Bakhra	2602	8510	395	0
+Bakhra	2602	8510	395	0		बखरा
 Bākhli	3002	7652	501	0
-Bākhāsar	2476	7112	285	0
-Bākharla	2173	6964	742	0
-Bakharia	2173	6964	742	0	Bākharla
+Bākhāsar	2476	7112	285	0		बाखासर
+Bākharla	2173	6964	742	0		बखरला
+Bakharia	2173	6964	742	0	Bākharla	बखरला
 Bakhāri	2233	7944	368	0
 Bakaruma	2251	8343	439	0
 Bakāpur	2812	7665	519	0
@@ -80,7 +80,7 @@ Bakarna	3043	7799	448	0
 Bakhtāwarpur	3040	7790	448	0
 Bakāpur	2969	7730	449	0
 Kamālpur Bakrauli	2969	7743	449	0
-Bāqargarh	2860	7688	763	0
+Bāqargarh	2860	7688	763	0		बक्र गढ़
 Baknār	3124	7700	628	0	Banjan
 Bakhdail	3122	7703	479	0
 Bakhīār	3120	7700	479	0
@@ -420,7 +420,7 @@ Bakhtāwarganj	2598	8354	586	0
 Bakarābād	2599	8364	586	0
 Bakuchi Dīh	2593	8366	586	0
 Bakwal	2590	8357	586	0
-Bhaksi	2542	8365	26	0
+Bhaksi	2542	8365	26	0		भकसी
 Bakārjun	2175	7705	209	0
 Bakaīkhera	2192	7753	462	0
 Bakājan	2191	7759	462	0
@@ -499,7 +499,7 @@ Bakhūpur	2541	8200	607	0
 Sarai Bāqī	2545	8215	607	0
 Bakaspur	2547	8221	607	0
 Sarai Bakhsh	2545	8217	607	0
-Baqiābād	2510	8290	201	0
+Baqiābād	2510	8290	201	0		बकियाबाद
 Bakauli	2472	8286	103	0
 Bhakwār	2428	8229	631	0
 Bakhul	2409	8230	631	0
@@ -1592,7 +1592,7 @@ Bakkaravalli	1307	7576	679	0
 Bakkaravalli	1308	7585	679	0
 Bakhri	2599	8581	138	0
 Chak Bāqar	2587	8591	138	0
-Bakraur	2470	8500	118	0
+Bakraur	2470	8500	118	0		बकरौर
 Bāki Chak	2473	8512	118	0
 Bakbārātoli	2441	8524	764	0
 Bākcho	2430	8521	393	0

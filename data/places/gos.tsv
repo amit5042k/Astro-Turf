@@ -1,8 +1,8 @@
-Ghosī	2611	8354	586	39138
-Goshaingaon	2644	8996	713	13933
-Gossaigaon	2644	8996	713	13933	Goshaingaon
-Goshāinganj	2657	8238	629	13176
-Goshāīnganj	2677	8111	714	9537
+Ghosī	2611	8354	586	39138		घोसी
+Goshaingaon	2644	8996	713	13933		गोसाइगाँव
+Gossaigaon	2644	8996	713	13933	Goshaingaon	गोसाइगाँव
+Goshāinganj	2657	8238	629	13176		गोशाईगंज
+Goshāīnganj	2677	8111	714	9537		गोसांईगंज
 Pura Bāku Goshāin	2667	8169	629	331
 Gosunda	2486	7454	417	0
 Goshing	2069	7632	49	0
@@ -16,7 +16,7 @@ Gosāba	2217	8880	4	0
 Gosaha	2217	8880	4	0	Gosāba
 Ghosla	2344	7587	314	0
 Ghosar	2095	8448	414	0
-Gossipur	2262	8838	123	0	Cossipore
+Gossipur	2262	8838	123	0	Cossipore	कोसीपुर
 Behta Gosain	2821	7890	117	0	Behta Gusaīn
 Ghoshpur	2239	8848	4	0
 Goshabug	3422	7455	301	0
@@ -213,7 +213,7 @@ Pura Goshāin	2631	8131	681	0
 Ghosīpura Bābūpura	2901	7885	511	0
 Math Goshain	2648	8139	662	0
 Goshāin Purwa	2630	8147	662	0
-Kachnāl Gosāin	2918	7899	641	0
+Kachnāl Gosāin	2918	7899	641	0		कच्नाल गोसांई
 Goshāin Matha	2642	8182	662	0
 Mat Goshāin	2636	8183	662	0
 Ghosuria	2633	8182	597	0
@@ -584,8 +584,8 @@ Pura Goshāīn	2600	8169	718	0
 Pura Goshāin	2601	8174	718	0
 Gosāin Chhāpra	2623	8440	639	0
 Gosopali	2620	8433	639	0
-Gosavīdu	1693	8049	104	0
-Gosāla	1644	8074	68	0
+Gosavīdu	1693	8049	104	0		गॊसवीडु
+Gosāla	1644	8074	68	0		गोसाल
 Gosāda	1822	8347	179	0
 Gosām	1818	8376	472	0
 Mathia Gosain	2578	8452	536	0
@@ -666,7 +666,7 @@ Goshal Chak	2472	8492	118	0
 Goshāinpur	2633	8741	667	0
 Gosāi	2566	8707	613	0
 Ghosāi	2556	8703	657	0
-Gosaingaon	2537	8710	411	0
+Gosaingaon	2537	8710	411	0		गोसाईं-गाँव
 Gosain Chak	2504	8705	605	0
 Ghoswār	2574	8524	716	0
 Gosāinpur	2531	8522	514	0
@@ -701,7 +701,7 @@ Gosaiguda	1761	7852	311	0
 Goshāinpur	2619	8769	667	0
 Goshagaon	2017	7565	53	0
 Ghosār	2734	8015	686	0
-Gospādu	1536	7842	232	0
+Gospādu	1536	7842	232	0		गोस्पाडु
 Gosuvāripalle	1499	7801	100	0
 Gosuvāripalle	1341	7848	195	0
 Gosalakuruvapalle	1344	7869	214	0

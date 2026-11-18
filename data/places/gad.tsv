@@ -1,13 +1,13 @@
-Gadag-Betageri	1542	7562	606	172813
+Gadag-Betageri	1542	7562	606	172813		गडग
 Gadag	1543	7563	606	172612
-Gadwāl	1624	7780	306	63177
-Gadchiroli	2018	8001	135	54152	Garhchiroli
-Gaddi Annaram	1737	7852	62	53622
-Gādarwāra	2292	7878	522	47604
-Gadhada	2197	7158	370	29872
-Gadhinglaj	1622	7435	57	27185
+Gadwāl	1624	7780	306	63177		गद्वाल
+Gadchiroli	2018	8001	135	54152	Garhchiroli	गढ़चिरौली
+Gaddi Annaram	1737	7852	62	53622		गड्डी अन्नारम
+Gādarwāra	2292	7878	522	47604		गाडरवारा
+Gadhada	2197	7158	370	29872		गढड़ा
+Gadhinglaj	1622	7435	57	27185		गडहिंग्लज
 Gadkhol	2164	7301	151	25332
-Gadhra	2275	8625	584	18801
+Gadhra	2275	8625	584	18801		गधरा
 Rakh Gadi Garh	3267	7484	581	7588
 Gumthala Gadhu	2994	7655	501	0
 Gadrāna	2980	7499	585	0
@@ -20,7 +20,7 @@ Gadrio	2746	7375	430	0	Gorera
 Gadra Road	2574	7064	285	0
 Gadlegaon	1768	7686	170	0
 Gādigarpālya	1321	7745	389	0
-Gadigarevula	1562	7844	232	0
+Gadigarevula	1562	7844	232	0		गडिगरेवुल
 Gādiganūru	1522	7660	366	0
 Gādidemadugu	1578	7815	236	0
 Gadhūla	2175	7172	168	0
@@ -517,7 +517,7 @@ Gadaria Khera	2662	8087	312	0
 Gadaria Khera	2632	8077	312	0
 Gadaria Khera	2626	8091	681	0
 Gādla	2841	7663	519	0
-Gadāīpur	2830	7672	630	0
+Gadāīpur	2830	7672	630	0		गदईपुर
 Gaddopur	2573	8280	32	0
 Gaddīpur	2569	8283	32	0
 Thāna Gaddī	2560	8290	32	0
@@ -806,7 +806,7 @@ Purwa Gadarian	2694	8208	542	0
 Purwa Gadarian	2689	8201	542	0
 Gadarian Purwa	2691	8206	542	0
 Pura Gadariān	2684	8202	542	0
-Gadopur	2675	8212	629	0
+Gadopur	2675	8212	629	0		गद्दोपुर
 Pura Bhagan Gadaria	2687	8209	542	0
 Sadhai Gadaria	2686	8216	542	0
 Pura Gadariān	2689	8213	542	0
@@ -1238,7 +1238,7 @@ Gadaba	1949	8357	363	0
 Gadikunta	1811	8236	268	0
 Gādigunta	1808	8244	268	0
 Gadiajholla	1860	8272	316	0
-Gaddamanugu	1668	8056	104	0
+Gaddamanugu	1668	8056	104	0		गड्डमनुगु
 Gadumpalle	1821	8255	268	0
 Gādepalle	1822	8255	268	0
 Gadarayi	1803	8256	268	0
@@ -1342,7 +1342,7 @@ Gadhada	2406	7295	212	0
 Bhawānīpur Gadiāl	2931	7918	551	0
 Gadarionwāla Mazra	2902	7912	552	0
 Gadī Naglī	2906	7912	552	0
-Gadarpur	2903	7923	641	0
+Gadarpur	2903	7923	641	0		गदरपुर
 Gadarpūri	2903	7924	641	0
 Gādrola	2529	7390	572	0
 Haroli Gadol	2966	7935	429	0
@@ -1542,9 +1542,9 @@ Gadasahalli	1253	7740	626	0
 Gādaranhalli	1266	7752	626	0
 Gaddaipālaiyam	1258	7770	223	0
 Gaddamankampatte	1527	7814	232	0
-Gadivemula	1568	7842	232	0
+Gadivemula	1568	7842	232	0		गडिवेमुल
 Gādegūdūru	1490	7859	229	0
-Gaddamāyapalle	1479	7872	229	0
+Gaddamāyapalle	1479	7872	229	0		गड्डमय्यपल्लॆ
 Gaddamuvāripalle	1465	7804	100	0
 Gaddamvāripalle	1472	7879	229	0
 Gadikota	1420	7894	195	0

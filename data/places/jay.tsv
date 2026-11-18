@@ -1,18 +1,18 @@
-Jayapur	2692	7579	121	3046163	Jaipur
-Jaykayanagar	2370	8708	642	160242	Jāmuria
-Jaykaynagar	2370	8708	642	160242	Jāmuria
-Jaypur	1886	8257	316	84830	Jeypore
-Jaysingpur	1678	7455	57	48510	Jaisingpur
-Jayasingpar	1678	7455	57	48510	Jaisingpur
-Jayamkondacholapuram	1121	7936	383	33945
-Jayankondacholpuram	1121	7936	383	33945	Jayamkondacholapuram
-Jayankondam	1121	7936	383	33945	Jayamkondacholapuram
-Jaynagar Majilpur	2218	8842	4	25922
-Jaynagar	2218	8842	4	25922	Jaynagar Majilpur
-Jaynagar Mojilpur	2218	8842	4	25922	Jaynagar Majilpur
-Majilpur Jaynagar	2218	8842	4	25922	Jaynagar Majilpur
-Mojilpur Jaynagar	2218	8842	4	25922	Jaynagar Majilpur
-Jaynagar	2659	8614	556	21782	Jainagar
+Jayapur	2692	7579	121	3046163	Jaipur	जयपुर
+Jaykayanagar	2370	8708	642	160242	Jāmuria	जामुरिया
+Jaykaynagar	2370	8708	642	160242	Jāmuria	जामुरिया
+Jaypur	1886	8257	316	84830	Jeypore	जयपुर
+Jaysingpur	1678	7455	57	48510	Jaisingpur	जयसिंहपुर
+Jayasingpar	1678	7455	57	48510	Jaisingpur	जयसिंहपुर
+Jayamkondacholapuram	1121	7936	383	33945		जयनकोंडम
+Jayankondacholpuram	1121	7936	383	33945	Jayamkondacholapuram	जयनकोंडम
+Jayankondam	1121	7936	383	33945	Jayamkondacholapuram	जयनकोंडम
+Jaynagar Majilpur	2218	8842	4	25922		जयनगर मजिलपुर
+Jaynagar	2218	8842	4	25922	Jaynagar Majilpur	जयनगर मजिलपुर
+Jaynagar Mojilpur	2218	8842	4	25922	Jaynagar Majilpur	जयनगर मजिलपुर
+Majilpur Jaynagar	2218	8842	4	25922	Jaynagar Majilpur	जयनगर मजिलपुर
+Mojilpur Jaynagar	2218	8842	4	25922	Jaynagar Majilpur	जयनगर मजिलपुर
+Jaynagar	2659	8614	556	21782	Jainagar	जयनगर
 Jaypur	2458	8685	605	0
 Jaypur	2305	8744	571	0
 Jaykaynagar	2368	8698	642	0
@@ -22,16 +22,16 @@ Jayapatna	1947	8281	284	0
 Jayantipur	1909	8461	408	0
 Jayanti	2670	8961	752	0
 Jayampu	1402	7973	45	0
-Jaytápur	1663	7337	234	0	Jaitāpur
+Jaytápur	1663	7337	234	0	Jaitāpur	जैतापुर
 Jayrāmpura	2707	7569	121	0	Jairāmpura
 Jaygad	1730	7322	234	0	Jaigarh
-Jayal	2722	7418	430	0
+Jayal	2722	7418	430	0		जायल
 Jaykaynagar	2368	8708	642	0	Bānāli
 Jaykayanagar	2368	8708	642	0	Bānāli
 Uttar Jaytāra	2292	8870	450	0
 Jaypul	2277	8855	450	0
 Jāyāpalli	1751	7873	129	0
-Jayanagar	1293	7759	43	0
+Jayanagar	1293	7759	43	0		जयनगर
 Jayanagar 3rd Block	1293	7758	43	0
 Jayanagar Swimming Pool	1293	7759	43	0
 Jayanagar 7th Block	1292	7758	43	0
@@ -39,7 +39,7 @@ Jayanagar 2nd Block	1294	7758	43	0
 Jayanagar 9th Block East	1292	7760	43	0
 Jaykrishnapur	2464	8796	471	0
 Jayrampur	2735	9602	42	0
-Jaykaypur	1925	8341	363	0
+Jaykaypur	1925	8341	363	0		जेकेपुर
 Jayaprakash Narayan Nagar	1291	7759	43	0
 Jayasinghpura	2751	7611	121	0
 Jāyakwādi	1928	7619	33	0
@@ -73,7 +73,7 @@ Nauha Jāya	2608	8174	718	0
 Jayapuram	1663	8110	24	0
 Jayapuram	1638	8125	68	0
 Jayalakshmīpuram	1708	8068	46	0
-Jayanti	1682	8044	104	0
+Jayanti	1682	8044	104	0		जयंति
 Jayantigiri	1858	8242	316	0
 Jayarāmguda	1917	8340	363	0
 Jayapanka	1929	8371	363	0
@@ -83,7 +83,7 @@ Jayatha	1890	8394	252	0
 Jayanagar	2502	7498	417	0
 Jayantirāmāpuram	1634	7975	10	0
 Jayangi	1305	7565	98	0
-Jayapuram	1474	7731	100	0
+Jayapuram	1474	7731	100	0		जयापुरं
 Jāyagiri	1807	7948	61	0
 Jaynagartola	2441	8775	658	0
 Jayrāmpur	2411	8775	361	0

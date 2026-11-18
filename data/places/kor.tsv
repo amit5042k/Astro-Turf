@@ -1,19 +1,19 @@
-Korakhpur	2677	8337	325	674246	Gorakhpur
-Korba	2235	8270	388	419146
-Koratla	1882	7871	63	66504
-Koraput	1881	8271	316	47468
-Khordha	2018	8562	541	46205
-Korinar	2079	7070	136	41492	Kodīnar
+Korakhpur	2677	8337	325	674246	Gorakhpur	गोरखपुर
+Korba	2235	8270	388	419146		कोरबा
+Koratla	1882	7871	63	66504		कोरट्ला
+Koraput	1881	8271	316	47468		कोरापुट
+Khordha	2018	8562	541	46205		खुर्दा
+Korinar	2079	7070	136	41492	Kodīnar	कोडीनार
 Koregaon	1865	7406	52	25846
 Koregaon-Bhima	1865	7406	52	25846	Koregaon
-Koregaon	1770	7416	64	24690
-Korochi	1672	7445	57	20420
+Koregaon	1770	7416	64	24690		कोरेगाँव
+Korochi	1672	7445	57	20420		कोरोची
 Koratti	1027	7635	241	17618
-Koratagere	1352	7724	93	15265
-Korwai	2412	7804	215	15136
-Korukollu	1650	8125	24	8543
+Koratagere	1352	7724	93	15265		कोरटगेरे
+Korwai	2412	7804	215	15136		कुरवाई
+Korukollu	1650	8125	24	8543		कोरुकॊल्लु
 Khore	3282	7451	581	6931
-Koradacheri	1077	7949	267	6450
+Koradacheri	1077	7949	267	6450		कोरडाचेरी
 Bali Koria	2644	9142	758	6359
 Korādi	2125	7911	141	6321
 Korādih	2125	7911	141	6321	Korādi
@@ -58,7 +58,7 @@ Korathru	1311	8017	228	0	Korattūr
 Koratgi	1561	7666	66	0
 Korata	1964	7805	67	0
 Korat	1964	7805	67	0	Korata
-Korangal	1710	7763	210	0
+Korangal	1710	7763	210	0		कोडंगल
 Korandh	1941	7723	640	0
 Koral	2183	7321	159	0
 Korai	2096	8618	376	0
@@ -66,8 +66,8 @@ Koragbal	3462	7468	120	0
 Koradi	1377	8014	45	0
 Koradgaon	1923	7529	152	0
 Kora	2610	8037	728	0
-Kora	2562	8741	625	0
-Kora	2051	7910	143	0
+Kora	2562	8741	625	0		कोढ़ा
+Kora	2051	7910	143	0		कोरा
 Kora	1953	7273	192	0
 Koramdesar	2805	7308	307	0
 Khormul	2352	8283	413	0
@@ -107,7 +107,7 @@ Kormangla 4Th Block	1293	7763	43	0
 Kormangla 8th Block	1294	7762	43	0
 Kormangala IRR	1295	7764	43	0
 Koramangala Teachers Colony	1292	7763	277	0
-Koramangala	1293	7762	43	0
+Koramangala	1293	7762	43	0		कोरमंगला
 Harīpur Kora	3056	7684	632	0
 Koraja	2412	7818	352	0
 Korai	2407	7839	352	0
@@ -402,7 +402,7 @@ Korpaili	1754	7954	762	0
 Korāri	2548	8056	463	0
 Khoriäkheri	2394	7643	16	0
 Khoriaekheri	2394	7643	16	0	Khoriäkheri
-Korpana	1974	7899	111	0
+Korpana	1974	7899	111	0		कोरपना
 Dīwān Khora	2498	8017	663	0
 Gonbat Khora	2498	8017	663	0
 Korigawān	2465	8102	324	0
@@ -696,7 +696,7 @@ Maula Khor	2680	8349	325	0
 Purwa Kori	2697	8340	515	0
 Purwa Kori	2699	8345	515	0
 Khoria	2669	8330	325	0	Bhīti
-Kortha	2665	8333	325	0
+Kortha	2665	8333	325	0		खोरठा
 Purwa Badlu Kori	2668	8346	325	0
 Khorābār	2671	8343	325	0
 Sikri Khorābār Jungle	2670	8345	325	0	Sikri
@@ -917,9 +917,9 @@ Koravapūdi	1754	8246	227	0
 Korumāmidi	1694	8157	87	0
 Korupalle	1687	8173	87	0
 Korlagūdem	1718	8059	46	0
-Korlamanda	1704	8077	104	0
+Korlamanda	1704	8077	104	0		कॊर्लमंड
 Korupolu	1776	8259	227	0
-Korrapādu	1638	8024	319	0
+Korrapādu	1638	8024	319	0		कोर्रापाडु
 Koruprolumallavaram	1748	8257	269	0
 Korlayipeta	1726	8255	227	0	Rājayyapeta
 Korravānipalem	1739	8271	227	0
@@ -971,8 +971,8 @@ Korapalle	1815	8259	268	0
 Koraput	1816	8262	268	0
 Korel	1816	8265	268	0
 Kortasu	1891	8280	316	0
-Korlagunta	1680	8089	24	0
-Kornipādu	1645	8093	68	0
+Korlagunta	1680	8089	24	0		कॊर्लगुंट
+Kornipādu	1645	8093	68	0		कॊर्निपाडु
 Koradaguda	1943	8381	363	0
 Koraiguda	1931	8378	363	0
 Kornupādu	1927	8377	363	0
@@ -1103,8 +1103,8 @@ Koratgeri	1584	7586	66	0
 Korakodu	1446	7511	346	0
 Korlikoppa	1423	7521	346	0
 Korlukunta	1405	7743	444	0
-Korrapādu	1475	7771	100	0
-Korivipalle	1487	7779	100	0
+Korrapādu	1475	7771	100	0		कॊर्रपाडु
+Korivipalle	1487	7779	100	0		कॊरिविपल्लॆ
 Korligere	1444	7531	346	0
 Koragi	1405	7533	346	0
 Hire Koralahalli	1416	7541	346	0
@@ -1288,15 +1288,15 @@ Koramangala	1287	7716	626	0
 Korgal	1241	7703	94	0
 Koramardoddi	1219	7740	69	0
 Kornal	1258	7751	626	0
-Koratamaddi	1558	7844	232	0
+Koratamaddi	1558	7844	232	0		कॊरटमद्दि
 Korrapolūru	1570	7842	232	0
-Korumānipalle	1500	7811	232	0
-Korrapādu	1475	7825	229	0
+Korumānipalle	1500	7811	232	0		कोरुमानिपल्लॆ
+Korrapādu	1475	7825	229	0		कॊर्रपाडु
 Koraguntapalle	1457	7822	229	0
 Korrapādu	1445	7819	229	0
 Korakonapalli	1347	7819	438	0
 Koragondahalli	1308	7809	47	0
-Kortikota	1394	7832	444	0
+Kortikota	1394	7832	444	0		कॊर्तिकोट
 Korruvandlapalle	1390	7833	195	0
 Korinivāripalli	1339	7832	47	0
 Koranelli	1337	7832	47	0
@@ -1454,7 +1454,7 @@ Korukkamedu	1186	7979	196	0
 Koramaduttuvalavu	1178	7867	390	0
 Korakkavādi	1147	7891	178	0
 Korakkavādi	1148	7890	178	0	Kudikkādu
-Korakodu	1477	7733	100	0
+Korakodu	1477	7733	100	0		कॊर्रकोडु
 Korrā	2399	8538	764	0
 Korai	2204	8520	272	0
 Korwa	2294	8555	432	0

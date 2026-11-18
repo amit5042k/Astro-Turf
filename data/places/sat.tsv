@@ -1,39 +1,39 @@
-Satna	2458	8083	324	282977
-Satara	1769	7399	64	120195
-Sattenapalle	1639	8015	10	56721
-Sathupalli	1725	8087	46	40000
-Sathupalle	1725	8087	46	40000	Sathupalli
-Sathupally	1725	8087	46	40000	Sathupalli
-Sathyamangalam	1151	7724	211	37816
-Satānā	2059	7420	54	37701
-Satara	1695	7441	65	37105	Ashta
+Satna	2458	8083	324	282977		सतना
+Satara	1769	7399	64	120195		सतारा
+Sattenapalle	1639	8015	10	56721		सत्तेनापल्ली
+Sathupalli	1725	8087	46	40000		सतुपल्ली
+Sathupalle	1725	8087	46	40000	Sathupalli	सतुपल्ली
+Sathupally	1725	8087	46	40000	Sathupalli	सतुपल्ली
+Sathyamangalam	1151	7724	211	37816		सत्यमंगलम
+Satānā	2059	7420	54	37701		सटाणा
+Satara	1695	7441	65	37105	Ashta	आष्टा
 Sathupalle	1721	8084	46	31857	Sādpalli
-Sattur	936	7792	119	31856
+Sattur	936	7792	119	31856		सात्तूर
 Satyāmangala	1302	7612	679	18002
-Sātalkheri	2465	7600	371	15617
+Sātalkheri	2465	7600	371	15617		सातलखेड़ी
 Satlapur	2311	7753	338	14755
-Sathankulam	844	7791	208	14193
-Satwās	2254	7668	322	14108
+Sathankulam	844	7791	208	14193		सातांकुलम
+Satwās	2254	7668	322	14108		सतवास
 Sātraud Kalān	2910	7581	339	11932
 Satrod Kalan	2910	7581	339	11932	Sātraud Kalān
 Satgawan	2455	8428	701	11811
-Satrikh	2686	8120	30	11023
+Satrikh	2686	8120	30	11023		सतरिख
 Satrod Khas	2913	7579	339	10932
-Satai	2472	7963	663	10592
+Satai	2472	7963	663	10592		सातई
 Satiāwāla	3093	7465	566	8724
 Satyewala	3093	7465	566	8724	Satiāwāla
 Satghara	2640	8617	556	8060
 Sathamba	2317	7333	125	7213
 Sāter	2257	7578	660	6540
 Satrampādu	1671	8107	24	6393
-Sattiyavijayanagaram	1268	7932	197	5894
+Sattiyavijayanagaram	1268	7932	197	5894		सतियविजयनगरम
 Sātraud Khurd	2913	7579	339	5568
 Satrod Khurd	2913	7579	339	5568	Sātraud Khurd
 Satakha	2592	9444	7	4964
 Satakha Hq.	2592	9444	7	4964	Satakha
 Satlāna	2597	7296	344	0
 Satkatta	1606	7451	90	0	Sutkatte
-Satara	1699	7413	65	0	Shirāla
+Satara	1699	7413	65	0	Shirāla	शिराला
 Shatrāna	2991	7612	564	0
 Satyavedu	1344	7996	45	0
 Sattivedu	1344	7996	45	0	Satyavedu
@@ -85,7 +85,7 @@ Sathazum	2576	9436	9	0	Sathazumi
 Sathāna	2598	7463	446	0
 Sathalli	1287	7602	679	0
 Sattihalli	1287	7602	679	0	Sathalli
-Sātgawān	2475	8577	473	0
+Sātgawān	2475	8577	473	0		सतगावाँ
 Satgaon	2040	7622	49	0
 Sātgāchia	2327	8813	375	0
 Sater	2979	7923	429	0
@@ -95,9 +95,9 @@ Satbarwā	2392	8426	701	0
 Satāngar	2643	7058	217	0	Chhattāngar
 Sātam	2092	7309	221	0
 Sātak	2134	7927	141	0
-Sātabhāya	2064	8693	702	0
-Satbaia	2064	8693	702	0	Sātabhāya
-Sātbhaya	2064	8693	702	0	Sātabhāya
+Sātabhāya	2064	8693	702	0		सातभाया
+Satbaia	2064	8693	702	0	Sātabhāya	सातभाया
+Sātbhaya	2064	8693	702	0	Sātabhāya	सातभाया
 Auniāti Sattra	2690	9408	777	0
 Satgara	2271	8806	279	0
 Sātul	2233	8817	4	0
@@ -784,7 +784,7 @@ Satoli	3275	7606	362	0
 Sathjās	3290	7616	362	0
 Satītola	2046	8033	135	0
 Sathān	3272	7606	362	0
-Satapar	3266	7610	362	0
+Satapar	3266	7610	362	0		सतापर
 Satītola	2036	8030	135	0
 Sat Kulera Kotha	3249	7608	362	0
 Satkulera Kothi	3240	7601	362	0
@@ -908,7 +908,7 @@ Satkhāl	2950	7962	551	0
 Satyu	2955	7969	429	0
 Sātomri	2236	7499	130	0
 Sat Bunga	2945	7961	551	0
-Sāt Tāl	2936	7953	551	0
+Sāt Tāl	2936	7953	551	0		सात ताल
 Sattar	2560	8498	604	0
 Sāt	2983	7971	722	0
 Satwariā	2715	8450	476	0
@@ -983,7 +983,7 @@ Sātenhalli	1480	7513	92	0
 Satenhalli	1457	7531	92	0
 Satārlapalle	1405	7753	444	0
 Satigīhalli	1442	7546	92	0
-Satārlapalle	1407	7791	444	0
+Satārlapalle	1407	7791	444	0		सतार्लपल्लॆ
 Sattigenahalli	1385	7718	93	0
 Satyavangal	1337	7712	93	0
 Sātagatta	1335	7725	93	0
@@ -1194,7 +1194,7 @@ Sāttanappattu	1131	7940	383	0
 Sāttamangalam	1142	7937	178	0
 Sāttappādi	1147	7946	178	0
 Sāttavattam	1140	7946	178	0
-Sāttambādi	1102	7929	383	0
+Sāttambādi	1102	7929	383	0		साथमबाडी
 Sāttanūr	1105	7946	264	0
 Satyamangalam	1097	7927	264	0
 Sāttanūr	1081	7939	267	0

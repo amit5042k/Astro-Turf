@@ -1,19 +1,19 @@
-Chaumu	2717	7572	121	64417
-Chaughat	1053	7605	241	38011	Chetwayi
+Chaumu	2717	7572	121	64417		चोमू
+Chaughat	1053	7605	241	38011	Chetwayi	चावक्काड
 Chand Chaur	2573	8579	138	33457
-Chautāpal	1726	7890	129	19092
-Chaurian Fatehgarh	3186	7496	487	18051	Fatehgarh Chūriān
+Chautāpal	1726	7890	129	19092		चौटुप्पल
+Chaurian Fatehgarh	3186	7496	487	18051	Fatehgarh Chūriān	फ़तेहगढ़ चूड़ियाँ
 Chaurai	2205	7925	337	12956
 Chaurai Khas	2205	7925	337	12956	Chaurai
-Chauri	1503	7405	102	12444	Kānkon
-Chauri Town	1503	7405	102	12444	Kānkon
-Ambāgarh Chauki	2078	8075	644	9889
+Chauri	1503	7405	102	12444	Kānkon	काणकोण
+Chauri Town	1503	7405	102	12444	Kānkon	काणकोण
+Ambāgarh Chauki	2078	8075	644	9889		अम्बागढ़ चौकी
 Jitwārpur Chauth	2585	8581	138	9267
 Nāngal Chaudhri	2789	7611	694	8538
 Chaudhri ka Nāngal	2789	7611	694	8538	Nāngal Chaudhri
-Fatehpur Chaurāsi	2679	8027	312	5931
-Chaupāran	2439	8525	764	5361
-Chaupāl	3095	7759	479	1851
+Fatehpur Chaurāsi	2679	8027	312	5931		फतेहपुर चौरासी
+Chaupāran	2439	8525	764	5361		चौपारण
+Chaupāl	3095	7759	479	1851		चौपाल
 Rāmpur Chaudhri	2639	8167	662	1503
 Ok-Chauka	807	9357	79	0	Tapīyang
 Talwandi Chaudhriān	3130	7518	565	0
@@ -26,18 +26,18 @@ Chhaura	2451	8496	118	0
 Chaunda	3051	7606	775	0
 Chhaudān	3051	7606	775	0	Chaunda
 Chhaundān	3051	7606	775	0	Chaunda
-Chauth ka Barwāra	2605	7616	116	0
+Chauth ka Barwāra	2605	7616	116	0		चौथ का बरवाड़ा
 Chautham	2554	8666	759	0
-Chautālā	2978	7452	585	0	Chotāla
+Chautālā	2978	7452	585	0	Chotāla	चौटाला
 Chausāna	2967	7718	328	0
-Chausāla	1871	7569	33	0
-Chausa	2551	8389	620	0
+Chausāla	1871	7569	33	0		चौसाला
+Chausa	2551	8389	620	0		चौसा
 Chauri	2690	8226	154	0
 Chaurākund	2161	7711	133	0
 Chaurāha	2732	8358	515	0
 Chaurādādar	2259	8163	468	0
 Chaupura	2910	7906	552	0
-Chauntra	3200	7675	278	0
+Chauntra	3200	7675	278	0		चौंतड़ा
 Chaulpāni	2262	7868	337	0	Chavalpāni
 Chāuldhoā Baligaon	2743	9432	299	0
 Chāuldhoā	2743	9432	299	0	Chāuldhoā Baligaon
@@ -47,13 +47,13 @@ Chaukīpura	2240	7784	590	0
 Chauki Maniār	3161	7622	327	0
 Dabal Chauki	2270	7613	322	0
 Chauki	2270	7613	322	0	Dabal Chauki
-Chaukhutia	2988	7935	429	0
+Chaukhutia	2988	7935	429	0		चौखुटिया
 Chaukhandi	2542	8185	607	0
 Chauka	2484	7951	663	0
 Chauk	2725	8357	515	0
 Chauk	1890	7324	17	0
 Chauk-karjat	1890	7324	17	0	Chauk
-Chauhtan	2549	7107	285	0
+Chauhtan	2549	7107	285	0		चौहटन
 Chaugāin	2548	8423	620	0
 Chaudepalle	1343	7869	214	0
 Chaubia	2690	7912	290	0
@@ -146,7 +146,7 @@ Chauhatta	2568	8522	716	0
 Chaubutiyakhal	2995	7930	183	0
 Chauthkheda	2443	7492	655	0
 Semliya Chau	2277	7607	660	0
-Chaulia	2194	8729	677	0
+Chaulia	2194	8729	677	0		चाउलिया
 Chauki	2804	7674	482	0
 Chaupanki	2814	7688	482	0
 Chauthūgujar ki Dhāni	2849	7488	539	0
@@ -299,7 +299,7 @@ Chaurangiāni	3097	7659	735	0
 Chaud Mastpur	3028	7669	691	0
 Chaundras	2793	7751	177	0
 Chhaunkarbās	2777	7755	177	0
-Chaumuhān	2762	7758	177	0
+Chaumuhān	2762	7758	177	0		चौमुहाँ
 Nagla Chaudhriyān	2763	7765	177	0
 Chaube Ka Nagla	2732	7754	114	0
 Chaukīpur Kalān	2728	7763	177	0
@@ -1248,7 +1248,7 @@ Chaura	3173	7536	487	0
 Chak Chau	3166	7540	487	0
 Chaudhrion ki Dhāni	2561	7361	273	0
 Chaupālābāria	2578	7399	446	0
-Chaugaon	2087	7458	190	0
+Chaugaon	2087	7458	190	0		चौगाँव
 Chaur	2563	7381	273	0
 Nawapāra Chauki	2261	8205	757	0
 Chauk	3178	7600	327	0
@@ -1272,7 +1272,7 @@ Chaunria	2730	8093	507	0
 Chaundia	2732	8085	507	0
 Chaukipur	2729	8096	507	0
 Gobindgarh Chhauni	3150	7594	296	0
-Guna Chaur	3115	7598	295	0
+Guna Chaur	3115	7598	295	0		गुनाचौर
 Chaukē	3334	7605	34	0
 Chaunsar	3306	7644	362	0
 Chaunda Devi	3267	7610	362	0
@@ -1490,7 +1490,7 @@ Chaura	2950	7971	429	0
 Chaumu	2955	7965	429	0
 Chaunli Talli	2959	7969	429	0
 Rām Chaura	2600	8481	540	0
-Kita Chauhāttar	2568	8487	604	0
+Kita Chauhāttar	2568	8487	604	0		कीटा-चौहत्तर
 Gulwa Chaur	2937	7963	551	0
 Chaughanpāta Malla	2929	7955	551	0
 Chauri	2932	7973	551	0
@@ -1868,7 +1868,7 @@ Chaudipāli	2181	8404	627	0
 Chaulibāsa	2296	8596	653	0
 Chaunrādih	2257	8600	653	0
 Chautarāpāli	2146	8519	414	0
-Chauthia	2193	8564	293	0
+Chauthia	2193	8564	293	0		चउठिया
 Chauthia	2180	8591	382	0
 Chāuli	2042	8524	303	0
 Chaupalli	2029	8517	548	0
@@ -1888,8 +1888,8 @@ Chaunra	2442	8630	452	0
 Chaurāpāli	2147	8407	567	0
 Chaunri	2071	8441	386	0
 Chaunrpur	2065	8443	386	0
-Chauri Chaura	2665	8359	325	0
-Chaubattakhal	2995	7888	612	0
+Chauri Chaura	2665	8359	325	0		चौरी चौरा
+Chaubattakhal	2995	7888	612	0		चौबट्टाखाल
 Chauki	3041	7801	448	0
 Chaundi	2982	7897	612	0
 Chauna	2981	7928	429	0

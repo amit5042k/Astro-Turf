@@ -1,28 +1,28 @@
-Murādābād	2884	7878	511	721139	Morādābād
-Murwāra	2384	8039	351	221883
-Murādnagar	2878	7750	727	89482
-Muravnagar	2878	7750	727	89482	Murādnagar
-Murtajāpur	2073	7737	172	40295
-Murshidābād	2418	8827	471	39557
-Murlīganj	2590	8700	657	28691
+Murādābād	2884	7878	511	721139	Morādābād	मुरादाबाद
+Murwāra	2384	8039	351	221883		कटनी
+Murādnagar	2878	7750	727	89482		मुरादनगर
+Muravnagar	2878	7750	727	89482	Murādnagar	मुरादनगर
+Murtajāpur	2073	7737	172	40295		मुर्तिजापूर
+Murshidābād	2418	8827	471	39557		मुर्शिदाबाद
+Murlīganj	2590	8700	657	28691		मुरलीगंज
 Murugampālaiyam	1108	7732	235	26349
-Mūrinda	3079	7650	735	24022	Morinda
-Murbād	1925	7339	246	18725
-Murum	1779	7647	48	18371	Moram
-Murudeshwara	1409	7448	569	17938
-Murhi	2093	8554	289	16810	Kāmākhyānagar
-Muri	2337	8586	664	12744
-Murud	1833	7296	17	12665
-Murad	1833	7296	17	12665	Murud
-Mursān	2758	7794	670	12310
-Murgūd	1640	7419	57	11194
+Mūrinda	3079	7650	735	24022	Morinda	मोरिंडा
+Murbād	1925	7339	246	18725		मुरबाड़
+Murum	1779	7647	48	18371	Moram	मुरुम
+Murudeshwara	1409	7448	569	17938		मुरुदेश्वर
+Murhi	2093	8554	289	16810	Kāmākhyānagar	कामाख्यानगर
+Muri	2337	8586	664	12744		मुरी
+Murud	1833	7296	17	12665		मुरुद जंजीरा
+Murad	1833	7296	17	12665	Murud	मुरुद जंजीरा
+Mursān	2758	7794	670	12310		मुरसान
+Murgūd	1640	7419	57	11194		मुरगूड़
 Muragācha	2354	8839	528	10324
-Ganj Murādābād	2696	8018	312	9970
-Murādābad Patti	2696	8018	312	9970	Ganj Murādābād
+Ganj Murādābād	2696	8018	312	9970		गंज मुरादाबाद
+Murādābad Patti	2696	8018	312	9970	Ganj Murādābād	गंज मुरादाबाद
 Murmāri	2107	7983	404	7576
 Murda	1548	7385	188	7517
 Murakambattu	1325	7912	214	6812
-Muraidih	2381	8624	401	6360
+Muraidih	2381	8624	401	6360		मुराईडीह
 Muriāro	2582	8590	138	5457
 Muringur Vadakummuri	1029	7634	241	4981
 Murhāri	2418	9182	695	4827
@@ -34,7 +34,7 @@ Muruda	2185	8700	382	0
 Murud	1841	7624	158	0
 Mūrtināyakkanpatti	1130	7814	231	0
 Murtili	1963	8348	363	0
-Murthal	2904	7709	485	0
+Murthal	2904	7709	485	0		मुरथल
 Murpār	2118	8042	171	0
 Mūrlen	2366	9328	253	0
 Murkunda	2299	8469	321	0
@@ -42,7 +42,7 @@ Murkong Selek	2783	9523	299	0
 Murkong Selok	2783	9523	299	0	Murkong Selek
 Murkal	1213	7616	193	0
 Murjha	2032	7992	111	0
-Murhu	2297	8528	432	0
+Murhu	2297	8528	432	0		मुरहू
 Mūrhīpār	2135	8087	509	0
 Murheri	2552	7761	436	0
 Murhar	2661	6998	217	0
@@ -51,7 +51,7 @@ Murgod	1589	7493	77	0
 Murera	2673	8360	325	0
 Murdoli	2123	8020	171	0
 Murdārā	2153	8002	171	0
-Murarai	2444	8786	361	0
+Murarai	2444	8786	361	0		मुरारई
 Murāpāra	2037	8258	594	0
 Muramgaon	2033	8047	135	0
 Murākta	2204	7470	248	0
@@ -62,7 +62,7 @@ Mirza Murād	2529	8278	251	0
 Murwās	2407	7751	215	0
 Murūd	1777	7312	234	0
 Muratpur	2299	8844	528	0
-Muragācha	2269	8842	450	0
+Muragācha	2269	8842	450	0		मुड़ागाछा
 Murinderbāgh	3417	7491	611	0
 Muri Baihk	3449	7400	0	0
 Murchāpur	3255	7485	581	0
@@ -76,7 +76,7 @@ Murdanpalli	1749	7804	31	0
 Murtazāguda	1731	7828	62	0
 Murera	2665	8359	325	0
 Sathiya Moorthy Nagar	1312	8027	204	0
-Murugeshpalya	1296	7766	43	0
+Murugeshpalya	1296	7766	43	0		मुरुगेश पालया
 Murot	2813	7553	300	0
 Murād Mājra	3020	7656	564	0	Akbarpur
 Murari	2424	7813	352	0
@@ -88,7 +88,7 @@ Muria	2459	7872	384	0
 Murāri	2411	7896	352	0
 Murāwan Gauntia	2793	7949	470	0
 Nagla Murār	2724	7931	464	0
-Nagla Murli	2710	7950	570	0
+Nagla Murli	2710	7950	570	0		नगला मुरली
 Murai	2715	7934	464	0
 Nowshera Murai	2715	7935	464	0
 Murgiya	2705	7934	464	0
@@ -1576,7 +1576,7 @@ Murlethimmandoddi	1242	7730	626	0
 Murhalli	1260	7751	626	0
 Mūrti	1530	7842	232	0	Krishnāpuram
 Muragampalle	1490	7813	229	0
-Murārichintala	1445	7807	229	0
+Murārichintala	1445	7807	229	0		मुरारिचिंतल
 Mūrtipalle	1412	7814	444	0
 Murtuzāpalle	1447	7884	229	0
 Murusupalle	1374	7812	195	0
@@ -1861,7 +1861,7 @@ Murudipānga	2001	8422	387	0
 Mursundi	2085	8429	386	0
 Muruskāsāi	2026	8430	387	0
 Murārīpur	2074	8473	414	0
-Murādnagar	2875	7752	727	0
+Murādnagar	2875	7752	727	0		मुरादनगर
 Murādpur	2667	8303	647	0
 Murtazānagar	2704	8111	30	0
 Murārpur	2610	8172	662	0

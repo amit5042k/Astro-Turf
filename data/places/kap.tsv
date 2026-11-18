@@ -1,18 +1,18 @@
-Kapurthala Town	3138	7538	565	98916
-Kapūrthala	3138	7538	565	98916	Kapurthala Town
+Kapurthala Town	3138	7538	565	98916		कपूरथला
+Kapūrthala	3138	7538	565	98916	Kapurthala Town	कपूरथला
 Kot Kapūra	3058	7483	730	91979
 Kāpas Herd	2853	7708	721	74073
-Kappal	1535	7615	66	70698	Koppal
-Kapadvanj	2302	7307	167	49308
-Kapadranj	2302	7307	167	49308	Kapadvanj
-Kapasan	2489	7432	417	20869
-Kapāsin	2489	7432	417	20869	Kapasan
-Kāpren	2541	7607	353	20748
-Kaprain	2541	7607	353	20748	Kāpren
+Kappal	1535	7615	66	70698	Koppal	कोप्पल
+Kapadvanj	2302	7307	167	49308		कपड़वंज
+Kapadranj	2302	7307	167	49308	Kapadvanj	कपड़वंज
+Kapasan	2489	7432	417	20869		कपासन
+Kapāsin	2489	7432	417	20869	Kapasan	कपासन
+Kāpren	2541	7607	353	20748		कापरैन
+Kaprain	2541	7607	353	20748	Kāpren	कापरैन
 Khapat	2165	6961	742	16744
 Kappiyara	825	7726	453	15998
-Khāpa	2142	7898	141	15175
-Kaptānganj	2693	8371	560	12299	Captainganj
+Khāpa	2142	7898	141	15175		खापा
+Kaptānganj	2693	8371	560	12299	Captainganj	कप्तानगंज
 Khapar	2153	7393	186	7235
 Kapuria	2388	7875	352	1902
 Khāpri	2105	7904	141	0
@@ -27,7 +27,7 @@ Khapariya	2257	7748	590	0
 Khāparia	2257	7748	590	0	Khapariya
 Khāpari	2257	7748	590	0	Khapariya
 Khāpān	2452	7304	22	0	Khānpa
-Khāpa	2092	7895	141	0
+Khāpa	2092	7895	141	0		खापा
 Khāpa	2255	7805	590	0
 Khāpa	2252	7903	337	0
 Khāpa	2243	7917	337	0
@@ -47,7 +47,7 @@ Kaplās	3283	7563	373	0
 Kapkot	2995	7990	722	0
 Kapkote	2995	7990	722	0	Kapkot
 Kapileswarpur	2012	8547	541	0
-Kapileswarapuram	1632	8087	68	0
+Kapileswarapuram	1632	8087	68	0		कपिलेस्वरपुरम
 Kappagal	1606	7713	50	0
 Kapgol	1606	7713	50	0	Kappagal
 Kapasia	2449	7253	601	0
@@ -66,9 +66,9 @@ Kaptānganj	2676	8258	154	0	Captainganj
 Khappi	3432	7408	0	0
 Kapurgarh	3281	7496	581	0
 Khapi	3440	7380	0	0
-Kāpra	1749	7857	311	0
+Kāpra	1749	7857	311	0		कापरा
 Kapaphād	1714	7862	62	0
-Kapūrgarh	3057	7612	648	0
+Kapūrgarh	3057	7612	648	0		कपूरगढ़
 Kapūri	3018	7652	564	0
 Pāne ka Plot	3007	7653	501	0
 Mukhtyāryingh ka Plot	3006	7654	501	0
@@ -2174,7 +2174,7 @@ Khapra	3254	7617	362	0
 Kappāhri	3232	7600	38	0
 Khaprābhāt	2086	8064	474	0
 Kapāhri	3206	7614	38	0
-Kāpsi	2009	8068	704	0
+Kāpsi	2009	8068	704	0		कापसी
 Kaprauta	3256	7626	362	0
 Ganesh Khapri	2093	8097	668	0
 Khapri	2093	8098	668	0
@@ -2246,7 +2246,7 @@ Sāngi ka Pura	2395	7674	16	0
 Khaprikachhār	2194	8383	272	0
 Kapodih	2114	8386	497	0
 Kapāsira	2115	8389	308	0
-Kapūrpur	2759	8144	294	0
+Kapūrpur	2759	8144	294	0		बनगांव
 Kapraul	2749	8137	294	0
 Kapurpur	2732	8136	507	0
 Khapraila	2701	8125	30	0
@@ -2514,7 +2514,7 @@ Kappagalale	1434	7510	346	0
 Kāpatemane	1406	7506	346	0
 Kapparsikop	1480	7507	92	0
 Kappanhalli	1426	7530	346	0
-Kappalabanda	1415	7775	444	0
+Kappalabanda	1415	7775	444	0		कप्पल बंड
 Kapoli	1344	7503	257	0
 Kāp	1304	7542	55	0
 Kapangaon	1976	7934	111	0
@@ -2561,8 +2561,8 @@ Bali Kapparavalli	1265	7612	679	0
 Kote Kapparavalli	1266	7611	679	0
 Kappasoge	1208	7650	74	0
 Lād Kapasia	2572	8631	138	0
-Kapati	1567	7733	236	0
-Kappatrālla	1559	7763	236	0
+Kapati	1567	7733	236	0		कापटि
+Kappatrālla	1559	7763	236	0		कप्पाट्राल्ल
 Khapra	2500	8657	538	0
 Kāparlapalle	1454	7724	100	0
 Kapasia	2582	8677	661	0

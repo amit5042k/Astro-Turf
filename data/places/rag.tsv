@@ -1,14 +1,14 @@
-Rāghogarh	2444	7720	336	63873
-Rāghugarh	2444	7720	336	63873	Rāghogarh
-Raghunathpur	2354	8667	415	22802
-Raghudebbati	2253	8820	354	12833
+Rāghogarh	2444	7720	336	63873		राघोगढ़
+Rāghugarh	2444	7720	336	63873	Rāghogarh	राघोगढ़
+Raghunathpur	2354	8667	415	22802		रघुनाथपुर
+Raghudebbati	2253	8820	354	12833		रघुदेबबाटी
 Raghunandanpur	2465	8797	471	8335
 Raghunāthpur	2564	8792	625	6355
 Raghunāthpuram	1768	7896	129	4008
 Raghunathpur	1768	7896	129	4008	Raghunāthpuram
 Ragupodor	2088	8333	497	0
 Ragto	2270	8540	287	0
-Raghunāthpura	2921	7360	374	0
+Raghunāthpura	2921	7360	374	0		रघुनाथपुरा
 Raghunāthpura	2564	7426	309	0
 Ragonathpura	2564	7426	309	0	Raghunāthpura
 Raghunāthpur	2605	7696	335	0
@@ -60,7 +60,7 @@ Raghopur	2630	8684	426	0
 Raguraman Jagadeesan	1147	7874	51	0
 Raga	2708	9325	699	0
 Raghubirpur	2273	8857	450	0
-Raghunathganj	2447	8806	471	0
+Raghunathganj	2447	8806	471	0		रघुनाथगंज
 Raghunathpur	2268	8883	450	0
 Raghabpur	2283	8875	450	0
 Raghunathpur	2261	8771	677	0
@@ -106,7 +106,7 @@ Jalālpur Raghunāthpur	2877	7749	727	0
 Raghunāthpur	2896	7750	700	0
 Raghunāthpur	2878	7768	727	0
 Raghunāthpur	2866	7754	727	0
-Raghunāthpur	2870	7772	756	0
+Raghunāthpur	2870	7772	756	0		रघुनाथपुर
 Raghunāthpura	2603	7487	446	0
 Raghunāthgarh	2608	7486	446	0
 Raghunāthpura	2603	7495	446	0
@@ -710,7 +710,7 @@ Rāghavapatnam	1747	8234	269	0
 Ragunāthagūdem	1714	8056	46	0
 Ragangūdem	1713	8098	24	0
 Rāghavapuram	1711	8091	24	0
-Rāghavāpuram	1676	8032	104	0
+Rāghavāpuram	1676	8032	104	0		रागवपुरम्
 Raguniguda	1980	8327	284	0
 Raghunāthpur	1991	8340	284	0
 Raghubāru	1991	8349	363	0
@@ -832,15 +832,15 @@ Raghubīr Purwa	2561	8091	463	0
 Raghunātanhalli	1522	7595	66	0
 Rāgimākulapalle	1415	7747	444	0
 Raghanādapuram	1480	7762	100	0
-Raghavampalle	1453	7774	444	0
+Raghavampalle	1453	7774	444	0		राघवंपल्लॆ
 Rāgivenkatampalle	1489	7795	100	0
 Rāghavampalle	1450	7794	444	0
 Rāgikoppa	1447	7532	346	0
 Rāgihosahalli	1402	7539	346	0
 Rāgelinganahalli	1376	7707	444	0
 Rāghavanahalli	1369	7727	93	0
-Rāgimākulapalle	1395	7773	444	0
-Rāgimākulapalle	1397	7769	444	0
+Rāgimākulapalle	1395	7773	444	0		रागिमाकुलपल्लॆ
+Rāgimākulapalle	1397	7769	444	0		रागिमाकुलपल्लॆ
 Rāgimākalahalli	1354	7756	438	0
 Raghunathpur	1329	7758	389	0
 Rāgimākulapalle	1396	7782	444	0
@@ -1077,7 +1077,7 @@ Rāghavanpettai	1193	7953	202	0
 Rāgippatti	1179	7804	51	0
 Raghunāthapuram	1030	7921	264	0
 Raghunāthapuram	1029	7922	264	0
-Rāgulapādu	1498	7736	100	0
+Rāgulapādu	1498	7736	100	0		रागुलपाडु
 Raghunāthpur	2250	8543	287	0
 Raghoi	2261	8554	287	0
 Ragri	2271	8567	287	0

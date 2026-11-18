@@ -3,6 +3,7 @@ import {
 } from './astro.js';
 import { weeklyForLagna, weekStart, isoDate } from './predict.js';
 import { searchPlaces } from './places.js';
+import { toHindi } from './hindi.js';
 import {
   UI, SIGNS, SIGN_SHORT, SIGN_GLYPHS, PLANET_NAMES, PLANET_ABBR, NAKSHATRAS, WEEKDAYS, WEEKDAYS_SHORT,
   YOGAS, KARANAS, tithiName,
@@ -37,7 +38,9 @@ function toast(msg) {
   setTimeout(() => el.remove(), 2200);
 }
 
-const DELHI = { name: 'New Delhi', label: 'New Delhi, Delhi', lat: 28.6139, lon: 77.209, tz: 5.5 };
+const DELHI = {
+  name: 'New Delhi', label: 'New Delhi, Delhi', nameHi: 'नई दिल्ली', labelHi: 'नई दिल्ली, दिल्ली', hiExact: true, lat: 28.6139, lon: 77.209, tz: 5.5,
+};
 // Cities from the old fixed list, so places saved before the searchable list still work
 const LEGACY_CITIES = [
   ['New Delhi', 28.6139, 77.209, 5.5], ['Mumbai', 19.076, 72.8777, 5.5], ['Kolkata', 22.5726, 88.3639, 5.5],
@@ -59,7 +62,18 @@ const savedPanchangPlace = () => {
   const s = store.get('panchang', {});
   return s.place || (typeof s.city === 'number' && legacyPlace(s.city)) || DELHI;
 };
-const placeName = (pl) => pl.name || pl.label.split(',')[0];
+const enName = (pl) => pl.name || pl.label.split(',')[0];
+// Places saved before Hindi names existed get a transliterated Hindi name
+const hiName = (pl) => pl.nameHi || toHindi(enName(pl));
+const hiLabel = (pl) => pl.labelHi || toHindi(pl.label);
+const placeName = (pl) => (lang === 'hi' ? hiName(pl) : enName(pl));
+const placeLabel = (pl) => (lang === 'hi' ? hiLabel(pl) : pl.label);
+// Second line of a search result: the name in the other script, the matched spelling, then district and state
+const placeDetail = (pl) => {
+  const other = lang === 'hi' ? enName(pl) : hiName(pl);
+  const rest = placeLabel(pl).split(', ').slice(1);
+  return [other, pl.alias && pl.alias !== other ? pl.alias : '', ...rest].filter(Boolean).join(' · ');
+};
 
 // ---------- searchable place field (combobox) ----------
 let comboSeq = 0;
@@ -67,7 +81,7 @@ function placeField(place) {
   const id = `place-list-${++comboSeq}`;
   return `<div class="combo">
     <input type="search" class="place-input" role="combobox" aria-autocomplete="list" aria-expanded="false"
-      aria-controls="${id}" autocomplete="off" spellcheck="false" placeholder="${esc(t('placeSearch'))}" value="${esc(place ? place.label : '')}">
+      aria-controls="${id}" autocomplete="off" spellcheck="false" placeholder="${esc(t('placeSearch'))}" value="${esc(place ? placeLabel(place) : '')}">
     <ul class="combo-list" id="${id}" role="listbox" hidden></ul>
   </div>`;
 }
@@ -92,7 +106,7 @@ function bindPlaceField(root, initial, onPick) {
   const pick = (i) => {
     const pl = results[i];
     if (!pl) return;
-    input.place = pl; input.value = pl.label; close();
+    input.place = pl; input.value = placeLabel(pl); close();
     onPick(pl);
   };
   const show = (html) => { list.innerHTML = html; list.hidden = false; input.setAttribute('aria-expanded', 'true'); };
@@ -106,7 +120,7 @@ function bindPlaceField(root, initial, onPick) {
       if (my !== seq) return;
       results = r.results;
       const opts = results.map((pl, i) => `<li role="option" id="${list.id}-${i}" data-i="${i}" aria-selected="false">
-        <b>${esc(placeName(pl))}</b><span>${esc([pl.alias, ...pl.label.split(', ').slice(1)].filter(Boolean).join(' · '))}</span></li>`).join('');
+        <b lang="${lang}">${esc(placeName(pl))}</b><span>${esc(placeDetail(pl))}</span></li>`).join('');
       show(opts + (r.needMore ? `<li class="hint">${t('keepTyping')}</li>` : '')
         + (!results.length && !r.needMore ? `<li class="hint">${t('noPlace')}</li>` : ''));
       active = -1;

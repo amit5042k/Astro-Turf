@@ -1,14 +1,14 @@
-Jasdan	2204	7121	174	48483
-Jaspur	2928	7883	641	42524
-Jashpur Nagar	2289	8414	398	28301
-Jashpur	2289	8414	398	28301	Jashpur Nagar
-Jaswantnagar	2688	7890	290	27777
-Jasidih	2451	8665	502	16338
-Jasrāna	2724	7865	403	9883
+Jasdan	2204	7121	174	48483		जसदण
+Jaspur	2928	7883	641	42524		जसपुर
+Jashpur Nagar	2289	8414	398	28301		जशपुर
+Jashpur	2289	8414	398	28301	Jashpur Nagar	जशपुर
+Jaswantnagar	2688	7890	290	27777		जसवंतनगर
+Jasidih	2451	8665	502	16338		जसीडीह
+Jasrāna	2724	7865	403	9883		जसराना
 Jasai	1893	7302	17	8234
-Jasrāsar	2771	7381	307	8000
-Jaswantpura	2480	7246	343	5111
-Jashīpur	2196	8608	382	5101	Joshipur
+Jasrāsar	2771	7381	307	8000		जसरासर
+Jaswantpura	2480	7246	343	5111		जसवन्तपुरा
+Jashīpur	2196	8608	382	5101	Joshipur	जशीपुर
 Jaswāri	2179	7643	209	0
 Jaswantgarh	2765	7446	430	0
 Jasuntsar	2888	7379	307	0
@@ -18,7 +18,7 @@ Jasrāpura	2803	7572	300	0
 Jasrapur	2803	7572	300	0	Jasrāpura
 Jaspura	2581	8038	463	0
 Jaspur	2172	8305	635	0
-Jasol	2582	7222	285	0
+Jasol	2582	7222	285	0		जसोल
 Jaso	2450	8050	324	0
 Jasmergarh	3246	7527	496	0
 Jasmīrgarh	3246	7527	496	0	Jasmergarh
@@ -29,7 +29,7 @@ Jasrāsar	2830	7481	539	0
 Jasāikāti	2276	8880	450	0
 Jaswant Singh Ki Dhāni	2667	7179	217	0
 Jaswāl	3279	7473	581	0
-Jasrāna	2896	7678	485	0
+Jasrāna	2896	7678	485	0		जसराणा
 Kheri Jasaur	2878	7686	609	0
 Jasaur	2878	7687	609	0
 Jasaur	3264	7475	581	0
@@ -299,7 +299,7 @@ Jasola	3308	7571	372	0
 Jasāt	3251	7521	720	0
 Jasiyāl	3262	7535	496	0
 Jasdhār	3264	7542	496	0
-Jasrota	3246	7541	496	0
+Jasrota	3246	7541	496	0		जसरोटा
 Jaswān	3228	7546	692	0
 Jassar	3250	7554	496	0
 Jasra	2528	8178	607	0

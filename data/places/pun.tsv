@@ -1,28 +1,28 @@
-Pune	1852	7386	52	3124458
-Poona	1852	7386	52	3124458	Pune
-Punāsa	2224	7639	209	350000
-Sonepat Punjab	2899	7702	485	289333	Sonīpat
-Poonamalle	1305	8011	228	60607
-Poonamallee	1305	8011	228	60607	Poonamalle
-Punganūru	1337	7857	214	54746
-Punganur	1337	7857	214	54746	Punganūru
-Punalūr	902	7692	549	47263
-Pūndri	2976	7656	638	33484
-Pūnch	3377	7409	1	28197
-Pūnāhāna	2786	7720	544	24734
-Punjai	1107	7802	445	23408	Pugalūr
-Punjaipugalur	1107	7802	445	23408	Pugalūr
+Pune	1852	7386	52	3124458		पुणे
+Poona	1852	7386	52	3124458	Pune	पुणे
+Punāsa	2224	7639	209	350000		पुनासा
+Sonepat Punjab	2899	7702	485	289333	Sonīpat	सोनीपत
+Poonamalle	1305	8011	228	60607		पूनमल्ली
+Poonamallee	1305	8011	228	60607	Poonamalle	पूनमल्ली
+Punganūru	1337	7857	214	54746		पुंगनूर
+Punganur	1337	7857	214	54746	Punganūru	पुंगनूर
+Punalūr	902	7692	549	47263		पुनालूर
+Pūndri	2976	7656	638	33484		पूण्डरी
+Pūnch	3377	7409	1	28197		पुंछ
+Pūnāhāna	2786	7720	544	24734		पुन्हाना
+Punjai	1107	7802	445	23408	Pugalūr	पुगलूर
+Punjaipugalur	1107	7802	445	23408	Pugalūr	पुगलूर
 Punnayūr	1065	7600	241	19387
 Punnayurkulam	1065	7600	241	19387	Punnayūr
 Punjai Puliyampatti	1135	7717	211	18967
-Punjai Thottakurichi	1107	7803	445	10969	Tottakkurichchi
+Punjai Thottakurichi	1107	7803	445	10969	Tottakkurichchi	पुंजई तोट्टकुरिची
 Punādih	2555	8526	604	8277
 Punsri	2339	7311	212	0
 Punyāng	2709	9589	73	0
 Punwat	1995	7905	67	0
-Puntāmba	1977	7462	152	0
+Puntāmba	1977	7462	152	0		पुणताम्बा
 Punrāsar	2821	7379	307	0
-Pūnpūn	2550	8510	604	0
+Pūnpūn	2550	8510	604	0		पुनपुन
 Punnapra	943	7635	243	0
 Punnappira	943	7635	243	0	Punnapra
 Punjūr	1178	7712	69	0
@@ -31,7 +31,7 @@ Punjāsar	2513	7104	285	0
 Punjalkatte	1295	7517	55	0
 Pūngūk	3276	7890	2	0
 Pūndi	1866	8436	472	0
-Pūnchh	2583	7905	433	0
+Pūnchh	2583	7905	433	0		पूँछ
 Punchā	2316	8665	415	0
 Pūnawās	2527	7217	343	0
 Punāsar	2707	7309	344	0
@@ -114,9 +114,9 @@ Puneta	2630	7629	116	0
 Punwaria	2275	7879	522	0
 Punamdo	2447	7397	22	0
 Pūnjna	2556	7407	572	0
-Nangli Puna	2877	7715	769	0
-Punjābi Bāgh	2866	7713	771	0
-Punjābi Bāgh	2867	7714	771	0
+Nangli Puna	2877	7715	769	0		नांगली पुना
+Punjābi Bāgh	2866	7713	771	0		पंजाबी बाग
+Punjābi Bāgh	2867	7714	771	0		पंजाबी बाग
 Punnusa	2946	7480	585	0
 Punerān	2595	7416	446	0
 Punāna	2708	7554	121	0
@@ -283,7 +283,7 @@ Punnappattu	1253	8012	247	0
 Pūndi	1268	8010	247	0
 Pūnjeri	1262	8018	247	0
 Pununkollu	1665	8102	24	0
-Punnavalli	1663	8021	104	0
+Punnavalli	1663	8021	104	0		पुन्नवल्लि
 Punjāmb	1962	8320	284	0
 Puniguda	1982	8334	284	0
 Punjigumma	1916	8315	363	0
@@ -291,7 +291,7 @@ Punjāpai	1912	8323	363	0
 Punjāsili	1885	8290	316	0
 Pungāruvalasa	1862	8288	316	0
 Pungāru	1862	8289	316	0
-Punādipādu	1644	8077	68	0
+Punādipādu	1644	8077	68	0		पुनादिपाडु
 Pūndivalasa	1849	8304	316	0
 Punigiri	1811	8312	179	0
 Pūnu Buchchammapeta	1863	8342	199	0
@@ -630,7 +630,7 @@ Pungi	2449	8636	524	0
 Punidih	2418	8644	452	0
 Pundāli	2050	8419	387	0
 Punināju	2016	8430	387	0
-Pungro	2582	9484	18	0
+Pungro	2582	9484	18	0		पुंगरो
 Punjāsar	2510	7099	285	0
 Pūnji	2223	7803	462	0
 Punnam	1099	7800	445	0

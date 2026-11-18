@@ -2,6 +2,8 @@
 // The index is split into small files by the first letters of a phonetic key, and only the file
 // for what the user is typing is fetched.
 
+import { toHindi } from './hindi.js';
+
 const BASE = 'data/places/';
 const REPL = [['ph', 'f'], ['kh', 'k'], ['gh', 'g'], ['chh', 'c'], ['ch', 'c'], ['jh', 'j'], ['th', 't'], ['dh', 'd'],
   ['bh', 'b'], ['sh', 's'], ['ee', 'i'], ['oo', 'u'], ['w', 'v'], ['z', 'j'], ['q', 'k']];
@@ -43,8 +45,8 @@ const V = {
 };
 const SCHWA_FIRST = ['a', 'e', 'u'];
 const SCHWA = ['a', 'e', 'u', 'o'];
-const DEV_VOWEL = { 'अ': V.a, 'आ': V.a, 'इ': V.i, 'ई': V.i, 'उ': V.u, 'ऊ': V.u, 'ए': V.e, 'ऐ': V.ai, 'ओ': V.o, 'औ': V.au, 'ऋ': V.ri, 'ऑ': V.o };
-const DEV_MATRA = { 'ा': V.a, 'ि': V.i, 'ी': V.i, 'ु': V.u, 'ू': V.u, 'े': V.e, 'ै': V.ai, 'ो': V.o, 'ौ': V.au, 'ृ': V.ri, 'ॉ': V.o };
+const DEV_VOWEL = { 'ऎ': V.e, 'ऒ': V.o, 'अ': V.a, 'आ': V.a, 'इ': V.i, 'ई': V.i, 'उ': V.u, 'ऊ': V.u, 'ए': V.e, 'ऐ': V.ai, 'ओ': V.o, 'औ': V.au, 'ऋ': V.ri, 'ऑ': V.o };
+const DEV_MATRA = { 'ॆ': V.e, 'ॊ': V.o, 'ा': V.a, 'ि': V.i, 'ी': V.i, 'ु': V.u, 'ू': V.u, 'े': V.e, 'ै': V.ai, 'ो': V.o, 'ौ': V.au, 'ृ': V.ri, 'ॉ': V.o };
 const HALANT = '्';
 export const hasDevanagari = (s) => /[\u0900-\u097f]/.test(s);
 
@@ -79,6 +81,27 @@ export function devanagariTokens(q) {
   return tokens;
 }
 
+// Loose sanity check that a Hindi name spells the same place as a Latin name: the first two main
+// consonants (ignoring y, v, h) must agree. Catches wrong matches (Rampur ≠ रैड़ाखोल) while allowing
+// vowel differences (Shillong = शिलांग, Raebareli = रायबरेली, Cuttack = कटक).
+const SKEL_EQ = { c: ['c', 'k'], k: ['k', 'c'], f: ['f', 'p'], p: ['p', 'f'], j: ['j', 'y'], r: ['r', 'd'], d: ['d', 'r'], m: ['m', 'n'], n: ['n', 'm'] };
+export function hindiMatches(hi, latin) {
+  const lat = [...placeKey(latin)].filter((ch) => !/[aeiouyvhw]/.test(ch)).slice(0, 2);
+  const dev = devanagariTokens(hi).filter((t) => t.cons || t.alts.includes('ri') || (t.opt && t.alts.includes('n')));
+  if (lat.length < 2) return true;
+  // य, व and ह may be skipped (they are dropped from the Latin skeleton) unless they match
+  const skippable = (t) => t.alts.includes('y') || t.alts.includes('v') || (t.alts.length === 1 && t.alts[0] === 'h');
+  let i = 0;
+  for (const ch of lat) {
+    const ok = (t) => (SKEL_EQ[ch] || [ch]).some((x) => t.alts.some((a) => a[0] === x));
+    while (i < dev.length && !ok(dev[i]) && skippable(dev[i])) i++;
+    if (i >= dev.length) return true; // Hindi name too short to judge
+    if (!ok(dev[i])) return false;
+    i++;
+  }
+  return true;
+}
+
 export function tokensToRegex(tokens) {
   return new RegExp(`^${tokens.map((t) => `(?:${t.alts.join('|')})${t.opt ? '?' : ''}`).join('')}`);
 }
@@ -110,11 +133,11 @@ const HINDI_ALIASES = {
 
 // Places outside India offered alongside (timezone differs from IST)
 export const FOREIGN = [
-  { name: 'Kathmandu', label: 'Kathmandu, Nepal', lat: 27.7172, lon: 85.324, tz: 5.75 },
-  { name: 'Dubai', label: 'Dubai, UAE', lat: 25.2048, lon: 55.2708, tz: 4 },
-  { name: 'Singapore', label: 'Singapore', lat: 1.3521, lon: 103.8198, tz: 8 },
-  { name: 'London', label: 'London, UK (GMT)', lat: 51.5072, lon: -0.1276, tz: 0 },
-  { name: 'New York', label: 'New York, USA (EST)', lat: 40.7128, lon: -74.006, tz: -5 },
+  { name: 'Kathmandu', label: 'Kathmandu, Nepal', nameHi: 'काठमांडू', labelHi: 'काठमांडू, नेपाल', lat: 27.7172, lon: 85.324, tz: 5.75, hiExact: true },
+  { name: 'Dubai', label: 'Dubai, UAE', nameHi: 'दुबई', labelHi: 'दुबई, संयुक्त अरब अमीरात', lat: 25.2048, lon: 55.2708, tz: 4, hiExact: true },
+  { name: 'Singapore', label: 'Singapore', nameHi: 'सिंगापुर', labelHi: 'सिंगापुर', lat: 1.3521, lon: 103.8198, tz: 8, hiExact: true },
+  { name: 'London', label: 'London, UK (GMT)', nameHi: 'लंदन', labelHi: 'लंदन, ब्रिटेन (GMT)', lat: 51.5072, lon: -0.1276, tz: 0, hiExact: true },
+  { name: 'New York', label: 'New York, USA (EST)', nameHi: 'न्यूयॉर्क', labelHi: 'न्यूयॉर्क, अमेरिका (EST)', lat: 40.7128, lon: -74.006, tz: -5, hiExact: true },
 ];
 
 let indexPromise = null;
@@ -134,9 +157,12 @@ function loadShard(name, idx, fetchFn) {
   if (!shardCache.has(name)) {
     const p = fetchFn(`${BASE}${name}.tsv`).then((r) => (r.ok ? r.text() : '')).then((txt) => txt.split('\n')
       .filter(Boolean).map((line) => {
-        const [n, lat, lon, d, pop, main] = line.split('\t');
-        const [district, s] = idx.districts[Number(d)] || ['', -1];
-        return { name: n, main: main || n, lat: Number(lat) / 100, lon: Number(lon) / 100, district, state: idx.states[s] || '', pop: Number(pop), keys: null };
+        const [n, lat, lon, d, pop, main, hi] = line.split('\t');
+        const [district, s, districtHi] = idx.districts[Number(d)] || ['', -1];
+        return {
+          name: n, main: main || n, hi: hi || '', lat: Number(lat) / 100, lon: Number(lon) / 100, district, districtHi: districtHi || '',
+          state: idx.states[s] || '', stateHi: (idx.statesHi || [])[s] || '', pop: Number(pop), keys: null,
+        };
       })).catch((e) => { shardCache.delete(name); throw e; });
     shardCache.set(name, p);
   }
@@ -160,6 +186,19 @@ export function labelOf(pl) {
   if (pl.district && placeKey(pl.district) !== placeKey(name)) parts.push(pl.district);
   if (pl.state) parts.push(pl.state);
   return parts.join(', ');
+}
+
+// Hindi label: real Hindi names where known (Wikidata/GeoNames), transliteration otherwise
+export function labelHiOf(pl) {
+  const main = pl.main || pl.name;
+  const known = pl.hi && (hindiMatches(pl.hi, main) || hindiMatches(pl.hi, pl.name)) ? pl.hi : '';
+  const name = known || toHindi(main);
+  const parts = [name];
+  const dPlain = (pl.district || '').replace(/\b(District|Division)\b/g, '').trim();
+  const dHi = dPlain ? ((pl.districtHi && hindiMatches(pl.districtHi, dPlain) && pl.districtHi) || toHindi(dPlain)) : '';
+  if (dHi && dHi !== name && placeKey(pl.district) !== placeKey(pl.main || pl.name)) parts.push(dHi);
+  if (pl.stateHi) parts.push(pl.stateHi);
+  return { nameHi: name, labelHi: parts.join(', '), hiExact: Boolean(known) };
 }
 
 /**
@@ -206,7 +245,7 @@ function collect(scored, limit) {
     if (seen.has(id) || seen.has(lbl)) continue;
     seen.add(id); seen.add(lbl);
     results.push({
-      name: r.main, label: lbl, lat: r.lat, lon: r.lon, tz: 5.5,
+      name: r.main, label: lbl, ...labelHiOf(r), lat: r.lat, lon: r.lon, tz: 5.5,
       ...(placeKey(r.name) !== placeKey(r.main) ? { alias: r.name } : {}),
     });
     if (results.length >= limit) break;

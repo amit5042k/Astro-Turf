@@ -1,32 +1,32 @@
 Rohini	2874	7707	769	860000
-Rohtak	2889	7659	719	374292
-Rourkela	2222	8486	272	273317
-Rourkera	2222	8486	272	273317	Rourkela
-Rourella	2222	8486	272	273317	Rourkela
-Roukela	2222	8486	272	273317	Rourkela
-Robertsonpet	1296	7828	47	162230
-Roha	1844	7312	17	90000
-Roha-Kolaba	1844	7312	17	90000	Roha
+Rohtak	2889	7659	719	374292		रोहतक
+Rourkela	2222	8486	272	273317		राउरकेला
+Rourkera	2222	8486	272	273317	Rourkela	राउरकेला
+Rourella	2222	8486	272	273317	Rourkela	राउरकेला
+Roukela	2222	8486	272	273317	Rourkela	राउरकेला
+Robertsonpet	1296	7828	47	162230		रॉबर्टसनपेट
+Roha	1844	7312	17	90000		रोहा
+Roha-Kolaba	1844	7312	17	90000	Roha	रोहा
 Roshanpura	2860	7699	763	57217
-Ropar	3097	7653	735	56038
-Ābu Road	2448	7278	23	55599
-Bhadrachellam Road	1767	8089	60	50087	Bhadrāchalam
-Dehu Road	1868	7373	52	48961
-Wadgaon Road	2038	7811	67	40884	Vadgaon
-Robertsganj	2469	8307	103	37855
-Barpeta Road	2650	9097	358	35571
-Rosera	2575	8603	138	31155
+Ropar	3097	7653	735	56038		रूपनगर
+Ābu Road	2448	7278	23	55599		आबू रोड
+Bhadrachellam Road	1767	8089	60	50087	Bhadrāchalam	भद्राचलम
+Dehu Road	1868	7373	52	48961		देहू रोड
+Wadgaon Road	2038	7811	67	40884	Vadgaon	वडगाँव रोड
+Robertsganj	2469	8307	103	37855		राबर्ट्सगंज
+Barpeta Road	2650	9097	358	35571		बरपेटा रोड
+Rosera	2575	8603	138	31155		रोसड़ा
 Ron	1570	7573	606	23311
-French Rocks	1250	7667	94	20399
+French Rocks	1250	7667	94	20399		पांडवपुरा
 Khariar Road	2090	8251	594	18967
 Merta Road	2672	7392	430	16905
-Janakpur Road	2647	8570	582	15129	Pupri
-Sojat Road	2589	7374	273	12472	Siāt
-Roing	2814	9584	434	11389
-Rongphu	2718	8853	739	10450	Rangpo
+Janakpur Road	2647	8570	582	15129	Pupri	जनकपुर रोड
+Sojat Road	2589	7374	273	12472	Siāt	सोजत रोड
+Roing	2814	9584	434	11389		रोइंग
+Rongphu	2718	8853	739	10450	Rangpo	रंगपो
 Roha	2320	6927	108	8664
-Sibságar Road	2692	9476	520	8286	Simaluguri
-Rohru	3120	7775	479	8160
+Sibságar Road	2692	9476	520	8286	Simaluguri	शिमलुगुड़ी
+Rohru	3120	7775	479	8160		रोहड़ू
 Rosera	2294	7921	522	6770
 Khambra on Nakodar Road	3127	7556	369	5483
 Ror	2457	8141	516	119
@@ -38,7 +38,7 @@ Sohūwāla Chak Rohi	2965	7497	585	0
 Rozi Māta	2255	7004	145	0
 Rozi	2255	7004	145	0	Rozi Māta
 Royapuram	1311	8029	204	0
-Rowta	2671	9223	381	0
+Rowta	2671	9223	381	0		राउता
 Rotung	2814	9515	40	0
 Rosia	2597	7282	344	0
 Bara Rosia	2597	7282	344	0	Rosia
@@ -74,8 +74,8 @@ Rollapenta	1588	7882	200	0
 Rolla	1384	7710	444	0
 Rohal	2804	7487	491	0
 Rol	2804	7487	491	0	Rohal
-Rol	2716	7393	430	0
-Rol Qāziān	2716	7393	430	0	Rol
+Rol	2716	7393	430	0		रोल
+Rol Qāziān	2716	7393	430	0	Rol	रोल
 Rojri	2881	7307	374	0
 Rojhava	2162	7422	186	0
 Roida	2201	8538	293	0
@@ -90,7 +90,7 @@ Rohla	2533	7149	285	0
 Rohisa	2083	7125	216	0
 Rohini	2745	7372	430	0
 Rohini	2448	8665	502	0
-Rohīni	2216	8709	665	0
+Rohīni	2216	8709	665	0		रोहिनी
 Rohīna	2710	7417	430	0
 Rohera	2461	7296	23	0
 Rohat	2596	7313	273	0
@@ -104,7 +104,7 @@ Roddam	1409	7743	444	0
 Roang	3364	7814	2	0
 Rasūlpur Rohta	2904	7755	700	0
 Ronveri	2102	7327	127	0	Rānveri
-Rongli	2720	8870	739	0	Rangli
+Rongli	2720	8870	739	0	Rangli	रोंगली
 Pīpār Road	2645	7345	344	0
 Pīpār Road Junction	2645	7345	344	0	Pīpār Road
 Bombay Naigaum Road	1900	7283	106	0	Naigaum
@@ -113,7 +113,7 @@ Katosan Road	2341	7224	124	0
 Katosan Road Junction	2341	7224	124	0	Katosan Road
 Kotasan Road Junction	2341	7224	124	0	Katosan Road
 Golden Rock	1078	7872	270	0
-Rolā	2353	8572	391	0	Gola
+Rolā	2353	8572	391	0	Gola	गोला
 Gadra Road	2574	7064	285	0
 Castle Rock	1540	7433	59	0
 Bardubi Road	2740	9532	460	0
@@ -145,7 +145,7 @@ Outer Ring Road	1292	7764	43	0
 Agara Sarjapura Road ORR	1292	7765	43	0
 Sarjapur Road Signal	1292	7767	43	0
 Kanakapura Road	1291	7757	43	0
-Bommanahalli, Hosur Road	1291	7763	43	0
+Bommanahalli, Hosur Road	1291	7763	43	0		बोम्मनहल्ली
 Garvi Bhavi Palya Hosur Road	1290	7764	43	0
 Kudlu Gate Hosur Road	1289	7764	43	0
 Hosa Road	1287	7765	43	0
@@ -367,7 +367,7 @@ Rohi	2817	7763	588	0
 Rompalli	1898	8004	135	0
 Rokdānda	2714	8842	85	0
 Rong	2713	8837	85	0
-Rorāthāng	2720	8862	739	0
+Rorāthāng	2720	8862	739	0		रोराथांग
 Hiwra Roshangaon	1972	7607	53	0
 Rojara	2806	7590	300	0
 Rohala	3085	7614	674	0
@@ -452,7 +452,7 @@ Roza Alīpet	1757	7999	762	0
 Roshnāpur	2659	7963	715	0
 Rohini	2637	7967	671	0
 Rollakallu	1674	7906	101	0
-Roshanmau	2648	7996	671	0
+Roshanmau	2648	7996	671	0		रोशनमऊ
 Rohānsi	2749	7862	403	0
 Nagla Roshannagar	2738	7867	403	0
 Rohinia	2550	7986	614	0
@@ -913,7 +913,7 @@ Rongomaliguda	1893	8275	316	0
 Ronginiguda	1857	8252	316	0
 Rolangaput	1803	8255	268	0
 Rongoguda	1887	8275	316	0
-Royyūru	1639	8074	68	0
+Royyūru	1639	8074	68	0		रॊय्यूरु
 Rosaiputtu	1870	8276	316	0
 Ronginiguda	1860	8276	316	0
 Rochipāka	1908	8354	363	0
@@ -1015,7 +1015,7 @@ Rompicherla	1621	7991	10	0
 Rohmar	2416	8506	393	0
 Rohani Purwa	2525	8074	643	0
 Rottigvād	1531	7537	682	0
-Roddakampalle	1411	7742	444	0
+Roddakampalle	1411	7742	444	0		रॊड्डकंपल्लॆ
 Roddammapālem	1388	7720	444	0
 Rollebetta	1385	7711	444	0
 Roppa	1348	7720	93	0
@@ -1103,13 +1103,13 @@ AB2 Pandara Road	2861	7723	721	0
 Ropārlahalli	1347	7795	438	0
 Roza	1584	7804	236	0
 Rollampādu	1587	7814	408	0
-Rollapādu	1574	7836	232	0
+Rollapādu	1574	7836	232	0		रोल्लपाडु
 Rodamvāripalle	1418	7811	444	0
 Ronūr	1339	7825	47	0
 Rollagumpādu	1558	7920	200	0
 Rompidodla	1504	7950	6	0
 Rollamadugu	1409	7904	195	0
-Rompicherla	1367	7905	214	0
+Rompicherla	1367	7905	214	0		रोमपिचेरला
 Rollavāripalli	1318	7900	214	0
 Rosanūru	1384	7990	45	0
 Roshanagaram	1344	7999	228	0
@@ -1242,7 +1242,7 @@ Rodsinga	2084	8480	414	0
 Rongkhelan	2586	9344	405	0
 Ronghang Arong	2586	9345	405	0
 Rohtas	2463	8392	409	0
-Chandrakona Road	2274	8734	677	0
+Chandrakona Road	2274	8734	677	0		चंद्रकोना रोड
 Dambo Rongjeng	2565	9080	490	0
 Ropri	3135	7752	479	0
 Ropri	3149	7766	680	0

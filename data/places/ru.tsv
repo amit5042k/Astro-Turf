@@ -1,21 +1,21 @@
-Rudrapur	2898	7940	641	154554
-Bid Rural	1899	7576	33	146709	Beed
-Roorkee	2987	7789	596	103894
-Rutnagherry	1699	7331	234	76229	Ratnagiri
-Rūpar	3097	7653	735	56038	Ropar
-Rūpnagar	3097	7653	735	56038	Ropar
-Rūdarpur	2644	8361	535	30873
-Rusera	2575	8603	138	28781
+Rudrapur	2898	7940	641	154554		रुद्रपुर
+Bid Rural	1899	7576	33	146709	Beed	बीड
+Roorkee	2987	7789	596	103894		रुड़की
+Rutnagherry	1699	7331	234	76229	Ratnagiri	रत्नागिरि
+Rūpar	3097	7653	735	56038	Ropar	रूपनगर
+Rūpnagar	3097	7653	735	56038	Ropar	रूपनगर
+Rūdarpur	2644	8361	535	30873		रुद्रपुर
+Rusera	2575	8603	138	28781		रोसड़ा
 Palwal Rural	2815	7735	754	23072
-Russelkonda	1993	8458	440	20647	Bhanjanagar
-Rura	2649	7990	671	15908
-Runaj	2299	7552	660	14584	Gautampura
-Runji-Gautampura	2299	7552	660	14584	Gautampura
-Rurki	3037	7647	564	10509
-Rurki Kasba	3037	7647	564	10509	Rurki
-Rungpo	2718	8853	739	10450	Rangpo
+Russelkonda	1993	8458	440	20647	Bhanjanagar	भंजनगर
+Rura	2649	7990	671	15908		रूरा
+Runaj	2299	7552	660	14584	Gautampura	रणजी गौतमपुरा
+Runji-Gautampura	2299	7552	660	14584	Gautampura	रणजी गौतमपुरा
+Rurki	3037	7647	564	10509		रुड़की कसबा
+Rurki Kasba	3037	7647	564	10509	Rurki	रुड़की कसबा
+Rungpo	2718	8853	739	10450	Rangpo	रंगपो
 Rūn	2684	7379	430	9241
-Bargaon Rural	2463	7368	22	9193	Bargaon
+Bargaon Rural	2463	7368	22	9193	Bargaon	बड़गाँव
 Santpur Rural	2447	7277	23	9186	Sāntpur
 Rupahi Town	2642	9275	656	8052
 Rurka Kalān	3112	7570	369	7467
@@ -26,7 +26,7 @@ Rupiabathan	2641	9134	758	4981
 R. Udayagiri	1916	8414	252	4851	Rāmagiri Udayagiri
 Rupa	2720	9240	523	3812
 Rūrka Khurd	3112	7580	369	3194
-Rudraprayāg	3028	7898	365	2571
+Rudraprayāg	3028	7898	365	2571		रुद्रप्रयाग
 Rūpowāl	3109	7570	369	997
 Tikar Run	2314	7110	147	0	Tikar
 Rupnāyal	1662	7471	90	0	Shirguppi
@@ -41,14 +41,14 @@ Rupsa	2163	8702	421	0
 Rupnayāl	1651	7464	77	0
 Rupnyál	1651	7464	77	0	Rupnayāl
 Rūpnārāyanpur	2614	8498	395	0
-Rupnārāyanpur	2381	8689	642	0
+Rupnārāyanpur	2381	8689	642	0		रूपनारायणपुर
 Rūpangarh	2680	7485	446	0
 Rūpnagar	2680	7485	446	0	Rūpangarh
 Rūpjhar	2196	8042	144	0
 Rupidīha	2802	8158	294	0
 Rūpi	3161	7784	83	0
 Rupdevli	2145	7385	254	0
-Rūpbās	2699	7759	114	0
+Rūpbās	2699	7759	114	0		रूपबास
 Rupāwati	2288	7209	124	0
 Rūpāwās	2601	7358	273	0
 Rupāwali	2630	7529	313	0
@@ -91,7 +91,7 @@ Rudrājupalle	1726	8085	46	0
 Rudhauli	2703	8280	154	0
 Rūdāwal	2696	7742	114	0
 Rudaur	2661	7701	447	0
-Rudauli	2675	8175	629	0
+Rudauli	2675	8175	629	0		रुदौली
 Rūdarpur	2666	8325	325	0
 Rudāna	2010	7309	233	0
 Rūdakota	1829	8246	268	0
@@ -220,7 +220,7 @@ Runa	3142	7741	680	0
 Ruwāri	3138	7744	680	0
 Kikarwāla Rupa	3036	7411	3	0
 Rupaiyānwāla	3074	7457	730	0
-Rukhāla	3030	7464	615	0
+Rukhāla	3030	7464	615	0		रुखाला
 Rukan Shāhwāla	3097	7476	566	0
 Rumthal	3115	7727	479	0
 Runreli	3116	7737	479	0
@@ -286,7 +286,7 @@ Ruimāl	2439	7333	22	0
 Rupji ka Gūrha	2489	7374	572	0
 Rūndi	2553	7652	335	0
 Rūpnagar	2573	7666	335	0
-Bhai Rupa	3043	7522	563	0
+Bhai Rupa	3043	7522	563	0		भाई रूपा
 Rupāhera	2493	7619	371	0
 Rūnji	2454	7602	333	0
 Rūppura	2564	7419	309	0
@@ -1124,7 +1124,7 @@ Rūhna Bhola	3054	7647	648	0
 Rūhna Ūncha	3054	7646	648	0
 Rūhna Nīwān	3053	7646	648	0
 Rūrki	3052	7640	648	0
-Rūpālheri	3068	7654	648	0
+Rūpālheri	3068	7654	648	0		रुपालहेड़ी
 Rūpura	2613	7467	446	0
 Rūpura	2602	7453	446	0
 Rupar	3099	7696	628	0
@@ -1201,12 +1201,12 @@ Pura Rudai	2606	8160	718	0
 Rukkuba	1850	8278	316	0
 Bitra Rukkuba	1848	8278	316	0
 Rudrakoti	1260	8006	247	0
-Rudrapāka	1651	8110	68	0
+Rudrapāka	1651	8110	68	0		रुद्रपाक
 Rustumbāda	1643	8168	318	0
 Rudrāvaram	1660	8016	10	0
 Rudravaram	1638	8009	10	0
 Rukmanipuram	1751	8281	227	0
-Rudravaram	1680	8035	104	0
+Rudravaram	1680	8035	104	0		रुद्रवरम्
 Rupeni	1951	8321	284	0
 Rupnipari	1983	8348	363	0
 Rudravaram	1687	8067	104	0
@@ -1579,7 +1579,7 @@ Purwa Rurua	2791	8048	323	0
 Roopangarh	2679	7485	446	0
 Rudrakshipura	1261	7708	94	0
 Rudrāpuram	1214	7739	69	0
-Rudravaram	1576	7809	236	0
+Rudravaram	1576	7809	236	0		रुद्रवरं
 Rudravaram	1556	7811	232	0
 Rūpanagudi	1510	7838	232	0
 Rustumnagaram	1567	7898	200	0
@@ -1740,8 +1740,8 @@ Rugudisugām	2020	8448	387	0
 Runjāgām	2008	8448	440	0
 Rupajhāri	2037	8453	548	0
 Rugdimada	2036	8475	548	0
-Ruksin	2785	9522	97	0
-Rumgong	2831	9489	40	0
+Ruksin	2785	9522	97	0		रुकसिन
+Rumgong	2831	9489	40	0		रुमगोंग
 Rupaichhari	2310	9170	733	0
 Rūppur	2689	7900	290	0
 Rūppur	2688	7899	290	0

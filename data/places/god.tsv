@@ -1,13 +1,13 @@
-Godavari	1696	8224	269	384182	Kākināda
-East Godavari	1696	8224	269	384182	Kākināda
-West Godāvari	1671	8110	24	218020	Eluru
-Godhra	2278	7361	180	143644
-Godhr	2278	7361	180	143644	Godhra
-Godda	2483	8721	592	48480
-Ghodnadi	1883	7437	52	37111	Sirūr
-Godoli	1767	7401	64	22517
-Ghodadongri	2212	7800	462	9745	Ghoradongri
-Ghoda Dongri Ryt	2212	7800	462	9745	Ghoradongri
+Godavari	1696	8224	269	384182	Kākināda	काकीनाडा
+East Godavari	1696	8224	269	384182	Kākināda	काकीनाडा
+West Godāvari	1671	8110	24	218020	Eluru	एलूरू
+Godhra	2278	7361	180	143644		गोधरा
+Godhr	2278	7361	180	143644	Godhra	गोधरा
+Godda	2483	8721	592	48480		गोड्डा
+Ghodnadi	1883	7437	52	37111	Sirūr	शिरूर
+Godoli	1767	7401	64	22517		गोडोली
+Ghodadongri	2212	7800	462	9745	Ghoradongri	घोड़ाडोंगरी
+Ghoda Dongri Ryt	2212	7800	462	9745	Ghoradongri	घोड़ाडोंगरी
 Godiputamatiapara	2014	8570	603	5967
 Godaria	2267	8813	354	1735
 Wāri Godri	1945	7571	53	0
@@ -39,7 +39,7 @@ Godi Bari	2982	7861	612	0
 Godla	2982	7874	612	0
 Godi Chhoti	2981	7862	612	0
 Godamkunta	1749	7865	311	0
-Kala Ghoda	1893	7283	106	0
+Kala Ghoda	1893	7283	106	0		काला घोड़ा
 Godāra Dhāni	2826	7570	300	0
 Godhāra ki Bās	2825	7563	300	0	Gadhāra ka Bās
 Godhni	2709	7986	570	0
@@ -341,7 +341,7 @@ Upporo Godri	1894	8287	316	0
 Tolla Godri	1893	8288	316	0
 Godavarru	1638	8070	319	0
 Godavarrugūdem	1638	8071	319	0
-Godavarru	1642	8076	68	0
+Godavarru	1642	8076	68	0		गॊडवर्रु
 Godakunti	1925	8373	363	0
 Godiābandh	1926	8380	363	0
 Godangi	1942	8394	363	0
@@ -435,9 +435,9 @@ Godmākunta	1775	7897	129	0
 Godhavi	2302	7241	124	0
 Godūru	1266	7754	626	0
 Godigenūru	1500	7860	232	0
-Goddumarri	1460	7801	100	0
-Godduvelagala	1415	7821	444	0
-Godlavīdu	1484	7898	229	0
+Goddumarri	1460	7801	100	0		गॊड्डुमर्रि
+Godduvelagala	1415	7821	444	0		गॊड्डुवॆलगल
+Godlavīdu	1484	7898	229	0		गॊड्लवीडु
 Godvalapalle	1442	7882	229	0
 Goddreddipalle	1419	7880	195	0
 Godzulapalle	1390	7801	444	0

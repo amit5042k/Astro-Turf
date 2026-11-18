@@ -1,6 +1,6 @@
-Kareli	2292	7906	522	29929
-Karera	2546	7814	436	28705
-Kharela	2554	7981	614	13798
+Kareli	2292	7906	522	29929		करेली
+Karera	2546	7814	436	28705		करेरा
+Kharela	2554	7981	614	13798		खरेला
 Khareri	2207	7048	145	0
 Khārepatān	1656	7362	213	0
 Kharem	2782	9613	767	0
@@ -9,9 +9,9 @@ Kareri	2345	7620	314	0
 Karera	2552	7423	309	0
 Kārepalli	1748	8023	46	0
 Karepall	1748	8023	46	0	Kārepalli
-Karen	1285	9288	99	0
-Karen village	1285	9288	99	0	Karen
-Kārempūdi	1643	7972	10	0
+Karen	1285	9288	99	0		केरन
+Karen village	1285	9288	99	0	Karen	केरन
+Kārempūdi	1643	7972	10	0		करमपुड़ी
 Kāregaon	1956	7520	152	0
 Kāregaon	1956	7475	152	0
 Karedu	1519	8006	6	0
@@ -320,7 +320,7 @@ Karekanakanahalli	1486	7588	366	0
 Karekyāthanahalli	1387	7700	93	0
 Kārehalli	1377	7719	93	0
 Kārenhalli	1318	7710	93	0
-Karesankanahalli	1388	7726	444	0
+Karesankanahalli	1388	7726	444	0		कारॆसंकनहल्लि
 Karekalhalli	1346	7736	389	0
 Karenhalli	1337	7749	389	0
 Karemāranhalli	1330	7733	389	0

@@ -1,17 +1,17 @@
-Dalūpura	2861	7732	794	154791
-Dallo Pura	2861	7732	794	154791	Dalūpura
-Daltonganj	2404	8407	701	78396	Medininagar
-Dāltenganj	2404	8407	701	78396	Medininagar
-Dalli Rājhara	2059	8108	668	44363
-Dalsingh Sarai	2567	8584	138	23862
-Dalsingh-Sari	2567	8584	138	23862	Dalsingh Sarai
-Dalkola	2588	8784	610	15285
-Dhaliyur	1101	7685	156	11500	Talaiyūr
-Dalmau	2606	8103	681	11432
-Dalavaipatti	1166	7808	51	7732
-Dalavaypattanam	1166	7808	51	7732	Dalavaipatti
-Dalavoipatnam	1166	7808	51	7732	Dalavaipatti
-Dalhousie	3255	7595	362	7601
+Dalūpura	2861	7732	794	154791		दाल्लो पुरा
+Dallo Pura	2861	7732	794	154791	Dalūpura	दाल्लो पुरा
+Daltonganj	2404	8407	701	78396	Medininagar	डाल्टेनगंज
+Dāltenganj	2404	8407	701	78396	Medininagar	डाल्टेनगंज
+Dalli Rājhara	2059	8108	668	44363		दल्ली राजहरा
+Dalsingh Sarai	2567	8584	138	23862		दलसिंहसराय
+Dalsingh-Sari	2567	8584	138	23862	Dalsingh Sarai	दलसिंहसराय
+Dalkola	2588	8784	610	15285		डालखोला
+Dhaliyur	1101	7685	156	11500	Talaiyūr	दलियूर
+Dalmau	2606	8103	681	11432		डलमऊ
+Dalavaipatti	1166	7808	51	7732		दलवाईपट्टी
+Dalavaypattanam	1166	7808	51	7732	Dalavaipatti	दलवाईपट्टी
+Dalavoipatnam	1166	7808	51	7732	Dalavaipatti	दलवाईपट्टी
+Dalhousie	3255	7595	362	7601		डलहौजी
 Dhali	1051	7719	235	6494
 Dalavaypuram	939	7750	119	5474
 Dhalavoipuram	939	7750	119	5474	Dalavaypuram
@@ -25,16 +25,16 @@ Dalu	2492	9278	378	0
 Dalpatpur	2413	7901	352	0
 Dalot	2367	7485	633	0
 Dalaud	2367	7485	633	0	Dalot
-Dalmianagar	2488	8415	409	0
+Dalmianagar	2488	8415	409	0		डालमियानगर
 Kunwar Dalli	2065	8071	644	0
 Dalli	2065	8071	644	0	Kunwar Dalli
 Dalla	3117	7524	565	0
 Dalkhānia	2124	7093	216	0
 Dālīmb	1787	7648	48	0
 Dalgoma	2611	9079	458	0
-Dalgaon	2656	9220	747	0
-Dalelwāla	2983	7542	709	0
-Dalewāla	2983	7542	709	0	Dalelwāla
+Dalgaon	2656	9220	747	0		दलगाँव
+Dalelwāla	2983	7542	709	0		दलेलवाला
+Dalewāla	2983	7542	709	0	Dalelwāla	दलेलवाला
 Dalbuing	2854	9519	392	0
 Dalavāypattanam	1067	7748	235	0
 Dalavoipatnam	1067	7748	235	0	Dalavāypattanam
@@ -107,7 +107,7 @@ Dhalpur	2692	9380	355	0
 Daldali	2028	8167	704	0
 Dalawada	2438	7490	655	0
 Daldali	2238	8118	537	0
-Dalu	2521	9023	399	0
+Dalu	2521	9023	399	0		दालु
 Dalak	2001	8498	548	0
 Laow Dalani	2680	9320	302	0
 Dalua	2060	8573	303	0
@@ -184,7 +184,7 @@ Dalpura	2674	7664	447	0
 Dalsinghpura	2624	7671	447	0
 Dallewāla	2980	7749	449	0	Āzampur
 Dalāpura	2614	7693	447	0
-Dalheri	2972	7752	449	0
+Dalheri	2972	7752	449	0		दल्हेड़ी
 Dalīppura	2955	7762	545	0
 Dhālāpathār	2226	7861	337	0
 Daleldhāna	2235	7868	337	0
@@ -1089,7 +1089,7 @@ Dālpaka	2100	8451	414	0
 Dalki	2066	8464	414	0
 Dalaksāhi	2050	8462	386	0
 Dalaka	2014	8453	387	0
-Dhalbhumgarh	2251	8656	584	0
+Dhalbhumgarh	2251	8656	584	0		धालभूमगढ़
 Daleiput	2014	8560	541	0
 Dallāpur	2539	8199	607	0
 Dhāli	3102	7716	479	0

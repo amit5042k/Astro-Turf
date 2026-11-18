@@ -1,30 +1,30 @@
-Surat	2120	7283	139	4591246
-Suryanagar	3409	7481	611	1206419	Srinagar
-Surendranagar	2273	7165	28	179628
-Surendranagar Dudhrej	2273	7165	28	179628	Surendranagar
-Surquja	2312	8320	725	121071	Ambikāpur
-Surguja	2312	8320	725	121071	Ambikāpur
-Suriāpet	1714	7962	250	111729
-Suryapet	1714	7962	250	111729	Suriāpet
-Suratgarh	2932	7390	374	70536
-Sūri	2391	8753	361	64659	Siuri
-Sūrāpur	1652	7676	72	51398	Shorāpur
-Suratur	1652	7676	72	51398	Shorāpur
+Surat	2120	7283	139	4591246		सूरत
+Suryanagar	3409	7481	611	1206419	Srinagar	श्रीनगर
+Surendranagar	2273	7165	28	179628		वधावन
+Surendranagar Dudhrej	2273	7165	28	179628	Surendranagar	वधावन
+Surquja	2312	8320	725	121071	Ambikāpur	अम्बिकापुर
+Surguja	2312	8320	725	121071	Ambikāpur	अम्बिकापुर
+Suriāpet	1714	7962	250	111729		सूर्यापेट
+Suryapet	1714	7962	250	111729	Suriāpet	सूर्यापेट
+Suratgarh	2932	7390	374	70536		सूरतगढ़
+Sūri	2391	8753	361	64659	Siuri	सिउड़ी
+Sūrāpur	1652	7676	72	51398	Shorāpur	शोरापुर
+Suratur	1652	7676	72	51398	Shorāpur	शोरापुर
 Sūrampatti	1133	7771	211	41782
-Sūrandai	898	7742	245	35272
+Sūrandai	898	7742	245	35272		सुरनडई
 Sūryampālaiyam	1140	7771	231	28585
 Suryaraopeta	1700	8222	269	24112
-Sūrajgarh	2831	7573	300	21666
+Sūrajgarh	2831	7573	300	21666		सूरजगढ़
 Surajpur	2321	8287	413	20189
-Suriānwān	2546	8242	583	19157
-Surat	2095	7290	221	17325	Jalalpore
-Surada	1976	8443	440	15117	Sorada
+Suriānwān	2546	8242	583	19157		सुरियावाँ
+Surat	2095	7290	221	17325	Jalalpore	जलालपोर
+Surada	1976	8443	440	15117	Sorada	सोरडा
 Sūrappattu	1314	8019	204	10444
 Surala	1913	8475	440	8258	Sorala
 Surankōt	3363	7427	1	6743
-Surgāna	2056	7364	54	6566
-Survepalle Bit ? II	1427	7996	6	5129
-Suranga	2371	8646	401	4708
+Surgāna	2056	7364	54	6566		सुरगाणा
+Survepalle Bit ? II	1427	7996	6	5129		सर्वेपल्ली
+Suranga	2371	8646	401	4708		सुरंगा
 1 Arm (Surjanwali)	2875	7314	307	758
 Surja	3113	7574	369	690
 Sūryanallūr	1082	7748	235	0
@@ -40,13 +40,13 @@ Surta	2307	8277	413	0
 Sur Singh	3140	7472	260	0
 Sursi	2238	7313	159	0
 Sursara	2673	7488	446	0
-Sursand	2662	8566	582	0
+Sursand	2662	8566	582	0		सुरसंड
 Surpura Khurd	2671	7348	344	0
 Sūrpura	2671	7348	344	0	Surpura Khurd
 Surpura	2590	7257	285	0
 Surpan	2182	7380	254	0
 Surpālia	2747	7405	430	0
-Suroth	2681	7715	447	0
+Suroth	2681	7715	447	0		सूरौठ
 Surla	1567	7417	188	0
 Surla	1550	7403	188	0
 Surla	1542	7420	102	0
@@ -55,7 +55,7 @@ Surkhi	2363	7883	352	0
 Surjansar	2906	7347	374	0
 Surjannagar	2923	7871	511	0
 Surjāgarh	1960	8042	135	0
-Surīr	2777	7772	177	0
+Surīr	2777	7772	177	0		सुरीर
 Suribān	1589	7540	77	0
 Surihan	1589	7540	77	0	Suribān
 Sūriapālem	1655	8056	104	0
@@ -67,11 +67,11 @@ Surda	2255	8644	584	0
 Surawāla	2959	7455	486	0
 Sūrtiya	2980	7519	585	0
 Suratiya	2980	7519	585	0	Sūrtiya
-Sūratganj	2720	8133	30	0
-Suratgarh	2720	8133	30	0	Sūratganj
-Surathakal	1300	7481	55	0
-Suraikal	1300	7481	55	0	Surathakal
-Suratkal	1300	7481	55	0	Surathakal
+Sūratganj	2720	8133	30	0		सूरतगंज
+Suratgarh	2720	8133	30	0	Sūratganj	सूरतगंज
+Surathakal	1300	7481	55	0		सूरतकल
+Suraikal	1300	7481	55	0	Surathakal	सूरतकल
+Suratkal	1300	7481	55	0	Surathakal	सूरतकल
 Sūrāreddipālem	1541	8005	200	0
 Sūrāpur	2650	8259	553	0
 Surangi	1916	8453	440	0
@@ -82,7 +82,7 @@ Surajpur Khās	2623	8361	586	0
 Surajpura	2526	8423	409	0
 Surajpur	3079	7690	587	0
 Sūrajpur	2851	7748	588	0
-Surajgarha	2525	8623	589	0
+Surajgarha	2525	8623	589	0		सूरजगढ़ा
 Sur	2270	8335	439	0
 Sure	3096	7822	89	0	Sar
 Kotli Surat Malii	3194	7509	487	0
@@ -153,7 +153,7 @@ Surpura Khurd	2867	7562	431	0
 Surjansar	2826	7416	307	0
 Surjārām ki Dhāni	2817	7428	307	0
 Sūrampūd	1669	8168	318	0
-Surāram	1868	8000	237	0
+Surāram	1868	8000	237	0		सुरराम
 Surgura	2210	8384	349	0
 Suryanelli	1005	7719	258	0
 Nagrota Surian	3210	7605	38	0
@@ -1142,13 +1142,13 @@ Surilikunta	1821	8202	109	0
 Surjigūda	1852	8224	109	0
 Surini	1935	8333	363	0
 Sūri	1927	8347	363	0
-Sūrampalle	1659	8072	68	0
+Sūrampalle	1659	8072	68	0		सूरंपल्लि
 Surada	1929	8356	363	0
 Surtipili	1810	8239	268	0
 Surtipalle	1802	8247	268	0
 Surdeki	1800	8249	268	0
 Surganaput	1870	8274	316	0
-Sūrepalle	1691	8090	24	0
+Sūrepalle	1691	8090	24	0		सूरॆपल्लि
 Suruni	1908	8357	363	0
 Surapai	1920	8362	363	0
 Surpangūda	1839	8108	599	0
@@ -1471,7 +1471,7 @@ Sursa	2729	8013	686	0
 Surāpur	2726	8020	686	0
 Sūrat Singh Purwa	2704	8003	686	0
 Sūratpur	2713	8017	686	0
-Surathkal	1298	7480	55	0
+Surathkal	1298	7480	55	0		सूरतकल
 Sooranad North	911	7662	549	0
 Sooranad	911	7663	549	0
 Surapalli	1368	7791	438	0
@@ -1700,5 +1700,5 @@ Surundi	2064	8459	386	0
 Surumoni	2009	8469	440	0
 Suruhuto	2615	9459	7	0
 Sūrajpur	2854	7752	588	0
-Surāram	1870	8004	408	0
+Surāram	1870	8004	408	0		सुरराम
 Sūrajpura	2614	7473	446	0

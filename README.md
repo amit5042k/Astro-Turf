@@ -19,6 +19,9 @@ English and Hindi. No build step, no backend, works offline.
   tolerates spelling variants (Darjeeling/Darjiling, Nainital/Naini Tal) and old names (Bombay, Allahabad, Gurgaon).
   Names can be typed **in Hindi** too (वाराणसी, कानपुर, नई दिल्ली): Devanagari is transliterated into the same
   phonetic key, with Hindi's silent inherent "a" treated as optional, so every place is searchable either way.
+  Results show **Hindi and English names together**. About 8,900 places, 660 districts and all states have their
+  real Hindi names from Wikidata (matched by GeoNames ID, or by name within 5 km, then checked against the English
+  spelling); the rest are transliterated in the browser by `js/hindi.js`, a readable approximation.
   The list is split into ~1,100 small files by the first letters typed, so a search downloads only 20–200 KB.
   Rebuild with `tools/build_places.py` (instructions at the top of the script), then bump `PLACES` in `sw.js`.
 - **Free Kundli**: Lagna, Moon sign, birth nakshatra, North-Indian lagna chart, planetary positions table.
@@ -47,6 +50,6 @@ node --test tests/*.mjs
 Checks ayanamsa, equinox, Makar Sankranti, the 12 Aug 2026 eclipse, 2026 slow-planet signs, ascendant = Sun at
 sunrise, Delhi sunrise time, Purnima tithi, and that every lagna's weekly reading is complete in both languages.
 
-Place data © GeoNames (geonames.org), CC BY 4.0.
+Place data © GeoNames (geonames.org), CC BY 4.0. Hindi place names from Wikidata (CC0).
 
 Astrology content is for guidance/entertainment, not professional advice.

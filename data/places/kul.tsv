@@ -1,24 +1,24 @@
-Kulbarga	1734	7684	71	543147	Kalaburagi
-Kullamalai	888	7658	549	367107	Kollam
-Kulti	2373	8684	642	305405
+Kulbarga	1734	7684	71	543147	Kalaburagi	कल्बुर्गि
+Kullamalai	888	7658	549	367107	Kollam	कोल्लम
+Kulti	2373	8684	642	305405		कुलटि
 Kulathummal	851	7708	219	40448
-Kulittalai	1093	7841	445	27910
+Kulittalai	1093	7841	445	27910		कुलितलई
 Kullattūr	1294	8019	247	27374
 Kulasēkarapuram	909	7653	549	26907
-Kulgam	3364	7502	35	23584
-Kulu	3196	7711	680	19831
+Kulgam	3364	7502	35	23584		कुलगाम
+Kulu	3196	7711	680	19831		कुल्लू
 Kulpahār	2532	7964	614	18976
-Kulattuppālaiyam	1076	7758	235	17819
-Kulasegaram	836	7730	453	17267
-Kulasekharam	836	7730	453	17267	Kulasegaram
-Khuldābād	2001	7519	113	15749
-Kullikota	1961	8509	440	13022	Khallikot
+Kulattuppālaiyam	1076	7758	235	17819		कोलतुपालयम
+Kulasegaram	836	7730	453	17267		कुलसेकरम
+Kulasekharam	836	7730	453	17267	Kulasegaram	कुलसेकरम
+Khuldābād	2001	7519	113	15749		खुलदाबाद
+Kullikota	1961	8509	440	13022	Khallikot	खल्लीकोट
 Kulattūr	1185	7775	51	12748
 Kulattūr	1071	7855	270	11083
 Kulattūr	900	7819	208	10632
 Koolimuttam	1029	7614	241	8823
 Kulappuram	832	7715	453	7677
-Kullāda	1997	8463	440	5645
+Kullāda	1997	8463	440	5645		कुलाड़
 Kullursandai	954	7798	119	5383
 Kulad	2084	8517	414	4256
 Nungbi Khulen	2521	9446	364	0	Longbi Hirei
@@ -26,7 +26,7 @@ Kulur Kudrū	1292	7482	55	0
 Kulurkudiu	1292	7482	55	0	Kulur Kudrū
 Kulua	2380	8135	634	0
 Kulriān	2980	7568	709	0
-Kulpi	2208	8824	4	0
+Kulpi	2208	8824	4	0		कुलपी
 Kullichettippatti	1010	7782	187	0
 Kulli	2264	7373	180	0
 Kullanchāvadi	1163	7967	178	0
@@ -126,7 +126,7 @@ Khordda Kulbaria	2320	8886	450	0
 Khulisa	2015	8605	303	0
 Kulasahi	2071	8629	376	0
 Kulundi	2145	8419	567	0
-Kulathupuzha	891	7706	549	0
+Kulathupuzha	891	7706	549	0		कुलतूपुड़ा
 Kulikawn	2371	9273	19	0
 Kultali	2190	8840	4	0
 Khullakpam	2462	9401	95	0
@@ -881,7 +881,7 @@ Mel Kulasekharrankottai	929	7760	245	0
 Kulasekharankottai	927	7766	245	0
 Kulakkattākurichchi	921	7772	245	0
 Kulasekharampudūr	820	7747	453	0
-Kulasekharapuram	814	7750	453	0
+Kulasekharapuram	814	7750	453	0		कुलसेकरपुरम
 Kulattorapuram	891	7762	191	0	Balabhadrarāmapuram
 Kulavanikapuram	871	7773	191	0
 Kulavanikapuram	869	7774	191	0
@@ -993,7 +993,7 @@ Kulappākkam	1158	7914	178	0
 Chinna Kulippatti	1055	7783	187	0
 Periya Kulippatti	1055	7783	187	0
 Kulattupālaiyam	1055	7777	187	0
-Kulumūr	1131	7915	383	0
+Kulumūr	1131	7915	383	0		कुलुमुर
 Kullampatti	1043	7781	187	0
 Kulattuppatti	1041	7784	187	0
 Kullanampatti	1035	7799	187	0

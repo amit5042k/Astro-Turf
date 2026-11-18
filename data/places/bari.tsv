@@ -1,15 +1,15 @@
-Baripāda	2193	8673	382	116849
-Bāri	2665	7762	622	62721
-Devgadh Bāriya	2271	7391	173	21030
-Bariya	2271	7391	173	21030	Devgadh Bāriya
-Devgad Bāria	2271	7391	173	21030	Devgadh Bāriya
-Bāria	2271	7391	173	21030	Devgadh Bāriya
-Bari Sādri	2441	7447	417	15713
+Baripāda	2193	8673	382	116849		बारिपदा
+Bāri	2665	7762	622	62721		बारी
+Devgadh Bāriya	2271	7391	173	21030		देवगढ़ बारिया
+Bariya	2271	7391	173	21030	Devgadh Bāriya	देवगढ़ बारिया
+Devgad Bāria	2271	7391	173	21030	Devgadh Bāriya	देवगढ़ बारिया
+Bāria	2271	7391	173	21030	Devgadh Bāriya	देवगढ़ बारिया
+Bari Sādri	2441	7447	417	15713		बड़ी सादड़ी
 Brāhmanān di Bāri	3264	7491	720	15453
 Bari Brahamana	3264	7491	720	15453	Brāhmanān di Bāri
-Bariārpur	2529	8658	538	14595
+Bariārpur	2529	8658	538	14595		बरियारपुर
 Khaira Bari	2651	9097	358	10210
-Bārīgarh	2523	8003	663	8918
+Bārīgarh	2523	8003	663	8918		बारीगढ़
 Bariwala	3054	7465	615	8668	Baruwāli
 Barika Chuburi	2664	9281	356	7911
 Barua Bari Gaon	2612	9197	359	5444
@@ -24,7 +24,7 @@ Bharrīdānd	2292	8207	757	0
 Bhariād	2228	7217	124	0
 Barria	2422	7487	525	0
 Bari Pattan	3307	7436	504	0
-Bārīgarh	3268	7520	373	0
+Bārīgarh	3268	7520	373	0		बारीगढ़
 Bāriā	2232	8028	144	0
 Bāri	2546	7416	309	0
 Bāri	2451	7466	417	0
@@ -383,7 +383,7 @@ Nāl Bari	2805	7320	307	0
 Baria Dārda	2755	7945	688	0
 Bāriarpur	2491	8031	532	0
 Bari Kumhār ki Dhāni	2811	7326	307	0
-Shiv Bari	2800	7336	307	0
+Shiv Bari	2800	7336	307	0		शिव बाड़ी
 Jirwār Bari	2465	8070	324	0
 Bariārepur	2581	8240	32	0
 Chak Dost Bārīgaon	2560	8258	32	0
@@ -1065,7 +1065,7 @@ Bāri Bigha	2530	8507	604	0
 Bariārpur	2535	8521	514	0
 Baria Kalān	2549	8523	604	0
 Bhāridih	2564	8764	625	0
-Bharri	2568	8773	625	0
+Bharri	2568	8773	625	0		भर्री
 Bhāg Bharri	2562	8780	625	0
 Bāripokhar	2558	8792	625	0
 Barihāla	2560	8796	625	0

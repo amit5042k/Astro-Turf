@@ -1,18 +1,18 @@
-Lucknow	2684	8092	714	2472011
-Lucknow City	2684	8092	714	2472011	Lucknow
-Ludhiana	3091	7585	674	1618879
-Luckeesarai	2518	8609	589	99979
-Luckesserai	2518	8609	589	99979	Luckeesarai
-The city of Looms and Lores	1187	7536	266	62836	Kannur
-Lunglei	2289	9274	14	57011
-Lungliah	2289	9274	14	57011	Lunglei
-Lungleh	2289	9274	14	57011	Lunglei
-Lūnāvāda	2313	7361	142	36954
-Lumding Railway Colony	2575	9317	706	31347
-Lumding	2575	9317	706	31347	Lumding Railway Colony
+Lucknow	2684	8092	714	2472011		लखनऊ
+Lucknow City	2684	8092	714	2472011	Lucknow	लखनऊ
+Ludhiana	3091	7585	674	1618879		लुधियाना
+Luckeesarai	2518	8609	589	99979		लखीसराय
+Luckesserai	2518	8609	589	99979	Luckeesarai	लखीसराय
+The city of Looms and Lores	1187	7536	266	62836	Kannur	कण्णूर
+Lunglei	2289	9274	14	57011		लुंगलेई
+Lungliah	2289	9274	14	57011	Lunglei	लुंगलेई
+Lungleh	2289	9274	14	57011	Lunglei	लुंगलेई
+Lūnāvāda	2313	7361	142	36954		लुणावाडा
+Lumding Railway Colony	2575	9317	706	31347		लामडिंग
+Lumding	2575	9317	706	31347	Lumding Railway Colony	लामडिंग
 Luctor	2286	7179	28	14534	Lakhtar
 Luxettipet	1887	7922	91	11322	Lakshettipet
-Luisinga	2087	8352	394	6220	Loisinga
+Luisinga	2087	8352	394	6220	Loisinga	लोईसिंहा
 Luwangsangbam	2487	9392	96	3458
 Luwārsāl	2209	7013	145	0
 Lūtu	2821	7525	300	0
@@ -20,7 +20,7 @@ Lus	2232	6990	145	0
 Lūnsara	2700	7404	430	0
 Lunsira	2700	7404	430	0	Lūnsara
 Lunsar	2266	7110	147	0
-Lūnkaransar	2850	7376	307	0
+Lūnkaransar	2850	7376	307	0		लूणकरणसर
 Lunkagar	2005	8362	387	0
 Lunkagarh	2005	8362	387	0	Lunkagar
 Lūni Junction	2600	7301	344	0
@@ -110,7 +110,7 @@ Lunās	2871	7496	539	0
 Lūnāsar	2860	7425	539	0
 Lumshken	2532	9226	435	0
 Lung Chhuan	2402	9277	526	0
-Lukhambi	2489	9361	576	0
+Lukhambi	2489	9361	576	0		लुखाम्बी
 Lungithang	2603	9434	70	0
 Lunghan	2517	9444	364	0
 Luktara	2561	8032	463	0
@@ -702,7 +702,7 @@ Lukmātolā	2180	8049	144	0
 Lūd	2189	8049	144	0
 Luchgarh	3151	7530	222	0
 Lūtnā	2191	8062	144	0
-Lundāwās	2597	7362	273	0
+Lundāwās	2597	7362	273	0		लुंडावास
 Ludhiāni	3183	7562	296	0
 Lusda	2257	8214	291	0
 Lule	2075	7450	54	0
@@ -1111,5 +1111,5 @@ Lundrujhari	2053	8461	386	0
 Luhāsingha	2063	8466	414	0
 Lukāijula	2028	8452	387	0
 East Lungdar	2320	9309	13	0
-Lumla	2753	9172	531	0
+Lumla	2753	9172	531	0		लुमला
 Luniāna	2606	8275	498	0

@@ -1,28 +1,28 @@
-Gola Gokarannāth	2808	8047	323	58986
-Gola	2808	8047	323	58986	Gola Gokarannāth
-Golāghāt	2651	9396	740	41989
-Gola Bāzār	2634	8335	325	10936
+Gola Gokarannāth	2808	8047	323	58986		गोला गोकर्णनाथ
+Gola	2808	8047	323	58986	Gola Gokarannāth	गोला गोकर्णनाथ
+Golāghāt	2651	9396	740	41989		गोलाघाट
+Gola Bāzār	2634	8335	325	10936		गोला बाज़ार
 Golaghatia Basti	2599	9286	706	9809
-Golakganj	2610	8982	561	8244
-Golakgans	2610	8982	561	8244	Golakganj
+Golakganj	2610	8982	561	8244		गोलकगंज
+Golakgans	2610	8982	561	8244	Golakganj	गोलकगंज
 Golkhera	2244	7566	660	5409
 Goler	3200	7615	38	0	Guler
 Goluwāli	2963	7405	486	0
 Goluwala	2963	7405	486	0	Goluwāli
 Goltim	1553	7390	188	0
-Gollapūdi	1654	8058	104	0
+Gollapūdi	1654	8058	104	0		गोल्लापुड़ि
 Gollapalli	1839	7864	230	0
-Gollapalle	1673	8091	24	0
-Gollapalli	1673	8091	24	0	Gollapalle
+Gollapalle	1673	8091	24	0		गोल्लपल्ली
+Gollapalli	1673	8091	24	0	Gollapalle	गोल्लपल्ली
 Gollapalle	1498	7828	229	0
-Chinna Gollapālem	1637	8153	68	0
-Gollapālem	1637	8153	68	0	Chinna Gollapālem
+Chinna Gollapālem	1637	8153	68	0		चिनगॊल्लपालॆं
+Gollapālem	1637	8153	68	0	Chinna Gollapālem	चिनगॊल्लपालॆं
 Gollapālem	1431	7979	6	0
 Gollapālem	1410	7979	45	0
 Gollapalli	1793	8107	599	0
 Gollapaili	1793	8107	599	0	Gollapalli
 Gollagūdem	1772	8062	60	0
-Golla	1460	7721	100	0
+Golla	1460	7721	100	0		गॊल्ल
 Gōlitattu	1284	7537	55	0
 Golikatte	1361	7486	257	0
 Golhaura	2744	8292	292	0
@@ -43,7 +43,7 @@ Golāna	2246	7242	157	0
 Golai	2169	7697	209	0
 Goladgaon	1983	7562	113	0
 Golatgaon	1983	7562	113	0	Goladgaon
-Gola	2353	8572	391	0
+Gola	2353	8572	391	0		गोला
 Gol	2662	7639	708	0
 Gol	2538	7244	343	0
 Gholvad	2008	7273	192	0
@@ -440,7 +440,7 @@ Golugonda	1768	8247	227	0
 Pedda Golugonda	1752	8246	227	0
 Chinna Golugonda	1752	8246	227	0
 Gollagūdem	1652	8129	24	0
-Chinna Gollapālem	1637	8149	68	0
+Chinna Gollapālem	1637	8149	68	0		चिनगॊल्लपालॆं
 Pedda Gollapālem	1636	8143	68	0
 Gollagūdem	1639	8137	68	0
 Gollagūdem	1682	8152	318	0
@@ -466,14 +466,14 @@ Gollalapālem	1779	8286	227	0
 Gollalapālem	1779	8284	227	0
 Pedda Gollalapālem	1757	8283	227	0
 Chinna Gollalapālem	1757	8283	227	0
-Gollamūdi	1678	8035	104	0
+Gollamūdi	1678	8035	104	0		गॊल्लपूडि
 Golagola	1965	8344	363	0
 Gollapūdi Agrahāram	1602	8035	220	0
 Gollapālem	1618	8049	319	0
 Gollagūda	1852	8214	109	0
 Golangagūda	1898	8238	316	0
 Gollirigūda	1886	8244	316	0
-Gollamandala	1698	8067	104	0
+Gollamandala	1698	8067	104	0		गॊल्लमंद
 Gollagūdem	1698	8071	104	0
 Golikonda	1849	8236	109	0
 Goliputtu	1843	8248	268	0
@@ -517,7 +517,7 @@ Golaganapeta	1803	8340	179	0
 Gollalupeta	1807	8338	179	0
 Gollapeta	1824	8336	179	0
 Gollalupeta	1810	8345	179	0
-Golagām	1800	8345	179	0
+Golagām	1800	8345	179	0		गोलगम
 Gollavalasa	1888	8352	199	0
 Gollaguppa	1777	8112	46	0
 Goluguvalasa Agrahāram	1852	8354	179	0
@@ -635,7 +635,7 @@ Golikerē	1375	7476	257	0
 Golīangadi	1354	7491	257	0
 Gollarhatti	1472	7503	92	0
 Gollarhatti	1471	7508	92	0
-Gollapalle	1467	7750	100	0
+Gollapalle	1467	7750	100	0		गॊल्लपल्लॆ
 Gollapalle	1456	7764	100	0
 Gollapalle	1437	7771	444	0
 Gollapalle	1444	7770	444	0
@@ -701,7 +701,7 @@ Gollahalli	1343	7734	93	0
 Golhalli	1332	7739	389	0
 Golhalli	1339	7727	93	0
 Gollarpālya	1302	7740	43	0
-Gollāpuram	1373	7753	569	0
+Gollāpuram	1373	7753	569	0		गोल्लपुरम्
 Gollapalle	1391	7753	444	0
 Gollapalle	1394	7768	444	0
 Gollapalle	1383	7764	444	0
@@ -992,7 +992,7 @@ Gollahalli	1265	7752	626	0
 Goliahalli	1254	7764	223	0
 Kengainatta Golhalli	1251	7754	626	0
 Gollapalli	1250	7771	223	0
-Gollagutta	1541	7819	232	0
+Gollagutta	1541	7819	232	0		गॊर्लगुट्ट
 Gollalauppalapādu	1497	7829	229	0
 Gollapalle	1476	7873	229	0
 Gollapalle	1483	7870	229	0
@@ -1004,7 +1004,7 @@ Gollapalle	1411	7825	444	0
 Gollapalle	1483	7891	229	0
 Gollapalle	1475	7891	229	0
 Gollapalle	1450	7890	229	0
-Gollapalle	1445	7900	229	0
+Gollapalle	1445	7900	229	0		गॊल्लपल्लॆ
 Gollapalleagrahāram	1438	7882	229	0
 Gollapalle	1440	7882	229	0
 Gollapalle	1418	7877	195	0
@@ -1276,7 +1276,7 @@ Golābandha	2011	8457	440	0
 Golāsar	2098	8479	414	0
 Golabandh	2085	8499	414	0
 Golamunda	2006	8279	284	0
-Gollaprolu	1716	8228	269	0
+Gollaprolu	1716	8228	269	0		गोल्लप्रोलु
 Gollapalli	1837	7868	408	0
 Gollapālem	1644	8157	318	0
 Gollarhatti	1419	7600	275	0

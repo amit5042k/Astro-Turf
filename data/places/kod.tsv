@@ -1,36 +1,36 @@
 Kodarma	2443	8553	473	87867	Jhumri Telaiya
-Kodār	1700	7997	250	64234
-Kodad	1700	7997	250	64234	Kodār
-Kodungallūr	1023	7620	241	60190
+Kodār	1700	7997	250	64234		कोदड़
+Kodad	1700	7997	250	64234	Kodār	कोदड़
+Kodungallūr	1023	7620	241	60190		कोडुंगलूर
 Kodur	1102	7607	150	45459
-Kodīnar	2079	7070	136	41492
-Kodina	2079	7070	136	41492	Kodīnar
-Kodaikānāl	1024	7749	187	36501
-Kodaikān	1024	7749	187	36501	Kodaikānāl
-Kodoli	1767	7403	64	26106
-Kodarma	2447	8559	473	24633
+Kodīnar	2079	7070	136	41492		कोडीनार
+Kodina	2079	7070	136	41492	Kodīnar	कोडीनार
+Kodaikānāl	1024	7749	187	36501		कोडैकानल
+Kodaikān	1024	7749	187	36501	Kodaikānāl	कोडैकानल
+Kodoli	1767	7403	64	26106		कोडोली
+Kodarma	2447	8559	473	24633		कोडरमा
 Kodamthuruth	980	7630	243	21295
-Koduvayur	1069	7666	263	20703
-Kodoli	1688	7419	57	17537
-Kodavasal	1086	7948	267	14639
-Kodala	1962	8494	440	13965
-Kodumudi	1108	7788	211	13225
-Kodikkulam	965	7759	119	12713
-South Kodikulam	965	7759	119	12713	Kodikkulam
+Koduvayur	1069	7666	263	20703		कोडुवायूर
+Kodoli	1688	7419	57	17537		कोडोली
+Kodavasal	1086	7948	267	14639		कुडवासल
+Kodala	1962	8494	440	13965		कोदला
+Kodumudi	1108	7788	211	13225		कोडुमुडी
+Kodikkulam	965	7759	119	12713		दक्षिण कोडिकुलम
+South Kodikulam	965	7759	119	12713	Kodikkulam	दक्षिण कोडिकुलम
 Kodivalasa	1325	7942	228	9024
 Kodannur	1047	7618	241	7655
 Kodiyal	1452	7579	92	7061
-Kodigenahalli	1372	7739	93	5727
-Kodiganballi	1372	7739	93	5727	Kodigenahalli
+Kodigenahalli	1372	7739	93	5727		कोडिगेनहल्ली
+Kodiganballi	1372	7739	93	5727	Kodigenahalli	कोडिगेनहल्ली
 Kodlipet	1280	7589	193	2686
 Kodagad	1984	8373	387	0	Kotagad
-Kodangal	1710	7763	210	0	Korangal
+Kodangal	1710	7763	210	0	Korangal	कोडंगल
 Kodwa	2178	8149	710	0
 Kodwa	2163	8137	710	0
 Kodūru	1828	8355	179	0
 Kodūru	1792	8303	227	0
-Kodūru	1487	7811	229	0
-Kodur	1487	7811	229	0	Kodūru
+Kodūru	1487	7811	229	0		कोडूरु
+Kodur	1487	7811	229	0	Kodūru	कोडूरु
 Kodūru	1441	8015	6	0
 Kodur	1441	8015	6	0	Kodūru
 Kodūr	1668	7792	317	0
@@ -41,13 +41,13 @@ Kodumur	1568	7777	236	0
 Kodumūru	1568	7777	236	0	Kodumur
 Kodram	2396	7258	134	0
 Kodolibād	2217	8523	287	0
-Kodmiāl	1863	7890	63	0
-Kodimial	1863	7890	63	0	Kodmiāl
+Kodmiāl	1863	7890	63	0		कोडिमियाल
+Kodimial	1863	7890	63	0	Kodmiāl	कोडिमियाल
 Kodiyakkārai	1029	7982	239	0
 Kodigeri	1029	7982	239	0	Kodiyakkārai
 Kodinga	1930	8234	349	0
 Kodikulam	999	7920	198	0
-Kodikonda	1383	7777	444	0
+Kodikonda	1383	7777	444	0		कोडिकॊंड
 Kōdihalli	1243	7750	626	0
 Kodihalili	1243	7750	626	0	Kōdihalli
 Kodh	2289	7131	28	0
@@ -55,8 +55,8 @@ Koder	1627	7829	467	0
 Kodair	1627	7829	467	0	Koder
 Kodekal	1635	7640	72	0
 Kodigal	1635	7640	72	0	Kodekal
-Kodavalūru	1457	8000	6	0
-Kodavalur	1457	8000	6	0	Kodavalūru
+Kodavalūru	1457	8000	6	0		कोडवालूर
+Kodavalur	1457	8000	6	0	Kodavalūru	कोडवालूर
 Kodāriya	2357	7385	512	0
 Kodaria	2357	7385	512	0	Kodāriya
 Kodāpākha	2014	8093	704	0
@@ -81,7 +81,7 @@ Kodekal	1780	7801	31	0
 Kodūr	1771	7802	31	0
 Kodūr	1246	8010	247	0
 Kodangiyur	1313	8025	204	0
-Kodambakkam	1305	8022	204	0
+Kodambakkam	1305	8022	204	0		कोडंबक्कम
 Kodungaiyur	1313	8026	204	0
 Kodihalli	1296	7765	43	0
 Kodbisanhalli	1294	7769	43	0
@@ -99,7 +99,7 @@ Kodsānar	1936	8149	659	0
 Khoda	2466	7176	134	0
 Khoda	2411	7193	134	0
 Kodli	1740	7719	71	0
-Kodukkūr	1201	7965	202	0
+Kodukkūr	1201	7965	202	0		कोडुक्कुर
 Kodobhata	2012	8288	349	0
 Kodagu woods	1242	7566	193	0
 Kodesai	2826	7519	300	0
@@ -220,7 +220,7 @@ Kodakanchi	1760	7830	31	0
 Kodgal	1683	7823	317	0
 Koduparti	1676	7820	317	0
 Kodvatūr	1783	7905	182	0
-Kodakandla	1753	7950	182	0
+Kodakandla	1753	7950	182	0		कोडकंडला
 Kodijamu	1967	7847	282	0
 Motha Kodsa	1980	7898	111	0
 Kodaria	2712	7908	464	0
@@ -264,7 +264,7 @@ Purwa Kodai	2646	8204	597	0
 Kodmancha	1842	7887	230	0
 Kodarāmpalli	1822	7876	466	0
 Pedda Kodūr	1815	7889	466	0
-Chinna Kodūr	1816	7890	466	0
+Chinna Kodūr	1816	7890	466	0		चिन्नाकोदुर
 Khodwa	2649	8226	629	0
 Khodāh	2630	8233	597	0
 Kodhiadīha	2698	8267	154	0
@@ -522,12 +522,12 @@ Kodi Yellāpur	1478	7526	92	0
 Kodihalli	1476	7540	92	0
 Kodihalli Khurd	1471	7545	92	0
 Kodimadagu	1409	7736	93	0
-Kodimi	1471	7755	100	0
+Kodimi	1471	7755	100	0		कॊडिमि
 Kodavāndalapalle	1463	7800	100	0
-Kodapagānipalle	1424	7775	444	0
+Kodapagānipalle	1424	7775	444	0		कॊदपगानिपल्लॆ
 Kodapalanāgayyapalle	1423	7780	444	0
 Kodikoppa	1436	7531	346	0
-Kodavāndlapalle	1447	7796	444	0
+Kodavāndlapalle	1447	7796	444	0		कोडवांड्लपल्लॆ
 Kodmaggi	1436	7545	92	0
 Kodekandla	1447	7785	444	0
 Kodbāl	1492	7560	92	0
@@ -552,7 +552,7 @@ Kodihalli	1310	7715	626	0
 Kodihalli	1306	7701	93	0
 Kodihallipālya	1307	7702	93	0
 Kodipalle	1386	7728	444	0
-Kodigenahalli	1386	7748	444	0
+Kodigenahalli	1386	7748	444	0		कोडिगेनहल्लि
 Kodigenahalli	1386	7740	444	0
 Kodlāpura	1371	7731	93	0
 Kodagadāla	1362	7730	93	0
@@ -567,7 +567,7 @@ Kodipālya	1310	7744	43	0
 Kodappanhalli	1306	7738	389	0
 Kodihalli	1302	7730	626	0
 Kodūru	1387	7773	444	0
-Kodihalli	1380	7755	444	0
+Kodihalli	1380	7755	444	0		कॊडिहल्लि
 Kodihalli	1372	7767	438	0
 Kodigānahalli	1353	7755	438	0
 Kodigehalli	1334	7764	389	0
@@ -706,8 +706,8 @@ Kodiyēri	1174	7552	266	0
 Kodanchēri	1169	7562	262	0
 Kodassheri	1141	7577	262	0
 Koduvalli	1135	7590	262	0
-Kodayattūr	1128	7599	262	0
-Kodiyathur	1128	7599	262	0	Kodayattūr
+Kodayattūr	1128	7599	262	0		कोडियत्तूर
+Kodiyathur	1128	7599	262	0	Kodayattūr	कोडियत्तूर
 Kodancheri Palli	1073	7597	150	0
 Kodchi Khurd	1980	7900	111	0
 Kodāpūr	1962	7901	111	0
@@ -736,7 +736,7 @@ Kodanmane	1447	7474	59	0
 Kodanmane	1446	7473	59	0
 Kod	1398	7458	59	0
 Koderi	1380	7463	257	0
-Kodavūr	1336	7471	257	0
+Kodavūr	1336	7471	257	0		कोडवूर
 Kōdi	1347	7469	257	0
 Kodail	2457	8431	137	0
 Kodarkatta	2509	8710	605	0
@@ -871,7 +871,7 @@ Kodanthūr	1082	7612	263	0
 Kodumudi	1088	7611	150	0
 Kōdanād	1078	7613	263	0
 Kōdarmanna	1088	7643	263	0
-Kodakara	1036	7630	241	0
+Kodakara	1036	7630	241	0		कोडकरा
 Kodunga	1037	7641	241	0
 Kōdashēri	1035	7637	241	0
 Koduvazhangu	1012	7629	176	0
@@ -966,7 +966,7 @@ Kodiyālam	1087	7858	270	0
 Kodundurai	1094	7854	270	0
 Kodikkālpatti	1057	7855	198	0
 Kodumbalūr Chattram	1055	7850	198	0
-Kodumbālūr	1054	7851	198	0
+Kodumbālūr	1054	7851	198	0		कोडुम्बालूर
 Kodāngināyakkanpatti	1068	7862	270	0
 Kodumbaippatti	1045	7854	270	0
 Kodikāttuvayal	1063	7887	198	0

@@ -1,20 +1,20 @@
-Bāmaur	2634	7810	478	32838
-Bamor	2634	7810	478	32838	Bāmaur
-Bāmor Kalān	2489	7815	436	27860
-Bāmor	2489	7815	436	27860	Bāmor Kalān
+Bāmaur	2634	7810	478	32838		बानमोर
+Bamor	2634	7810	478	32838	Bāmaur	बानमोर
+Bāmor Kalān	2489	7815	436	27860		बानमोर
+Bāmor	2489	7815	436	27860	Bāmor Kalān	बानमोर
 Bhamiān Kalān	3092	7594	674	13174
 Bamhni	2125	7891	141	10341	Brāhmani
-Bamhnī	2248	8037	480	10266
-Bamni	2248	8037	480	10266	Bamhnī
-Bamhani	2248	8037	480	10266	Bamhnī
+Bamhnī	2248	8037	480	10266		बम्हनी बंजर
+Bamni	2248	8037	480	10266	Bamhnī	बम्हनी बंजर
+Bamhani	2248	8037	480	10266	Bamhnī	बम्हनी बंजर
 Bamna	2309	7476	348	9034
 Bāmnia	2309	7476	348	9034	Bamna
-Bamora	2406	7809	352	8493
-Bamboo Flat	1170	9272	442	7962
-Bamun Sualkuchi	2617	9158	636	7628
-Bambolim	1546	7385	188	6885
+Bamora	2406	7809	352	8493		मण्डी बामोरा
+Bamboo Flat	1170	9272	442	7962		बम्बूफ्लैट
+Bamun Sualkuchi	2617	9158	636	7628		बामुन सुआलकुची
+Bambolim	1546	7385	188	6885		बम्बोलिम
 Bamunpara	2266	8808	354	5346
-Bhamal	2378	8673	401	4818
+Bhamal	2378	8673	401	4818		भमाल
 Bampur	2242	8320	439	0	Rāmpur
 Bamanwan	2836	7352	307	0	Ramliali
 Hire Bamanhāl	1560	7627	66	0
@@ -90,11 +90,11 @@ Bamungaon Gola	2518	8827	412	0	Bāmangola
 Bāmangawān	2424	8682	502	0
 Bāmangaon	2579	7596	353	0
 Bāmanda	2206	7555	329	0
-Bāmanbore	2242	7103	174	0
+Bāmanbore	2242	7103	174	0		बामणबोर
 Bhāmrān	2873	7491	539	0
 Bhamra	2873	7491	539	0	Bhāmrān
 Bāmanghata	2252	8847	4	0
-Bamna	2222	8834	4	0
+Bamna	2222	8834	4	0		बामना
 Bamunla	2213	8800	559	0
 Bāmanpukur	2251	8871	450	0
 Bamlūr	3420	7477	595	0
@@ -127,7 +127,7 @@ Bamori	2504	7881	481	0
 Bāmhorikela	2422	7813	352	0
 Bāmori	2422	7801	215	0
 Bāmori	2412	7824	352	0
-Mandi Bamora	2406	7808	352	0
+Mandi Bamora	2406	7808	352	0		मण्डी बामोरा
 Bamhorilal	2425	7843	352	0
 Bamnora	2422	7842	352	0
 Bamarīshkh	2420	7826	352	0
@@ -207,7 +207,7 @@ Bhāmuwās	2807	7681	482	0
 Bhama Khurd	2986	7536	709	0
 Bhama Kalān	2988	7535	709	0
 Bhāmāsi	2840	7504	539	0
-Bāmla	2881	7624	431	0
+Bāmla	2881	7624	431	0		बामला
 Bhamnāla	3132	7721	278	0
 Bāmna	3141	7723	278	0
 Bammekut	3456	7444	0	0
@@ -222,7 +222,7 @@ Bamnoli	3128	7754	479	0
 Bamnoli	3127	7769	479	0
 Bamrāra	3135	7767	479	0
 Bamtāri	3116	7756	479	0
-Bamta	3102	7762	479	0
+Bamta	3102	7762	479	0		बामटा
 Bhamnāla	3124	7773	479	0
 Bamanhol	3091	7703	628	0
 Bhamnaul	3065	7709	587	0
@@ -333,7 +333,7 @@ Bamaron ka Bāria	2564	7417	309	0
 Bhamāl	3093	7551	674	0
 Bāmanwās	2894	7714	485	0	Aurangābād
 Bhamiān Khurd	3091	7593	674	0
-Bāmnoli	2854	7703	763	0
+Bāmnoli	2854	7703	763	0		बामनोली
 Shāhpur Bamheta	2865	7748	727	0
 Bamheta	2865	7748	727	0
 Mīlk Bāmla	2879	7727	727	0
@@ -1658,7 +1658,7 @@ Bamutia	2396	9129	744	0
 Bampada	1939	8409	252	0
 Bampada	2148	8687	421	0
 Bamangola	2517	8834	412	0
-Bameng	2755	9295	56	0
+Bameng	2755	9295	56	0		बामेंग
 Bamhori	2342	7994	598	0
 Bamhnauli	2583	8402	536	0
 Bāmhanwāra	2230	7947	368	0

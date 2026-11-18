@@ -1,43 +1,43 @@
-Bhilai	2121	8143	286	627734
-Bilimora	2077	7296	221	510879
-Bilimor	2077	7296	221	510879	Bilimora
-Bilāspur	2208	8216	291	365579
-Bhilwara	2535	7464	309	359483
-Bhīlsa	2353	7781	215	155951	Vidisha
-Bhilai Charoda	2122	8146	286	98008
-Bilāra	2618	7371	344	41710
-Bīlāspur	2889	7927	552	39873
-Bilāsipāra	2623	9023	561	37739
-Bilāri	2862	7880	511	29666
-Bilgrām	2718	8003	686	27173
-Bilsi	2813	7891	117	26320
-Bilhaur	2684	8006	469	19333
-Bilgi	1635	7562	86	17792
-Bilg	1635	7562	86	17792	Bilgi
+Bhilai	2121	8143	286	627734		भिलाई
+Bilimora	2077	7296	221	510879		बिलिमोरा
+Bilimor	2077	7296	221	510879	Bilimora	बिलिमोरा
+Bilāspur	2208	8216	291	365579		बिलासपुर
+Bhilwara	2535	7464	309	359483		भीलवाड़ा
+Bhīlsa	2353	7781	215	155951	Vidisha	विदिशा
+Bhilai Charoda	2122	8146	286	98008		भिलाई चरोदा
+Bilāra	2618	7371	344	41710		बिलाड़ा
+Bīlāspur	2889	7927	552	39873		बिलासपुर
+Bilāsipāra	2623	9023	561	37739		बिलासीपाड़ा
+Bilāri	2862	7880	511	29666		बिलारी
+Bilgrām	2718	8003	686	27173		बिलग्राम
+Bilsi	2813	7891	117	26320		बिल्सी
+Bilhaur	2684	8006	469	19333		बिल्हौर
+Bilgi	1635	7562	86	17792		बिलगी
+Bilg	1635	7562	86	17792	Bilgi	बिलगी
 Bilthra	2613	8389	536	17228
 Bilthar	2613	8389	536	17228	Bilthra
 Bhiloda	2377	7325	125	16074
-Bilsanda	2824	7995	683	15538
-Biloli	1877	7772	140	14923
+Bilsanda	2824	7995	683	15538		बिलसंडा
+Biloli	1877	7772	140	14923		बिलोली
 Bilkha	2144	7060	185	14421
-Bilpura	2322	7999	598	14349
-Bilaspur	3133	7676	772	14037
-Bilariāganj	2620	8323	498	13244
-Bilrayāganj	2620	8323	498	13244	Bilariāganj
-Bilaua	2605	7828	484	12893
-Bilāspur	3030	7730	88	11733
+Bilpura	2322	7999	598	14349		बिलपुरा
+Bilaspur	3133	7676	772	14037		बिलासपुर
+Bilariāganj	2620	8323	498	13244		बिलारियागंज
+Bilrayāganj	2620	8323	498	13244	Bilariāganj	बिलारियागंज
+Bilaua	2605	7828	484	12893		बिलौआ
+Bilāspur	3030	7730	88	11733		बिलासपुर
 Bilha	2195	8205	291	11048
 Bilga	3105	7565	369	10125
-Bhilakhedi	2260	7770	590	9540
+Bhilakhedi	2260	7770	590	9540		भीलखेड़ी
 Bhilad	2028	7289	261	9022
-Bīlāspur	2839	7762	588	8036
-Bilaigarh	2164	8272	635	5544
+Bīlāspur	2839	7762	588	8036		बिलासपुर
+Bilaigarh	2164	8272	635	5544		बिलाईगढ
 Nava Bhildi	2419	7201	134	4994
-Bilaur	3261	7560	496	4978
-Billawar	3261	7560	496	4978	Bilaur
+Bilaur	3261	7560	496	4978		बिलावर
+Billawar	3261	7560	496	4978	Bilaur	बिलावर
 Bila Nawāb	3115	7543	369	716
-Ghāta Bilod	2267	7552	660	0
-Ghāt Bilod	2267	7552	660	0	Ghāta Bilod
+Ghāta Bilod	2267	7552	660	0		घाटाबिल्लोद
+Ghāt Bilod	2267	7552	660	0	Ghāta Bilod	घाटाबिल्लोद
 Bilia ka Ghara	2419	7404	22	0
 Bilpura	2511	7317	273	0	Bīsalpur
 Bilwāni	2335	7825	338	0
@@ -79,10 +79,10 @@ Bīla	3064	7693	587	0
 Bhilwal	2670	8126	30	0
 Bhīlpur	2241	7395	126	0
 Bhilorī	2586	7746	436	0	Bhinlauri
-Bhīldi	2419	7201	134	0
-Bhilari	2419	7201	134	0	Bhīldi
-Bhilavadi	1699	7447	65	0
-Bhilavdi	1699	7447	65	0	Bhilavadi
+Bhīldi	2419	7201	134	0		भीलडी
+Bhilari	2419	7201	134	0	Bhīldi	भीलडी
+Bhilavadi	1699	7447	65	0		भिलवड़ी
+Bhilavdi	1699	7447	65	0	Bhilavadi	भिलवड़ी
 Bilgaon	2543	8052	463	0
 Bīlāwal	2857	7608	781	0
 Biliyānwās	2874	7486	539	0
@@ -252,7 +252,7 @@ Bhīlwāra Nīcha	2469	7693	506	0
 Bilāvtia	2607	7515	446	0
 Bilaiya ka Pura	2641	7787	478	0
 Bilgaon ka Pura	2638	7784	478	0
-Bilheti	2628	7840	484	0
+Bilheti	2628	7840	484	0		बिल्हेटी
 Bīlpura	2627	7847	334	0
 Bilāspur	2594	7850	503	0
 Bhilpuri Khurd	1982	7607	53	0
@@ -396,7 +396,7 @@ Bilār	2773	7834	670	0
 Bilamkanigūdem	1715	7929	101	0
 Bilahna	2710	7842	403	0
 Bilaiyān	2701	7842	546	0
-Bilrām	2782	7858	616	0
+Bilrām	2782	7858	616	0		बिलराम
 Bhīlor	2793	7875	616	0
 Bilha	2672	7974	671	0
 Bilāspur	2631	7956	671	0
@@ -860,7 +860,7 @@ Billiānwāla	3127	7497	260	0
 Bhilowāl	3168	7510	222	0
 Fattu Bhila	3173	7511	222	0
 Bilāspur	2945	7775	545	0
-Bilgaon	2190	7430	186	0
+Bilgaon	2190	7430	186	0		बिलगाँव
 Bhīlvād	2040	7420	54	0
 Bīlpur	3155	7544	565	0
 Bilāwās	2594	7361	273	0
@@ -1043,7 +1043,7 @@ Billaputtu	1863	8279	316	0
 Billaputtu	1859	8281	316	0
 Billaguda	1853	8285	316	0
 Billāiguda	1864	8286	316	0
-Billapādu	1641	8100	68	0
+Billapādu	1641	8100	68	0		बिल्लपाडु
 Billakota	1830	8312	268	0
 Billaguddavalasa	1879	8331	199	0
 Billalavalasa	1822	8337	179	0
@@ -1264,7 +1264,7 @@ Bilagale	1219	7682	74	0
 Bilagerehundi	1222	7688	74	0
 Bilagere	1215	7680	74	0
 Bilehālu	1539	7716	236	0
-Billekallu	1549	7746	236	0
+Billekallu	1549	7746	236	0		बिल्लेकल्लु
 Bilha	2586	8656	661	0
 Bilitālu	1286	7579	679	0
 Bilalahalli	1281	7582	679	0
@@ -1349,7 +1349,7 @@ Bilakankuppe	1268	7756	626	0
 Biligundlu	1219	7773	223	0
 Bilam	1511	7812	232	0
 Bilakalagūdūru	1568	7844	232	0
-Billalāpuram	1549	7852	232	0
+Billalāpuram	1549	7852	232	0		बिल्ललपुरं
 Nāyala Bilamu	1500	7806	232	0
 Billuvāndlapalle	1389	7816	444	0
 Billūru	1386	7800	438	0

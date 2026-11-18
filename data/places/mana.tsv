@@ -1,32 +1,32 @@
-Mannargudi	1067	7945	267	66999
-Mannārakkāt	1099	7646	263	50921
-Manapparai	1061	7843	270	40510
+Mannargudi	1067	7945	267	66999		मन्नारगुडी
+Mannārakkāt	1099	7646	263	50921		मन्नारकाड
+Manapparai	1061	7843	270	40510		मनप्पारै
 Manakunnam	989	7637	176	39538
-Manali	1317	8027	204	35248
-Manamadurai	967	7847	454	32257
-Manamadura	967	7847	454	32257	Manamadurai
-Mannanchōri	957	7635	243	32139
-Mannanchery	957	7635	243	32139	Mannanchōri
-Mānāvadar	2150	7014	185	30850
-Manāwar	2224	7509	130	30393
-Manāsa	2448	7514	655	26551
+Manali	1317	8027	204	35248		मनली
+Manamadurai	967	7847	454	32257		मानामदुरई
+Manamadura	967	7847	454	32257	Manamadurai	मानामदुरई
+Mannanchōri	957	7635	243	32139		मन्ननचेरी
+Mannanchery	957	7635	243	32139	Mannanchōri	मन्ननचेरी
+Mānāvadar	2150	7014	185	30850		माणावदर
+Manāwar	2224	7509	130	30393		मनावर
+Manāsa	2448	7514	655	26551		मनासा
 Mannachanallur	1091	7870	270	25931
-Mānnagar	2906	7863	511	24883	Kānth
-Manalur	1049	7610	241	17757
+Mānnagar	2906	7863	511	24883	Kānth	काँठ
+Manalur	1049	7610	241	17757		मणलूर
 Mannarai	1112	7737	235	17261
-Mannar	932	7649	243	17067	Mēppādam
+Mannar	932	7649	243	17067	Mēppādam	मान्नार
 Manaveli	1189	7981	196	15666
 Mānantheri	1184	7561	266	14667
-Manapakkam	1302	8018	161	13344
-Manapuram	1198	7825	110	12705	Mallāpuram
+Manapakkam	1302	8018	161	13344		मनपाक्कम
+Manapuram	1198	7825	110	12705	Mallāpuram	बोम्मिडी
 Mana-Camp	2119	8172	310	11953
-Manavālakurichi	815	7731	453	10969
+Manavālakurichi	815	7731	453	10969		मणवालकुरिची
 Manamodu	1120	7960	203	9017
 Manalmedu	1120	7960	203	9017	Manamodu
-Manappakkam	1301	8017	161	8851
-Manalūrpettai	1201	7909	390	8523
-Manalurpet	1201	7909	390	8523	Manalūrpettai
-Manāli	3226	7717	680	8096
+Manappakkam	1301	8017	161	8851		मनपाक्कम
+Manalūrpettai	1201	7909	390	8523		मनलूरपेट
+Manalurpet	1201	7909	390	8523	Manalūrpettai	मनलूरपेट
+Manāli	3226	7717	680	8096		मनाली
 Manavalassery	1036	7617	241	7364
 Manakkody	1049	7617	241	7150
 Manahti	2816	7639	519	5070	Manethi
@@ -47,15 +47,15 @@ Mānāpur	2043	8020	135	0
 Manappād	838	7806	208	0
 Manapad Point	838	7806	208	0	Manappād
 Manappādu	838	7806	208	0	Manappād
-Manānūr	1637	7876	467	0
-Mānantoddy	1180	7600	242	0
-Maananthavaadi	1180	7600	242	0	Mānantoddy
-Mananthavady	1180	7600	242	0	Mānantoddy
+Manānūr	1637	7876	467	0		मन्नानूर
+Mānantoddy	1180	7600	242	0		मानंतवाड़ी
+Maananthavaadi	1180	7600	242	0	Mānantoddy	मानंतवाड़ी
+Mananthavady	1180	7600	242	0	Mānantoddy	मानंतवाड़ी
 Manāna	2926	7699	298	0
 Manān	2755	9608	73	0
 Manamunda	2082	8392	386	0
-Manamelkudi	1004	7923	198	0
-Manamalkudi	1004	7923	198	0	Manamelkudi
+Manamelkudi	1004	7923	198	0		मनमेलकुड़ी
+Manamalkudi	1004	7923	198	0	Manamelkudi	मनमेलकुड़ी
 Manali	1058	7965	267	0
 Mānakpur	3060	7663	564	0
 Mānaklāv	2644	7301	344	0
@@ -63,7 +63,7 @@ Mānaklāo	2644	7301	344	0	Mānaklāv
 Manākhur	2641	7727	447	0
 Mānakāsha	2653	9083	357	0
 Manādar	2519	7283	23	0
-Māna	3077	7950	183	0
+Māna	3077	7950	183	0		माणा
 Manākhar	2816	7554	300	0	Ratanshahr
 Bhatipura Mānakpur	2891	7785	700	0
 Manāpursar	2855	7398	307	0
@@ -552,7 +552,7 @@ Mannahallidoddi	1274	7675	94	0
 Mannahalli	1274	7676	94	0
 Managanahalli	1270	7681	94	0
 Managanahalli	1266	7683	94	0
-Mānākondūr	1840	7919	579	0
+Mānākondūr	1840	7919	579	0		मानकोंडूर
 Mananpur	2519	8625	589	0
 Managali	1275	7592	193	0
 Manajur	1256	7599	193	0
@@ -589,7 +589,7 @@ Manan Chak	2531	8574	514	0
 Mānākhera	2789	8008	323	0
 Bhogipur Manai	2780	8025	323	0
 Manna Purwa	2727	8013	686	0
-Manakala	913	7672	224	0
+Manakala	913	7672	224	0		मनक्कल
 Mannamangalam	1049	7634	241	0
 Kengeri Manavarri Kaval	1286	7747	43	0
 Managalli	1214	7734	69	0
@@ -752,7 +752,7 @@ Manandinattam	935	7760	119	0
 Manalūr	923	7755	245	0
 Mannārkovil	873	7743	191	0
 Mānārmangalam	871	7750	191	0
-Manalikara	829	7731	453	0
+Manalikara	829	7731	453	0		मणलिक्करई
 Manattittu	828	7744	453	0
 Manavila	820	7729	453	0
 Manakkara	821	7734	453	0
@@ -766,7 +766,7 @@ Manakkarai	867	7786	208	0
 Mannarāyantattu	866	7800	208	0
 Manalkundu	860	7795	208	0
 Manavādi	1088	7810	445	0
-Manavāsi	1093	7822	445	0
+Manavāsi	1093	7822	445	0		मनवासी
 Manakkāttūr	1035	7824	187	0
 Manattattai	1094	7841	445	0
 Manamedu	1097	7839	270	0
@@ -844,7 +844,7 @@ Vadakku Manamettuppatti	1072	7797	445	0
 Terku Manamettuppatti	1072	7797	445	0
 Mannampādi	1150	7923	178	0
 Manappattūr	1131	7918	383	0
-Manakkudaiyān	1134	7923	383	0
+Manakkudaiyān	1134	7923	383	0		मनक्कुडियां
 Mannārkottai	1049	7788	187	0
 Manakkāl	1120	7908	383	0
 Manakkudi	1115	7914	383	0
@@ -854,7 +854,7 @@ Manaveli	1188	7932	202	0
 Manakkuppam	1187	7934	202	0
 Manamandaputtūr	1181	7950	178	0
 Manappākkam	1178	7951	178	0
-Mannadipattu	1198	7962	277	0
+Mannadipattu	1198	7962	277	0		मन्नाडिपट्टु
 Manamedu	1181	7968	277	0
 Manakkuppam	1187	7970	196	0
 Manaveli	1187	7971	259	0

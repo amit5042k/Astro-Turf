@@ -1,15 +1,15 @@
 Kallūr Vadakummuri	1025	7633	241	25259
-Kallukuttam	819	7729	453	19093
+Kallukuttam	819	7729	453	19093		कल्लुकूट्टम
 Kallūr Tekkumuri	1024	7632	241	17480
-Kalugumalai	915	7771	208	15423
-Kalugumali	915	7771	208	15423	Kalugumalai
-Kallupatti	972	7787	274	10762
-T.Kallupatti	972	7787	274	10762	Kallupatti
-Kālundri	1898	7313	17	8101
+Kalugumalai	915	7771	208	15423		कलुगुमलई
+Kalugumali	915	7771	208	15423	Kalugumalai	कलुगुमलई
+Kallupatti	972	7787	274	10762		टी कल्लुपट्टी
+T.Kallupatti	972	7787	274	10762	Kallupatti	टी कल्लुपट्टी
+Kālundri	1898	7313	17	8101		कालुन्द्रे
 Kālu Chak	3266	7490	581	4725
 Chak Kalu	3266	7490	581	4725	Kālu Chak
-Kaluvāya	1451	7941	6	0
-Kaluvoya	1451	7941	6	0	Kaluvāya
+Kaluvāya	1451	7941	6	0		कलुवोया
+Kaluvoya	1451	7941	6	0	Kaluvāya	कलुवोया
 Kālukheri	2373	7504	568	0
 Kalūkhera	2373	7504	568	0	Kālukheri
 Kalua	2325	8280	413	0
@@ -18,7 +18,7 @@ Kālu	2637	7399	273	0
 Kallūru	1356	7900	214	0
 Kallur	1356	7900	214	0	Kallūru
 Kallūr	1729	7671	71	0	Kollūr
-Kallūr	1720	8055	46	0
+Kallūr	1720	8055	46	0		कल्लूर
 Kallūr	1614	7721	50	0
 Kālūbās	2849	7378	307	0
 Kaluwās	2849	7378	307	0	Kālūbās
@@ -36,7 +36,7 @@ Kalu	3153	7720	278	0
 Kālu Kutla	3166	7713	278	0
 Kālūwās	2904	7566	339	0
 Kālūwāla	2860	7605	781	0
-Kālūwās	2882	7618	431	0
+Kālūwās	2882	7618	431	0		कालुवास
 Kalu	3454	7441	0	0
 Khalūt	3149	7735	680	0
 Kalūdia	3073	7725	534	0
@@ -44,11 +44,11 @@ Kālu Mājra	3007	7749	449	0
 Kallūkhāpa	2272	7835	590	0
 Mangona Kalūn	2167	7825	462	0
 Kālūpur	2898	7701	485	0
-Kālu Sarāi	2854	7720	778	0
+Kālu Sarāi	2854	7720	778	0		कालू सराय
 Kālūgarhi	2870	7753	727	0
 Kallūwāla	2897	7914	552	0
 Kalūpura	2824	7765	588	0
-Kaluk	2723	8825	617	0
+Kaluk	2723	8825	617	0		कालुक
 Kalua	2824	7591	300	0
 Kalua Beloth	2777	7787	543	0
 Chik Kallūr	1705	7655	71	0
@@ -254,7 +254,7 @@ Kallukoppa	1459	7504	346	0
 Kallukere	1405	7521	346	0
 Kallumane	1413	7501	346	0
 Kallūru	1478	7763	100	0
-Kallumadi	1493	7765	100	0
+Kallumadi	1493	7765	100	0		कल्लुमडि
 Kallūru	1492	7760	100	0
 Kallukoppa	1424	7532	346	0
 Kallukatte	1414	7574	275	0
@@ -262,7 +262,7 @@ Kalluroppamu	1388	7715	444	0
 Kalluguttahalli	1350	7721	93	0
 Kallupālya	1312	7724	626	0
 Konke Kallu	1301	7721	626	0
-Kallumari	1387	7738	444	0
+Kallumari	1387	7738	444	0		कल्लुमर्रि
 Kallūru	1384	7756	444	0
 Kallūrhalli	1366	7758	438	0
 Kalludi	1363	7752	438	0
@@ -289,7 +289,7 @@ Kallukere	1303	7592	679	0
 Kadambi Kallu	1276	7531	55	0
 Kallugudi	1458	7605	366	0
 Kalluhatti	1409	7650	255	0
-Kalugodu	1459	7691	100	0
+Kalugodu	1459	7691	100	0		कलुगोडु
 Kallukere	1370	7615	98	0
 Kalludevarahalli	1310	7607	679	0
 Kallu Sādarahalli	1348	7626	679	0
@@ -312,7 +312,7 @@ Kallur	1283	7594	679	0
 Kalukuntla	1593	7790	306	0
 Kalugotla	1589	7797	306	0
 Kalluhola	1497	7706	100	0
-Kalludevanahalli	1495	7704	100	0
+Kalludevanahalli	1495	7704	100	0		कल्लुदेवनहल्लि
 Kallūr	1246	7587	193	0
 Kāluji Mota	2319	7368	142	0
 Kālupur	2748	8068	507	0
@@ -339,11 +339,11 @@ Kallūr	1295	7732	626	0
 Kallupalli	1265	7772	223	0
 Kallūru	1582	7803	236	0
 Kalugotla	1562	7805	236	0
-Kallutla	1499	7831	229	0
-Kalugotla	1528	7835	232	0
-Kalugotlapalle	1497	7856	232	0
-Kalugotlapalle	1499	7857	232	0
-Kallūru	1461	7804	100	0
+Kallutla	1499	7831	229	0		कल्लुट्ल
+Kalugotla	1528	7835	232	0		कलुगोट्ल
+Kalugotlapalle	1497	7856	232	0		कलुगोट्लपल्लॆ
+Kalugotlapalle	1499	7857	232	0		कलुगोट्लपल्लॆ
+Kallūru	1461	7804	100	0		कल्लूरु
 Kallūr	1335	7818	47	0
 Kallūru	1320	7811	47	0
 Kallukere	1302	7821	47	0

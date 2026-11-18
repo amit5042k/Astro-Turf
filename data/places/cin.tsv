@@ -1,22 +1,22 @@
-Pimpri-Chinchwad	1862	7380	52	1727692
-Hooghly-Chinsura	2291	8840	279	177005	Hugli
-Hooghly-Chinsurah	2291	8840	279	177005	Hugli
-Chhindwāra	2206	7894	337	175052
-Chintamani	1340	7805	438	76068
-Chingleput	1269	7998	247	65689	Chengalpattu
+Pimpri-Chinchwad	1862	7380	52	1727692		पिंपरी-चिंचवड
+Hooghly-Chinsura	2291	8840	279	177005	Hugli	हुगली-चुचुरा
+Hooghly-Chinsurah	2291	8840	279	177005	Hugli	हुगली-चुचुरा
+Chhindwāra	2206	7894	337	175052		छिंदवाड़ा
+Chintamani	1340	7805	438	76068		चिंतामणि
+Chingleput	1269	7998	247	65689	Chengalpattu	चेंगलपट्टू
 Chinnachowk	1448	7884	229	64053
-Chinnamanūr	984	7738	194	42305
-Chinnalapatti	1028	7792	187	26285
+Chinnamanūr	984	7738	194	42305		चिन्नमनूर
+Chinnalapatti	1028	7792	187	26285		चिन्नालापट्टी
 Chinna Anuppanadi	990	7814	274	26158	Anuppānadi
-Chinna Salem	1163	7887	390	25106
+Chinna Salem	1163	7887	390	25106		चिन्नासेलम
 Chinnūr	1886	7980	91	23579
-Chincholi	1747	7742	71	20897
+Chincholi	1747	7742	71	20897		चिंचोली
 Chinnavādampatti	1106	7698	156	20122
 Chinna Āndānkovil	1095	7807	445	19779
 Chingoli	925	7645	243	14981
-Chinchani	1987	7269	192	14357
-Chinchni	1987	7269	192	14357	Chinchani
-Chinnasekkadu	1316	8026	204	12396
+Chinchani	1987	7269	192	14357		चिंचणी
+Chinchni	1987	7269	192	14357	Chinchani	चिंचणी
+Chinnasekkadu	1316	8026	204	12396		चिन्नसेकाडु
 Chinnakkāmpālaiyam	1071	7746	235	11546
 Chinnamudalippatti	1124	7818	231	8928
 Chinnāmpālaiyam	1066	7702	156	8695
@@ -30,16 +30,16 @@ Chintalavalasa	1807	8341	179	5921
 Chinnachintakunta	1645	7781	317	5637
 Chinna Kalaiyamputtūr	1047	7747	187	5162
 Chinnakalayamputhur	1047	7747	187	5162	Chinna Kalaiyamputtūr
-Chineni	3304	7528	373	2620
+Chineni	3304	7528	373	2620		छेनानी
 Chinna Sekkadi	1144	7835	231	0
 Mi-chin	2885	9477	392	0	Miging
 Ledva Chinchola	1742	7531	132	0
 Katak Chincholi	1790	7721	170	0
-Chīni	3153	7827	83	0	Kalpa
-Chinna Gollapālem	1637	8153	68	0
+Chīni	3153	7827	83	0	Kalpa	कल्पा
+Chinna Gollapālem	1637	8153	68	0		चिनगॊल्लपालॆं
 Cinnāmāra	2672	9423	451	0
-Chinsura	2289	8840	279	0	Chunchura
-Chinsurah	2289	8840	279	0	Chunchura
+Chinsura	2289	8840	279	0	Chunchura	चुंचुड़ा
+Chinsurah	2289	8840	279	0	Chunchura	चुंचुड़ा
 Chintūru	1775	8139	46	0
 Chintanpalli	1898	8067	288	0
 Chintapalli	1898	8067	288	0	Chintanpalli
@@ -67,7 +67,7 @@ Chinna Pālipeta	1833	8412	472	0
 Chinnanallaballi	1789	8092	60	0
 Chinnamandem	1394	7868	195	0
 Chinnakrāka	1485	7985	6	0
-Chinna Ganjām	1569	8024	220	0
+Chinna Ganjām	1569	8024	220	0		चिन्नगंजाम
 Chinna Dhārāpuram	1085	7785	445	0
 Chingarali	1254	7660	94	0
 Chinkurli	1254	7660	94	0	Chingarali
@@ -79,9 +79,9 @@ Chinhat	2687	8103	714	0
 Chingtang	2662	9492	149	0
 Chinglong	2662	9492	149	0	Chingtang
 Chingas	3325	7426	504	0
-Chinchvad	1863	7378	52	0
-Chinchiwad	1863	7378	52	0	Chinchvad
-Chinchrad	1863	7378	52	0	Chinchvad
+Chinchvad	1863	7378	52	0		चिंचवड
+Chinchiwad	1863	7378	52	0	Chinchvad	चिंचवड
+Chinchrad	1863	7378	52	0	Chinchvad	चिंचवड
 Chinchpokli	1898	7283	106	0
 Bombay Chinchpokli	1898	7283	106	0	Chinchpokli
 Chinchner	1766	7409	64	0
@@ -544,7 +544,7 @@ Chintalakuntapalli	1829	7896	230	0
 Chintalthāna	1841	7888	230	0
 Chinna Achampalli	1848	7900	579	0
 Chinna Gundavelli	1813	7880	466	0
-Chinna Kodūr	1816	7890	466	0
+Chinna Kodūr	1816	7890	466	0		चिन्नाकोदुर
 Chhina Pāra	2687	8226	154	0
 Chingiāpur	2683	8234	154	0
 Chingi	2658	8246	553	0
@@ -662,7 +662,7 @@ Chhindīdih	2248	8136	537	0
 Chhindpāni	2286	8157	225	0
 Chhindpāni	2296	8172	225	0
 Chhindītola	2235	8152	537	0
-Chintpurni	3181	7611	327	0
+Chintpurni	3181	7611	327	0		चिंतपूर्णी
 Chhīnbhog	2197	8178	755	0
 Chingaria	2142	8200	310	0
 Chīnda	3134	7693	628	0
@@ -768,14 +768,14 @@ Chinna Kāpavaram	1663	8142	318	0
 Chinna Pulleru	1655	8144	318	0
 Chinna Amiram	1654	8149	318	0
 Chinna Tādepalle	1686	8152	318	0
-Chinna Gollapālem	1637	8149	68	0
-Chinna Pāndrāka	1635	8128	68	0
+Chinna Gollapālem	1637	8149	68	0		चिनगॊल्लपालॆं
+Chinna Pāndrāka	1635	8128	68	0		चिनपंद्रक
 Chintapalle	1676	8157	318	0
 Chinna Sītārāmpuram	1642	8165	318	0
 Chiintalagaruvu	1650	8170	318	0
 Mailavani Chinna Lanka	1633	8168	318	0
 Chintalanarva	1700	8047	104	0
-Chintalapādu	1703	8056	104	0
+Chintalapādu	1703	8056	104	0		चिंतलपाडु
 Kotta Chinnamagūdem	1716	8066	46	0
 Pāta Chinnamagūdem	1716	8067	46	0
 Chinna Mallela	1708	8070	46	0
@@ -869,20 +869,20 @@ Chintaguppa	1818	8274	268	0
 Chintalvīdi	1811	8267	268	0
 Chintalvīdi	1817	8269	268	0
 Chinnakākāni	1640	8056	319	0
-Chintalapūdi	1630	8064	319	0
+Chintalapūdi	1630	8064	319	0		चिंतालपुड़ि
 Chinnavadlapūdi	1640	8061	319	0
 Chinnapālem	1637	8067	319	0
 Chingidichua	1858	8277	316	0
 Chinna Borubanda	1865	8298	316	0
 Chintalavalasa	1854	8296	316	0
-Chintalavalli	1684	8092	24	0
+Chintalavalli	1684	8092	24	0		चिंतलवल्लि
 Chintapādu	1679	8094	24	0
 Chinna Pulipāka	1640	8077	68	0
-Chinna Ogirāla	1638	8082	68	0
+Chinna Ogirāla	1638	8082	68	0		चिन ओगिराल
 Chinna Mutrāsipālem	1627	8087	68	0
 Chinavānigūdem	1641	8097	68	0
-Chinapārupūdi	1639	8092	68	0
-Chinna Muttevi	1626	8096	68	0
+Chinapārupūdi	1639	8092	68	0		चिनपरुपूडि
+Chinna Muttevi	1626	8096	68	0		चिनमुत्तेवि
 Chinna Chiguru	1913	8350	363	0
 Chinna Baridi	1904	8375	363	0
 Chinna Ambalesh	1924	8372	363	0
@@ -1159,15 +1159,15 @@ Chintalacheruvu	1499	7776	100	0
 Chinna Yekkalūru	1492	7780	100	0
 Chinnapappūru	1494	7787	100	0
 Chinnapalle	1491	7794	100	0
-Chinnapolamada	1493	7796	100	0
+Chinnapolamada	1493	7796	100	0		चिन्नपॊलमड
 Chintalapalle	1495	7789	100	0
-Chintakunta	1484	7794	100	0
-Chintalapalle	1481	7798	100	0
-Chinnakotla	1454	7795	444	0
+Chintakunta	1484	7794	100	0		चिंतकुंट
+Chintalapalle	1481	7798	100	0		चिंतलपल्ले
+Chinnakotla	1454	7795	444	0		चिन्नकॊट्ल
 Chinnalanagopalle	1459	7776	444	0
-Chinnamallepalle	1474	7800	100	0
+Chinnamallepalle	1474	7800	100	0		चिन्नमल्लेपल्ले
 Chinnaboyapalle	1423	7780	444	0
-Chinnachigullarevu	1450	7792	444	0
+Chinnachigullarevu	1450	7792	444	0		चिन्नचिगुल्लरेवु
 Chinnekuntapalle	1445	7784	444	0
 Chinnappareddipalle	1431	7776	444	0
 Chinnarāyanipalle	1418	7789	444	0
@@ -1205,7 +1205,7 @@ Chinnapāpannapalle	1389	7797	444	0
 Chinnajarlu	1384	7780	438	0
 Chinnepalli	1381	7782	438	0
 Chinnagepalli	1382	7779	438	0
-Chinnagānipalle	1387	7798	444	0
+Chinnagānipalle	1387	7798	444	0		चिनगानिपल्लॆ
 Chinnakāyilapalli	1385	7786	438	0
 Chinandhalli	1311	7791	389	0
 Taruve Chinchi	1385	7515	346	0
@@ -1226,7 +1226,7 @@ Chintakunta	1943	7958	162	0
 Chinnāpuram	1921	7960	91	0
 Chinnasamudra	1436	7608	275	0
 Chinnama Nāgenhalli	1427	7694	100	0
-Chintarlapalle	1442	7700	100	0
+Chintarlapalle	1442	7700	100	0		चिंतर्लपल्लॆ
 Chak Chintāmanpur	2615	8614	591	0
 Chinnāpura	1372	7608	98	0
 Chinnenahalli	1306	7606	679	0
@@ -1251,14 +1251,14 @@ Chinnamballi	1209	7683	74	0
 Chinchanahalli	1206	7683	74	0
 Chintamandoddi	1583	7701	50	0
 Chinna Gonahālu	1561	7717	236	0
-Chinna Harivānam	1561	7718	236	0
+Chinna Harivānam	1561	7718	236	0		चिन्न हरिवनम्
 Chinnahyāti	1548	7709	236	0
 Chinnahothūru	1546	7730	236	0
-Chintakunta	1585	7728	236	0
-Chinna Tumbalam	1579	7731	236	0
+Chintakunta	1585	7728	236	0		चिंतकुंट
+Chinna Tumbalam	1579	7731	236	0		चिन्नतुंबलं
 Chinnakadabūru	1573	7733	236	0
 Chinna Pendekallu	1562	7739	236	0
-Chinna Hulti	1543	7746	236	0
+Chinna Hulti	1543	7746	236	0		चिन्नहुल्ति
 Chintalampalle	1504	7746	100	0
 Chinna Hotūru	1501	7730	100	0
 Chinna Tāndrapādu	1594	7766	306	0
@@ -1376,28 +1376,28 @@ Chinsandiram	1255	7771	223	0
 Chinnatandrapādu	1576	7806	236	0
 Chinnakolumalapalle	1546	7802	236	0
 Chintalapalle	1559	7813	236	0
-Chintalāyapalle	1502	7811	232	0
+Chintalāyapalle	1502	7811	232	0		चिंतालयपल्लॆ
 Chinnakomarla	1492	7834	229	0
 Chinnapasupula	1492	7844	229	0
 Chinnamudiyam	1497	7847	229	0
-Chintalapalle	1574	7829	232	0
+Chintalapalle	1574	7829	232	0		चिंतलपल्लॆ
 Chintalacheruvu	1562	7829	232	0
-Chindukūru	1563	7845	232	0
-Chinnakopperla	1530	7833	232	0
+Chindukūru	1563	7845	232	0		चिंदुकूरु
+Chinnakopperla	1530	7833	232	0		चिन्न कॊप्पॆर्ल
 Chintakunta	1540	7844	232	0
 Chinnavenuturla	1501	7826	229	0
 Chintakunta	1523	7831	232	0
 Chintakunta	1515	7849	232	0
-Chinnasettipalle	1483	7853	229	0
-Chintalacheruvu	1497	7864	232	0
-Chinnasinganapalle	1484	7870	229	0
-Chinnajonnavaram	1485	7862	229	0
+Chinnasettipalle	1483	7853	229	0		चिन्नसॆट्टिपल्लॆ
+Chintalacheruvu	1497	7864	232	0		चिंतलचॆरुवु
+Chinnasinganapalle	1484	7870	229	0		चिन्न सिंगनपल्लॆ
+Chinnajonnavaram	1485	7862	229	0		चिन्न जॊन्नवरं
 Chinnavengali	1494	7864	232	0
-Chintakunta	1478	7870	229	0
+Chintakunta	1478	7870	229	0		चिंतकुंट
 Chinnakambālūru	1530	7859	232	0
 Chinnakottāla	1547	7853	232	0
-Chinnabodanam	1504	7855	232	0
-Chintakommadinne	1506	7853	232	0
+Chinnabodanam	1504	7855	232	0		चिन्न बोधनं
+Chintakommadinne	1506	7853	232	0		चिंतकॊम्मदिन्नॆ
 Chinnagānipalle	1552	7894	200	0
 Chinnareddipalle	1507	7896	229	0
 Chintalapalle	1505	7900	229	0
@@ -1407,7 +1407,7 @@ Cintalapalle	1472	7800	100	0
 Chintakāyamanda	1463	7802	100	0
 Chinnakondapalle	1463	7822	229	0
 Chinnareddipalle	1460	7824	229	0
-Chinnakudāla	1446	7815	229	0
+Chinnakudāla	1446	7815	229	0		चिन्नकूडल
 Chinnarangāpuram	1444	7820	229	0
 Chintālaiyyagāripalle	1429	7802	444	0
 Chinnapalle	1429	7823	444	0
@@ -1430,7 +1430,7 @@ Chinnareddivāripalle	1410	7883	195	0
 Chinnamakkapalle	1406	7877	195	0
 Chinnajangampalle	1408	7892	195	0
 Chintacheruvupalle	1392	7816	444	0
-Chinnarāmannagāripalle	1393	7815	444	0
+Chinnarāmannagāripalle	1393	7815	444	0		चिन्नरामन्नगारिपल्लॆ
 Chinnapallevāndlapalle	1395	7818	444	0
 Chinnavenkatapalle	1397	7817	444	0
 Chinnavadapavāndlapalle	1393	7822	444	0
@@ -2309,7 +2309,7 @@ Chinnasevalai	1187	7935	202	0
 Chinnaidaiyār	1190	7935	202	0
 Chinnavenmani	1122	7906	265	0
 Chinna Srīnivāsapuram	1116	7910	383	0
-Chinna Pattākkādu	1100	7916	383	0
+Chinna Pattākkādu	1100	7916	383	0		चिन्नपात्तकादु
 Chinna Nāgalūr	1113	7915	383	0
 Chinna Ānandavādi	1119	7917	383	0
 Chinna Sennivanam	1122	7916	383	0
@@ -2388,7 +2388,7 @@ Chinnatiruppati	1172	7880	390	0
 Chinnammanahalli	1409	7714	93	0
 Chinna Byādanūr	1409	7722	93	0
 Chinnapyyāpalle	1496	7732	100	0
-Chinnamushtūru	1490	7727	100	0
+Chinnamushtūru	1490	7727	100	0		चिन्न मुष्टूरु
 Chinnakavukuntla	1479	7726	100	0
 Chingida	2277	8552	287	0
 Chingijāri	2251	8562	287	0
@@ -2421,7 +2421,7 @@ Chinyalisaur	3058	7831	89	0
 Chinnambavi	1603	7814	146	0
 Chinthala Palem	1677	7998	250	0
 Chhindhgarh	1852	8175	599	0
-Chinna Gudur	1751	7988	762	0
+Chinna Gudur	1751	7988	762	0		चिन्नागूडूर
 Chintala Manepalle	1945	7979	162	0
 Chingai	2531	9450	364	0
 Chinnatambipālaiyam	1145	7800	231	0

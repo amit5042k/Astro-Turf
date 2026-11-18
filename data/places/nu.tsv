@@ -1,16 +1,16 @@
-Numbai	1907	7288	90	12691836	Mumbai
-Nūzvīd	1679	8085	24	58590
-Nūrpur	2915	7841	575	39077
-Nuttam	1023	7823	187	23660	Natham
-Nūh	2810	7700	544	16260
+Numbai	1907	7288	90	12691836	Mumbai	मुम्बई
+Nūzvīd	1679	8085	24	58590		नूज़्वीड
+Nūrpur	2915	7841	575	39077		नूरपुर
+Nuttam	1023	7823	187	23660	Natham	नत्तम
+Nūh	2810	7700	544	16260		नूँह
 Nullivilai	821	7734	453	16138	Nallavila
 Nūrmahal	3110	7559	369	14560
-Nūrpur	3230	7588	38	9807
+Nūrpur	3230	7588	38	9807		नूरपुर
 Nūrpur Kalān	3117	7648	735	9437
 Nūrpur	3117	7648	735	9437	Nūrpur Kalān
-Nuvem	1532	7394	102	9288
-Nuapatna	2045	8547	303	8057
-Numāligarh	2662	9372	740	7386
+Nuvem	1532	7394	102	9288		नुवें
+Nuapatna	2045	8547	303	8057		नुआपाटणा
+Numāligarh	2662	9372	740	7386		नुमालीगढ़
 Nurpur	2542	8604	530	7202
 Nūa	2804	7527	300	6049
 Nooan	2804	7527	300	6049	Nūa
@@ -19,24 +19,24 @@ Chak Nur	2587	8576	138	5238
 Numaligarh Refinery Township	2659	9374	740	2318
 Nuvalrevu	1868	8444	472	0
 Nutnus	3444	7430	0	0
-Nūtimadugu	1449	7733	100	0
+Nūtimadugu	1449	7733	100	0		नूतिमडुगु
 Nutan Bāzār	2343	9175	385	0
 Nūtalapādu	1594	8023	220	0	Nātalapādu
 Nūruddīn	3147	7487	260	0
 Nūr Sarai	2527	8546	514	0
 Nurpur	2222	8808	4	0
-Nūrla	3432	7697	2	0
-Nurju	3432	7697	2	0	Nūrla
+Nūrla	3432	7697	2	0		नूरला
+Nurju	3432	7697	2	0	Nūrla	नूरला
 Nuriāla	2616	7041	285	0	Naurīyāla
 Nūrganj	2303	7752	338	0
 Nuralrevu	1911	8478	440	0
 Nūrābād	2640	7807	478	0
-Nunmāti	2618	9180	359	0
+Nunmāti	2618	9180	359	0		नूनमाटी
 Nunkapasi	2093	8473	414	0
 Nunihāt	2448	8713	669	0
 Nungtak	2452	9417	676	0
 Nungkuinu	2404	9408	685	0
-Nungba	2474	9342	576	0
+Nungba	2474	9342	576	0		नुंगबा
 Nungambākkam	1306	8023	204	0
 Madras Nungambakan	1306	8023	204	0	Nungambākkam
 Nungambaukum	1306	8023	204	0	Nungambākkam
@@ -51,8 +51,8 @@ Nuāpalli	1985	8493	440	0
 Nuākot	2173	8529	293	0
 Nūa Hāthigurha	1994	8449	440	0
 Nua Hāthiguda	1994	8449	440	0	Nūa Hāthigurha
-Nuagān	2025	8497	548	0
-Nuagaon	2025	8497	548	0	Nuagān
+Nuagān	2025	8497	548	0		नुआगाँव
+Nuagaon	2025	8497	548	0	Nuagān	नुआगाँव
 Nūāgān	2022	8653	456	0
 Nuagaon	2022	8653	456	0	Nūāgān
 Nuagām	2014	8402	387	0
@@ -111,7 +111,7 @@ Dāwāguri Number Two	2645	8991	713	0
 Nungon	2501	9441	364	0
 Nugur	1922	8072	408	0
 Nūnepalle	1546	7848	232	0
-Nuapada	2082	8253	594	0
+Nuapada	2082	8253	594	0		नुआपाड़ा
 Nuagaon	2240	8492	272	0
 Nuagaon	2029	8524	548	0
 Nuabhatimunda	2149	8386	497	0
@@ -196,7 +196,7 @@ Nūrpur	2791	7763	177	0
 Nūrullāpur	2809	7792	543	0
 Nūrpur	2723	7765	326	0
 Nūrpur	2709	7770	546	0
-Nunerā	2236	8242	388	0
+Nunerā	2236	8242	388	0		नुनेरा
 Nunhāpāra	2244	8242	388	0
 Nuapāra	2003	8193	518	0
 Nuāpara	2003	8195	518	0
@@ -643,10 +643,10 @@ Nurājaputtu	1873	8263	316	0
 Nunna	1658	8068	104	0
 Nuā Kondaguda	1887	8281	316	0
 Nuāguda	1894	8286	316	0
-Nūtakki	1642	8065	319	0
+Nūtakki	1642	8065	319	0		नुतक्की
 Nuāguda	1852	8275	316	0
 Nuāputtu	1870	8293	316	0
-Nūtulapādu	1648	8098	68	0
+Nūtulapādu	1648	8098	68	0		नूतुलपाडु
 Nuagām	1996	8199	518	0
 Nundarkona	1922	8351	363	0
 Nundruguda	1968	8377	363	0
@@ -813,7 +813,7 @@ Nuwā Got	2908	8011	554	0
 Nūrpur	2718	8011	686	0
 Nugathalli	1341	7779	438	0
 Nunnūru	1251	7716	626	0
-Nūtanapalle	1578	7809	236	0
+Nūtanapalle	1578	7809	236	0		नूतनपल्लॆ
 Nulipura	1327	7814	47	0
 Nukkanahalli	1321	7817	47	0
 Nuggalāpura	1314	7806	47	0
@@ -826,7 +826,7 @@ Nugalagunta	1272	7841	214	0
 Nūtanakālava	1421	7826	444	0
 Nūlivedu	1410	7855	195	0
 Nutssupoda	1509	7943	200	0
-Nūjendla	1593	7974	10	0
+Nūjendla	1593	7974	10	0		नुजेन्ड़ला
 Nūjellapalle	1584	7992	200	0
 Nūkavaram	1520	7983	6	0
 Nutipalli	1426	7903	195	0

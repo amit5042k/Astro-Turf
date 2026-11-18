@@ -1,9 +1,9 @@
-Kārkala	1321	7499	257	25800
-Kārkāl	1321	7499	257	25800	Kārkala
-Kharkhauda	2888	7691	485	25051
-Kharkhoda	2888	7691	485	25051	Kharkhauda
-Kharkhauda	2884	7774	700	13189
-Kharkhari	2378	8624	401	5656
+Kārkala	1321	7499	257	25800		कार्कल
+Kārkāl	1321	7499	257	25800	Kārkala	कार्कल
+Kharkhauda	2888	7691	485	25051		खरखौदा
+Kharkhoda	2888	7691	485	25051	Kharkhauda	खरखौदा
+Kharkhauda	2884	7774	700	13189		खरखौदा
+Kharkhari	2378	8624	401	5656		खरखरी
 Kharki	3112	7745	479	273
 Kharki	1796	7433	64	0
 Khārkhand	1889	7291	17	0
@@ -26,8 +26,8 @@ Karka	1885	8161	600	0
 Karkiāl	3293	7495	666	0
 Kharkāli	2960	7697	457	0	Kharakwāli
 Karkitchhu	3460	7605	8	0
-Kharkhari	2838	7601	694	0
-Kharkhari Nāhar	2858	7696	763	0
+Kharkhari	2838	7601	694	0		खरखरी
+Kharkhari Nāhar	2858	7696	763	0		खड़खड़ी नहर
 Kharkhari	2819	7534	300	0
 Kharkari	2884	7565	431	0
 Karkaur	3057	7680	632	0
@@ -83,8 +83,8 @@ Karkādehri	2296	7803	338	0
 Kharka	2105	7899	141	0
 Khark	3098	7573	674	0
 Kharkri Dayālpur	2982	7776	596	0
-Karkar Dūmān	2865	7730	693	0
-Karkri	2865	7730	693	0	Karkar Dūmān
+Karkar Dūmān	2865	7730	693	0		कड़कड़ डूमा
+Karkri	2865	7730	693	0	Karkar Dūmān	कड़कड़ डूमा
 Karkar Mandan	2867	7734	727	0
 Nusratābād Kharkhari	2878	7732	727	0
 Karkara	2584	7408	572	0
@@ -206,7 +206,7 @@ Kharkhara	2894	7636	719	0
 Kharka Dābar	2511	8201	607	0
 Karkolī	2557	8225	32	0
 Karkhiaon	2554	8281	251	0
-Kharkhari Jatmal	2858	7695	763	0
+Kharkhari Jatmal	2858	7695	763	0		खड़खड़ी जाटमल
 Kharkhari Raund	2856	7694	763	0
 Karki Dāspur	2742	8119	507	0
 Kārkāndo	2766	8154	294	0
