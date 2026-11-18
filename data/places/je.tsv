@@ -1,21 +1,21 @@
-Jeypore	2692	7579	121	3046163	Jaipur
-Jetpur	2175	7062	174	118302
-Jetpur Navagadh	2175	7062	174	118302	Jetpur
-Jehanabad	2521	8499	527	103202	Jahānābād
-Zerakpur	3066	7682	632	95553
-Jeypore	1886	8257	316	84830
-Jeyepore	1886	8257	316	84830	Jeypore
-Jeypur	1886	8257	316	84830	Jeypore
-Jewar	2812	7756	588	29316
-Jevargi	1701	7677	71	25686
-Jedcherla	1677	7814	317	17958	Jadcherla
+Jeypore	2692	7579	121	3046163	Jaipur	जयपुर
+Jetpur	2175	7062	174	118302		जेतपुर
+Jetpur Navagadh	2175	7062	174	118302	Jetpur	जेतपुर
+Jehanabad	2521	8499	527	103202	Jahānābād	जहानाबाद
+Zerakpur	3066	7682	632	95553		ज़िरकपुर
+Jeypore	1886	8257	316	84830		जयपुर
+Jeyepore	1886	8257	316	84830	Jeypore	जयपुर
+Jeypur	1886	8257	316	84830	Jeypore	जयपुर
+Jewar	2812	7756	588	29316		जेवर
+Jevargi	1701	7677	71	25686		जेवर्गी
+Jedcherla	1677	7814	317	17958	Jadcherla	जड्चर्ल
 Jetalsar	2171	7058	174	14771
-Jejūri	1828	7416	52	14515
-Zero	2759	9384	15	13893	Ziro
-Jeron Khalsa	2512	7866	529	9426	Jiraūn Kasba
+Jejūri	1828	7416	52	14515		जेजुरी
+Zero	2759	9384	15	13893	Ziro	ज़िरो
+Jeron Khalsa	2512	7866	529	9426	Jiraūn Kasba	जेरों खालसा
 Jegri	2106	7179	168	8677	Katpur
 Jetpur	2234	7384	126	8446
-Jena	2368	8602	517	8143
+Jena	2368	8602	517	8143		जेना
 Jeti	2634	8087	681	2108
 Jetla	2356	7722	675	206
 Zemābawk	2374	9275	19	0
@@ -29,9 +29,9 @@ Jetpur	2300	7089	147	0
 Jetia	2226	8556	287	0
 Jethāna	2628	7447	446	0
 Jethāna	2364	7406	512	0
-Jetalpur	2289	7260	124	0
+Jetalpur	2289	7260	124	0		जेतलपुर
 Jesurāna	2706	7114	217	0
-Jessami	2562	9454	364	0
+Jessami	2562	9454	364	0		जेस्सामी
 Jesāwāra	2274	7420	173	0
 Jesavada	2274	7420	173	0	Jesāwāra
 Jeruwakhera	2397	7848	352	0	Jaruwākhera
@@ -43,8 +43,8 @@ Jelkarjhār	2646	9052	746	0
 Jelam	3064	7983	183	0
 Jeketa	3113	7770	479	0
 Jeikhān	2449	9311	42	0
-Jethwāra	2583	8177	718	0
-Jevli	1789	7639	48	0
+Jethwāra	2583	8177	718	0		जेठवारा
+Jevli	1789	7639	48	0		जावली
 Jeniyo	2689	6950	217	0
 Zema	2776	8854	27	0
 Jejur	2288	8812	279	0
@@ -593,4 +593,4 @@ Jeruaketta	2010	8418	387	0
 Jerangdehurisāhi	2090	8486	414	0
 Jerang	2089	8487	414	0
 Jesar	2137	7167	168	0
-Zemithang	2771	9173	531	0
+Zemithang	2771	9173	531	0		ज़ेमीथंग

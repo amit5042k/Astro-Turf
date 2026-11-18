@@ -1,23 +1,23 @@
 Kāpas Herd	2853	7708	721	74073
-Hebbagodi	1283	7768	43	34827
+Hebbagodi	1283	7768	43	34827		हेब्बगोडी
 Hemambikanagar	1079	7665	263	28592	Ambikāpuram
-Heli Mandi	2834	7676	630	20906
-Heggadadevankote	1209	7633	74	14313
-Heggaddevankote	1209	7633	74	14313	Heggadadevankote
-Herbertpur	3044	7774	448	9478	Harbatpur
+Heli Mandi	2834	7676	630	20906		हेलीमंडी
+Heggadadevankote	1209	7633	74	14313		हेग्गडदेवनकोटे
+Heggaddevankote	1209	7633	74	14313	Heggadadevankote	हेग्गडदेवनकोटे
+Herbertpur	3044	7774	448	9478	Harbatpur	हरबर्टपुर
 Herni	1781	7310	234	7144	Harnai
 Heri	3452	7420	0	6348	Buna Hir
-Hesla	2406	8588	452	6286
+Hesla	2406	8588	452	6286		हेसला
 Heingang	2486	9395	96	6115
 Hēsabettu	1272	7489	305	5179
 Hērūr	1342	7474	257	4778
-Heslā	2362	8528	391	4451
-Heirok	2459	9407	95	2974
+Heslā	2362	8528	391	4451		हेसला
+Heirok	2459	9407	95	2974		हेइरोक
 Oal-hetaih	792	9332	442	0
 Oel-hetaih	792	9332	442	0	Oal-hetaih
-Hemkund	3069	7962	183	0	Lokpāl
+Hemkund	3069	7962	183	0	Lokpāl	हेमकुंट साहिब
 Kire-Henpoan	798	9338	79	0
-Hemis	3391	7771	2	0
+Hemis	3391	7771	2	0		हेमिस
 Heya	742	9370	79	0
 Hewra	1770	7442	64	0
 Hewro	1770	7442	64	0	Hewra
@@ -38,22 +38,22 @@ Her	1842	7698	158	0
 Her Bidar	1842	7698	158	0	Her
 Henpoin	687	9377	442	0
 Henima	2536	9362	533	0
-Henhōaha	682	9382	79	0
-Henóaha	682	9382	79	0	Henhōaha
+Henhōaha	682	9382	79	0		हेनहोआहा
+Henóaha	682	9382	79	0	Henhōaha	हेनहोआहा
 Hengtam	2408	9360	437	0
 Hemtābād	2568	8822	610	0
 Hematabad	2568	8822	610	0	Hemtābād
 Hempur	2762	8057	507	0
-Hemāwās	2570	7334	273	0
+Hemāwās	2570	7334	273	0		हेमावास
 Hemagiri	2195	8370	272	0	Hingīr
 Hema	2776	8854	27	0	Zema
-Helwāk	1738	7373	64	0
+Helwāk	1738	7373	64	0		हेलवाक
 Helem	2684	9348	302	0
 Helāpākari	2643	9097	358	0
 Helam	2791	9336	36	0
 Hediyal	1194	7649	74	0
 Hebsūr	1545	7530	682	0
-Hebri	1346	7499	257	0
+Hebri	1346	7499	257	0		हेब्री
 Hebli	1549	7513	682	0
 Hebbūr	1315	7703	93	0
 Hebbetti	1555	7716	236	0
@@ -95,7 +95,7 @@ Hekera	2651	9151	758	0	Hekra
 Hedaspur	2224	8260	696	0
 Hemgir	2195	8370	272	0
 Helesa	2634	9162	636	0
-Helencha	2319	8886	450	0
+Helencha	2319	8886	450	0		हेलेंचा
 Hebbasale	1294	7575	679	0
 Herāheri	2830	7676	630	0
 Kūdni Head	2974	7585	443	0
@@ -316,7 +316,7 @@ Hemai	2649	8365	535	0
 Hemai	2619	8352	586	0
 Hel	3330	7500	666	0
 Hera Guwās	3349	7536	148	0
-Hemalkasa	1943	8057	135	0
+Hemalkasa	1943	8057	135	0		हेमलकसा
 Hetīmpur	2558	8352	26	0
 Her Tsainyar	3362	7570	34	0
 Herim Shāri	3344	7554	34	0
@@ -590,7 +590,7 @@ Heutoli	2411	8546	764	0
 Hegger	1416	7665	255	0
 Hemadālu	1402	7666	255	0
 Heruru	1481	7677	255	0
-Hemāvati	1403	7699	444	0
+Hemāvati	1403	7699	444	0		हेमावती
 Heggadahalli	1269	7644	94	0
 Hejjodlu	1238	7637	74	0
 Hebbāl	1246	7635	74	0
@@ -771,7 +771,7 @@ Hemmige	1221	7702	74	0
 Hebani	1233	7712	94	0
 Hegalihundi	1201	7703	69	0
 Shringipālya Herti	1300	7727	626	0
-Herohalli	1299	7749	43	0
+Herohalli	1299	7749	43	0		हेरोहल्ली
 Hemagipur	1288	7749	43	0
 Hejal	1286	7742	626	0
 Heggadgeri	1276	7738	626	0
@@ -969,7 +969,7 @@ Heperburu	2200	8585	287	0
 Heselgutu	2207	8595	287	0
 Hesabera	2193	8542	293	0
 Dhānberuni Hermitage	2172	8571	293	0
-Hemis Monastery	3392	7770	2	0
+Hemis Monastery	3392	7770	2	0		हेमिस फेस्टिवल
 Hethli Debo	2416	8554	764	0
 Helānātola	2421	8564	764	0
 Hethli Kanhāi	2464	8583	452	0

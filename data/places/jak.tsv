@@ -1,6 +1,6 @@
-Andipatti Jakkampatti	1000	7762	194	27287	Āndippatti
-Jhakal Mandi	2981	7582	443	7788
-Jākhal	2980	7582	443	7411
+Andipatti Jakkampatti	1000	7762	194	27287	Āndippatti	आण्डिपट्टी
+Jhakal Mandi	2981	7582	443	7788		जाखल मंडी
+Jākhal	2980	7582	443	7411		जाखल मंडी
 Jākhri	3149	7770	479	4655
 Zākhung	2790	8842	27	0
 Jhako Lahri	3221	7554	692	0
@@ -22,8 +22,8 @@ Jākhim	2484	8453	137	0
 Jakhda	2562	7706	335	0
 Jakhaura	2491	7834	384	0
 Jakhauli	2966	7644	638	0
-Jakhau	2322	6871	108	0
-Jakhan	2322	6871	108	0	Jakhau
+Jakhau	2322	6871	108	0		जखौ
+Jakhan	2322	6871	108	0	Jakhau	जखौ
 Jakhalābāndha	2659	9297	656	0
 Jakh	2759	7404	539	0	Jyāk
 Jakara	1926	8453	440	0
@@ -106,7 +106,7 @@ Jakhlān	3038	7594	593	0
 Jakumbar	2464	7250	23	0
 Jākhan	3036	7807	448	0
 Jakha	2600	7801	484	0
-Jakhwāli	3049	7641	648	0
+Jakhwāli	3049	7641	648	0		जखवाली
 Jākhur	2776	7791	543	0
 Jakar Mājra	3078	7665	632	0
 Jakhrān	3044	7654	564	0
@@ -203,7 +203,7 @@ Jakhinni	2519	8283	251	0
 Jhakhāhi	2477	8291	103	0
 Jākhod	2833	7580	300	0
 Jhakrāwal	2433	8234	631	0
-Jakhaniā	2570	8226	32	0
+Jakhaniā	2570	8226	32	0		जखनियाँ
 Jhakwāsa	2652	8081	312	0
 Jākhauda	2873	7687	609	0
 Jakhāla	2838	7654	519	0
@@ -330,7 +330,7 @@ Jakesmunda	1989	8333	284	0
 Jakudi	1937	8331	363	0
 Jakam	1815	8241	268	0
 Jakkampūdi	1658	8061	104	0
-Jakkulanekkalam	1653	8075	68	0
+Jakkulanekkalam	1653	8075	68	0		जक्कुलनॆक्कालं
 Jhākarpāra	1979	8191	659	0
 Jakesh	1985	8389	387	0
 Jākaravalasa	1861	8307	199	0
@@ -395,7 +395,7 @@ Jākkanahalli	1358	7757	438	0
 Jaksandra	1328	7750	389	0
 Jakkalmadagu	1342	7762	438	0
 Jakkūr	1308	7761	43	0
-Jakkasamudram	1400	7786	444	0
+Jakkasamudram	1400	7786	444	0		जक्कसमुद्रं
 Jaksandra	1309	7797	47	0
 Jakkali	1414	7594	275	0
 Jakkanabail	1394	7517	346	0
@@ -434,7 +434,7 @@ Jakkanahalli	1289	7686	94	0
 Jakhanalli	1266	7576	193	0
 Jakkareddipalli	1600	7780	306	0
 Jhakhra	2506	8673	605	0
-Jakkasānikuntla	1515	7777	232	0
+Jakkasānikuntla	1515	7777	232	0		जक्कसानिकुंट्ल
 Jhakhrān	2583	8696	657	0
 Jhakua	2491	8621	524	0
 Hisāmpur Zakaria	2745	8062	507	0
@@ -455,7 +455,7 @@ Jhakhra	2575	8575	138	0
 Jakki	2533	8566	514	0
 Jakjanpur	2535	8567	604	0
 Zaki Purwa	2765	8020	686	0
-Jakhal	2791	7544	300	0
+Jakhal	2791	7544	300	0		जाखल
 Jakkalli	1213	7713	69	0
 Jakkegaudandoddi	1249	7737	626	0
 Jakkalavāripalle	1343	7839	195	0

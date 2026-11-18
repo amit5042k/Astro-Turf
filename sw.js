@@ -1,8 +1,8 @@
 // Offline cache: app shell is cache-first; weekly notes JSON is network-first;
 // place-search files are cached as they are used (one small file per typed prefix).
-const CACHE = 'astroturf-v4';
-const PLACES = 'astroturf-places-v2';
-const SHELL = ['./', 'index.html', 'css/styles.css', 'js/app.js', 'js/astro.js', 'js/predict.js', 'js/i18n.js', 'js/places.js',
+const CACHE = 'astroturf-v5';
+const PLACES = 'astroturf-places-v3';
+const SHELL = ['./', 'index.html', 'css/styles.css', 'js/app.js', 'js/astro.js', 'js/predict.js', 'js/i18n.js', 'js/places.js', 'js/hindi.js',
   'manifest.webmanifest', 'icons/icon.svg'];
 
 self.addEventListener('install', (e) => {

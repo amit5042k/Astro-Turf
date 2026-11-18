@@ -1,25 +1,25 @@
-The crown of Kerala	1187	7536	266	62836	Kannur
+The crown of Kerala	1187	7536	266	62836	Kannur	कण्णूर
 Keru	2619	7304	344	38429
-Kheri	2790	8080	323	26327
+Kheri	2790	8080	323	26327		खीरी
 Kērkandi	1137	7675	115	23229
-Kherālu	2389	7262	164	21843
-Bawāni Khera	2895	7603	431	20289
+Kherālu	2389	7262	164	21843		खेरालु
+Bawāni Khera	2895	7603	431	20289		बवानी खेड़ा
 Kheragarh	2694	7782	546	20095	Khairāgarh
-Kerūr	1601	7555	86	19731
+Kerūr	1601	7555	86	19731		केरुर
 Kheri Nāngal	2935	7698	298	18195
-Nīlū Kheri	2984	7693	457	17938	Nīlokheri
+Nīlū Kheri	2984	7693	457	17938	Nīlokheri	नीलोखेड़ी
 Kherli	2727	7699	482	17634
-Nal Khera	2384	7624	347	16690
-Rāni Khera	2871	7703	689	16402
-Kherdi	1752	7356	234	12397
-Kheri Sāmpla	2878	7678	719	10891
-Khera Khurd	2878	7710	769	9777
-Khera Kalān	2877	7712	769	8252
+Nal Khera	2384	7624	347	16690		नलखेड़ा
+Rāni Khera	2871	7703	689	16402		रानी खेड़ा
+Kherdi	1752	7356	234	12397		खेर्डी
+Kheri Sāmpla	2878	7678	719	10891		सांपला
+Khera Khurd	2878	7710	769	9777		खेड़ा खुर्द
+Khera Kalān	2877	7712	769	8252		खेरा कलां
 Kherwāra	2399	7359	22	7581
 Kherwara Chhaoni	2399	7359	22	7581	Kherwāra
 Khera	2859	7697	763	7220	Khaira
 Kherlīganj	2488	7667	506	7022
-Keran	3465	7395	0	3770
+Keran	3465	7395	0	3770		केरन
 Khui Khera	3004	7411	3	0	Rukanpura
 Risāliya Khera	2971	7476	585	0
 Kerang	2835	9472	40	0	Rangku
@@ -48,7 +48,7 @@ Kheri	2323	7649	320	0	Khari
 Kheri	2295	7704	675	0
 Kheri Sānvlīgarh	2185	7780	462	0
 Kheri	2185	7780	462	0	Kheri Sānvlīgarh
-Khergām	2063	7309	221	0
+Khergām	2063	7309	221	0		खेरगाम
 Kherdi	2011	7303	233	0
 Kherārbāri	2013	7313	233	0
 Kherapāra	2534	9019	399	0
@@ -85,8 +85,8 @@ Keru	2635	7287	344	0
 Ina Khera	3026	7449	615	0
 Gulāl Khera	2673	8110	714	0
 Dūngar Khera	2355	7586	314	0	Dongarkhera
-Dangar Khera	3021	7417	3	0
-Danger Khera	3021	7417	3	0	Dangar Khera
+Dangar Khera	3021	7417	3	0		डंगर खेड़ा
+Danger Khera	3021	7417	3	0	Dangar Khera	डंगर खेड़ा
 Chātu Khera	2387	7670	16	0	Sondiya
 Budha Khera Kalwa	2938	7655	367	0
 Budha Khera	2938	7655	367	0	Budha Khera Kalwa
@@ -162,7 +162,7 @@ Kherla	2834	7560	300	0
 Kheri Rānma	3023	7652	564	0
 Ratta Khera	3017	7661	564	0
 Kheri Shahidān	3013	7669	501	0
-Sarusti Khera	3000	7660	501	0
+Sarusti Khera	3000	7660	501	0		भट्ट माजरा
 Kheri Jattān	3051	7688	632	0
 Kheri Gujrān	3055	7687	632	0
 Kheri Sandrān	3062	7689	632	0
@@ -284,7 +284,7 @@ Jogna Khera	2998	7680	501	0
 Bhawāni Khera	2999	7683	501	0
 Munda Khera	2997	7675	501	0
 Kunwār Kheri	2989	7681	457	0
-Kheri Rāmnagar	2994	7686	501	0
+Kheri Rāmnagar	2994	7686	501	0		खेड़ी रामनगर
 Kheri Mārkanda	2998	7687	501	0
 Gālib Kheri	2981	7689	457	0
 Kheri Mān Singh	2982	7700	457	0
@@ -301,7 +301,7 @@ Mammun Khera Jadīd	3028	7418	3	0
 Dewān Khera	3012	7400	3	0	Banwāla Sādhu
 Kikar Khera	3008	7417	3	0
 Dalmir Khera	3005	7405	3	0
-Waryām Khera	3002	7408	3	0
+Waryām Khera	3002	7408	3	0		वरयाम खेड़ा
 Ratta Khera	3048	7432	3	0
 Ratta Khera	3029	7442	615	0
 Ratta Khera	3025	7429	615	0
@@ -763,7 +763,7 @@ Māhal Kheri	2981	7625	638	0
 Pudārath Khera	2980	7610	367	0
 Kheri	2982	7602	593	0
 Kheri Lāmba	2971	7623	638	0
-Mohal Khera	2962	7614	367	0
+Mohal Khera	2962	7614	367	0		मोहल खेड़ा
 Kānha Khera	2964	7602	367	0
 Sāncha Khera	2955	7605	367	0
 Kheri Safa	2952	7618	367	0
@@ -2128,7 +2128,7 @@ Asadpur Khera	2845	7663	609	0
 Kheri Patauda	2843	7670	609	0
 Khera	2839	7669	609	0
 Khera Ālampur	2834	7662	519	0
-Khera Dābar	2858	7694	763	0
+Khera Dābar	2858	7694	763	0		खेड़ा डाबर
 Kherka Gujar	2864	7679	609	0
 Kheri Jāt	2860	7678	609	0
 Tribedi Khera	2636	8100	312	0
@@ -3758,7 +3758,7 @@ Nūr Khera	2917	7919	641	0
 Bannā Khera	2918	7921	641	0
 Bāns Kherī	2914	7922	641	0	Badalpurī
 Dhīmar Khera	2914	7923	641	0
-Kela Khera	2909	7918	641	0
+Kela Khera	2909	7918	641	0		केला खेरा
 Dhīmar Khera	2909	7922	641	0
 Kui Kherī	2906	7919	641	0
 Kua Khera	2905	7920	641	0
@@ -4329,7 +4329,7 @@ Kerākona	2292	8409	398	0
 Kherwātoli	2282	8401	398	0
 Kere	2282	8407	398	0
 Kerākachhār	2260	8410	495	0
-Kersai	2253	8423	495	0
+Kersai	2253	8423	495	0		केरसई
 Kerādih	2298	8440	321	0
 Kerātoli	2285	8450	321	0
 Kerādānr	2284	8444	321	0

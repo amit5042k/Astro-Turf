@@ -1,18 +1,18 @@
-Lal Bahadur Nagar	1735	7856	62	261987
-Bahraigh	2757	8159	294	182218
-Bahraich	2757	8159	294	182218	Bahraigh
-Baharaich	2757	8159	294	182218	Bahraigh
-Baharampur	2410	8825	471	180547
-Bahrāmpur	2410	8825	471	180547	Baharampur
-Bahadurgarh	2869	7694	609	170767
-Baheri	2877	7950	342	63953
+Lal Bahadur Nagar	1735	7856	62	261987		एल बी नगर
+Bahraigh	2757	8159	294	182218		बहराइच
+Bahraich	2757	8159	294	182218	Bahraigh	बहराइच
+Baharaich	2757	8159	294	182218	Bahraigh	बहराइच
+Baharampur	2410	8825	471	180547		बहरामपुर
+Bahrāmpur	2410	8825	471	180547	Baharampur	बहरामपुर
+Bahadurgarh	2869	7694	609	170767		बहादुरगढ़
+Baheri	2877	7950	342	63953		बहेड़ी
 Bahadurpur	2560	8626	530	40043	Bakhri
-Bahādurganj	2626	8782	510	36993
-Bahjoi	2840	7863	646	33752
-Bahula	2365	8716	642	16264
-Bāh	2687	7859	546	15359
-Bahsūma	2920	7797	700	11157
-Bahua	2584	8062	728	10243
+Bahādurganj	2626	8782	510	36993		बहादुरगंज
+Bahjoi	2840	7863	646	33752		बहज़ोई
+Bahula	2365	8716	642	16264		बहुला
+Bāh	2687	7859	546	15359		बाह
+Bahsūma	2920	7797	700	11157		बेहसुमा
+Bahua	2584	8062	728	10243		बहुवा
 Bahbari Gaon	2748	9533	460	6821
 Bahrāmpur	3213	7540	487	5432
 Niz-Bahjani	2638	9142	758	5183
@@ -29,9 +29,9 @@ Bāhla	2778	7141	217	0
 Bāhlān	2778	7141	217	0	Bāhla
 Bahya	2959	7468	585	0
 Bahurīband	2367	8006	351	0
-Bahūr	1181	7974	277	0
-Bahour	1181	7974	277	0	Bahūr
-Bahūna	2953	7571	443	0	Bhūna
+Bahūr	1181	7974	277	0		बाहूर
+Bahour	1181	7974	277	0	Bahūr	बाहूर
+Bahūna	2953	7571	443	0	Bhūna	भूना
 Bahu	2845	7633	609	0
 Bāhre	2044	7353	54	0
 Bahrādi	2036	7556	113	0
@@ -40,8 +40,8 @@ Bahora Kalān	2830	7684	630	0
 Bahora	2830	7684	630	0	Bahora Kalān
 Bāhli	3137	7767	479	0
 Bāhl	3182	7691	278	0
-Bahal	2863	7562	431	0
-Bāhl	2863	7562	431	0	Bahal
+Bahal	2863	7562	431	0		बहल
+Bāhl	2863	7562	431	0	Bahal	बहल
 Bahirevādi	1628	7431	57	0
 Bahipur	2057	7500	78	0	Rahipur
 Bahiel	2307	7289	276	0
@@ -49,9 +49,9 @@ Baheri	2594	8605	591	0
 Bahera	2607	8612	591	0
 Bahela	2140	8053	144	0
 Bahāuddin	2955	7522	585	0
-Baharāgora	2228	8672	584	0
+Baharāgora	2228	8672	584	0		बहरागोड़ा
 Bahamnīwāla	3054	7422	3	0
-Bahaldā	2238	8608	382	0
+Bahaldā	2238	8608	382	0		बहलदा
 Bāhāl	2059	7505	78	0
 Bahādurpur	2767	7674	482	0
 Bahādurpur	2638	7703	447	0
@@ -67,13 +67,13 @@ Bahadurpur	2218	7356	126	0	Bahadarpur
 Bahirkhanda	2286	8807	279	0
 Bahira	2245	8809	354	0
 Bāhirkunji	2239	8813	4	0
-Baharu	2220	8843	4	0
+Baharu	2220	8843	4	0		बहड़ू
 Jijot Bahraui	3329	7410	504	0
 Jijot Bahādur	3329	7410	504	0	Jijot Bahraui
 Bahādur	3077	7428	566	0
 Bahloujipura	3413	7480	611	0
 Bāhrampur	3433	7440	301	0
-Bahani	3321	7410	504	0	Bohāni
+Bahani	3321	7410	504	0	Bohāni	बोहानी
 Bahiwāla	3324	7430	504	0
 Baherarī	3322	7447	504	0
 Bāholi	2999	7691	501	0
@@ -148,7 +148,7 @@ Bāhādurpur	2476	9237	624	0
 Bahriābād	2571	8326	26	0
 Kotra Bahādur	2416	7536	601	0
 Bahara	2332	8687	571	0
-Bahoriband	2367	8006	351	0
+Bahoriband	2367	8006	351	0		बहोरीबंद
 Baheriya Mal	2340	7944	521	0
 Bahirkela	2218	8333	439	0
 Bahera West	2435	8191	672	0
@@ -352,7 +352,7 @@ Bahādurganj	2497	7663	506	0
 Baherābeh	2444	7698	336	0
 Bahlolpur	2897	7791	700	0
 Rasulpur Bahlolpur	2872	7792	756	0
-Bhawan Bahādurnagar	2864	7796	637	0
+Bhawan Bahādurnagar	2864	7796	637	0		भवन बहादुर नगर
 Baherābhāta	2166	8108	509	0
 Baherābhāta	2133	8104	474	0
 Bahādurgarh	2638	7779	478	0
@@ -370,7 +370,7 @@ Bahālpur Tapriān	3081	7669	632	0
 Bahlolpur	3076	7670	792	0
 Bahādūrwādi	1888	7645	33	0
 Bahloli	3041	7696	691	0
-Bahin	2796	7727	754	0
+Bahin	2796	7727	754	0		बहीन
 Bahrauli	2775	7754	177	0
 Asthal Bahera	2767	7772	177	0
 Bahbalpur	2924	7630	367	0
@@ -1669,7 +1669,7 @@ Bahorakpur	2761	8143	294	0
 Bahāl	2766	8149	294	0
 Bahādur Singh	2750	8144	294	0
 Bahwal Purwa	2744	8138	294	0
-Bahādurganj	2731	8133	507	0
+Bahādurganj	2731	8133	507	0		बहादुरगंज
 Bahādurpur	2727	8137	507	0
 Bahorwa	2739	8144	294	0
 Baharwa	2739	8144	294	0

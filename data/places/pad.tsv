@@ -1,25 +1,25 @@
-Padrauna	2690	8398	560	47181
-Padra	2224	7308	159	46660
-Padam	3347	7688	8	25000
+Padrauna	2690	8398	560	47181		पडरौना
+Padra	2224	7308	159	46660		पादरा
+Padam	3347	7688	8	25000		पदम
 Pādiyanallūr	1320	8018	228	23819
 Padiahallur	1320	8018	228	23819	Pādiyanallūr
-Padmanābhapuram	824	7733	453	21342
+Padmanābhapuram	824	7733	453	21342		पद्मनाभपुरम
 Padirikuppam	1175	7975	178	18745	Kammivapettai
-Padampur	2971	7363	374	18454
-Padmapur	2100	8307	497	17625
+Padampur	2971	7363	374	18454		पदमपुर
+Padmapur	2100	8307	497	17625		पद्मपुर
 Padampur	2100	8306	497	16387
-Padappai	1289	8002	161	14063	Pedappai
+Padappai	1289	8002	161	14063	Pedappai	पडप्पई
 Padiyam	1045	7610	241	11623
-Paddhari	2244	7060	174	10547
+Paddhari	2244	7060	174	10547		पडधरी
 Padaivedu	1144	7781	231	10451
 Padikkasu vaithanpatti	948	7761	119	9538	Vaittilingapuram
 Padiyur	1029	7614	241	8823	Koolimuttam
 Umbar Pada Nandade	1957	7280	192	7605	Mānda
 Padri	2616	8591	591	7566
 Padmabīl	2644	8996	713	6874
-Padghe	1937	7318	246	6633
-Padgha	1937	7318	246	6633	Padghe
-Padagha	1937	7318	246	6633	Padghe
+Padghe	1937	7318	246	6633		पडघा
+Padgha	1937	7318	246	6633	Padghe	पडघा
+Padagha	1937	7318	246	6633	Padghe	पडघा
 Padoli	2000	7926	111	5275
 Paddi Khālsa	3117	7579	369	1364
 Padasāvli	1760	7646	71	0
@@ -43,7 +43,7 @@ Padmūr	1884	8097	288	0
 Padmapuram	1923	8382	363	0
 Padmāpur	2005	7931	111	0
 Padmanābham	1799	8333	81	0
-Padmā	2421	8536	764	0
+Padmā	2421	8536	764	0		पदमा
 Pādliya Khurd	2230	7580	329	0
 Pādlia	2230	7580	329	0	Pādliya Khurd
 Pādlia Khurd	2230	7580	329	0	Pādliya Khurd
@@ -52,16 +52,16 @@ Padiyūr	1106	7749	235	0
 Pādiv	2493	7277	23	0
 Padigaon	2170	8339	439	0
 Pādha	2958	7678	457	0
-Pāderu	1808	8266	268	0
+Pāderu	1808	8266	268	0		पाडेरु
 Pādarli	2538	7297	343	0
 Padarri	2538	7297	343	0	Pādarli
 Padaraha	2491	8011	532	0
 Padāna	2233	6984	145	0
-Padampura	2515	7507	309	0
+Padampura	2515	7507	309	0		पदमपुरा
 Padampur	2625	7825	484	0
 Padamchen	2724	8877	739	0
 Pādālūr	1109	7883	265	0
-Padālam	1259	7995	247	0
+Padālam	1259	7995	247	0		पाडलम
 Padāl	3205	7606	38	0
 Padakal	1237	7557	193	0
 Padakalu	1237	7557	193	0	Padakal
@@ -102,9 +102,9 @@ Padel	1646	7328	90	0
 Pādalda Budrukh	2160	7445	186	0
 Kokni Pāda	2137	7413	186	0
 Padumsara	2171	8144	710	0
-Padmapur	1924	8382	363	0
+Padmapur	1924	8382	363	0		पद्मपुर
 Padariya	2310	7999	598	0
-Padubidri	1314	7477	257	0
+Padubidri	1314	7477	257	0		पडुबिद्री
 Padli	2405	7548	580	0
 Padabhat	2141	8200	310	0
 Padaliya Bajrang	2284	7591	660	0
@@ -957,7 +957,7 @@ Mandev Padar	2169	7482	248	0
 Pādlya	2163	7477	248	0
 Dāmser Pāda	2125	7496	190	0
 Pādsa	2113	7496	78	0
-Padhāvad	2118	7494	190	0
+Padhāvad	2118	7494	190	0		पढावद
 Vanjār Pāda	2110	7494	78	0
 Goneri Padi	2863	7968	683	0
 Padārathpur	2824	7956	342	0
@@ -1033,7 +1033,7 @@ Padawala Mārahalli	1202	7688	74	0
 Padampur	2598	8661	661	0
 Padampura	2587	8667	661	0
 Padampur	2568	8673	661	0
-Padamatiyāleru	1467	7736	100	0
+Padamatiyāleru	1467	7736	100	0		पडमटि यालेरु
 Padmāwat	2493	8615	524	0
 Pādedi	2331	7363	142	0
 Padhara	2331	7375	142	0
@@ -1077,12 +1077,12 @@ Padra	2760	8014	686	0
 Padam Purwa	2739	8009	686	0
 Padaria	2799	8029	323	0
 Padaria	2775	8041	323	0
-Padanilam	920	7662	243	0
-Padinjarathara	1168	7597	242	0
+Padanilam	920	7662	243	0		पडनिलम
+Padinjarathara	1168	7597	242	0		पडिन्यारेतरा
 Pādiganhalli	1328	7796	47	0
 Paduvangere	1262	7747	626	0
 Padigapādu	1512	7838	232	0
-Padakandla	1514	7852	232	0
+Padakandla	1514	7852	232	0		पडकंड्ल
 Padigalapalle	1441	7879	229	0
 Padamativāripalle	1383	7822	444	0
 Padathimmanahalli	1328	7821	47	0

@@ -1,20 +1,20 @@
-Siliguri	2671	8843	573	515574
-Silguri	2671	8843	573	515574	Siliguri
-Siligun	2671	8843	573	515574	Siliguri
-Silchar	2483	9280	378	178865
-Shillong	2557	9188	340	143229
-Silvassa	2027	7300	233	98265
-Sillod	2030	7565	113	58230
-Silao	2508	8543	514	25674
-Silapathar	2759	9472	299	25662
-Silapather	2759	9472	299	25662	Silapathar
+Siliguri	2671	8843	573	515574		सिलीगुड़ी
+Silguri	2671	8843	573	515574	Siliguri	सिलीगुड़ी
+Siligun	2671	8843	573	515574	Siliguri	सिलीगुड़ी
+Silchar	2483	9280	378	178865		सिलचर
+Shillong	2557	9188	340	143229		शिलांग
+Silvassa	2027	7300	233	98265		सिलवास
+Sillod	2030	7565	113	58230		सिल्लोड
+Silao	2508	8543	514	25674		सिलाव
+Silapathar	2759	9472	299	25662		सिलापथार
+Silapather	2759	9472	299	25662	Silapathar	सिलापथार
 Silvāni	2330	7844	338	18623
 Sīlappādi	1039	7801	187	17824
 Siltara	2138	8166	310	10721
-Silewāra	2129	7912	141	7290
-Sillewada	2129	7912	141	7290	Silewāra
+Silewāra	2129	7912	141	7290		सिल्लेवाड़ा
+Sillewada	2129	7912	141	7290	Silewāra	सिल्लेवाड़ा
 Silaimān	987	7819	274	6436
-Silchar Part-X	2482	9281	378	6313
+Silchar Part-X	2482	9281	378	6313		सिलचर भाग-१०
 Upper Sileru Project Site Camp	1806	8203	268	4632
 Silwai	2338	8545	562	0
 Silpuri	2556	7706	335	0
@@ -34,7 +34,7 @@ Silyari	2143	8173	310	0	Siliāri
 Sili	2030	7304	233	0
 Silheti	2178	8113	537	0
 Silhati	2178	8113	537	0	Silheti
-Silghāt	2660	9293	656	0
+Silghāt	2660	9293	656	0		सिलघाट
 Sileru	1805	8203	268	0
 Silegaon	1987	7500	113	0
 Sildā	2262	8682	665	0
@@ -49,7 +49,7 @@ Silākāng	3089	7988	183	0
 Silakank	3089	7988	183	0	Silākāng
 Sila	3309	7481	666	0
 Shil	2119	7005	185	0
-Silpur	2257	8832	354	0	Sibpur
+Silpur	2257	8832	354	0	Sibpur	शिवपुर
 Shilona	1975	7761	67	0
 Shilena	1975	7761	67	0	Shilona
 Shila	3343	7690	8	0
@@ -105,7 +105,7 @@ Silobari	2600	9114	636	0
 Silkheda	2356	7725	675	0
 Siloda Buzurg	2291	7586	660	0
 Sili	2231	8128	537	0
-Silapathar	2760	9472	299	0
+Silapathar	2760	9472	299	0		सिलापथार
 Silsili Demow Kinar	2720	9480	380	0
 Silota Kala	2178	7913	337	0
 Siluwa	2291	7986	598	0
@@ -704,7 +704,7 @@ Silāphari	2306	8510	432	0
 Sildiri	2348	8546	562	0
 Silādon	2324	8529	562	0
 Sildā	2319	8526	432	0
-Siladon	2315	8537	432	0
+Siladon	2315	8537	432	0		सिलादोन
 Silitoli	2320	8570	562	0
 Sili Sāram	2367	8592	517	0
 Sillidīh	2335	8582	562	0

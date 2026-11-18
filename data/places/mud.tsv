@@ -1,22 +1,22 @@
-Mudhol	1633	7528	86	52199
-Muddebihāl	1634	7613	80	34217
-Mūdbidri	1307	7500	55	30632
-Mudabidri	1307	7500	55	30632	Mūdbidri
-Mudukarai	1091	7696	156	30357	Madukkarai
-Mudalgi	1634	7497	77	29128
-Mudkhed	1916	7750	140	23517
-Mudgal	1601	7644	50	22731
-Mudukulathur	934	7851	5	14789
-Mudki	3078	7488	566	10415
+Mudhol	1633	7528	86	52199		मुधोल
+Muddebihāl	1634	7613	80	34217		मुद्दॆबिहाळ
+Mūdbidri	1307	7500	55	30632		मुदबिद्री
+Mudabidri	1307	7500	55	30632	Mūdbidri	मुदबिद्री
+Mudukarai	1091	7696	156	30357	Madukkarai	मदुकरै
+Mudalgi	1634	7497	77	29128		मूडलगी
+Mudkhed	1916	7750	140	23517		मुदखेड़
+Mudgal	1601	7644	50	22731		मुद्गल
+Mudukulathur	934	7851	5	14789		मुदुकुलातूर
+Mudki	3078	7488	566	10415		मुदकी
 Muddanūru	1469	7839	229	9775
 Muddanur	1469	7839	229	9775	Muddanūru
-Mudgere	1313	7564	98	9677
-Mudigere	1313	7564	98	9677	Mudgere
+Mudgere	1313	7564	98	9677		मुडिगेरे
+Mudigere	1313	7564	98	9677	Mudgere	मुडिगेरे
 Mūdashedde	1293	7489	55	8155
 Muduperar	1297	7494	55	5686
 Mūdabettu	1327	7475	257	5018
 Mudal	3169	7495	222	3882	Muhdal
-Mudi	2264	7146	28	0	Muli
+Mudi	2264	7146	28	0	Muli	मुली
 Muduvādi	1323	7817	47	0
 Mudumpādu	1393	7901	195	0
 Mudumalai	1158	7658	115	0
@@ -25,9 +25,9 @@ Mudukūr	1301	7988	228	0
 Mūdra	2472	7759	410	0
 Mudkavi	1597	7538	77	0
 Mudivedu	1371	7851	195	0
-Mudinepalle	1640	8112	24	0
+Mudinepalle	1640	8112	24	0		मुदीनेपल्ली
 Mūdil	3340	7823	2	0
-Mudigubba	1435	7799	444	0
+Mudigubba	1435	7799	444	0		मुदिगुब्बा
 Mudigodu	1433	7972	6	0
 Mudia	2362	6868	108	0
 Mudhol	1897	7791	360	0
@@ -36,9 +36,9 @@ Mudetha	2415	7198	134	0
 Mudenūr	1589	7630	66	0
 Muddūr	1793	7905	466	0
 Muddumūdi	1428	7987	6	0
-Muddavaram	1550	7810	232	0
+Muddavaram	1550	7810	232	0		मुद्दवरं
 Mudbāl	1683	7681	72	0
-Mudhera	2358	7214	164	0
+Mudhera	2358	7214	164	0		मोढेरा
 Mudimiāl	1733	7820	62	0
 Mudoemgudam	1718	7812	62	0
 Mudimanik	1777	7801	31	0
@@ -181,7 +181,7 @@ Mudanagudde	1371	7473	257	0
 Pura Mudhwān	2602	8168	718	0
 Pāta Mudicherla	1694	8109	24	0
 Kotta Mudicherla	1694	8110	24	0
-Mūdutāllapādu	1653	8115	24	0
+Mūdutāllapādu	1653	8115	24	0		मुडुतल्लपाडु
 Mudunūru	1676	8154	318	0
 Muddāpuram	1680	8162	318	0
 Muddurti	1777	8296	227	0
@@ -193,7 +193,7 @@ Mudaligūda	1833	8227	109	0
 Mudugūru	1906	8334	363	0
 Mudiliputtu	1857	8262	316	0
 Mudalbanda	1807	8263	268	0
-Mudunūru	1641	8090	68	0
+Mudunūru	1641	8090	68	0		मुदुनूरु
 Paras Mudūr	1896	8116	406	0
 Muddukuppala	1945	8389	363	0
 Mūdha	1863	8140	406	0
@@ -278,7 +278,7 @@ Mudgurki	1334	7772	389	0
 Mudganhalli	1334	7769	389	0
 Muddanhalli	1315	7758	43	0
 Muddalakuntapalle	1396	7784	444	0
-Muddireddipalle	1388	7778	444	0
+Muddireddipalle	1388	7778	444	0		मुद्दिरॆड्डिपल्लॆ
 Mudlapalli	1380	7787	438	0
 Muddenhalli	1322	7777	389	0
 Muddenahalli	1319	7791	389	0
@@ -414,7 +414,7 @@ Muddubiranahundi	1220	7689	74	0
 Muddayyanahundi	1218	7677	74	0
 Mudahalli	1217	7677	74	0
 Mūdla Agrahāra	1206	7693	69	0
-Muddatamāgi	1546	7703	236	0
+Muddatamāgi	1546	7703	236	0		मुद्दटमगि
 Muddanageri	1548	7719	236	0
 Mudanhalli	1290	7597	679	0
 Mudigere	1278	7600	679	0
@@ -452,7 +452,7 @@ Mūdahadu	1348	7473	257	0
 Mudanidambūr	1334	7475	257	0
 Mudimanikam	1665	7956	101	0
 Mudia Misr	2799	8003	470	0
-Mudigonda	1718	8009	46	0
+Mudigonda	1718	8009	46	0		मुदिगोंडा
 Mudappallur	1059	7652	263	0
 Mudalur	842	7795	208	0
 Mudireddihalli	1363	7780	438	0
@@ -477,8 +477,8 @@ Mudigodu	1519	7826	232	0
 Mūdūrlapalle	1498	7863	232	0
 Mudireddipalle	1511	7899	229	0
 Mudumvāripalle	1504	7897	229	0
-Mudumāla	1491	7892	229	0
-Mudireddipalle	1486	7880	229	0
+Mudumāla	1491	7892	229	0		मुदुमल
+Mudireddipalle	1486	7880	229	0		मुदिरॆड्डिपल्लॆ
 Muddammagudipalle	1388	7808	444	0
 Mudalagollahalli	1355	7817	438	0
 Muddalapalli	1371	7802	438	0

@@ -1,27 +1,27 @@
-Alla Abba Habab	2544	8184	607	1073438	Prayagraj
-Abdullapur	3013	7728	88	217071	Yamuna Nagar
-Abdullāhpur	3013	7728	88	217071	Yamuna Nagar
-Abohar	3014	7420	3	145302
-Ābu Road	2448	7278	23	55599
+Alla Abba Habab	2544	8184	607	1073438	Prayagraj	प्रयागराज
+Abdullapur	3013	7728	88	217071	Yamuna Nagar	यमुनानगर
+Abdullāhpur	3013	7728	88	217071	Yamuna Nagar	यमुनानगर
+Abohar	3014	7420	3	145302		अबोहर
+Ābu Road	2448	7278	23	55599		आबू रोड
 Abdu Rahiman Nagar	1107	7594	150	41993
-Ābu	2459	7272	23	24981
-Mount Abu	2459	7272	23	24981	Ābu
-Abrama	2086	7291	221	21000
-Abhayāpuri	2632	9069	746	15847
-Abhanpur	2105	8174	310	14432
+Ābu	2459	7272	23	24981		आबू राज
+Mount Abu	2459	7272	23	24981	Ābu	आबू राज
+Abrama	2086	7291	221	21000		अब्राम
+Abhayāpuri	2632	9069	746	15847		अभयापुरी
+Abhanpur	2105	8174	310	14432		अभनपुर
 Abbaspur	3382	7398	1	10208
-Abirāmam	944	7844	5	8144
+Abirāmam	944	7844	5	8144		अबिरामम
 Abersa	1473	7430	59	4286	Aversa
 Chak Abdul Ghani	2586	8574	138	2586
-Abhaneri	2701	7661	708	1424
+Abhaneri	2701	7661	708	1424		आभानेरी
 Boyarmari Abad	2246	8883	450	0	Bayārmāri
-Abhimanyupur	2990	7687	501	0
+Abhimanyupur	2990	7687	501	0		अभिमन्युपुर
 Ābāra	2173	7858	337	0	Āmbāra Khās
 Abomgāon	2673	9412	451	0	Ahomgāon
 Abaibani	2231	8694	665	0	Āgaibani
 Abul Kharāna	3014	7454	615	0
 Abring	3369	7658	8	0
-Ablu	3034	7479	563	0
+Ablu	3034	7479	563	0		अब्लु
 Abhona	2048	7392	54	0
 Ābhāpuri	2172	7606	329	0
 Abhāna	2370	7953	521	0
@@ -227,7 +227,7 @@ Abhau	2529	8011	663	0
 Abdulganipur	2582	8070	728	0
 Abumohammadpur	2587	8069	728	0
 Ābidganj	2356	7821	215	0
-Abids	1739	7848	424	0
+Abids	1739	7848	424	0		अबिड्स
 Abdul Nāgāram	1793	7923	182	0
 Ābchand Nayākhera	2382	7900	352	0
 Aber	2470	8101	324	0
@@ -322,7 +322,7 @@ Abal	2689	8184	542	0
 Abhepur Bahlolpur	2800	7854	543	0
 Abhanpur	2805	7869	117	0
 Abhanpur	2865	7878	511	0
-Abhūpur Khurd	2860	7879	511	0
+Abhūpur Khurd	2860	7879	511	0		अबुपुर खुर्द
 Abdullāhpur Khurd	2873	7883	511	0
 Abdullāhpur	2874	7884	511	0
 Ābu Saidpur	2861	7890	511	0
@@ -469,7 +469,7 @@ Abdulla Purwa	2604	8148	681	0
 Ābādmau	2628	8160	662	0
 Pura Miān Abdul Rahmān	2646	8166	662	0
 Abdu Mau	2619	8160	681	0
-Abbūru	1645	8017	10	0
+Abbūru	1645	8017	10	0		अब्बूरु
 Abhimanwān	2607	8425	639	0
 Abhui	2608	8449	639	0
 Abbineniguntapālem	1614	8033	319	0
@@ -581,7 +581,7 @@ Chikka Abbāgalu	1226	7697	94	0
 Dodda Abbāgalu	1225	7697	74	0
 Abhaipur	2523	8635	589	0
 Abna	1291	7591	679	0
-Abbimata	1263	7581	193	0
+Abbimata	1263	7581	193	0		अब्बिमट्टा
 Sote Abbur	1262	7599	679	0
 Abbireddipalle	1544	7786	232	0
 Ābhaipur	2491	8619	524	0
@@ -638,7 +638,7 @@ Abdulpur	2731	8020	686	0
 Mustafa-ābād	2703	8012	686	0
 Abdullahpur	2708	8014	686	0
 Abbāspur	2776	8028	323	0
-Abrama	2060	7294	261	0
+Abrama	2060	7294	261	0		अब्राम
 AB2 Pandara Road	2861	7723	721	0
 Ablud	1344	7785	438	0
 Abbūr	1270	7718	626	0
@@ -646,7 +646,7 @@ Abbūrdoddi	1269	7718	626	0
 Abbikere	1264	7720	626	0
 Abbakuppi	1277	7741	626	0
 Abidhirmetlu	1267	7742	626	0
-Abdullāpuram	1500	7811	232	0
+Abdullāpuram	1500	7811	232	0		अब्दुल्लापुरं
 Abbivānipalle	1408	7823	444	0
 Abbavaram	1408	7878	195	0
 Abbani	1310	7822	47	0
@@ -691,7 +691,7 @@ Abhwar	2617	8663	426	0
 Abhwār	2621	8670	426	0
 Abrakha	2457	8605	452	0
 Abhyapur	2024	8456	548	0
-Abapura	2346	7453	166	0
+Abapura	2346	7453	166	0		आबापुरा
 Abhyachandpur	2024	8660	456	0
 Aboi	2660	9496	149	0
 Ābhāpuri	2170	7600	329	0

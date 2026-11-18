@@ -1,26 +1,26 @@
-Hafiz Saifganj	2554	8757	625	240838	Katihar
-Shaikhpura	2514	8584	690	62927	Sheikhpura
-Sailu	1946	7644	153	46915	Selu
-Saint Thomas Mount	1300	8020	247	43795
-Madras Saint Thomas Mount	1300	8020	247	43795	Saint Thomas Mount
-Sainthia	2395	8768	361	43221
-Saiha	2249	9298	20	25110
-Saidpur	2554	8322	26	22904
-Saiyad-ul-ajaib	2852	7720	778	17914
-Saidul Azaib	2852	7720	778	17914	Saiyad-ul-ajaib
+Hafiz Saifganj	2554	8757	625	240838	Katihar	कटिहार
+Shaikhpura	2514	8584	690	62927	Sheikhpura	शेखपुरा
+Sailu	1946	7644	153	46915	Selu	सेलू
+Saint Thomas Mount	1300	8020	247	43795		सेंट थॉमस माउंट
+Madras Saint Thomas Mount	1300	8020	247	43795	Saint Thomas Mount	सेंट थॉमस माउंट
+Sainthia	2395	8768	361	43221		साँइथिया
+Saiha	2249	9298	20	25110		सइहा
+Saidpur	2554	8322	26	22904		सैदपुर
+Saiyad-ul-ajaib	2852	7720	778	17914		सैदुलाजाब
+Saidul Azaib	2852	7720	778	17914	Saiyad-ul-ajaib	सैदुलाजाब
 Saidpur	2861	7791	637	14496
-Tendukhera Sailwara	2340	7954	521	14399	Tendūkheda
-Saij	2322	7252	276	13882
-Sailāna	2346	7492	568	11989
-Saitual	2368	9297	21	11619
-Sāitlaw	2397	9257	12	11043
-Saitual	2397	9257	12	11043	Sāitlaw
-Saidabad	2853	7729	419	10168
+Tendukhera Sailwara	2340	7954	521	14399	Tendūkheda	तेंदूखेड़ा
+Saij	2322	7252	276	13882		सैज
+Sailāna	2346	7492	568	11989		सैलाना
+Saitual	2368	9297	21	11619		सइतुआल
+Sāitlaw	2397	9257	12	11043		सइतुआल
+Saitual	2397	9257	12	11043	Sāitlaw	सइतुआल
+Saidabad	2853	7729	419	10168		साइदाबाद
 Saidpura	2558	8505	604	7392
-Sairang	2381	9265	19	5950
-Saidāpur	1656	7726	72	5432
+Sairang	2381	9265	19	5950		सइरांग
+Saidāpur	1656	7726	72	5432		सैदापुर
 Saizawh ?E?	2236	9284	244	450
-Shaitrāwa	2662	7233	344	0
+Shaitrāwa	2662	7233	344	0		सेतरावा
 Shaikpura	2964	7472	585	0
 Saitu	2503	9389	489	0
 Saitthad	2554	9254	165	0
@@ -33,13 +33,13 @@ Saipur	2405	8267	631	0
 Saio	2887	7485	539	0	Sāhawa
 Sainthal	2704	7630	708	0
 Saintala	2044	8336	394	0
-Sāīnkhera	2296	7858	522	0
-Sāinkheda	2296	7858	522	0	Sāīnkhera
+Sāīnkhera	2296	7858	522	0		साईखेडा
+Sāinkheda	2296	7858	522	0	Sāīnkhera	साईखेडा
 Sāinkhera	2178	7809	462	0
 Sainkhedā	2178	7809	462	0	Sāinkhera
 Sainj	3177	7730	680	0
 Sainigunta	1307	7882	189	0
-Sailu	2084	7871	143	0	Selu
+Sailu	2084	7871	143	0	Selu	सेलू
 Sāili	2024	7303	233	0
 Saily	2024	7303	233	0	Sāili
 Sailāni	2199	7562	329	0
@@ -51,16 +51,16 @@ Saijarāsar	2834	7376	307	0	Purāna Sohajrāsar
 Sāigavhān	2039	7515	113	0
 Sāigavhār	2039	7515	113	0	Sāigavhān
 Saifullāhganj	2807	7876	117	0
-Saidpur Dabra	2532	8718	411	0
+Saidpur Dabra	2532	8718	411	0		सैदपुर-डबरा
 Saidoke	3058	7432	566	0
 Chak Saidoke	3058	7432	566	0	Saidoke
 Saidāpuram	1418	7974	6	0
-Saidapet	1302	8022	204	0
-Saiyidapettai	1302	8022	204	0	Saidapet
+Saidapet	1302	8022	204	0		साइदापेट
+Saiyidapettai	1302	8022	204	0	Saidapet	साइदापेट
 Saidal	2228	7350	159	0
 Saidābād	2537	8211	607	0
-Saichal	2372	9307	21	0
-Saiebal	2372	9307	21	0	Saichal
+Saichal	2372	9307	21	0		सइचाल
+Saiebal	2372	9307	21	0	Saichal	सइचाल
 Saibom	2443	9410	676	0
 Runi Saiyadpur	2637	8549	582	0
 Fort Saint David	1174	7979	178	0
@@ -387,7 +387,7 @@ Saiyidpur Pahāri	2789	7966	470	0
 Sāīpura	2626	7751	478	0
 Saiharīya ka Pura	2623	7773	478	0
 Saiyān ka Pura	2695	7795	546	0
-Saiyān	2694	7794	546	0
+Saiyān	2694	7794	546	0		सैयां
 Shaikhpur Rustampur	2728	7962	688	0
 Sai	2743	7972	686	0
 Sarai Saif	2754	7984	686	0
@@ -434,7 +434,7 @@ Saidalīpur	2631	7987	671	0
 Saidpur	2732	7871	403	0
 Shaikhānpur	2730	7854	403	0
 Saipura	2594	7923	741	0
-Saidnagar	2582	7926	741	0
+Saidnagar	2582	7926	741	0		सैदनगर
 Sāigawan	2564	7927	433	0
 Saina	2563	7954	645	0
 Saidpur	2556	7953	645	0
@@ -1216,7 +1216,7 @@ Saitāna	2127	7442	186	0
 Saispur	2407	7409	22	0
 Saipura	2408	7449	633	0
 Saiwār	2701	7593	121	0
-Saidpur	2824	7903	117	0
+Saidpur	2824	7903	117	0		सैदपुर
 Sainoli	2948	7987	429	0
 Sain	2924	7985	551	0
 Saidganj Razāganj	2812	7918	117	0
@@ -1471,6 +1471,6 @@ Sāinpader	2046	8419	387	0
 Sāitingia	2034	8416	387	0
 Sāinpāra	2033	8408	387	0
 Sainkul	2112	8613	293	0
-Saipung	2531	9267	435	0
+Saipung	2531	9267	435	0		साइपुंग
 Saikul	2506	9403	96	0
 Saidpur	2722	7918	464	0

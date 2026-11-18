@@ -1,34 +1,34 @@
-Konnagar	2271	8834	279	76082
-Konch	2599	7915	741	52773
-Kondapalle	1662	8054	104	38714
-Kondapalli	1662	8054	104	38714	Kondapalle
-Kondli	2861	7733	794	38207
-Kondagaon	1959	8166	659	30921
-Kondegaon	1959	8166	659	30921	Kondagaon
-Kondotty	1114	7597	150	28794
-Kondotti	1114	7597	150	28794	Kondotty
-Khoni	1932	7306	246	26016
+Konnagar	2271	8834	279	76082		कोननगर
+Konch	2599	7915	741	52773		कोंच
+Kondapalle	1662	8054	104	38714		कोंडपल्ली
+Kondapalli	1662	8054	104	38714	Kondapalle	कोंडपल्ली
+Kondli	2861	7733	794	38207		कोंडली
+Kondagaon	1959	8166	659	30921		कोंडागांव
+Kondegaon	1959	8166	659	30921	Kondagaon	कोंडागांव
+Kondotty	1114	7597	150	28794		कोन्दोट्टी
+Kondotti	1114	7597	150	28794	Kondotty	कोन्दोट्टी
+Khoni	1932	7306	246	26016		खोणी
 Kondasamudram	1295	7888	189	21335
 Kondalampatti	1163	7812	51	20318
-Singaraya Konda Pagoda	1523	8003	200	19400	Singarāyakonda
-Konnūr	1620	7475	77	19386
+Singaraya Konda Pagoda	1523	8003	200	19400	Singarāyakonda	सिंगरायकोंडा
+Konnūr	1620	7475	77	19386		कोन्नूर
 Khongapani	2319	8216	513	17400
-Konārka	1989	8610	603	16834
-Konārak	1989	8610	603	16834	Konārka
-Konark	1989	8610	603	16834	Konārka
-Kondalwādi	1881	7777	140	14770
+Konārka	1989	8610	603	16834		कोणार्क
+Konārak	1989	8610	603	16834	Konārka	कोणार्क
+Konark	1989	8610	603	16834	Konārka	कोणार्क
+Kondalwādi	1881	7777	140	14770		कुंडलवाड़ी
 Kondūr	1175	7970	178	12506
 Konaje	1280	7551	55	11368
 Kondhi	2001	7929	111	10497
 Kondumal	2001	7929	111	10497	Kondhi
 Kondichettippatti	1120	7816	231	10300
-Khonsa	2702	9557	397	10187
+Khonsa	2702	9557	397	10187		खोन्सा
 Kondamallapally	1672	7900	101	9683
-Konanūr	1263	7605	679	9555
-Konganāpuram	1157	7790	51	9286
+Konanūr	1263	7605	679	9555		कोणनूर
+Konganāpuram	1157	7790	51	9286		कोंगनपुरम
 Konrā	2431	8542	764	8258
 Koni	2212	8213	291	7065
-Konta	1780	8139	46	7038
+Konta	1780	8139	46	7038		कोंटा
 Kondamanāyakkanpatti	1171	7818	51	6892
 Kondappanaickenpatti	1171	7818	51	6892	Kondamanāyakkanpatti
 Khonmoh	3406	7495	611	2664
@@ -50,7 +50,7 @@ Konokjora	2215	8396	272	0
 Konnūr	1652	7617	80	0
 Kon Nāg	3401	7568	547	0
 Koni	2198	8223	291	0
-Koni	923	7685	224	0
+Koni	923	7685	224	0		कोन्नी
 Kongtal	2397	9282	19	0
 Kongnolli	1654	7433	90	0
 Kongan	2675	9483	149	0
@@ -58,7 +58,7 @@ Kongnyu	2675	9483	149	0	Kongan
 Kōngād	1085	7652	263	0
 Konen Agrahār	1296	7766	43	0
 Kondya	1658	7357	234	0
-Kondūru	1668	8057	104	0
+Kondūru	1668	8057	104	0		कोंडुरु
 Kondūr	1401	8013	45	0
 Kondrāpole	1679	7961	101	0
 Kondlapalli	1446	7970	6	0
@@ -76,11 +76,11 @@ Konasamudram	1873	7852	75	0
 Konapeta	1421	7865	195	0
 Konalūr	1217	7915	197	0
 Konakanametla	1565	7949	200	0
-Konāda	1802	8356	179	0
+Konāda	1802	8356	179	0		कोनाडा
 Kona	3088	7682	587	0
 Kon	2443	8335	103	0
 Kondarbari	2111	7413	190	0
-Khonoma	2565	9402	768	0
+Khonoma	2565	9402	768	0		खोनोमा
 Khondār	2515	8198	607	0
 Khond	2374	8282	413	0
 Konjale	1781	7356	234	0	Kenjala
@@ -790,7 +790,7 @@ Kondagokri	1767	8240	268	0
 Kondapalle	1740	8226	269	0
 Kontangi	1729	8234	269	0
 Kondūru	1654	8130	24	0
-Kondangi	1650	8135	24	0
+Kondangi	1650	8135	24	0		कॊंडंगि
 Kondruprolu	1685	8153	318	0
 Konāla	1682	8163	318	0
 Konicherla	1705	8041	104	0
@@ -799,7 +799,7 @@ Kondarapādu	1715	8069	46	0
 Konālapampu	1777	8082	60	0
 Kondapalle	1769	8096	46	0
 Kondūru	1657	8007	10	0
-Konāyapālem	1674	8020	104	0
+Konāyapālem	1674	8020	104	0		कॊनयपालॆं
 Kondapeta	1665	8020	104	0
 Konūru	1660	8019	10	0
 Kondapālem	1750	8261	227	0
@@ -827,7 +827,7 @@ Kondakāvūru	1613	8003	10	0
 Kondāyapāleni	1602	8001	220	0
 Konidena	1602	8006	220	0
 Pedda Kondrupādu	1612	8015	10	0
-Kondūru	1683	8031	104	0
+Kondūru	1683	8031	104	0		कोंडुरु
 Konatālapalle	1679	8038	104	0
 Konatamatukūru	1685	8036	104	0
 Khond Barjolla	1993	8307	284	0
@@ -896,10 +896,10 @@ Nuā Kondaguda	1887	8281	316	0
 Kontaguda	1877	8288	316	0
 Kondāru	1890	8292	316	0
 Kanthamrāju Kondūru	1635	8060	319	0
-Kondaparva	1691	8084	104	0
+Kondaparva	1691	8084	104	0		कॊंडपर्व
 Konijerla	1690	8097	24	0
 Konatanpādu	1642	8078	68	0
-Kondiparru	1633	8098	68	0
+Kondiparru	1633	8098	68	0		कॊंडिपर्रु
 Konda Lekkapai	1924	8352	363	0
 Kondapāl	1883	8119	288	0
 Bora Kondasānvali	1851	8124	599	0
@@ -1102,13 +1102,13 @@ Hire Konati	1456	7533	92	0
 Konetināyanipālem	1439	7733	444	0
 Kondāpuram	1431	7735	444	0
 Kondapuram	1497	7759	100	0
-Kondūru	1495	7765	100	0
+Kondūru	1495	7765	100	0		कॊंडूरु
 Kondāpuram	1468	7769	100	0
 Kondakindi Agrahāram	1468	7774	100	0
 Konāpuram	1441	7753	444	0
 Kondāpuram	1410	7758	444	0
 Konāpuram	1411	7759	444	0
-Kondampalle	1412	7765	444	0
+Kondampalle	1412	7765	444	0		कॊंडंपल्लॆ
 Kondāpuram	1494	7782	100	0
 Kondāpuram	1486	7791	100	0
 Konegundlapalle	1485	7798	100	0
@@ -1122,7 +1122,7 @@ Konagavalli	1403	7550	346	0
 Konaikanahalli	1426	7564	275	0
 Konantale	1435	7563	275	0
 Konantali	1449	7559	92	0
-Konkallu	1394	7712	444	0
+Konkallu	1394	7712	444	0		कॊंकल्लु
 Kontihalli	1349	7712	93	0
 Kondāpur	1328	7707	93	0
 Konke Kallu	1301	7721	626	0
@@ -1258,7 +1258,7 @@ Konagahalli	1228	7694	74	0
 Konkanhundi	1211	7681	74	0
 Konanūru	1202	7683	74	0
 Konanapura	1201	7684	74	0
-Konakondla	1511	7736	100	0
+Konakondla	1511	7736	100	0		कॊनकॊंड्ल
 Pāta Kondāpuram	1589	7773	236	0
 Kotta Kondāpuram	1588	7773	236	0
 Konīpar	2523	8627	589	0
@@ -1271,14 +1271,14 @@ Kongalale	1277	7600	679	0
 Kongalale	1267	7597	679	0
 Kontālapādu	1588	7786	236	0
 Kondāpuram	1563	7788	236	0
-Konganapādu	1564	7793	236	0
+Konganapādu	1564	7793	236	0		कॊंगनपाडु
 Kondāpuram	1527	7778	232	0
 Kondampalle	1504	7778	100	0
-Konāpuram	1501	7781	100	0
+Konāpuram	1501	7781	100	0		कोनपुरं
 Kona Uppalapādu	1510	7790	100	0
 Konāpuram	1451	7703	100	0
 Konāpuram	1464	7717	100	0
-Konampalle	1466	7725	100	0
+Konampalle	1466	7725	100	0		कोनंपल्लॆ
 Kondāpuram	1457	7730	100	0
 Kondapalle	1454	7739	444	0
 Kondangeri	1230	7580	193	0
@@ -1371,12 +1371,12 @@ Kondamanāyanipalle	1514	7804	232	0
 Konaanantapuram	1494	7829	229	0
 Kondāpuram	1480	7840	229	0
 Kondajūtūru	1555	7841	232	0
-Konidedu	1549	7832	232	0
+Konidedu	1549	7832	232	0		कॊणिदेडु
 Kondasunkesula	1506	7830	229	0
-Kondāpuram	1520	7847	232	0
-Kondupalle	1511	7846	232	0
+Kondāpuram	1520	7847	232	0		कॊंडापुरं
+Kondupalle	1511	7846	232	0		कॊंडुपल्लॆ
 Konayapalle	1477	7874	229	0
-Kondamāyapalle	1526	7859	232	0
+Kondamāyapalle	1526	7859	232	0		कॊंडमय्यपल्लॆ
 Kondampalle	1508	7861	232	0
 Kondapeta	1509	7892	229	0
 Kondrājupalle	1500	7892	229	0
@@ -1385,7 +1385,7 @@ Konavāripalle	1482	7808	229	0
 Kondāpuram	1473	7803	100	0
 Kondāpuram	1430	7801	444	0
 Kondaguttapalle	1429	7811	444	0
-Kondamanāyanipālem	1413	7811	444	0
+Kondamanāyanipālem	1413	7811	444	0		कॊंडमनायनिपालॆं
 Kondisettipalle	1485	7878	229	0
 Kondavāripalle	1485	7891	229	0
 Konachenupalle	1482	7898	229	0
@@ -1531,7 +1531,7 @@ Kondamudusupālem	1519	7990	6	0
 Kondasantudram	1515	7978	6	0
 Kondāreddipālem	1514	7986	6	0
 Kondigāripalli	1498	7902	229	0
-Konasamudram	1468	7902	229	0
+Konasamudram	1468	7902	229	0		कोनसमुद्रं
 Kondampalli	1481	7903	229	0
 Kongalavīdu	1467	7904	229	0
 Kondūru	1458	7906	229	0
@@ -1969,7 +1969,7 @@ Konapāju	2034	8474	548	0
 Konthipadar	2032	8468	548	0
 Kondhogām	2014	8450	387	0
 Kondapi	1541	7986	200	0
-Kondapuram	1499	7968	6	0
+Kondapuram	1499	7968	6	0		कोंडापुरम
 Konijerla	1722	8029	46	0
 Khongsa	2579	9491	18	0
 Konnūr	1618	7466	90	0

@@ -1,22 +1,22 @@
-Sīkar	2761	7514	491	244497
-Shikohābād	2711	7859	403	99678
-Sikandarābād	2845	7770	637	73379
-Sikandrabad	2845	7770	637	73379	Sikandarābād
-Lachhmangarh Sīkar	2782	7503	491	53392	Laxmangarh
-Sikandra Rao	2769	7838	670	42229
-Shikaripura	1427	7536	346	36015
-Shikaripur	1427	7536	346	36015	Shikaripura
-Shikarpur	1427	7536	346	36015	Shikaripura
-Shikārpūr	2828	7801	637	34649
-Fatehpur Sīkri	2709	7766	546	30026
-Sikka	2243	6984	145	28814
-Siki	2243	6984	145	28814	Sikka
-Sikandarpur	2604	8405	536	24177
-Sikandra	2637	7963	671	12289
-Sikkarayapuram	1302	8010	161	10187
+Sīkar	2761	7514	491	244497		सीकर
+Shikohābād	2711	7859	403	99678		शिकोहाबाद
+Sikandarābād	2845	7770	637	73379		सिकंदराबाद
+Sikandrabad	2845	7770	637	73379	Sikandarābād	सिकंदराबाद
+Lachhmangarh Sīkar	2782	7503	491	53392	Laxmangarh	लक्ष्मणगढ़
+Sikandra Rao	2769	7838	670	42229		सिकंदरा राव
+Shikaripura	1427	7536	346	36015		शिकारीपुर
+Shikaripur	1427	7536	346	36015	Shikaripura	शिकारीपुर
+Shikarpur	1427	7536	346	36015	Shikaripura	शिकारीपुर
+Shikārpūr	2828	7801	637	34649		शिकारपुर
+Fatehpur Sīkri	2709	7766	546	30026		फ़तेहपुर सीकरी
+Sikka	2243	6984	145	28814		सिक्का
+Siki	2243	6984	145	28814	Sikka	सिक्का
+Sikandarpur	2604	8405	536	24177		सिकंदरपुर
+Sikandra	2637	7963	671	12289		सिकंदरा
+Sikkarayapuram	1302	8010	161	10187		सिक्करायपुरम
 Sikandarpur	2942	7693	298	8894
 Sikanderpur	2942	7693	298	8894	Sikandarpur
-Sikhong Sekmai	2464	9409	95	7390
+Sikhong Sekmai	2464	9409	95	7390		सिखोंग सेकमाई
 Sikhera	2886	7757	727	5024
 Shikar	3197	7506	487	4001	Shakar
 Sikti	2640	8755	667	0
@@ -24,7 +24,7 @@ Sikrorhi	2601	8008	645	0
 Sikri Patti	2758	7707	114	0
 Sīkri	2954	7792	545	0
 Sikosa	2087	8128	668	0
-Siko	2004	8542	541	0
+Siko	2004	8542	541	0		सिको
 Sikkil	1076	7980	239	0
 Sikkle	1076	7980	239	0	Sikkil
 Sikkal	925	7864	5	0
@@ -35,14 +35,14 @@ Sikarhāta	2527	8448	377	0
 Sikarapai	1940	8332	363	0
 Sikarapei	1940	8332	363	0	Sikarapai
 Sikandra	2721	7795	546	0
-Sikandra	2559	8198	607	0
+Sikandra	2559	8198	607	0		सिकंदरा
 Sikandra	2496	8603	524	0
 Sikandarābād	2796	8050	323	0
 Sikanderabad	2796	8050	323	0	Sikandarābād
 Sikoketta	2001	8417	387	0
 Sikaketta	2001	8417	387	0	Sikoketta
 Sīka	2354	7686	16	0
-Shikrapur	1869	7414	52	0
+Shikrapur	1869	7414	52	0		शिक्रापुर
 Shikhi	2723	9370	578	0
 Shikārpura	2603	7305	344	0
 Shikārpur	2711	8446	476	0
@@ -416,7 +416,7 @@ Sikra	2511	8223	607	0
 Andpur Siktia	2672	8081	714	0
 Sikandarpur	2629	8080	312	0
 Shekhpur Shikārpur	2827	7660	519	0
-Shikārpur	2853	7695	763	0
+Shikārpur	2853	7695	763	0		शिकार पुर
 Sikandarpur	2949	7835	575	0
 Sikandari	2925	7816	575	0
 Sikandrābād	2925	7816	575	0	Sikandari

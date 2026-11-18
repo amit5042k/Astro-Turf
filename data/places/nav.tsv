@@ -1,41 +1,41 @@
-Navi Mumbai	1904	7302	246	2600000
-Navangar	2247	7007	145	600943	Jamnagar
-Navanagar	2247	7007	145	600943	Jamnagar
-Naveen	2858	7733	588	293908	Noida
-Navi Mumbai Panvel Raigarh	1899	7311	17	195373	Panvel
-Navsari	2094	7292	221	171109
-Navasari	2094	7292	221	171109	Navsari
-Jetpur Navagadh	2175	7062	174	118302	Jetpur
-Navadwīp	2341	8837	528	111123
-Nawāda	2489	8554	107	98029
-Nawābganj	2693	8120	30	79246
-Nawabgang	2693	8120	30	79246	Nawābganj
-Nawalgarh	2785	7527	300	63948
-Nawanshahr	3112	7612	295	46024
-Nawadih	2477	8638	524	40646	Jhajha
-Navāpur	2116	7379	186	34207
-Nawābganj	2854	7963	342	34134
-Nawāpāra	2097	8186	310	29315
-Nawapara Rajim	2097	8186	310	29315	Nawāpāra
-Gobra Nawapara	2097	8186	310	29315	Nawāpāra
-Navalgund	1556	7535	682	24613
-Nāwa	2702	7500	430	22088
+Navi Mumbai	1904	7302	246	2600000		नवी मुंबई
+Navangar	2247	7007	145	600943	Jamnagar	जामनगर
+Navanagar	2247	7007	145	600943	Jamnagar	जामनगर
+Naveen	2858	7733	588	293908	Noida	नोएडा
+Navi Mumbai Panvel Raigarh	1899	7311	17	195373	Panvel	पनवेल
+Navsari	2094	7292	221	171109		नवसारी
+Navasari	2094	7292	221	171109	Navsari	नवसारी
+Jetpur Navagadh	2175	7062	174	118302	Jetpur	जेतपुर
+Navadwīp	2341	8837	528	111123		नवद्वीप
+Nawāda	2489	8554	107	98029		नवादा
+Nawābganj	2693	8120	30	79246		नवाबगंज
+Nawabgang	2693	8120	30	79246	Nawābganj	नवाबगंज
+Nawalgarh	2785	7527	300	63948		नवलगढ
+Nawanshahr	3112	7612	295	46024		नवांशहर
+Nawadih	2477	8638	524	40646	Jhajha	झाझा
+Navāpur	2116	7379	186	34207		नवापुर
+Nawābganj	2854	7963	342	34134		नवाबगंज
+Nawāpāra	2097	8186	310	29315		गोबरा नवापारा
+Nawapara Rajim	2097	8186	310	29315	Nawāpāra	गोबरा नवापारा
+Gobra Nawapara	2097	8186	310	29315	Nawāpāra	गोबरा नवापारा
+Navalgund	1556	7535	682	24613		नवलगुंद
+Nāwa	2702	7500	430	22088		नावां
 Navlock Garden	1294	7931	160	20171	Puliyankannu
-Nawābganj	2686	8214	542	17015
+Nawābganj	2686	8214	542	17015		नवाबगंज
 Navalpattu	1075	7878	270	16788
 Nawānshahr	3277	7453	581	14884
 Navelim	1553	7398	188	12469
 Navelim	1526	7397	102	12323
 Nawābganj	2650	8031	469	10758
 Kanpur Nawabganj	2650	8031	469	10758	Nawābganj
-Nawagarh	2190	8161	710	10541
-Nāvalūr	1284	8023	247	7610
+Nawagarh	2190	8161	710	10541		नवागढ़
+Nāvalūr	1284	8023	247	7610		नावलूर
 Navandgi	1725	7743	210	6711	Kiādgira
 Navkawada	1992	7911	111	5634
 Navoor	1289	7508	55	5365
 Nava Bhildi	2419	7201	134	4994
 Bila Nawāb	3115	7543	369	716
-Nawānshahr	3261	7473	581	0	Ranbīrsinghpura
+Nawānshahr	3261	7473	581	0	Ranbīrsinghpura	रणबीर सिंह पुरा
 Nawānagar	2432	8253	631	0
 Navira	1930	8377	363	0	Nayira
 Nawi	3317	7882	2	0
@@ -56,7 +56,7 @@ Nawāpāra	2082	8253	349	0
 Nawāpāra	2081	8253	594	0
 Nāwandi	1880	7743	140	0
 Nawānagar	2607	8399	536	0
-Nawānagar	2539	8421	620	0
+Nawānagar	2539	8421	620	0		नावानगर
 Nawalkal	1616	7697	50	0
 Nawāgarh	2185	8266	696	0
 Nawāgaon	2557	7674	335	0	Nayāgaon
@@ -96,8 +96,8 @@ Navgam	2185	7371	254	0
 Navdi	1734	7404	64	0
 Navdi	1717	7354	234	0
 Navalyal	1675	7490	90	0
-Navāli	2462	7573	580	0
-Nawar	2630	7992	671	0	Māwar
+Navāli	2462	7573	580	0		नवली
+Nawar	2630	7992	671	0	Māwar	माँवर
 Bindra Nawāgarh	2048	8218	297	0
 Basai Nawāb	2690	7778	622	0
 Nawābganj	2557	8174	607	0	Atrāmpur
@@ -153,7 +153,7 @@ Nawāda	2715	7985	570	0
 Nawal Purwa	2715	7980	570	0
 Nawāda	2701	7975	570	0
 Rāmpur Nawāda	2704	7984	570	0
-Sarsai Nāwar	2696	7924	290	0
+Sarsai Nāwar	2696	7924	290	0		सरसई नावर
 Nawalpur	2691	7916	290	0
 Nagla Nawābpur	2682	7909	290	0
 Nawalpura	2635	7901	334	0
@@ -315,7 +315,7 @@ Qāsimpur Nawāda	2979	7798	596	0
 Nawāngaon	2958	7798	783	0
 Navīnagar	2930	7777	545	0
 Nawāda	2942	7793	545	0
-Navīn Shāhdara	2868	7728	693	0
+Navīn Shāhdara	2868	7728	693	0		नवीन शाहदरा
 Nawāda	2862	7737	588	0	Rasūlpur
 Latīfpur Nawāda	2879	7725	727	0
 Nawāda	2839	7727	774	0
@@ -2052,7 +2052,7 @@ Nawāda Gabhi	2713	8019	686	0
 Nawāda Takia	2718	8022	686	0
 Nawā Khera	2798	8034	323	0
 Navalgadh	2292	7152	28	0
-Navagam Ghed	2250	7008	145	0
+Navagam Ghed	2250	7008	145	0		नवागाम घेड
 Navale	1276	7700	94	0
 Navajigodethanda	1262	7738	626	0
 Nawābpeta	1494	7834	229	0
@@ -2550,7 +2550,7 @@ Nawādih	2458	8590	452	0
 Nawādih	2465	8587	452	0
 Nawādih	2459	8586	452	0
 Nawādih	2455	8598	452	0
-Nawalsāhi	2443	8577	473	0
+Nawalsāhi	2443	8577	473	0		नवलशाही
 Nawādih	2446	8591	452	0
 Nawāda	2449	8593	452	0
 Nawādih	2437	8595	452	0

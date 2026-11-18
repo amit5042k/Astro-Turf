@@ -1,36 +1,36 @@
-Jamshedpur	2280	8619	584	1339438
-Jamnagar	2247	7007	145	600943
-Jamnogar	2247	7007	145	600943	Jamnagar
-Jammu	3274	7486	581	576198
-Jammu City	3274	7486	581	576198	Jammu
-Jamna Nagar	3013	7728	88	217071	Yamuna Nagar
-Jāmuria	2370	8708	642	160242
-Jamālpur	2531	8649	538	105434
-Jamūī	2493	8623	524	87357
-Jamkhandi	1650	7529	86	68938
-Jāmner	2081	7578	78	46762
-Jammalamadugu	1485	7838	229	46069
-Jambusar	2205	7280	151	43344
-Gogri Jamālpur	2541	8666	759	37753
+Jamshedpur	2280	8619	584	1339438		जमशेदपुर
+Jamnagar	2247	7007	145	600943		जामनगर
+Jamnogar	2247	7007	145	600943	Jamnagar	जामनगर
+Jammu	3274	7486	581	576198		जम्मू
+Jammu City	3274	7486	581	576198	Jammu	जम्मू
+Jamna Nagar	3013	7728	88	217071	Yamuna Nagar	यमुनानगर
+Jāmuria	2370	8708	642	160242		जामुरिया
+Jamālpur	2531	8649	538	105434		जमालपुर
+Jamūī	2493	8623	524	87357		जमुई
+Jamkhandi	1650	7529	86	68938		जमखंडी
+Jāmner	2081	7578	78	46762		जामनेर
+Jammalamadugu	1485	7838	229	46069		जममलमडुगु
+Jambusar	2205	7280	151	43344		जम्बुसर
+Gogri Jamālpur	2541	8666	759	37753		गोगरी जमालपुर
 Jāmadoba	2372	8640	401	34774
-Jāmkhed	1874	7531	152	34017
-Zamānia	2542	8356	26	32008
-Zaminia	2542	8356	26	32008	Zamānia
+Jāmkhed	1874	7531	152	34017		जामखेड
+Zamānia	2542	8356	26	32008		ज़मानिया
+Zaminia	2542	8356	26	32008	Zamānia	ज़मानिया
 Jamkhed	1903	7471	152	29591	Ārangaon
-Jāmtāra	2396	8680	770	29415
+Jāmtāra	2396	8680	770	29415		जामताड़ा
 Jammu Cantonment	3270	7486	581	28396
-Jalgaon Jamod	2105	7653	49	28276
-Jamjodhpur	2190	7004	145	25892
-Jāmul	2125	8140	286	25878
-Jāmai	2220	7859	337	22587
-Jāmbai	1147	7764	211	16522
+Jalgaon Jamod	2105	7653	49	28276		जलगाँव जामोद
+Jamjodhpur	2190	7004	145	25892		जाम जोधपुर
+Jāmul	2125	8140	286	25878		जामुल
+Jāmai	2220	7859	337	22587		जामई
+Jāmbai	1147	7764	211	16522		जम्बई
 Zamin Uthukuli	1065	7698	156	16354	Ūttukuli
-Jamda	2216	8543	287	8629	Barajamda
-Jamwa Rāmgarh	2702	7601	121	7665
-Rāmgarh Jamwa	2702	7601	121	7665	Jamwa Rāmgarh
+Jamda	2216	8543	287	8629	Barajamda	बड़ा जामदा
+Jamwa Rāmgarh	2702	7601	121	7665		जमवारामगढ़
+Rāmgarh Jamwa	2702	7601	121	7665	Jamwa Rāmgarh	जमवारामगढ़
 Jamunāmukh	2610	9274	706	7377
 Jām	1919	7828	360	6426
-Jāmpura	2183	8557	293	6064	Jhompra
+Jāmpura	2183	8557	293	6064	Jhompra	झुम्पुरा
 Jāmjuri	2468	8758	658	529
 Zamin Nischinta	2530	8863	25	0
 Jamalnagar	2663	8032	312	0	Pariar
@@ -50,7 +50,7 @@ Jamuāni	2196	8621	382	0
 Jāmtoli	2340	8586	664	0
 Jāmti	2081	7597	78	0
 Jāmtāli	2584	8212	718	0
-Jamsar	2826	7340	307	0
+Jamsar	2826	7340	307	0		जामसर
 Jamrauli	2715	7667	482	0
 Jamroli	2715	7667	482	0	Jamrauli
 Jāmpai	2370	9146	574	0
@@ -67,7 +67,7 @@ Jāmkhed	1964	7565	53	0
 Jāmka	2148	7101	216	0
 Jamiri	2720	9258	523	0
 Jamindargaon	2577	9336	405	0
-Jamikunta	1830	7945	579	0
+Jamikunta	1830	7945	579	0		जम्मीकुंटा
 Jāmi	1805	8326	179	0
 Jamburi	2438	7293	23	0
 Jāmbudi	2438	7293	23	0	Jamburi
@@ -86,16 +86,16 @@ Jāmda	2057	7500	78	0
 Jāmbura	2253	7020	145	0
 Jambur	1251	7581	193	0
 Jāmbhulghāta	2055	7946	111	0
-Jambughoda	2237	7373	180	0
-Jāmbuda	2252	7021	145	0
+Jambughoda	2237	7373	180	0		जम्बुघोड़ा
+Jāmbuda	2252	7021	145	0		जांबुडा
 Jambu	2042	8671	702	0
-Jāmboti	1569	7437	77	0
+Jāmboti	1569	7437	77	0		जाम्बोटी
 Jāmbo	2731	7252	344	0
 Jamba	2731	7252	344	0	Jāmbo
 Jambhulpāda	1865	7330	17	0
 Jāmbāvali	1518	7409	102	0
 Zambaulim	1518	7409	102	0	Jāmbāvali
-Jāmb	2062	7893	143	0
+Jāmb	2062	7893	143	0		जाम्ब
 Jamanpur	2372	7197	240	0
 Jamania	2864	8005	683	0
 Jamālpur	2896	7596	431	0
@@ -105,7 +105,7 @@ Jamāhar	2628	7817	484	0
 Jām	2589	8390	536	0
 Jāmb	2139	7958	404	0
 Jām	2139	7958	404	0	Jāmb
-Jamunbhār	2694	8496	396	0	Adāpur
+Jamunbhār	2694	8496	396	0	Adāpur	आदापुर
 Jāmpur	2294	8819	279	0
 Jāmāibati	2285	8816	279	0
 Jāmbāria	2255	8884	450	0
@@ -1398,7 +1398,7 @@ Jamdara	2613	8264	32	0
 Jamuhat	2618	8269	498	0
 Jamālpur	2619	8273	498	0
 Jāmdānipur	2602	8273	32	0
-Jamda Shāhi	2690	8278	154	0
+Jamda Shāhi	2690	8278	154	0		जमदा शाही
 Jamdīh Pānde	2680	8276	154	0
 Jāmdīh Shukul	2679	8276	154	0
 Jamri	2677	8280	154	0
@@ -2053,7 +2053,7 @@ Jammāyagūdem	1730	8108	60	0
 Jammādevipeta	1797	8304	179	0
 Jammadevipeta	1799	8317	179	0
 Zammulapālem	1535	8002	200	0
-Zammulapālem	1596	8043	220	0
+Zammulapālem	1596	8043	220	0		जममूलपालेम
 Jampanivāndlapālem	1589	8072	220	0
 Zammipālem	1449	8003	6	0
 Jamalihwa	2436	8265	631	0
@@ -2276,7 +2276,7 @@ Jambigāru	1416	7504	346	0
 Jambekoppa	1411	7513	346	0
 Jambāni	1423	7516	346	0
 Jambūrmane	1414	7518	346	0
-Jambuladinne	1482	7761	100	0
+Jambuladinne	1482	7761	100	0		जंबुलदिन्नॆ
 Hire Jambūr	1436	7530	346	0
 Chik Jambūr	1437	7533	346	0
 Jambulavānipalle	1406	7796	444	0
@@ -2345,7 +2345,7 @@ Jambūr	1299	7646	679	0
 Jāmbre	1589	7412	57	0
 Jhamta	2555	8643	759	0
 Zamīndigri	2536	8640	538	0
-Jhampāpuram	1590	7725	236	0
+Jhampāpuram	1590	7725	236	0		जंपापुरं
 Jamuniātānr	2509	8637	524	0
 Jamunia	2515	8641	538	0
 Jhamta	2560	8658	759	0
@@ -2355,7 +2355,7 @@ Jāmbur	1274	7584	679	0
 Jamghāt	2505	8653	538	0
 Jamua	2501	8659	538	0
 Jamuni	2507	8668	605	0
-Jambugumpala	1426	7706	100	0
+Jambugumpala	1426	7706	100	0		जंबुगंपल
 Jamhra	2578	8679	661	0
 Jamuāha	2597	8695	657	0
 Jamhra	2572	8676	661	0
@@ -2513,9 +2513,9 @@ Jāmbgandi	1925	7828	408	0
 Jambigemaradahalli	1365	7781	438	0
 Jamālpura	1296	7720	626	0
 Jampāldoddi	1260	7744	626	0
-Jambuladinne	1525	7821	232	0
+Jambuladinne	1525	7821	232	0		जंबुलदिन्नॆ
 Jambuladinne	1518	7852	232	0
-Jambulapādu	1487	7805	100	0
+Jambulapādu	1487	7805	100	0		जंबुलपाडु
 Jamālupalle	1440	7880	229	0
 Jambāpura	1329	7806	47	0
 Jāmanahalli	1313	7813	47	0
@@ -2935,7 +2935,7 @@ Jāmunda	2087	8493	414	0
 Jam Sakhpur	2175	6985	145	0
 Jambura	2406	9162	649	0
 Jamkandorna	2190	7050	174	0
-Jammikunta	1829	7947	579	0
+Jammikunta	1829	7947	579	0		जम्मीकुंटा
 Jamboni	2245	8690	665	0
 Jamda	2225	8605	382	0
 Jamua	2437	8615	452	0

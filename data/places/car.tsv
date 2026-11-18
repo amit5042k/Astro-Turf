@@ -1,20 +1,20 @@
-Bhilai Charoda	2122	8146	286	98008
-Charkhi Dādri	2859	7627	781	56337
-Charki Dadrai	2859	7627	781	56337	Charkhi Dādri
-Charkhāri	2540	7975	614	24881
-Chharra	2792	7840	543	24535
+Bhilai Charoda	2122	8146	286	98008		भिलाई चरोदा
+Charkhi Dādri	2859	7627	781	56337		चरखी दादरी
+Charki Dadrai	2859	7627	781	56337	Charkhi Dādri	चरखी दादरी
+Charkhāri	2540	7975	614	24881		चरखारी
+Chharra	2792	7840	543	24535		छर्रा
 Shivpur Charcha	2333	8253	621	23514
-Charthāwal	2955	7759	545	19942
-Charipara	2381	9125	744	19598
-Biswanath Chariali	2673	9315	302	19145
-Charar-i-Sharif	3386	7477	76	11533	Tsrār Sharīf
-Charar Sharif	3386	7477	76	11533	Tsrār Sharīf
-Charar-i-Sharief	3386	7477	76	11533	Tsrār Sharīf
-Charāma	2049	8137	704	9707
-Charhi	2385	8545	764	6842
-Carapur	1557	7399	188	5575
+Charthāwal	2955	7759	545	19942		चरथावल
+Charipara	2381	9125	744	19598		चारिपाड़ा
+Biswanath Chariali	2673	9315	302	19145		विश्वनाथ चारिआलि
+Charar-i-Sharif	3386	7477	76	11533	Tsrār Sharīf	चरार-ए-शरीफ़
+Charar Sharif	3386	7477	76	11533	Tsrār Sharīf	चरार-ए-शरीफ़
+Charar-i-Sharief	3386	7477	76	11533	Tsrār Sharīf	चरार-ए-शरीफ़
+Charāma	2049	8137	704	9707		चारामा
+Charhi	2385	8545	764	6842		चरही
+Carapur	1557	7399	188	5575		कारापुर
 Charingia Gaon	2673	9415	451	5094
-Charibatia	2056	8594	303	4016
+Charibatia	2056	8594	303	4016		चारबाटिया
 Chāran	2192	7153	370	0	Samādhiala
 Mandāl Chāran	2777	7272	307	0
 Cararpará	2025	7296	233	0	Kharadpada
@@ -29,14 +29,14 @@ Charwās	2780	7441	539	0
 Charwadih	2394	8349	341	0
 Chārwa	2211	7691	465	0
 Charthari	2712	8298	292	0
-Chārthāna	1963	7654	153	0
+Chārthāna	1963	7654	153	0		चारठाणा
 Charopadi Moti	2337	6869	108	0
 Charoi Chakoklong	2477	9364	576	0
 Bhāndu Chārnān	2633	7245	344	0
 Chārnon ki Bhandu	2633	7245	344	0	Bhāndu Chārnān
 Charmuria	2086	8171	652	0
 Chārmāl	2111	8421	567	0
-Chārmādi	1305	7542	55	0
+Chārmādi	1305	7542	55	0		चारमाड़ी
 Charkhi	2861	7622	781	0
 Charkli	2861	7622	781	0	Charkhi
 Charkhardi	2190	7066	174	0
@@ -66,7 +66,7 @@ Charakmāra	2229	8668	584	0
 Charadva	2293	7103	147	0
 Chhāra	2074	7072	136	0
 Chār	3323	7714	8	0
-Carmona	1520	7395	102	0
+Carmona	1520	7395	102	0		कार्मोना
 Caranzol	1551	7422	188	0
 Caranzol	1536	7429	102	0
 Caranzalem	1547	7381	188	0
@@ -654,7 +654,7 @@ Charūri	3211	7577	38	0
 Charoher	3216	7589	38	0
 Charūri	3222	7586	38	0
 Charokha	2419	7238	134	0
-Charāma	2043	8150	704	0
+Charāma	2043	8150	704	0		चारामा
 Chārbhāta	2089	8132	668	0
 Chārwāhi	2077	8131	668	0
 Chārāchar	2085	8134	668	0
@@ -1018,7 +1018,7 @@ Chhariāri Buzurg	2527	8538	514	0
 Chhariāri Khurd	2526	8540	514	0
 Charuipar	2529	8546	514	0
 Chharodi	2302	7227	124	0
-Chārupalle	1420	7808	444	0
+Chārupalle	1420	7808	444	0		चारुपल्लॆ
 Chārāla	1340	7870	214	0
 Charhansādih	2566	8571	138	0
 Charumbettapādam	1126	7635	150	0
@@ -1145,5 +1145,5 @@ Chārbhāti	2070	8412	386	0
 Chariāpāli	2027	8416	387	0
 Chāripāra	2045	8440	387	0
 Chariāpalli	2031	8464	548	0
-Charpokhari	2536	8449	377	0
+Charpokhari	2536	8449	377	0		चरपोखरी
 Chargaon	2307	8025	480	0

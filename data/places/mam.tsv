@@ -1,8 +1,8 @@
 Mamun	3228	7570	692	32689
 Māmidālapādu	1585	7801	236	26694
-Mamsapuram	950	7759	119	18635
-Māmallapuram	1262	8019	247	15172	Mahabalipuram
-Mamit	2393	9249	12	7884
+Mamsapuram	950	7759	119	18635		मम्सापुरम
+Māmallapuram	1262	8019	247	15172	Mahabalipuram	महाबलिपुरम
+Mamit	2393	9249	12	7884		ममित
 Mamnūr	1791	7959	249	6319
 Māmer	2417	7313	22	0	Momer
 Mamor	3449	7649	8	0
@@ -13,8 +13,8 @@ Mamdāpur	1961	7456	152	0
 Mamdāpur	1654	7560	80	0
 Mamdāpur	1611	7493	77	0
 Māmda	1908	7852	360	0
-West Mambalam	1304	8023	204	0
-Māmbalam	1304	8023	204	0	West Mambalam
+West Mambalam	1304	8023	204	0		मांबलम
+Māmbalam	1304	8023	204	0	West Mambalam	मांबलम
 Māmatkhera	2367	7508	568	0
 Mamarkhera	2978	7406	374	0
 Māmandūru	1375	7946	45	0
@@ -268,7 +268,7 @@ Māmidivāda	1753	8289	227	0
 Mamnūru	1689	8049	46	0
 Māmidiguda	1935	8338	363	0
 Māmidiguda	1906	8347	408	0
-Māmillapalle	1627	8089	68	0
+Māmillapalle	1627	8089	68	0		ममिल्लपल्लि
 Māmillapalle Agrahāram	1626	8091	68	0
 Māmidivalasa	1838	8323	179	0
 Māmidipalle	1812	8320	179	0
@@ -344,9 +344,9 @@ Mamurābad	2107	7557	78	0
 Māmdia	2170	7578	329	0
 Mamiāpur	2735	8005	686	0
 Mambra	1022	7635	176	0
-Mamuara	2328	6987	108	0
+Mamuara	2328	6987	108	0		ममुआरा
 Māmballi	1213	7708	69	0
-Māmillapalle	1510	7897	229	0
+Māmillapalle	1510	7897	229	0		मामिल्लपल्लॆ
 Māmillavāripalle	1426	7818	444	0
 Māmillapalle	1444	7883	229	0
 Māmīdimākulapalle	1391	7803	444	0
@@ -435,7 +435,7 @@ Māmarattuppatti	1076	7825	445	0
 Māmarattuppatti	1065	7827	270	0
 Māmbādi	1086	7762	235	0
 Mammanipatti	1010	7838	274	0
-Māmpatti	1005	7849	454	0
+Māmpatti	1005	7849	454	0		मामपट्टी
 Māmarattuppatti	1058	7857	198	0
 Māmpatti	1045	7862	198	0
 Māmāpatti	1026	7873	198	0

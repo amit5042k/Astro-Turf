@@ -1,36 +1,36 @@
-Rishra	2272	8835	279	117014
-Rishīkesh	3011	7829	448	66390
-Rikhikesh	3011	7829	448	66390	Rishīkesh
-Risod	1998	7679	128	34136
-Reengus	2736	7557	491	26139
-Rīngas	2736	7557	491	26139	Reengus
-Reethapuram	818	7725	453	21177
-Richha	2869	7952	342	19459
-Rijokri	2851	7712	721	19148
+Rishra	2272	8835	279	117014		रिषड़ा
+Rishīkesh	3011	7829	448	66390		ऋषिकेश
+Rikhikesh	3011	7829	448	66390	Rishīkesh	ऋषिकेश
+Risod	1998	7679	128	34136		रिसोड
+Reengus	2736	7557	491	26139		रींगस
+Rīngas	2736	7557	491	26139	Reengus	रींगस
+Reethapuram	818	7725	453	21177		रीतापुरम
+Richha	2869	7952	342	19459		रिछा
+Rijokri	2851	7712	721	19148		रजोकरी
 Rishabhdeo	2408	7369	22	9171	Rakhabh Dev
 Rees	1890	7320	17	8632
-Riāsi	3308	7483	666	8101
+Riāsi	3308	7483	666	8101		रियासी
 Risāmā	2136	8037	171	6925
 Rid	2670	7454	430	3064
 Rib	2212	7075	174	1392
 Varāha River	1568	7818	236	0	Varakūru
-Rivona	1518	7411	102	0
+Rivona	1518	7411	102	0		रवोणा
 Rīvri	2645	7111	217	0
 Rivdi	2645	7111	217	0	Rīvri
 Riu	2831	9505	40	0
-Rithorā Kalān	2640	7825	478	0	Pithora Kalān
-Rithora	2640	7825	478	0	Pithora Kalān
+Rithorā Kalān	2640	7825	478	0	Pithora Kalān	रिठौरा
+Rithora	2640	7825	478	0	Pithora Kalān	रिठौरा
 Rithi	2391	8014	351	0
 Rithaura	2846	7951	342	0
 Rīthākhāl	2990	7882	612	0
 Rithad	2005	7698	128	0
-Rishivandiyam	1181	7910	390	0
-Rishivandryam	1181	7910	390	0	Rishivandiyam
+Rishivandiyam	1181	7910	390	0		ऋषिवंदियम
+Rishivandryam	1181	7910	390	0	Rishivandiyam	ऋषिवंदियम
 Risgaon	2013	8209	652	0
 Risewāda	2138	8057	144	0
 Risāliya Khera	2971	7476	585	0
 Rīri	2794	7410	307	0
-Riponpet	1399	7526	346	0
+Riponpet	1399	7526	346	0		रिप्पनपेट
 Ringi	3049	7965	183	0
 Rini	3049	7965	183	0	Ringi
 Ringnod	2374	7518	568	0
@@ -55,12 +55,12 @@ Riga	2666	8544	582	0
 Rīchwa	2447	7623	333	0
 Richughutu	2366	8459	707	0
 Ribba	3159	7836	83	0
-Ribandar	1550	7387	188	0
+Ribandar	1550	7387	188	0		रायबंदर
 Riāng	2753	9293	56	0
 Rīan	2654	7424	430	0
 Rīan	2639	7349	344	0
 Riāmāl	2136	8466	712	0
-Riacotta	1251	7803	223	0	Rāyakottai
+Riacotta	1251	7803	223	0	Rāyakottai	रायकोट्टई
 Khaa-ring	2803	8877	27	0	Kerāng
 Bāv River	1715	7350	234	0
 Rirkhala	2840	7488	539	0
@@ -85,7 +85,7 @@ Riyūnd	3119	7710	479	0
 Rihāna	3125	7709	278	0
 Ritur	2989	7853	612	0
 Outer Ring Road	1292	7764	43	0
-Richmond Town	1296	7760	43	0
+Richmond Town	1296	7760	43	0		रिचमंड टाउन
 Richmond Rd	1297	7761	43	0
 Rījāni	2816	7531	300	0
 Rikhishwar	2503	7883	481	0
@@ -199,7 +199,7 @@ Richri	2473	7299	23	0
 Rigni	2564	7660	335	0
 Rinchawār	2430	7354	22	0
 Rishia ka Bāria	2567	7419	309	0
-Rithāla	2872	7710	689	0
+Rithāla	2872	7710	689	0		रिठाला
 Aurangābād Ristal	2876	7736	727	0
 Riwājpur	2843	7737	774	0
 Dūngarpur Rīlka	2833	7757	588	0
@@ -430,7 +430,7 @@ Risālu	2936	7701	298	0
 Riksa Khurd	2489	8258	201	0
 Rijūl	2461	8283	103	0
 Rikhai Pura	2550	8246	32	0
-Garhi Rindhāla	2873	7697	689	0
+Garhi Rindhāla	2873	7697	689	0		गढ़ी रीनधाला
 Purwa Risah	2613	8098	681	0
 Rithaura Kalān	2920	7807	700	0
 Rithaura Khurd	2921	7804	700	0
@@ -742,7 +742,7 @@ Malla Riuni	2968	7951	429	0
 Rikhai	2968	7959	429	0
 Rītha	2964	7971	429	0
 Risāl	2970	7973	429	0
-Rikhākot	2930	7971	551	0
+Rikhākot	2930	7971	551	0		रीखाकोट
 Rithāni	2947	7967	551	0
 Kishanpur Rikwal	2917	7960	551	0
 Jitpur Rikwal	2916	7961	551	0

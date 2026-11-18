@@ -1,18 +1,18 @@
-Chhatrapati Sambhaji Nagar	1988	7534	113	1175116	Aurangabad
-Chhatarpur	2492	7959	663	142128
-Chatrā	2421	8487	393	49985
-Chhatarpur	2850	7718	778	46776
-Chātsu	2661	7595	121	33432	Chaksu
+Chhatrapati Sambhaji Nagar	1988	7534	113	1175116	Aurangabad	संभाजीनगर
+Chhatarpur	2492	7959	663	142128		छतरपुर
+Chatrā	2421	8487	393	49985		चतरा
+Chhatarpur	2850	7718	778	46776		छत्तरपुर
+Chātsu	2661	7595	121	33432	Chaksu	चाकसू
 Chhātāpur	2622	8700	426	23425
-Chhatrapur	1936	8498	440	22027
-Chhāta	2772	7751	177	21260
-Chhatral INA	2329	7244	276	10215
-Chhatral	2329	7244	276	10215	Chhatral INA
+Chhatrapur	1936	8498	440	22027		छत्रपुर
+Chhāta	2772	7751	177	21260		छाता
+Chhatral INA	2329	7244	276	10215		छात्राल
+Chhatral	2329	7244	276	10215	Chhatral INA	छात्राल
 Chatibor Gaon	2652	9052	357	8231
 Chatrapatti	934	7792	119	6948
 Chathirareddipatti	963	7797	119	5360
 Chhatha	3268	7483	581	4758
-Chātakonda	1755	8065	60	2816
+Chātakonda	1755	8065	60	2816		चातकोंडा
 Adha Chat	2791	8076	323	1480
 Shahajahanpur Chat Must	2900	7809	483	237
 Venkatachelam Chattram	1433	7992	6	0
@@ -24,7 +24,7 @@ Hanumān Chatti	3070	7952	183	0
 Dumri Chatti	2461	8522	118	0
 Dumrl Chatti	2461	8522	118	0	Dumri Chatti
 Chhattargām	3399	7484	76	0
-Chhātna	2331	8697	571	0
+Chhātna	2331	8697	571	0		छातना
 Chhāti	2078	8167	652	0
 Chhatauna	2122	8180	310	0
 Chhatarpur	2437	8419	701	0
@@ -122,7 +122,7 @@ Chhatasarai	2288	8414	398	0
 Chhatadei	2150	8316	635	0
 Mohanlaler Chhat	2662	8825	573	0
 Chhaterah	2924	7671	485	0
-Chatesar	2876	7697	689	0
+Chatesar	2876	7697	689	0		चातेसर
 Chatjuhan	3153	7708	278	0
 Chhatiāogi	3172	7720	278	0
 Chataur	3132	7708	278	0
@@ -136,7 +136,7 @@ Chathāo	3139	7727	278	0
 Chhatri	3147	7729	278	0
 Chatti	3129	7749	479	0
 Chhatryānwāla	3041	7411	3	0	Ābhun
-Chhatiana	3033	7467	615	0
+Chhatiana	3033	7467	615	0		छतियाना
 Chatno	3113	7728	479	0
 Chatola	3106	7749	479	0
 Purāni Chāti	3146	7765	680	0
@@ -806,7 +806,7 @@ Khandār Chātti	3019	7878	612	0
 Chhatora	3022	7894	365	0
 Chhātamura	2186	8339	439	0
 Chhataria	2831	7823	637	0
-Chhatāri	2811	7815	637	0
+Chhatāri	2811	7815	637	0		छतारी
 Samda Chatarbhoj	2894	7891	511	0
 Bhānpur Chhatarboj	2890	7887	511	0
 Chhātadei	2172	8357	497	0
@@ -815,7 +815,7 @@ Chātkiya	2379	7659	16	0
 Chhatri	2378	7673	16	0
 Chhatarpura	2386	7654	16	0
 Chhatarkaho	2180	8394	627	0
-Chātabar	2139	8400	567	0
+Chātabar	2139	8400	567	0		छताबर
 Chatlapalli	1854	8081	288	0
 Chhatarpur	2771	8136	294	0
 Chatarkot	2761	8149	294	0
@@ -845,7 +845,7 @@ Chātakamba	1809	8296	268	0
 Chātaparru	1670	8114	24	0
 Chatturvārigūdem	1710	8099	24	0
 Chhāta	2617	8437	639	0
-Chattannavaram	1678	8042	104	0
+Chattannavaram	1678	8042	104	0		चात्तन्नवरं
 Chhatiguda	1997	8331	284	0
 Chattur	1982	8325	284	0
 Chhatapadar	1957	8330	363	0
@@ -853,7 +853,7 @@ Chatikona	1958	8335	363	0
 Chhatarpur	1972	8340	284	0
 Chatodi	1949	8200	659	0
 Chhattam	1919	8307	363	0
-Chatikona	1949	8345	363	0
+Chatikona	1949	8345	363	0		चाटीकोना
 Chatra	1870	8257	316	0
 Chatiriguda	1891	8283	316	0
 Chātrāyi	1699	8086	24	0
@@ -1186,7 +1186,7 @@ Chāttikāttipādam	967	7637	243	0
 Chattanattubhāgam	950	7634	243	0
 Chattiyara	914	7660	243	0
 Chattanākulamseri	893	7663	549	0
-Chāttanūr	886	7671	549	0
+Chāttanūr	886	7671	549	0		चातन्नूर
 Chattrampudūr	1151	7730	211	0
 Chattram	1116	7744	235	0
 Chattirāmattupālaiyam	1130	7762	211	0
@@ -1361,4 +1361,4 @@ Chhatriādih	2168	8474	712	0
 Chatiāmāl	2097	8442	414	0
 Chhatiniākata	2082	8428	386	0
 Chhatrang	2060	8457	386	0
-Chathannoor	886	7672	549	0
+Chathannoor	886	7672	549	0		चातन्नूर

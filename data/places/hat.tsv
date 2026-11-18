@@ -1,22 +1,22 @@
-Hatlam	2333	7504	568	264914	Ratlām
-Hāthras	2760	7805	670	126882
-Rampur Hat	2418	8778	361	53468
-Hatta	2413	7960	521	32465
-Hatla	2413	7960	521	32465	Hatta
+Hatlam	2333	7504	568	264914	Ratlām	रतलाम
+Hāthras	2760	7805	670	126882		हाथरस
+Rampur Hat	2418	8778	361	53468		रामपुरहाट
+Hatta	2413	7960	521	32465		हटा
+Hatla	2413	7960	521	32465	Hatta	हटा
 Hāt Piplia	2277	7630	322	17419
 Hatpiplya	2277	7630	322	17419	Hāt Piplia
-Hatti	1620	7666	50	16278
-Hattīn	2804	7724	754	14421
+Hatti	1620	7666	50	16278		हट्टी
+Hattīn	2804	7724	754	14421		हथीन
 Hatwāns	2277	7835	590	12295
 Hatwas	2277	7835	590	12295	Hatwāns
-Hātā	2674	8375	560	12050
-Hātod	2279	7574	660	10425
+Hātā	2674	8375	560	12050		हाटा
+Hātod	2279	7574	660	10425		हातोद
 Hāt	2933	7662	367	7354
 Hathwa	2636	8430	703	7156
 Hathua	2636	8430	703	7156	Hathwa
 Hāt Saraiyā	2679	8449	476	6863
 Tarabari Hat	2623	9112	358	0	Tārābāri
-Tāmā Hāt	2630	8985	561	0
+Tāmā Hāt	2630	8985	561	0		तामारहाट
 Pir Hāt	2094	8672	734	0
 Phansidewa Hat	2659	8837	573	0
 Sombāri Hat	2695	8870	492	0	Phagu
@@ -25,10 +25,10 @@ Nūa Hāthigurha	1994	8449	440	0
 Hāthiguda	1994	8449	440	0	Nūa Hāthigurha
 Nua Hāthiguda	1994	8449	440	0	Nūa Hāthigurha
 Nātabāri Hāt	2639	8959	420	0
-Magra Hāt	2224	8837	4	0
-Mādāri Hāt	2670	8928	752	0
+Magra Hāt	2224	8837	4	0		मगराहाट
+Mādāri Hāt	2670	8928	752	0		मादारीहाट
 Lankāpāra Hāt	2679	8923	752	0
-Khārībāri Hāt	2656	8819	573	0
+Khārībāri Hāt	2656	8819	573	0		खड़ीबाड़ी
 Khāki Hāt	2099	8663	734	0
 Joteswar Hāt	2660	8914	752	0
 Joki Hāt	2614	8762	667	0
@@ -62,7 +62,7 @@ Hātīgeria	2217	8725	677	0
 Hātīgarh	2190	8719	421	0
 hatid	1729	7504	132	0
 Hātibāri	2089	8595	376	0
-Hatiā	2329	8531	562	0
+Hatiā	2329	8531	562	0		हटिया
 Hāthusar	2894	7357	307	0
 Hathkuri	2424	8006	532	0
 Hāthīde	2753	7589	491	0
@@ -804,7 +804,7 @@ Hattimunda	1956	8329	363	0
 Hātipadar	1973	8349	363	0
 Hattipatta	1981	8354	363	0
 Hātguda	1910	8206	600	0
-Hātkachora	1908	8206	600	0
+Hātkachora	1908	8206	600	0		हाटकचोरा
 Hattiagām	1899	8239	316	0
 Hataliguda	1898	8266	316	0
 Hattimunda	1896	8270	316	0
@@ -1051,9 +1051,9 @@ Hatha Jābar	2725	8005	686	0
 Hatiāi	2723	8023	686	0
 Hathaura	2719	8012	686	0
 Hātikesvaramu Penta	1605	7889	232	0
-Hatamuniguda	1958	8350	363	0
-Hathigadh	2158	7143	216	0
-Hatiara	2260	8845	450	0
+Hatamuniguda	1958	8350	363	0		हटमुनिगुड़ा
+Hathigadh	2158	7143	216	0		हाथीगढ़
+Hatiara	2260	8845	450	0		हातियाड़ा
 Hatipara	2610	9129	636	0
 Hatsingimari	2571	8990	793	0
 Dodda Hattihalli	1329	7850	408	0

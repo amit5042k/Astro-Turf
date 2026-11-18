@@ -1,25 +1,25 @@
-Shivaji Nagar	1853	7385	52	1000000
-Shivamogga	1393	7557	346	322650
-Shivamoggi	1393	7557	346	322650	Shivamogga
-Sivakasi	945	7780	119	234704
-Shivpuri	2542	7766	436	179977
-Siwān	2622	8436	639	135066
-Sivaganga	985	7848	454	42785
-Shivner	1921	7388	52	25997	Junnar
+Shivaji Nagar	1853	7385	52	1000000		शिवाजीनगर
+Shivamogga	1393	7557	346	322650		शिमोगा
+Shivamoggi	1393	7557	346	322650	Shivamogga	शिमोगा
+Sivakasi	945	7780	119	234704		शिवकाशी
+Shivpuri	2542	7766	436	179977		शिवपुरी
+Siwān	2622	8436	639	135066		सिवान
+Sivaganga	985	7848	454	42785		शिवगंगा
+Shivner	1921	7388	52	25997	Junnar	जुन्नर
 Shivpur Charcha	2333	8253	621	23514
 Sivagiri	934	7743	245	23040
-Siwāna	2565	7242	285	22067
-Siwāni	2891	7561	431	19143
+Siwāna	2565	7242	285	22067		सिवाना
+Siwāni	2891	7561	431	19143		सिवानी
 Sivagirippatti	1045	7753	187	17306
-Sivagiri	1112	7779	211	16779
-Dandei Sīvaram	1279	7982	161	14684	Wālājābād
-Sivandipuram	871	7740	191	14281
-Sivanthipuram	871	7740	191	14281	Sivandipuram
-Shivaji Nagar	2013	7903	111	13877
+Sivagiri	1112	7779	211	16779		शिवगिरि
+Dandei Sīvaram	1279	7982	161	14684	Wālājābād	वालाजाबाद
+Sivandipuram	871	7740	191	14281		शिवन्तिपुरम
+Sivanthipuram	871	7740	191	14281	Sivandipuram	शिवन्तिपुरम
+Shivaji Nagar	2013	7903	111	13877		शिवाजीनगर
 Sivni	2069	7705	172	13699
 Shivani	2069	7705	172	13699	Sivni
 Shivatkar	1810	7421	52	11228
-Shivrinarayan	2172	8259	696	9707	Seorīnārāyan
+Shivrinarayan	2172	8259	696	9707	Seorīnārāyan	शिवरी नारायण
 Shivrājpur	2242	7361	180	6705
 Shivnandanpur	2319	8295	413	6567
 Sivunipalli	1784	7938	182	6242
@@ -31,7 +31,7 @@ Siwāna Māl	2926	7658	367	0
 Sīwan	2989	7635	638	0
 Siwān	2515	8390	409	0
 Siwān	2412	8491	393	0
-Siwampet	1779	7837	400	0
+Siwampet	1779	7837	400	0		शिवमपेट
 Sīwāla	1953	7744	640	0
 Siwāith	2558	8187	607	0
 Sivungaon	1911	7755	140	0
@@ -58,11 +58,11 @@ Shivarājpur	2668	8014	469	0
 Shivarāipur	2668	8014	469	0	Shivarājpur
 Shivpur	2536	8296	251	0
 Shivāpur	2536	8296	251	0	Shivpur
-Shiv	2619	7124	285	0
+Shiv	2619	7124	285	0		शियो
 Shivar	2002	7807	67	0
 Shivpuri	3014	7839	500	0	Shibpuri
 Shivpurāghāta	2602	7437	446	0	Sheopura
-Bombay Siwri	1900	7285	106	0	Sewri
+Bombay Siwri	1900	7285	106	0	Sewri	शिवडी
 Pandri Shivgarh	2508	8275	201	0
 Poona Shivajinagar	1852	7385	52	0	Bhamburda
 Gura Shiviliyān	3274	7485	581	0	Gura Mīān
@@ -83,7 +83,7 @@ Siwāya Ahmadpur	2790	7907	117	0
 Shiva Purwa	2721	7980	686	0
 Shiwālay Purwa	2721	7985	686	0
 Shivpuri	2713	7987	570	0
-Shivrājpur	2686	7911	290	0
+Shivrājpur	2686	7911	290	0		शिवराजपुर
 Shivganj	2642	7924	741	0	Sheoganj
 Shivnagar	2487	7919	481	0
 Siwāch	2873	7562	431	0
@@ -113,7 +113,7 @@ Shivāji Square	3071	7786	448	0
 Shivpuri	2969	7814	596	0
 Shivgarh	2979	7808	596	0
 Shivnagar	2953	7717	328	0
-Shivdāspur	2977	7749	449	0
+Shivdāspur	2977	7749	449	0		शिवदासपुर
 Shivtala	2291	7808	338	0
 Shivpur	2272	7804	590	0
 Sīwanpāt	2217	7805	462	0
@@ -200,7 +200,7 @@ Shivni	2139	7947	141	0
 Shivnītola	2139	7947	141	0
 Shivni	2108	7929	141	0
 Shivpuri	2732	7972	686	0
-Siwāijpur	2743	7980	686	0
+Siwāijpur	2743	7980	686	0		सवायजपुर
 Shivpuri	2744	7975	686	0
 Shivsingh ka Purwa	2731	7977	686	0
 Shivcharan ka Purwa	2730	7977	686	0
@@ -346,7 +346,7 @@ Shivpurwa	2444	8144	516	0
 Shivpurwa	2447	8180	672	0
 Sīwanpāni	2154	7814	462	0
 Shivpur	2594	8075	728	0
-Shiv Bari	2800	7336	307	0
+Shiv Bari	2800	7336	307	0		शिव बाड़ी
 Shivgarh	2586	8210	718	0
 Shivriha	2581	8220	32	0
 Shivnagar	2589	8236	32	0
@@ -507,7 +507,7 @@ Shivlāl ka Purwa	2565	8177	607	0
 Shīvdān ka Purwa	2502	8199	607	0
 Shivpurwa	2478	8116	516	0
 Shivre	2005	7413	54	0
-Shivādi	2012	7413	54	0
+Shivādi	2012	7413	54	0		शिवडी
 Shivnagar	2259	7592	660	0
 Shivra	2073	7508	78	0
 Shivni	2067	7514	78	0
@@ -775,7 +775,7 @@ Pedda Sivānūr	1793	7850	400	0
 Sivampalli	1783	7859	466	0
 Sivareddigudem	1737	7887	129	0
 Shivapuri	2778	8000	470	0
-Sivalarkulam	887	7753	245	0
+Sivalarkulam	887	7753	245	0		शिवलारकुलम
 Shiwni	1985	7736	67	0
 Shivanhalli	1277	7709	93	0
 Sivapura	1260	7705	94	0
@@ -787,9 +787,9 @@ Shivanegaudandoddi	1233	7747	626	0
 Sivanhalli	1252	7740	626	0
 Shivanhalli	1272	7757	43	0
 Sivanapalli	1254	7766	223	0
-Sīvavaram	1521	7819	232	0
+Sīvavaram	1521	7819	232	0		शिववरं
 Sivarāmpuram	1544	7855	232	0
-Sivapuram	1471	7876	229	0
+Sivapuram	1471	7876	229	0		शिवापुरं
 Sivālapalle	1457	7875	229	0
 Sivarāyunigāripalle	1379	7833	195	0
 Sivanāpura	1320	7827	47	0

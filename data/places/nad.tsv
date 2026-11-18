@@ -1,16 +1,16 @@
-Tulu Nadu	1292	7486	55	499487	Mangaluru
-Nadiād	2269	7286	167	225071
-Nadiyad	2269	7286	167	225071	Nadiād
-Nadia	2341	8837	528	111123	Navadwīp
+Tulu Nadu	1292	7486	55	499487	Mangaluru	मैंगलूर
+Nadiād	2269	7286	167	225071		नडियाद
+Nadiyad	2269	7286	167	225071	Nadiād	नडियाद
+Nadia	2341	8837	528	111123	Navadwīp	नवद्वीप
 Nādāpuram	1168	7565	262	40230
-Rangā Nadī	2645	9161	636	27889	Rangia
-Nādbai	2722	7720	114	26411
+Rangā Nadī	2645	9161	636	27889	Rangia	रंगिया
+Nādbai	2722	7720	114	26411		नदबई
 Naduvannūr	1149	7578	262	25979
 Naduvattam	1088	7600	150	21273
 Naduvattom	1088	7600	150	21273	Naduvattam
-Bhaya nadar	2186	7025	174	19458	Bhāyāvadar
+Bhaya nadar	2186	7025	174	19458	Bhāyāvadar	भायावदर
 Nadim Tiruvuru	1711	8061	104	18567
-Naduvattam	1148	7654	115	11674
+Naduvattam	1148	7654	115	11674		नडुवट्टम
 Nadisāl	1313	7478	257	11611
 Nadsal	1313	7478	257	11611	Nadisāl
 Nadukuthagai	1312	8003	228	9251	Dāsiripuram
@@ -18,14 +18,14 @@ Nadaikavu	829	7715	453	8727
 Naduvaneri	1157	7798	51	8485	Kavundaneri
 Nadīgaon	2611	7902	741	7597
 Nadgaon Tarf Birwadi	1810	7346	17	4871
-Nādaun	3178	7634	281	4838
+Nādaun	3178	7634	281	4838		नदौन
 Nadrālā	2742	7915	711	2101
 Neorā Nadī	2672	8874	602	0
 Nadi	1339	7770	438	0
-Nadwān	2540	8507	604	0
+Nadwān	2540	8507	604	0		नदवां
 Nadria	2420	8150	672	0
-Nadora	1568	7387	188	0
-Nādol	2537	7346	273	0
+Nadora	1568	7387	188	0		नादोरा
+Nādol	2537	7346	273	0		नाङोल्
 Nadīgaon	2615	7703	601	0
 Nadgaon	1747	7362	234	0
 Nadeota	2394	7495	580	0
@@ -36,7 +36,7 @@ Nadaul	2530	8502	604	0
 Nādanpur	2665	7740	622	0
 Nadāmpur	3025	7612	593	0
 Nāda	2195	7256	151	0
-Nadābhānga	2240	8824	4	0
+Nadābhānga	2240	8824	4	0		नादाभांगा
 Nadirgund	3403	7478	76	0
 Hariyāli Nādi	2659	7197	217	0
 Nādihal	3426	7437	301	0
@@ -49,8 +49,8 @@ Nador	3280	7494	581	0
 Nadrol	3257	7489	581	0
 Zaria na Danna	3440	7394	0	0
 Nadda	2987	7858	612	0
-Naduvankarai	1308	8020	204	0
-Naduvakkarai	1308	8020	204	0	Naduvankarai
+Naduvankarai	1308	8020	204	0		अण्णा नगर
+Naduvakkarai	1308	8020	204	0	Naduvankarai	अण्णा नगर
 Chauki Nādāh	3071	7691	587	0
 Nādāh	3069	7689	587	0
 Nadanwāra	2506	7875	481	0
@@ -331,7 +331,7 @@ Nadugadda	1722	8061	46	0
 Nadikudi	1781	8091	60	0
 Nadiāon	2608	8431	639	0
 Nadiāon	2607	8430	639	0
-Nādendla	1618	8019	10	0
+Nādendla	1618	8019	10	0		नादेंदला
 Nadimpālem	1621	8031	319	0
 Nadiālpalli	1884	8246	316	0
 Naduminjara	1837	8237	109	0
@@ -425,11 +425,11 @@ Nadavāda Dodderi	1431	7502	346	0
 Nādakalse	1418	7509	346	0
 Nāda Mankasale	1416	7508	346	0
 Nādavalle	1418	7524	346	0
-Nadimidoddi	1477	7780	100	0
+Nadimidoddi	1477	7780	100	0		नडिमिदॊड्डि
 Nadimipalle	1466	7789	100	0
 Nadimigaddapalle	1437	7784	444	0
 Nadivinahalli	1485	7576	366	0
-Nadimpalle	1392	7756	444	0
+Nadimpalle	1392	7756	444	0		नडिंपल्लॆ
 Naduyanahalli	1366	7775	438	0
 Nadvinhalli	1350	7774	438	0
 Naduvalhalli	1344	7752	438	0
@@ -472,7 +472,7 @@ Nādanahalli	1290	7633	679	0
 Nadel	2562	8625	530	0
 Nadakala Mole	1202	7699	69	0
 Nādanga	1566	7707	44	0
-Nadīkhairavādi	1593	7747	236	0
+Nadīkhairavādi	1593	7747	236	0		नडिखैरवाडि
 Nādo	2580	8666	661	0
 Nadahalli	1287	7579	679	0
 Bokan Nāda	2329	7372	142	0
@@ -826,7 +826,7 @@ Nadupatti	1181	7859	51	0
 Nadu Mulipatti	1179	7867	390	0
 Naduyalasu	1200	7871	197	0
 Nadu Mādūr	1176	7872	390	0
-Naduvalūr	1152	7866	51	0
+Naduvalūr	1152	7866	51	0		नाडुवलूर
 Naduvalūr	1110	7865	270	0
 Nadiāpārtoli	2382	8527	764	0
 Nadidi	2197	8526	272	0

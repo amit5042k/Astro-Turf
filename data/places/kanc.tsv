@@ -1,8 +1,8 @@
-Kanchipuram	1284	7970	161	221715
-Kānchi	1284	7970	161	221715	Kanchipuram
-Kānchrāpāra	2296	8843	528	136954
-Kancharapara	2296	8843	528	136954	Kānchrāpāra
-Kanchrapura	2296	8843	528	136954	Kānchrāpāra
+Kanchipuram	1284	7970	161	221715		कांचिपुरम
+Kānchi	1284	7970	161	221715	Kanchipuram	कांचिपुरम
+Kānchrāpāra	2296	8843	528	136954		काँचड़ापाड़ा
+Kancharapara	2296	8843	528	136954	Kānchrāpāra	काँचड़ापाड़ा
+Kanchrapura	2296	8843	528	136954	Kānchrāpāra	काँचड़ापाड़ा
 Kanchanpur	2404	9220	256	15341
 Kanchad	1968	7302	192	1371
 Uruli Kānchān	1849	7413	52	0
@@ -80,7 +80,7 @@ Nagla Kānch	2766	7824	670	0
 Nagla Kānch	2762	7827	670	0
 Kanchanpalli	1740	7934	129	0
 Nagla Kanchan	2784	7869	616	0
-Kanchausi	2659	7961	715	0
+Kanchausi	2659	7961	715	0		कंचौसी
 Nagla Kanchan	2730	7875	464	0
 Kanchanpura	2408	7935	521	0
 Kanchanpura	2516	7969	614	0
@@ -268,7 +268,7 @@ Kanchiganahalli	1413	7558	275	0
 Kanchenahalli	1351	7705	93	0
 Kanchgallupālya	1324	7713	93	0
 Kanchugaranhalli	1302	7724	626	0
-Kanchisamudram	1378	7761	444	0
+Kanchisamudram	1378	7761	444	0		कंचिसमुद्रं
 Kanchiganhāl	1334	7759	389	0
 Kanchipura	1306	7794	47	0
 Kanchikeri	1462	7598	366	0
@@ -366,4 +366,4 @@ Kanchanpur	2131	8440	567	0
 Kānchera	2199	8481	272	0
 Kanchhara	2159	8489	712	0
 Kanchili	1898	8458	472	0
-Kanchikacherla	1668	8039	104	0
+Kanchikacherla	1668	8039	104	0		कांचिकचेरला

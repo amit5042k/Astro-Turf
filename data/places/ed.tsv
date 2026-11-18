@@ -1,20 +1,20 @@
-Edlābād	1967	7854	282	118526	Ādilābād
+Edlābād	1967	7854	282	118526	Ādilābād	आदिलाबाद
 Edattala	1006	7638	176	77811
-Edappadi	1159	7784	51	54823	Idappadi
-Edaganasalai	1163	7799	51	33245	Idangansālai
-Edappāl	1078	7601	150	32550
+Edappadi	1159	7784	51	54823	Idappadi	एडप्पाडी
+Edaganasalai	1163	7799	51	33245	Idangansālai	एडगनसालै
+Edappāl	1078	7601	150	32550		एडप्पाल
 Edakalinadu	1226	7998	247	28172	Kottaikādu
 Edacchēri	1168	7562	262	26819
 Edavai	876	7669	219	25994
 Edaicode	838	7720	453	25378
 Edavilangu	1024	7617	241	20363
 Edakkazhiyūr	1062	7600	241	17335
-Edakkode	868	7685	219	12994
+Edakkode	868	7685	219	12994		एडकोड
 Edattirutti	1036	7617	241	12921
 Edathirinji	1036	7617	241	12921	Edattirutti
 Edathiruthy	1036	7617	241	12921	Edattirutti
 Edayanchavadi	1319	8027	204	12119	Elandacheri
-Eddumailaram	1750	7812	31	11759	Mailāram
+Eddumailaram	1750	7812	31	11759	Mailāram	एड्डुमैलाराम
 Edakkalathur	1059	7612	241	8039
 Edakkulam	1061	7618	241	2000
 Edpalli	1868	7795	75	0	Yedapalli
@@ -22,9 +22,9 @@ Edlāpur	1637	7733	50	0	Yadlāpur
 Edirkottai	938	7773	119	0
 Edayūr	1093	7611	150	0
 Edayar	1093	7611	150	0	Edayūr
-Edavanna	1122	7614	150	0
-Edappalli	1002	7631	176	0
-Edapally	1002	7631	176	0	Edappalli
+Edavanna	1122	7614	150	0		एडावन्ना
+Edappalli	1002	7631	176	0		इटप्पल्लि
+Edapally	1002	7631	176	0	Edappalli	इटप्पल्लि
 Edalābād	2105	7606	78	0
 Edanbāgh	3045	7775	448	0
 Edūlarepāku	1742	7900	129	0
@@ -72,7 +72,7 @@ Edrupalle	1754	8245	227	0
 Edavalli	1649	8136	24	0
 Edulapalem	1799	8278	268	0
 Edavalli	1610	8007	10	0
-Edlapādu	1617	8023	10	0
+Edlapādu	1617	8023	10	0		एदलपाडु
 Edubādu Agrahāram	1604	8025	220	0
 Edavalli	1696	8095	24	0
 Edugummalavalasa	1887	8329	316	0
@@ -103,9 +103,9 @@ Edavalli	1586	7702	50	0
 Edavalli	1562	7713	236	0
 Edlāpur	1598	7733	50	0
 Edavalli	1526	7745	236	0
-Edduladoddi	1536	7759	236	0
-Edurūru	1589	7790	236	0
-Eddupenta	1537	7776	232	0
+Edduladoddi	1536	7759	236	0		ऎद्दुलदॊड्डि
+Edurūru	1589	7790	236	0		ऎदुरूरु
+Eddupenta	1537	7776	232	0		ऎद्दुपॆंट
 Edachova	1188	7539	266	0
 Edakkād	1183	7545	266	0
 Eden Vale Grant	2748	8052	507	0
@@ -143,7 +143,7 @@ Edahalli	1214	7730	69	0
 Eddulāyapalle	1489	7889	229	0
 Edapalle	1419	7891	195	0
 Eddulanallayyagāripalle	1416	7885	195	0
-Edurudona	1399	7832	444	0
+Edurudona	1399	7832	444	0		ऎदुरुदोन
 Edalavāndlapalle	1398	7832	444	0
 Eddulavārikota	1393	7838	195	0
 Edumadakalapalle	1386	7827	195	0
@@ -290,7 +290,7 @@ Edappulinādu	1137	7835	231	0
 Edateruvu	1163	7857	51	0
 Edumalai	1105	7872	270	0
 Eduttavāynattam	1181	7883	390	0
-Eddulapalle	1494	7750	100	0
+Eddulapalle	1494	7750	100	0		ऎद्दुलपल्लॆ
 Edelbera	2262	8552	287	0
 Edelbera	2266	8569	287	0
 Edappādi	1144	7866	51	0

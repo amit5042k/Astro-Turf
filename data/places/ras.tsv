@@ -1,9 +1,9 @@
-Rasapūdipalem	1773	8332	81	1728128
-Raspari Palao	1773	8332	81	1728128	Rasapūdipalem
-Rasaul	2698	8485	396	55536	Raxaul
-Rasipuram	1146	7819	231	50244
-Rāsīpur	1146	7819	231	50244	Rasipuram
-Rasrā	2586	8385	536	31876
+Rasapūdipalem	1773	8332	81	1728128		विशाखापत्तनम
+Raspari Palao	1773	8332	81	1728128	Rasapūdipalem	विशाखापत्तनम
+Rasaul	2698	8485	396	55536	Raxaul	रक्सौल
+Rasipuram	1146	7819	231	50244		रासीपुरम
+Rāsīpur	1146	7819	231	50244	Rasipuram	रासीपुरम
+Rasrā	2586	8385	536	31876		रसड़ा
 Rās	2631	7420	273	9511
 Rasikpur	2429	8725	669	8320
 Rasūlābād	2674	8049	312	7800
@@ -13,7 +13,7 @@ Rasūlpur Rohta	2904	7755	700	0
 Rasūlpur	2446	7740	336	0
 Rasūlpura	2446	7740	336	0	Rasūlpur
 Rasūlpur	3111	7501	566	0
-Rasūlābād	2668	7978	671	0
+Rasūlābād	2668	7978	671	0		रसूलाबाद
 Rasuan	2379	8721	361	0
 Rassin	1844	7492	152	0
 Rāsol	2063	8531	289	0
@@ -84,7 +84,7 @@ Jalālpur Rasūlābād	2658	7980	671	0
 Rasīla	2494	7920	481	0
 Rāsmāno	2469	7921	481	0
 Rasoi	2464	7902	481	0
-Rasikbīl	2642	8975	420	0
+Rasikbīl	2642	8975	420	0		रसिकबिल
 Mathiā Rasūlpur	2690	8442	476	0
 Rasūlpur	2690	8442	476	0	Mathiā Rasūlpur
 Rāspalli	1923	7977	162	0
@@ -119,7 +119,7 @@ Rasgan	2780	7659	482	0
 Rasūlpur	2767	7679	482	0
 Rasgan	2763	7694	482	0
 Rasūlpur	2729	7680	482	0
-Rashīdpur Garhi	2939	7816	575	0
+Rashīdpur Garhi	2939	7816	575	0		रशीदपुर गढ़ी
 Rasūlpur	2936	7824	575	0
 Rasūlpur	2933	7812	575	0	Bomanpura
 Rasūlpur	2971	7813	596	0	Kānkarkhāta
@@ -149,7 +149,7 @@ Sarāi Rasūlpur	2933	7776	545	0
 Rasūlpur Kailora	2927	7780	545	0
 Rasūlpurgarhi	2930	7795	545	0
 Rasoi	2890	7711	485	0
-Rasūlpur	2871	7702	689	0
+Rasūlpur	2871	7702	689	0		रसूल पुर
 Rasūlpur	2862	7737	588	0
 Rasūlpur Sankalputti	2893	7735	477	0
 Rasūlpur	2900	7763	700	0	Lakhwaya
@@ -445,7 +445,7 @@ Rasūlāhī	2572	8275	32	0
 Rasūlpur	2572	8293	32	0
 Rashīdpur	2574	8299	498	0
 Rasīlpur	2562	8289	32	0
-Nizāmpur Rashīdpur	2872	7696	689	0
+Nizāmpur Rashīdpur	2872	7696	689	0		निज़ाम पुर रशीद पुर
 New Rashanpura	2860	7699	763	0
 Rasūlpur	2617	8079	681	0
 Rasūlpur	2601	8090	728	0

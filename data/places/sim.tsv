@@ -1,33 +1,33 @@
-Simhapuri	1445	7999	6	547621	Nellore
-Shimogga	1393	7557	346	322650	Shivamogga
-Shimla	3110	7717	479	173503
-Simdega	2262	8450	495	42944
-Simga	2163	8170	379	16027
-Simaria	2479	8115	516	14045
-Simaluguri	2692	9476	520	8286
-Simalunguri	2692	9476	520	8286	Simaluguri
-Simaluguri Junction	2692	9476	520	8286	Simaluguri
-Seemalwara	2357	7374	512	6891	Semarwāra
+Simhapuri	1445	7999	6	547621	Nellore	नेल्लोर
+Shimogga	1393	7557	346	322650	Shivamogga	शिमोगा
+Shimla	3110	7717	479	173503		शिमला
+Simdega	2262	8450	495	42944		सिमडेगा
+Simga	2163	8170	379	16027		सिमगा
+Simaria	2479	8115	516	14045		सेमरिया
+Simaluguri	2692	9476	520	8286		शिमलुगुड़ी
+Simalunguri	2692	9476	520	8286	Simaluguri	शिमलुगुड़ी
+Simaluguri Junction	2692	9476	520	8286	Simaluguri	शिमलुगुड़ी
+Seemalwara	2357	7374	512	6891	Semarwāra	सीमलवाड़ा
 Nihālpur Simba	3262	7478	581	3869
 Simli Murārpur	2558	8524	604	3739
-Simla	3088	7705	628	2994	Dagshai
-Simla	3110	7712	479	2467	Jutogh
+Simla	3088	7705	628	2994	Dagshai	डगशाई
+Simla	3110	7712	479	2467	Jutogh	जतोग
 Simeinasora	2202	9261	244	215
 Simrol	2254	7591	660	0
-Simri Bakhriārpur	2572	8659	661	0
-Simri Bakhtiārpur	2572	8659	661	0	Simri Bakhriārpur
+Simri Bakhriārpur	2572	8659	661	0		सिमरी बख्तियारपुर
+Simri Bakhtiārpur	2572	8659	661	0	Simri Bakhriārpur	सिमरी बख्तियारपुर
 Simri	2616	8576	591	0
 Simrauta	2646	8141	662	0
 Simrātari	2465	8578	473	0
 Simratanri	2465	8578	473	0	Simrātari
-Simrāhi	2631	8685	426	0
-Simraha	2631	8685	426	0	Simrāhi
+Simrāhi	2631	8685	426	0		सिमराही
+Simraha	2631	8685	426	0	Simrāhi	सिमराही
 Simra	2518	7865	529	0
 Simlipālgarh	2186	8639	382	0
 Simli	2975	7802	596	0
-Simlāpāl	2291	8707	571	0
+Simlāpāl	2291	8707	571	0		सिमलापाल
 Simlabāri	2610	9045	458	0
-Similigurha	1870	8286	316	0	Semiliguda
+Similigurha	1870	8286	316	0	Semiliguda	सेमिलिगुड़ा
 Simria	2132	8604	293	0
 Similia	2132	8604	293	0	Simria
 Simhagadda	1859	8302	199	0
@@ -36,8 +36,8 @@ Simhāchalam	1777	8325	81	0
 Simauri	2722	8076	507	0
 Simariā Kalān	2406	8494	393	0
 Simaria	2406	8494	393	0	Simariā Kalān
-Simaria	2542	8601	530	0
-Simaria Ghāt	2542	8601	530	0	Simaria
+Simaria	2542	8601	530	0		सिमरिया
+Simaria Ghāt	2542	8601	530	0	Simaria	सिमरिया
 Simanbādi	1999	8407	387	0
 Simānagāon	2643	9297	656	0
 Simāna Basti	2698	8814	573	0
@@ -46,9 +46,9 @@ Simalia	2269	7371	180	0
 Shimong	2860	9507	392	0
 Shimla	2869	7457	539	0
 Shimar	2079	7115	136	0
-Mahādeo Simaria	2492	8611	524	0
+Mahādeo Simaria	2492	8611	524	0		महादेव सिमरिया
 Chhota Simla	3109	7718	479	0
-Simla	3097	7720	628	0	Chail
+Simla	3097	7720	628	0	Chail	चैल
 Simulia	2236	8819	4	0
 Simian	3337	7424	504	0
 Simbal Dhora	3336	7423	504	0
@@ -352,7 +352,7 @@ Simaria	2486	8230	201	0
 Shimla Gujrān	2932	7706	298	0
 Simarwar	2476	8270	103	0
 Simrihiya Tola	2460	8277	631	0
-Simli Bās	2872	7592	431	0
+Simli Bās	2872	7592	431	0		शिमलीवास
 Simarhawa	2446	8249	631	0
 Simān	2433	8284	103	0
 Simri	2501	8222	607	0
@@ -909,7 +909,7 @@ Simra Ghāt	2779	8029	323	0
 Simra Grant	2785	8041	323	0
 Simrāwān	2779	8049	323	0
 Simraiya	2778	8049	323	0
-Simlak	2104	7295	221	0
+Simlak	2104	7295	221	0		सीमलक
 Simna	2560	8568	138	0
 Simra	2567	8555	716	0
 Simakalpalli	1256	7813	223	0

@@ -1,29 +1,29 @@
-Asumumbay	1907	7288	90	12691836	Mumbai
-Āsansol	2368	8698	642	504271
-Asanol	2368	8698	642	504271	Āsansol
-S.A.S. Nagar	3068	7672	632	166864	Mohali
-Ashoknagar Kalyangarh	2286	8864	450	111475
-Ashoknagar	2458	7773	410	81828
-Ashta	2302	7672	675	53184
-Ashta	1695	7441	65	37105
-Āsandh	2952	7661	457	27125
-Asifābād	1936	7928	162	23059
-Asafabad	1936	7928	162	23059	Asifābād
-Āsika	1961	8466	440	21428
-Aska	1961	8466	440	21428	Āsika
+Asumumbay	1907	7288	90	12691836	Mumbai	मुम्बई
+Āsansol	2368	8698	642	504271		आसनसोल
+Asanol	2368	8698	642	504271	Āsansol	आसनसोल
+S.A.S. Nagar	3068	7672	632	166864	Mohali	अजीतगढ़
+Ashoknagar Kalyangarh	2286	8864	450	111475		अशोकनगर कल्याणगढ़
+Ashoknagar	2458	7773	410	81828		अशोकनगर
+Ashta	2302	7672	675	53184		आष्टा
+Ashta	1695	7441	65	37105		आष्टा
+Āsandh	2952	7661	457	27125		असंध
+Asifābād	1936	7928	162	23059		आसिफ़ाबाद
+Asafabad	1936	7928	162	23059	Asifābād	आसिफ़ाबाद
+Āsika	1961	8466	440	21428		आसिका
+Aska	1961	8466	440	21428	Āsika	आसिका
 L.A.Sagaram	1390	7989	45	19904
 Asaripallam	817	7738	453	16822	Āchāripallam Vāniyakudi
-Āsind	2573	7433	309	16611
+Āsind	2573	7433	309	16611		आसींद
 Asāra	2925	7731	477	15959
-Asola	2846	7718	778	13275
+Asola	2846	7718	778	13275		असोला
 Asangaon	1944	7331	246	13104
 Ashti	1938	7623	53	13084
 Ashokapuram	1110	7695	156	12993
-Āshti	1881	7518	33	11972
-Ashti Bidh	1881	7518	33	11972	Āshti
+Āshti	1881	7518	33	11972		आष्टी
+Ashti Bidh	1881	7518	33	11972	Āshti	आष्टी
 Asudubi	2602	9067	458	7356
-Āsan Khurd	2940	7687	298	6873
-Asarganj	2515	8669	538	6327
+Āsan Khurd	2940	7687	298	6873		आसन खुर्द
+Asarganj	2515	8669	538	6327		असरगंज
 Ashmuji Khalsa	3367	7507	35	5567
 Singhesar Asthan	2598	8679	657	5298
 Asham	3425	7463	120	4841
@@ -39,9 +39,9 @@ Asu	1805	7466	64	0
 Asthānwān	2522	8563	514	0
 Astgām	2090	7304	221	0
 Astera	2723	7553	121	0
-Astaranga	1998	8627	603	0
-Astarang	1998	8627	603	0	Astaranga
-Astrang	1998	8627	603	0	Astaranga
+Astaranga	1998	8627	603	0		अस्त्रंगा
+Astarang	1998	8627	603	0	Astaranga	अस्त्रंगा
+Astrang	1998	8627	603	0	Astaranga	अस्त्रंगा
 Astagaon	1967	7450	152	0
 Astgaon	1967	7450	152	0	Astagaon
 Astagāl	1498	7415	102	0
@@ -58,8 +58,8 @@ Assagao	1560	7376	188	0
 Aspura Bara	2744	7576	491	0
 Aspura	2744	7576	491	0	Aspura Bara
 Āspur	2395	7408	512	0
-Āspari	1548	7739	236	0
-Asotra	2576	7230	285	0
+Āspari	1548	7739	236	0		आस्परि
+Asotra	2576	7230	285	0		आसोतरा
 Asothar	2575	8089	728	0
 Āsop	2679	7358	344	0
 Asonli	2871	9564	427	0
@@ -69,9 +69,9 @@ Asnāwar	2448	7633	333	0
 Asna	2533	8351	788	0
 Asmauli	2869	7854	646	0
 Aslāoda	2324	7562	314	0
-Aslāna	2394	7931	521	0
-Askot	2978	8035	508	0
-Askote	2978	8035	508	0	Askot
+Aslāna	2394	7931	521	0		असलाना
+Askot	2978	8035	508	0		अस्कोट
+Askote	2978	8035	508	0	Askot	अस्कोट
 Asiwan	2681	8045	312	0
 Asīāki Gorāwās	2834	7665	519	0
 Asiaki	2834	7665	519	0	Asīāki Gorāwās
@@ -79,7 +79,7 @@ Asiaki	2834	7665	519	0	Asīāki Gorāwās
 Āshwi Budrukh	1952	7437	152	0
 Āshwi	1935	7435	152	0
 Ashwaraopet	1725	8113	60	0
-Ashti	2120	7818	143	0
+Ashti	2120	7818	143	0		आष्टी
 Ashti	1968	7980	135	0
 Ashti	1784	7541	132	0
 Ashta	1784	7541	132	0	Ashti
@@ -102,7 +102,7 @@ Asandi	1371	7609	98	0
 Asanbāni	2413	8745	669	0
 Asanād	1875	7975	91	0
 Āsambia	2297	6945	108	0
-Asālatganj	2669	7985	671	0
+Asālatganj	2669	7985	671	0		असालतगंज
 Asadganj	1767	7752	31	0
 Asnāhra	2708	8266	154	0
 Asrasar	2889	7378	307	0
@@ -192,7 +192,7 @@ Chengelijan Gaon, Assam, India	2755	9550	460	0
 Ashudi	2290	8859	450	0
 Madarchak Urf Asudchak	2227	8747	677	0
 Ashtīung	3442	7454	120	0
-Asthal Bohar	2888	7664	719	0
+Asthal Bohar	2888	7664	719	0		अस्थल बोहर
 Āsalwās	2811	7662	519	0
 Āsiāki Tappa Jarthal	2814	7671	519	0
 Asadpur	2824	7672	519	0	Surajpur
@@ -311,7 +311,7 @@ Asangaon	1940	7614	53	0
 Āsarpur	3094	7644	735	0
 Āse Majra	3036	7632	564	0
 Ashābpur	3034	7629	564	0
-Asarpur	3033	7649	564	0
+Asarpur	3033	7649	564	0		अस्सरपुर
 Āshakpura	3050	7648	648	0
 Asthal	2785	7783	543	0
 Asthal	2783	7780	543	0
@@ -971,7 +971,7 @@ Asthal	3263	7556	496	0
 Asawān	2558	8185	607	0	Hājīganj
 Asa Bano	3229	7557	692	0
 Āsāwandi	1988	8027	135	0
-Ashoknagar	2547	8182	607	0
+Ashoknagar	2547	8182	607	0		अशोक नगर
 Asolia	2304	7474	348	0
 Astāne	2069	7464	54	0
 Asiriya Bāri	2244	7554	130	0
@@ -1504,7 +1504,7 @@ Asakalattūr	1159	7906	390	0
 Asanūr	1163	7919	390	0
 Āsāripudūr	1051	7790	187	0
 Asūr	1126	7900	265	0
-Asāvīrankudikkādu	1132	7921	383	0
+Asāvīrankudikkādu	1132	7921	383	0		असवीरांकुडिक्काडु
 Āsārankuppam	1199	7945	202	0
 Asikkādu	1106	7961	203	0
 Asambūr	1181	7822	51	0

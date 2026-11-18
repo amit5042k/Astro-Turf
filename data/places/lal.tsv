@@ -1,21 +1,21 @@
-Lal Bahadur Nagar	1735	7856	62	261987
-Lalitpur	2469	7842	384	126475
-Lālganj	2587	8517	716	37098
-Lālsot	2656	7633	708	34363
+Lal Bahadur Nagar	1735	7856	62	261987		एल बी नगर
+Lalitpur	2469	7842	384	126475		ललितपुर
+Lālganj	2587	8517	716	37098		लालगंज
+Lālsot	2656	7633	708	34363		लालसोट
 Lālgola	2442	8825	471	28442
 Lalgola Ghat	2442	8825	471	28442	Lālgola
-Lalgudi	1087	7882	270	23740
-Lālganj	2593	8170	718	23728
+Lalgudi	1087	7882	270	23740		लालगुडी
+Lālganj	2593	8170	718	23728		लालगंज
 Lalganj	2580	8300	498	23124
 Lālgarh	3019	7568	593	21880	Laungowāl
-Lālru	3049	7680	632	21394
+Lālru	3049	7680	632	21394		लालरु
 Lālpettai	1130	7956	178	16561
 Lalpet	1130	7956	178	16561	Lālpettai
-Lālpur	2219	6996	145	15076
-Lāla	2455	9262	345	11771
+Lālpur	2219	6996	145	15076		लालपुर
+Lāla	2455	9262	345	11771		लाला
 Lālam	972	7670	271	8571
 Lalsingi	1995	8457	440	7078
-Lālpania	2374	8575	517	3659
+Lālpania	2374	8575	517	3659		ललपनिया
 Nij Lāluk	2712	9393	355	0
 Laluk	2712	9393	355	0	Nij Lāluk
 Laluri	2569	9484	9	0	Laruri
@@ -35,11 +35,11 @@ Lālkua	2907	7951	551	0
 Lāl Khera	2653	8115	681	0
 Laling	2082	7474	190	0
 Laligam	1204	7815	110	0
-Lālgopālganj	2564	8163	607	0
-Lālgarh	2259	8705	665	0
+Lālgopālganj	2564	8163	607	0		लालगोपालगंज
+Lālgarh	2259	8705	665	0		लालगढ़
 Lālganj	2501	8236	201	0
 Lālewāl	3133	7563	369	0
-Lāl Dhāng	2985	7832	596	0
+Lāl Dhāng	2985	7832	596	0		लालढांग
 Lālchara	2407	9160	649	0
 Lālburrā	2194	8005	144	0
 Lalburrah	2194	8005	144	0	Lālburrā
@@ -57,11 +57,11 @@ Lālsānga	3040	7933	183	0	Chamoli
 Lalera	2886	7382	307	0
 Lāl Wāruk Chak	3426	7490	595	0
 Lāl Mandi	3407	7481	611	0
-Lāl Bāzār	3413	7481	611	0	Mundibal
-Lāl Bāzār	3413	7482	611	0
+Lāl Bāzār	3413	7481	611	0	Mundibal	लाल बाज़ार
+Lāl Bāzār	3413	7482	611	0		लाल बाज़ार
 Lālau Shisgaribāgh	3405	7478	611	0
-Lal Chowk	3407	7481	611	0
-Lāl Chawk	3407	7481	611	0	Lal Chowk
+Lal Chowk	3407	7481	611	0		लाल चौक
+Lāl Chawk	3407	7481	611	0	Lal Chowk	लाल चौक
 Hanj Lāli	3339	7422	504	0
 Lālpor	3411	7455	301	0
 Lālad	3425	7445	301	0
@@ -691,8 +691,8 @@ Lālpur	2918	7810	700	0
 Lālpur	2917	7809	700	0
 Lālwāla	2966	7848	575	0
 Lālwāla	2965	7849	575	0
-Lālūwāla	2960	7834	575	0
-Tatārpur Lālu	2960	7834	575	0	Lālūwāla
+Lālūwāla	2960	7834	575	0		तातारपुर लालू
+Tatārpur Lālu	2960	7834	575	0	Lālūwāla	तातारपुर लालू
 Jwāli Lāla	2960	7825	575	0
 Shekhpur Lāla	2955	7830	575	0
 Rāmpur Lālu	2954	7847	575	0
@@ -1962,7 +1962,7 @@ Lālganj	2500	8512	118	0
 Lālu Bigha	2513	8512	527	0
 Lāliāri	2503	8521	118	0
 Lālganj	2503	8522	118	0
-Lālbāzār	2402	8766	361	0
+Lālbāzār	2402	8766	361	0		लालबाजार
 Lāltākuri	2417	8764	669	0
 Lālupur	2453	8794	471	0
 Chak Lalwa	2568	8533	716	0

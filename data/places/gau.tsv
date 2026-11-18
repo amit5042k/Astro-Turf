@@ -1,13 +1,13 @@
-Gauhāti	2618	9175	359	962334	Guwahati
-Gauriganj	2621	8169	662	390395
-Gauribidanur	1361	7752	438	37947
-Gauibidanur	1361	7752	438	37947	Gauribidanur
-Gauripur	2608	8996	561	25124
-Gaurela	2275	8190	757	18165
-North Gauhāti	2620	9172	636	17516	North Guwāhāti
-Gautampura	2299	7552	660	14584
-Runji-Gautampura	2299	7552	660	14584	Gautampura
-Ghaura	2451	7908	663	13301
+Gauhāti	2618	9175	359	962334	Guwahati	गुवाहाटी
+Gauriganj	2621	8169	662	390395		गौरीगंज
+Gauribidanur	1361	7752	438	37947		गौरीबिदनूर
+Gauibidanur	1361	7752	438	37947	Gauribidanur	गौरीबिदनूर
+Gauripur	2608	8996	561	25124		गौरीपुर
+Gaurela	2275	8190	757	18165		गौरेला
+North Gauhāti	2620	9172	636	17516	North Guwāhāti	उत्तर गुवाहाटी
+Gautampura	2299	7552	660	14584		रणजी गौतमपुरा
+Runji-Gautampura	2299	7552	660	14584	Gautampura	रणजी गौतमपुरा
+Ghaura	2451	7908	663	13301		घुवारा
 Gauharpur	2554	8523	604	2685
 Gaur	2529	8278	251	0	Mirza Murād
 Gauma Kalān	2494	7985	663	0
@@ -16,7 +16,7 @@ Ghausganj	2708	8029	686	0
 Ghausganj	2617	7998	671	0
 Gaushāla	2930	7901	641	0
 Gauripur	2265	8845	450	0
-Gaurikund	3066	7903	365	0
+Gaurikund	3066	7903	365	0		गौरीकुण्ड
 Gaurihar	2527	8020	663	0
 Gauria	2177	7420	186	0
 Gaurhāti	2280	8835	279	0
@@ -1001,7 +1001,7 @@ Gauhaniān Kalān	2625	8159	662	0
 Pura Lāl Shāh Gautam	2631	8163	662	0
 Pura Gauri Shankar Dube	2638	8162	662	0
 Pura Gautam	2627	8169	662	0
-Gaura	2640	8168	662	0
+Gaura	2640	8168	662	0		गौरा
 Pūrab Gaura	2640	8168	662	0
 Pura Gauhar	2648	8167	662	0
 Pura Gauran	2605	8157	718	0
@@ -1401,7 +1401,7 @@ Gaurpur	2726	8023	686	0
 Gausāpur	2702	8005	686	0
 Gauri	2701	8017	686	0
 Gauntara	2713	8020	686	0
-Gauchar	3028	7918	183	0
+Gauchar	3028	7918	183	0		गोचर
 Gaula Mānjri	1977	7740	67	0
 Gauliguda	1921	7839	408	0
 Gaudanahalli	1352	7786	438	0

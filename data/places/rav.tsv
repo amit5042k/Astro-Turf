@@ -1,9 +1,9 @@
-Rāwatbhāta	2493	7559	417	37699
-Rawatbhaia	2493	7559	417	37699	Rāwatbhāta
-Rāvu	2264	7581	660	36055
-Rāwatsār	2927	7440	486	35102
-Rāver	2125	7604	78	27039
-Rāwikhet	2964	7943	429	19873	Rānikhet
+Rāwatbhāta	2493	7559	417	37699		रावतभाटा
+Rawatbhaia	2493	7559	417	37699	Rāwatbhāta	रावतभाटा
+Rāvu	2264	7581	660	36055		राऊ
+Rāwatsār	2927	7440	486	35102		रावतसर
+Rāver	2125	7604	78	27039		रावेर
+Rāwikhet	2964	7943	429	19873	Rānikhet	रानीखेत
 Raval	2192	6948	131	19777
 Ravapara	2280	7083	147	12206
 Rawān	2168	8209	379	5100
@@ -52,7 +52,7 @@ Purwa Rāwat	2676	7971	715	0
 Rāwatpur	2663	7998	671	0
 Rasual Rāwatgaon	2657	7982	671	0
 Rawat ka Mathāra	2736	7147	217	0
-Ravulapalem	1648	8198	304	0
+Ravulapalem	1648	8198	304	0		रावुलपालेम
 Rāvinūtla	1701	8021	68	0
 Rawatsar	2573	7162	285	0
 Raviguntapalli	1523	7940	200	0
@@ -78,7 +78,7 @@ Rāwli Mahdūd	2994	7806	596	0
 Rawāsa	2630	7621	116	0
 Rāwatpura	2617	7683	447	0
 Rāwatpura	2603	7696	335	0
-Nagla Rawa	2904	7736	477	0
+Nagla Rawa	2904	7736	477	0		नगला रवा
 Rāwanwāra	2220	7880	337	0
 Rawāla	2156	7828	133	0
 Rāwtān ka Khera	2509	7460	417	0
@@ -150,7 +150,7 @@ Tola Rāwat	2555	7946	645	0
 Rawalgadda Tānda	1664	7944	101	0
 Khairi Rāwat	2568	8104	728	0
 Rāwatpur Khālsa	2505	7938	525	0
-Rāwatpura	2526	7966	614	0
+Rāwatpura	2526	7966	614	0		रावतपुरा
 Rawaniyān	2577	8283	498	0
 Rāwla	2197	7635	209	0
 Rāwatan Ka Purwa	2482	7969	663	0
@@ -218,7 +218,7 @@ Rāwan Dīh	2647	8241	553	0
 Kakuwa Rāwat	2676	8257	154	0
 Rāwipur	2645	8255	553	0
 Khwājāpur Rāwat	2620	8267	597	0
-Ravangla	2731	8836	85	0
+Ravangla	2731	8836	85	0		रवंगला
 Pura Rāwne	2595	8164	718	0
 Rāwatpār	2670	8317	325	0
 Rawatdāndi	2669	8323	325	0
@@ -337,7 +337,7 @@ Rāvaligūda	1843	8226	109	0
 Ravilgedda	1809	8241	268	0
 Rāvadibanda	1823	8250	268	0
 Rāwathputtu	1872	8278	316	0
-Rāvulapādu	1645	8094	68	0
+Rāvulapādu	1645	8094	68	0		रवुलपाडु
 Rāviguda	1951	8390	363	0
 Rāwatpāra	1899	8139	406	0
 Rāwatpāra	1870	8146	406	0
@@ -401,7 +401,7 @@ Bishanpuri Rawāna Lāla	2887	7934	552	0
 Rawāna Kanu	2888	7932	552	0
 Rāwal Kalān	2830	7962	342	0
 Rāvlojikop	1502	7539	92	0
-Rāvulacheruvu	1442	7779	444	0
+Rāvulacheruvu	1442	7779	444	0		रावुलचॆरुवु
 Rāvalavarampalle	1414	7782	444	0
 Ravatanhalli	1337	7729	93	0
 Rāvatanhalli	1303	7742	43	0
@@ -412,7 +412,7 @@ Ravandur	1243	7619	74	0
 Rāvandūr	1241	7695	94	0
 Ravadūru	1576	7708	236	0
 Rāvihālu	1570	7705	44	0
-Rāvuludiki	1501	7780	100	0
+Rāvuludiki	1501	7780	100	0		रावुलुडिकि
 Ravanahalli	1468	7706	100	0
 Ravona	1561	7403	90	0
 Rawā	2606	7923	741	0
@@ -429,8 +429,8 @@ Rawāni	2786	8039	323	0
 Rāwan	2786	8040	323	0
 Rāvani	1234	7704	94	0
 Ravugollu	1275	7750	43	0
-Rāvulakolanu	1463	7823	229	0
-Rāvulapalle	1463	7877	229	0
+Rāvulakolanu	1463	7823	229	0		रावुलकॊलनु
+Rāvulapalle	1463	7877	229	0		रावुलपल्लॆ
 Ravanapalle	1397	7817	444	0
 Rāvuthapatti	1245	7856	184	0
 Ravulapalle	1532	7897	200	0
@@ -475,6 +475,6 @@ Rāvuttanpatti	1114	7909	383	0
 Rāvattanallūr	1197	7892	390	0
 Rāwatpāra	2189	8509	272	0
 Rāwutrapur	2189	8574	293	0
-Ravulapalem	1676	8184	304	0
-Rawla Mandi	2885	7289	374	0
+Ravulapalem	1676	8184	304	0		रावुलपालेम
+Rawla Mandi	2885	7289	374	0		रावला मंडी
 Rāwatsar	2838	7536	539	0

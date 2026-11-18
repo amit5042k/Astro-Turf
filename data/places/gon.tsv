@@ -1,17 +1,17 @@
-Gondā City	2713	8195	542	133583
-Gonda Oudh	2713	8195	542	133583	Gondā City
-Gonda	2713	8195	542	133583	Gondā City
-Gondiā	2146	8019	171	132813
-Gondal	2196	7080	174	112197
-Goniāna Mandi	3032	7491	563	15208
-Goniana	3032	7491	563	15208	Goniāna Mandi
+Gondā City	2713	8195	542	133583		गोण्डा
+Gonda Oudh	2713	8195	542	133583	Gondā City	गोण्डा
+Gonda	2713	8195	542	133583	Gondā City	गोण्डा
+Gondiā	2146	8019	171	132813		गोंदिया जिला
+Gondal	2196	7080	174	112197		गोंडल
+Goniāna Mandi	3032	7491	563	15208		गोनिआणा
+Goniana	3032	7491	563	15208	Goniāna Mandi	गोनिआणा
 Gond Pīpri	1971	7969	111	8474
-Gonikoppal	1218	7593	193	8306
+Gonikoppal	1218	7593	193	8306		गोनिकोप्पल
 Gonua	2192	8536	272	0
-Gonour	2446	8025	532	0
+Gonour	2446	8025	532	0		गुनौर
 Gonmat	2795	7779	543	0	Gomat
-Gonegandla	1571	7760	236	0
-Gonegandia	1571	7760	236	0	Gonegandla
+Gonegandla	1571	7760	236	0		गोनॆगंड्ल
+Gonegandia	1571	7760	236	0	Gonegandla	गोनॆगंड्ल
 Gonebidu	1309	7571	98	0
 Gonibid	1309	7571	98	0	Gonebidu
 Gond Umrī	2103	8008	404	0
@@ -23,7 +23,7 @@ Gondla	3250	7703	425	0
 Gondia	2076	8580	289	0
 Gondi	2669	7559	121	0
 Gondher	2569	7517	309	0
-Gonda	2783	7788	543	0
+Gonda	2783	7788	543	0		गोंडा
 Gonāwān	2536	8561	514	0
 Gonawam	2536	8561	514	0	Gonāwān
 Gona	2441	7853	384	0
@@ -86,7 +86,7 @@ Ghonpānkhri	2434	7312	212	0
 Gondlion ka Khera	2555	7416	309	0
 Ghonsān	3031	7542	726	0	Ghunnas
 Gondpur	2987	7799	596	0
-Ghonda	2869	7727	791	0
+Ghonda	2869	7727	791	0		घोण्डा
 Goniāna Khurd	3034	7493	563	0
 Goniāna Kalān	3034	7495	563	0
 Gondpura	2705	7571	121	0
@@ -461,7 +461,7 @@ Ghont	2131	8198	310	0
 Gonasarmane	1484	7480	59	0
 Gondmarra	2136	8276	407	0
 Gonūr	1464	7494	59	0
-Goner	2678	7591	121	0
+Goner	2678	7591	121	0		गोनर
 Gondpāli	2106	8293	497	0
 Gondlabahra	2094	8217	297	0
 Gona	2012	8216	297	0
@@ -508,7 +508,7 @@ Gondugūdem	1822	8287	268	0
 Gondugūdem	1821	8290	268	0
 Chinna Gonbeli	1781	8209	268	0
 Gondipalle	1789	8221	268	0
-Gonepādu	1657	8124	24	0
+Gonepādu	1657	8124	24	0		गोनॆपाडु
 Gongallamūdi	1650	8106	68	0
 Gondolu	1744	8206	268	0
 Gontuvānipālem	1735	8211	268	0
@@ -629,8 +629,8 @@ Hire Gonagarh	1581	7595	66	0
 Chik Gonagarh	1580	7596	66	0
 Gondi	1463	7515	92	0
 Gonimākulapalle	1406	7739	444	0
-Gondireddipalle	1455	7759	100	0
-Gondipalle	1416	7759	444	0
+Gondireddipalle	1455	7759	100	0		गॊंदिरॆड्डिपल्लॆ
+Gondipalle	1416	7759	444	0		गॊंदिपल्लॆ
 Gondankoppa	1430	7537	346	0
 Chikka Gonigere	1431	7564	275	0
 Hire Gonigere	1432	7564	275	0
@@ -694,7 +694,7 @@ Gonnarahalli	1212	7677	74	0
 Chinna Gonahālu	1561	7717	236	0
 Gonahālu	1550	7723	236	0
 Gonahālu	1527	7712	44	0
-Gonabhāvi	1559	7732	236	0
+Gonabhāvi	1559	7732	236	0		गोनबावि
 Gonderla	1515	7748	100	0
 Gonhra	2502	8637	524	0
 Gonimarur	1260	7591	193	0
@@ -747,9 +747,9 @@ Gonimaradahalli	1351	7795	438	0
 Gongappanhalli	1296	7735	43	0
 Gonipur	1283	7745	43	0
 Gonamanhalli	1262	7739	626	0
-Gondiparla	1583	7807	236	0
+Gondiparla	1583	7807	236	0		गॊंदिपर्ल
 Gondumali	1591	7817	408	0
-Gonavaram	1544	7833	232	0
+Gonavaram	1544	7833	232	0		गोनवरं
 Gonampalle	1529	7862	232	0
 Gontuvāripalie	1506	7890	229	0
 Gondipalle	1428	7814	444	0
@@ -769,7 +769,7 @@ Gonugūru	1271	7833	214	0
 Gonumākulapalle	1445	7848	229	0
 Gondipalle	1438	7834	229	0
 Gondlapalle	1447	7855	229	0
-Gondipalle	1441	7857	229	0
+Gondipalle	1441	7857	229	0		गॊंदिपल्लॆ
 Gondipalle	1426	7858	229	0
 Gondipalle	1412	7859	195	0
 Gontuvāndlapalle	1552	7953	200	0

@@ -1,27 +1,27 @@
-Bīsalpur	2829	7980	683	68355
-Bishnupur	2307	8732	571	64041
-Biswān	2750	8100	507	52516
+Bīsalpur	2829	7980	683	68355		बीसलपुर
+Bishnupur	2307	8732	571	64041		विष्णुपुर
+Biswān	2750	8100	507	52516		बिसवाँ
 Bishrāmpur	2425	8393	701	42925
-Bisauli	2831	7894	117	32154
-Bissāu	2825	7508	300	23227
-Bisālgarh	2368	9128	574	21085
-Biswanath Chariali	2673	9315	302	19145
-Bishnāth	2673	9315	302	19145	Biswanath Chariali
-Bisokhar	2885	7758	727	14332
-Bishnupur	2463	9376	505	12167
-Bishnāh	3261	7486	581	11645
-Bishna	3261	7486	581	11645	Bishnāh
-Bishrampur	2319	8300	413	11367
-Bisenda Buzurg	2540	8062	463	11100
-Bisenda	2540	8062	463	11100	Bisenda Buzurg
-Bisanda	2540	8062	463	11100	Bisenda Buzurg
+Bisauli	2831	7894	117	32154		बिसौली
+Bissāu	2825	7508	300	23227		बिसाऊ
+Bisālgarh	2368	9128	574	21085		बिशालगढ़
+Biswanath Chariali	2673	9315	302	19145		विश्वनाथ चारिआलि
+Bishnāth	2673	9315	302	19145	Biswanath Chariali	विश्वनाथ चारिआलि
+Bisokhar	2885	7758	727	14332		बिसोखार
+Bishnupur	2463	9376	505	12167		बिष्णुपुर
+Bishnāh	3261	7486	581	11645		बिशनाह
+Bishna	3261	7486	581	11645	Bishnāh	बिशनाह
+Bishrampur	2319	8300	413	11367		विश्रामपुर
+Bisenda Buzurg	2540	8062	463	11100		बिसण्डा बुज़ुर्ग
+Bisenda	2540	8062	463	11100	Bisenda Buzurg	बिसण्डा बुज़ुर्ग
+Bisanda	2540	8062	463	11100	Bisenda Buzurg	बिसण्डा बुज़ुर्ग
 Bishunpur Hakīmābād	2585	8584	138	9653
 Bissamcuttack	1951	8351	363	8399
 Bishamakatak	1951	8351	363	8399	Bissamcuttack
-Bishunpur Urf Mahārājganj	2626	8312	498	7499
+Bishunpur Urf Mahārājganj	2626	8312	498	7499		महाराजगंज
 Bhisiyāna	3028	7477	563	4890
-Bishungarh	2402	8576	764	4847
-Bishnugarh	2402	8576	764	4847	Bishungarh
+Bishungarh	2402	8576	764	4847		विष्णुगढ़
+Bishnugarh	2402	8576	764	4847	Bishungarh	विष्णुगढ़
 Bisambharpur	2333	8341	341	4838
 Jītpur Bīsa	2914	7951	551	0
 Biswās	2596	7299	344	0	Bināvās
@@ -45,7 +45,7 @@ Bishunpurā	2679	8417	560	0
 Bishunpura	2602	8480	540	0
 Bishunpur	2337	8438	321	0
 Bishanpur	2337	8438	321	0	Bishunpur
-Bishnupur	2238	8827	4	0
+Bishnupur	2238	8827	4	0		बिष्णुपुर
 Bishnāth	2667	9316	302	0
 Bishenpur	2463	9376	505	0
 Bishanwāra	2501	7711	336	0
@@ -75,8 +75,8 @@ Bisnot	2983	7723	449	0
 Bisangarh	2978	7717	449	0
 Bisanpura	2576	7559	313	0
 Bistāna	2987	7860	612	0
-Bishangarh	2844	7525	300	0
-Bishangrah	2844	7525	300	0	Bishangarh
+Bishangarh	2844	7525	300	0		टमकोर
+Bishangrah	2844	7525	300	0	Bishangarh	टमकोर
 Bisanpura	2840	7562	300	0
 Bishannagar Kotla	3013	7652	564	0
 Bishangarh	3022	7670	691	0
@@ -154,7 +154,7 @@ Bisanpura	2490	7614	371	0
 Biswākheri	2978	7781	596	0
 Bhishtīpur	2983	7782	596	0
 Bishanpura	2861	7736	588	0
-Bisrakh	2857	7744	588	0
+Bisrakh	2857	7744	588	0		बिसरख
 Bishnūli	2861	7750	588	0
 Bisāhra	2859	7757	588	0
 Bisāich	2840	7758	588	0
@@ -283,7 +283,7 @@ Bisiyān	2595	8297	498	0
 Bisangpur	2657	7805	478	0
 Bishankhera	2345	7782	338	0
 Bishankheri	2334	7796	338	0
-Bisauri	2559	8307	32	0
+Bisauri	2559	8307	32	0		बिसौरी
 Bishambharpur	2571	8308	498	0
 Bishunpur Mathura	2557	8322	26	0
 Bisenpura	2548	8300	251	0
@@ -1692,7 +1692,7 @@ Bisalvādi	1180	7694	69	0
 Dumaria Bishunpur	2546	8756	625	0
 Bisāre	2547	8771	625	0
 Bisrāmpur	2381	8524	764	0
-Bisrāmpur	2367	8501	562	0
+Bisrāmpur	2367	8501	562	0		विश्रामपुर
 Bishākhatangā	2339	8502	562	0
 Bisai	2399	8563	764	0
 Bisā	2343	8557	562	0
@@ -1791,7 +1791,7 @@ Biswanāthpur	2078	8424	386	0
 Biswanāthpur	2087	8444	414	0
 Bisipāli	2097	8456	414	0
 Bishipāli	2063	8457	386	0
-Bishramganj	2361	9134	574	0
+Bishramganj	2361	9134	574	0		बिश्रामगंज
 Bishwanathpur	1982	8343	284	0
 Bisfi	2632	8588	556	0
 Bisoi	2216	8641	382	0

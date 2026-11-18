@@ -1,6 +1,6 @@
-Kabnur	1670	7444	57	38146
-Kabrāi	2540	8000	614	24771
-Kabral	2540	8000	614	24771	Kabrāi
+Kabnur	1670	7444	57	38146		कबनूर
+Kabrāi	2540	8000	614	24771		कबरई
+Kabral	2540	8000	614	24771	Kabrāi	कबरई
 Kabilpor	2095	7296	221	15699
 Kāb	2539	8479	604	10141
 Kabri	2943	7694	298	7049
@@ -19,7 +19,7 @@ Kabbūr	1635	7473	77	0
 Kabbūr	1269	7630	679	0
 Kabalkheri	2367	7496	601	0
 Kabai Konga	1993	8187	518	0	Kibai Konga
-Chauth ka Barwāra	2605	7616	116	0
+Chauth ka Barwāra	2605	7616	116	0		चौथ का बरवाड़ा
 Kābla	3328	7419	504	0	Kāhla
 Kābo Kot	3316	7446	504	0
 Kha Barora	3469	7642	8	0
@@ -116,7 +116,7 @@ Kabūr	1474	7534	92	0
 Kabhalli	1189	7675	69	0
 Kabwabahra	2049	8186	652	0	Kahwabahra
 Kabula	2728	9569	460	0
-Khab	3180	7864	83	0
+Khab	3180	7864	83	0		खाब
 Bhamda ka Bās	2805	7684	482	0
 Māli ka Bāgh	2823	7697	544	0
 Khabloch	3163	7715	278	0
@@ -286,7 +286,7 @@ Bheru ka Bār	2651	7626	708	0
 Dhāka ka Bās	2806	7503	491	0
 Bhārna ka Bās	2825	7517	300	0
 Gugo ka Bās	2825	7518	300	0
-Kabirsar	2819	7515	300	0
+Kabirsar	2819	7515	300	0		कबीरसर
 Bāla ka Bās	2817	7518	300	0
 Dilol ka Bās	2815	7519	300	0
 Bariyon ka Bās	2811	7515	300	0

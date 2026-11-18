@@ -1,12 +1,12 @@
-Keshod	2130	7025	185	76193
-Keshorai Pātan	2529	7594	353	24627
-Kesinga	2019	8322	284	19239
-Kesariyā	2635	8487	396	18984
-Kesaria	2635	8487	396	18984	Kesariyā
+Keshod	2130	7025	185	76193		केशोद
+Keshorai Pātan	2529	7594	353	24627		केशवरायपाटन
+Kesinga	2019	8322	284	19239		केसिंगा
+Kesariyā	2635	8487	396	18984		केसरिया
+Kesaria	2635	8487	396	18984	Kesariyā	केसरिया
 Kesigi	1586	7724	236	15455	Kosigi
-Kesrisinghpur	2995	7362	374	14010
-Keskāl	2008	8159	659	11115
-Kesabpur	2297	8826	279	10921
+Kesrisinghpur	2995	7362	374	14010		केसरीसिंहपुर
+Keskāl	2008	8159	659	11115		केशकाल
+Kesabpur	2297	8826	279	10921		केशबपुर
 Keshannagar	2042	8609	303	0	Kishoranagar
 Kesur	2277	7541	130	0
 Kestūru	1269	7706	94	0
@@ -14,7 +14,7 @@ Kesla	2247	7784	590	0
 Kesia	2267	7039	145	0
 Kēshwān	3331	7568	34	0
 Keshrol	2171	7278	151	0
-Kesli	2342	7881	352	0
+Kesli	2342	7881	352	0		केसली
 Kesardesar	2788	7348	307	0
 Kesāram	1776	7788	31	0
 Kesānupalle	1658	7974	10	0
@@ -651,7 +651,7 @@ Kesre	1395	7496	346	0
 Kesargadde	1311	7500	55	0
 Keshvāpur	1536	7515	682	0
 Kesalāpura	1515	7596	66	0
-Kesāpuram	1426	7777	444	0
+Kesāpuram	1426	7777	444	0		केशापुरं
 Kesavankatte	1406	7546	346	0
 Kesarukatte	1416	7542	346	0
 Kesrhalli	1491	7551	92	0
@@ -735,7 +735,7 @@ Kesrala	1448	7471	59	0
 Kesani	1393	7462	257	0
 Kesaikodi	1392	7459	257	0
 Keshwarbighā	2466	8438	137	0
-Khesar	2469	8447	137	0
+Khesar	2469	8447	137	0		खेसर
 Kesaur	2463	8442	137	0
 Kesho Bigha	2494	8490	118	0
 Kesru Dharampur	2485	8494	118	0
@@ -763,7 +763,7 @@ Keshopur	2529	8534	514	0
 Kesri Bigha	2508	8540	514	0
 Keshopur	2594	8558	395	0
 Khesrahi	2588	8554	716	0
-Keshavpura	2192	7590	329	0
+Keshavpura	2192	7590	329	0		केशवपुरा
 Kesawāpur	1759	7869	311	0
 Kesarra	2616	8769	667	0
 Keshabpur	2261	8820	354	0

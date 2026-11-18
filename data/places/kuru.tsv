@@ -1,10 +1,10 @@
 Kuruvattūr	1134	7584	262	34241
-Kurumbapet	1194	7977	196	32871
+Kurumbapet	1194	7977	196	32871		कुरुम्बापेट
 Kurudampalayam	1111	7694	156	18749	Rakkiyapālaiyam
 Kurumathur	1204	7541	266	18641
 Kurumpilavu	1041	7617	241	14329
-Kurud	2083	8172	652	13783
-Kurumbalūr	1124	7880	265	12420
+Kurud	2083	8172	652	13783		कुरुद
+Kurumbalūr	1124	7880	265	12420		कुरुम्बलूर
 Kurumuli	1875	8294	316	8504	Kurmūr
 Kuruppanāyakkanpālaiyam	1146	7769	211	7484
 Kuruppanaickenpalayam	1146	7769	211	7484	Kuruppanāyakkanpālaiyam
@@ -12,7 +12,7 @@ Kurumbapatti	1038	7796	187	6182	Mīnākshināyakkanpatti
 Kurukkuppatti	1169	7798	51	5037
 Kurul	1864	7289	17	4869
 Kurukutia	2209	8647	382	359
-Kuruva Nāgalāpuram	1575	7790	236	0
+Kuruva Nāgalāpuram	1575	7790	236	0		कुरुवनगलपुरं
 Kuruskela	2278	8452	495	0
 Kurupām	1887	8355	199	0
 Kurumunda	2072	8406	386	0
@@ -123,7 +123,7 @@ Kurukutijolla	1933	8329	363	0
 Kurumpeta	1927	8341	363	0
 Kurupām Ladda	1909	8348	363	0
 Kurumāputtu	1852	8280	316	0
-Kurumaddāli	1634	8093	68	0
+Kurumaddāli	1634	8093	68	0		कुरुमद्दालि
 Kurus	1873	8109	288	0
 Kurusila	1917	8370	363	0
 Kuruguda	1906	8388	363	0
@@ -155,9 +155,9 @@ Khuruhi	2504	8064	324	0
 Kurudalli	1341	7479	257	0
 Kuruvāri	1406	7501	346	0
 Kurulapalle	1412	7743	444	0
-Kurugunta	1468	7752	100	0
+Kurugunta	1468	7752	100	0		कुरुगुंट
 Kurugānipalle	1474	7782	100	0
-Kurumāla	1408	7799	444	0
+Kurumāla	1408	7799	444	0		कुरुमल
 Kuruvatti	1478	7570	366	0
 Chikka Kuruvatti	1478	7569	92	0
 Kuruva	1415	7567	275	0
@@ -237,8 +237,8 @@ Kurubaradoddi	1264	7691	94	0
 Kurubanapura	1244	7695	94	0
 Kurubūru	1216	7694	74	0
 Kurukundi	1550	7719	236	0
-Kuruvalli	1537	7719	236	0
-Kuruvalli	1502	7702	100	0
+Kuruvalli	1537	7719	236	0		कुरुवल्लि
+Kuruvalli	1502	7702	100	0		कुरुवल्लि
 Kuruvaladoddi	1538	7756	236	0
 Kurudavalli	1268	7590	193	0
 Kurubarapalle	1449	7712	100	0
@@ -336,7 +336,7 @@ Kurumbarnattam	1243	7858	184	0
 Kurumbapatti	1211	7858	110	0
 Kurumapatti	1214	7869	197	0
 Kurubarapalli	1246	7774	223	0
-Kurumāmidi	1408	7831	444	0
+Kurumāmidi	1408	7831	444	0		कुरुमामिडि
 Kurumapalle	1405	7868	195	0
 Kuruguntavārikhandrika	1544	7973	200	0
 Kurucherlapādu	1430	7984	6	0
@@ -535,7 +535,7 @@ Kurundangulam	973	7845	454	0
 Kurunjākulam	955	7840	5	0
 Kurundangulam	954	7827	119	0
 Kurukkulam	953	7829	119	0
-Kuruvādi	919	7840	5	0
+Kuruvādi	919	7840	5	0		कुरुवाड़ी
 Kurundampatti	998	7869	454	0
 Kurukkādippatti	988	7858	454	0
 Kurukkatti	983	7858	454	0

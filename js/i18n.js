@@ -401,11 +401,11 @@ Object.assign(UI.en, {
   placeSearch: 'City, town or village — in English or हिन्दी…', placeOnly: 'Place', searching: 'Searching…',
   keepTyping: 'Keep typing to narrow down…', noPlace: 'No place found — try another spelling, or enter coordinates.',
   placeOffline: 'Place search needs an internet connection the first time.', pickPlace: 'Choose your place of birth from the list.',
-  manualCoords: 'Enter latitude / longitude instead', placeCredit: 'All Indian cities, towns and villages · data: GeoNames (CC BY 4.0)',
+  manualCoords: 'Enter latitude / longitude instead', placeCredit: 'All Indian cities, towns and villages · data: GeoNames (CC BY 4.0), Hindi names: Wikidata',
 });
 Object.assign(UI.hi, {
   placeSearch: 'शहर, कस्बा या गाँव — हिन्दी या English में लिखें…', placeOnly: 'स्थान', searching: 'खोज रहे हैं…',
   keepTyping: 'सटीक परिणाम के लिए आगे लिखें…', noPlace: 'स्थान नहीं मिला — दूसरी वर्तनी आज़माएँ या अक्षांश-देशांतर डालें।',
   placeOffline: 'स्थान खोज के लिए पहली बार इंटरनेट आवश्यक है।', pickPlace: 'सूची से अपना जन्म स्थान चुनें।',
-  manualCoords: 'अक्षांश / देशांतर स्वयं डालें', placeCredit: 'भारत के सभी शहर, कस्बे व गाँव · डेटा: GeoNames (CC BY 4.0)',
+  manualCoords: 'अक्षांश / देशांतर स्वयं डालें', placeCredit: 'भारत के सभी शहर, कस्बे व गाँव · डेटा: GeoNames (CC BY 4.0), हिन्दी नाम: Wikidata',
 });

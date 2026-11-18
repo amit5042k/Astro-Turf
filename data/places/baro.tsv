@@ -1,13 +1,13 @@
-Baroda	2230	7321	159	1822221	Vadodara
-Baroach	2169	7298	151	169007	Bharūch
-Bharoch	2169	7298	151	169007	Bharūch
-Chhipa Barod	2462	7671	506	18837
-Barod	2462	7671	506	18837	Chhipa Barod
-Baroda	2550	7665	335	18437
-Barod	2379	7581	347	13834
+Baroda	2230	7321	159	1822221	Vadodara	वड़ोदरा
+Baroach	2169	7298	151	169007	Bharūch	भड़ौच
+Bharoch	2169	7298	151	169007	Bharūch	भड़ौच
+Chhipa Barod	2462	7671	506	18837		छीपाबड़ौद
+Barod	2462	7671	506	18837	Chhipa Barod	छीपाबड़ौद
+Baroda	2550	7665	335	18437		बड़ौदा
+Barod	2379	7581	347	13834		बड़ौद
 Baroni Khurd	2569	7838	503	10309	Barauni
 Baroni	2569	7838	503	10309	Barauni
-Barora	2379	8623	401	3890
+Barora	2379	8623	401	3890		बरोरा
 Garhī Barod	2534	7781	436	0
 Bharos	2007	7429	54	0
 Barorāgaon	2686	7118	217	0
@@ -48,7 +48,7 @@ Baronwāla	3031	7796	448	0
 Barodiya	2549	7558	353	0
 Baroli	2577	7573	313	0
 Baror	3123	7702	479	0
-Barog	3112	7702	479	0
+Barog	3112	7702	479	0		बड़ोग
 Barohi	3113	7712	479	0
 Barodiya	2461	7570	580	0
 Bāro Khurd	2522	7886	529	0
@@ -100,7 +100,7 @@ Barot	3127	7755	479	0
 Baroli	3139	7767	479	0
 Barola	3101	7762	479	0
 Baror	3099	7707	628	0
-Barog	3089	7708	628	0
+Barog	3089	7708	628	0		बड़ोग
 Barog	3089	7718	628	0
 Bharog	3087	7721	534	0
 Barog	3086	7723	534	0
@@ -329,7 +329,7 @@ Barolha	2541	8157	651	0
 Bar Roun	3261	7566	496	0
 Barol	3265	7563	496	0
 Barrota	3275	7568	496	0
-Bharoli Kalān	3227	7562	692	0
+Bharoli Kalān	3227	7562	692	0		भरोली कलाँ
 Bharoli Khurd	3227	7562	692	0
 Baroi	3235	7568	692	0
 Baro	3243	7561	496	0

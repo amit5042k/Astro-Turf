@@ -1,28 +1,28 @@
-Ajni	2115	7908	141	2405665	Nagpur
-Ajmer	2645	7464	446	542321
-Ajmer City	2645	7464	446	542321	Ajmer
-Ajarthala	2384	9128	744	400004	Agartala
-Azamgarh	2607	8318	498	116644
-Ajodhya	2680	8220	629	53293	Ayodhya
-Azamgarh	2609	8329	498	53263	Mubarakpur
+Ajni	2115	7908	141	2405665	Nagpur	नागपुर
+Ajmer	2645	7464	446	542321		अजमेर
+Ajmer City	2645	7464	446	542321	Ajmer	अजमेर
+Ajarthala	2384	9128	744	400004	Agartala	अगरतला
+Azamgarh	2607	8318	498	116644		आजमगढ़
+Ajodhya	2680	8220	629	53293	Ayodhya	अयोध्या
+Azamgarh	2609	8329	498	53263	Mubarakpur	मुबारकपुर
 Ajānūr	1234	7509	305	33079
 Azhiyūr	1169	7556	262	30023
 Azhoor	864	7680	219	27390
-Azhikkōd	1192	7534	266	25195
-Azhikode	1192	7534	266	25195	Azhikkōd
-Azhikode North	1192	7534	266	25195	Azhikkōd
-Azhikode South	1192	7534	266	25195	Azhikkōd
+Azhikkōd	1192	7534	266	25195		अज़ीकोड नॉर्थ
+Azhikode	1192	7534	266	25195	Azhikkōd	अज़ीकोड नॉर्थ
+Azhikode North	1192	7534	266	25195	Azhikkōd	अज़ीकोड नॉर्थ
+Azhikode South	1192	7534	266	25195	Azhikkōd	अज़ीकोड नॉर्थ
 Azhikkal	997	7625	176	23717	Vypīn
-Ajnāla	3184	7476	222	21107
-Saiyad-ul-ajaib	2852	7720	778	17914
-Saidul Azaib	2852	7720	778	17914	Saiyad-ul-ajaib
-Ajara	1612	7421	57	17257
-Ajra	1612	7421	57	17257	Ajara
-Ajaigarh	2490	8026	532	16656
-Ajeetgarh	2742	7582	491	15414
+Ajnāla	3184	7476	222	21107		अजनाला
+Saiyad-ul-ajaib	2852	7720	778	17914		सैदुलाजाब
+Saidul Azaib	2852	7720	778	17914	Saiyad-ul-ajaib	सैदुलाजाब
+Ajara	1612	7421	57	17257		आजरा
+Ajra	1612	7421	57	17257	Ajara	आजरा
+Ajaigarh	2490	8026	532	16656		अजयगढ़
+Ajeetgarh	2742	7582	491	15414		अजीतगढ़
 Azhagiapāndipuram	830	7744	453	11392
 Azhakiapandipuram	830	7744	453	11392	Azhagiapāndipuram
-Ajjampur	1373	7601	98	10795
+Ajjampur	1373	7601	98	10795		आज्जमपुरा
 Azara	2612	9161	359	8780
 Azhikkal	1194	7531	266	8117
 Ajani Khurd	1862	7694	158	1178
@@ -39,20 +39,20 @@ Azmatgani	2482	8484	118	0	Azmatganj
 Azīmganj	2423	8826	471	0
 Azīmganj City	2423	8826	471	0	Azīmganj
 Āzamnagar	2555	8783	625	0
-Āzādpur	2871	7718	769	0
+Āzādpur	2871	7718	769	0		आज़ाद पुर
 Ajrām	3145	7582	296	0
 Ajnās	2256	7684	322	0
 Ajitwāl	3082	7534	499	0
-Ajītpura	2901	7531	486	0
+Ajītpura	2901	7531	486	0		अजीतपुरा
 Ajīta	2548	7585	353	0
 Ajgarhbura	2397	8232	631	0
 Ajgaon	1577	7370	238	0
-Ajgain	2662	8063	312	0
+Ajgain	2662	8063	312	0		अजगैन
 Ajayagad	1892	8408	252	0
 Ajāsar	2726	7171	217	0
-Ajas	3433	7468	120	0
+Ajas	3433	7468	120	0		अजस
 Ajāpura	2562	7667	335	0
-Ajanta	2053	7575	113	0
+Ajanta	2053	7575	113	0		अजिंठा
 Ajabgarh	2719	7629	482	0
 Ajāb	2126	7036	185	0
 Ajītsar	2827	7465	539	0
@@ -86,7 +86,7 @@ Azīzābād	2752	7952	688	0
 Azmatnagar	2718	7992	686	0
 Ajudhīpur	2701	7984	570	0
 Ajmatpur	2708	7999	686	0	Shekhan Purwa
-Azizpur	2698	7922	464	0
+Azizpur	2698	7922	464	0		अज़ीज़पुर
 Nagla Ajit	2679	7923	290	0
 Ajīt ka Adda	2679	7903	290	0
 Ajab ka Nagla	2685	7921	290	0
@@ -190,7 +190,7 @@ Ajmīr	2843	7911	342	0
 Ajronra	2477	7698	336	0
 Ajgari	2600	7510	446	0
 Ajgara	2601	7510	446	0
-Ajrāra	2884	7782	700	0
+Ajrāra	2884	7782	700	0		अजराड़ा
 Muhammadpur Āzampur	2877	7790	756	0
 Āzādnagar	2855	7776	637	0
 Ajītpur	2855	7785	637	0
@@ -652,7 +652,7 @@ Azmatgarh Mājra	2939	7772	545	0
 Ajītpura	2593	7357	273	0
 Ajbāji ka Gūdha	2557	7370	273	0
 Ajmere	3179	7568	296	0
-Ajnāle	2083	7460	190	0
+Ajnāle	2083	7460	190	0		अजनाले
 Ajmer	3199	7576	296	0
 Ajgara	2195	8079	144	0
 Ajipalvādi	2006	7491	113	0

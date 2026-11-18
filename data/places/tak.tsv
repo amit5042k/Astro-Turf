@@ -1,11 +1,11 @@
-Tāki	2259	8893	450	40113
-Thakurdwara	2919	7886	511	39860
-Takkalakote	1553	7688	44	26224	Tekkalakote
-Takhatpur	2213	8187	291	19968
-Thākurganj	2643	8813	510	18348
-Takhatgarh	2532	7300	273	17285
-Takkolam	1302	7973	160	13983
-Takenpur	2599	7828	484	13681	Tekanpur
+Tāki	2259	8893	450	40113		टाकि
+Thakurdwara	2919	7886	511	39860		ठाकुरद्वारा
+Takkalakote	1553	7688	44	26224	Tekkalakote	टेक्कलकोटे
+Takhatpur	2213	8187	291	19968		तखतपुर
+Thākurganj	2643	8813	510	18348		ठाकुरगंज
+Takhatgarh	2532	7300	273	17285		तखतगढ़
+Takkolam	1302	7973	160	13983		तक्कोलम
+Takenpur	2599	7828	484	13681	Tekanpur	टेकनपुर
 Tākalghāt	2092	7895	141	11363
 Tākli	2047	7502	78	10630
 Takali Pr. Chalisgaon	2047	7502	78	10630	Tākli
@@ -15,7 +15,7 @@ Takhar	3116	7577	369	757
 Takya Sangi Reshi	3421	7488	611	254
 Thākurvādi	1884	7337	17	0
 Thākurtolā	2165	8097	509	0
-Thākurmunda	2152	8615	382	0
+Thākurmunda	2152	8615	382	0		ठाकुरमुंडा
 Thākurgarh	2081	8463	414	0
 Thakarda	2371	7395	512	0
 Takwa Budrukh	1881	7361	52	0
@@ -23,8 +23,8 @@ Takwa	1881	7361	52	0	Takwa Budrukh
 Takum	2779	9361	39	0
 Taku	2740	9307	56	0
 Taknera	2488	7746	336	0
-Tākli Dhokeshwar	1916	7438	152	0
-Takali Dhokeshwar	1916	7438	152	0	Tākli Dhokeshwar
+Tākli Dhokeshwar	1916	7438	152	0		टाकली ढोकेश्वर
+Takali Dhokeshwar	1916	7438	152	0	Tākli Dhokeshwar	टाकली ढोकेश्वर
 Tāklibhān	1961	7480	152	0
 Tākli	2007	7524	113	0
 Tākli	1945	7467	152	0
@@ -41,7 +41,7 @@ Tākarkheda	2104	7518	78	0
 Tākārjala	2371	9142	574	0
 Rāja Tākli	1934	7602	53	0
 Pārdi Takmor	2019	7724	128	0
-Ginjo Thākurgaon	2352	8517	562	0
+Ginjo Thākurgaon	2352	8517	562	0		गिंजो ठाकुरगाँव
 Chinna Taki	1822	7754	170	0	Chintāki
 Bārsi Tākli	2058	7707	172	0
 Bālam Tākli	1930	7547	152	0
@@ -105,7 +105,7 @@ Shivni Tāka	1990	7613	49	0
 Tākli	2008	7778	67	0
 Chhapri Thakur	2395	7955	521	0
 Takam	2161	8148	710	0
-Thakhatpur	2214	8188	291	0
+Thakhatpur	2214	8188	291	0		तखतपुर
 Takuamar	2642	9044	746	0
 Takia Rasūl Shah	3441	7467	120	0
 Takia Ahmad Shāh	3441	7470	120	0
@@ -154,7 +154,7 @@ Takhtpura	2517	7462	309	0
 Takipur	3018	7561	593	0
 Nāngal Thākurān	2881	7701	769	0
 Bāzīdpur Thākurān	2881	7700	769	0
-Thakarwāl	3084	7581	674	0
+Thakarwāl	3084	7581	674	0		ठक्करवाल
 Taqīpur	2825	7755	588	0
 Takhtmal	2985	7501	585	0
 Dhāni Thākaria	2906	7594	339	0
@@ -997,7 +997,7 @@ Thakrun	3183	7630	38	0
 Takhtgarh	3113	7651	735	0
 Thākurdwāra	3103	7672	628	0
 Takhān Mazra	3062	7636	648	0
-Taksāl	3085	7696	628	0
+Taksāl	3085	7696	628	0		टकसाल
 Mānakpur Thākur Dās	3080	7689	587	0
 Thākurpāli	2119	8288	407	0
 Sarai Takia	2589	7547	313	0
@@ -1179,7 +1179,7 @@ Thākuran ka Purwa	2522	8052	463	0
 Thākuran ka Purwa	2523	8059	463	0
 Thakuran Purwa	2522	8065	463	0
 Takotte	1303	7505	55	0
-Thakurpukur	2246	8831	123	0
+Thakurpukur	2246	8831	123	0		ठाकुरपुकुर
 Taklapalli	1921	7945	162	0
 Takkekād	1216	7515	305	0
 Takhat Rauza	2500	8553	107	0

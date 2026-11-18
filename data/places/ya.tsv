@@ -1,16 +1,16 @@
-Yamuna Nagar	3013	7728	88	217071
-Yavatmāl	2039	7813	67	128175
-Yadgir	1677	7714	72	74294
-Yanam	1673	8221	87	55626
-Yanaon	1673	8221	87	55626	Yanam
-Yāval	2117	7570	78	36706
-Yanamalakuduru	1649	8067	68	34177
+Yamuna Nagar	3013	7728	88	217071		यमुनानगर
+Yavatmāl	2039	7813	67	128175		यवतमाल
+Yadgir	1677	7714	72	74294		यादगीर
+Yanam	1673	8221	87	55626		यानम
+Yanaon	1673	8221	87	55626	Yanam	यानम
+Yāval	2117	7570	78	36706		यावल
+Yanamalakuduru	1649	8067	68	34177		यनमलकुदुरु
 Yamjāl	1727	7858	62	15689
 Yadagirigutta	1759	7894	129	15232
-Yāripur	3372	7502	35	12123
-Yari Pora	3372	7502	35	12123	Yāripur
-Yamuna Vihar	2870	7727	791	10000
-Yairipok	2468	9405	95	9569
+Yāripur	3372	7502	35	12123		यारीपुरा
+Yari Pora	3372	7502	35	12123	Yāripur	यारीपुरा
+Yamuna Vihar	2870	7727	791	10000		यमुना विहार
+Yairipok	2468	9405	95	9569		याइरिपोक
 Yārāda	1766	8327	81	3406
 Yadahalli	1684	7715	72	0
 Yadpalli	1868	7795	75	0	Yedapalli
@@ -28,7 +28,7 @@ Yaman	2706	9572	73	0	Yanmān
 Yankanchi	1687	7635	80	0	Yenkanchi
 Yāngpa	3161	7803	83	0
 Yangching	2645	9488	84	0
-Yangang	2728	8841	85	0
+Yangang	2728	8841	85	0		यंगांग
 Yandigeri	1613	7549	86	0
 Yamnotri	3101	7840	89	0
 Yamkanmardi	1613	7453	90	0
@@ -37,17 +37,17 @@ Yalvigi	1504	7541	92	0
 Yalong	3352	7690	8	0
 Yalladabāgi	1327	7675	93	0
 Yaliyūr	1251	7682	94	0
-Yaingāngpokpi	2491	9412	96	0
+Yaingāngpokpi	2491	9412	96	0		याइनगांगपोकपी
 Yāgrung	2801	9523	97	0
 Yagati	1361	7615	98	0
 Yādwād	1624	7518	77	0
 Yadiyūr	1297	7686	93	0
 Yadita	1247	9272	99	0
-Yādiki	1505	7787	100	0
+Yādiki	1505	7787	100	0		याडिकी
 Yādgud	1632	7460	77	0
 Yadgarpalli	1683	7958	101	0
 Yadala	1902	7285	106	0	Wadala
-Yangling	3247	7713	425	0	Sissu
+Yangling	3247	7713	425	0	Sissu	सिस्सू
 Yashvantnagar	2053	7839	143	0	Sirpur
 Ni-ya-ko-tsu	3401	7891	2	0	Nyagzu
 Yaksanba	1653	7460	77	0	Eksambe
@@ -99,10 +99,10 @@ Yārpur	2782	7979	470	0
 Yamnūr	1554	7531	682	0
 Yavagal	1570	7552	606	0
 Yāvli	1784	7560	132	0
-Yāpadinne	1538	7777	232	0
+Yāpadinne	1538	7777	232	0		यापदिन्नॆ
 Yalvār	1669	7615	80	0
 Yarpur	2559	8512	604	0
-Yangthang	2728	8824	654	0
+Yangthang	2728	8824	654	0		यांगथंग
 Yāqūbpur	2849	7678	609	0
 Yarīn Baihk	3469	7442	0	0
 Yarnau Nār	3462	7434	0	0
@@ -359,7 +359,7 @@ Yathapālem	1749	8297	227	0
 Yāmarru	1618	8039	319	0
 Mutt yagūda	1855	8214	109	0
 Yāmaliguda	1934	8338	363	0
-Yākamūru	1636	8083	68	0
+Yākamūru	1636	8083	68	0		याकमूरु
 Yapalpādu	1840	8306	408	0
 Yātaganivalasa	1841	8314	199	0
 Yapalapādu	1842	8321	199	0
@@ -551,7 +551,7 @@ Yadadore	1225	7689	74	0
 Yallarti	1548	7713	236	0
 Yālapikaggallu	1512	7706	44	0
 Yālapi	1509	7706	44	0
-Yātakallu	1553	7744	236	0
+Yātakallu	1553	7744	236	0		यातकल्लु
 Yannakandla	1567	7757	236	0
 Yalamakūru	1551	7752	236	0
 Yadakeri	1280	7581	679	0
@@ -601,7 +601,7 @@ Yagāchhia	2602	8768	613	0
 Yakghara	2784	8005	323	0
 Yakghara	2783	8016	323	0
 Raks Mahāl Bāz Yaft	2794	8009	470	0
-Yagnamedu	1255	7942	197	0	Injimedu
+Yagnamedu	1255	7942	197	0	Injimedu	इंजिमेडु
 Yadamari	1316	7904	214	0
 Yakarpalli	1919	7826	408	0
 Yalareddipet	1915	7839	408	0
@@ -634,13 +634,13 @@ Yadmaranhalli	1243	7738	626	0
 Yaragondanahalli	1261	7769	223	0
 Yalachavadi	1261	7756	626	0
 Yaradureddipālaiyam	1253	7773	223	0
-Yāparlapādu	1565	7800	236	0
+Yāparlapādu	1565	7800	236	0		यापर्लपाडु
 Yambāyi	1556	7812	232	0
-Yāgantipalle	1533	7819	232	0
+Yāgantipalle	1533	7819	232	0		यागंटिपल्लॆ
 Yannakondla	1536	7821	232	0
-Yāllūru	1531	7846	232	0
+Yāllūru	1531	7846	232	0		याल्लूरु
 Yaggon	1516	7828	232	0
-Yādavāda	1512	7857	232	0
+Yādavāda	1512	7857	232	0		यादवाड
 Yammanavāllapalle	1407	7892	195	0
 Yanugondavāllapalle	1406	7891	195	0
 Yandapalli	1354	7808	438	0
@@ -694,7 +694,7 @@ Yarihalli	1248	7753	626	0
 Yakkuli	1246	7753	626	0
 Yarangeri	1243	7754	626	0
 Yallupalle	1542	7889	200	0
-Yādavakunta	1448	7831	229	0
+Yādavakunta	1448	7831	229	0		यादवकुंट
 Yandlapalle	1417	7870	195	0
 Yāchāvaram	1570	7901	200	0
 Yadabālavāripalle	1556	7945	200	0
@@ -746,6 +746,6 @@ Yarrammanahalli	1422	7722	93	0
 Yattinahalli	1420	7720	93	0
 Yamkeshwar	2997	7840	612	0
 Yatdam	2713	9569	73	0
-Yachuli	2751	9378	15	0
+Yachuli	2751	9378	15	0		यछुली
 Yazali	2741	9375	15	0
 Yangte	2782	9363	39	0

@@ -1,22 +1,22 @@
-Gorakhpur	2677	8337	325	674246
-Goruckpur	2677	8337	325	674246	Gorakhpur
-Goribidnūr	1361	7752	438	37947	Gauribidanur
-Gorai	1925	7278	207	29107
-Gorantla	1398	7777	444	24586
-Gormi	2660	7851	334	20841
+Gorakhpur	2677	8337	325	674246		गोरखपुर
+Goruckpur	2677	8337	325	674246	Gorakhpur	गोरखपुर
+Goribidnūr	1361	7752	438	37947	Gauribidanur	गौरीबिदनूर
+Gorai	1925	7278	207	29107		गोरई
+Gorantla	1398	7777	444	24586		गोरंटला
+Gormi	2660	7851	334	20841		गोरमी
 Ghorabandha	2277	8627	584	20718
-Gorāya	3112	7577	369	16462
+Gorāya	3112	7577	369	16462		गोराया
 Gorrakunta	1798	7964	249	13159
-Gorakhpur	2945	7567	443	13068
-Goredi Chancha	2693	7434	430	10655	Chāndarun
-Ghoradongri	2212	7800	462	9745
-Ghorāwal	2475	8278	103	7492
-Ghorwal	2475	8278	103	7492	Ghorāwal
-Ghorawul	2475	8278	103	7492	Ghorāwal
-Goregaon	1815	7329	17	7155
-Gorūr	1282	7606	679	6192
+Gorakhpur	2945	7567	443	13068		गोरखपुर
+Goredi Chancha	2693	7434	430	10655	Chāndarun	गोरेड़ी चाचा
+Ghoradongri	2212	7800	462	9745		घोड़ाडोंगरी
+Ghorāwal	2475	8278	103	7492		घोरावल
+Ghorwal	2475	8278	103	7492	Ghorāwal	घोरावल
+Ghorawul	2475	8278	103	7492	Ghorāwal	घोरावल
+Goregaon	1815	7329	17	7155		गोरेगाँव
+Gorūr	1282	7606	679	6192		गोरुर
 No.2 Goreswar	2653	9173	608	5631
-Gorah Salathian	3261	7504	720	4629
+Gorah Salathian	3261	7504	720	4629		गोराह सलथियान
 Gore	2342	8508	562	1376
 Gorsiān Nihāl	3103	7558	369	733
 Gorwa	2233	7316	159	0
@@ -28,12 +28,12 @@ Gorhe	1965	7301	192	0
 Gorah	1965	7301	192	0	Gorhe
 Gorhar	2413	8569	764	0
 Goreghāt	2158	7959	144	0	Heti
-Goregaon	2135	8021	171	0
+Goregaon	2135	8021	171	0		गोरेगाँव
 Goregaon	1993	7703	640	0
 Goraigaon	1993	7703	640	0	Goregaon
 Gordhanpura	2460	7667	506	0
 Goraur	2503	8533	514	0
-Goraul	2594	8533	716	0
+Goraul	2594	8533	716	0		गोरौल
 Gorāu	2744	7423	430	0
 Goras	2553	7695	335	0
 Gorana	2447	7350	22	0
@@ -115,7 +115,7 @@ Ghorabandha	2203	8586	788	0
 Gori Thal	2768	7199	217	0
 Goregaon East	1916	7287	207	0
 Ghorāmāra	2659	9149	555	0
-Goreswar	2653	9173	608	0	Goteswar
+Goreswar	2653	9173	608	0	Goteswar	गोरेश्वर
 Gorāmāri	2635	9229	751	0
 Goria	2313	7192	124	0
 Gorla	2012	8253	594	0
@@ -1062,14 +1062,14 @@ Gorhiāri	2594	8673	657	0
 Goriāri	2570	8658	661	0
 Ghordaur	2571	8661	661	0
 Chhotki Ghordaur	2572	8662	661	0
-Gorantla	1563	7784	236	0
+Gorantla	1563	7784	236	0		गोरंट्ल
 Ghorakhor	2519	8657	538	0
 Ghordāwa	2512	8652	538	0
 Gorgāwān	2510	8665	538	0
 Ghorghāt	2524	8665	411	0
 Goriāwān	2505	8669	605	0
 Gorho	2519	8663	538	0
-Goridindla	1457	7738	100	0
+Goridindla	1457	7738	100	0		गॊरिदिंड्ल
 Bhawānīpur Gor	2599	8675	657	0
 Gorhaila	2593	8685	657	0
 Gorpāra	2564	8686	657	0
@@ -1307,9 +1307,9 @@ Ghorāpāthar	2039	8431	387	0
 Ghoradāmunda	2046	8462	386	0
 Gorudu	2016	8461	440	0
 Gorogodopodoro	2007	8468	440	0
-Goregaon	1916	7285	207	0
-Goregaon East	1916	7285	207	0	Goregaon
-Goregaon West	1916	7285	207	0	Goregaon
+Goregaon	1916	7285	207	0		गोरेगाँव
+Goregaon East	1916	7285	207	0	Goregaon	गोरेगाँव
+Goregaon West	1916	7285	207	0	Goregaon	गोरेगाँव
 Gorewali	2379	6951	108	0
 Gora Bauram	2597	8632	591	0
 Gorumahisani	2234	8627	382	0

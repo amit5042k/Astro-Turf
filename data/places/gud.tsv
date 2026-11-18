@@ -1,22 +1,22 @@
-Gudalur	1176	7977	178	173636	Cuddalore
-Gudivāda	1644	8100	68	118167
-Gudiyatham	1295	7887	189	93973
-Gudiyetram	1295	7887	189	93973	Gudiyatham
-Gudiyetranallur	1295	7887	189	93973	Gudiyatham
-Gūdūr	1415	7985	45	74851
-Gudalur	1152	7648	115	49535
-Gudalur	968	7725	194	47419
-Gūduvāncheri	1285	8006	247	44098
-Nandivaram - Guduvancheri	1285	8006	247	44098	Gūduvāncheri
+Gudalur	1176	7977	178	173636	Cuddalore	कडलूर
+Gudivāda	1644	8100	68	118167		गुडीवाडा
+Gudiyatham	1295	7887	189	93973		गुडियाट्टम
+Gudiyetram	1295	7887	189	93973	Gudiyatham	गुडियाट्टम
+Gudiyetranallur	1295	7887	189	93973	Gudiyatham	गुडियाट्टम
+Gūdūr	1415	7985	45	74851		गूदूर
+Gudalur	1152	7648	115	49535		गुडालूर
+Gudalur	968	7725	194	47419		गूडलूर
+Gūduvāncheri	1285	8006	247	44098		गुडुवंचेरी
+Nandivaram - Guduvancheri	1285	8006	247	44098	Gūduvāncheri	गुडुवंचेरी
 Gūdūr	1594	7591	86	11969
-G. Udayagiri	2012	8437	387	11302	Udayagiri
+G. Udayagiri	2012	8437	387	11302	Udayagiri	जी उदयगिरि
 Gudlavalleru	1635	8105	68	10902
-Gudibanda	1367	7770	438	9441
-Gudāri	1935	8378	363	6931
+Gudibanda	1367	7770	438	9441		गुडिबंडे
+Gudāri	1935	8378	363	6931		गुडारी
 Gūdūr	1749	7882	129	5647
 Totapallo-Guduru	1439	8008	6	0	Totapalligūdūru
-Gūdūru	1578	7781	236	0
-Gudur	1578	7781	236	0	Gūdūru
+Gūdūru	1578	7781	236	0		गुडुरु
+Gudur	1578	7781	236	0	Gūdūru	गुडुरु
 Gudri	2269	8521	287	0
 Gudrāna	2980	7499	585	0	Gadrāna
 Gūdraippattu	1216	7960	202	0
@@ -26,8 +26,8 @@ Gudipalli	1328	7846	47	0
 Gudipalli	1279	7828	214	0
 Gudipalle	1279	7828	214	0	Gudipalli
 Gudimangalam	1070	7728	235	0
-Gudikallu	1574	7748	236	0
-Gudikal	1574	7748	236	0	Gudikallu
+Gudikallu	1574	7748	236	0		गुडिकल
+Gudikal	1574	7748	236	0	Gudikallu	गुडिकल
 Gudhāgaurji	2787	7553	300	0
 Gūdha	2787	7553	300	0	Gudhāgaurji
 Gudha	2678	7667	447	0
@@ -88,7 +88,7 @@ Gudarwās	2862	7504	539	0
 Gudāna	2852	7611	781	0
 Gudho	3131	7721	278	0
 Gudli	2919	7353	374	0
-Ghudduwāla	3070	7456	730	0
+Ghudduwāla	3070	7456	730	0		घुदुवाला
 Gudhārla	3117	7759	479	0
 Gūdag	3078	7748	534	0
 Guddo	2754	7610	121	0
@@ -395,7 +395,7 @@ Gudivāda	1778	8282	227	0
 Gudivāda	1740	8279	227	0
 Gudevāripālem	1604	8017	10	0
 Gūdem	1700	8047	104	0
-Gūdem Mādhavaram	1679	8048	104	0
+Gūdem Mādhavaram	1679	8048	104	0		गूडॆं माधवरं
 Gudiālipadar	1995	8321	284	0
 Gudang	1983	8321	284	0
 Gudpang	1974	8322	284	0
@@ -405,7 +405,7 @@ Gudang	1976	8352	363	0
 Gūdem	1694	8057	46	0
 Gudibāli	1937	8322	363	0
 Gudaghāti	1949	8334	363	0
-Gudūrupādu	1661	8054	104	0
+Gudūrupādu	1661	8054	104	0		गूडूरुपाडु
 Gudivāda	1808	8266	268	0
 Gūda	1813	8266	268	0
 Gudivāda	1628	8062	319	0
@@ -454,7 +454,7 @@ Gudlapalle	1705	8110	24	0
 Pichchikala Gudipādu	1578	8005	220	0
 Gudimellapadu	1554	8007	200	0
 Guddalaguntapālem	1550	8004	200	0
-Gudipūdi	1598	8053	220	0
+Gudipūdi	1598	8053	220	0		गुडिपूड़ी
 Gudlurivāripālem	1424	8003	6	0
 Gudipallipādu	1446	8005	6	0
 Gudandih	2523	8434	377	0
@@ -534,7 +534,7 @@ Gudgūr	1471	7565	92	0
 Guddada Mādāpur	1430	7557	92	0
 Guddatumminakatte	1437	7567	275	0
 Gudihalli	1420	7552	275	0
-Gudibanda	1398	7710	444	0
+Gudibanda	1398	7710	444	0		गुडिबंड
 Guddadahalli	1395	7713	444	0
 Gudamanhalli	1392	7724	444	0
 Guddalapalle	1388	7722	444	0
@@ -546,7 +546,7 @@ Gudipālya	1344	7741	389	0
 Gudipālya	1333	7728	93	0
 Gudadhalli	1314	7746	43	0
 Gudadhalli	1307	7749	43	0
-Gudipalle	1399	7763	444	0
+Gudipalle	1399	7763	444	0		गुडिपल्लॆ
 Guddamnāgepalle	1395	7756	444	0
 Guddampalle	1387	7755	444	0
 Gudampalli	1371	7773	438	0
@@ -624,7 +624,7 @@ Gudavale	1587	7417	57	0
 Gudagonahalli	1266	7687	94	0
 Guddada Koppal	1240	7693	74	0
 Gudi Koppal	1235	7692	74	0
-Gudikambāli	1592	7710	236	0
+Gudikambāli	1592	7710	236	0		गुडिकुंबलि
 Guddadahosahalli	1568	7720	236	0
 Gudisingapparālla	1531	7765	236	0
 Gudi Elgulapalli	1848	7905	579	0
@@ -633,8 +633,8 @@ Gudugalale	1272	7589	193	0
 Gūdimursu	1591	7787	306	0
 Gudipādu	1577	7785	236	0
 Gudampādu	1551	7782	236	0
-Gudipādu	1518	7777	232	0
-Gudipādu	1510	7799	100	0
+Gudipādu	1518	7777	232	0		गुडिपाडु
+Gudipādu	1510	7799	100	0		गुडिपाडु
 Guddella	1442	7716	100	0
 Guddenhalli	1243	7598	74	0
 Gudevādi	1595	7428	57	0
@@ -670,7 +670,7 @@ Gudiboingudem	1674	7978	250	0
 Gudibanda	1659	7998	10	0
 Middela Gudi	1613	7886	232	0
 Gudakkarai	1139	7726	211	0
-Gudamalani	2519	7171	285	0
+Gudamalani	2519	7171	285	0		गुड़ामालानी
 Gudipalli	1373	7795	438	0
 Gudihalli	1344	7784	438	0
 Gudamanhalli	1328	7776	389	0
@@ -683,8 +683,8 @@ Gudimau	1287	7746	43	0
 Gudipālya	1279	7748	43	0
 Guddanhalli	1269	7773	43	0
 Gudipādu	1573	7824	232	0
-Gūdemcherūvu	1482	7837	229	0
-Gudipādu	1482	7868	229	0
+Gūdemcherūvu	1482	7837	229	0		गूडॆंचॆरुवु
+Gudipādu	1482	7868	229	0		गुडिपाडु
 Guddalagattapalle	1499	7802	100	0
 Gūdamākulapalle	1409	7806	444	0
 Gūdūru	1449	7882	229	0
@@ -771,7 +771,7 @@ Gudalhatti	1134	7670	115	0
 Gudalhatti	1133	7670	115	0
 Gūdalūr	1128	7695	156	0
 Gudiyūr	1118	7685	156	0
-Gūdalūr	1115	7694	156	0
+Gūdalūr	1115	7694	156	0		गुडालूर
 Gudiyūr	1176	7723	211	0
 Gūdalūr	1185	7746	277	0
 Gudalūr	1154	7799	51	0
@@ -854,7 +854,7 @@ Gudibandha	2011	8458	440	0
 Gudipalli	2005	8461	440	0
 Guda Balotan	2534	7287	343	0
 Gudur	1622	8108	68	0
-Chinna Gudur	1751	7988	762	0
+Chinna Gudur	1751	7988	762	0		चिन्नागूडूर
 Kannai Gudem	1852	8034	226	0
 Gudūr	1750	7988	408	0
 Gudāwal	2397	7811	215	0

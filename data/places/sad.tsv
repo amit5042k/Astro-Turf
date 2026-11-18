@@ -1,22 +1,22 @@
-Sadulgarh	2958	7433	486	155687	Hanumāngarh
-Ambala Sadar	3034	7686	691	104974
-Sādatpur Gujran	2873	7725	791	97641
-Sadulpur	2864	7539	539	59193	Rājgarh
+Sadulgarh	2958	7433	486	155687	Hanumāngarh	हनुमानगढ़
+Ambala Sadar	3034	7686	691	104974		अम्बाला सदर
+Sādatpur Gujran	2873	7725	791	97641		भारत पुर गुजरान
+Sadulpur	2864	7539	539	59193	Rājgarh	राजगढ़
 Sadasivpet	1762	7795	31	47920
 Sadāseopet	1762	7795	31	47920	Sadasivpet
-Sadābād	2744	7804	670	36093
+Sadābād	2744	7804	670	36093		सादाबाद
 Sādpalli	1721	8084	46	31857
-Sādri	2519	7345	273	27390
-Sadulshahar	2991	7418	374	24980
-Sadalgi	1656	7453	77	23790
-Sadalga	1656	7453	77	23790	Sadalgi
-Shādīpur Julāna	2912	7641	367	18755
-Julāna Shādipur	2912	7641	367	18755	Shādīpur Julāna
-Chhoti Sādri	2438	7470	633	18360
-Bari Sādri	2441	7447	417	15713
-Sādhaura	3039	7722	88	14818
-Sādāt	2567	8330	26	11211
-Manglaya Sadak	2281	7593	660	10393	Mānglya
+Sādri	2519	7345	273	27390		सादडी
+Sadulshahar	2991	7418	374	24980		सादुलशहर
+Sadalgi	1656	7453	77	23790		सदलगा
+Sadalga	1656	7453	77	23790	Sadalgi	सदलगा
+Shādīpur Julāna	2912	7641	367	18755		जुलाना
+Julāna Shādipur	2912	7641	367	18755	Shādīpur Julāna	जुलाना
+Chhoti Sādri	2438	7470	633	18360		छोटी सादड़ी
+Bari Sādri	2441	7447	417	15713		बड़ी सादड़ी
+Sādhaura	3039	7722	88	14818		साढौरा
+Sādāt	2567	8330	26	11211		सादात
+Manglaya Sadak	2281	7593	660	10393	Mānglya	मंगलया सड़क
 Sad	2561	7825	436	3340
 Chak Sadat	2267	8807	354	2940
 Sadipara	2268	8813	354	644
@@ -32,11 +32,11 @@ Sadulleganj	2818	7942	342	0	Sādullāhganj
 Sadipur	2744	8113	507	0
 Sadrpur	2744	8113	507	0	Sadipur
 Sādri	2501	7407	572	0
-Sadras	1252	8016	247	0
-Sadurangapattinam	1252	8016	247	0	Sadras
+Sadras	1252	8016	247	0		सद्रस
+Sadurangapattinam	1252	8016	247	0	Sadras	सद्रस
 Sādra	2334	7273	276	0
 Sadolai	2862	7327	307	0
-Sadiya	2783	9567	460	0
+Sadiya	2783	9567	460	0		सादिया
 Sādisopur	2556	8491	604	0
 Sādik	3071	7458	730	0
 Sādingia	2033	8395	387	0
@@ -71,7 +71,7 @@ Sadwāniān	3410	7398	301	0
 Sadīnagor Tongia	3018	7789	783	0	Sodīnagar Tongia
 Zainpur Sādān	2992	7707	457	0
 Garhi Sādān	2991	7703	457	0
-Shadnagar	1706	7821	62	0
+Shadnagar	1706	7821	62	0		शादनगर
 Sadullānagar	1768	7821	31	0
 Sadaiyankuppam	1318	8029	204	0
 SadashivaNagar	1301	7758	43	0
@@ -199,7 +199,7 @@ Sādpur	2933	7783	545	0
 Bera Sādāt	2941	7794	545	0
 Sādīpurkhera	2898	7704	485	0
 Sādhnagar	2859	7709	763	0
-Shādipur	2865	7716	771	0
+Shādipur	2865	7716	771	0		शादी पुर
 Sadr Bāzār	2866	7721	732	0
 Sādullāhābād	2875	7728	727	0
 Sādatpur	2872	7727	791	0
@@ -253,7 +253,7 @@ Sadarpur	3026	7619	564	0
 Shādīpur	3011	7624	638	0
 Sadhari Mājra	3081	7643	648	0
 Bora Sadhūpur	3081	7642	648	0
-Shādīpur	3076	7643	648	0
+Shādīpur	3076	7643	648	0		शादीपुर
 Chhota Sadhūpur	3081	7641	648	0
 Sadnauli	3049	7629	564	0
 Shādipur	3026	7648	564	0

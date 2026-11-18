@@ -1,19 +1,19 @@
-Guntur	1630	8046	319	670073
-Gundupālaiyam	1194	7980	196	300104
-Guna	2465	7731	336	180935
-Guntakal	1517	7736	100	126270
-Guntakai	1517	7736	100	126270	Guntakal
-Guntakal Junction	1517	7736	100	126270	Guntakal
-Gunupur	1908	8381	363	28870
-Gundlupēt	1181	7669	69	28105
-Gundalpet	1181	7669	69	28105	Gundlupēt
-Gunnaur	2824	7844	646	20980
+Guntur	1630	8046	319	670073		गुंटूर
+Gundupālaiyam	1194	7980	196	300104		उलवंकरै
+Guna	2465	7731	336	180935		गुना
+Guntakal	1517	7736	100	126270		गुंटकल
+Guntakai	1517	7736	100	126270	Guntakal	गुंटकल
+Guntakal Junction	1517	7736	100	126270	Guntakal	गुंटकल
+Gunupur	1908	8381	363	28870		गुनुपुर
+Gundlupēt	1181	7669	69	28105		गुंदलुपेट
+Gundalpet	1181	7669	69	28105	Gundlupēt	गुंदलुपेट
+Gunnaur	2824	7844	646	20980		गुन्नौर
 Guntur	1800	7964	61	13183
 Guntupalle	1657	8055	104	11187
-Gundardehi	2095	8129	668	8614
-Gunderdehi	2095	8129	668	8614	Gundardehi
+Gundardehi	2095	8129	668	8614		गुण्डरदेही
+Gunderdehi	2095	8129	668	8614	Gundardehi	गुण्डरदेही
 Gunduuppalavadi	1177	7978	178	7281	Uppalavādi
-Gunghasa	2386	8618	401	6845
+Gunghasa	2386	8618	401	6845		गुनघसा
 Gunpuram	1861	7819	75	5182
 Gundrāmpalli	1723	7899	101	0
 Ghunwāra	2414	8063	324	0
@@ -32,7 +32,7 @@ Gundūsar	2762	7412	539	0
 Gundugolanu	1678	8123	24	0
 Gundribādi	2027	8470	440	0
 Gundmāl	1689	7771	283	0
-Gundlakonda	1548	7765	236	0
+Gundlakonda	1548	7765	236	0		गुंड्लकोण्ड
 Gundlabrāhmeswaram	1567	7875	232	0
 Gundipet	1738	7832	62	0
 Gundiāli	2284	6942	108	0
@@ -60,7 +60,7 @@ Ghund	3108	7743	479	0
 Ghunaki	1689	7429	57	0
 Ghunki	1689	7429	57	0	Ghunaki
 Ghunada	2269	7063	147	0
-Gunge	3064	7885	500	0	Gangi
+Gunge	3064	7885	500	0	Gangi	गंगी
 Ghunj	2252	8892	450	0
 Gundār	3429	7489	595	0
 Gundrandar	3429	7486	595	0
@@ -143,7 +143,7 @@ Gunjanyān	2460	7925	663	0
 Gunjehalli	1604	7741	50	0
 Gunpatipula Wari	1715	7327	234	0
 Gundukallu	1351	7498	257	0
-Gundlakunta	1496	7841	229	0
+Gundlakunta	1496	7841	229	0		गुंड्लकुंट
 Gunasvel	2093	7318	139	0
 Gunsari	2211	8193	291	0
 Gunji	3018	8086	508	0
@@ -571,7 +571,7 @@ Ghunchapāli	2101	8220	407	0
 Gundardehi	2100	8211	297	0
 Gunchapāli	2102	8239	407	0
 Gundwa	2719	8060	686	0
-Guna Chaur	3115	7598	295	0
+Guna Chaur	3115	7598	295	0		गुनाचौर
 Gunhāl	3336	7622	34	0
 Gungiās	3287	7613	362	0
 Guniāni	3284	7609	362	0
@@ -847,7 +847,7 @@ Guntalāpalle	1413	7773	444	0
 Gunjāpalle	1460	7782	100	0
 Gundagatti	1442	7544	92	0
 Gunjāpalle	1438	7795	444	0
-Gūnipalle	1428	7790	444	0
+Gūnipalle	1428	7790	444	0		गुनिपल्लॆ
 Guntapalle	1400	7775	444	0
 Guntapalle	1401	7785	444	0
 Guntāpura	1419	7529	346	0
@@ -944,8 +944,8 @@ Gunnāyakanahalli	1261	7683	94	0
 Gundinahalli	1269	7700	94	0
 Gundravali	1596	7744	50	0
 Gundāla Tānda	1521	7746	100	0
-Gundāla	1518	7748	100	0
-Gundrevula	1588	7770	236	0
+Gundāla	1518	7748	100	0		गुंडाल
+Gundrevula	1588	7770	236	0		गुंड्रेवुल
 Gundamrālla	1549	7766	236	0
 Gundāla	1535	7772	232	0
 Gunnducheruvupalli	1831	7917	579	0
@@ -1014,13 +1014,13 @@ Gundāpuram	1214	7725	69	0
 Gungarhalli	1282	7729	626	0
 Gundāpura	1242	7725	94	0
 Gundāpuram	1201	7735	69	0
-Guntanāla	1538	7838	232	0
-Gundupāpāla	1533	7838	232	0
+Guntanāla	1538	7838	232	0		गुंतनाल
+Gundupāpāla	1533	7838	232	0		गुंडुपापल
 Gunzalapādu	1519	7830	232	0
 Guntapalle	1523	7894	200	0
 Gunakanapalle	1445	7812	229	0
 Guntapalle	1490	7897	229	0
-Gundāpuram	1481	7898	229	0
+Gundāpuram	1481	7898	229	0		गुंडापुरं
 Gundlamūla	1446	7894	229	0
 Gunnikuntla	1400	7879	195	0
 Gundlavāndlapalle	1402	7879	195	0
@@ -1086,7 +1086,7 @@ Gundupatti	1234	7834	223	0
 Gundrendi	1258	7887	197	0
 Gundamcherla	1579	7912	200	0
 Gunduvalam	1230	7770	223	0
-Gundlamadugu	1448	7826	229	0
+Gundlamadugu	1448	7826	229	0		गुंड्लमडुगु
 Gundlapalle	1440	7838	229	0
 Gunduvāripalle	1427	7832	444	0
 Gundamuvāndlapalle	1421	7834	444	0

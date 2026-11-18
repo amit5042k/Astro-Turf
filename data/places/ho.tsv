@@ -1,37 +1,37 @@
-Howrah	2258	8832	354	1027672
-Hosūr	1274	7783	223	229528
-Hosapete	1527	7639	366	206167
-Hospet	1527	7639	366	206167	Hosapete
-Hoshiārpur	3154	7591	296	168653
-Hoshiārpur Railroad Station	3154	7591	296	168653	Hoshiārpur
-Hoshangābād	2275	7773	590	117988	Narmadapuram
-Hoskote	1307	7780	389	56980
-Hosakote	1307	7780	389	56980	Hoskote
-Hodal	2789	7737	754	50143
+Howrah	2258	8832	354	1027672		हावड़ा
+Hosūr	1274	7783	223	229528		होसूर
+Hosapete	1527	7639	366	206167		होसपेट
+Hospet	1527	7639	366	206167	Hosapete	होसपेट
+Hoshiārpur	3154	7591	296	168653		होशियारपुर
+Hoshiārpur Railroad Station	3154	7591	296	168653	Hoshiārpur	होशियारपुर
+Hoshangābād	2275	7773	590	117988	Narmadapuram	नर्मदापुरम
+Hoskote	1307	7780	389	56980		होसकोटे
+Hosakote	1307	7780	389	56980	Hoskote	होसकोटे
+Hodal	2789	7737	754	50143		होडल
 Bail-Hongal	1581	7486	77	49182
-Homnābād	1777	7713	170	44483
-Hominabad	1777	7713	170	44483	Homnābād
-Hojāi	2600	9286	706	36869
-Hōjāl	2600	9286	706	36869	Hojāi
-Holenarasipura	1279	7624	679	29974
-Hole Narsipur	1279	7624	679	29974	Holenarasipura
+Homnābād	1777	7713	170	44483		हुमनाबाद
+Hominabad	1777	7713	170	44483	Homnābād	हुमनाबाद
+Hojāi	2600	9286	706	36869		होजाई
+Hōjāl	2600	9286	706	36869	Hojāi	होजाई
+Holenarasipura	1279	7624	679	29974		होले नरसीपुर
+Hole Narsipur	1279	7624	679	29974	Holenarasipura	होले नरसीपुर
 Hosadurga	1380	7628	255	28370
 Hosdurga	1380	7628	255	28370	Hosadurga
-Honnavar	1428	7444	59	19109
-Honore	1428	7444	59	19109	Honnavar
-Howli	2642	9098	358	18301
-Honnāli	1424	7565	275	17928
-Holalkere	1404	7618	255	15783
-Hosakote	1428	7717	93	11692
-Horu Khunma	2702	9557	397	10187	Khonsa
-Chandan Hola	2847	7718	778	6780
-Hosanagara	1391	7507	346	5839
+Honnavar	1428	7444	59	19109		होन्नावर
+Honore	1428	7444	59	19109	Honnavar	होन्नावर
+Howli	2642	9098	358	18301		हाउली
+Honnāli	1424	7565	275	17928		होन्नाली
+Holalkere	1404	7618	255	15783		होललकेरे
+Hosakote	1428	7717	93	11692		वाए एन होसकोटे
+Horu Khunma	2702	9557	397	10187	Khonsa	खोन्सा
+Chandan Hola	2847	7718	778	6780		चन्दन होला
+Hosanagara	1391	7507	346	5839		होसनगर
 Howraghat	2611	9303	405	5443
 Hosabettu	1272	7489	305	5179	Hēsabettu
 Pataliputra Housing Colony	2563	8511	604	3531
 Hosangadi	1370	7495	257	2609
 Hoda	2413	7233	134	2098
-Howrah Salkia	2258	8835	123	0	Salkhia
+Howrah Salkia	2258	8835	123	0	Salkhia	सालकिया
 Parliament House, Delhi	2864	7722	732	0	Pahār Ganj
 Mattai-ta-hoe	798	9357	79	0
 Koi-hōa	820	9348	79	0
@@ -39,7 +39,7 @@ Kenchamman Hoskota	1286	7586	679	0
 Kenchammana Hoskote	1286	7586	679	0	Kenchamman Hoskota
 Hoskota	1286	7586	679	0	Kenchamman Hoskota
 Howāng	2594	9340	405	0
-Hotgi	1759	7598	132	0
+Hotgi	1759	7598	132	0		होटगी
 Hosūru	1538	7746	236	0
 Hosūru	1358	7744	438	0
 Hosur	1465	7510	92	0
@@ -102,7 +102,7 @@ Holāspura	2529	7553	353	0
 Holi	2986	7868	612	0
 Hosakerahalli	1292	7753	43	0
 Central Silk Board Hosur Road	1292	7762	43	0
-Bommanahalli, Hosur Road	1291	7763	43	0
+Bommanahalli, Hosur Road	1291	7763	43	0		बोम्मनहल्ली
 Garvi Bhavi Palya Hosur Road	1290	7764	43	0
 Kudlu Gate Hosur Road	1289	7764	43	0
 Hosa Road	1287	7765	43	0
@@ -153,15 +153,15 @@ Holdār	3075	7765	534	0
 Hondāri	3068	7773	534	0
 Homīra Ka Bās	2798	7689	482	0
 Hora	3069	7786	448	0
-Bhoda Hoshnāk	2935	7560	443	0
+Bhoda Hoshnāk	2935	7560	443	0		भोडा होशनाक
 Hodāyali	2653	7619	708	0
 Hotnāpur	2333	7859	338	0
 Hoshangpur	2952	7724	328	0
 Hoshiārpur	2956	7766	545	0
 Hodla Khurd	3006	7558	709	0	Jassarwāla
 Hodla Kalān	3005	7561	709	0
-Holambi Khurd	2880	7710	769	0
-Holambi Kalān	2880	7710	769	0
+Holambi Khurd	2880	7710	769	0		होलाम्बी खुर्द
+Holambi Kalān	2880	7710	769	0		होलम्बी कलां
 Hoshiārpur	2858	7737	588	0
 Hod	3326	7626	34	0
 Homte	3163	7802	83	0
@@ -231,7 +231,7 @@ Hor Purwa	2699	7992	570	0
 Holepur	2691	7990	570	0
 Holpur	2569	8225	32	0
 Holāpura	2682	7821	478	0
-Holīpura	2690	7852	546	0
+Holīpura	2690	7852	546	0		होली पुरा
 Hora	2295	7793	675	0
 Horiapipar	2267	7784	590	0
 Holīpur	2553	8327	26	0
@@ -1316,7 +1316,7 @@ Horil Bigha	2517	8528	514	0
 Horil Bigha	2523	8540	514	0
 Ambil Hol	2086	7577	78	0
 Hol	2085	7580	78	0
-Howraghat	2609	9314	405	0
+Howraghat	2609	9314	405	0		हावड़ाघाट
 Hosur	1351	7795	438	0
 Hosakadarenhalli	1347	7784	438	0
 Hoshalli	1346	7785	438	0
@@ -1427,7 +1427,7 @@ Hosapuram	1257	7768	223	0
 Hospet	1259	7763	223	0
 Hosūr	1204	7759	69	0
 Hosahola	1203	7758	69	0
-Hotramāndinne	1521	7823	232	0
+Hotramāndinne	1521	7823	232	0		होत्रमनदिन्नॆ
 Hosahūdya	1370	7810	438	0
 Hosahūdya	1364	7806	438	0
 Hossahalli	1329	7819	47	0

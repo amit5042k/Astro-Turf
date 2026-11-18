@@ -1,19 +1,19 @@
-Dabwāli	2995	7474	585	62113
-Dabra	2589	7833	484	61277
-Talegaon Dābhāde	1874	7368	52	56435
-Dabhade	1874	7368	52	56435	Talegaon Dābhāde
-Talegaon-Dabhada	1874	7368	52	56435	Talegaon Dābhāde
-Dabhoi	2218	7343	159	56253
-Mandi Dabwāli	2997	7470	585	52873
-Mandi Dabwal	2997	7470	585	52873	Mandi Dabwāli
+Dabwāli	2995	7474	585	62113		मंडी डबवाली
+Dabra	2589	7833	484	61277		डबरा
+Talegaon Dābhāde	1874	7368	52	56435		तलेगाँव दाभाड़े
+Dabhade	1874	7368	52	56435	Talegaon Dābhāde	तलेगाँव दाभाड़े
+Talegaon-Dabhada	1874	7368	52	56435	Talegaon Dābhāde	तलेगाँव दाभाड़े
+Dabhoi	2218	7343	159	56253		दभोई
+Mandi Dabwāli	2997	7470	585	52873		मंडी डबवाली
+Mandi Dabwal	2997	7470	585	52873	Mandi Dabwāli	मंडी डबवाली
 Dabhel	2041	7288	760	52578
-Daboh	2600	7888	334	18298
-Dābhol	1759	7318	234	9142
+Daboh	2600	7888	334	18298		दबोह
+Dābhol	1759	7318	234	9142		दाभोल
 Dabra	2178	8308	402	7854
-Dabolim	1540	7386	102	6700
-Saidpur Dabra	2532	8718	411	0
-Nām Dabakā	2610	9285	706	0
-Dabaka	2610	9285	706	0	Nām Dabakā
+Dabolim	1540	7386	102	6700		दाबोलीम
+Saidpur Dabra	2532	8718	411	0		सैदपुर-डबरा
+Nām Dabakā	2610	9285	706	0		डबका
+Dabaka	2610	9285	706	0	Nām Dabakā	डबका
 Dōb Dabyan	3356	7494	35	0
 Dhablān	3033	7628	564	0
 Dhābla Dhīr	2335	7696	320	0
@@ -22,8 +22,8 @@ Dhābān	2988	7451	486	0
 Dhābān	2954	7391	486	0
 Dhabai	2443	8232	631	0
 Dhāba	2902	7330	374	0
-Dhāb	2458	8576	473	0
-Dabnundpoor	2293	8837	279	0	Devanandapur
+Dhāb	2458	8576	473	0		ढाब
+Dabnundpoor	2293	8837	279	0	Devanandapur	देवानन्दपुर
 Dābugām	1946	8241	349	0
 Dabri	2666	7024	217	0
 Dabri Pār	2666	7024	217	0	Dabri
@@ -44,7 +44,7 @@ Dābhel	2104	7295	221	0
 Dabhaura	2512	8130	516	0
 Dabhadi	2155	7445	186	0
 Dābhādi	2004	7573	53	0
-Dābha	2320	7310	125	0
+Dābha	2320	7310	125	0		डाभा
 Dābha	1962	7964	111	0
 Dabem	1556	7411	188	0
 Dabathua	2908	7762	700	0
@@ -227,9 +227,9 @@ Dabrio	2429	7382	22	0
 Dābri	2494	7624	371	0
 Dābki	2960	7797	596	0
 Dābki Kalān	2974	7799	596	0
-Sultānpur Dabās	2877	7704	769	0
+Sultānpur Dabās	2877	7704	769	0		सुल्तान पुर डाबस
 Dāba	3087	7589	674	0
-Dābri	2861	7709	763	0
+Dābri	2861	7709	763	0		डाबड़ी
 Dabwa	2839	7727	774	0
 Dabāna	2884	7750	727	0
 Mahluddinpur Dhabārsi	2871	7758	727	0
@@ -242,7 +242,7 @@ Dābian ka Khera	2450	7423	22	0
 Dābri	2710	7574	121	0
 Dābla Chānda	2567	7504	309	0
 Dābra	2910	7576	339	0
-Dabāni	2462	7262	23	0
+Dabāni	2462	7262	23	0		डबाणी
 Dhābīān Gūjrān	2981	7613	564	0
 Dhābīān Tek Singhwāla	2975	7606	367	0
 Dablāin	2958	7607	367	0
@@ -435,13 +435,13 @@ Dhabrai	2415	8073	324	0
 Dabheri Khurd	2947	7716	328	0
 Dabheri Khurd	2946	7718	328	0
 Dābha	2472	8296	103	0
-Dhāb Dhāni	2864	7588	431	0
+Dhāb Dhāni	2864	7588	431	0		ढाब ढाणी
 Kharka Dābar	2511	8201	607	0
 Dabhiā	2563	8241	32	0
 Dabathua	2552	8276	251	0
 Dābauda Kalān	2868	7684	609	0
 Dābauda Khurd	2866	7682	609	0
-Khera Dābar	2858	7694	763	0
+Khera Dābar	2858	7694	763	0		खेड़ा डाबर
 Dhabaoli	2455	8231	672	0
 Dablu Purwa	2761	8154	294	0
 Dabki Purwa	2694	8107	30	0
@@ -558,7 +558,7 @@ Duma da Bāsa	3241	7593	362	0
 Jattān da Bāsa	3240	7595	362	0
 Bahi da Bāgh	3241	7594	362	0
 Dabli	2063	7448	54	0
-Dabhadi	2055	7446	54	0
+Dabhadi	2055	7446	54	0		दाभाड़ी
 Dhabli	2281	7591	660	0
 Dābar	2207	7590	329	0
 Dhābkhānia	2184	7538	329	0
@@ -903,5 +903,5 @@ Dhabtola	2121	8409	567	0
 Dābenipānga	2044	8401	387	0
 Dābni	2032	8427	387	0
 Daborodan	2085	8499	414	0
-Dabhoi	2213	7342	159	0
+Dabhoi	2213	7342	159	0		दभोई
 Dābar	2663	7623	708	0

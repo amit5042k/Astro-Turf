@@ -1,5 +1,5 @@
-Karur	1096	7808	445	234191
-Karumattampatti	1111	7718	156	35062
+Karur	1096	7808	445	234191		करूर
+Karumattampatti	1111	7718	156	35062		करूमधमपट्टी
 Karumālūr	1013	7628	176	29805
 Karuva	895	7660	549	25432
 Karungappalli	910	7654	549	25336
@@ -7,17 +7,17 @@ Karunāgapalli	910	7654	549	25336	Karungappalli
 Karunagappally	910	7654	549	25336	Karungappalli
 Karumāndi Chellipālaiyam	1130	7759	211	23868
 Karuvanthuruthy	1117	7582	262	21952
-Khārupatia	2652	9215	747	18599
-Kharupatia Ghat	2652	9215	747	18599	Khārupatia
-Karuppur	1172	7809	51	13967
+Khārupatia	2652	9215	747	18599		खारुपेटिया
+Kharupatia Ghat	2652	9215	747	18599	Khārupatia	खारुपेटिया
+Karuppur	1172	7809	51	13967		करुप्पूर
 Karuvellūr	1218	7519	266	13498
-Karunguli	1253	7990	247	12485
-Karunguzhi	1253	7990	247	12485	Karunguli
+Karunguli	1253	7990	247	12485		करुंगुड़ी
+Karunguzhi	1253	7990	247	12485	Karunguli	करुंगुड़ी
 Karukkalvādi	1167	7801	51	12052
 Karumbākkam	1270	8009	247	11992
-Karugampattur	1293	7911	189	6343
-Karūr	1503	7739	100	0	Wajrakarūr
-Karūru	1503	7739	100	0	Wajrakarūr
+Karugampattur	1293	7911	189	6343		करुगमपत्तूर
+Karūr	1503	7739	100	0	Wajrakarūr	वज्रकरूर
+Karūru	1503	7739	100	0	Wajrakarūr	वज्रकरूर
 Kharupāni	2021	8249	594	0
 Khārua	2362	7548	568	0
 Kharu	3468	7730	2	0
@@ -39,7 +39,7 @@ Karukachal	950	7663	271	0
 Hachal Karuk l	950	7663	271	0	Karukachal
 Kārui Bari	2523	7442	309	0
 Karui	2523	7442	309	0	Kārui Bari
-Karu	3392	7774	2	0
+Karu	3392	7774	2	0		कारू
 Karru	2909	7395	374	0
 Karūmuddīnpur	2569	8386	26	0	Karīmuddīnpur
 Karuwāsar	2836	7498	539	0
@@ -182,7 +182,7 @@ Karuwa	2584	8597	138	0
 Kharuwa	2459	8512	118	0
 Kharua	2488	8531	118	0
 Karuwāra	2571	8643	759	0
-Kārumanchi	1560	7746	236	0
+Kārumanchi	1560	7746	236	0		कारुमंचि
 Karuwa	2576	8653	661	0
 Karua	2553	8666	759	0
 Kārugodu	1298	7577	679	0
@@ -618,7 +618,7 @@ Karuāpathal	2445	8642	524	0
 Karunāpāli	2076	8428	386	0
 Karungapadar	2028	8459	548	0
 Kharui	2240	8791	559	0
-Karunāgapalli	905	7653	549	0
+Karunāgapalli	905	7653	549	0		करुनागप्पल्ली
 Karukkampālaiyam	1109	7781	211	0
 Karuppūr	1080	7969	267	0
 Karuppūr	1101	7954	203	0

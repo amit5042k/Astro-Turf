@@ -1,6 +1,6 @@
-Subathu	3097	7699	628	6691	Sabāthu
-Subulia	2090	8417	308	5072
-Subalaya	2090	8417	308	5072	Subulia
+Subathu	3097	7699	628	6691	Sabāthu	सबाथू
+Subulia	2090	8417	308	5072		सुबलया
+Subalaya	2090	8417	308	5072	Subulia	सुबलया
 Subrahmanya	1267	7561	55	0
 Sūbedārganj	2543	8180	607	0
 Subarnagiri	1983	8386	387	0
@@ -9,7 +9,7 @@ Subāna	2847	7657	609	0
 Sūbānāh	2847	7657	609	0	Subāna
 Subzi Mundi	2867	7721	732	0	Sabzi Mandi
 Sub-tahsil	3072	7517	499	0	Chirak
-South Suburban	2250	8828	4	0	Behāla
+South Suburban	2250	8828	4	0	Behāla	बेहाला
 Shekh Subhān	3035	7426	3	0	Arniwāla
 Chak Subhān Mīr	3462	7507	547	0
 Chak Subhān Mīr	3461	7506	120	0
@@ -352,7 +352,7 @@ Subbārāopeta	1782	8091	60	0
 Subrāyangūdem	1713	8095	24	0
 Subbaraydupālem	1766	8265	227	0
 Subhadrayyammapeta	1742	8251	269	0
-Subbāyagūdem	1687	8026	104	0
+Subbāyagūdem	1687	8026	104	0		सुब्बारायगूडॆं
 Sūbai	1912	8371	363	0
 Subhadra	1864	8346	199	0
 Subhadrammavalasa	1887	8356	199	0
@@ -389,7 +389,7 @@ Subri	2441	8456	118	0
 Subbayapālem	1617	7992	10	0
 Subhahittanhobli	1386	7498	346	0
 Subbarāopeta	1423	7754	444	0
-Subbarāopeta	1446	7778	444	0
+Subbarāopeta	1446	7778	444	0		सुब्बारावुपेट
 Subbanāyānipalle	1406	7778	444	0
 Subbegowdanpālya	1300	7718	626	0
 Subbarāyanipalle	1387	7748	444	0
@@ -528,6 +528,6 @@ Subulia	2074	8435	386	0
 Subulia	2071	8439	386	0
 Subankhol	2042	8425	387	0
 Subulia	2032	8449	387	0
-Subir	2093	7378	169	0
+Subir	2093	7378	169	0		सुबीर
 Pura Subadār	2622	8138	681	0
 Subarnāpur	2086	8418	386	0

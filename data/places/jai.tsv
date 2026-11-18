@@ -1,26 +1,26 @@
-Jaipur	2692	7579	121	3046163
-Jainagar	2692	7579	121	3046163	Jaipur
-Jaipur City	2692	7579	121	3046163	Jaipur
-Jaigaon	2685	8938	752	158664
-Jaisalmer	2692	7090	217	67604
-Jaitpur	2851	7733	705	59330
-Jaisingpur	1678	7455	57	48510
-Jaito	3045	7489	730	37377
-Jaitu	3045	7489	730	37377	Jaito
-Zaidpur	2683	8133	30	33397
-Jāigaon	2105	7653	49	28276	Jalgaon Jamod
-Jais	2626	8155	662	25726
-Jaitāran	2620	7394	273	22621
-Jainagar	2659	8614	556	21782
+Jaipur	2692	7579	121	3046163		जयपुर
+Jainagar	2692	7579	121	3046163	Jaipur	जयपुर
+Jaipur City	2692	7579	121	3046163	Jaipur	जयपुर
+Jaigaon	2685	8938	752	158664		जयगाँव
+Jaisalmer	2692	7090	217	67604		जैसलमेर
+Jaitpur	2851	7733	705	59330		जैत पुर
+Jaisingpur	1678	7455	57	48510		जयसिंहपुर
+Jaito	3045	7489	730	37377		जैतो
+Jaitu	3045	7489	730	37377	Jaito	जैतो
+Zaidpur	2683	8133	30	33397		ज़ैदपुर
+Jāigaon	2105	7653	49	28276	Jalgaon Jamod	जलगाँव जामोद
+Jais	2626	8155	662	25726		जायस
+Jaitāran	2620	7394	273	22621		जैतारण
+Jainagar	2659	8614	556	21782		जयनगर
 Jaitpur	2183	7564	329	11835	Partābpur
-Jainpur	2615	8334	498	11674
+Jainpur	2615	8334	498	11674		जीयनपुर
 Jaitwāri	2472	8086	324	9685
-Jaithari	2304	8180	225	8396
+Jaithari	2304	8180	225	8396		जैतहरी
 Jaithāri	2321	7861	338	8386
 Jaisinghnagar	2369	8139	634	8233
 Jaijepur	2183	8282	402	7946
 Jairampur	2729	9604	73	7151	Taipi Duidam
-Jainagar	2366	8532	391	5347
+Jainagar	2366	8532	391	5347		जयनगर
 Zainābād	2329	7177	28	0
 Zainābād	2130	7623	29	0
 Jaipur	2458	8685	605	0	Jaypur
@@ -39,11 +39,11 @@ Jaitipur	2544	8494	604	0
 Jaithra	2751	7902	711	0
 Jaitgiri	1934	8215	600	0
 Jaitāsar	2791	7442	539	0
-Jaitāpur	1663	7337	234	0
+Jaitāpur	1663	7337	234	0		जैतापुर
 Jaitāna	2399	7408	22	0
 Jait	2758	7761	177	0
-Jaisinghnagar	2363	7857	352	0
-Jaisinagar	2363	7857	352	0	Jaisinghnagar
+Jaisinghnagar	2363	7857	352	0		जयसिंहनगर
+Jaisinagar	2363	7857	352	0	Jaisinghnagar	जयसिंहनगर
 Jaisindhar	2575	7044	285	0
 Jairāmpura	2707	7569	121	0
 Jaipuram	1885	7958	91	0
@@ -55,7 +55,7 @@ Jaipur	1988	7677	640	0
 Jaintgarh	2207	8567	287	0
 Jainbavda	1618	7386	213	0
 Jainath	1974	7864	282	0
-Jainagar	2438	8564	473	0
+Jainagar	2438	8564	473	0		जयनगर
 Jainagar	2317	8299	413	0
 Jaimalsar	2811	7304	307	0
 Jaikhera	2026	7367	54	0
@@ -68,7 +68,7 @@ Bhātkhuli Jain	2091	7761	133	0
 Jaisingāsar	2845	7464	539	0
 Jaitīsar	2853	7453	539	0
 Jaira	2264	8865	450	0
-Zaina Kadal	3409	7481	611	0
+Zaina Kadal	3409	7481	611	0		ज़ैना कदल
 Zainakūt	3410	7473	611	0
 Jaitsiīsariya	2853	7453	539	0
 Jaisingha	3001	7776	783	0
@@ -148,7 +148,7 @@ Jair	3146	7741	680	0
 Jailth	3127	7749	479	0
 Wāra Jaīdānwāla	3083	7484	566	0	Jawāhir Singhwāla
 Kothe Zaildārwāle	3099	7485	566	0
-Jai	3111	7743	479	0
+Jai	3111	7743	479	0		जय
 Jairna	3102	7748	479	0
 Jais	3110	7737	479	0
 Jaintipur	3062	7703	587	0
@@ -516,7 +516,7 @@ Jaigopāl Khera	2642	8092	312	0
 Jai Singh Khera	2635	8093	312	0
 Jaitpur Shekhpur	2830	7668	519	0
 Jaipālpur	2564	8296	32	0
-Jainpur	2853	7693	763	0
+Jainpur	2853	7693	763	0		जैनपुर
 Purwa Jai Pāl	2619	8085	681	0
 Purwa Jai Singh	2618	8093	681	0
 Zāinpur	2600	8075	728	0
@@ -744,7 +744,7 @@ Basahi Jaimi Jaipur	2609	8309	498	0
 Mandia Jairām	2605	8319	498	0
 Jairāmpur	2605	8320	498	0
 Jainpur	2610	8321	498	0
-Jairājpur	2618	8318	498	0
+Jairājpur	2618	8318	498	0		जैराजपुर
 Jaitpur	2624	8317	498	0
 Jaitpur	2690	8335	325	0
 Jairampur Katkāt	2676	8339	325	0
@@ -897,7 +897,7 @@ Jairām Purwa	2795	8142	294	0
 Jaithanpurwa	2756	8138	294	0
 Jaithar Kishnipur	2734	8129	30	0
 Jairāmpur	2737	8129	507	0
-Jaitāpur	2742	8144	294	0
+Jaitāpur	2742	8144	294	0		जैतापुर
 Jaisinghpur	2723	8130	30	0
 Manjhār Jaitpur	2718	8142	30	0
 Jaitpur	2717	8141	30	0
@@ -1186,5 +1186,5 @@ Jairat	2097	8444	414	0
 Jaipur	2066	8445	386	0
 Jaipur	2098	8497	414	0
 Jaitpur	2348	8173	634	0
-Jaisinghpur	3190	7660	38	0
+Jaisinghpur	3190	7660	38	0		जयसिंहपुर
 Jainagar	2459	8496	118	0

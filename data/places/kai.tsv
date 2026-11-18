@@ -1,35 +1,35 @@
-Kaithal	2980	7640	638	144915
-Kairāna	2940	7721	328	80432
-Khairābād	2753	8075	507	42125
-Khairtal	2780	7664	482	38298
+Kaithal	2980	7640	638	144915		कैथल
+Kairāna	2940	7721	328	80432		कैराना
+Khairābād	2753	8075	507	42125		खैराबाद
+Khairtal	2780	7664	482	38298		खैरथल
 Kaipamangalam	1033	7614	241	35626
-Kaimganj	2755	7934	688	32858
-Khaira	1979	7276	192	31699
-Kaij	1871	7607	33	30704
-Khair	2794	7784	543	30173
+Kaimganj	2755	7934	688	32858		कायमगंज
+Khaira	1979	7276	192	31699		खैरा
+Kaij	1871	7607	33	30704		केज
+Khair	2794	7784	543	30173		खैर
 Kailidaikorichchi	869	7747	191	26398	Kallidaikurichi
-Kailāras	2630	7762	478	25920
-Kaira	2275	7269	167	25575	Kheda
-Kāiztori	2533	7651	506	25073	Māngrol
-Kaithoon	2512	7597	371	24260
+Kailāras	2630	7762	478	25920		कैलारस
+Kaira	2275	7269	167	25575	Kheda	खेड़ा
+Kāiztori	2533	7651	506	25073	Māngrol	मांगरोल
+Kaithoon	2512	7597	371	24260		कैथून
 Kaikalapettai	1302	8012	161	23910
-Khairāgarh	2142	8098	509	22564
-Khairagarh Raj	2142	8098	509	22564	Khairāgarh
-Kailāshahar	2433	9200	782	22405
-Kaikalūr	1655	8121	24	20763
-Kaimori	2338	7974	598	20154
-Kaimur	2338	7974	598	20154	Kaimori
+Khairāgarh	2142	8098	509	22564		खैरागढ़
+Khairagarh Raj	2142	8098	509	22564	Khairāgarh	खैरागढ़
+Kailāshahar	2433	9200	782	22405		कैलाशहर
+Kaikalūr	1655	8121	24	20763		कैकलुरु
+Kaimori	2338	7974	598	20154		कैमोर
+Kaimur	2338	7974	598	20154	Kaimori	कैमोर
 Khairāgarh	2694	7782	546	20095
 Kaimur	2405	8061	351	19343
-Khailār	2534	7853	433	13334
-Khailor	2534	7853	433	13334	Khailār
-Kaintarāgarh	2072	8454	414	12298	Athmallik
-Kaintragarh	2072	8454	414	12298	Athmallik
+Khailār	2534	7853	433	13334		खैलार
+Khailor	2534	7853	433	13334	Khailār	खैलार
+Kaintarāgarh	2072	8454	414	12298	Athmallik	आठमल्लिक
+Kaintragarh	2072	8454	414	12298	Athmallik	आठमल्लिक
 Khairābād	2466	7593	371	11993
 Khaira Bari	2651	9097	358	10210
 Kaikaram	1681	8137	24	9532
 Kailasagiri	1284	7871	184	9421
-Kumar Kaibarta Gaon	2675	9424	451	8056
+Kumar Kaibarta Gaon	2675	9424	451	8056		कुमार कइबर्ता
 Khairwāra	2399	7359	22	7581	Kherwāra
 Kainoor	1050	7628	241	7344
 Khaira	2859	7697	763	7220
@@ -37,15 +37,15 @@ Kaiparamba	1061	7614	241	7179
 Khairī	2260	8039	480	6438
 Kairangala	1280	7495	55	5788
 Kāipadar	2013	8555	541	4512
-Kair	2862	7692	763	4074
+Kair	2862	7692	763	4074		कैर
 Burj Kaila	3102	7568	369	348
 Khairāi	2526	7700	506	0
-Khaighat	2216	7545	130	0	Khalghāt
+Khaighat	2216	7545	130	0	Khalghāt	खलघाट
 Khāi	2909	7337	374	0	Khāl
 Khaitong	2803	9678	122	0
 Khairwa	2496	8624	524	0
-Khairlānji	2160	7998	144	0
-Khairlangi	2160	7998	144	0	Khairlānji
+Khairlānji	2160	7998	144	0		खैरलांजी
+Khairlangi	2160	7998	144	0	Khairlānji	खैरलांजी
 Khairla	2587	7323	273	0
 Khairi	3259	7491	581	0
 Khairā Tolā	2690	8414	476	0
@@ -68,11 +68,11 @@ Kaithan Khera	2693	8059	312	0
 Kaithan	2693	8059	312	0	Kaithan Khera
 Kaitha	2324	7602	314	0	Kāyatha
 Kaisi	2226	9295	20	0
-Kaisarganj	2725	8155	294	0
+Kaisarganj	2725	8155	294	0		कैसरगंज
 Kairu	2870	7588	431	0
 Kairu	2635	7287	344	0	Keru
 Kairot	2589	7495	446	0
-Kairon	3133	7486	260	0
+Kairon	3133	7486	260	0		कैरों
 Kairābani	2414	8702	770	0
 Kāipur	2738	7842	711	0
 Kaipur	2375	7267	164	0	Kahīpur
@@ -86,7 +86,7 @@ Kailiya	2595	7900	741	0
 Kailia	2595	7900	741	0	Kailiya
 Kailāsakota	1923	8354	363	0
 Kailāna	3069	7787	448	0
-Kaiga	1485	7444	59	0
+Kaiga	1485	7444	59	0		कैगा
 Kaimāsar	2838	7462	539	0	Kāmāsar
 Qaimsar	2810	7500	491	0
 Khairpur Rānoka	3009	7384	374	0
@@ -107,7 +107,7 @@ Kairi	3294	7482	581	0
 Khairi	3286	7489	581	0
 Khairi	3280	7495	581	0
 Khaira Khūi	3276	7495	581	0
-Kaimla	2951	7700	457	0
+Kaimla	2951	7700	457	0		कैमला
 Kainthpur di Khūi	3258	7497	720	0
 Kainthpur	3258	7497	720	0	Kainthpur di Khūi
 Kaintha	3273	7496	581	0
@@ -168,7 +168,7 @@ Khairuon ka Purwa	2496	7936	663	0
 Khairu Kalān	2860	7557	539	0
 Khairu Chhoti	2860	7556	539	0
 Kaiso Manhasan	3250	7499	720	0
-Kopar Khairane	1910	7301	246	0
+Kopar Khairane	1910	7301	246	0		कोपरखैराणे
 Khairūwāla	2793	7197	307	0
 Kairapur	2636	8987	561	0
 Kaimāti	2632	8978	561	0
@@ -424,9 +424,9 @@ Chak Kairua	2577	7810	484	0
 Kaithi	2594	7817	484	0
 Khairwāya	2596	7822	484	0
 Kaithoda	2596	7848	484	0
-Khaira	3082	7610	674	0
+Khaira	3082	7610	674	0		खैरा
 Khairi	1959	7650	153	0
-Kaidupur	3044	7621	564	0
+Kaidupur	3044	7621	564	0		कैदूपुर
 Kailāswādi	1913	7668	153	0
 Khairkheda	1993	7684	640	0
 Kaīnwāli	3468	7430	0	0
@@ -1587,7 +1587,7 @@ Khaira Kalān	2772	8141	294	0
 Khaaira Dhaunkalpurwa	2771	8143	294	0
 Khaira Khurd	2771	8142	294	0
 Kāimpur	2749	8139	294	0
-Khaira	2749	8149	294	0
+Khaira	2749	8149	294	0		खैरा बाज़ार
 Khairātīpur	2701	8129	30	0
 Khairi Purwa	2617	8128	681	0
 Kāithān Purwa	2612	8125	681	0
@@ -1641,7 +1641,7 @@ Khairāli	2955	7932	551	0
 Khairāli	2954	7940	551	0
 Khairni	2952	7945	551	0
 Khairu	2269	7464	348	0
-Khairna	2950	7948	551	0
+Khairna	2950	7948	551	0		खैरना
 Khaira	2515	8460	766	0
 Khaira	2524	8459	377	0
 Khaira	2507	8471	137	0
@@ -1898,7 +1898,7 @@ Kaithi	2511	8658	538	0
 Khaira	2503	8665	538	0
 Khaira	2513	8661	538	0
 Kaitha	2511	8673	605	0
-Khairevu	1442	7703	100	0
+Khairevu	1442	7703	100	0		खैरेवु
 Kaifaspur	1241	7598	74	0
 Kairia	2537	8679	759	0
 Kaithwāra	2495	8606	524	0
@@ -2066,7 +2066,7 @@ Kaidakkād	1002	7645	176	0
 Kaidavana	948	7634	243	0
 Kainakari	948	7639	243	0
 Kainatti	950	7647	243	0
-Kaipattur	923	7675	224	0
+Kaipattur	923	7675	224	0		काइपट्टूर
 Kaitayil	890	7679	549	0
 Kaidakkād	885	7676	549	0
 Kaitodu	883	7686	549	0

@@ -1,11 +1,11 @@
-English Bazar	2500	8815	412	170039	Malda
+English Bazar	2500	8815	412	170039	Malda	मालदा
 Enumamula	1800	7964	61	13183	Guntur
 Enkakād	1066	7626	241	9584
 Chak English Chak Chain Singh	2569	8235	32	262
 Chak English Chak Chain S	2569	8235	32	262	Chak English Chak Chain Singh
 Enounga	802	9353	79	0
-Ennūr	1325	8033	228	0
-Ennore	1325	8033	228	0	Ennūr
+Ennūr	1325	8033	228	0		एन्नोर
+Ennore	1325	8033	228	0	Ennūr	एन्नोर
 Ennelli	1777	7847	400	0
 Ēndēā-gēlēdā	1068	9235	442	0
 Enādi	1047	7928	264	0
@@ -64,7 +64,7 @@ Engalpādu	1805	8295	268	0
 Enagampalle	1683	8114	24	0
 Ennagundi	1798	8219	268	0
 Enīkepalle	1670	8143	24	0
-Endapalle	1638	8132	68	0
+Endapalle	1638	8132	68	0		ऎंडपल्लि
 Enamadurru	1649	8153	318	0
 Enigagondi	1795	8257	268	0
 Enegūdem	1724	8090	60	0
@@ -77,7 +77,7 @@ Endabjadra	1900	8336	205	0
 Enungu	1852	8256	316	0
 Enikepādu	1651	8071	68	0
 Enelu	1806	8254	268	0
-Enamadala	1679	8080	24	0
+Enamadala	1679	8080	24	0		ऎनमदल
 Enubarru	1843	8323	179	0
 Enchanapalle	1816	8157	109	0
 Enksimetla	1812	8167	109	0
@@ -107,7 +107,7 @@ Enāpur	1982	7982	135	0
 English	2534	8600	604	0
 Endaranahallikoppal	1289	7657	679	0
 English	2534	8647	538	0
-Enigabāla	1581	7761	236	0
+Enigabāla	1581	7761	236	0		ऐनिगबाल
 Enumuladoddi	1438	7711	100	0
 Enigibasāpuram	1512	7607	366	0
 Enadriem	1496	7420	102	0
@@ -214,5 +214,5 @@ Enakudi	1125	7970	203	0
 Enādi	1180	7802	51	0
 Enādikarambai	1031	7914	264	0
 Enkoor	1733	8044	46	0
-Englan	2617	9425	70	0
+Englan	2617	9425	70	0		एंग्लान
 Enkammaguda	1708	7819	408	0

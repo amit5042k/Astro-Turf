@@ -1,32 +1,32 @@
-Umred	2085	7932	141	53971
-Umrer	2085	7932	141	53971	Umred
-Umarkhed	1960	7769	67	47458
-Umpling	2556	9191	340	38004	Nongthymmai
-Umarga	1784	7662	48	35477
-Umreth	2270	7312	157	33762
-Umaria	2352	8084	350	33114
-Umarkot	1967	8221	349	28993
-Umargām	2020	7275	261	27859
-Umbargaon	2020	7275	261	27859	Umargām
+Umred	2085	7932	141	53971		उमरेड़
+Umrer	2085	7932	141	53971	Umred	उमरेड़
+Umarkhed	1960	7769	67	47458		उमरखेड
+Umpling	2556	9191	340	38004	Nongthymmai	नोंगथिम्माई
+Umarga	1784	7662	48	35477		उमरगा
+Umreth	2270	7312	157	33762		उमरेठ
+Umaria	2352	8084	350	33114		उमरिया
+Umarkot	1967	8221	349	28993		उमरकोट
+Umargām	2020	7275	261	27859		उमरगाम
+Umbargaon	2020	7275	261	27859	Umargām	उमरगाम
 Umarsera	2037	7812	67	21752
-Umbri	2071	7703	172	20262
-Umri Pragane Balapur	2071	7703	172	20262	Umbri
-Umri	1904	7765	140	13501
-Peth Umri	1904	7765	140	13501	Umri
+Umbri	2071	7703	172	20262		उमरी प्रगणे बालापुर
+Umri Pragane Balapur	2071	7703	172	20262	Umbri	उमरी प्रगणे बालापुर
+Umri	1904	7765	140	13501		पेठ उमरी
+Peth Umri	1904	7765	140	13501	Umri	पेठ उमरी
 Umrāla	2184	7180	168	11874
 Umrangso	2551	9274	494	10376
 Umri	2651	7894	334	9364
-Umsning	2574	9189	331	8198
-Umroi	2574	9189	331	8198	Umsning
+Umsning	2574	9189	331	8198		उमरोई
+Umroi	2574	9189	331	8198	Umsning	उमरोई
 Umbar Pada Nandade	1957	7280	192	7605	Mānda
-Umlyngka	2556	9183	340	7381	Nongumlong
+Umlyngka	2556	9183	340	7381	Nongumlong	उम्लिंग्का
 Umbergaon INA	2017	7278	261	6976
 Umarkhāngūda	1727	7867	62	5349
 Umrāla	2203	7031	145	0	Unurāla
 Umunur	1905	8008	135	0
 Umanoor	1905	8008	135	0	Umunur
 Umta	2378	7256	164	0
-Umswai	2594	9224	330	0
+Umswai	2594	9224	330	0		उमस्वाइ
 Umshem	2572	9129	332	0
 Umariya	2423	7640	333	0
 Umria	2423	7640	333	0	Umariya
@@ -80,7 +80,7 @@ Umarkot	2408	7613	347	0
 Umarkot	2279	7485	348	0
 Umaria	2381	8094	350	0
 Umariā	2351	8027	351	0
-Umaria	2341	7868	352	0
+Umaria	2341	7868	352	0		उमरिया
 Umaria	2276	7407	173	0
 Umria	2276	7407	173	0	Umaria
 Umari	2405	7271	164	0
@@ -93,7 +93,7 @@ Umāla	2092	7564	78	0
 Gond Umrī	2103	8008	404	0
 Gaura Umarni	2612	8117	681	0
 Umarhair	3416	7480	611	0
-Umri	2995	7691	501	0
+Umri	2995	7691	501	0		उमरी
 Chak Umra	3256	7491	581	0
 Ummedpur	3032	7791	448	0
 Umarpur	2991	7712	457	0
@@ -124,7 +124,7 @@ Umarsanda	2680	7923	290	0
 Umarsenda	2680	7923	290	0	Umarsanda
 Umrela	2634	7907	334	0
 Umrāosingh ka Adda	2648	7933	715	0
-Ūmri	2634	7925	741	0
+Ūmri	2634	7925	741	0		उमरी
 Ūmri Mustaqil	2640	7947	741	0
 Umargarh	2610	7927	741	0
 Umrai	2533	7937	614	0
@@ -197,7 +197,7 @@ Umri	2141	7852	141	0
 Umri	2144	7866	141	0
 Umar Vihīri	2105	7861	143	0
 Umariya Dalel	2192	7888	337	0
-Umrānāla	2187	7888	337	0
+Umrānāla	2187	7888	337	0		उमरानाला
 Umariya	2184	7897	337	0
 Umri	2108	7879	141	0
 Meta Umri	2109	7889	141	0
@@ -233,7 +233,7 @@ Umarpur Āsa	2928	7859	575	0
 Umrāonagar	2936	7867	575	0
 Umarpur	2844	7923	342	0
 Umriya	2464	7640	333	0
-Umedganj	2480	7663	506	0
+Umedganj	2480	7663	506	0		उम्मेदगंज
 Umarthāna	2478	7677	506	0
 Umarda	2485	7694	336	0
 Umariya	2450	7681	506	0
@@ -437,7 +437,7 @@ Umri	2570	8301	32	0
 Umri	2570	8317	498	0
 Umraitna	2685	7843	546	0
 Pura Umraitha	2684	7841	546	0
-Umarha	2540	8306	251	0
+Umarha	2540	8306	251	0		उमरहा
 Umarha Bāzār	2539	8307	251	0
 Umariya	2297	7760	338	0
 Umāli	2081	7624	49	0
@@ -502,7 +502,7 @@ Umartha	2029	7793	67	0
 Umarchha	2400	7804	215	0
 Dhīmarpura Ūmri	2531	7895	529	0
 Ūmri	2531	7893	529	0
-Uma Maheshwaram	1637	7873	467	0
+Uma Maheshwaram	1637	7873	467	0		उमामहेश्वरम
 Umariya	2438	7822	352	0
 Ummāpur	1691	7877	101	0
 Umri	2552	8071	463	0
@@ -1086,7 +1086,7 @@ Umar	2323	7488	568	0
 Umarkhar	2203	7414	155	0
 Umti	2204	7411	126	0
 Umri	2206	7419	155	0
-Umrali	2218	7432	155	0
+Umrali	2218	7432	155	0		उमराली
 Umrath	2207	7433	155	0
 Umbria	2425	7320	22	0
 Umradara	2298	7450	348	0
@@ -1170,7 +1170,7 @@ Umria	2727	8059	686	0
 Umarvādi	1596	7432	57	0
 Umrī	2618	7908	741	0
 Umrainri	2687	7940	715	0
-Umrain	2692	7936	715	0
+Umrain	2692	7936	715	0		उमरैन
 Surajpur Umrain	2687	7936	715	0
 Umarpur	2652	7934	715	0
 Umaidpur	2653	7944	715	0

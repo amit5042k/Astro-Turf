@@ -1,6 +1,6 @@
-Bhimavaram	1654	8152	318	146961
-Bhīmunipatnam	1789	8345	81	55082
-Bimlipatam	1789	8345	81	55082	Bhīmunipatnam
+Bhimavaram	1654	8152	318	146961		भीमावरम
+Bhīmunipatnam	1789	8345	81	55082		भीमुनिपट्टनम
+Bimlipatam	1789	8345	81	55082	Bhīmunipatnam	भीमुनिपट्टनम
 Koregaon-Bhima	1865	7406	52	25846	Koregaon
 Bhīmnagar	2072	7858	143	14394
 Bhīmavaram	1803	7954	61	13841
@@ -9,13 +9,13 @@ Bhim	2574	7408	572	11568
 Bhimpur	2045	7288	760	10936
 Bimpor	2045	7288	760	10936	Bhimpur
 Bhimpore	2045	7288	760	10936	Bhimpur
-Bhimarayanagudi	1673	7680	72	8029
-Bhīm Tāl	2934	7956	551	6625
-Bhim Kanari	2380	8619	401	5170
+Bhimarayanagudi	1673	7680	72	8029		भीमरायनगुडी
+Bhīm Tāl	2934	7956	551	6625		भीमताल
+Bhim Kanari	2380	8619	401	5170		भीमकनारी
 Bhīmgarh	2235	7953	368	0	Bichhua
 Bīmgal	1870	7845	75	0
 Bimbalā	2120	8540	293	0
-Bhīmsen	2642	8022	469	0
+Bhīmsen	2642	8022	469	0		भीमसेन
 Bhīmsar	2769	7465	539	0
 Bhimrād	2208	7158	370	0
 Bhimra	1820	7760	31	0
@@ -48,7 +48,7 @@ Sarāi Bhīm	2718	7945	570	0
 Bhīma Purwa	2711	7994	570	0
 Purwa Bhīm	2677	7962	715	0
 Bhīmpura	2475	7905	481	0
-Bhimnagar	2650	8697	426	0
+Bhimnagar	2650	8697	426	0		भीमनगर
 Bhimānpār	2562	8321	26	0
 Bhimda	2605	7156	285	0
 Bhimdaspur	2054	8612	303	0
@@ -324,7 +324,7 @@ Bimdivaddu	1844	8246	268	0
 Bhīmārugudi	1827	8245	268	0
 Bhīmanpanka	1947	8372	363	0
 Bhīmāruputtu	1862	8270	316	0
-Bhīmavarappādu	1670	8065	104	0
+Bhīmavarappādu	1670	8065	104	0		भीमवरप्पाडु
 Bhīmosingi	1810	8267	268	0
 Bhimāpuram	1833	8107	599	0	Pedda Karkangūda
 Bhimāpuram	1848	8124	599	0	Messigūda
@@ -467,8 +467,8 @@ Bhimagourdoddi	1265	7757	626	0
 Bhimasandra	1267	7750	626	0
 Bīmsandiram	1254	7765	223	0
 Bhīmavaram	1597	7811	408	0
-Bhīmagundam	1497	7837	229	0
-Bhīmunipādu	1522	7836	232	0
+Bhīmagundam	1497	7837	229	0		भीमगुंडं
+Bhīmunipādu	1522	7836	232	0		भीमुनिपाडु
 Bhīmanapādu	1479	7868	229	0
 Bhīmagānipalli	1359	7822	408	0
 Bhīmaguttapalli	1351	7826	47	0
@@ -486,7 +486,7 @@ Bīmarapatti	1204	7874	197	0
 Bhīmayyagāripalle	1433	7830	229	0
 Bhīmavaram	1591	7982	200	0
 Bhīmavaram	1514	7996	6	0
-Bhīmavarappādu	1502	7978	6	0
+Bhīmavarappādu	1502	7978	6	0		भीमवारप्पाडु
 Bhīmavaram	1409	7963	45	0
 Bhīmavaram	1361	7923	45	0
 Bhīmāvaram	1387	7962	45	0

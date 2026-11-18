@@ -1,18 +1,18 @@
-Sunām	3013	7580	593	69069
-Sunabeda	1873	8283	316	50394
-Sundergarh	2212	8403	272	45036
-Sundargarh	2212	8403	272	45036	Sundergarh
-Sundarnagar	3154	7690	278	25338
-Sundakkāmpālaiyam	1057	7721	235	16459
-Sunel	2437	7596	333	15840
+Sunām	3013	7580	593	69069		सुनाम
+Sunabeda	1873	8283	316	50394		सुनाबेड़ा
+Sundergarh	2212	8403	272	45036		सुंदरगढ
+Sundargarh	2212	8403	272	45036	Sundergarh	सुंदरगढ
+Sundarnagar	3154	7690	278	25338		सुंदरनगर
+Sundakkāmpālaiyam	1057	7721	235	16459		कनक्कमपालयम
+Sunel	2437	7596	333	15840		सुनेल
 Sundna	2405	8407	701	14552	Sudnā
 Sundarapāndiyam	961	7767	119	8513
 Sunāri Kalān	2886	7657	719	7506
-Sunderbani	3305	7449	504	6930
+Sunderbani	3305	7449	504	6930		सुंदरबनी
 Sunākhala	2017	8533	548	6299
 Sundarapāndiyanpattanam	984	7910	5	4007
 Sundarapandianpatnam	984	7910	5	4007	Sundarapāndiyanpattanam
-Suntikoppa	1246	7583	193	3500
+Suntikoppa	1246	7583	193	3500		सुंटीकोप्पा
 Sunār Khurd	3116	7570	369	1040
 Sundarpahari	2476	8736	592	873
 Sunwāsa	2533	7585	353	0
@@ -58,7 +58,7 @@ Sunaj	2524	7781	436	0
 Sunag	1629	7562	86	0
 Sunāberha	2051	8246	594	0	Sonābera
 Suna	3009	7946	183	0
-Sunkon	1839	8166	599	0	Sukma
+Sunkon	1839	8166	599	0	Sukma	सुकमा
 Soonkhed	1903	7722	140	0	Sonkhed
 Sunpura	2783	9588	475	0	Chunpura
 Bishunpur Sundar	2606	8698	657	0
@@ -134,7 +134,7 @@ Sūndh	2826	7699	544	0
 Sunāri	2822	7691	544	0
 Sunāh	3156	7718	278	0
 Sunās	3157	7714	278	0
-Sundāwās	2910	7552	339	0
+Sundāwās	2910	7552	339	0		सुंडावास
 Sunyāna	2953	7583	443	0
 Sunehri	2992	7682	501	0
 Sundarpur	2996	7686	501	0
@@ -706,7 +706,7 @@ Sunnariguda	1887	8251	316	0
 Lend Sunki	1870	8263	316	0
 Hat Sunki	1869	8266	316	0
 Bodo Sunki	1872	8271	316	0
-Sunnampādu	1672	8053	104	0
+Sunnampādu	1672	8053	104	0		सुन्नंपाडु
 Sundriputtu	1820	8263	268	0
 Sundriputtu	1817	8265	268	0
 Sunāsipālem	1812	8269	268	0
@@ -830,7 +830,7 @@ Sunkadhalli	1338	7733	93	0
 Sunjipalle	1390	7753	444	0
 Sunnagattihalli	1335	7758	389	0
 Sunnagatta	1326	7758	389	0
-Sunnampalle	1399	7798	444	0
+Sunnampalle	1399	7798	444	0		सुन्नंपल्लॆ
 Sundrahalli	1325	7785	438	0
 Sunnagere	1402	7589	275	0
 Sunnekoppa	1382	7525	346	0
@@ -866,11 +866,11 @@ Sungthia	2557	8635	759	0
 Sundarpur	2530	8637	538	0
 Sunnakanakoppal	1256	7677	94	0
 Sunagahalli	1251	7696	94	0
-Sunkeswari	1585	7734	236	0
+Sunkeswari	1585	7734	236	0		सुंकेश्वरि
 Sunti	1265	7586	193	0
 Sundvalli	1270	7587	679	0
 Sunnada Koppalu	1253	7598	193	0
-Sunkesula	1587	7783	236	0
+Sunkesula	1587	7783	236	0		सुंकेशुल
 Sundarpatti	2591	8684	657	0
 Sunkadhalli	1246	7599	74	0
 Sundergiri	1820	7919	579	0
@@ -931,11 +931,11 @@ Sunnagatta	1262	7721	626	0
 Sundaralli	1225	7727	69	0
 Sundagatta	1252	7750	626	0
 Sunkesula	1513	7819	232	0
-Sunnapurāllapalle	1478	7842	229	0
+Sunnapurāllapalle	1478	7842	229	0		सुन्नपुराल्लपल्लॆ
 Sunkarāpuram	1477	7849	229	0
 Sunkesula	1574	7830	232	0
 Sunkalammapatnam	1491	7802	100	0
-Sunkesula	1465	7821	229	0
+Sunkesula	1465	7821	229	0		सुंकेसुल
 Sunkulagāripalle	1474	7883	229	0
 Sunkesula	1465	7875	229	0
 Sungondahalli	1316	7812	47	0

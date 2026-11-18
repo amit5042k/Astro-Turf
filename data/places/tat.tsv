@@ -1,9 +1,9 @@
-Tatanagar	2280	8619	584	1339438	Jamshedpur
-Tatanagar	2278	8618	584	49660	Jugsālai
+Tatanagar	2280	8619	584	1339438	Jamshedpur	जमशेदपुर
+Tatanagar	2278	8618	584	49660	Jugsālai	जुगसलाई जमशेदपुर
 Tattānkuttai	1144	7772	231	24708
-Tāttayyangārpettai	1112	7845	270	12980
-Thathaiyangarpet	1112	7845	270	12980	Tāttayyangārpettai
-Tāti	2338	8544	562	12878
+Tāttayyangārpettai	1112	7845	270	12980		तातैयंगारपेट
+Thathaiyangarpet	1112	7845	270	12980	Tāttayyangārpettai	तातैयंगारपेट
+Tāti	2338	8544	562	12878		टाटी
 Thatthi Bhai	3056	7504	499	0
 Thattakād	1013	7669	176	0
 Thattekad	1013	7669	176	0	Thattakād
@@ -39,7 +39,7 @@ Tātārpur Khurd	2981	7719	449	0
 Thāta	2599	7555	313	0
 Thāthwāri	2805	7601	705	0
 Tatauli	2897	7656	719	0
-Tattapāni	3125	7709	278	0
+Tattapāni	3125	7709	278	0		तत्तापानी
 Tātiparti	1700	7860	62	0
 Thattankulam	1310	8027	204	0
 Thattan Kolam	1310	8027	204	0	Thattankulam
@@ -209,7 +209,7 @@ Tatihara	2478	8200	516	0
 Thatra	2458	8279	631	0
 Tātārpur	2865	7669	609	0
 Tataria	2521	8222	583	0
-Tatārpur Lālu	2960	7834	575	0	Lālūwāla
+Tatārpur Lālu	2960	7834	575	0	Lālūwāla	तातारपुर लालू
 Thathraiya	2738	8101	507	0
 Tatārpur	2734	8108	507	0
 Tatehra	2745	8151	294	0
@@ -411,8 +411,8 @@ Tattuguda	1876	8271	316	0
 Tattuguda	1899	8277	316	0
 Tattuguda	1896	8289	316	0
 Tātiagūda	1866	8289	316	0
-Tātakuntla	1696	8080	104	0
-Tativarru	1639	8097	68	0
+Tātakuntla	1696	8080	104	0		ताटकुंट्ल
+Tativarru	1639	8097	68	0		ताटिवर्रु
 Tātrājulochcha	1879	8319	316	0
 Tatikkivalasa	1831	8300	268	0
 Tātumanuvalasa	1841	8319	199	0
@@ -459,7 +459,7 @@ Tatarpur	2567	8401	536	0
 Tātīdīrī	2403	8450	701	0
 Tattūru	1450	7520	346	0
 Tatunkipalle	1412	7737	444	0
-Tāticherla	1475	7758	100	0
+Tāticherla	1475	7758	100	0		ताटिचॆर्ल
 Tatagārinalle	1491	7793	100	0
 Tātimākulapalle	1402	7782	444	0
 Tattikere	1308	7724	626	0
@@ -508,7 +508,7 @@ Tātāmāmanpalli	1786	7848	400	0
 Tateora	2739	8009	686	0
 Tatia Zāhidpur	2701	8007	686	0
 Thattamala	887	7664	549	0
-Thathri	3313	7552	372	0
+Thathri	3313	7552	372	0		ठाठरी
 Thattathumala	880	7688	219	0
 Tāthahalli	1342	7783	438	0
 Tātparti	1328	7789	438	0
@@ -589,7 +589,7 @@ Tatambarri	1154	7632	115	0
 Tattūri	1172	7626	242	0
 Tāttūr	1174	7626	242	0
 Tathamangalam	1103	7645	263	0
-Thattanēri	1148	7667	115	0
+Thattanēri	1148	7667	115	0		शोलूर
 Thattanēri	1147	7669	115	0
 Tatarvēnu	1142	7679	115	0
 Tattānampalli	1089	7622	263	0
@@ -640,7 +640,7 @@ Tāttāmpatti	874	7739	245	0
 Tatchamala Kānikkudi	846	7734	453	0
 Tattānvila	814	7742	453	0
 Tattappārai	895	7758	245	0
-Tattānkulam	847	7768	191	0
+Tattānkulam	847	7768	191	0		तट्टानकुलम
 Tātanūr	1066	7809	187	0
 Tātanūr	1056	7808	187	0
 Tāttināykkanpatti	1047	7806	187	0

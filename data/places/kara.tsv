@@ -1,36 +1,36 @@
-Karāwalnagar	2873	7727	791	224281
-Kharagpur	2234	8733	677	219665
-Kāraikkudi	1007	7877	454	181851
-Kāraikāl	1092	7983	455	86838
-Karauli	2650	7703	447	82960
+Karāwalnagar	2873	7727	791	224281		करावल नगर
+Kharagpur	2234	8733	677	219665		खड़गपुर
+Kāraikkudi	1007	7877	454	181851		कराईकुड़ी
+Kāraikāl	1092	7983	455	86838		करैकाल
+Karauli	2650	7703	447	82960		करौली
 Kharakvasla	1844	7378	52	78684
-Kharar	3075	7665	632	74460
-Kāranja	2048	7749	128	67907
-Kāranja Bibi	2048	7749	128	67907	Kāranja
-Karād	1729	7418	64	55663
-Kharasana	2688	8828	573	46427	Kurseong
+Kharar	3075	7665	632	74460		खरड़
+Kāranja	2048	7749	128	67907		कारंजा लाड
+Kāranja Bibi	2048	7749	128	67907	Kāranja	कारंजा लाड
+Karād	1729	7418	64	55663		कराड
+Kharasana	2688	8828	573	46427	Kurseong	कुर्सियांग
 Kārakkād	1059	7604	241	39098
-Karāla	2874	7704	689	35730
-Karamsad	2254	7290	157	35285
-Kāramadai	1124	7696	156	35166
-Kharagpur	2512	8656	538	31385
+Karāla	2874	7704	689	35730		काराला
+Karamsad	2254	7290	157	35285		करमसद
+Kāramadai	1124	7696	156	35166		कारमडै
+Kharagpur	2512	8656	538	31385		खरगपुर
 Karakulam	857	7699	219	29624	Kidarakulam
 Kāraippudūr	1106	7731	235	28602
-Karaka	1321	7499	257	25800	Kārkala
-Karanjiā	2176	8597	382	22865
-Karanpur	2984	7346	374	21604
-Karanpura	2984	7346	374	21604	Karanpur
-Sri Karanpur	2984	7346	374	21604	Karanpur
-Karambakkam	1305	8019	204	21376	Virugambakkam
+Karaka	1321	7499	257	25800	Kārkala	कार्कल
+Karanjiā	2176	8597	382	22865		करंजिया
+Karanpur	2984	7346	374	21604		श्री करणपुर
+Karanpura	2984	7346	374	21604	Karanpur	श्री करणपुर
+Sri Karanpur	2984	7346	374	21604	Karanpur	श्री करणपुर
+Karambakkam	1305	8019	204	21376	Virugambakkam	कारम्बाक्कम
 Karamuck	1048	7610	241	15129
-Karambakkudi	1046	7914	198	14626
-Karambakuduy	1046	7914	198	14626	Karambakkudi
-Karārī	2545	8143	651	14403
-Khem Karan	3114	7456	260	13446
-Karanguli	1253	7990	247	12485	Karunguli
-Kharar	2272	8768	677	12049
-Kharaghoda	2319	7173	28	11944
-Karrāpur	2395	7887	352	10647
+Karambakkudi	1046	7914	198	14626		करम्बक्कुडी
+Karambakuduy	1046	7914	198	14626	Karambakkudi	करम्बक्कुडी
+Karārī	2545	8143	651	14403		करारी
+Khem Karan	3114	7456	260	13446		खेमकरन
+Karanguli	1253	7990	247	12485	Karunguli	करुंगुड़ी
+Kharar	2272	8768	677	12049		खड़ार
+Kharaghoda	2319	7173	28	11944		खाराघोड़ा
+Karrāpur	2395	7887	352	10647		कर्रापुर
 Karadipatti	992	7802	274	7289
 Karachiya	2238	7313	159	7103
 Karaivalimādappūr	1107	7716	156	5626
@@ -43,15 +43,15 @@ Khāra	2820	7339	307	0
 Khāri Karamsotan	2726	7351	430	0	Khāri
 Khāravli	1890	7292	17	0
 Kharāuda	2439	7548	580	0
-Kharasom	2547	9447	364	0
+Kharasom	2547	9447	364	0		खारासोम
 Karāri	2553	7852	433	0
 Kharāri	2506	8395	409	0
 Kharāri	2503	8405	409	0
 Kharar	2435	8294	103	0	Khādar
 Kharāngna	2091	7848	143	0
 Kharal	3492	7608	779	0
-Kharak Kalān	2883	7631	431	0
-Kharak	2883	7631	431	0	Kharak Kalān
+Kharak Kalān	2883	7631	431	0		खरक कलां
+Kharak	2883	7631	431	0	Kharak Kalān	खरक कलां
 Kharaini	2342	8160	634	0
 Kharai	2342	8160	634	0	Kharaini
 Kharāi Kotbār	2197	8751	559	0
@@ -64,10 +64,10 @@ Kharadpada	2025	7296	233	0
 Kharadpara	2025	7296	233	0	Kharadpada
 Kharad	2231	7202	124	0
 Khāra	3053	7471	730	0
-Khāra	2703	7212	344	0
+Khāra	2703	7212	344	0		खारा
 Karara	2489	7210	343	0
 Karakachal	950	7663	271	0	Karukachal
-Karrā	2313	8512	432	0
+Karrā	2313	8512	432	0		कर्रा
 Karra	2024	8126	704	0
 Karāni	2626	7282	344	0
 Karakota	2395	8266	631	0	Karkota
@@ -92,8 +92,8 @@ Karanwās	2381	7681	16	0
 Karantola	1939	8487	440	0
 Karantela	1939	8487	440	0	Karantola
 Karanpur	2693	8250	542	0
-Karanpur	2618	7697	447	0
-Karanpura	2618	7697	447	0	Karanpur
+Karanpur	2618	7697	447	0		श्री करणपुर
+Karanpura	2618	7697	447	0	Karanpur	श्री करणपुर
 Karanpur	2268	7974	368	0
 Karanpathār	2298	8133	225	0
 Karanjphan	1678	7390	57	0
@@ -126,14 +126,14 @@ Karajgi	1728	7621	71	0
 Karajgi	1712	7558	65	0
 Karajagi	1712	7558	65	0	Karajgi
 Karajgi	1486	7545	92	0
-Karaikelā	2271	8554	287	0
+Karaikelā	2271	8554	287	0		करईकेला
 Karaiāhāt	2457	7701	506	0
 Karaiāhāi	2457	7701	506	0	Karaiāhāt
 Karaia	2589	7801	484	0
 karai	2618	7702	447	0
 Karai	2588	7789	484	0
 Kārai	1113	7888	265	0
-Karāhal	2549	7705	335	0
+Karāhal	2549	7705	335	0		कराहल
 Karadoho	1997	7280	192	0
 Karadkhel	1848	7749	140	0
 Karadi	1328	7655	93	0
@@ -143,7 +143,7 @@ Karadagada	1994	8428	387	0
 Karad	2022	7304	233	0
 Karachuli	1990	8489	440	0
 Karabel	2284	8348	725	0
-Kara	2570	8136	651	0
+Kara	2570	8136	651	0		कड़ा
 Kharāwar	2883	7669	719	0
 Karanpura	2975	7427	486	0	Dhāolipāl
 Abul Kharāna	3014	7454	615	0
@@ -274,7 +274,7 @@ Kharans	3156	7704	278	0
 Karamsāna	2909	7463	486	0
 Karamgarh	2996	7528	709	0	Autānwāli
 Khāra	2993	7544	709	0
-Karanpur	2987	7542	709	0
+Karanpur	2987	7542	709	0		अक्कांवाली
 Karandi	2961	7529	705	0
 Karanpura	2910	7509	486	0
 Khara Barwāla	2930	7545	339	0
@@ -585,7 +585,7 @@ Karabdol	2234	7916	337	0
 Kārāpātha	2248	7918	337	0
 Garhi Kārab	2748	7780	177	0
 Kārab	2748	7780	177	0
-Karakbel	2299	7934	522	0
+Karakbel	2299	7934	522	0		करकबेल
 Karanpur	2773	7892	616	0	Nagla Nanaira
 Nagla Karanpur	2770	7890	616	0
 Kharagpur	2767	7892	616	0
@@ -1311,7 +1311,7 @@ Karāsar	2592	8335	498	0
 Karamchaura	2596	8342	586	0
 Kharagjalpur	2587	8348	586	0
 Kharaura	2580	8346	26	0
-Kharak Khurd	2883	7631	431	0
+Kharak Khurd	2883	7631	431	0		खरक खुर्द
 Karaundi	2636	8276	553	0
 Karaundi Lāla	2645	8296	553	0
 Karauni	2616	8279	498	0
@@ -2186,8 +2186,8 @@ Karadikoppal	1263	7683	94	0
 Kārahalli	1224	7696	74	0
 Karadi Mole	1202	7696	69	0
 Karani	1585	7718	236	0
-Karadiguddam	1545	7719	236	0
-Karakamukkala	1501	7716	100	0
+Karadiguddam	1545	7719	236	0		करादिगूडं
+Karakamukkala	1501	7716	100	0		करकमुक्कल
 Karaili	2520	8645	538	0
 Kharānt	2522	8640	538	0
 Kharādih	2597	8655	661	0
@@ -2560,7 +2560,7 @@ Karayattūrnattam	1034	7939	264	0
 Kārappankādu	1045	7945	264	0
 Karambakkudi	1057	7955	267	0
 Karaiyāngudi	1073	7967	267	0
-Karaiyavetti	1096	7905	383	0
+Karaiyavetti	1096	7905	383	0		करैयावेत्ति
 Karaippākkam	1094	7908	383	0
 Karambai	1079	7916	264	0
 Karantattāngudi	1080	7914	264	0

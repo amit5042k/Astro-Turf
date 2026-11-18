@@ -1,13 +1,13 @@
-Gopālganj	2647	8444	703	67339
-Gopichettipālaiyam	1145	7744	211	59523	Gobichettipalayam
+Gopālganj	2647	8444	703	67339		गोपालगंज
+Gopichettipālaiyam	1145	7744	211	59523	Gobichettipalayam	गोबीचेट्टीपालयम
 Gopavaram	1478	7857	229	22936
-Gopāmau	2753	8029	686	13581
-Gopālasamudram	867	7764	191	10694
-Gopālpur	1926	8491	440	7221
-Gopālpur-on-Sea	1926	8491	440	7221	Gopālpur
+Gopāmau	2753	8029	686	13581		गोपामऊ
+Gopālasamudram	867	7764	191	10694		गोपालसमुद्रम
+Gopālpur	1926	8491	440	7221		गोपालपुर
+Gopālpur-on-Sea	1926	8491	440	7221	Gopālpur	गोपालपुर
 Gopālpur	2262	8875	450	6890
 Gopināthpur	2266	8608	653	5255
-Dera Gopipur	3188	7622	38	4816
+Dera Gopipur	3188	7622	38	4816		डेरा गोपीपुर
 Gopālur	1661	7781	317	3324
 Gopalour	1661	7781	317	3324	Gopālur
 Gopinādhapatnam	1684	8139	24	1783
@@ -20,8 +20,8 @@ Gopinattam	1205	7770	69	0
 Gopīnāthapur	2032	8608	456	0
 Gopikāndar	2442	8748	669	0
 Gopīballabhpur	2221	8690	665	0
-Gopeshwar	3041	7932	183	0
-Gopavaram	1682	8097	24	0
+Gopeshwar	3041	7932	183	0		चमोली-गोपेश्वर
+Gopavaram	1682	8097	24	0		गोपवरम
 Gopālsar	2906	7365	374	0
 Gopālsar	2649	7259	344	0
 Gopālpura	2776	7439	539	0
@@ -39,17 +39,17 @@ Gopālganj	2198	7953	368	0
 Gopāla Singavaram	1588	7794	317	0
 Gopālapuram	1710	8152	87	0
 Gop	2203	6993	145	0
-Gop	1999	8603	603	0
-Gope	1999	8603	603	0	Gop
+Gop	1999	8603	603	0		गोप
+Gope	1999	8603	603	0	Gop	गोप
 Goplān	2861	7393	307	0
 Gopālpura	2811	7451	539	0
 Gopdānga	2286	8804	279	0
-Gopinagar	2284	8812	279	0
-Gopināthpur	2281	8806	279	0
+Gopinagar	2284	8812	279	0		गोपीनगर
+Gopināthpur	2281	8806	279	0		गोपीनाथपुर
 Gopālnagar	2283	8822	279	0
 Gopālnagar	2269	8806	354	0
 Gopālpur	2220	8801	559	0
-Gopalpur	2214	8814	559	0
+Gopalpur	2214	8814	559	0		गोपालपुर
 Gopālnagar	2215	8837	4	0
 Gopālnagar	2209	8824	4	0
 Gopimohanpur	2202	8801	559	0
@@ -396,7 +396,7 @@ Gopīpura	2550	8225	607	0
 Gopīpur	2548	8235	583	0
 Gopālāpur	2527	8231	583	0
 Gopīpatti	2529	8239	583	0
-Gopīganj	2528	8243	583	0
+Gopīganj	2528	8243	583	0		गोपीगंज
 Goppur	2527	8245	583	0
 Gopīpur	2533	8246	583	0
 Gopīpur	2549	8247	583	0
@@ -872,10 +872,10 @@ Tondal Gopāvaram	1685	8042	46	0
 Pedda Gopāvaram	1685	8047	46	0
 Gopinathpur	1996	8325	284	0
 Gopālpur	1998	8336	284	0
-Gopāpuram	1600	8048	220	0
+Gopāpuram	1600	8048	220	0		गोपापुरम
 Gopāvaram	1696	8054	68	0
 Gopāloputtu	1878	8278	316	0
-Gopuvānipālem	1636	8090	68	0
+Gopuvānipālem	1636	8090	68	0		गोपुरानिपालॆं
 Gopālpuram	1638	8087	68	0
 Gopīnāthapuram	1932	8378	363	0
 Gopālapalle	1813	8321	179	0
@@ -1196,7 +1196,7 @@ Gopālnagar	2406	8766	361	0
 Gopālpur	2412	8772	361	0
 Gopālpur	2468	8783	658	0
 Gopālnagar	2458	8776	658	0
-Barua Gopālpur	2457	8781	361	0
+Barua Gopālpur	2457	8781	361	0		बड़ुआ गोपालपुर
 Gopālnagar	2454	8794	471	0
 Gopināthpur	2466	8792	664	0
 Gopālnagar	2469	8793	471	0
@@ -1240,11 +1240,11 @@ Gopālpet	1917	7833	408	0
 Gopachettiyūr	1201	7741	69	0
 Gopasandiram	1262	7766	223	0
 Gopasandiram	1253	7765	223	0
-Gopālapuram	1519	7848	232	0
-Gopāyapalle	1494	7854	229	0
+Gopālapuram	1519	7848	232	0		गोपालापुरं
+Gopāyapalle	1494	7854	229	0		गोपायपल्लॆ
 Gopālapuram	1480	7863	229	0
-Gopavaram	1543	7858	232	0
-Gopavarampalle	1518	7893	229	0
+Gopavaram	1543	7858	232	0		गोपवरं
+Gopavarampalle	1518	7893	229	0		गोपवरंपल्लॆ
 Goparāzupalle	1479	7800	100	0
 Goprpalle	1414	7802	444	0
 Gopireddipalla	1476	7897	229	0
@@ -1282,7 +1282,7 @@ Gopavarapuvāripalle	1528	7957	200	0
 Gopālapuram	1585	7995	220	0
 Gopālapuram	1495	7903	229	0
 Gopālapuram	1471	7900	229	0
-Gopavaram	1472	7911	229	0
+Gopavaram	1472	7911	229	0		गोपवरम
 Gopinādapuram	1458	7904	229	0
 Gopālapuram	1460	7907	229	0
 Gopayyagāripalli	1456	7907	229	0

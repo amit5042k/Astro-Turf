@@ -1,16 +1,16 @@
-Phusro	2376	8601	517	185555
-Phulwari Sharif	2558	8507	604	81740
-Rampura Phul	3028	7524	563	51023
-Phulbāni	2048	8423	387	37371
-Phulbam	2048	8423	387	37371	Phulbāni
-Phulabāni	2048	8423	387	37371	Phulbāni
-Phulera	2687	7524	121	26091
-Phulpur	2555	8209	607	22886
-Phuta Shahr	2971	7742	449	18738	Nanauta
+Phusro	2376	8601	517	185555		फुसरो
+Phulwari Sharif	2558	8507	604	81740		फुलवारीशरीफ
+Rampura Phul	3028	7524	563	51023		रामपुरा फूल
+Phulbāni	2048	8423	387	37371		फूलबाणी
+Phulbam	2048	8423	387	37371	Phulbāni	फूलबाणी
+Phulabāni	2048	8423	387	37371	Phulbāni	फूलबाणी
+Phulera	2687	7524	121	26091		फुलेरा
+Phulpur	2555	8209	607	22886		फूलपुर
+Phuta Shahr	2971	7742	449	18738	Nanauta	नानौता
 Phūp Kalān	2664	7887	334	12657
 Fulkumari	2352	9150	385	11160
-Phūlpur	2608	8288	498	8893
-Phulwartanr	2377	8623	401	5884
+Phūlpur	2608	8288	498	8893		फूलपुर
+Phulwartanr	2377	8623	401	5884		फुलवार टांड़
 Fulchur	2144	8020	171	5480
 Futsora	2214	9262	244	235
 Phutta Khal	3192	7690	278	0
@@ -44,9 +44,9 @@ Phulbihar	2807	8080	323	0
 Phūlbaroda	2477	7676	506	0
 Phulbāri	2589	9004	399	0
 Phulbāri	2430	8802	471	0
-Phulaut	2551	8694	657	0
+Phulaut	2551	8694	657	0		फुलौत
 Phulān	2898	7318	374	0
-Phulambri	2009	7542	113	0
+Phulambri	2009	7542	113	0		फुलम्ब्री
 Phulaguri	2627	9258	656	0
 Phūl	3032	7524	563	0
 Phuktal Gömpa	3326	7718	8	0
@@ -62,7 +62,7 @@ Futtehpoor	2556	8834	610	0
 Futtehpoer	2556	8834	610	0	Futtehpoor
 Furkāting	2647	9402	740	0
 Phulbāri	2187	8813	4	0
-Phurphura	2275	8813	279	0
+Phurphura	2275	8813	279	0		फुरफुरा
 Phuldubi	2203	8837	4	0
 Phuro	3470	7631	8	0
 Phusāniān Ki Dhāni	2667	7184	217	0
@@ -330,7 +330,7 @@ Phulwariya	2539	8260	583	0
 Chak Phutohi	2536	8254	583	0
 Phuliāri	2503	8258	201	0
 Phulwaria	2540	8277	251	0
-Phulwaria	2533	8296	251	0
+Phulwaria	2533	8296	251	0		फुलवरिया
 Phulhā	2542	8205	607	0
 Phulha	2516	8278	201	0
 Phututāl	2269	7987	368	0
@@ -468,7 +468,7 @@ Phulwaria	2710	8329	515	0
 Phulwaria	2722	8339	515	0
 Phulwaria	2711	8358	515	0
 Phulwāri	2716	8374	515	0
-Phurāh	3370	7513	148	0
+Phurāh	3370	7513	148	0		फुर्राह
 Phului	2657	8314	647	0
 Purwa Phulwāri	2619	8306	498	0
 Phulehra	2618	8314	498	0
@@ -939,5 +939,5 @@ Phuljhari	2089	8456	414	0
 Phuluribania	2085	8461	414	0
 Phusigunda	2032	8471	548	0
 Phulidumar	2499	8679	605	0
-Phungyar	2481	9435	723	0
+Phungyar	2481	9435	723	0		फुंगयर
 Phulwaria	2708	8306	647	0
