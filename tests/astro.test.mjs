@@ -90,3 +90,41 @@ test('At sunrise the ascendant equals the Sun’s longitude', async () => {
     assert.ok(diff < 1.5, `asc vs sun diff ${diff} at ${lat},${lon}`);
   }
 });
+
+test('house lordship and aspects from lagna', async () => {
+  const { housesRuled, aspectedHouses } = await import('../js/predict.js');
+  assert.deepEqual(housesRuled('Venus', 0), [2, 7]); // Aries lagna: Venus rules Taurus & Libra
+  assert.deepEqual(housesRuled('Saturn', 9), [1, 2]); // Capricorn lagna
+  assert.deepEqual(housesRuled('Sun', 4), [1]);
+  assert.deepEqual(housesRuled('Rahu', 3), []);
+  assert.deepEqual(aspectedHouses('Jupiter', 5), [9, 11, 1]);
+  assert.deepEqual(aspectedHouses('Saturn', 12), [2, 6, 9]);
+  assert.deepEqual(aspectedHouses('Venus', 3), [9]);
+});
+
+test('Moon timeline covers the week with exact, ordered sign changes', async () => {
+  const { weekSky } = await import('../js/predict.js');
+  const ws = weekStart(new Date('2026-11-14T10:00:00Z'));
+  const segs = weekSky(ws).moonSegments;
+  assert.ok(segs.length >= 3 && segs.length <= 5, `${segs.length} segments`);
+  assert.equal(segs[0].start, null);
+  assert.equal(segs.at(-1).end, null);
+  for (let i = 1; i < segs.length; i++) {
+    assert.equal(segs[i].start.getTime(), segs[i - 1].end.getTime());
+    assert.equal(segs[i].sign, (segs[i - 1].sign + 1) % 12);
+    const jd = julianDay(segs[i].start);
+    const before = signOf(siderealLongitude('Moon', jd - 2 / 1440));
+    const after = signOf(siderealLongitude('Moon', jd + 2 / 1440));
+    assert.notEqual(before, after, 'change lands within ±2 minutes');
+  }
+});
+
+test('area texts do not repeat the same transit line, and do/avoid lists are filled', () => {
+  const ws = weekStart(new Date('2026-11-14T10:00:00Z'));
+  for (let l = 0; l < 12; l++) {
+    const w = weeklyForLagna(l, ws, 'en');
+    const sentences = Object.values(w.areas).flatMap((a) => a.text.split(/(?<=\.)\s/).filter((x) => /house/.test(x) && /: /.test(x)));
+    assert.equal(new Set(sentences).size, sentences.length, `lagna ${l}`);
+    assert.ok(w.dos.length >= 1 && w.donts.length >= 1);
+  }
+});

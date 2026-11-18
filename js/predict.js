@@ -6,6 +6,7 @@ import { julianDay, siderealLongitude, isRetrograde, signOf, PLANETS } from './a
 import {
   SIGN_SHORT, PLANET_NAMES, WEEKDAYS, HOUSE_RESULT, PLANET_FLAVOUR, AREA_SUMMARY, OVERVIEW_OPEN,
   LORD_LINE, TRANSIT_LINE, EVENT_LINE, DAY_NOTE, COLOURS, REMEDIES,
+  LORDSHIP_LINE, AREA_LORD_LINE, ASPECT_LINE, MOON_HOUSE_NOTE, HOUSE_DO, HOUSE_AVOID,
 } from './i18n.js';
 
 export const IST = 5.5;
@@ -22,9 +23,19 @@ const GOOD_HOUSES = {
 const WEIGHT = { Sun: 1, Moon: 0, Mars: 1.5, Mercury: 1, Jupiter: 3, Venus: 1, Saturn: 3, Rahu: 2, Ketu: 1.5 };
 const AREA_HOUSES = { career: [10, 6, 3, 11, 1], finance: [2, 11, 9, 5], love: [7, 5, 4, 2], health: [1, 6, 8, 12] };
 const SLOW_FIRST = ['Jupiter', 'Saturn', 'Rahu', 'Ketu', 'Mars', 'Sun', 'Venus', 'Mercury'];
+const AREA_ORDER = ['career', 'finance', 'love', 'health'];
+// The house whose lord we follow for each life area
+const AREA_LORD_HOUSE = { career: 10, finance: 2, love: 7, health: 1 };
+const STRONG_HOUSES = [1, 2, 4, 5, 7, 9, 10, 11];
+// Special (full) aspects counted from the planet's own house; every planet also aspects the 7th
+export const ASPECTS = { Mars: [4, 7, 8], Jupiter: [5, 7, 9], Saturn: [3, 7, 10] };
 
 export const isGood = (planet, house) => GOOD_HOUSES[planet].includes(house);
 export const houseFrom = (lagna, sign) => ((sign - lagna + 12) % 12) + 1;
+// Houses (from lagna) ruled by a planet; Rahu/Ketu rule none
+export const housesRuled = (planet, lagna) => SIGN_LORD.flatMap((l, sign) => (l === planet ? [houseFrom(lagna, sign)] : []))
+  .sort((a, b) => a - b);
+export const aspectedHouses = (planet, house) => (ASPECTS[planet] || [7]).map((n) => ((house - 1 + n - 1) % 12) + 1);
 
 // Monday (IST) of the week containing `date`, as a UTC-midnight Date labelling that calendar day.
 export function weekStart(date = new Date()) {
@@ -66,7 +77,25 @@ export function weekSky(ws) {
       }
     }
   }
-  const sky = { positions, moonDays, events };
+  // Exact moments (to the minute) when the Moon changes sign during the week
+  const moonSign = (ms) => signOf(siderealLongitude('Moon', julianDay(new Date(ms))));
+  const t0 = instant(ws, 0, 0).getTime();
+  const t1 = instant(ws, 7, 0).getTime();
+  const STEP = 2 * 3600000;
+  const moonSegments = [];
+  let segStart = null;
+  let cur = moonSign(t0);
+  for (let a = t0; a < t1; a += STEP) {
+    const b = Math.min(a + STEP, t1);
+    const sb = moonSign(b);
+    if (sb === cur) continue;
+    let lo = a; let hi = b;
+    while (hi - lo > 60000) { const mid = (lo + hi) / 2; if (moonSign(mid) === cur) lo = mid; else hi = mid; }
+    moonSegments.push({ sign: cur, start: segStart, end: new Date(hi) });
+    segStart = new Date(hi); cur = sb;
+  }
+  moonSegments.push({ sign: cur, start: segStart, end: null });
+  const sky = { positions, moonDays, events, moonSegments };
   cache.set(key, sky);
   return sky;
 }
@@ -79,8 +108,20 @@ export function weeklyForLagna(lagna, ws, lang = 'en') {
   const transits = SLOW_FIRST.map((p) => {
     const { sign, retro } = sky.positions[p];
     const house = houseFrom(lagna, sign);
-    return { planet: p, sign, house, retro, good: isGood(p, house) };
+    return {
+      planet: p, sign, house, retro, good: isGood(p, house),
+      rules: housesRuled(p, lagna), aspects: p === 'Rahu' || p === 'Ketu' ? [] : aspectedHouses(p, house),
+    };
   });
+  const transitText = (t) => (t.rules.length
+    ? LORDSHIP_LINE[lang](P[t.planet], t.rules, t.house) + (t.retro ? (lang === 'hi' ? ' (वक्री)' : ' (retrograde)') : '')
+    : TRANSIT_LINE[lang](P[t.planet], t.house, t.retro));
+  // Each transit is described in one area only: the one where its house ranks highest
+  const ownerArea = (h) => {
+    let best = null; let rank = 99;
+    for (const a of AREA_ORDER) { const r = AREA_HOUSES[a].indexOf(h); if (r >= 0 && r < rank) { rank = r; best = a; } }
+    return best;
+  };
 
   // Score each area and overall
   const areas = {};
@@ -91,28 +132,49 @@ export function weeklyForLagna(lagna, ws, lang = 'en') {
   const lordStrong = [1, 4, 5, 7, 9, 10, 11].includes(lordHouse);
   overall += lordStrong ? 1.5 : -1;
 
-  for (const [area, houses] of Object.entries(AREA_HOUSES)) {
+  for (const area of AREA_ORDER) {
+    const houses = AREA_HOUSES[area];
     let score = 0;
     const lines = [];
     for (const t of transits) {
       if (!houses.includes(t.house)) continue;
       const w = WEIGHT[t.planet] * (houses[0] === t.house ? 1.3 : 1);
       score += t.good ? w : -w;
+      if (ownerArea(t.house) !== area) continue;
       const res = HOUSE_RESULT[lang][t.good ? 'good' : 'bad'][t.house - 1];
       const flav = PLANET_FLAVOUR[lang][t.planet][t.good ? 0 : 1];
-      lines.push(`${TRANSIT_LINE[lang](P[t.planet], t.house, t.retro)}: ${res} ${flav}`);
+      lines.push(`${transitText(t)}: ${res} ${flav}`);
     }
     if (lordHouse && houses.includes(lordHouse)) score += lordStrong ? 1 : -0.5;
+
+    // Lord of the area's key house
+    const n = AREA_LORD_HOUSE[area];
+    const aLord = SIGN_LORD[(lagna + n - 1) % 12];
+    const aLordHouse = houseFrom(lagna, sky.positions[aLord].sign);
+    const aLordGood = STRONG_HOUSES.includes(aLordHouse);
+    score += aLordGood ? 0.7 : -0.7;
+    const lordLine = AREA_LORD_LINE[lang](n, P[aLord], aLordHouse, aLordGood);
+
+    // Aspects of Jupiter / Saturn / Mars on the area's two main houses
+    const aspectLines = [];
+    for (const pl of ['Jupiter', 'Saturn', 'Mars']) {
+      const t = transits.find((x) => x.planet === pl);
+      const hit = houses.slice(0, 2).find((h) => t.aspects.includes(h));
+      if (!hit) continue;
+      score += pl === 'Jupiter' ? 1 : pl === 'Saturn' ? -0.7 : -0.4;
+      aspectLines.push(ASPECT_LINE[lang][pl](hit));
+    }
+
     const level = score >= 1.5 ? 2 : score <= -1.5 ? 0 : 1;
     const stars = clampStars(3 + score / 2);
-    areas[area] = { level, stars, text: [AREA_SUMMARY[lang][area][level], ...lines.slice(0, 3)].join(' ') };
+    areas[area] = { level, stars, text: [AREA_SUMMARY[lang][area][level], lordLine, ...lines.slice(0, 2), ...aspectLines.slice(0, 1)].join(' ') };
   }
 
   const overallLevel = overall >= 3 ? 2 : overall <= -3 ? 0 : 1;
   const signName = SIGN_SHORT[lang][lagna];
   const keyTransits = transits.slice(0, 4).map((t) => {
     const res = HOUSE_RESULT[lang][t.good ? 'good' : 'bad'][t.house - 1];
-    return `${TRANSIT_LINE[lang](P[t.planet], t.house, t.retro)} — ${res}`;
+    return `${transitText(t)} — ${res}`;
   });
   const overview = [
     OVERVIEW_OPEN[lang][overallLevel](signName),
@@ -127,6 +189,22 @@ export function weeklyForLagna(lagna, ws, lang = 'en') {
     const kind = [1, 3, 6, 10, 11].includes(house) ? 'good' : [4, 8, 12].includes(house) ? 'caution' : 'neutral';
     return { date, weekday: date.getUTCDay(), moonSign: ms, house, kind, note: DAY_NOTE[lang][kind] };
   });
+
+  // Moon's journey through the houses, with exact sign-change times
+  const moonTimeline = sky.moonSegments.map((m) => {
+    const house = houseFrom(lagna, m.sign);
+    const kind = [1, 3, 6, 10, 11].includes(house) ? 'good' : [4, 8, 12].includes(house) ? 'caution' : 'neutral';
+    return { ...m, house, kind, note: MOON_HOUSE_NOTE[lang][house - 1] };
+  });
+
+  // Do's from the strongest supportive placements, avoid-list from the heaviest challenging ones
+  const byWeight = [...transits].sort((a, b) => WEIGHT[b.planet] - WEIGHT[a.planet]);
+  const uniq = (hs) => [...new Set(hs)];
+  const jup = transits.find((x) => x.planet === 'Jupiter');
+  const doHouses = uniq([...byWeight.filter((x) => x.good).map((x) => x.house), ...jup.aspects]).slice(0, 3);
+  const avoidHouses = uniq(byWeight.filter((x) => !x.good).map((x) => x.house)).slice(0, 3);
+  const dos = doHouses.map((h) => HOUSE_DO[lang][h - 1]);
+  const donts = avoidHouses.map((h) => HOUSE_AVOID[lang][h - 1]);
 
   // Weakest planet (heaviest weight in an unfavourable house) gets the remedy
   const weak = transits.filter((t) => !t.good).sort((a, b) => WEIGHT[b.planet] - WEIGHT[a.planet])[0];
@@ -143,7 +221,7 @@ export function weeklyForLagna(lagna, ws, lang = 'en') {
 
   return {
     lagna, weekStart: ws, overview, overallStars: clampStars(3 + overall / 3), overallLevel,
-    areas, transits, days, events,
+    areas, transits, days, events, moonTimeline, dos, donts,
     luckyNumber: LUCKY_NUMBER[lord], luckyColour: COLOURS[lang][lord], luckyDay: bestDay,
     remedyPlanet, remedy: REMEDIES[lang][remedyPlanet],
   };

@@ -2,6 +2,8 @@ import {
   birthChart, localToDate, formatDeg, panchang, julianDay, siderealLongitude, signOf, sunriseSunset,
 } from './astro.js';
 import { weeklyForLagna, weekStart, isoDate } from './predict.js';
+import { searchPlaces } from './places.js';
+import { toHindi } from './hindi.js';
 import {
   UI, SIGNS, SIGN_SHORT, SIGN_GLYPHS, PLANET_NAMES, PLANET_ABBR, NAKSHATRAS, WEEKDAYS, WEEKDAYS_SHORT,
   YOGAS, KARANAS, tithiName,
@@ -23,6 +25,11 @@ const locale = () => (lang === 'hi' ? 'hi-IN' : 'en-IN');
 const fmtDay = (d, opts = { day: 'numeric', month: 'short' }) => d.toLocaleDateString(locale(), { ...opts, timeZone: 'UTC' });
 const fmtTime = (d, tz) => (d ? new Date(d.getTime() + tz * 3600000).toLocaleTimeString(locale(), { hour: '2-digit', minute: '2-digit', timeZone: 'UTC' }) : '—');
 const addDays = (d, n) => new Date(d.getTime() + n * 86400000);
+// "Tue 10, 02:49" in IST
+const moonWhen = (d) => {
+  const ist = new Date(d.getTime() + 5.5 * 3600000);
+  return `${WEEKDAYS_SHORT[lang][ist.getUTCDay()]} ${ist.getUTCDate()}, ${fmtTime(d, 5.5)}`;
+};
 
 function toast(msg) {
   const el = document.createElement('div');
@@ -31,7 +38,11 @@ function toast(msg) {
   setTimeout(() => el.remove(), 2200);
 }
 
-export const CITIES = [
+const DELHI = {
+  name: 'New Delhi', label: 'New Delhi, Delhi', nameHi: 'नई दिल्ली', labelHi: 'नई दिल्ली, दिल्ली', hiExact: true, lat: 28.6139, lon: 77.209, tz: 5.5,
+};
+// Cities from the old fixed list, so places saved before the searchable list still work
+const LEGACY_CITIES = [
   ['New Delhi', 28.6139, 77.209, 5.5], ['Mumbai', 19.076, 72.8777, 5.5], ['Kolkata', 22.5726, 88.3639, 5.5],
   ['Chennai', 13.0827, 80.2707, 5.5], ['Bengaluru', 12.9716, 77.5946, 5.5], ['Hyderabad', 17.385, 78.4867, 5.5],
   ['Ahmedabad', 23.0225, 72.5714, 5.5], ['Pune', 18.5204, 73.8567, 5.5], ['Jaipur', 26.9124, 75.7873, 5.5],
@@ -43,10 +54,92 @@ export const CITIES = [
   ['Thiruvananthapuram', 8.5241, 76.9366, 5.5], ['Kathmandu', 27.7172, 85.324, 5.75], ['Dubai', 25.2048, 55.2708, 4],
   ['Singapore', 1.3521, 103.8198, 8],
 ];
+const legacyPlace = (i) => {
+  const c = LEGACY_CITIES[i];
+  return c ? { name: c[0], label: c[0], lat: c[1], lon: c[2], tz: c[3] } : null;
+};
+const savedPanchangPlace = () => {
+  const s = store.get('panchang', {});
+  return s.place || (typeof s.city === 'number' && legacyPlace(s.city)) || DELHI;
+};
+const enName = (pl) => pl.name || pl.label.split(',')[0];
+// Places saved before Hindi names existed get a transliterated Hindi name
+const hiName = (pl) => pl.nameHi || toHindi(enName(pl));
+const hiLabel = (pl) => pl.labelHi || toHindi(pl.label);
+const placeName = (pl) => (lang === 'hi' ? hiName(pl) : enName(pl));
+const placeLabel = (pl) => (lang === 'hi' ? hiLabel(pl) : pl.label);
+// Second line of a search result: the name in the other script, the matched spelling, then district and state
+const placeDetail = (pl) => {
+  const other = lang === 'hi' ? enName(pl) : hiName(pl);
+  const rest = placeLabel(pl).split(', ').slice(1);
+  return [other, pl.alias && pl.alias !== other ? pl.alias : '', ...rest].filter(Boolean).join(' · ');
+};
 
-function cityOptions(selected) {
-  return CITIES.map(([n], i) => `<option value="${i}" ${i === selected ? 'selected' : ''}>${n}</option>`).join('')
-    + `<option value="custom" ${selected === 'custom' ? 'selected' : ''}>${t('custom')}</option>`;
+// ---------- searchable place field (combobox) ----------
+let comboSeq = 0;
+function placeField(place) {
+  const id = `place-list-${++comboSeq}`;
+  return `<div class="combo">
+    <input type="search" class="place-input" role="combobox" aria-autocomplete="list" aria-expanded="false"
+      aria-controls="${id}" autocomplete="off" spellcheck="false" placeholder="${esc(t('placeSearch'))}" value="${esc(place ? placeLabel(place) : '')}">
+    <ul class="combo-list" id="${id}" role="listbox" hidden></ul>
+  </div>`;
+}
+
+// Wires a place field. `onPick(place)` runs when the user chooses a result.
+function bindPlaceField(root, initial, onPick) {
+  const input = $('.place-input', root);
+  const list = $('.combo-list', root);
+  let results = [];
+  let active = -1;
+  let seq = 0;
+  let timer = null;
+  input.place = initial || null;
+  const close = () => { list.hidden = true; input.setAttribute('aria-expanded', 'false'); active = -1; };
+  const highlight = (i) => {
+    active = i;
+    list.querySelectorAll('[role=option]').forEach((li, j) => {
+      li.setAttribute('aria-selected', String(j === i));
+      if (j === i) { li.scrollIntoView({ block: 'nearest' }); input.setAttribute('aria-activedescendant', li.id); }
+    });
+  };
+  const pick = (i) => {
+    const pl = results[i];
+    if (!pl) return;
+    input.place = pl; input.value = placeLabel(pl); close();
+    onPick(pl);
+  };
+  const show = (html) => { list.innerHTML = html; list.hidden = false; input.setAttribute('aria-expanded', 'true'); };
+  const run = async () => {
+    const q = input.value.trim();
+    const my = ++seq;
+    if (q.length < 2) { close(); return; }
+    show(`<li class="hint">${t('searching')}</li>`);
+    try {
+      const r = await searchPlaces(q);
+      if (my !== seq) return;
+      results = r.results;
+      const opts = results.map((pl, i) => `<li role="option" id="${list.id}-${i}" data-i="${i}" aria-selected="false">
+        <b lang="${lang}">${esc(placeName(pl))}</b><span>${esc(placeDetail(pl))}</span></li>`).join('');
+      show(opts + (r.needMore ? `<li class="hint">${t('keepTyping')}</li>` : '')
+        + (!results.length && !r.needMore ? `<li class="hint">${t('noPlace')}</li>` : ''));
+      active = -1;
+    } catch {
+      if (my === seq) show(`<li class="hint">${t('placeOffline')}</li>`);
+    }
+  };
+  input.addEventListener('input', () => { input.place = null; clearTimeout(timer); timer = setTimeout(run, 150); });
+  input.addEventListener('focus', () => { if (input.value && !input.place) run(); });
+  input.addEventListener('keydown', (e) => {
+    const n = results.length;
+    if (e.key === 'ArrowDown' && n) { e.preventDefault(); if (list.hidden) run(); highlight((active + 1) % n); }
+    else if (e.key === 'ArrowUp' && n) { e.preventDefault(); highlight((active - 1 + n) % n); }
+    else if (e.key === 'Enter' && !list.hidden) { e.preventDefault(); pick(active >= 0 ? active : 0); }
+    else if (e.key === 'Escape') close();
+  });
+  list.addEventListener('mousedown', (e) => e.preventDefault()); // keep focus in the input
+  list.addEventListener('click', (e) => { const li = e.target.closest('[role=option]'); if (li) pick(Number(li.dataset.i)); });
+  input.addEventListener('blur', () => setTimeout(close, 100));
 }
 
 // ---------- astrologer notes (reference weekly predictions) ----------
@@ -81,8 +174,8 @@ function lagnaGrid(ws, current, hrefFor) {
 function viewHome() {
   const ws = weekStart();
   const mine = store.get('myLagna');
-  const city = CITIES[0];
-  const p = panchang(new Date(), city[1], city[2], city[3]);
+  const city = savedPanchangPlace();
+  const p = panchang(new Date(), city.lat, city.lon, city.tz);
   const mineCard = mine !== null ? (() => {
     const w = weeklyForLagna(mine, ws, lang);
     return `<section class="card"><div class="row spread"><h2>${t('myLagna')}: ${SIGN_GLYPHS[mine]} ${esc(SIGNS[lang][mine])}</h2>${stars(w.overallStars)}</div>
@@ -98,12 +191,12 @@ function viewHome() {
     </section>
     ${mineCard}
     <section class="card"><h2>${t('quickWeekly')}</h2>${lagnaGrid(ws, mine, (i) => `#/weekly/${i}`)}</section>
-    <section class="card"><div class="row spread"><h2>${t('panchangToday')}</h2><span class="muted small">${city[0]}</span></div>
+    <section class="card"><div class="row spread"><h2>${t('panchangToday')}</h2><span class="muted small">${esc(placeName(city))}</span></div>
       <dl class="kv">
         <div><dt>${t('vara')}</dt><dd>${WEEKDAYS[lang][p.weekday]}</dd></div>
         <div><dt>${t('tithi')}</dt><dd>${tithiName(p.tithi, lang)}</dd></div>
         <div><dt>${t('nakshatra')}</dt><dd>${NAKSHATRAS[lang][p.nakshatra]}</dd></div>
-        <div><dt>${t('rahuKaal')}</dt><dd>${p.rahuKaal ? `${fmtTime(p.rahuKaal.start, city[3])} – ${fmtTime(p.rahuKaal.end, city[3])}` : '—'}</dd></div>
+        <div><dt>${t('rahuKaal')}</dt><dd>${p.rahuKaal ? `${fmtTime(p.rahuKaal.start, city.tz)} – ${fmtTime(p.rahuKaal.end, city.tz)}` : '—'}</dd></div>
       </dl>
       <p style="margin-top:12px"><a href="#/panchang">${t('navPanchang')} →</a></p>
     </section>`;
@@ -158,15 +251,27 @@ async function viewWeekly(params) {
       </section>
     </div>
 
+    <section class="card"><h2>${t('dosDonts')}</h2><div class="grid grid-2 dd">
+      <div><h3 class="good">✓ ${t('doLabel')}</h3><ul class="clean">${w.dos.map((x) => `<li>${esc(x)}</li>`).join('')}</ul></div>
+      <div><h3 class="caution">✗ ${t('dontLabel')}</h3><ul class="clean">${w.donts.map((x) => `<li>${esc(x)}</li>`).join('')}</ul></div>
+    </div></section>
+
+    <section class="card"><h2>${t('moonTimeline')}</h2><ol class="timeline">${w.moonTimeline.map((m) => `
+      <li class="${m.kind}"><div class="when">${m.start ? moonWhen(m.start) : t('weekStartLabel')} → ${m.end ? moonWhen(m.end) : t('weekEndLabel')}</div>
+      <div><b>${t('moonHouse')} ${m.house}</b> · ${esc(SIGN_SHORT[lang][m.sign])}</div>
+      <p class="small">${esc(m.note)}</p></li>`).join('')}</ol>
+      <p class="small muted">IST</p></section>
+
     <section class="card"><h2>${t('dayByDay')}</h2><div class="days">${w.days.map((d) => `
       <div class="day ${d.kind}"><b>${WEEKDAYS_SHORT[lang][d.weekday]} ${fmtDay(d.date, { day: 'numeric' })}</b>
       <span class="small muted">${t('moonHouse')} ${d.house} · ${esc(SIGN_SHORT[lang][d.moonSign])}</span><br>
       <span class="badge ${d.kind}">${esc(d.note)}</span></div>`).join('')}</div></section>
 
     <section class="card"><h2>${t('transits')}</h2><div class="table-wrap"><table>
-      <thead><tr><th>${t('planet')}</th><th>${t('sign')}</th><th>${t('house')}</th><th></th></tr></thead>
+      <thead><tr><th>${t('planet')}</th><th>${t('sign')}</th><th>${t('house')}</th><th>${t('rules')}</th><th>${t('aspects')}</th><th></th></tr></thead>
       <tbody>${w.transits.map((tr) => `<tr><td>${P[tr.planet]}${tr.retro ? ` (${t('retro')})` : ''}</td>
         <td>${esc(SIGN_SHORT[lang][tr.sign])}</td><td>${tr.house}</td>
+        <td>${tr.rules.length ? tr.rules.join(', ') : '—'}</td><td>${tr.aspects.length ? tr.aspects.join(', ') : '—'}</td>
         <td class="${tr.good ? 'good' : 'caution'}">${tr.good ? t('good') : t('caution')}</td></tr>`).join('')}</tbody>
     </table></div></section>`;
 }
@@ -203,15 +308,17 @@ function northChart(chart) {
 }
 
 function viewKundli() {
-  const last = store.get('birth', { name: '', date: '1990-01-01', time: '06:00', city: 0, lat: '', lon: '', tz: 5.5 });
+  const last = loadBirth();
   return `<h1>${t('kundliTitle')}</h1>
     <form class="card" id="kundli-form">
       <div class="fields">
         <label>${t('name')}<input name="name" value="${esc(last.name)}" autocomplete="name"></label>
-        <label>${t('place')}<select name="city">${cityOptions(last.city)}</select></label>
         <label>${t('dob')}<input type="date" name="date" value="${esc(last.date)}" required></label>
         <label>${t('tob')}<input type="time" name="time" value="${esc(last.time)}" required></label>
-        <div class="span-2 fields" id="custom-loc" ${last.city === 'custom' ? '' : 'hidden'}>
+        <div class="span-2 place-wrap"><label for="kundli-place-input">${t('place')}</label>${placeField(last.place).replace('class="place-input"', 'class="place-input" id="kundli-place-input"')}
+          <label class="check"><input type="checkbox" name="manual" ${last.manual ? 'checked' : ''}> ${t('manualCoords')}</label>
+          <p class="small muted">${t('placeCredit')}</p></div>
+        <div class="span-2 fields" id="custom-loc" ${last.manual ? '' : 'hidden'}>
           <label>${t('lat')}<input type="number" step="any" name="lat" value="${esc(last.lat)}" placeholder="28.61"></label>
           <label>${t('lon')}<input type="number" step="any" name="lon" value="${esc(last.lon)}" placeholder="77.21"></label>
           <label>${t('tz')}<input type="number" step="0.25" name="tz" value="${esc(last.tz)}"></label>
@@ -225,7 +332,7 @@ function viewKundli() {
 function renderKundli(b) {
   const [y, m, d] = b.date.split('-').map(Number);
   const [hh, mm] = b.time.split(':').map(Number);
-  const loc = b.city === 'custom' ? [null, Number(b.lat), Number(b.lon), Number(b.tz)] : CITIES[b.city];
+  const loc = b.manual ? [null, Number(b.lat), Number(b.lon), Number(b.tz)] : [b.place.label, b.place.lat, b.place.lon, b.place.tz];
   const chart = birthChart({ date: localToDate(y, m, d, hh, mm, loc[3]), lat: loc[1], lon: loc[2] });
   const moon = chart.planets.find((p) => p.name === 'Moon');
   const sun = chart.planets.find((p) => p.name === 'Sun');
@@ -256,41 +363,55 @@ function renderKundli(b) {
     </div>`;
 }
 
+function loadBirth() {
+  const b = store.get('birth', null) || { name: '', date: '1990-01-01', time: '06:00', place: DELHI, manual: false, lat: '', lon: '', tz: 5.5 };
+  // Records saved with the old fixed city list
+  if (!b.place && !b.manual) {
+    if (b.city === 'custom') b.manual = true;
+    else b.place = legacyPlace(Number(b.city)) || DELHI;
+  }
+  return b;
+}
+
 function bindKundli() {
   const form = $('#kundli-form');
   const custom = $('#custom-loc');
-  form.city.onchange = () => { custom.hidden = form.city.value !== 'custom'; };
+  const last = loadBirth();
+  const input = $('.place-input', form);
+  bindPlaceField(form, last.place, () => {});
+  form.manual.onchange = () => { custom.hidden = !form.manual.checked; };
   const submit = () => {
     const b = {
       name: form.name.value.trim(), date: form.date.value, time: form.time.value,
-      city: form.city.value === 'custom' ? 'custom' : Number(form.city.value),
+      place: input.place, manual: form.manual.checked,
       lat: form.lat.value, lon: form.lon.value, tz: form.tz.value || 5.5,
     };
-    if (b.city === 'custom' && (b.lat === '' || b.lon === '')) { toast(`${t('lat')} / ${t('lon')}?`); return; }
+    if (b.manual && (b.lat === '' || b.lon === '')) { toast(`${t('lat')} / ${t('lon')}?`); return false; }
+    if (!b.manual && !b.place) { toast(t('pickPlace')); input.focus(); return false; }
     store.set('birth', b);
     $('#kundli-out').innerHTML = renderKundli(b);
     $('#kundli-save').onclick = (e) => { store.set('myLagna', Number(e.target.dataset.lagna)); e.target.textContent = `✓ ${t('saved')}`; };
+    return true;
   };
-  form.onsubmit = (e) => { e.preventDefault(); submit(); $('#kundli-out').scrollIntoView({ behavior: 'smooth' }); };
+  form.onsubmit = (e) => { e.preventDefault(); if (submit()) $('#kundli-out').scrollIntoView({ behavior: 'smooth' }); };
   if (store.get('birth')) submit();
 }
 
 function viewPanchang() {
-  const s = store.get('panchang', { city: 0 });
   const today = new Date(Date.now() + 5.5 * 3600000).toISOString().slice(0, 10);
   return `<h1>${t('panchangTitle')}</h1>
     <form class="card" id="pan-form"><div class="fields">
       <label>${t('date')}<input type="date" name="date" value="${today}"></label>
-      <label>${t('place')}<select name="city">${cityOptions(s.city).replace(/<option value="custom".*<\/option>/, '')}</select></label>
+      <div class="place-wrap"><label for="pan-place-input">${t('placeOnly')}</label>${placeField(savedPanchangPlace()).replace('class="place-input"', 'class="place-input" id="pan-place-input"')}</div>
     </div></form><div id="pan-out"></div>`;
 }
 
 function bindPanchang() {
   const form = $('#pan-form');
+  let place = savedPanchangPlace();
   const render = () => {
     const [y, m, d] = form.date.value.split('-').map(Number);
-    const c = CITIES[Number(form.city.value)];
-    store.set('panchang', { city: Number(form.city.value) });
+    const c = [placeName(place), place.lat, place.lon, place.tz];
     const sr = sunriseSunset(y, m, d, c[1], c[2], c[3]).sunrise || localToDate(y, m, d, 6, 0, c[3]);
     const p = panchang(sr, c[1], c[2], c[3]);
     const noon = julianDay(localToDate(y, m, d, 12, 0, c[3]));
@@ -309,7 +430,9 @@ function bindPanchang() {
         <div><dt>${t('sunIn')}</dt><dd>${esc(SIGN_SHORT[lang][signOf(siderealLongitude('Sun', noon))])}</dd></div>
       </dl></section>`;
   };
-  form.onchange = render;
+  form.date.onchange = render;
+  form.onsubmit = (e) => e.preventDefault();
+  bindPlaceField(form, place, (pl) => { place = pl; store.set('panchang', { place: pl }); render(); });
   render();
 }
 
